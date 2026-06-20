@@ -5,6 +5,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Daily publish AFTER the content jobs run, so bot-committed questions/current
+  # affairs go live (a token-pushed commit can't trigger deploy on its own).
+  schedule:
+    - cron: '0 5 * * *' # 10:30 IST daily
 
 permissions:
   contents: read
