@@ -1,0 +1,261 @@
+{
+  "exam": "pgt",
+  "updated": "2026-06-20",
+  "questions": [
+    {
+      "id": "pgt-edu-1781964388376-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who established the 'Satyabadi Vana Vidyalaya' in Odisha in 1909, which championed open-air education based on Gurukula principles?",
+      "options": [
+        "Madhusudan Das",
+        "Gopabandhu Das",
+        "Harekrushna Mahatab",
+        "Radhanath Rath"
+      ],
+      "answer": 1,
+      "explanation": "Pandit Gopabandhu Das established the Satyabadi Vana Vidyalaya at Sakshigopal, Puri in 1909 to provide holistic, open-air education on the pattern of the ancient Gurukula system."
+    },
+    {
+      "id": "pgt-edu-1781964388376-1",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Tolman's Sign Learning Theory, the mental representation of the spatial layout of an environment is known as a:",
+      "options": [
+        "Cognitive Map",
+        "Latent Learning",
+        "Place Learning",
+        "Equivalence Belief"
+      ],
+      "answer": 0,
+      "explanation": "Edward Tolman introduced the concept of a 'cognitive map', which is an internal mental representation of the layout of one's physical environment."
+    },
+    {
+      "id": "pgt-edu-1781964388376-2",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Guilford's Structure of Intellect (SI) model, which of the following is NOT classified under the 'Operations' dimension?",
+      "options": [
+        "Evaluation",
+        "Convergent Production",
+        "Relations",
+        "Memory Recording"
+      ],
+      "answer": 2,
+      "explanation": "In Guilford's SI model, 'Relations' is classified under the 'Products' dimension, whereas Evaluation, Convergent Production, and Memory Recording are part of the 'Operations' dimension."
+    },
+    {
+      "id": "pgt-edu-1781964388376-3",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Erik Erikson's stages of psychosocial development, what is the core conflict faced by adolescents (typically ages 12 to 18)?",
+      "options": [
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion",
+        "Intimacy vs. Isolation",
+        "Autonomy vs. Shame and Doubt"
+      ],
+      "answer": 1,
+      "explanation": "Adolescents face the psychosocial crisis of Identity vs. Role Confusion as they transition from childhood to adulthood and seek to establish a stable sense of self."
+    },
+    {
+      "id": "pgt-edu-1781964388376-4",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of evaluation is specifically designed to identify the underlying causes of persistent learning difficulties that do not respond to regular remedial instruction?",
+      "options": [
+        "Formative Evaluation",
+        "Placement Evaluation",
+        "Summative Evaluation",
+        "Diagnostic Evaluation"
+      ],
+      "answer": 3,
+      "explanation": "Diagnostic evaluation goes beyond formative evaluation to pinpoint the specific, underlying, and persistent causes of learning difficulties and to plan specialized remedial action."
+    },
+    {
+      "id": "pgt-edu-1781964388376-5",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The 'Heuristic Method' of teaching, which emphasizes learning through discovery and independent inquiry, was pioneered by which of the following educationalists?",
+      "options": [
+        "H. E. Armstrong",
+        "John Dewey",
+        "William Kilpatrick",
+        "Friedrich Froebel"
+      ],
+      "answer": 0,
+      "explanation": "Henry Edward Armstrong was the pioneer of the Heuristic Method of teaching, which places the student in the position of an independent discoverer."
+    },
+    {
+      "id": "pgt-edu-1781964388376-6",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, the number of specified disabilities was increased from 7 to:",
+      "options": [
+        "15",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act, 2016 replaced the PwD Act of 1995 and expanded the number of recognized disabilities from 7 to 21, ensuring wider coverage and inclusion."
+    },
+    {
+      "id": "pgt-edu-1781964388376-7",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What does the acronym 'SWAYAM' stand for in the context of India's digital education initiatives?",
+      "options": [
+        "Study Webs of Active-Learning for Young Aspiring Minds",
+        "Systematic Web of Active-Learning for Youth and Adults",
+        "Study Welfare Association for Youth and Adolescent Minds",
+        "State-Wide Action Plan for Young and Active Minds"
+      ],
+      "answer": 0,
+      "explanation": "SWAYAM is an Indian government initiative designed to achieve the three cardinal principles of Education Policy: access, equity, and quality. It stands for Study Webs of Active-Learning for Young Aspiring Minds."
+    },
+    {
+      "id": "pgt-edu-1781964388376-8",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In curriculum development, the 'CIPP Model' of evaluation was developed by Daniel Stufflebeam. What does the acronym 'CIPP' stand for?",
+      "options": [
+        "Concept, Input, Practice, Product",
+        "Context, Input, Process, Product",
+        "Content, Instruction, Pedagogy, Performance",
+        "Context, Implementation, Process, Performance"
+      ],
+      "answer": 1,
+      "explanation": "Stufflebeam's CIPP model stands for Context, Input, Process, and Product evaluation, which is a comprehensive framework for guiding formative and summative evaluations of programs and curricula."
+    },
+    {
+      "id": "pgt-edu-1781964388376-9",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which approach to counselling is also known as the 'Directive' or 'Counselor-centered' counselling, pioneered by E. G. Williamson?",
+      "options": [
+        "Non-Directive Counselling",
+        "Eclectic Counselling",
+        "Clinical Counselling",
+        "Humanistic Counselling"
+      ],
+      "answer": 2,
+      "explanation": "E. G. Williamson's directive counselling is also widely known as 'Clinical Counselling' or counselor-centered counselling because the counselor plays an active, directing role in analyzing and solving the client's problems."
+    },
+    {
+      "id": "pgt-edu-1781964388376-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "'Integral Education' is a philosophical framework of education conceptualized by which Indian thinker?",
+      "options": [
+        "Swami Vivekananda",
+        "Sri Aurobindo",
+        "Rabindranath Tagore",
+        "Jiddu Krishnamurti"
+      ],
+      "answer": 1,
+      "explanation": "Sri Aurobindo Ghose proposed the philosophy of Integral Education, which aims at the harmonious development of five aspects of the human personality: physical, vital, mental, psychic, and spiritual."
+    },
+    {
+      "id": "pgt-edu-1781964388376-11",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who proposed the 'Conditions of Learning', which classifies learning into eight hierarchical levels ranging from signal learning to problem-solving?",
+      "options": [
+        "Robert Gagné",
+        "David Ausubel",
+        "Jerome Bruner",
+        "Albert Bandura"
+      ],
+      "answer": 0,
+      "explanation": "Robert Gagné proposed the hierarchy of learning in his book 'The Conditions of Learning' (1965), which outlines eight distinct types of learning ranging from simple stimulus-response to complex problem-solving."
+    },
+    {
+      "id": "pgt-edu-1781964388376-12",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Lev Vygotsky, what is the term for the temporary support given by a more knowledgeable other (MKO) to a learner to help them master a task?",
+      "options": [
+        "Zone of Proximal Development",
+        "Scaffolding",
+        "Assimilation",
+        "Reciprocal Teaching"
+      ],
+      "answer": 1,
+      "explanation": "Scaffolding refers to the temporary assistance or support structure provided by an educator or peer to enable a student to perform a task they cannot yet manage independently."
+    },
+    {
+      "id": "pgt-edu-1781964388376-13",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "When a test measures what it claims to measure consistently across different administrations, but does not actually measure the intended construct, the test is said to be:",
+      "options": [
+        "Highly valid but not reliable",
+        "Highly reliable but not valid",
+        "Both valid and reliable",
+        "Neither reliable nor valid"
+      ],
+      "answer": 1,
+      "explanation": "Reliability refers to consistency of measurement. If a test consistently produces the same results, it is reliable, even if it is not measuring the correct construct (which means it lacks validity)."
+    },
+    {
+      "id": "pgt-edu-1781964388376-14",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The 'Spiral Curriculum' model, where key concepts are presented repeatedly throughout the curriculum with increasing depth and complexity, was proposed by:",
+      "options": [
+        "John Dewey",
+        "Hilda Taba",
+        "Jerome Bruner",
+        "Franklin Bobbitt"
+      ],
+      "answer": 2,
+      "explanation": "Jerome Bruner introduced the concept of the Spiral Curriculum, emphasizing that any subject can be taught effectively in some intellectually honest form to any child at any stage of development by revisiting topics progressively."
+    }
+  ]
+}

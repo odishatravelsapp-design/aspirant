@@ -103,6 +103,176 @@
       ],
       "answer": 0,
       "explanation": "NEFT stands for National Electronic Funds Transfer, a system for one-to-one funds transfer."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following is the minimum paid-up equity capital required for setting up a Small Finance Bank (SFB) in India, as per the revised RBI guidelines?",
+      "options": [
+        "Rs. 100 crore",
+        "Rs. 200 crore",
+        "Rs. 300 crore",
+        "Rs. 500 crore"
+      ],
+      "answer": 1,
+      "explanation": "As per the Reserve Bank of India guidelines, the minimum paid-up equity capital for Small Finance Banks (SFBs) has been increased from Rs. 100 crore to Rs. 200 crore to ensure their financial robustness."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-1",
+      "section": "General Awareness",
+      "topic": "Indian Economy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What percentage of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, is the Priority Sector Lending (PSL) target for Domestic Scheduled Commercial Banks in India?",
+      "options": [
+        "30%",
+        "40%",
+        "18%",
+        "25%"
+      ],
+      "answer": 1,
+      "explanation": "Domestic Scheduled Commercial Banks (excluding RRBs and SFBs) are mandated by the RBI to allocate 40% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, to the priority sector."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-2",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the revised annual premium payable by the subscriber under the Pradhan Mantri Suraksha Bima Yojana (PMSBY), effective from June 1, 2022?",
+      "options": [
+        "Rs. 12",
+        "Rs. 20",
+        "Rs. 330",
+        "Rs. 436"
+      ],
+      "answer": 1,
+      "explanation": "The annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY), an accident insurance scheme, was revised from Rs. 12 to Rs. 20 per annum with effect from June 1, 2022."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-3",
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Article of the Constitution of India mandates the presentation of the 'Annual Financial Statement' (commonly known as the Union Budget) in Parliament?",
+      "options": [
+        "Article 110",
+        "Article 112",
+        "Article 114",
+        "Article 265"
+      ],
+      "answer": 1,
+      "explanation": "According to Article 112 of the Indian Constitution, the President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India, referred to as the 'Annual Financial Statement'."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-4",
+      "section": "General Awareness",
+      "topic": "Indian History",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In which year did the Reserve Bank of India (RBI) commence its operations, and under which legislative Act was it established?",
+      "options": [
+        "1935, RBI Act 1934",
+        "1947, Banking Regulation Act 1949",
+        "1950, Constitution of India",
+        "1934, RBI Act 1935"
+      ],
+      "answer": 0,
+      "explanation": "The Reserve Bank of India was established on April 1, 1935, under the provisions of the Reserve Bank of India Act, 1934, following the recommendations of the Hilton Young Commission."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-5",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following Indian states shares its geographical border with the maximum number of other Indian states?",
+      "options": [
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Maharashtra",
+        "Assam"
+      ],
+      "answer": 1,
+      "explanation": "Uttar Pradesh shares its borders with the maximum number of states. It is bordered by 8 states (Uttarakhand, Himachal Pradesh, Haryana, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar) and 1 Union Territory (Delhi)."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-6",
+      "section": "General Awareness",
+      "topic": "General Science",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following vitamins is water-soluble and cannot be stored in the body for long periods?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "answer": 2,
+      "explanation": "Vitamins are classified as either fat-soluble (A, D, E, K) or water-soluble (B-complex vitamins and Vitamin C). Water-soluble vitamins dissolve in water and are readily excreted in urine, meaning they must be consumed regularly."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-7",
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The headquarters of the Asian Infrastructure Investment Bank (AIIB) is located in which of the following cities?",
+      "options": [
+        "Manila, Philippines",
+        "Shanghai, China",
+        "Beijing, China",
+        "Jakarta, Indonesia"
+      ],
+      "answer": 2,
+      "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank headquartered in Beijing, China, which initiated its operations in January 2016."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-8",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, what is the maximum limit of compensation the Ombudsman can award for any loss directly suffered by the complainant?",
+      "options": [
+        "Rs. 10 Lakhs",
+        "Rs. 20 Lakhs",
+        "Rs. 50 Lakhs",
+        "Rs. 1 Crore"
+      ],
+      "answer": 1,
+      "explanation": "Under the Integrated Ombudsman Scheme, 2021, the Ombudsman has the power to award compensation up to Rs. 20 lakhs for any consequential financial loss directly suffered by the complainant, and up to Rs. 1 lakh for mental agony and harassment."
+    },
+    {
+      "id": "sbi-clerk-gk-1781964406139-9",
+      "section": "General Awareness",
+      "topic": "Indian Economy",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following committees recommended the establishment of Regional Rural Banks (RRBs) in India to cater to rural credit needs?",
+      "options": [
+        "Narasimham Working Group",
+        "Shivaraman Committee",
+        "Urjit Patel Committee",
+        "Nachiket Mor Committee"
+      ],
+      "answer": 0,
+      "explanation": "The Narasimham Working Group (1975) recommended the establishment of Regional Rural Banks (RRBs) to bridge the credit gap in rural areas. Consequently, the first five RRBs were set up on October 2, 1975."
     }
   ]
 }
