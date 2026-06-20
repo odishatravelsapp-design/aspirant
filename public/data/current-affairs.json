@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-20",
+  "items": [
+    {
+      "id": "ca-1781946513638-0",
+      "category": "Banking",
+      "title": "RBI introduces Flexi KCC up to Rs 50,000 for Marginal Farmers",
+      "summary": "The Reserve Bank of India has introduced a Flexi Kisan Credit Card (KCC) scheme with a limit of up to Rs 50,000 specifically tailored for marginal farmers through Rural Cooperative Banks (RCBs).",
+      "source": "Indian Cooperative"
+    },
+    {
+      "id": "ca-1781946513638-1",
+      "category": "National",
+      "title": "Centre bans 16 Fixed Dose Combinations over safety concerns",
+      "summary": "The Union Government has banned 16 Fixed Dose Combinations (FDCs) of medicines across India due to safety concerns and lack of therapeutic justification.",
+      "source": "ETPharma.com"
+    },
+    {
+      "id": "ca-1781946513638-2",
+      "category": "International",
+      "title": "State of emergency declared in Bolivia after 50 days of protests",
+      "summary": "Bolivia has declared a nationwide state of emergency following 50 days of continuous civil protests and escalating political crisis.",
+      "source": "The Times of India"
+    },
+    {
+      "id": "ca-1781946513638-3",
+      "category": "Banking",
+      "title": "RBI introduces new consumer protection rules to curb mis-selling",
+      "summary": "The Reserve Bank of India has rolled out stringent consumer protection guidelines for banks and NBFCs to prevent the mis-selling of financial products.",
+      "source": "Fortune India"
+    },
+    {
+      "id": "ca-1781946513638-4",
+      "category": "Banking",
+      "title": "Indian banks seek RBI nod to use GIFT City units for dollar deposits",
+      "summary": "Commercial banks in India have approached the RBI for approval to utilize their offshore branches in Gujarat's GIFT City to offer a new dollar deposit scheme.",
+      "source": "Moneycontrol.com"
+    },
+    {
+      "id": "ca-1781946513638-5",
+      "category": "Odisha",
+      "title": "PM Modi and President Murmu to launch projects worth Rs 47,600 crore",
+      "summary": "President Droupadi Murmu and Prime Minister Narendra Modi will launch key development projects worth Rs 47,600 crore in Odisha's Mayurbhanj district.",
+      "source": "Newsonair"
+    },
+    {
+      "id": "ca-1781946513638-6",
+      "category": "Science",
+      "title": "15-million-year-old marine fossils discovered in Baripada",
+      "summary": "Geological researchers have discovered marine fossils estimated to be 15 million years old in the Baripada region of Odisha.",
+      "source": "DD News"
+    },
+    {
+      "id": "ca-1781946513638-7",
+      "category": "Banking",
+      "title": "RBI focuses on FCNR(B) route to revive NRI deposit growth",
+      "summary": "A Bank of Baroda report indicates that the RBI is aiming to boost NRI deposit growth through Foreign Currency Non-Resident (Bank) accounts, even as NRO accounts grow the fastest.",
+      "source": "ANI News"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "ca-q-1781946513638-0",
+      "section": "Current Affairs",
+      "topic": "Banking",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the maximum limit of the newly introduced Flexi Kisan Credit Card (KCC) for marginal farmers by Rural Cooperative Banks?",
+      "options": [
+        "Rs 25,000",
+        "Rs 50,000",
+        "Rs 1,00,000",
+        "Rs 1,50,000"
+      ],
+      "answer": 1,
+      "explanation": "The Reserve Bank of India (RBI) has introduced a Flexi KCC scheme with a limit of up to Rs 50,000 specifically for marginal farmers."
+    },
+    {
+      "id": "ca-q-1781946513638-1",
+      "section": "Current Affairs",
+      "topic": "National",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "How many Fixed Dose Combinations (FDCs) did the Central Government recently ban over safety concerns?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "The Union Government has banned 16 Fixed Dose Combinations (FDCs) due to safety concerns."
+    },
+    {
+      "id": "ca-q-1781946513638-2",
+      "section": "Current Affairs",
+      "topic": "International",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which country recently declared a state of emergency following 50 days of continuous protests?",
+      "options": [
+        "Ecuador",
+        "Bolivia",
+        "Venezuela",
+        "Peru"
+      ],
+      "answer": 1,
+      "explanation": "Bolivia declared a state of emergency after experiencing 50 days of continuous civil protests."
+    },
+    {
+      "id": "ca-q-1781946513638-3",
+      "section": "Current Affairs",
+      "topic": "Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "President Droupadi Murmu and PM Narendra Modi are scheduled to launch development projects worth Rs 47,600 crore in which district of Odisha?",
+      "options": [
+        "Mayurbhanj",
+        "Balasore",
+        "Cuttack",
+        "Ganjam"
+      ],
+      "answer": 0,
+      "explanation": "The development projects worth Rs 47,600 crore are scheduled to be launched in the Mayurbhanj district of Odisha."
+    },
+    {
+      "id": "ca-q-1781946513638-4",
+      "section": "Current Affairs",
+      "topic": "Science",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Marine fossils estimated to be how many million years old were recently discovered in Baripada, Odisha?",
+      "options": [
+        "5 million years",
+        "10 million years",
+        "15 million years",
+        "25 million years"
+      ],
+      "answer": 2,
+      "explanation": "Researchers discovered 15-million-year-old marine fossils in the Baripada region of Odisha."
+    }
+  ]
+}

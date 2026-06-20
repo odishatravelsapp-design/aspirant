@@ -1,0 +1,108 @@
+{
+  "exam": "ibps-po",
+  "updated": "2026-06-20",
+  "questions": [
+    {
+      "id": "ibpspo-q-0001",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "A shopkeeper buys an article for Rs. 400 and sells it for Rs. 500. Find the profit percentage.",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "answer": 1,
+      "explanation": "Profit = 500 - 400 = 100. Profit % = (100 / 400) × 100 = 25%."
+    },
+    {
+      "id": "ibpspo-q-0002",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "year": 2022,
+      "source": "pyq",
+      "question": "A can do a work in 10 days and B in 15 days. Working together, in how many days will they finish it?",
+      "options": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "answer": 1,
+      "explanation": "Combined one-day work = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. So they finish in 6 days."
+    },
+    {
+      "id": "ibpspo-q-0003",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "Statements: All cats are dogs. All dogs are animals. Which conclusion follows? 'All cats are animals.'",
+      "options": [
+        "Follows",
+        "Does not follow",
+        "Cannot be determined",
+        "Partially follows"
+      ],
+      "answer": 0,
+      "explanation": "Since all cats are dogs and all dogs are animals, all cats must be animals. The conclusion follows."
+    },
+    {
+      "id": "ibpspo-q-0004",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "easy",
+      "year": 2022,
+      "source": "pyq",
+      "question": "If A > B and B > C, which of the following is definitely true?",
+      "options": [
+        "A > C",
+        "C > A",
+        "A = C",
+        "Cannot be determined"
+      ],
+      "answer": 0,
+      "explanation": "If A > B and B > C, then by transitivity A > C."
+    },
+    {
+      "id": "ibpspo-q-0005",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "Spot the error: 'He (A)/ don't (B)/ like coffee (C)/ No error (D)'",
+      "options": [
+        "He",
+        "don't",
+        "like coffee",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "With the singular subject 'He', the correct form is 'doesn't', not 'don't'."
+    },
+    {
+      "id": "ibpspo-q-0006",
+      "section": "General Awareness",
+      "topic": "Economy",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "The repo rate in India is decided by which institution?",
+      "options": [
+        "SEBI",
+        "RBI",
+        "Finance Ministry",
+        "NABARD"
+      ],
+      "answer": 1,
+      "explanation": "The repo rate is decided by the Reserve Bank of India (RBI) through its Monetary Policy Committee."
+    }
+  ]
+}

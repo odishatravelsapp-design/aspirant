@@ -1,0 +1,108 @@
+{
+  "exam": "sbi-clerk",
+  "updated": "2026-06-20",
+  "questions": [
+    {
+      "id": "sbic-q-0001",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "year": 2023,
+      "source": "pyq",
+      "question": "Solve: 12 × 8 ÷ 4 + 6",
+      "options": [
+        "24",
+        "30",
+        "36",
+        "28"
+      ],
+      "answer": 1,
+      "explanation": "Using BODMAS: 12 × 8 = 96, 96 ÷ 4 = 24, 24 + 6 = 30."
+    },
+    {
+      "id": "sbic-q-0002",
+      "section": "Quant",
+      "topic": "Percentage",
+      "difficulty": "easy",
+      "year": 2022,
+      "source": "pyq",
+      "question": "What is 40% of 350?",
+      "options": [
+        "120",
+        "140",
+        "150",
+        "160"
+      ],
+      "answer": 1,
+      "explanation": "40% of 350 = 0.40 × 350 = 140."
+    },
+    {
+      "id": "sbic-q-0003",
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "Pointing to a photo, Reena said, 'He is the son of my mother's only son.' How is the boy related to Reena?",
+      "options": [
+        "Son",
+        "Brother",
+        "Nephew",
+        "Cousin"
+      ],
+      "answer": 2,
+      "explanation": "Reena's mother's only son is Reena's brother. His son is Reena's nephew."
+    },
+    {
+      "id": "sbic-q-0004",
+      "section": "Reasoning",
+      "topic": "Series",
+      "difficulty": "easy",
+      "year": 2022,
+      "source": "pyq",
+      "question": "Find the missing number: 3, 6, 11, 18, 27, ?",
+      "options": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "answer": 1,
+      "explanation": "The differences are 3, 5, 7, 9, 11. So 27 + 11 = 38."
+    },
+    {
+      "id": "sbic-q-0005",
+      "section": "English",
+      "topic": "Antonyms",
+      "difficulty": "easy",
+      "year": 2023,
+      "source": "pyq",
+      "question": "Choose the antonym of 'ANCIENT'.",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Past"
+      ],
+      "answer": 1,
+      "explanation": "'Ancient' means very old; its antonym is 'modern'."
+    },
+    {
+      "id": "sbic-q-0006",
+      "section": "General Awareness",
+      "topic": "Banking",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "What does NEFT stand for?",
+      "options": [
+        "National Electronic Funds Transfer",
+        "New Electronic Fund Transfer",
+        "National Easy Funds Transfer",
+        "Net Electronic Funds Transfer"
+      ],
+      "answer": 0,
+      "explanation": "NEFT stands for National Electronic Funds Transfer, a system for one-to-one funds transfer."
+    }
+  ]
+}

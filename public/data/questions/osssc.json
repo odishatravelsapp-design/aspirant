@@ -1,0 +1,151 @@
+{
+  "exam": "osssc",
+  "updated": "2026-06-20",
+  "questions": [
+    {
+      "id": "osssc-q-0001",
+      "section": "Arithmetic",
+      "topic": "Percentage",
+      "difficulty": "easy",
+      "year": 2021,
+      "source": "pyq",
+      "question": "A man spends 75% of his income and saves Rs. 1500. What is his income?",
+      "options": [
+        "Rs. 4500",
+        "Rs. 6000",
+        "Rs. 5000",
+        "Rs. 7500"
+      ],
+      "answer": 1,
+      "explanation": "He saves 25% of income = 1500. So income = 1500 / 0.25 = Rs. 6000.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି ତାଙ୍କ ଆୟର 75% ଖର୍ଚ୍ଚ କରନ୍ତି ଏବଂ 1500 ଟଙ୍କା ସଞ୍ଚୟ କରନ୍ତି। ତାଙ୍କ ଆୟ କେତେ?",
+          "options": [
+            "4500 ଟଙ୍କା",
+            "6000 ଟଙ୍କା",
+            "5000 ଟଙ୍କା",
+            "7500 ଟଙ୍କା"
+          ],
+          "explanation": "ସେ ଆୟର 25% ସଞ୍ଚୟ କରନ୍ତି = 1500। ତେଣୁ ଆୟ = 1500 / 0.25 = 6000 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-q-0002",
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "difficulty": "easy",
+      "year": 2022,
+      "source": "pyq",
+      "question": "Doctor is to Hospital as Teacher is to ?",
+      "options": [
+        "Student",
+        "Book",
+        "School",
+        "Exam"
+      ],
+      "answer": 2,
+      "explanation": "A doctor works in a hospital; similarly a teacher works in a school.",
+      "translations": {
+        "or": {
+          "question": "ଡାକ୍ତର : ଡାକ୍ତରଖାନା :: ଶିକ୍ଷକ : ?",
+          "options": [
+            "ଛାତ୍ର",
+            "ବହି",
+            "ବିଦ୍ୟାଳୟ",
+            "ପରୀକ୍ଷା"
+          ],
+          "explanation": "ଡାକ୍ତର ଡାକ୍ତରଖାନାରେ କାମ କରନ୍ତି; ସେହିପରି ଶିକ୍ଷକ ବିଦ୍ୟାଳୟରେ କାମ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-q-0003",
+      "section": "Odisha GK",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "year": 2021,
+      "source": "pyq",
+      "question": "Which is the longest river of Odisha?",
+      "options": [
+        "Brahmani",
+        "Baitarani",
+        "Mahanadi",
+        "Subarnarekha"
+      ],
+      "answer": 2,
+      "explanation": "The Mahanadi is the longest river flowing through Odisha.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ସବୁଠାରୁ ଲମ୍ବା ନଦୀ କେଉଁଟି?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ",
+            "ବୈତରଣୀ",
+            "ମହାନଦୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ମହାନଦୀ ଓଡ଼ିଶା ଦେଇ ବହୁଥିବା ସବୁଠାରୁ ଲମ୍ବା ନଦୀ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-q-0004",
+      "section": "Odisha GK",
+      "topic": "History",
+      "difficulty": "medium",
+      "year": 2022,
+      "source": "pyq",
+      "question": "The Sun Temple of Konark was built by which ruler?",
+      "options": [
+        "Narasimhadeva I",
+        "Anantavarman",
+        "Kapilendra Deva",
+        "Mukunda Deva"
+      ],
+      "answer": 0,
+      "explanation": "The Konark Sun Temple was built by King Narasimhadeva I of the Eastern Ganga dynasty in the 13th century.",
+      "translations": {
+        "or": {
+          "question": "କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର କେଉଁ ରାଜାଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ପ୍ରଥମ ନରସିଂହଦେବ",
+            "ଅନନ୍ତବର୍ମନ",
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ମୁକୁନ୍ଦ ଦେବ"
+          ],
+          "explanation": "କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର 13ଶ ଶତାବ୍ଦୀରେ ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ରାଜା ପ୍ରଥମ ନରସିଂହଦେବଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-q-0005",
+      "section": "General Knowledge",
+      "topic": "Indian Polity",
+      "difficulty": "easy",
+      "year": 2021,
+      "source": "pyq",
+      "question": "How many fundamental rights are guaranteed by the Indian Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "There are 6 fundamental rights in the Indian Constitution after the Right to Property was removed.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନ ଦ୍ୱାରା କେତୋଟି ମୌଳିକ ଅଧିକାର ନିଶ୍ଚିତ କରାଯାଇଛି?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "explanation": "ସମ୍ପତ୍ତିର ଅଧିକାର ହଟାଇ ଦିଆଯିବା ପରେ ଭାରତୀୟ ସମ୍ବିଧାନରେ 6ଟି ମୌଳିକ ଅଧିକାର ରହିଛି।"
+        }
+      }
+    }
+  ]
+}

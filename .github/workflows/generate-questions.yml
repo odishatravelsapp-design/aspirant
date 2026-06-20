@@ -1,0 +1,37 @@
+name: Generate fresh questions (AI)
+
+# Runs daily on a free GitHub-hosted runner: generates + self-verifies new
+# questions with the Gemini free tier and commits them. The commit to main then
+# triggers deploy.yml automatically. No server, no cost.
+on:
+  schedule:
+    - cron: '30 0 * * *' # 06:00 IST daily (00:30 UTC)
+  workflow_dispatch: # also runnable manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate questions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          QUESTIONS_PER_TOPIC: '2'
+        run: node scripts/generate-questions.mjs
+      - name: Commit new questions
+        run: |
+          git config user.name "aspirant-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/data/questions
+          if git diff --staged --quiet; then
+            echo "No new questions today."
+          else
+            git commit -m "chore: daily AI question top-up [skip ci]"
+            git push
+          fi

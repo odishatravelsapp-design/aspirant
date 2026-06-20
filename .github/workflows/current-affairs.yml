@@ -1,0 +1,35 @@
+name: Daily current affairs
+
+# Pulls real headlines + builds the daily current-affairs digest and quiz with
+# the Gemini free tier, then commits. The commit to main triggers deploy.yml.
+on:
+  schedule:
+    - cron: '0 1 * * *' # 06:30 IST daily (01:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  current-affairs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate current affairs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-current-affairs.mjs
+      - name: Commit digest
+        run: |
+          git config user.name "aspirant-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/data/current-affairs.json
+          if git diff --staged --quiet; then
+            echo "No change today."
+          else
+            git commit -m "chore: daily current affairs [skip ci]"
+            git push
+          fi

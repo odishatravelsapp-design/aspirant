@@ -1,0 +1,73 @@
+{
+  "appName": "Aspirant",
+  "tagline": "Free exam prep for every student",
+  "version": "0.1.0",
+  "defaultLanguage": "en",
+  "languages": ["en", "or"],
+  "report": {
+    "whatsapp": "",
+    "email": "vipinkus24@gmail.com"
+  },
+  "exams": [
+    {
+      "id": "ibps-clerk",
+      "name": "IBPS Clerk",
+      "category": "Banking",
+      "enabled": true,
+      "icon": "🏦",
+      "color": "#2563eb",
+      "sections": ["Quant", "Reasoning", "English", "General Awareness"],
+      "languages": ["en"]
+    },
+    {
+      "id": "sbi-clerk",
+      "name": "SBI Clerk",
+      "category": "Banking",
+      "enabled": true,
+      "icon": "🏦",
+      "color": "#7c3aed",
+      "sections": ["Quant", "Reasoning", "English", "General Awareness"],
+      "languages": ["en"]
+    },
+    {
+      "id": "ibps-po",
+      "name": "IBPS PO",
+      "category": "Banking",
+      "enabled": true,
+      "icon": "🏦",
+      "color": "#0891b2",
+      "sections": ["Quant", "Reasoning", "English", "General Awareness"],
+      "languages": ["en"]
+    },
+    {
+      "id": "osssc",
+      "name": "OSSSC RI/ARI",
+      "category": "Odisha State",
+      "enabled": true,
+      "icon": "🏛️",
+      "color": "#16a34a",
+      "sections": ["Arithmetic", "Reasoning", "General Knowledge", "Odisha GK"],
+      "languages": ["en", "or"]
+    },
+    {
+      "id": "opsc-oas",
+      "name": "OPSC OAS",
+      "category": "Odisha State",
+      "enabled": false,
+      "icon": "🏛️",
+      "color": "#ca8a04",
+      "sections": ["General Studies", "Odisha GK", "Current Affairs"],
+      "languages": ["en", "or"]
+    },
+    {
+      "id": "chse",
+      "name": "CHSE +2",
+      "category": "Odisha State",
+      "enabled": false,
+      "icon": "📚",
+      "color": "#dc2626",
+      "sections": ["Science", "Commerce", "Arts"],
+      "languages": ["en", "or"]
+    }
+  ]
+}

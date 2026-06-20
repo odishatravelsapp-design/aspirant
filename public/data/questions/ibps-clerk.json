@@ -1,0 +1,108 @@
+{
+  "exam": "ibps-clerk",
+  "updated": "2026-06-20",
+  "questions": [
+    {
+      "id": "ibpsc-q-0001",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "year": 2023,
+      "source": "pyq",
+      "question": "What is the value of 15% of 240 + 25% of 160?",
+      "options": [
+        "66",
+        "76",
+        "72",
+        "80"
+      ],
+      "answer": 1,
+      "explanation": "15% of 240 = 36, and 25% of 160 = 40. So 36 + 40 = 76."
+    },
+    {
+      "id": "ibpsc-q-0002",
+      "section": "Quant",
+      "topic": "Average",
+      "difficulty": "easy",
+      "year": 2022,
+      "source": "pyq",
+      "question": "The average of 5 consecutive even numbers is 16. What is the largest number?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "Average of consecutive even numbers is the middle term, so the numbers are 12, 14, 16, 18, 20. The largest is 20."
+    },
+    {
+      "id": "ibpsc-q-0003",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
+      "options": [
+        "EPH",
+        "EPI",
+        "CPH",
+        "DPH"
+      ],
+      "answer": 0,
+      "explanation": "Each letter is shifted forward by 1: D->E, O->P, G->H. So DOG becomes EPH."
+    },
+    {
+      "id": "ibpsc-q-0004",
+      "section": "Reasoning",
+      "topic": "Series",
+      "difficulty": "easy",
+      "year": 2022,
+      "source": "pyq",
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "36",
+        "44"
+      ],
+      "answer": 1,
+      "explanation": "The differences are 4, 6, 8, 10, 12. So 30 + 12 = 42."
+    },
+    {
+      "id": "ibpsc-q-0005",
+      "section": "English",
+      "topic": "Synonyms",
+      "difficulty": "easy",
+      "year": 2023,
+      "source": "pyq",
+      "question": "Choose the word most similar in meaning to 'ABUNDANT'.",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Empty",
+        "Rare"
+      ],
+      "answer": 1,
+      "explanation": "'Abundant' means existing in large quantities, i.e. 'plentiful'."
+    },
+    {
+      "id": "ibpsc-q-0006",
+      "section": "General Awareness",
+      "topic": "Banking",
+      "difficulty": "medium",
+      "year": 2023,
+      "source": "pyq",
+      "question": "What does the 'R' in RBI stand for?",
+      "options": [
+        "Rural",
+        "Reserve",
+        "Regional",
+        "Revenue"
+      ],
+      "answer": 1,
+      "explanation": "RBI stands for Reserve Bank of India, the central bank of the country."
+    }
+  ]
+}
