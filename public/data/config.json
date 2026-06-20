@@ -82,12 +82,22 @@
     },
     {
       "id": "odisha-ssb",
-      "name": "Odisha SSB (Lecturer/PGT)",
+      "name": "Odisha SSB (Lecturer)",
       "category": "Teaching",
-      "enabled": false,
+      "enabled": true,
       "icon": "👩‍🏫",
       "color": "#9333ea",
       "sections": ["Subject Knowledge", "Teaching Aptitude", "General Studies", "Odisha GK"],
+      "languages": ["en", "or"]
+    },
+    {
+      "id": "pgt",
+      "name": "PGT (Post Graduate Teacher)",
+      "category": "Teaching",
+      "enabled": true,
+      "icon": "📘",
+      "color": "#c026d3",
+      "sections": ["Teaching Aptitude", "Subject Knowledge", "Child Development", "General Studies"],
       "languages": ["en", "or"]
     },
     {

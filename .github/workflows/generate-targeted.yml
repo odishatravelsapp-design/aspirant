@@ -1,0 +1,36 @@
+name: Targeted daily questions (education + IBPS GK)
+
+# Every day: ~15 education questions for Odisha SSB / PGT + ~10 IBPS-style GK.
+on:
+  schedule:
+    - cron: '15 1 * * *' # 06:45 IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  targeted:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate targeted questions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EDU_COUNT: '15'
+          GK_COUNT: '10'
+        run: node scripts/generate-targeted.mjs
+      - name: Commit
+        run: |
+          git config user.name "aspirant-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/data/questions
+          if git diff --staged --quiet; then
+            echo "No new questions."
+          else
+            git commit -m "chore: daily education + IBPS GK questions"
+            git push
+          fi
