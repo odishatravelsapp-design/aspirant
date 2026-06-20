@@ -101,6 +101,16 @@
       "languages": ["en", "or"]
     },
     {
+      "id": "tgt",
+      "name": "TGT (Trained Graduate Teacher)",
+      "category": "Teaching",
+      "enabled": true,
+      "icon": "📗",
+      "color": "#0ea5e9",
+      "sections": ["Teaching Aptitude", "Subject Knowledge", "Child Development", "General Studies"],
+      "languages": ["en", "or"]
+    },
+    {
       "id": "odisha-police",
       "name": "Odisha Police",
       "category": "Odisha State",

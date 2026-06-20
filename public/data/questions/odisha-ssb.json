@@ -511,6 +511,261 @@
       ],
       "answer": 1,
       "explanation": "Learner-centered curriculum designs prioritize the individual learner's developmental needs, interests, experiences, and active engagement over rigid subject boundaries."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following Indian thinkers advocated for the 'Wardha Scheme of Basic Education' (Nai Talim) in 1937?",
+      "options": [
+        "Rabindranath Tagore",
+        "Mahatma Gandhi",
+        "Swami Vivekananda",
+        "Sri Aurobindo"
+      ],
+      "answer": 1,
+      "explanation": "Mahatma Gandhi proposed the Wardha Scheme of Basic Education (Nai Talim) in 1937, which emphasized craft-centric education, mother tongue medium, and free compulsory education."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-1",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Edward Tolman's Sign Learning theory, what does the concept of 'latent learning' refer to?",
+      "options": [
+        "Learning that occurs immediately with reinforcement",
+        "Learning that remains hidden or unexpressed until an incentive is provided",
+        "Learning that happens through classical conditioning of emotional responses",
+        "Learning by observing and imitating the actions of a model"
+      ],
+      "answer": 1,
+      "explanation": "Latent learning is a form of learning that is not immediately expressed in an overt response; it occurs without any obvious reinforcement, but becomes apparent when an incentive is introduced."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-2",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following defense mechanisms involves attributing one's own unacceptable thoughts, feelings, or motives to another person?",
+      "options": [
+        "Rationalization",
+        "Projection",
+        "Regression",
+        "Sublimation"
+      ],
+      "answer": 1,
+      "explanation": "Projection is a psychological defense mechanism where individuals attribute their own unacceptable thoughts, feelings, or impulses to another person."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-3",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Jean Piaget's theory of cognitive development, during which stage does a child typically master the concept of 'conservation'?",
+      "options": [
+        "Sensorimotor Stage",
+        "Pre-operational Stage",
+        "Concrete Operational Stage",
+        "Formal Operational Stage"
+      ],
+      "answer": 2,
+      "explanation": "Children typically master conservation (understanding that quantity does not change even when physical appearance changes) during the Concrete Operational Stage (approx. 7 to 11 years)."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-4",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of evaluation is specifically designed to identify the chronic and persistent learning difficulties of students during the instructional process?",
+      "options": [
+        "Formative Evaluation",
+        "Summative Evaluation",
+        "Diagnostic Evaluation",
+        "Placement Evaluation"
+      ],
+      "answer": 2,
+      "explanation": "While formative evaluation monitors ongoing progress, diagnostic evaluation goes deeper to pinpoint specific, persistent learning difficulties and their underlying causes."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-5",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, the number of specified disabilities was increased from 7 to how many?",
+      "options": [
+        "14",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act, 2016 replaced the PwD Act of 1995, increasing the number of recognized, specified disabilities from 7 to 21."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-6",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is considered the originator of the 'Heuristic Method' of teaching?",
+      "options": [
+        "H. E. Armstrong",
+        "John Dewey",
+        "William Heard Kilpatrick",
+        "Friedrich Froebel"
+      ],
+      "answer": 0,
+      "explanation": "Professor Henry Edward Armstrong is credited with originating the Heuristic Method of teaching, which places the student in the position of an independent discoverer."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-7",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the context of curriculum design, which model is characterized by a 'grassroots approach' where teachers initiate the curriculum development process rather than administrators?",
+      "options": [
+        "Tyler's Rationale Model",
+        "Taba's Inductive Model",
+        "Saylor and Alexander Model",
+        "Wheeler's Cyclic Model"
+      ],
+      "answer": 1,
+      "explanation": "Hilda Taba believed that curriculum should be designed by teachers (bottom-up/grassroots) rather than handed down by higher authorities (top-down). Her Inductive Model consists of 7 steps starting from diagnosing needs."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-8",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What does the acronym 'SWAYAM', an initiative by the Ministry of Education, Government of India, stand for?",
+      "options": [
+        "Study Webs of Active-Learning for Young Aspiring Minds",
+        "Systematic Web of Active-Learning for Young Academic Minds",
+        "Student Web of Active-Learning for Youth Advancement and Motivation",
+        "Study Webs of Advanced-Learning for Young Aspiring Minds"
+      ],
+      "answer": 0,
+      "explanation": "SWAYAM stands for 'Study Webs of Active-Learning for Young Aspiring Minds'. It is designed to achieve the three cardinal principles of Education Policy: access, equity, and quality."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-9",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which approach to counselling, primarily associated with Carl Rogers, emphasizes the client's self-actualizing tendency and requires the counsellor to show unconditional positive regard?",
+      "options": [
+        "Directive Counselling",
+        "Non-Directive Counselling",
+        "Eclectic Counselling",
+        "Behavioral Counselling"
+      ],
+      "answer": 1,
+      "explanation": "Carl Rogers founded Client-Centered or Non-Directive Counselling, which focuses on the client's capacity for self-direction, requiring the therapist to provide empathy, congruence, and unconditional positive regard."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "The educational philosophy of 'Naturalism' strongly rejects which of the following practices in education?",
+      "options": [
+        "Learning by doing",
+        "Sensory training",
+        "Rigid textbook-based classroom instruction",
+        "Co-education"
+      ],
+      "answer": 2,
+      "explanation": "Naturalism (championed by thinkers like Rousseau) advocates for freedom, learning from nature, and direct experiences, strongly opposing artificial, rigid, textbook-centric classroom instruction."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-11",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Lev Vygotsky, the gap between what a child can do independently and what they can do with assistance is known as:",
+      "options": [
+        "Scaffolding",
+        "Zone of Proximal Development",
+        "Cognitive Equilibrium",
+        "Schema Adaptation"
+      ],
+      "answer": 1,
+      "explanation": "The Zone of Proximal Development (ZPD) is Vygotsky's term for the range of tasks that are too difficult for a child to master alone but can be learned with guidance and assistance."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-12",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In B.F. Skinner's Operant Conditioning, which schedule of reinforcement yields the highest and most consistent rate of response with the greatest resistance to extinction?",
+      "options": [
+        "Fixed-Interval Schedule",
+        "Variable-Interval Schedule",
+        "Fixed-Ratio Schedule",
+        "Variable-Ratio Schedule"
+      ],
+      "answer": 3,
+      "explanation": "A variable-ratio schedule (like a slot machine) produces a high, steady rate of responding with maximum resistance to extinction because the reinforcement is unpredictable and based on the number of responses."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-13",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of curriculum refers to the unwritten, unofficial, and often unintended lessons, values, and perspectives that students learn in school?",
+      "options": [
+        "Explicit Curriculum",
+        "Hidden Curriculum",
+        "Null Curriculum",
+        "Core Curriculum"
+      ],
+      "answer": 1,
+      "explanation": "The hidden curriculum consists of the informal, unwritten, and implicit lessons, values, and behaviors that students learn in school environments outside the formal syllabus."
+    },
+    {
+      "id": "odisha-ssb-edu-1781966754027-14",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "When a test measures what it claims or intends to measure, it is said to possess high:",
+      "options": [
+        "Reliability",
+        "Validity",
+        "Objectivity",
+        "Usability"
+      ],
+      "answer": 1,
+      "explanation": "Validity is the degree to which an assessment tool measures what it is designed to measure. Reliability refers to consistency, whereas validity refers to truthfulness/accuracy."
     }
   ]
 }

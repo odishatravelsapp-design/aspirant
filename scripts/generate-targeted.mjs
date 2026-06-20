@@ -39,7 +39,7 @@ const GK_TOPICS = [
   'Indian History', 'Geography', 'General Science', 'Government Schemes',
 ]
 
-const EDU_EXAMS = (process.env.EDU_EXAMS || 'odisha-ssb,pgt').split(',')
+const EDU_EXAMS = (process.env.EDU_EXAMS || 'odisha-ssb,pgt,tgt').split(',')
 const GK_EXAMS = (process.env.GK_EXAMS || 'ibps-clerk,sbi-clerk,ibps-po').split(',')
 
 let lastRequest = 0
