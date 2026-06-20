@@ -256,6 +256,261 @@
       ],
       "answer": 2,
       "explanation": "Jerome Bruner introduced the concept of the Spiral Curriculum, emphasizing that any subject can be taught effectively in some intellectually honest form to any child at any stage of development by revisiting topics progressively."
+    },
+    {
+      "id": "pgt-edu-1781965842412-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following Indian thinkers advocated the 'Wardha Scheme of Basic Education' (Nai Talim) in 1937?",
+      "options": [
+        "Rabindranath Tagore",
+        "Mahatma Gandhi",
+        "Swami Vivekananda",
+        "Sri Aurobindo"
+      ],
+      "answer": 1,
+      "explanation": "Mahatma Gandhi proposed the Wardha Scheme of Basic Education (Nai Talim) in 1937, emphasizing craft-centric, mother-tongue-based, and free compulsory education."
+    },
+    {
+      "id": "pgt-edu-1781965842412-1",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Tolman's Sign Learning theory, what does the term 'Latent Learning' refer to?",
+      "options": [
+        "Learning that is immediately demonstrated through behavioral changes",
+        "Learning that occurs without any obvious reinforcement but is demonstrated when reinforcement is provided",
+        "Learning that happens only through classical conditioning",
+        "Learning that is completely forgotten over a period of time"
+      ],
+      "answer": 1,
+      "explanation": "Edward Tolman's latent learning refers to learning that remains hidden or unexpressed until there is an incentive or reinforcement to demonstrate it."
+    },
+    {
+      "id": "pgt-edu-1781965842412-2",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is widely considered the father of Educational Psychology?",
+      "options": [
+        "Edward Lee Thorndike",
+        "Wilhelm Wundt",
+        "Jean Piaget",
+        "B.F. Skinner"
+      ],
+      "answer": 0,
+      "explanation": "Edward Lee Thorndike is widely regarded as the father of modern educational psychology due to his seminal work on learning theories and laws of learning (Effect, Readiness, Exercise)."
+    },
+    {
+      "id": "pgt-edu-1781965842412-3",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Jean Piaget's stages of cognitive development, at which stage does a child develop 'Conservation' of mass, volume, and number?",
+      "options": [
+        "Sensorimotor Stage",
+        "Pre-operational Stage",
+        "Concrete Operational Stage",
+        "Formal Operational Stage"
+      ],
+      "answer": 2,
+      "explanation": "Conservation is the understanding that something stays the same in quantity even though its appearance changes. This is typically achieved during the Concrete Operational Stage (7 to 11 years)."
+    },
+    {
+      "id": "pgt-edu-1781965842412-4",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of evaluation is specifically designed to identify the underlying causes of persistent learning difficulties that do not respond to ordinary remedial instruction?",
+      "options": [
+        "Placement Evaluation",
+        "Formative Evaluation",
+        "Diagnostic Evaluation",
+        "Summative Evaluation"
+      ],
+      "answer": 2,
+      "explanation": "Diagnostic evaluation goes beyond formative evaluation by identifying the specific, deep-seated causes of learning difficulties to plan specialized, targeted remedial action."
+    },
+    {
+      "id": "pgt-edu-1781965842412-5",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The 'CIPP' model of curriculum evaluation, developed by Daniel Stufflebeam, stands for which of the following?",
+      "options": [
+        "Content, Input, Process, Product",
+        "Context, Input, Process, Product",
+        "Context, Instruction, Planning, Performance",
+        "Concept, Input, Practice, Progress"
+      ],
+      "answer": 1,
+      "explanation": "The CIPP Model stands for Context, Input, Process, and Product evaluation. It is a decision-oriented model for evaluating programs and curricula."
+    },
+    {
+      "id": "pgt-edu-1781965842412-6",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive Education",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, the number of specified disabilities has been increased from 7 to how many?",
+      "options": [
+        "15",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act, 2016 replaced the Persons with Disabilities Act, 1995, and increased the number of recognized disabilities from 7 to 21, expanding the scope of inclusive benefits."
+    },
+    {
+      "id": "pgt-edu-1781965842412-7",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the primary purpose of the 'SWAYAM' platform launched by the Government of India?",
+      "options": [
+        "To provide financial assistance to rural students",
+        "To offer Massive Open Online Courses (MOOCs) for access, equity, and quality",
+        "To manage school infrastructure data",
+        "To train teachers in physical education"
+      ],
+      "answer": 1,
+      "explanation": "SWAYAM (Study Webs of Active-Learning for Young Aspiring Minds) is an Indian government initiative designed to achieve the three cardinal principles of Education Policy: access, equity, and quality, by offering online courses (MOOCs)."
+    },
+    {
+      "id": "pgt-edu-1781965842412-8",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which approach to counselling is highly associated with Carl Rogers, where the client is believed to have the inherent capacity for self-growth and self-direction?",
+      "options": [
+        "Directive Counselling",
+        "Non-Directive (Client-Centred) Counselling",
+        "Eclectic Counselling",
+        "Rational Emotive Behaviour Therapy"
+      ],
+      "answer": 1,
+      "explanation": "Carl Rogers founded Client-Centred (Non-Directive) Counselling, which emphasizes the client's agency, empathy, unconditional positive regard, and congruence."
+    },
+    {
+      "id": "pgt-edu-1781965842412-9",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who introduced the 'Heuristic Method' of teaching, which encourages the student to discover things for themselves?",
+      "options": [
+        "H. E. Armstrong",
+        "John Dewey",
+        "William Heard Kilpatrick",
+        "Friedrich Froebel"
+      ],
+      "answer": 0,
+      "explanation": "Henry Edward Armstrong formulated the Heuristic Method of teaching, where the learner is placed in the position of an independent discoverer or investigator."
+    },
+    {
+      "id": "pgt-edu-1781965842412-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Sri Aurobindo's system of Integral Education, which of the following is considered the 'instrument of the education of the mind' consisting of four layers: Chitta, Manas, Buddhi, and Intuition?",
+      "options": [
+        "Antahkarana",
+        "Atman",
+        "Prana",
+        "Sushumna"
+      ],
+      "answer": 0,
+      "explanation": "Sri Aurobindo's Integral Education philosophy identifies the 'Antahkarana' (the inner instrument) as having four layers: Chitta (active memory), Manas (sensory mind), Buddhi (intellect), and Intuition (direct spiritual perception)."
+    },
+    {
+      "id": "pgt-edu-1781965842412-11",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Pavlov's classical conditioning experiments, what does the 'salivation to the sound of the bell alone' represent?",
+      "options": [
+        "Unconditioned Stimulus (UCS)",
+        "Unconditioned Response (UCR)",
+        "Conditioned Stimulus (CS)",
+        "Conditioned Response (CR)"
+      ],
+      "answer": 3,
+      "explanation": "Salivation in response to the bell alone (after conditioning) is the Conditioned Response (CR), while the bell itself acts as the Conditioned Stimulus (CS)."
+    },
+    {
+      "id": "pgt-edu-1781965842412-12",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following is the correct hierarchical order of Gagne's Conditions of Learning, from the simplest to the most complex?",
+      "options": [
+        "Signal learning, Stimulus-Response learning, Chaining, Verbal association, Discrimination learning, Concept learning, Rule learning, Problem solving",
+        "Stimulus-Response learning, Signal learning, Chaining, Verbal association, Concept learning, Discrimination learning, Rule learning, Problem solving",
+        "Signal learning, Chaining, Stimulus-Response learning, Verbal association, Concept learning, Rule learning, Discrimination learning, Problem solving",
+        "Problem solving, Rule learning, Concept learning, Discrimination learning, Verbal association, Chaining, Stimulus-Response learning, Signal learning"
+      ],
+      "answer": 0,
+      "explanation": "Robert Gagne's hierarchy consists of 8 levels: 1) Signal learning, 2) Stimulus-Response learning, 3) Chaining, 4) Verbal association, 5) Multiple discrimination, 6) Concept learning, 7) Principle/Rule learning, and 8) Problem solving."
+    },
+    {
+      "id": "pgt-edu-1781965842412-13",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who proposed the 'Structure of Intellect' (SI) model of intelligence, which organizes intellectual abilities along three dimensions: Operations, Contents, and Products?",
+      "options": [
+        "Charles Spearman",
+        "Howard Gardner",
+        "J. P. Guilford",
+        "Louis Thurstone"
+      ],
+      "answer": 2,
+      "explanation": "J. P. Guilford proposed the Structure of Intellect (SI) theory, which classifies intellectual abilities into distinct factors across three dimensions: Operations, Contents, and Products."
+    },
+    {
+      "id": "pgt-edu-1781965842412-14",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of curriculum design focuses primarily on the interests, needs, and experiences of the learner rather than structured subject matter?",
+      "options": [
+        "Subject-centered design",
+        "Learner-centered design",
+        "Problem-centered design",
+        "Core curriculum design"
+      ],
+      "answer": 1,
+      "explanation": "Learner-centered curriculum designs prioritize the individual learner's developmental needs, interests, experiences, and active engagement over rigid subject boundaries."
     }
   ]
 }
