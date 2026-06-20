@@ -115,6 +115,8 @@ A question carries optional `translations: { or: { question, options, explanatio
 
 Aspirant grows its bank from **four legal, $0 streams** — see [`scripts/sources/README.md`](scripts/sources/README.md). The most important for *real* past-year questions is **community contribution**, because IBPS/SBI don't publish PYQs and the "memory-based" versions on coaching sites are copyrighted (we don't scrape them).
 
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full contributor guide + Google Form field spec.
+
 ### Community PYQ import (the moat)
 Students/volunteers submit remembered questions via a **Google Form**; its responses Sheet is **Published to web → CSV** (a free, stable URL). A daily job imports them as `pending` for approval.
 

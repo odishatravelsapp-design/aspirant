@@ -48,9 +48,32 @@ function parseCSV(text) {
   return rows
 }
 
+// Map friendly Google-Form question titles to our canonical column keys, so the
+// form can use natural labels (e.g. "Correct answer", "Option A", "Your name").
+const HEADER_ALIASES = {
+  'exam': 'exam', 'exam id': 'exam', 'exam code': 'exam',
+  'section': 'section', 'topic': 'topic',
+  'difficulty': 'difficulty', 'level': 'difficulty',
+  'year': 'year',
+  'question': 'question', 'question text': 'question', 'q': 'question',
+  'option a': 'optiona', 'a': 'optiona',
+  'option b': 'optionb', 'b': 'optionb',
+  'option c': 'optionc', 'c': 'optionc',
+  'option d': 'optiond', 'd': 'optiond',
+  'answer': 'answer', 'correct answer': 'answer', 'correct option': 'answer', 'ans': 'answer',
+  'explanation': 'explanation', 'explain': 'explanation', 'solution': 'explanation',
+  'language': 'language', 'lang': 'language',
+  'contributor': 'contributor', 'name': 'contributor', 'your name': 'contributor', 'submitted by': 'contributor',
+}
+
+function normalizeHeader(h) {
+  const key = h.trim().toLowerCase().replace(/[_\s]+/g, ' ').trim()
+  return HEADER_ALIASES[key] ?? key.replace(/\s+/g, '') // fallback: "optionA" -> "optiona"
+}
+
 function toObjects(rows) {
   if (rows.length < 2) return []
-  const headers = rows[0].map((h) => h.trim().toLowerCase())
+  const headers = rows[0].map(normalizeHeader)
   return rows.slice(1)
     .filter((r) => r.some((c) => c.trim() !== ''))
     .map((r) => Object.fromEntries(headers.map((h, i) => [h, (r[i] ?? '').trim()])))
