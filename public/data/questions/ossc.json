@@ -1,0 +1,25 @@
+{
+  "exam": "ossc",
+  "updated": "2026-06-20",
+  "questions": [
+    {
+      "id": "ossc-comm-1781957521390-1781957521390-0",
+      "section": "Odisha GK",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "community",
+      "status": "pending",
+      "question": "Which district of Odisha has the largest area?",
+      "options": [
+        "Mayurbhanj",
+        "Koraput",
+        "Kalahandi",
+        "Ganjam"
+      ],
+      "answer": 1,
+      "explanation": "Koraput is the largest district of Odisha by area.",
+      "year": 2023,
+      "attribution": "Contributed by Anonymous"
+    }
+  ]
+}

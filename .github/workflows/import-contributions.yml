@@ -1,0 +1,40 @@
+name: Import community questions
+
+# Pulls volunteer/student-contributed questions from a published Google Sheet
+# (CSV) and commits them as pending for approval. This is the $0 way to grow a
+# real past-year-question bank — community memory, not scraping.
+#
+# Setup: create a Google Form -> its responses Sheet -> File -> Share -> Publish
+# to web -> CSV. Put that URL in repo Variables as CONTRIB_CSV_URL.
+on:
+  schedule:
+    - cron: '0 4 * * *' # 09:30 IST daily (04:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    if: ${{ vars.CONTRIB_CSV_URL != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Import contributions
+        env:
+          CONTRIB_CSV_URL: ${{ vars.CONTRIB_CSV_URL }}
+        run: node scripts/import-contributions.mjs
+      - name: Commit contributions
+        run: |
+          git config user.name "aspirant-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/data/questions
+          if git diff --staged --quiet; then
+            echo "No new contributions."
+          else
+            git commit -m "chore: import community questions [skip ci]"
+            git push
+          fi

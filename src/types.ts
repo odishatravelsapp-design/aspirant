@@ -30,7 +30,7 @@ export interface AppConfig {
 }
 
 export type Difficulty = 'easy' | 'medium' | 'hard'
-export type QuestionSource = 'pyq' | 'ai' | 'web' | 'predicted'
+export type QuestionSource = 'pyq' | 'ai' | 'web' | 'predicted' | 'community'
 
 // A translated copy of a question's text (the answer index is language-agnostic).
 export interface QuestionL10n {

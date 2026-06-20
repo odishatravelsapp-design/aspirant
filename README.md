@@ -111,6 +111,24 @@ The **UI** is always multilingual, but **question content** is only shown/transl
 
 A question carries optional `translations: { or: { question, options, explanation } }`; the app falls back to English when a translation is absent. The AI generators only translate into an exam's declared non-English languages.
 
+## Where questions come from (and the IBPS/SBI reality)
+
+Aspirant grows its bank from **four legal, $0 streams** — see [`scripts/sources/README.md`](scripts/sources/README.md). The most important for *real* past-year questions is **community contribution**, because IBPS/SBI don't publish PYQs and the "memory-based" versions on coaching sites are copyrighted (we don't scrape them).
+
+### Community PYQ import (the moat)
+Students/volunteers submit remembered questions via a **Google Form**; its responses Sheet is **Published to web → CSV** (a free, stable URL). A daily job imports them as `pending` for approval.
+
+```bash
+# Local test:
+node scripts/import-contributions.mjs ./data/contributions.example.csv
+# Production (set repo Variable CONTRIB_CSV_URL to the published-CSV link):
+CONTRIB_CSV_URL="https://docs.google.com/.../pub?output=csv" node scripts/import-contributions.mjs
+```
+CSV columns: `exam, section, topic, difficulty, year, question, optionA-D, answer (A-D or 0-3), explanation, language, contributor`. Runs via [`import-contributions.yml`](.github/workflows/import-contributions.yml). This works for **any exam** — PGT, Odisha SSB, Odisha Police, OSSC, IBPS, SBI — because the content is contributor-supplied, not scraped.
+
+### Official sources (SSC / PSCs / PSUs / Coal India)
+Bodies that publish papers openly can be ingested with an **adapter** — copy [`scripts/sources/template.mjs`](scripts/sources/template.mjs), point it at the official URL, tune the parser. Output is `pending` until approved.
+
 ## Ingesting questions from external sources
 
 `scripts/ingest-questions.mjs` pulls extra MCQs from **Open Trivia DB** (free, CC-BY-SA, no key) into each exam's General Awareness section, from **academic categories** (Geography, History, Politics, Science, Computers, Maths) — rotated daily, de-duplicated, with attribution stored on each question. Runs via [`ingest-questions.yml`](.github/workflows/ingest-questions.yml).

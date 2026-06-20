@@ -103,6 +103,25 @@
       ],
       "answer": 1,
       "explanation": "RBI stands for Reserve Bank of India, the central bank of the country."
+    },
+    {
+      "id": "ibps-clerk-comm-1781957521390-1781957521390-0",
+      "section": "General Awareness",
+      "topic": "Banking",
+      "difficulty": "easy",
+      "source": "community",
+      "status": "pending",
+      "question": "What is the full form of CRR in banking?",
+      "options": [
+        "Cash Reserve Ratio",
+        "Credit Reserve Ratio",
+        "Current Reserve Ratio",
+        "Central Reserve Ratio"
+      ],
+      "answer": 0,
+      "explanation": "CRR is the Cash Reserve Ratio — the share of deposits banks must keep with the RBI.",
+      "year": 2024,
+      "attribution": "Contributed by Anonymous"
     }
   ]
 }

@@ -68,6 +68,36 @@
       "color": "#dc2626",
       "sections": ["Science", "Commerce", "Arts"],
       "languages": ["en", "or"]
+    },
+    {
+      "id": "ossc",
+      "name": "OSSC",
+      "category": "Odisha State",
+      "enabled": false,
+      "icon": "🏛️",
+      "color": "#0d9488",
+      "sections": ["Arithmetic", "Reasoning", "General Knowledge", "Odisha GK", "English"],
+      "languages": ["en", "or"]
+    },
+    {
+      "id": "odisha-ssb",
+      "name": "Odisha SSB (Lecturer/PGT)",
+      "category": "Teaching",
+      "enabled": false,
+      "icon": "👩‍🏫",
+      "color": "#9333ea",
+      "sections": ["Subject Knowledge", "Teaching Aptitude", "General Studies", "Odisha GK"],
+      "languages": ["en", "or"]
+    },
+    {
+      "id": "odisha-police",
+      "name": "Odisha Police",
+      "category": "Odisha State",
+      "enabled": false,
+      "icon": "👮",
+      "color": "#1d4ed8",
+      "sections": ["Arithmetic", "Reasoning", "General Knowledge", "Science", "Odisha GK"],
+      "languages": ["en", "or"]
     }
   ]
 }
