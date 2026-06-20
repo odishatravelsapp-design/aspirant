@@ -9,7 +9,7 @@ import type {
   CurrentAffairsDay,
   ReviewItem,
 } from './types'
-import { loadConfig, loadQuestionBank, loadCurrentAffairs, shuffle } from './lib/data'
+import { loadConfig, loadQuestionBank, loadCurrentAffairs, shuffle, setAutoApprove } from './lib/data'
 import {
   saveAttempt,
   makeId,
@@ -85,11 +85,13 @@ export default function App() {
   const [lastAttempt, setLastAttempt] = useState<Attempt | null>(null)
 
   useEffect(() => {
-    Promise.all([loadConfig(), loadCurrentAffairs()])
-      .then(([c, ca]) => {
-        setConfig(c)
+    // Load config first so the auto-approve switch is set before content loads.
+    loadConfig()
+      .then(async (c) => {
+        setAutoApprove(c.autoApprove ?? false)
         setReportConfig(c.report)
-        setCaDay(ca)
+        setConfig(c)
+        setCaDay(await loadCurrentAffairs())
         setView('home')
       })
       .catch(() => setError('Could not load app data.'))

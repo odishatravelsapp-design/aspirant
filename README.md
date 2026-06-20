@@ -150,12 +150,16 @@ A weekly job, [`generate-predicted.yml`](.github/workflows/generate-predicted.ym
 
 > This gets sharper as real PYQs accumulate — the more past papers in the bank, the more reliable the weightage and predictions.
 
-## Human approval of AI/web questions
+## Autonomous mode vs. manual approval (one switch)
 
-To protect credibility, **factual** AI/ingested questions (General Awareness, current affairs, etc.) are written with `"status": "pending"` and are **hidden from students** until approved. Rule-based content (Quant/Reasoning/English) auto-approves.
+`config.json` has a master switch, `"autoApprove"`:
+
+- **`true` (default) — fully autonomous.** Generated/community questions publish instantly; the daily jobs commit and auto-deploy. **Zero maintenance.** Trade-off: an occasional wrong AI fact can appear (mitigated by AI self-verification + the in-app Report button).
+- **`false` — manual gate.** Factual AI/community questions are written `"status": "pending"` and stay **hidden from students** until you approve them. Higher quality/trust, ~5 min/day. Rule-based content (Quant/Reasoning/English) still auto-approves.
+
+Flip it any time — it's just one line. In manual mode, approve like this:
 
 ```bash
-# After eyeballing newly generated content (e.g. via git diff):
 node scripts/approve-questions.mjs            # approve all pending
 node scripts/approve-questions.mjs ibps-clerk # approve one bank
 ```

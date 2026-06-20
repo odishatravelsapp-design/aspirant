@@ -9,8 +9,16 @@ export async function loadConfig(): Promise<AppConfig> {
   return res.json()
 }
 
-// Hide questions still pending human approval (AI/web factual content).
-const isVisible = (q: { status?: string }) => q.status !== 'pending'
+// Master switch (config.autoApprove). When true the app is fully autonomous:
+// generated/community questions show instantly. When false, pending questions
+// stay hidden until a human approves them. App sets this after loading config.
+let autoApprove = true
+export function setAutoApprove(flag: boolean): void {
+  autoApprove = flag
+}
+
+// Hide questions still pending approval — unless we're in autonomous mode.
+const isVisible = (q: { status?: string }) => autoApprove || q.status !== 'pending'
 
 export async function loadQuestionBank(examId: string): Promise<QuestionBank> {
   const res = await fetch(`${BASE}data/questions/${examId}.json`)

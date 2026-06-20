@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "defaultLanguage": "en",
   "languages": ["en", "or"],
+  "autoApprove": true,
   "report": {
     "whatsapp": "",
     "email": "vipinkus24@gmail.com"

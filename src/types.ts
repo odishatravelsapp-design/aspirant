@@ -26,6 +26,9 @@ export interface AppConfig {
   defaultLanguage: string
   languages: string[]
   report?: ReportConfig
+  // true = fully autonomous: generated/community questions publish instantly.
+  // false = manual gate: factual questions stay hidden until approved.
+  autoApprove?: boolean
   exams: Exam[]
 }
 
