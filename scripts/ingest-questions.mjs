@@ -67,7 +67,7 @@ async function fetchOpenTriviaDB(examId, section, amount, catIndex) {
       id: `${examId}-web-${stamp}-${i}`,
       section,
       topic: cat.topic,
-      difficulty: ['easy', 'medium', 'hard'].includes(r.difficulty) ? r.difficulty : 'medium',
+      difficulty: ['easy', 'medium', 'hard', 'expert'].includes(r.difficulty) ? r.difficulty : 'medium',
       source: 'web',
       status: 'pending', // external factual content — review before it goes live
       attribution: 'Open Trivia DB (CC BY-SA 4.0)',

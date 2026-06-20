@@ -32,7 +32,7 @@ export interface AppConfig {
   exams: Exam[]
 }
 
-export type Difficulty = 'easy' | 'medium' | 'hard'
+export type Difficulty = 'easy' | 'medium' | 'hard' | 'expert'
 export type QuestionSource = 'pyq' | 'ai' | 'web' | 'predicted' | 'community'
 
 // A translated copy of a question's text (the answer index is language-agnostic).

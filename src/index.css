@@ -262,6 +262,19 @@ body {
 /* Insights / predicted */
 .prob-tag { font-size: 0.78rem; font-weight: 600; }
 
+/* Difficulty badge */
+.q-head { margin-bottom: 8px; }
+.diff-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 2px 8px;
+  border: 1.5px solid;
+  border-radius: 999px;
+}
+
 /* Full-mock controls + question palette */
 .mock-controls { display: flex; gap: 8px; margin-top: 12px; }
 .mock-controls .btn { margin-top: 0; padding: 12px 8px; font-size: 0.9rem; }

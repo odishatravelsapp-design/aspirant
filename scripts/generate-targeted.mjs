@@ -54,10 +54,10 @@ function buildPrompt(examName, count, topics, kind) {
 Generate ${count} multiple-choice ${kind} questions that are LIKELY to appear, spread across these topics:
 ${topics.map((t) => `- ${t}`).join('\n')}
 
-Rules: exam-appropriate difficulty; exactly 4 options; only well-established, verifiable facts; RE-SOLVE each and set "verified" true only if fully confident.
+Rules: mix difficulties — include easy, medium, hard, and at least one "expert" (very difficult) question; exactly 4 options; only well-established, verifiable facts; RE-SOLVE each and set "verified" true only if fully confident.
 
 Return ONLY valid JSON (no markdown): an array of
-{ "topic": "one of the topics above", "difficulty": "easy|medium|hard", "question": "...", "options": ["A","B","C","D"], "answer": 0, "explanation": "...", "verified": true }`
+{ "topic": "one of the topics above", "difficulty": "easy|medium|hard|expert", "question": "...", "options": ["A","B","C","D"], "answer": 0, "explanation": "...", "verified": true }`
 }
 
 async function callGemini(prompt) {
@@ -103,7 +103,7 @@ function sanitize(raw, examId, section, tag) {
       id: `${examId}-${tag}-${stamp}-${i}`,
       section,
       topic: String(q.topic || section),
-      difficulty: ['easy', 'medium', 'hard'].includes(q.difficulty) ? q.difficulty : 'medium',
+      difficulty: ['easy', 'medium', 'hard', 'expert'].includes(q.difficulty) ? q.difficulty : 'medium',
       source: 'ai',
       status: 'pending', // factual — shown instantly only when config.autoApprove is true
       question: q.question.trim(),

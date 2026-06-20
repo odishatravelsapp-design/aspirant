@@ -133,6 +133,15 @@ test('insights: topic weightage + predicted practice reaches results', async ({ 
   await expect(page.getByText('Topic-wise analysis')).toBeVisible()
 })
 
+test('difficulty picker is present and a difficulty badge shows in the quiz', async ({ page }) => {
+  await page.getByText('IBPS Clerk').click()
+  await expect(page.getByText('Difficulty')).toBeVisible()
+  await expect(page.getByRole('button', { name: /^Expert$/ })).toBeVisible()
+  await page.getByRole('button', { name: /Practice/ }).click()
+  await page.getByRole('button', { name: /Start Practice/ }).click()
+  await expect(page.locator('.diff-badge').first()).toBeVisible()
+})
+
 test('about/legal screen shows the disclaimer', async ({ page }) => {
   await page.locator('.footer-link').click()
   await expect(page.getByText('Disclaimer')).toBeVisible()

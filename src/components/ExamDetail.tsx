@@ -1,13 +1,15 @@
 import { useMemo, useState } from 'react'
-import type { Exam, QuestionBank } from '../types'
+import type { Exam, QuestionBank, Difficulty } from '../types'
 import { getAttemptsForExam, topicStats, weakTopics as computeWeakTopics } from '../lib/storage'
 import { useT } from '../i18n/LanguageContext'
+
+const DIFFICULTIES: Difficulty[] = ['easy', 'medium', 'hard', 'expert']
 
 interface Props {
   exam: Exam
   bank: QuestionBank
   dueReviewCount: number
-  onStart: (mode: 'mock' | 'practice' | 'fullmock', section: string | null) => void
+  onStart: (mode: 'mock' | 'practice' | 'fullmock', section: string | null, difficulty: Difficulty | null) => void
   onViewHistory: () => void
   onViewInsights: () => void
   onPracticeWeak: () => void
@@ -27,6 +29,7 @@ export function ExamDetail({
   const { t } = useT()
   const [mode, setMode] = useState<'mock' | 'practice' | 'fullmock'>('mock')
   const [section, setSection] = useState<string | null>(null)
+  const [difficulty, setDifficulty] = useState<Difficulty | null>(null)
 
   const attempts = useMemo(() => getAttemptsForExam(exam.id), [exam.id])
   const weakTopics = useMemo(() => topicStats(attempts).slice(0, 3), [attempts])
@@ -36,9 +39,9 @@ export function ExamDetail({
     return weak.size > 0 && bank.questions.some((q) => weak.has(q.topic))
   }, [attempts, bank])
 
-  const available = section
-    ? bank.questions.filter((q) => q.section === section).length
-    : bank.questions.length
+  const available = bank.questions.filter(
+    (q) => (!section || q.section === section) && (!difficulty || q.difficulty === difficulty),
+  ).length
 
   return (
     <div className="screen">
@@ -79,11 +82,23 @@ export function ExamDetail({
         ))}
       </div>
 
+      <div className="section-title">{t('exam.difficulty')}</div>
+      <div className="chip-row">
+        <button className={`chip ${difficulty === null ? 'active' : ''}`} onClick={() => setDifficulty(null)}>
+          {t('diff.all')}
+        </button>
+        {DIFFICULTIES.map((d) => (
+          <button key={d} className={`chip ${difficulty === d ? 'active' : ''}`} onClick={() => setDifficulty(d)}>
+            {t(`diff.${d}`)}
+          </button>
+        ))}
+      </div>
+
       <p className="muted" style={{ marginTop: 12 }}>
         {t('exam.available', { n: available })}
       </p>
 
-      <button className="btn" disabled={available === 0} onClick={() => onStart(mode, section)}>
+      <button className="btn" disabled={available === 0} onClick={() => onStart(mode, section, difficulty)}>
         {mode === 'mock' ? t('exam.startMock') : mode === 'fullmock' ? t('exam.startFullmock') : t('exam.startPractice')}
       </button>
 

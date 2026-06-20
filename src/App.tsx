@@ -8,6 +8,7 @@ import type {
   Attempt,
   CurrentAffairsDay,
   ReviewItem,
+  Difficulty,
 } from './types'
 import { loadConfig, loadQuestionBank, loadCurrentAffairs, shuffle, setAutoApprove } from './lib/data'
 import {
@@ -58,6 +59,7 @@ type QuizMode = 'mock' | 'practice' | 'fullmock'
 interface QuizParams {
   mode: QuizMode
   section: string | null
+  difficulty: Difficulty | null
 }
 interface QuizContext {
   examId: string
@@ -123,9 +125,11 @@ export default function App() {
 
   function startExamQuiz(params: QuizParams) {
     if (!bank || !exam) return
-    const pool = params.section
-      ? bank.questions.filter((q) => q.section === params.section)
-      : bank.questions
+    const pool = bank.questions.filter(
+      (q) =>
+        (!params.section || q.section === params.section) &&
+        (!params.difficulty || q.difficulty === params.difficulty),
+    )
     const count = Math.min(QUESTION_COUNT[params.mode], pool.length)
     const picked = shuffle(pool).slice(0, count)
     const timed = params.mode === 'mock' || params.mode === 'fullmock'
@@ -147,7 +151,7 @@ export default function App() {
     const picked = shuffle(pool).slice(0, QUESTION_COUNT.practice)
     startQuiz(
       picked,
-      { mode: 'practice', section: null },
+      { mode: 'practice', section: null, difficulty: null },
       { examId: exam.id, examName: exam.name, negativeMark: 0 },
       'exam',
     )
@@ -159,7 +163,7 @@ export default function App() {
     const picked = predictedQuestions(bank.questions, QUESTION_COUNT.practice)
     startQuiz(
       picked,
-      { mode: 'practice', section: null },
+      { mode: 'practice', section: null, difficulty: null },
       { examId: exam.id, examName: exam.name, negativeMark: 0 },
       'insights',
     )
@@ -169,7 +173,7 @@ export default function App() {
     if (!caDay || caDay.quiz.length === 0) return
     startQuiz(
       shuffle(caDay.quiz),
-      { mode: 'practice', section: null },
+      { mode: 'practice', section: null, difficulty: null },
       { examId: 'current-affairs', examName: t('ca.title'), negativeMark: 0 },
       'currentAffairs',
     )
@@ -181,7 +185,7 @@ export default function App() {
     const picked = shuffle(items.map((r) => r.question)).slice(0, QUESTION_COUNT.mock)
     startQuiz(
       picked,
-      { mode: 'practice', section: null },
+      { mode: 'practice', section: null, difficulty: null },
       { examId: 'revision', examName: t('review.title'), negativeMark: 0 },
       returnTo,
     )
@@ -301,7 +305,7 @@ export default function App() {
           exam={exam}
           bank={bank}
           dueReviewCount={dueReviewsForExam(exam.id).length}
-          onStart={(mode, section) => startExamQuiz({ mode, section })}
+          onStart={(mode, section, difficulty) => startExamQuiz({ mode, section, difficulty })}
           onViewHistory={() => setView('history')}
           onViewInsights={() => setView('insights')}
           onPracticeWeak={startWeakPractice}

@@ -71,7 +71,7 @@ function buildPrompt(examName, section, count, extraLangs) {
 Generate ${count} multiple-choice questions for the section "${section}".
 
 Rules:
-- Exam-appropriate difficulty and style.
+- Mix difficulties across the set: include easy, medium, hard, and at least one "expert" (very difficult) question, all exam-appropriate.
 - Exactly 4 options each.
 - For factual questions, only use well-established, verifiable facts.
 - After writing each question, RE-SOLVE it yourself and set "verified" to true ONLY if you are fully confident the marked answer is correct.${translateBlock}
@@ -80,7 +80,7 @@ Return ONLY valid JSON (no markdown), an array of objects with this exact shape:
 [
   {
     "topic": "short topic name",
-    "difficulty": "easy | medium | hard",
+    "difficulty": "easy | medium | hard | expert",
     "question": "the question text",
     "options": ["A", "B", "C", "D"],
     "answer": 0,
@@ -174,7 +174,7 @@ function sanitize(raw, examId, section, extraLangs) {
         id: `${examId}-ai-${Date.now()}-${i}`,
         section,
         topic: String(q.topic || section),
-        difficulty: ['easy', 'medium', 'hard'].includes(q.difficulty) ? q.difficulty : 'medium',
+        difficulty: ['easy', 'medium', 'hard', 'expert'].includes(q.difficulty) ? q.difficulty : 'medium',
         source: 'ai',
         question: q.question.trim(),
         options: q.options.map((o) => String(o)),

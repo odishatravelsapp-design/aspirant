@@ -150,7 +150,7 @@ function sanitize(raw, date) {
         id: `ca-q-${stamp}-${i}`,
         section: 'Current Affairs',
         topic: String(q.topic || 'Current Affairs'),
-        difficulty: ['easy', 'medium', 'hard'].includes(q.difficulty) ? q.difficulty : 'medium',
+        difficulty: ['easy', 'medium', 'hard', 'expert'].includes(q.difficulty) ? q.difficulty : 'medium',
         source: 'ai',
         status: 'pending', // factual news content — review before students see it
         question: String(q.question).trim(),

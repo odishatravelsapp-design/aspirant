@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import type { Question, AnswerRecord } from '../types'
 import { useT } from '../i18n/LanguageContext'
 import { localizeQuestion } from '../lib/localize'
+import { DifficultyBadge } from './DifficultyBadge'
 
 interface Props {
   questions: Question[]
@@ -101,6 +102,9 @@ export function ExamMock({ questions, negativeMark, timeLimitSec, onFinish }: Pr
         </p>
       )}
 
+      <div className="q-head">
+        <DifficultyBadge level={q.difficulty} />
+      </div>
       <div className="q-text">{loc.question}</div>
       {loc.options.map((opt, i) => (
         <button

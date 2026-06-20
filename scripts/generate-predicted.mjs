@@ -46,10 +46,10 @@ function buildPrompt(examName, topics) {
 These topics appear most often in its past papers:
 ${list}
 
-For EACH topic, write ${PER_TOPIC} fresh questions that are LIKELY to appear in the next exam, matching the real paper's style and difficulty. Re-solve each and set "verified" true only if fully confident.
+For EACH topic, write ${PER_TOPIC} fresh questions that are LIKELY to appear in the next exam, matching the real paper's style. Vary difficulty and include some "expert" (very difficult) questions. Re-solve each and set "verified" true only if fully confident.
 
 Return ONLY valid JSON (no markdown): an array of
-{ "topic": "...", "difficulty": "easy|medium|hard", "question": "...", "options": ["A","B","C","D"], "answer": 0, "explanation": "...", "verified": true }`
+{ "topic": "...", "difficulty": "easy|medium|hard|expert", "question": "...", "options": ["A","B","C","D"], "answer": 0, "explanation": "...", "verified": true }`
 }
 
 async function callGemini(prompt) {
@@ -93,7 +93,7 @@ function sanitize(raw, examId) {
       id: `${examId}-pred-${stamp}-${i}`,
       section: 'Predicted',
       topic: String(q.topic || 'Predicted'),
-      difficulty: ['easy', 'medium', 'hard'].includes(q.difficulty) ? q.difficulty : 'medium',
+      difficulty: ['easy', 'medium', 'hard', 'expert'].includes(q.difficulty) ? q.difficulty : 'medium',
       source: 'predicted',
       status: 'pending',
       question: q.question.trim(),

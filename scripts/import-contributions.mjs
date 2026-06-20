@@ -96,7 +96,7 @@ function toQuestion(row, examId, i, stamp) {
     id: `${examId}-comm-${stamp}-${i}`,
     section: row.section || 'General',
     topic: row.topic || row.section || 'General',
-    difficulty: ['easy', 'medium', 'hard'].includes(row.difficulty) ? row.difficulty : 'medium',
+    difficulty: ['easy', 'medium', 'hard', 'expert'].includes(row.difficulty) ? row.difficulty : 'medium',
     source: 'community',
     status: 'pending', // community content always reviewed before going live
     question: row.question.trim(),
