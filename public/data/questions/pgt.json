@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -766,6 +766,261 @@
       ],
       "answer": 1,
       "explanation": "Validity is the degree to which an assessment tool measures what it is designed to measure. Reliability refers to consistency, whereas validity refers to truthfulness/accuracy."
+    },
+    {
+      "id": "pgt-edu-1782042670931-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who established the \"Satyabadi Bana Vidyalaya\" (Open Air Forest School) at Sakshigopal in Puri district of Odisha?",
+      "options": [
+        "Sri Aurobindo",
+        "Pandit Gopabandhu Das",
+        "Rabindranath Tagore",
+        "Mahatma Gandhi"
+      ],
+      "answer": 1,
+      "explanation": "Pandit Gopabandhu Das established the Satyabadi Bana Vidyalaya in 1909 at Sakshigopal, Puri, based on the gurukul system of open-air education to foster character-building and patriotism."
+    },
+    {
+      "id": "pgt-edu-1782042670931-1",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Robert Gagné's Hierarchy of Learning, which of the following represents the highest level of learning?",
+      "options": [
+        "Concept learning",
+        "Rule learning",
+        "Problem solving",
+        "Principle learning"
+      ],
+      "answer": 2,
+      "explanation": "Gagné's hierarchy consists of eight levels of learning arranged in a hierarchical order. Level 8, the highest level, is Problem Solving, which requires the activation of previously learned rules or principles."
+    },
+    {
+      "id": "pgt-edu-1782042670931-2",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "A student who is angry at a teacher but instead of expressing it directly, goes home and yells at their younger brother is demonstrating which defense mechanism?",
+      "options": [
+        "Regression",
+        "Displacement",
+        "Projection",
+        "Rationalization"
+      ],
+      "answer": 1,
+      "explanation": "Displacement is a psychological defense mechanism where a person redirects an impulse or aggression from a threatening target (the teacher) to a safer, less threatening substitute target (the younger brother)."
+    },
+    {
+      "id": "pgt-edu-1782042670931-3",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Jean Piaget's theory of cognitive development, in which stage does a child typically master the concept of 'Conservation' of mass, volume, and number?",
+      "options": [
+        "Sensory-motor stage",
+        "Pre-operational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answer": 2,
+      "explanation": "During the Concrete Operational stage (typically ages 7-11), children develop logical thinking and the cognitive capacity for conservation, realizing that properties like mass and volume remain constant despite changes in shape or appearance."
+    },
+    {
+      "id": "pgt-edu-1782042670931-4",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is recognized as the originator and chief advocate of the Heuristic Method of teaching?",
+      "options": [
+        "John Dewey",
+        "H. E. Armstrong",
+        "W. H. Kilpatrick",
+        "Friedrich Froebel"
+      ],
+      "answer": 1,
+      "explanation": "Professor Henry Edward Armstrong introduced the Heuristic Method of teaching, which places the student in the position of an independent discoverer or investigator."
+    },
+    {
+      "id": "pgt-edu-1782042670931-5",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of evaluation is specifically designed to pinpoint and diagnose the persistent learning difficulties and underlying learning bottlenecks of students during the instructional process?",
+      "options": [
+        "Summative Evaluation",
+        "Placement Evaluation",
+        "Diagnostic Evaluation",
+        "Criterion-Referenced Evaluation"
+      ],
+      "answer": 2,
+      "explanation": "While formative evaluation monitors overall learning progress, diagnostic evaluation goes a step further to identify the specific, persistent causes of learning difficulties and bottlenecks that standard corrective measures do not resolve."
+    },
+    {
+      "id": "pgt-edu-1782042670931-6",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Thinkers",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "The concept of \"Integral Education\", which aims at the harmonious development of five principal aspects of the human being—physical, vital, mental, psychic, and spiritual—was propounded by:",
+      "options": [
+        "Swami Vivekananda",
+        "Jiddu Krishnamurti",
+        "Sri Aurobindo",
+        "Rabindranath Tagore"
+      ],
+      "answer": 2,
+      "explanation": "Sri Aurobindo and his spiritual collaborator, The Mother (Mirra Alfassa), propounded the philosophy of Integral Education, which seeks the complete development of all five dimensions of human existence."
+    },
+    {
+      "id": "pgt-edu-1782042670931-7",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPWD) Act, 2016 in India, the number of specified benchmark disabilities was increased from 7 to how many?",
+      "options": [
+        "14",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The RPWD Act, 2016, replaced the older PWD Act of 1995, expanding the list of recognized benchmark disabilities from 7 categories to 21 categories to ensure wider inclusion."
+    },
+    {
+      "id": "pgt-edu-1782042670931-8",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What does the acronym \"SWAYAM\" stand for in the context of the Government of India's digital education initiatives?",
+      "options": [
+        "Study Webs of Active-Learning for Young Aspiring Minds",
+        "Student Welfare Association for Young and Active Minds",
+        "Study Work and Youth Achievement Mission",
+        "State Wide Association of Youth and Academic Mentors"
+      ],
+      "answer": 0,
+      "explanation": "SWAYAM is an initiative instrumented by the Government of India to provide massive open online courses (MOOCs). The acronym stands for 'Study Webs of Active-Learning for Young Aspiring Minds'."
+    },
+    {
+      "id": "pgt-edu-1782042670931-9",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Daniel Stufflebeam's CIPP model of curriculum evaluation, what does the acronym \"CIPP\" stand for?",
+      "options": [
+        "Content, Input, Process, Product",
+        "Context, Input, Process, Product",
+        "Context, Implementation, Plan, Product",
+        "Concept, Input, Practice, Performance"
+      ],
+      "answer": 1,
+      "explanation": "The CIPP model is a comprehensive framework for guiding evaluations of projects, programs, and curricula. It stands for Context, Input, Process, and Product evaluation."
+    },
+    {
+      "id": "pgt-edu-1782042670931-10",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is the primary proponent of the \"Client-Centered\" or \"Non-Directive\" approach to counselling?",
+      "options": [
+        "E. G. Williamson",
+        "Carl Rogers",
+        "Sigmund Freud",
+        "Frederick Thorne"
+      ],
+      "answer": 1,
+      "explanation": "Carl Rogers developed Client-Centered (Non-Directive) therapy, which shifts the focus from the counselor's authority to the client's self-actualizing capacity, emphasizing empathy, unconditional positive regard, and congruence."
+    },
+    {
+      "id": "pgt-edu-1782042670931-11",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Edward Tolman's Purposive Behaviorism introduced the concept of \"latent learning.\" Which of the following statements best describes this concept?",
+      "options": [
+        "Learning that is immediately demonstrated through overt behavioral reinforcement.",
+        "Learning that occurs without any obvious reinforcement and remains unexpressed until an incentive is provided.",
+        "Learning that occurs solely through classical conditioning and stimulus generalization.",
+        "Learning that is acquired through imitation of a social model without cognitive processing."
+      ],
+      "answer": 1,
+      "explanation": "Latent learning is a form of cognitive learning that occurs without immediate reinforcement or expression. The learning remains hidden (latent) until a reward or incentive is introduced to motivate its behavioral demonstration."
+    },
+    {
+      "id": "pgt-edu-1782042670931-12",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum & Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Hilda Taba's model of curriculum development is widely characterized as a:",
+      "options": [
+        "Top-down administrative model",
+        "Grassroots inductive model",
+        "Deductive system-driven model",
+        "Subject-centered hierarchical model"
+      ],
+      "answer": 1,
+      "explanation": "Hilda Taba proposed a grassroots, inductive approach to curriculum development, arguing that curricula should be designed by teachers who implement them rather than being handed down from high-level administrators."
+    },
+    {
+      "id": "pgt-edu-1782042670931-13",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is widely recognized as the chief advocate of \"Eclectic Counselling\", which synthesizes the best elements of directive and non-directive approaches?",
+      "options": [
+        "Carl Rogers",
+        "E. G. Williamson",
+        "F. C. Thorne",
+        "C. G. Wrenn"
+      ],
+      "answer": 2,
+      "explanation": "Frederick Charles Thorne is recognized as the pioneer of Eclectic Counselling. This approach rejects adherence to a single theory, instead selecting and blending techniques from directive and non-directive models based on the client's needs."
+    },
+    {
+      "id": "pgt-edu-1782042670931-14",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "The distance between a child's actual developmental level determined by independent problem solving and their potential developmental level under adult guidance is termed by Lev Vygotsky as the:",
+      "options": [
+        "Scaffolding",
+        "Zone of Proximal Development",
+        "Cognitive Apprenticeship",
+        "Schema Adjustment"
+      ],
+      "answer": 1,
+      "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the range of tasks that are too difficult for a child to master alone but can be learned with the guidance and assistance of adults or more-skilled peers."
     }
   ]
 }
