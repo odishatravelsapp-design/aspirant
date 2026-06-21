@@ -511,6 +511,186 @@
       ],
       "answer": 1,
       "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the range of tasks that are too difficult for a child to master alone but can be learned with the guidance and assistance of adults or more-skilled peers."
+    },
+    {
+      "id": "tgt-web-1782043162656-0",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is radiation measured in?",
+      "options": [
+        "Kelvin",
+        "Decibel",
+        "Gray ",
+        "Watt"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Gray ."
+    },
+    {
+      "id": "tgt-web-1782043162656-1",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of the following liquids is least viscous? Assume temperature is 25°C.",
+      "options": [
+        "Benzene",
+        "Mercury",
+        "Acetone",
+        "Water"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Acetone."
+    },
+    {
+      "id": "tgt-web-1782043162656-2",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "\"The Big Bang Theory\" was first theorized by a priest of what religious ideology?",
+      "options": [
+        "Islamic",
+        "Christian",
+        "Catholic",
+        "Jewish"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Catholic."
+    },
+    {
+      "id": "tgt-web-1782043162656-3",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the hottest planet in the Solar System?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Venus."
+    },
+    {
+      "id": "tgt-web-1782043162656-4",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the first element on the periodic table?",
+      "options": [
+        "Hydrogen",
+        "Lithium",
+        "Oxygen",
+        "Helium"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Hydrogen."
+    },
+    {
+      "id": "tgt-web-1782043162656-5",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What causes Lyme disease?",
+      "options": [
+        "A parasitic worm",
+        "An amoeba",
+        "A virus",
+        "A bacteria"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: A bacteria."
+    },
+    {
+      "id": "tgt-web-1782043162656-6",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+      "options": [
+        "Cough",
+        "Hiccup",
+        "Sneeze",
+        "Yawn"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Sneeze."
+    },
+    {
+      "id": "tgt-web-1782043162656-7",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+      "options": [
+        "Gallium",
+        "Beryllium",
+        "Caesium",
+        "Mercury"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Beryllium."
+    },
+    {
+      "id": "tgt-web-1782043162656-8",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+      "options": [
+        "Ketamine",
+        "Aspirin",
+        "Morphine",
+        "Ibuprofen"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Ibuprofen."
+    },
+    {
+      "id": "tgt-web-1782043162656-9",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "About how old is Earth?",
+      "options": [
+        "2.5 Billion Years",
+        "5.5 Billion Years",
+        "3.5 Billion Years",
+        "4.5 Billion Years"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 4.5 Billion Years."
     }
   ]
 }

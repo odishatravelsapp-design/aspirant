@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -146,6 +146,186 @@
           "explanation": "ସମ୍ପତ୍ତିର ଅଧିକାର ହଟାଇ ଦିଆଯିବା ପରେ ଭାରତୀୟ ସମ୍ବିଧାନରେ 6ଟି ମୌଳିକ ଅଧିକାର ରହିଛି।"
         }
       }
+    },
+    {
+      "id": "osssc-web-1782043145403-0",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which stretch of water connects the Atlantic Ocean to the Mediterranean Sea?",
+      "options": [
+        "Gibraltar Way",
+        "Spanish Straits",
+        "Strait of Gibraltar",
+        "Channelle de Tangiers"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Strait of Gibraltar."
+    },
+    {
+      "id": "osssc-web-1782043145403-1",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of these American cities has fewer than 1,000,000 people?",
+      "options": [
+        "Philadelphia, Pennsylvania",
+        "Phoenix, Arizona",
+        "San Francisco, California",
+        "San Antonio, Texas"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: San Francisco, California."
+    },
+    {
+      "id": "osssc-web-1782043145403-2",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What city  has the busiest airport in the world?",
+      "options": [
+        "Chicago,Illinois ISA",
+        "London, England",
+        "Atlanta, Georgia USA",
+        "Tokyo,Japan"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Atlanta, Georgia USA."
+    },
+    {
+      "id": "osssc-web-1782043145403-3",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the state capital of South Dakota?",
+      "options": [
+        "Watertown",
+        "Pierre",
+        "Sioux Falls",
+        "Rapid City"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Pierre."
+    },
+    {
+      "id": "osssc-web-1782043145403-4",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which river was dammed to create Gatun Lake and the Panama Canal?",
+      "options": [
+        "Chepo River ",
+        "Chucunaque River",
+        "Tuira River",
+        "Chagres River"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Chagres River."
+    },
+    {
+      "id": "osssc-web-1782043145403-5",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What country is the second largest in the world by area?",
+      "options": [
+        "Canada",
+        "Russia",
+        "China",
+        "United States of America"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Canada."
+    },
+    {
+      "id": "osssc-web-1782043145403-6",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the official national language of Pakistan?",
+      "options": [
+        "Punjabi",
+        "Urdu",
+        "Pashto",
+        "Indian"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Urdu."
+    },
+    {
+      "id": "osssc-web-1782043145403-7",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch is located on which Welsh island?",
+      "options": [
+        "Anglesey",
+        "Caldey",
+        "Bardsey",
+        "Barry"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Anglesey."
+    },
+    {
+      "id": "osssc-web-1782043145403-8",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many countries does the United States share a land border with?",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 2."
+    },
+    {
+      "id": "osssc-web-1782043145403-9",
+      "section": "General Knowledge",
+      "topic": "Geography",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+      "options": [
+        "Idaho",
+        "New Mexico",
+        "Florida",
+        "Ohio"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Ohio."
     }
   ]
 }

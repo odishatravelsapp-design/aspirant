@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -443,6 +443,186 @@
       ],
       "answer": 0,
       "explanation": "The Composite Water Management Index (CWMI) is launched by NITI Aayog to provide an annual snapshot of water management performance across Indian states and Union Territories."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-0",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the name of a nine sided polygon?",
+      "options": [
+        "Octagon",
+        "Hexagon",
+        "Nonagon",
+        "Heptagon"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Nonagon."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-1",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the correct order of operations for solving equations?",
+      "options": [
+        "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+        "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+        "The order in which the operations are written.",
+        "Addition, Multiplication, Division, Subtraction, Addition, Parentheses"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Parentheses, Exponents, Multiplication, Division, Addition, Subtraction."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-2",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the fourth digit of π?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 1."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-3",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The metric prefix \"atto-\" makes a measurement how much smaller than the base unit?",
+      "options": [
+        "One Septillionth",
+        "One Quintillionth",
+        "One Billionth",
+        "One Quadrillionth"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: One Quintillionth."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-4",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "A mathematical constant, known as \"The Golden Ratio\", is most commonly represented by which greek letter?",
+      "options": [
+        "π (pi)",
+        "&Phi; (phi)",
+        "&Tau; (tau)",
+        "&Psi; (psi)"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: &Phi; (phi)."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-5",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many sides does a trapezium have?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: 4."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-6",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of these probability distributions is NOT discrete?",
+      "options": [
+        "Binomial",
+        "Normal",
+        "Poisson",
+        "Hyper-geometric"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Normal."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-7",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many books are in Euclid's Elements of Geometry?",
+      "options": [
+        "10",
+        "13",
+        "8",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: 13."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-8",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In the hexadecimal system, what number comes after 9?",
+      "options": [
+        "The Number 0",
+        "16",
+        "The Letter A",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: The Letter A."
+    },
+    {
+      "id": "ibps-po-web-1782043139650-9",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of the following is not one of the seven Millennium Prize Problems?",
+      "options": [
+        "Poincaré conjecture",
+        "Naviér conjecture",
+        "Birch and Swinnerton-Dyer Conjecture",
+        "Riemann hypothesis"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Naviér conjecture."
     }
   ]
 }

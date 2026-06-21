@@ -1021,6 +1021,186 @@
       ],
       "answer": 1,
       "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the range of tasks that are too difficult for a child to master alone but can be learned with the guidance and assistance of adults or more-skilled peers."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-0",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many times was Albert Einstein married in his lifetime?",
+      "options": [
+        "Thrice",
+        "Five",
+        "Once",
+        "Twice"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Twice."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-1",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+      "options": [
+        "George Washington",
+        "James Monroe",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: George Washington."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-2",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Who was the first man to travel into outer space twice?",
+      "options": [
+        "Vladimir Komarov",
+        "Charles Conrad",
+        "Gus Grissom",
+        "Yuri Gagarin"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Gus Grissom."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-3",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In what year did the Wall Street Crash take place?",
+      "options": [
+        "1932",
+        "1925",
+        "1930",
+        "1929"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 1929."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-4",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What was Napoleon Bonaparte's name before he changed it?",
+      "options": [
+        "Napoleona de Buenoparte",
+        "Naapolion van Bonijpaart",
+        "Napoleone di Buonaparte",
+        "Napole&atilde;o do Boaparte"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Napoleone di Buonaparte."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-5",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which one of these countries was NOT in the Central Powers during WWI?",
+      "options": [
+        "Turkey",
+        "Spain",
+        "Germany",
+        "Austria-Hungary"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Spain."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-6",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In which country was the Statue of Liberty built and exported to the United States of America?",
+      "options": [
+        "Germany",
+        "Spain",
+        "France",
+        "England"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: France."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-7",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The original Roman alphabet lacked the following letters EXCEPT:",
+      "options": [
+        "X",
+        "J",
+        "U",
+        "W"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: X."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-8",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "One of the deadliest pandemics, the \"Spanish Flu\", killed off what percentage of the human world population at the time?",
+      "options": [
+        "3 to 6 percent",
+        "less than 1 percent",
+        "6 to 10 percent",
+        "1 to 3 percent"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: 3 to 6 percent."
+    },
+    {
+      "id": "odisha-ssb-web-1782043151162-9",
+      "section": "Subject Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Who was the leader of the Communist Party of Yugoslavia ?",
+      "options": [
+        "Milos Obilic",
+        "Josip Broz Tito",
+        "Aleskandar Petrovic",
+        "Karadjordje Petrovic"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Josip Broz Tito."
     }
   ]
 }

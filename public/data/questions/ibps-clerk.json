@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -462,6 +462,186 @@
       ],
       "answer": 0,
       "explanation": "The Composite Water Management Index (CWMI) is launched by NITI Aayog to provide an annual snapshot of water management performance across Indian states and Union Territories."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-0",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Tetsuya Fujita was a scientist that developed the scale for which natural disaster?",
+      "options": [
+        "Volcanoes",
+        "Tornadoes",
+        "Earthquakes",
+        "Hurricanes"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Tornadoes."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-1",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which element has the atomic number of 7?",
+      "options": [
+        "Nitrogen",
+        "Hydrogen",
+        "Neon",
+        "Oxygen"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Nitrogen."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-2",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many laws of thermodynamics are there?",
+      "options": [
+        "Four",
+        "Two",
+        "Five",
+        "Three"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Four."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-3",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The word \"science\" stems from the word \"scire\" meaning what?",
+      "options": [
+        "To count",
+        "To measure",
+        "To know",
+        "To live"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: To know."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-4",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the first element on the periodic table?",
+      "options": [
+        "Oxygen",
+        "Lithium",
+        "Helium",
+        "Hydrogen"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Hydrogen."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-5",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+      "options": [
+        "Polystyrene (PS)",
+        "Polyvinylchloride (PVC) ",
+        "Polypropylene (PP)",
+        "Polyethylene (PE)"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Polyvinylchloride (PVC) ."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-6",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the chemical symbol for lead?",
+      "options": [
+        "Pb",
+        "Pm",
+        "Le",
+        "Ld"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Pb."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-7",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The core of the Sun can reach which temperature?",
+      "options": [
+        "938,000° F (521093.3° C)",
+        "Absolute Zero (Both F and C)",
+        "27° Million F (15° Million C)",
+        "8° Billion F (°4.4 Billion C)"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 27° Million F (15° Million C)."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-8",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which Landsat Satellite currently has had the longest operational life?",
+      "options": [
+        "Landsat 7",
+        "Landsat 6",
+        "Landsat 5",
+        "Landsat 8"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Landsat 5."
+    },
+    {
+      "id": "ibps-clerk-web-1782043128140-9",
+      "section": "General Awareness",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What does DNA stand for?",
+      "options": [
+        "Deoxyribogenetic Atoms",
+        "Detoxic Acid",
+        "Deoxyribonucleic Acid",
+        "Deoxyribogenetic Acid"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Deoxyribonucleic Acid."
     }
   ]
 }

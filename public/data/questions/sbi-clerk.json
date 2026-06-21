@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -443,6 +443,186 @@
       ],
       "answer": 0,
       "explanation": "The Composite Water Management Index (CWMI) is launched by NITI Aayog to provide an annual snapshot of water management performance across Indian states and Union Territories."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-0",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the name of the default theme that is installed with Windows XP?",
+      "options": [
+        "Whistler",
+        "Bliss",
+        "Luna",
+        "Neptune"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Luna."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-1",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What major programming language does Unreal Engine 4 use?",
+      "options": [
+        "ECMAScript",
+        "C#",
+        "Assembly",
+        "C++"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: C++."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-2",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+      "options": [
+        "Santa Clara",
+        "Palo Alto",
+        "Cupertino",
+        "Mountain View"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Santa Clara."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-3",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the domain name for the country Tuvalu?",
+      "options": [
+        ".tv",
+        ".tt",
+        ".tu",
+        ".tl"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: .tv."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-4",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which programming language shares its name with an island in Indonesia?",
+      "options": [
+        "Python",
+        "Jakarta",
+        "C",
+        "Java"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Java."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-5",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "options": [
+        ".svg",
+        ".gif",
+        ".jpeg",
+        ".png"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: .svg."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-6",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
+      "options": [
+        "Shopify",
+        "Amazon",
+        "Overstock",
+        "eBay"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Amazon."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-7",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What does \"LCD\" stand for?",
+      "options": [
+        "Last Common Difference",
+        "Language Control Design",
+        "Liquid Crystal Display",
+        "Long Continuous Design"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Liquid Crystal Display."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-8",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "CMOS is tech used for constructing integrated circuits. What does CMOS stand for?",
+      "options": [
+        "Complementary metal&ndash;oxide&ndash;semiconductor",
+        "Complementary magnetic-ohms-semiconductor",
+        "Computer-made oscillating static",
+        "Computer-made operating system"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Complementary metal&ndash;oxide&ndash;semiconductor."
+    },
+    {
+      "id": "sbi-clerk-web-1782043133887-9",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+      "options": [
+        "Stream cipher",
+        "Secret sharing scheme",
+        "Asymmetric encryption",
+        "Hashing algorithm"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Secret sharing scheme."
     }
   ]
 }
