@@ -1,143 +1,256 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "items": [
     {
-      "id": "ca-1781946513638-0",
-      "category": "Banking",
-      "title": "RBI introduces Flexi KCC up to Rs 50,000 for Marginal Farmers",
-      "summary": "The Reserve Bank of India has introduced a Flexi Kisan Credit Card (KCC) scheme with a limit of up to Rs 50,000 specifically tailored for marginal farmers through Rural Cooperative Banks (RCBs).",
-      "source": "Indian Cooperative"
-    },
-    {
-      "id": "ca-1781946513638-1",
-      "category": "National",
-      "title": "Centre bans 16 Fixed Dose Combinations over safety concerns",
-      "summary": "The Union Government has banned 16 Fixed Dose Combinations (FDCs) of medicines across India due to safety concerns and lack of therapeutic justification.",
-      "source": "ETPharma.com"
-    },
-    {
-      "id": "ca-1781946513638-2",
-      "category": "International",
-      "title": "State of emergency declared in Bolivia after 50 days of protests",
-      "summary": "Bolivia has declared a nationwide state of emergency following 50 days of continuous civil protests and escalating political crisis.",
-      "source": "The Times of India"
-    },
-    {
-      "id": "ca-1781946513638-3",
-      "category": "Banking",
-      "title": "RBI introduces new consumer protection rules to curb mis-selling",
-      "summary": "The Reserve Bank of India has rolled out stringent consumer protection guidelines for banks and NBFCs to prevent the mis-selling of financial products.",
-      "source": "Fortune India"
-    },
-    {
-      "id": "ca-1781946513638-4",
-      "category": "Banking",
-      "title": "Indian banks seek RBI nod to use GIFT City units for dollar deposits",
-      "summary": "Commercial banks in India have approached the RBI for approval to utilize their offshore branches in Gujarat's GIFT City to offer a new dollar deposit scheme.",
-      "source": "Moneycontrol.com"
-    },
-    {
-      "id": "ca-1781946513638-5",
+      "id": "ca-1782041802603-0",
       "category": "Odisha",
-      "title": "PM Modi and President Murmu to launch projects worth Rs 47,600 crore",
-      "summary": "President Droupadi Murmu and Prime Minister Narendra Modi will launch key development projects worth Rs 47,600 crore in Odisha's Mayurbhanj district.",
-      "source": "Newsonair"
+      "title": "PM Modi launches projects worth over ₹47,000 crore in Odisha, names Pahadpur as 'Solar Village'",
+      "summary": "Prime Minister Narendra Modi launched developmental projects worth over ₹47,000 crore in Odisha and announced Pahadpur as a 'Solar Village' on the occasion of the President's birthday.",
+      "source": "ET Government",
+      "translations": {
+        "or": {
+          "title": "ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦୀ ଓଡ଼ିଶାରେ ୪୭,୦୦୦ କୋଟିରୁ ଅଧିକ ଟଙ୍କାର ପ୍ରକଳ୍ପ ଶୁଭାରମ୍ଭ କଲେ, ପାହାଡ଼ପୁରକୁ 'ସୌର ଗ୍ରାମ' ଘୋଷଣା କଲେ",
+          "summary": "ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦୀ ଓଡ଼ିଶାରେ ୪୭,୦୦୦ କୋଟିରୁ ଅଧିକ ଟଙ୍କାର ବିକାଶମୂଳକ ପ୍ରକଳ୍ପର ଶୁଭାରମ୍ଭ କରିଛନ୍ତି ଏବଂ ରାଷ୍ଟ୍ରପତିଙ୍କ ଜନ୍ମଦିନ ଅବସରରେ ପାହାଡ଼ପୁରକୁ 'ସୌର ଗ୍ରାମ' ଭାବେ ଘୋଷଣା କରିଛନ୍ତି।"
+        }
+      }
     },
     {
-      "id": "ca-1781946513638-6",
-      "category": "Science",
-      "title": "15-million-year-old marine fossils discovered in Baripada",
-      "summary": "Geological researchers have discovered marine fossils estimated to be 15 million years old in the Baripada region of Odisha.",
-      "source": "DD News"
+      "id": "ca-1782041802603-1",
+      "category": "National",
+      "title": "PM Modi leads 12th International Yoga Day celebrations in Kolkata",
+      "summary": "Prime Minister Narendra Modi led the 12th International Yoga Day celebrations in Kolkata, highlighting how yoga globally connects everyone.",
+      "source": "NDTV",
+      "translations": {
+        "or": {
+          "title": "କୋଲକାତାରେ ୧୨ତମ ଆନ୍ତର୍ଜାତୀୟ ଯୋଗ ଦିବସ ଉତ୍ସବର ନେତୃତ୍ୱ ନେଲେ ପିଏମ ମୋଦୀ",
+          "summary": "ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦୀ କୋଲକାତାରେ ୧୨ତମ ଆନ୍ତର୍ଜାତୀୟ ଯୋଗ ଦିବସ କାର୍ଯ୍ୟକ୍ରମର ନେତୃତ୍ୱ ନେଇଛନ୍ତି ଏବଂ ଯୋଗ କିପରି ବିଶ୍ୱସ୍ତରରେ ସମସ୍ତଙ୍କୁ ଯୋଡିଥାଏ ତାହା ଉପରେ ଆଲୋକପାତ କରିଛନ୍ତି।"
+        }
+      }
     },
     {
-      "id": "ca-1781946513638-7",
+      "id": "ca-1782041802603-2",
+      "category": "International",
+      "title": "Iran shuts strategic Strait of Hormuz over Israeli ceasefire violations",
+      "summary": "Iran has closed the strategic Strait of Hormuz, citing ceasefire violations by Israel in Lebanon.",
+      "source": "Hindustan Times",
+      "translations": {
+        "or": {
+          "title": "ଇସ୍ରାଏଲର ଅସ୍ତ୍ରବିରତି ଉଲ୍ଲଂଘନ ପ୍ରତିବାଦରେ ଇରାନ ଦ୍ୱାରା ରଣନୀତିକ ହରମୁଜ ପ୍ରଣାଳୀ ବନ୍ଦ",
+          "summary": "ଲେବାନନରେ ଇସ୍ରାଏଲର ଅସ୍ତ୍ରବିରତି ଉଲ୍ଲଂଘନକୁ ଦର୍ଶାଇ ଇରାନ ରଣନୀତିକ ଭାବେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ହରମୁଜ ପ୍ରଣାଳୀକୁ ବନ୍ଦ କରିଦେଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1782041802603-3",
+      "category": "International",
+      "title": "US VP Vance arrives in Switzerland for nuclear talks with Iran",
+      "summary": "US Vice-President Vance has arrived in Switzerland to launch diplomatic talks with Iran regarding its nuclear programme.",
+      "source": "The Hindu",
+      "translations": {
+        "or": {
+          "title": "ଇରାନ ସହ ଆଣବିକ ଆଲୋଚନା ପାଇଁ ସ୍ୱିଜରଲ୍ୟାଣ୍ଡରେ ପହଞ୍ଚିଲେ ଆମେରିକା ଉପରାଷ୍ଟ୍ରପତି ଭେନ୍ସ",
+          "summary": "ଇରାନର ଆଣବିକ କାର୍ଯ୍ୟକ୍ରମ ସମ୍ପର୍କରେ କୂଟନୈତିକ ଆଲୋଚନା ଆରମ୍ଭ କରିବା ପାଇଁ ଆମେରିକାର ଉପରାଷ୍ଟ୍ରପତି ଭେନ୍ସ ସ୍ୱିଜରଲ୍ୟାଣ୍ଡରେ ପହଞ୍ଚିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1782041802603-4",
+      "category": "National",
+      "title": "PM Modi commissions three indigenous naval platforms",
+      "summary": "Emphasizing self-reliance (Aatmanirbharta) as key to India's progress, PM Modi commissioned three indigenous naval platforms.",
+      "source": "News18",
+      "translations": {
+        "or": {
+          "title": "ତିନୋଟି ସ୍ୱଦେଶୀ ନୌସେନା ପ୍ଲାଟଫର୍ମର ଶୁଭାରମ୍ଭ କଲେ ପିଏମ ମୋଦୀ",
+          "summary": "ଭାରତର ପ୍ରଗତି ପାଇଁ 'ଆତ୍ମନିର୍ଭରଶୀଳତା' ଅତ୍ୟନ୍ତ ଜରୁରୀ ବୋଲି ଗୁରୁତ୍ୱାରୋପ କରି ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦୀ ତିନୋଟି ସ୍ୱଦେଶୀ ନୌସେନା ପ୍ଲାଟଫର୍ମର ଶୁଭାରମ୍ଭ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1782041802603-5",
+      "category": "International",
+      "title": "Bangladesh PM Rahman bypasses India, chooses Malaysia and China for first visit",
+      "summary": "Bangladesh Prime Minister Rahman has chosen Malaysia and China for his first official foreign visit, bypassing India.",
+      "source": "Hindustan Times",
+      "translations": {
+        "or": {
+          "title": "ପ୍ରଥମ ବିଦେଶ ଗସ୍ତ ପାଇଁ ଭାରତକୁ ବାଦ୍ ଦେଇ ମାଲେସିଆ ଓ ଚୀନକୁ ବାଛିଲେ ବାଂଲାଦେଶ ପ୍ରଧାନମନ୍ତ୍ରୀ ରହମାନ",
+          "summary": "ବାଂଲାଦେଶର ପ୍ରଧାନମନ୍ତ୍ରୀ ରହମାନ ଭାରତକୁ ବାଦ୍ ଦେଇ ନିଜର ପ୍ରଥମ ସରକାରୀ ବିଦେଶ ଗସ୍ତ ପାଇଁ ମାଲେସିଆ ଏବଂ ଚୀନକୁ ମନୋନୀତ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1782041802603-6",
+      "category": "Economy",
+      "title": "Parliamentary panel to study evolving economic conditions in India",
+      "summary": "A parliamentary panel is set to study the evolving economic conditions in India amid global uncertainties.",
+      "source": "The Hindu",
+      "translations": {
+        "or": {
+          "title": "ଭାରତର ବିକଶିତ ଅର୍ଥନୈତିକ ସ୍ଥିତିର ଅନୁଧ୍ୟାନ କରିବ ସଂସଦୀୟ କମିଟି",
+          "summary": "ବିଶ୍ୱସ୍ତରୀୟ ଅନିଶ୍ଚିତତା ମଧ୍ୟରେ ଭାରତର ବିକଶିତ ଅର୍ଥନୈତିକ ସ୍ଥିତିର ଅନୁଧ୍ୟାନ କରିବା ପାଇଁ ଏକ ସଂସଦୀୟ କମିଟି ଗଠନ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1782041802603-7",
       "category": "Banking",
-      "title": "RBI focuses on FCNR(B) route to revive NRI deposit growth",
-      "summary": "A Bank of Baroda report indicates that the RBI is aiming to boost NRI deposit growth through Foreign Currency Non-Resident (Bank) accounts, even as NRO accounts grow the fastest.",
-      "source": "ANI News"
+      "title": "BofA Securities expects RBI to hold repo rate at 5.25%",
+      "summary": "Bank of America (BofA) Securities expects the Reserve Bank of India to hold the repo rate at 5.25% as economic uncertainty eases.",
+      "source": "The Economic Times",
+      "translations": {
+        "or": {
+          "title": "ଆରବିଆଇ ରେପୋ ହାର ୫.୨୫% ରେ ଅପରିବର୍ତ୍ତିତ ରଖିପାରେ: BofA ସିକ୍ୟୁରିଟିଜ୍",
+          "summary": "ଅର୍ଥନୈତିକ ଅନିଶ୍ଚିତତା ହ୍ରାସ ପାଉଥିବାରୁ ବ୍ୟାଙ୍କ ଅଫ୍ ଆମେରିକା (BofA) ସିକ୍ୟୁରିଟିଜ୍ ଆଶା କରୁଛି ଯେ ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ରେପୋ ହାରକୁ ୫.୨୫% ରେ ଅପରିବର୍ତ୍ତିତ ରଖିବ।"
+        }
+      }
     }
   ],
   "quiz": [
     {
-      "id": "ca-q-1781946513638-0",
-      "section": "Current Affairs",
-      "topic": "Banking",
-      "difficulty": "easy",
-      "source": "ai",
-      "question": "What is the maximum limit of the newly introduced Flexi Kisan Credit Card (KCC) for marginal farmers by Rural Cooperative Banks?",
-      "options": [
-        "Rs 25,000",
-        "Rs 50,000",
-        "Rs 1,00,000",
-        "Rs 1,50,000"
-      ],
-      "answer": 1,
-      "explanation": "The Reserve Bank of India (RBI) has introduced a Flexi KCC scheme with a limit of up to Rs 50,000 specifically for marginal farmers."
-    },
-    {
-      "id": "ca-q-1781946513638-1",
-      "section": "Current Affairs",
-      "topic": "National",
-      "difficulty": "medium",
-      "source": "ai",
-      "question": "How many Fixed Dose Combinations (FDCs) did the Central Government recently ban over safety concerns?",
-      "options": [
-        "12",
-        "16",
-        "20",
-        "24"
-      ],
-      "answer": 1,
-      "explanation": "The Union Government has banned 16 Fixed Dose Combinations (FDCs) due to safety concerns."
-    },
-    {
-      "id": "ca-q-1781946513638-2",
-      "section": "Current Affairs",
-      "topic": "International",
-      "difficulty": "medium",
-      "source": "ai",
-      "question": "Which country recently declared a state of emergency following 50 days of continuous protests?",
-      "options": [
-        "Ecuador",
-        "Bolivia",
-        "Venezuela",
-        "Peru"
-      ],
-      "answer": 1,
-      "explanation": "Bolivia declared a state of emergency after experiencing 50 days of continuous civil protests."
-    },
-    {
-      "id": "ca-q-1781946513638-3",
+      "id": "ca-q-1782041802603-0",
       "section": "Current Affairs",
       "topic": "Odisha",
       "difficulty": "easy",
       "source": "ai",
-      "question": "President Droupadi Murmu and PM Narendra Modi are scheduled to launch development projects worth Rs 47,600 crore in which district of Odisha?",
+      "status": "pending",
+      "question": "Which village in Odisha was announced as a 'Solar Village' by PM Modi during his visit?",
       "options": [
-        "Mayurbhanj",
-        "Balasore",
-        "Cuttack",
-        "Ganjam"
+        "Pahadpur",
+        "Rayagada",
+        "Thrissur",
+        "Kolkata"
       ],
       "answer": 0,
-      "explanation": "The development projects worth Rs 47,600 crore are scheduled to be launched in the Mayurbhanj district of Odisha."
+      "explanation": "PM Modi announced Pahadpur as a 'Solar Village' on the President's birthday during his visit to Odisha.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦୀଙ୍କ ଓଡ଼ିଶା ଗସ୍ତ ସମୟରେ କେଉଁ ଗ୍ରାମକୁ 'ସୌର ଗ୍ରାମ' (Solar Village) ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା?",
+          "options": [
+            "ପାହାଡ଼ପୁର",
+            "ରାୟଗଡ଼",
+            "ତ୍ରିଶୂର",
+            "କୋଲକାତା"
+          ],
+          "explanation": "ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦୀ ଓଡ଼ିଶା ଗସ୍ତ ସମୟରେ ରାଷ୍ଟ୍ରପତିଙ୍କ ଜନ୍ମଦିନ ଅବସରରେ ପାହାଡ଼ପୁରକୁ 'ସୌର ଗ୍ରାମ' ଭାବେ ଘୋଷଣା କରିଥିଲେ।"
+        }
+      }
     },
     {
-      "id": "ca-q-1781946513638-4",
+      "id": "ca-q-1782041802603-1",
       "section": "Current Affairs",
-      "topic": "Science",
+      "topic": "National",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "PM Modi led the 12th International Yoga Day celebrations in which Indian city?",
+      "options": [
+        "Bhubaneswar",
+        "Kolkata",
+        "Delhi",
+        "Dehradun"
+      ],
+      "answer": 1,
+      "explanation": "Prime Minister Narendra Modi led the 12th International Yoga Day event in Kolkata.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦୀ କେଉଁ ଭାରତୀୟ ସହରରେ ୧୨ତମ ଆନ୍ତର୍ଜାତୀୟ ଯୋଗ ଦିବସ ଉତ୍ସବର ନେତୃତ୍ୱ ନେଇଥିଲେ?",
+          "options": [
+            "ଭୁବନେଶ୍ୱର",
+            "କୋଲକାତା",
+            "ଦିଲ୍ଲୀ",
+            "ଦେହରାଦୂନ"
+          ],
+          "explanation": "ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦୀ କୋଲକାତାରେ ୧୨ତମ ଆନ୍ତର୍ଜାତୀୟ ଯୋଗ ଦିବସ କାର୍ଯ୍ୟକ୍ରମର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1782041802603-2",
+      "section": "Current Affairs",
+      "topic": "International",
       "difficulty": "hard",
       "source": "ai",
-      "question": "Marine fossils estimated to be how many million years old were recently discovered in Baripada, Odisha?",
+      "status": "pending",
+      "question": "Which strategic strait did Iran shut down recently due to Israeli ceasefire violations in Lebanon?",
       "options": [
-        "5 million years",
-        "10 million years",
-        "15 million years",
-        "25 million years"
+        "Strait of Malacca",
+        "Strait of Hormuz",
+        "Bab-el-Mandeb",
+        "Bosporus Strait"
       ],
-      "answer": 2,
-      "explanation": "Researchers discovered 15-million-year-old marine fossils in the Baripada region of Odisha."
+      "answer": 1,
+      "explanation": "Iran closed the strategic Strait of Hormuz citing Israeli ceasefire violations in Lebanon.",
+      "translations": {
+        "or": {
+          "question": "ଲେବାନନରେ ଇସ୍ରାଏଲର ଅସ୍ତ୍ରବିରତି ଉଲ୍ଲଂଘନ କାରଣରୁ ଇରାନ ନିକଟରେ କେଉଁ ରଣନୀତିକ ପ୍ରଣାଳୀକୁ ବନ୍ଦ କରିଦେଇଛି?",
+          "options": [
+            "ମାଲାକ୍କା ପ୍ରଣାଳୀ",
+            "ହରମୁଜ ପ୍ରଣାଳୀ",
+            "ବାବ୍-ଏଲ୍-ମାଣ୍ଡେବ୍",
+            "ବୋସଫୋରସ୍ ପ୍ରଣାଳୀ"
+          ],
+          "explanation": "ଲେବାନନରେ ଇସ୍ରାଏଲର ଅସ୍ତ୍ରବିରତି ଉଲ୍ଲଂଘନ ପ୍ରତିବାଦରେ ଇରାନ ହରମୁଜ ପ୍ରଣାଳୀକୁ ବନ୍ଦ କରିଦେଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1782041802603-3",
+      "section": "Current Affairs",
+      "topic": "International",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Bangladesh PM Rahman bypassed India to select which two countries for his first official foreign visit?",
+      "options": [
+        "USA and Switzerland",
+        "Malaysia and China",
+        "Pakistan and Iran",
+        "Japan and South Korea"
+      ],
+      "answer": 1,
+      "explanation": "Bangladesh Prime Minister Rahman bypassed India, choosing Malaysia and China for his first official foreign visit.",
+      "translations": {
+        "or": {
+          "question": "ବାଂଲାଦେଶ ପ୍ରଧାନମନ୍ତ୍ରୀ ରହମାନ ଭାରତକୁ ବାଦ୍ ଦେଇ ନିଜର ପ୍ରଥମ ସରକାରୀ ବିଦେଶ ଗସ୍ତ ପାଇଁ କେଉଁ ଦୁଇଟି ଦେଶକୁ ମନୋନୀତ କରିଛନ୍ତି?",
+          "options": [
+            "ଆମେରିକା ଏବଂ ସ୍ୱିଜରଲ୍ୟାଣ୍ଡ",
+            "ମାଲେସିଆ ଏବଂ ଚୀନ",
+            "ପାକିସ୍ତାନ ଏବଂ ଇରାନ",
+            "ଜାପାନ ଏବଂ ଦକ୍ଷିଣ କୋରିଆ"
+          ],
+          "explanation": "ବାଂଲାଦେଶ ପ୍ରଧାନମନ୍ତ୍ରୀ ରହମାନ ତାଙ୍କର ପ୍ରଥମ ବିଦେଶ ଗସ୍ତ ପାଇଁ ମାଲେସିଆ ଏବଂ ଚୀନକୁ ବାଛିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1782041802603-4",
+      "section": "Current Affairs",
+      "topic": "Banking",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to BofA Securities, at what percentage is the RBI expected to hold its repo rate?",
+      "options": [
+        "6.50%",
+        "5.25%",
+        "4.00%",
+        "5.75%"
+      ],
+      "answer": 1,
+      "explanation": "BofA Securities expects the RBI to hold its repo rate at 5.25% as economic uncertainty eases.",
+      "translations": {
+        "or": {
+          "question": "BofA ସିକ୍ୟୁରିଟିଜ୍ ଅନୁଯାୟୀ, ଆରବିଆଇ ତାର ରେପୋ ହାରକୁ କେତେ ପ୍ରତିଶତରେ ଅପରିବର୍ତ୍ତିତ ରଖିବ ବୋଲି ଆଶା କରାଯାଉଛି?",
+          "options": [
+            "୬.୫୦%",
+            "୫.୨୫%",
+            "୪.୦୦%",
+            "୫.୭୫%"
+          ],
+          "explanation": "BofA ସିକ୍ୟୁରିଟିଜ୍ ଆଶା କରୁଛି ଯେ ଆରବିଆଇ ତାର ରେପୋ ହାରକୁ ୫.୨୫% ରେ ଅପରିବର୍ତ୍ତିତ ରଖିବ।"
+        }
+      }
     }
   ]
 }
