@@ -185,9 +185,15 @@ function sanitize(raw, examId, section, extraLangs) {
       // sections (Quant/Reasoning/English) are verifiable, so auto-approve.
       if (isFactualSection(section)) out.status = 'pending'
       const translations = cleanTranslations(q.translations, q.options.length, extraLangs)
+      // For exams conducted in extra languages (e.g. Odia), drop any question
+      // that didn't come back fully translated — so those exams stay consistent.
+      if (extraLangs.length > 0 && (!translations || extraLangs.some((l) => !translations[l]))) {
+        return null
+      }
       if (translations) out.translations = translations
       return out
     })
+    .filter(Boolean)
 }
 
 async function main() {

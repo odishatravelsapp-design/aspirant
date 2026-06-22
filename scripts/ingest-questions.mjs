@@ -93,6 +93,12 @@ async function main() {
 
   let examIndex = 0
   for (const exam of enabled) {
+    // Open Trivia DB is English-only; never add it to exams conducted in other
+    // languages (e.g. Odia state exams) — it would leave untranslated questions.
+    if ((exam.languages || ['en']).some((l) => l !== 'en')) {
+      console.log(`  ${exam.id}: multi-language exam, skipping English-only ingest`)
+      continue
+    }
     const section = gkSection(exam)
     if (!section) {
       console.log(`  ${exam.id}: no GA/GK section, skipping`)

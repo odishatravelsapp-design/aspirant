@@ -1,20 +1,25 @@
 name: Ingest external questions
 
-# Pulls extra GA/GK MCQs from free, openly-licensed APIs (Open Trivia DB) and
-# commits them. Runs a few hours offset from the AI generator to spread load.
+# Pulls GA/GK MCQs from Open Trivia DB. DISABLED on a schedule because the
+# content is generic Western trivia, not exam-relevant — the AI generators
+# produce far better questions. Kept as a manual (workflow_dispatch) option only.
 on:
-  schedule:
-    - cron: '0 2 * * *' # 07:30 IST daily (02:00 UTC)
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: aspirant-content
+  cancel-in-progress: false
 
 jobs:
   ingest:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -22,14 +27,6 @@ jobs:
         env:
           INGEST_PER_EXAM: '10'
         run: node scripts/ingest-questions.mjs
-      - name: Commit ingested questions
-        run: |
-          git config user.name "aspirant-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add public/data/questions
-          if git diff --staged --quiet; then
-            echo "No new questions today."
-          else
-            git commit -m "chore: ingest external GK questions"
-            git push
-          fi
+      - uses: ./.github/actions/safe-commit
+        with:
+          message: 'chore: ingest external GK questions'
