@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -691,6 +691,186 @@
       ],
       "answer": 3,
       "explanation": "Correct answer: 4.5 Billion Years."
+    },
+    {
+      "id": "tgt-web-1782152231211-0",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "When did the online streaming service \"Mixer\" launch?",
+      "options": [
+        "2013",
+        "2009",
+        "2016",
+        "2011"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 2016."
+    },
+    {
+      "id": "tgt-web-1782152231211-1",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What does the term USB stand for?",
+      "options": [
+        "Universal Simtex Blot",
+        "Unityped Semtex Backer",
+        "Unified Signal Bus",
+        "Universal Serial Bus"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Universal Serial Bus."
+    },
+    {
+      "id": "tgt-web-1782152231211-2",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What kind of memory is used on memory cache?",
+      "options": [
+        "DRAM",
+        "ROM",
+        "SRAM",
+        "Flash"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: SRAM."
+    },
+    {
+      "id": "tgt-web-1782152231211-3",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": ".rs is the top-level domain for what country?",
+      "options": [
+        "Serbia",
+        "Romania",
+        "Russia",
+        "Rwanda"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Serbia."
+    },
+    {
+      "id": "tgt-web-1782152231211-4",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of these people was NOT a founder of Apple Inc?",
+      "options": [
+        "Ronald Wayne",
+        "Steve Wozniak",
+        "Jonathan Ive",
+        "Steve Jobs"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Jonathan Ive."
+    },
+    {
+      "id": "tgt-web-1782152231211-5",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "options": [
+        ".png",
+        ".jpeg",
+        ".gif",
+        ".svg"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: .svg."
+    },
+    {
+      "id": "tgt-web-1782152231211-6",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
+      "options": [
+        "eBay",
+        "Overstock",
+        "Shopify",
+        "Amazon"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Amazon."
+    },
+    {
+      "id": "tgt-web-1782152231211-7",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In computing terms, typically what does CLI stand for?",
+      "options": [
+        "Control Line Interface",
+        "Common Language Interface",
+        "Command Line Interface",
+        "Common Language Input"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Command Line Interface."
+    },
+    {
+      "id": "tgt-web-1782152231211-8",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is largely considered the precursor to the USB format?",
+      "options": [
+        "PCIe",
+        "FireWire",
+        "PS/2",
+        "SVGA"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: PS/2."
+    },
+    {
+      "id": "tgt-web-1782152231211-9",
+      "section": "Subject Knowledge",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "options": [
+        "<marquee></marquee>",
+        "<slide></slide>",
+        "<move></move>",
+        "<scroll></scroll>"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: <marquee></marquee>."
     }
   ]
 }

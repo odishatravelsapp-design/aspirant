@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -623,6 +623,186 @@
       ],
       "answer": 1,
       "explanation": "Correct answer: Naviér conjecture."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-0",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of these is NOT a real tectonic plate?",
+      "options": [
+        "Eurasian Plate",
+        "North American Plate",
+        "Atlantic Plate",
+        "Nazca Plate"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Atlantic Plate."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-1",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the official language of Bhutan?",
+      "options": [
+        "Dzongkha",
+        "Groma",
+        "Ladakhi",
+        "Karen"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Dzongkha."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-2",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which German city is located on the River Isar?",
+      "options": [
+        "Hamburg",
+        "Dortmund",
+        "Munich",
+        "Berlin"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Munich."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-3",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The country of Belize borders which country?",
+      "options": [
+        "Kenya",
+        "Per&uacute;",
+        "Guatemala",
+        "Laos"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Guatemala."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-4",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In which ocean is the Réunion island?",
+      "options": [
+        "North Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "South Pacific Ocean"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Indian Ocean."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-5",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the capital of Mauritius?",
+      "options": [
+        "Port Moresby",
+        "Port Louis",
+        "Port-au-Prince",
+        "Port Vila"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Port Louis."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-6",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many time zones does China have?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 1."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-7",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Bikini Atoll is in which country?",
+      "options": [
+        "Christmas Islands",
+        "Bahamas",
+        "Fiji",
+        "Marshall Islands"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Marshall Islands."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-8",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Where is the world's oldest still operational space launch facility located?",
+      "options": [
+        "Kazakhstan",
+        "Russia",
+        "United States",
+        "Iran"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Kazakhstan."
+    },
+    {
+      "id": "ibps-po-web-1782152208863-9",
+      "section": "General Awareness",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which Canadian province has Charlottetown as its capital?",
+      "options": [
+        "Saskachewan",
+        "Prince Edward Island",
+        "Ontario",
+        "Northwest Terrirories"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Prince Edward Island."
     }
   ]
 }

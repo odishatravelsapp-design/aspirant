@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -623,6 +623,186 @@
       ],
       "answer": 1,
       "explanation": "Correct answer: Secret sharing scheme."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-0",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of the following is not one of the seven Millennium Prize Problems?",
+      "options": [
+        "Birch and Swinnerton-Dyer Conjecture",
+        "Poincaré conjecture",
+        "Riemann hypothesis",
+        "Naviér conjecture"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Naviér conjecture."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-1",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many sides does a M&ouml;bius strip have?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 1."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-2",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
+      "options": [
+        "314.15 Inches",
+        "3141.5 Inches",
+        "380.1215 Inches",
+        "1256.6 Inches"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: 314.15 Inches."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-3",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the first Mersenne prime exponent over 1000?",
+      "options": [
+        "2203",
+        "1279",
+        "1009",
+        "1069"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: 1279."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-4",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the correct order of operations for solving equations?",
+      "options": [
+        "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+        "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+        "Addition, Multiplication, Division, Subtraction, Addition, Parentheses",
+        "The order in which the operations are written."
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Parentheses, Exponents, Multiplication, Division, Addition, Subtraction."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-5",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many sides does a pentagon have?",
+      "options": [
+        "4",
+        "5",
+        "9",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: 5."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-6",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The notion of a \"set that contains all sets which do not contain themselves\" is a paradoxical idea attributed to which English philosopher?",
+      "options": [
+        "John Locke",
+        "Bertrand Russel",
+        "Francis Bacon",
+        "Alfred North Whitehead"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Bertrand Russel."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-7",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many sides does a heptagon have?",
+      "options": [
+        "5",
+        "7",
+        "4",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: 7."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-8",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In Roman Numerals, what does XL equate to?",
+      "options": [
+        "15",
+        "40",
+        "90",
+        "60"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: 40."
+    },
+    {
+      "id": "sbi-clerk-web-1782152203307-9",
+      "section": "General Awareness",
+      "topic": "Mathematics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In the hexadecimal system, what number comes after 9?",
+      "options": [
+        "The Number 0",
+        "10",
+        "The Letter A",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: The Letter A."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1201,6 +1201,186 @@
       ],
       "answer": 1,
       "explanation": "Correct answer: Josip Broz Tito."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-0",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+      "options": [
+        "Soviet Union",
+        "Poland",
+        "United States of America",
+        "India"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: India."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-1",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+      "options": [
+        "The Champ",
+        "The Oracle",
+        "The Hoot Owl",
+        "The Kingfish"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: The Kingfish."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-2",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?",
+      "options": [
+        "2009",
+        "1997",
+        "2006",
+        "2012"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: 2009."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-3",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+      "options": [
+        "B",
+        "D",
+        "X",
+        "A"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: A."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-4",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Former United States President Bill Clinton famously played which instrument?",
+      "options": [
+        "Violin",
+        "Saxophone",
+        "Baritone horn",
+        "Piano"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Saxophone."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-5",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "options": [
+        "Nikita Khrushchev",
+        "Boris Yeltsin",
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Nikita Khrushchev."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-6",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+      "options": [
+        "Nicaragua",
+        "Ethiopia",
+        "Chile",
+        "Indonesia"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Chile."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-7",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which U.S. president is said to have had the longest beard?",
+      "options": [
+        "James A. Garfield",
+        "Zachary Taylor",
+        "John Quincy Adams",
+        "Rutherford B. Hayes"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Rutherford B. Hayes."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-8",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The largest consumer market in 2015 was...",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "Japan",
+        "The United States of America"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: The United States of America."
+    },
+    {
+      "id": "odisha-ssb-web-1782152220011-9",
+      "section": "Subject Knowledge",
+      "topic": "Politics",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+      "options": [
+        "Protecting the right to keep and bear arms",
+        "Preventing cruel and unusual punishments",
+        "Preventing unreasonable searches and seizures",
+        "Protecting against imprisonment without due process of law"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Preventing unreasonable searches and seizures."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -642,6 +642,186 @@
       ],
       "answer": 2,
       "explanation": "Correct answer: Deoxyribonucleic Acid."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-0",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": ".rs is the top-level domain for what country?",
+      "options": [
+        "Rwanda",
+        "Romania",
+        "Russia",
+        "Serbia"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Serbia."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-1",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "options": [
+        "Intel 8088",
+        "Motorola 68000",
+        "Zilog Z80",
+        "Yamaha YM2612"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Motorola 68000."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-2",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How many cores does the Intel i7-6950X have?",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "10"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 10."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-3",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "options": [
+        "Corrupted Blood",
+        "Heartbleed",
+        "Shellscript",
+        "Shellshock"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Heartbleed."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-4",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?",
+      "options": [
+        "Ctrl + C",
+        "Alt + X",
+        "Ctrl + X",
+        "Alt + C"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Ctrl + C."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-5",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "options": [
+        "Motherboard",
+        "Hard Disk Drive",
+        "Random Access Memory",
+        "Central Processing Unit"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Motherboard."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-6",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How fast is USB 3.1 Gen 2 theoretically?",
+      "options": [
+        "1 Gb/s",
+        "8 Gb/s",
+        "5 Gb/s",
+        "10 Gb/s"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 10 Gb/s."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-7",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+      "options": [
+        "Xmillennium ",
+        "MSX",
+        "PC-9801",
+        "FM-7"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: FM-7."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-8",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Who is the founder of Palantir?",
+      "options": [
+        "Jack Dorsey",
+        "Peter Thiel",
+        "Marc Benioff",
+        "Mark Zuckerberg"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Peter Thiel."
+    },
+    {
+      "id": "ibps-clerk-web-1782152197668-9",
+      "section": "General Awareness",
+      "topic": "Computers",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "In any programming language, what is the most common way to iterate through an array?",
+      "options": [
+        "'If' Statements",
+        "'While' loops",
+        "'For' loops",
+        "'Do-while' loops"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 'For' loops."
     }
   ]
 }

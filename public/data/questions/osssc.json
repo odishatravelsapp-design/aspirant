@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -326,6 +326,186 @@
       ],
       "answer": 3,
       "explanation": "Correct answer: Ohio."
+    },
+    {
+      "id": "osssc-web-1782152214421-0",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Where did first known lesbian rights organization in the United States, Daughters of Bilitis, start?",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Chicago",
+        "San Francisco"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: San Francisco."
+    },
+    {
+      "id": "osssc-web-1782152214421-1",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+      "options": [
+        "Esharhaddon",
+        "Ashur-nasir-pal II",
+        "Shalmaneser V",
+        "Shamshi-Adad III"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Shamshi-Adad III."
+    },
+    {
+      "id": "osssc-web-1782152214421-2",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The Spitfire L.F. Mk IX had what engine?",
+      "options": [
+        "Griffon 65",
+        "Merlin X",
+        "Merlin 66",
+        "Merlin 50"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Merlin 66."
+    },
+    {
+      "id": "osssc-web-1782152214421-3",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What year did World War II end?",
+      "options": [
+        "1947",
+        "1943",
+        "1945",
+        "1950"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 1945."
+    },
+    {
+      "id": "osssc-web-1782152214421-4",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Under which name was Rodrigo Borgia made Pope?",
+      "options": [
+        "Alexander VI",
+        "John Paul II",
+        "Rodrigo I",
+        "Pius VII"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Alexander VI."
+    },
+    {
+      "id": "osssc-web-1782152214421-5",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "How old was the famous King Tutankhamen (Tut) when he died?",
+      "options": [
+        "21",
+        "15",
+        "30",
+        "19"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 19."
+    },
+    {
+      "id": "osssc-web-1782152214421-6",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "When was the city of Rome, Italy founded?",
+      "options": [
+        "524 BCE",
+        "697 BCE",
+        "902 BCE",
+        "753 BCE"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: 753 BCE."
+    },
+    {
+      "id": "osssc-web-1782152214421-7",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+      "options": [
+        "China",
+        "Iraq",
+        "Russia",
+        "Afghanistan"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Afghanistan."
+    },
+    {
+      "id": "osssc-web-1782152214421-8",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the oldest US state?",
+      "options": [
+        "Maine",
+        "Virginia",
+        "Rhode Island",
+        "Delaware"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Delaware."
+    },
+    {
+      "id": "osssc-web-1782152214421-9",
+      "section": "General Knowledge",
+      "topic": "History",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Who was the first president of Kenya?",
+      "options": [
+        "Jomo Kenyatta",
+        "Oginga Odinga",
+        "Tom Mboya",
+        "Daniel Moi"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Jomo Kenyatta."
     }
   ]
 }

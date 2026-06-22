@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1201,6 +1201,186 @@
       ],
       "answer": 0,
       "explanation": "Correct answer: India."
+    },
+    {
+      "id": "pgt-web-1782152225647-0",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which scientific unit is named after an Italian nobleman?",
+      "options": [
+        "Pascal",
+        "Volt",
+        "Ohm",
+        "Hertz"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Volt."
+    },
+    {
+      "id": "pgt-web-1782152225647-1",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
+      "options": [
+        "Ordovician&ndash;Silurian",
+        "Cretaceous-Paleogene",
+        "Triassic&ndash;Jurassic",
+        "Permian&ndash;Triassic"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Cretaceous-Paleogene."
+    },
+    {
+      "id": "pgt-web-1782152225647-2",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What is the unit of electrical capacitance?",
+      "options": [
+        "Gauss",
+        "Henry",
+        "Watt",
+        "Farad"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Farad."
+    },
+    {
+      "id": "pgt-web-1782152225647-3",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "71% of the Earth's surface is made up of",
+      "options": [
+        "Continents",
+        "Forests",
+        "Water",
+        "Deserts"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Water."
+    },
+    {
+      "id": "pgt-web-1782152225647-4",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+      "options": [
+        "Cognitive Dissonance",
+        "Split-Brain",
+        "Flip-Flop Syndrome",
+        "Blind Sight"
+      ],
+      "answer": 0,
+      "explanation": "Correct answer: Cognitive Dissonance."
+    },
+    {
+      "id": "pgt-web-1782152225647-5",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "medium",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What medication was once commonly used as rat poison?",
+      "options": [
+        "Aspirin",
+        "Coumadin",
+        "Eliquis",
+        "Tylenol"
+      ],
+      "answer": 1,
+      "explanation": "Correct answer: Coumadin."
+    },
+    {
+      "id": "pgt-web-1782152225647-6",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+      "options": [
+        "Tennis Elbow",
+        "Carpal Tunnel",
+        "Housemaid's Knee",
+        "Shin Splints"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Shin Splints."
+    },
+    {
+      "id": "pgt-web-1782152225647-7",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+      "options": [
+        "Hurricane",
+        "Breeze",
+        "Gale",
+        "Storm"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: Gale."
+    },
+    {
+      "id": "pgt-web-1782152225647-8",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "hard",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "Where in the human body is the Pineal Gland located?",
+      "options": [
+        "Chest",
+        "Groin",
+        "Throat",
+        "Brain"
+      ],
+      "answer": 3,
+      "explanation": "Correct answer: Brain."
+    },
+    {
+      "id": "pgt-web-1782152225647-9",
+      "section": "Subject Knowledge",
+      "topic": "Science & Nature",
+      "difficulty": "easy",
+      "source": "web",
+      "status": "pending",
+      "attribution": "Open Trivia DB (CC BY-SA 4.0)",
+      "question": "The human heart has how many chambers?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "Correct answer: 4."
     }
   ]
 }
