@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -443,6 +443,176 @@
       ],
       "answer": 0,
       "explanation": "The Composite Water Management Index (CWMI) is launched by NITI Aayog to provide an annual snapshot of water management performance across Indian states and Union Territories."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-0",
+      "section": "General Awareness",
+      "topic": "Medieval Indian History",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under whose reign in the Delhi Sultanate was the dedicated department for agricultural development, 'Diwan-i-Amir-Kohi', established?",
+      "options": [
+        "Alauddin Khalji",
+        "Muhammad bin Tughlaq",
+        "Firoz Shah Tughlaq",
+        "Ghiyasuddin Tughlaq"
+      ],
+      "answer": 1,
+      "explanation": "Muhammad bin Tughlaq established the department of 'Diwan-i-Amir-Kohi' to bring uncultivated land under cultivation through direct state support and loans to farmers."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-1",
+      "section": "General Awareness",
+      "topic": "Modern India & Freedom Struggle",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following was the President of the Indian National Congress during the historic 1916 Lucknow Session, where the Lucknow Pact was signed?",
+      "options": [
+        "Ambica Charan Mazumdar",
+        "Bhupendra Nath Bose",
+        "Rash Behari Ghosh",
+        "Madan Mohan Malaviya"
+      ],
+      "answer": 0,
+      "explanation": "Ambica Charan Mazumdar presided over the 1916 Lucknow Session of the Indian National Congress, which marked the reunion of the moderate and extremist factions as well as the alliance with the Muslim League."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-2",
+      "section": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The Barren Island, which contains the only active volcano in the Indian subcontinent, is located in which of the following water bodies?",
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Gulf of Mannar",
+        "Laccadive Sea"
+      ],
+      "answer": 1,
+      "explanation": "Barren Island is located in the Andaman Sea, which is a marginal sea of the northeastern Indian Ocean and part of the Bay of Bengal."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-3",
+      "section": "General Awareness",
+      "topic": "World Geography",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following landlocked countries in South America is bordered exclusively by Brazil, Argentina, and Bolivia?",
+      "options": [
+        "Ecuador",
+        "Paraguay",
+        "Uruguay",
+        "Suriname"
+      ],
+      "answer": 1,
+      "explanation": "Paraguay is one of the two landlocked nations in South America and shares its borders strictly with Bolivia to the northwest, Brazil to the northeast, and Argentina to the south and west."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-4",
+      "section": "General Awareness",
+      "topic": "Physical Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the scientific term used to describe the boundary zone between the Earth's crust and the upper mantle where seismic wave velocities change abruptly?",
+      "options": [
+        "Gutenberg Discontinuity",
+        "Mohorovicic Discontinuity",
+        "Lehmann Discontinuity",
+        "Conrad Discontinuity"
+      ],
+      "answer": 1,
+      "explanation": "The Mohorovicic Discontinuity, commonly called the Moho, is the boundary layer separating the Earth's crust from the underlying mantle."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-5",
+      "section": "General Awareness",
+      "topic": "Physics (basics)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following laws of physics states that the total current entering a junction or node in an electrical circuit is equal to the total current leaving that node?",
+      "options": [
+        "Ohm's Law",
+        "Faraday's Law of Induction",
+        "Kirchhoff's First Law (Current Law)",
+        "Lenz's Law"
+      ],
+      "answer": 2,
+      "explanation": "Kirchhoff's Current Law (KCL) is based on the law of conservation of electric charge, stating that the algebraic sum of currents meeting at any junction is zero."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-6",
+      "section": "General Awareness",
+      "topic": "Chemistry (basics)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the primary mineral constituent of 'Lapis Lazuli', a deep-blue metamorphic rock used extensively as a semi-precious stone?",
+      "options": [
+        "Calcium Carbonate",
+        "Lazurite",
+        "Copper Sulfate",
+        "Aluminium Oxide"
+      ],
+      "answer": 1,
+      "explanation": "Lazurite is a blue feldspathoid silicate mineral and is the main component of the gemstone lapis lazuli, which gives it its signature rich blue color."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-7",
+      "section": "General Awareness",
+      "topic": "Biology & Human Body",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following endocrine glands in the human body is referred to as the 'Master Gland' because it regulates the functions of other endocrine glands?",
+      "options": [
+        "Thyroid Gland",
+        "Adrenal Gland",
+        "Pituitary Gland",
+        "Pancreas"
+      ],
+      "answer": 2,
+      "explanation": "The pituitary gland is called the 'master gland' because it secretes hormones that trigger other endocrine glands (like the thyroid, adrenal glands, and gonads) to produce their own hormones."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-8",
+      "section": "General Awareness",
+      "topic": "Medieval Indian History",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "The famous Battle of Talikota (1565 AD), which led to the collapse of the Vijayanagara Empire, was fought during the reign of which nominal Emperor of Vijayanagara?",
+      "options": [
+        "Krishna Deva Raya",
+        "Sadasiva Raya",
+        "Achyuta Deva Raya",
+        "Rama Raya"
+      ],
+      "answer": 1,
+      "explanation": "While the de facto control of the empire was in the hands of the prime minister Aliya Rama Raya (who was killed in the battle), the nominal Emperor of Vijayanagara at the time was Sadasiva Raya."
+    },
+    {
+      "id": "ibps-po-gk-1782197621563-9",
+      "section": "General Awareness",
+      "topic": "Modern India & Freedom Struggle",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In which year was the controversial 'Vernacular Press Act' enacted by Viceroy Lord Lytton to curtail the freedom of Indian-language newspapers?",
+      "options": [
+        "1872",
+        "1875",
+        "1878",
+        "1882"
+      ],
+      "answer": 2,
+      "explanation": "The Vernacular Press Act was passed in 1878 to suppress local-language newspapers that were critical of British policies, particularly the Second Anglo-Afghan War."
     }
   ]
 }

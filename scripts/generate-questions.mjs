@@ -35,6 +35,9 @@ const MAX_RETRIES = 4
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
+// Normalize a question for de-duplication.
+const normQ = (s) => s.toLowerCase().replace(/\s+/g, ' ').replace(/[^\w ]/g, '').trim()
+
 // Global throttle: ensures at least THROTTLE_MS between any two API calls.
 let lastRequest = 0
 async function throttle() {
@@ -50,7 +53,13 @@ const LANG_NAMES = { or: 'Odia (ଓଡ଼ିଆ)', hi: 'Hindi', bn: 'Bengali', t
 // model itself confirms are correct — a cheap quality guard against hallucination.
 // `extraLangs` are non-English language codes this exam is conducted in; the model
 // is asked to translate ONLY for those (banking exams get none, so stay English).
-function buildPrompt(examName, section, count, extraLangs) {
+function buildPrompt(examName, section, count, extraLangs, avoid) {
+  const avoidBlock =
+    avoid && avoid.length
+      ? `\n- Do NOT repeat or rephrase any of these already-asked questions:\n${avoid
+          .map((q) => `  • ${q}`)
+          .join('\n')}`
+      : ''
   const translateBlock =
     extraLangs.length > 0
       ? `
@@ -71,10 +80,11 @@ function buildPrompt(examName, section, count, extraLangs) {
 Generate ${count} multiple-choice questions for the section "${section}".
 
 Rules:
-- Mix difficulties across the set: include easy, medium, hard, and at least one "expert" (very difficult) question, all exam-appropriate.
+- Every question must be NEW and distinct from the others.
+- Spread difficulty roughly evenly across all four levels: easy, medium, hard, expert (very difficult).
 - Exactly 4 options each.
 - For factual questions, only use well-established, verifiable facts.
-- After writing each question, RE-SOLVE it yourself and set "verified" to true ONLY if you are fully confident the marked answer is correct.${translateBlock}
+- After writing each question, RE-SOLVE it yourself and set "verified" to true ONLY if you are fully confident the marked answer is correct.${avoidBlock}${translateBlock}
 
 Return ONLY valid JSON (no markdown), an array of objects with this exact shape:
 [
@@ -104,7 +114,7 @@ async function callGemini(prompt) {
       headers: { 'Content-Type': 'application/json', 'X-goog-api-key': API_KEY },
       body: JSON.stringify({
         contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.7, responseMimeType: 'application/json' },
+        generationConfig: { temperature: 0.9, responseMimeType: 'application/json' },
       }),
     })
 
@@ -115,10 +125,10 @@ async function callGemini(prompt) {
     }
 
     const body = await res.text()
-    // On rate-limit, wait the suggested time and retry instead of failing.
-    if (res.status === 429 && attempt < MAX_RETRIES) {
-      const wait = retryDelayMs(body)
-      console.log(`    rate-limited, waiting ${Math.round(wait / 1000)}s…`)
+    // Retry transient errors: 429 (rate limit) and 500/503 (model overloaded).
+    if ([429, 500, 503].includes(res.status) && attempt < MAX_RETRIES) {
+      const wait = res.status === 429 ? retryDelayMs(body) : 15000
+      console.log(`    transient ${res.status}, retrying in ${Math.round(wait / 1000)}s…`)
       await sleep(wait)
       continue
     }
@@ -212,12 +222,24 @@ async function main() {
 
     // Only translate into the non-English languages this exam is actually conducted in.
     const extraLangs = (exam.languages || ['en']).filter((l) => l !== 'en')
+    // De-dup against everything already in the bank.
+    const seen = new Set(bank.questions.map((q) => normQ(q.question)))
 
     let added = 0
     for (const section of exam.sections) {
       try {
-        const raw = await callGemini(buildPrompt(exam.name, section, PER_TOPIC, extraLangs))
-        const clean = sanitize(raw, exam.id, section, extraLangs)
+        // Tell the model which recent questions in this section to avoid repeating.
+        const avoid = bank.questions
+          .filter((q) => q.section === section)
+          .slice(-20)
+          .map((q) => q.question.slice(0, 90))
+        const raw = await callGemini(buildPrompt(exam.name, section, PER_TOPIC, extraLangs, avoid))
+        const clean = sanitize(raw, exam.id, section, extraLangs).filter((q) => {
+          const k = normQ(q.question)
+          if (seen.has(k)) return false
+          seen.add(k)
+          return true
+        })
         bank.questions.push(...clean)
         added += clean.length
         console.log(`  ${exam.id} / ${section}: +${clean.length}`)

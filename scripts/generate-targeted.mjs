@@ -28,16 +28,42 @@ if (!API_KEY) {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 const norm = (s) => s.toLowerCase().replace(/\s+/g, ' ').replace(/[^\w ]/g, '').trim()
 
-// Exam-relevant topic pools. The model spreads questions across these.
+// Large topic pools — we rotate through a fresh slice each day (see rotate())
+// so the model keeps exploring new ground instead of repeating "top" topics.
 const EDU_TOPICS = [
-  'Educational Psychology', 'Child Development & Pedagogy', 'Learning Theories',
-  'Teaching Methods & Strategies', 'Assessment & Evaluation', 'Educational Philosophy & Thinkers',
-  'Inclusive Education', 'ICT in Education', 'Curriculum & Instruction', 'Guidance & Counselling',
+  'Educational Psychology', 'Child Development & Pedagogy', "Piaget's Cognitive Development",
+  "Vygotsky's Sociocultural Theory", "Kohlberg's Moral Development", 'Behaviourism (Pavlov, Skinner)',
+  'Cognitivism & Information Processing', 'Constructivism', 'Theories of Motivation',
+  'Theories of Intelligence (Gardner, Spearman)', 'Personality & its Assessment',
+  'Teaching Methods & Strategies', 'Lesson Planning & Microteaching', 'Assessment & Evaluation',
+  "Bloom's Taxonomy", 'Formative vs Summative Assessment', 'Educational Philosophers (Tagore, Gandhi)',
+  'Western Educators (Dewey, Froebel, Montessori)', 'Inclusive & Special Education',
+  'Learning Disabilities', 'ICT in Education', 'Educational Technology', 'Curriculum Development',
+  'Guidance & Counselling', 'Classroom Management', 'Action Research', 'NEP 2020',
+  'Right to Education (RTE) Act', 'National Curriculum Framework (NCF)',
+  'Educational Measurement & Statistics', 'Language Acquisition', 'Memory & Forgetting',
 ]
 const GK_TOPICS = [
-  'Banking Awareness', 'Indian Economy', 'Static GK', 'Indian Polity',
-  'Indian History', 'Geography', 'General Science', 'Government Schemes',
+  'Banking Awareness', 'RBI & Monetary Policy', 'Types of Bank Accounts', 'Negotiable Instruments',
+  'Banking History', 'Financial Institutions (NABARD, SIDBI, EXIM)', 'Money Market & Capital Market',
+  'Insurance & Pension Schemes', 'Government Welfare Schemes', 'Indian Economy & Planning',
+  'Union Budget & Taxation (GST)', 'Indian Constitution & Articles', 'Fundamental Rights & Duties',
+  'Parliament & Judiciary', 'Constitutional Amendments', 'Ancient Indian History',
+  'Medieval Indian History', 'Modern India & Freedom Struggle', 'Indian Geography',
+  'World Geography', 'Physical Geography', 'Physics (basics)', 'Chemistry (basics)',
+  'Biology & Human Body', 'Environment & Ecology', 'Space & Defence (ISRO, DRDO)',
+  'Sports & Tournaments', 'Awards & Honours', 'Books & Authors', 'Important Days & Themes',
+  'National & International Organizations', 'Capitals & Currencies', 'Census 2011',
+  'Indian Art & Culture', 'Committees & Reports', 'Static GK (Dams, Parks, Stadiums)',
 ]
+
+// Pick a rotating slice of `n` topics for the given day so coverage cycles over time.
+function rotate(pool, n, dayIdx) {
+  const start = (dayIdx * n) % pool.length
+  const out = []
+  for (let i = 0; i < n; i++) out.push(pool[(start + i) % pool.length])
+  return out
+}
 
 const EDU_EXAMS = (process.env.EDU_EXAMS || 'odisha-ssb,pgt,tgt').split(',')
 const GK_EXAMS = (process.env.GK_EXAMS || 'ibps-clerk,sbi-clerk,ibps-po').split(',')
@@ -49,12 +75,18 @@ async function throttle() {
   lastRequest = Date.now()
 }
 
-function buildPrompt(examName, count, topics, kind) {
+function buildPrompt(examName, count, topics, kind, avoid) {
+  const avoidBlock =
+    avoid && avoid.length
+      ? `\n\nDo NOT repeat or merely rephrase any of these already-asked questions:\n${avoid
+          .map((q) => `- ${q}`)
+          .join('\n')}`
+      : ''
   return `You are a senior question setter for the Indian exam "${examName}".
-Generate ${count} multiple-choice ${kind} questions that are LIKELY to appear, spread across these topics:
+Generate ${count} FRESH and DISTINCT multiple-choice ${kind} questions that are LIKELY to appear, spread across these topics:
 ${topics.map((t) => `- ${t}`).join('\n')}
 
-Rules: mix difficulties — include easy, medium, hard, and at least one "expert" (very difficult) question; exactly 4 options; only well-established, verifiable facts; RE-SOLVE each and set "verified" true only if fully confident.
+Rules: every question must be NEW and clearly different from the others; spread difficulty roughly evenly across all four levels — easy, medium, hard, and expert (very difficult); exactly 4 options; only well-established, verifiable facts; RE-SOLVE each and set "verified" true only if fully confident.${avoidBlock}
 
 Return ONLY valid JSON (no markdown): an array of
 { "topic": "one of the topics above", "difficulty": "easy|medium|hard|expert", "question": "...", "options": ["A","B","C","D"], "answer": 0, "explanation": "...", "verified": true }`
@@ -70,7 +102,7 @@ async function callGemini(prompt) {
         headers: { 'Content-Type': 'application/json', 'X-goog-api-key': API_KEY },
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.7, responseMimeType: 'application/json' },
+          generationConfig: { temperature: 0.95, responseMimeType: 'application/json' },
         }),
       },
     )
@@ -79,10 +111,12 @@ async function callGemini(prompt) {
       return JSON.parse(data?.candidates?.[0]?.content?.parts?.[0]?.text ?? '[]')
     }
     const body = await res.text()
-    if (res.status === 429 && attempt < 4) {
+    // Retry transient errors: 429 (rate limit), 500/503 (model overloaded).
+    if ([429, 500, 503].includes(res.status) && attempt < 4) {
       const m = /"retryDelay":\s*"(\d+)/.exec(body)
-      console.log(`    rate-limited, waiting…`)
-      await sleep(((m ? Number(m[1]) : 60) + 1) * 1000)
+      const wait = res.status === 429 ? (m ? Number(m[1]) : 60) + 1 : 15
+      console.log(`    transient ${res.status}, retrying in ${wait}s…`)
+      await sleep(wait * 1000)
       continue
     }
     throw new Error(`Gemini ${res.status}: ${body.slice(0, 160)}`)
@@ -134,10 +168,30 @@ async function appendTo(examId, makeQuestions) {
   console.log(`✅ ${examId}: +${added}`)
 }
 
-async function main() {
-  // 1) Education questions → both teaching banks (shared syllabus).
+// Recent question stems from a bank, to tell the model what to avoid repeating.
+async function recentStems(examId, limit = 30) {
   try {
-    const eduRaw = await callGemini(buildPrompt('Odisha SSB / PGT (teaching)', EDU_COUNT, EDU_TOPICS, 'education'))
+    const bank = JSON.parse(await readFile(join(DATA, 'questions', `${examId}.json`), 'utf8'))
+    return bank.questions.slice(-limit).map((q) => q.question.slice(0, 90))
+  } catch {
+    return []
+  }
+}
+
+async function main() {
+  const dayIdx = Math.floor(Date.now() / 86400000)
+  // Rotate a fresh slice of topics each day so coverage keeps moving.
+  const eduTopics = rotate(EDU_TOPICS, 8, dayIdx)
+  const gkTopics = rotate(GK_TOPICS, 8, dayIdx + 3)
+  console.log('Today edu topics:', eduTopics.join(', '))
+  console.log('Today GK topics:', gkTopics.join(', '))
+
+  // 1) Education questions → all teaching banks (shared syllabus).
+  try {
+    const avoid = await recentStems(EDU_EXAMS[0])
+    const eduRaw = await callGemini(
+      buildPrompt('Odisha SSB / PGT / TGT (teaching)', EDU_COUNT, eduTopics, 'education', avoid),
+    )
     for (const exam of EDU_EXAMS) {
       await appendTo(exam, (id) => sanitize(eduRaw, id, 'Teaching Aptitude', 'edu'))
     }
@@ -147,7 +201,10 @@ async function main() {
 
   // 2) IBPS-style GK → banking banks.
   try {
-    const gkRaw = await callGemini(buildPrompt('IBPS (banking)', GK_COUNT, GK_TOPICS, 'general awareness'))
+    const avoid = await recentStems(GK_EXAMS[0])
+    const gkRaw = await callGemini(
+      buildPrompt('IBPS (banking)', GK_COUNT, gkTopics, 'general awareness', avoid),
+    )
     for (const exam of GK_EXAMS) {
       await appendTo(exam, (id) => sanitize(gkRaw, id, 'General Awareness', 'gk'))
     }
