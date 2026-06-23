@@ -613,6 +613,104 @@
       ],
       "answer": 2,
       "explanation": "The Vernacular Press Act was passed in 1878 to suppress local-language newspapers that were critical of British policies, particularly the Second Anglo-Afghan War."
+    },
+    {
+      "id": "sbi-clerk-ai-1782216360642-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C start a business. A invests Rs. 4000 for 12 months, B invests Rs. 6000 for 8 months, and C invests Rs. 8000 for 9 months. If the total profit at the end of the year is Rs. 21,000, find the share of C in the profit.",
+      "options": [
+        "Rs. 8,000",
+        "Rs. 9,000",
+        "Rs. 10,500",
+        "Rs. 7,500"
+      ],
+      "answer": 1,
+      "explanation": "The ratio of profit sharing is equivalent to the ratio of the product of investment and time period. Ratio of A : B : C = (4000 * 12) : (6000 * 8) : (8000 * 9) = 48000 : 48000 : 72000 = 2 : 2 : 3. Total profit shares = 2 + 2 + 3 = 7 parts. Total profit is Rs. 21,000. Therefore, 1 part = 21,000 / 7 = Rs. 3,000. C's share (3 parts) = 3 * 3,000 = Rs. 9,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1782216360642-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B together can complete a work in 12 days. B and C together can complete the same work in 16 days. A worked at it for 5 days, B for 7 days, and C finished the remaining work in 13 days. In how many days can C alone complete the work?",
+      "options": [
+        "16 days",
+        "24 days",
+        "36 days",
+        "48 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the total work be the LCM of 12 and 16, which is 48 units. Efficiency of (A + B) = 48 / 12 = 4 units/day. Efficiency of (B + C) = 48 / 16 = 3 units/day. A worked for 5 days, B for 7 days, and C for 13 days. We can regroup this work as: 5 days of (A + B) + 2 days of (B + C) + 11 days of C. Work done by (A + B) in 5 days = 5 * 4 = 20 units. Work done by (B + C) in 2 days = 2 * 3 = 6 units. Total work done so far = 26 units. Remaining work = 48 - 26 = 22 units. This remaining 22 units is completed by C in 11 days. So, efficiency of C = 22 / 11 = 2 units/day. Time taken by C alone to complete the work = 48 / 2 = 24 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1782216849308-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the segment in the sentence which contains a grammatical error.\n\n'Neither the manager nor his subordinates was present at the meeting to address the clients' grievances.'",
+      "options": [
+        "Neither the manager",
+        "nor his subordinates was",
+        "present at the meeting",
+        "to address the clients' grievances"
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree with the closer subject. In this sentence, the closer subject is 'subordinates' (plural), so the verb should be 'were' instead of 'was'."
+    },
+    {
+      "id": "sbi-clerk-ai-1782216849308-1",
+      "section": "English",
+      "topic": "Sentence Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, a blank is given. Choose the most appropriate word from the options to fill the blank and make the sentence grammatically correct and meaningful.\n\n'The central bank’s decision to raise interest rates was met with ________ resistance from local businesses, who feared a sharp decline in consumer spending.'",
+      "options": [
+        "stiff",
+        "placid",
+        "marginal",
+        "ephemeral"
+      ],
+      "answer": 0,
+      "explanation": "'Stiff' is the most appropriate word here as 'stiff resistance' is a standard collocation meaning strong or firm opposition. The context of fearing a 'sharp decline' indicates that the resistance from businesses would be intense and strong, making 'stiff' the best fit over placid (calm), marginal (minor), or ephemeral (short-lived)."
+    },
+    {
+      "id": "sbi-clerk-ai-1782216910154-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme, what is the maximum limit of investment/subscription permitted for a Hindu Undivided Family (HUF) per fiscal year (April-March)?",
+      "options": [
+        "2 kg",
+        "4 kg",
+        "10 kg",
+        "20 kg"
+      ],
+      "answer": 1,
+      "explanation": "According to the Reserve Bank of India (RBI) guidelines, the maximum limit of subscription under the Sovereign Gold Bond (SGB) Scheme is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities per fiscal year.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782216910154-1",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF). Which of the following is a key characteristic of the SDF that distinguishes it from the traditional Reverse Repo facility?",
+      "options": [
+        "It requires the RBI to pledge Government Securities as collateral to the depositing banks.",
+        "It operates as a liquidity absorption tool that does not require the RBI to provide collateral.",
+        "It is a lending tool rather than a deposit tool, used to inject liquidity into the banking system.",
+        "It is strictly a long-term deposit scheme with a minimum maturity period of one year."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption mechanism. Unlike the traditional Reverse Repo facility, where the RBI has to provide government securities as collateral to banks, the SDF does not require any collateral, thereby strengthening the operating framework of monetary policy.",
+      "status": "pending"
     }
   ]
 }

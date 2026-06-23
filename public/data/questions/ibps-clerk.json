@@ -632,6 +632,104 @@
       ],
       "answer": 2,
       "explanation": "The Vernacular Press Act was passed in 1878 to suppress local-language newspapers that were critical of British policies, particularly the Second Anglo-Afghan War."
+    },
+    {
+      "id": "ibps-clerk-ai-1782215559400-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks up his goods by 40% above the cost price and allows a discount of 20% on the marked price. If his profit is ₹144, find the cost price of the goods.",
+      "options": [
+        "₹1200",
+        "₹1000",
+        "₹1500",
+        "₹1800"
+      ],
+      "answer": 0,
+      "explanation": "Let the cost price (CP) be 100x. The marked price (MP) is 40% above CP, so MP = 140x. After a 20% discount on MP, the selling price (SP) = 140x * 0.8 = 112x. The profit is SP - CP = 112x - 100x = 12x. Given profit is ₹144, we have 12x = 144, which gives x = 12. Therefore, CP = 100 * 12 = ₹1200."
+    },
+    {
+      "id": "ibps-clerk-ai-1782215559401-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "4 men and 6 women can complete a piece of work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete the same work?",
+      "options": [
+        "35 days",
+        "40 days",
+        "45 days",
+        "50 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the daily work of a man and a woman be M and W respectively. According to the problem, Total Work = 8 * (4M + 6W) = 10 * (3M + 7W). Simplifying this gives 32M + 48W = 30M + 70W, which simplifies to 2M = 22W, or 1M = 11W. Total work in terms of women's daily work = 8 * (4 * 11W + 6W) = 8 * 50W = 400W. The time taken by 10 women to complete the work is 400W / (10W) = 40 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1782215967255-0",
+      "section": "English",
+      "topic": "Spotting Error",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Choose the part that contains the error.\n\n'Neither the manager nor the employees was aware of the new policy guidelines issued by the head office last week.'",
+      "options": [
+        "Neither the manager nor",
+        "the employees was aware",
+        "of the new policy guidelines",
+        "issued by the head office"
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree in number with the subject closest to it. Here, the closer subject 'employees' is plural, so the singular verb 'was' must be replaced with the plural verb 'were'."
+    },
+    {
+      "id": "ibps-clerk-ai-1782215967255-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Each sentence below has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\n'The committee’s report was so ________ that it left no room for speculation, effectively ________ any lingering doubts about the project's viability.'",
+      "options": [
+        "ambiguous, intensifying",
+        "comprehensive, dispelling",
+        "succinct, aggravating",
+        "redundant, validating"
+      ],
+      "answer": 1,
+      "explanation": "The first blank requires an adjective that describes a report leaving 'no room for speculation', making 'comprehensive' (complete and including all elements) a perfect fit. The second blank requires a verb that describes what a clear report does to 'lingering doubts'; 'dispelling' (making a doubt, feeling, or belief disappear) fits the context perfectly."
+    },
+    {
+      "id": "ibps-clerk-ai-1782216225303-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, what is the minimum Capital to Risk-weighted Assets Ratio (CRAR) that Scheduled Commercial Banks (excluding Regional Rural Banks) are required to maintain under Basel III norms, excluding the Capital Conservation Buffer?",
+      "options": [
+        "8%",
+        "9%",
+        "11.5%",
+        "12%"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's Basel III capital regulations, scheduled commercial banks in India are required to maintain a minimum Capital to Risk-weighted Assets Ratio (CRAR) of 9% (excluding the Capital Conservation Buffer of 2.5%, which brings the total requirement to 11.5%).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782216225303-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the PM Street Vendor's AtmaNirbhar Nidhi (PM-SVANidhi) scheme, what is the maximum loan amount that can be sanctioned to a beneficiary as the third tranche, upon the timely repayment of the first and second tranche loans?",
+      "options": [
+        "₹20,000",
+        "₹30,000",
+        "₹50,000",
+        "₹1,00,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the PM-SVANidhi scheme, eligible street vendors can avail of a working capital loan of up to ₹10,000 in the first tranche, up to ₹20,000 in the second tranche, and up to ₹50,000 in the third tranche upon timely or early repayment of previous loans.",
+      "status": "pending"
     }
   ]
 }

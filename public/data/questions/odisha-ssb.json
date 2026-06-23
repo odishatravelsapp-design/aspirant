@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1021,6 +1021,64 @@
       ],
       "answer": 1,
       "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the range of tasks that are too difficult for a child to master alone but can be learned with the guidance and assistance of adults or more-skilled peers."
+    },
+    {
+      "id": "odisha-ssb-ai-1782218786103-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory & Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following theorists introduced the concept of 'heteroglossia' and 'dialogism' in literary theory, particularly in his analysis of the novel?",
+      "options": [
+        "Mikhail Bakhtin",
+        "Roland Barthes",
+        "Jacques Derrida",
+        "Northrop Frye"
+      ],
+      "answer": 0,
+      "explanation": "Mikhail Bakhtin introduced the concepts of 'heteroglossia' (the coexistence of distinct varieties within a single language) and 'dialogism' in his essays, which were later collected and translated in 'The Dialogic Imagination' (1981).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସମୀକ୍ଷକ/ତତ୍ତ୍ୱବିତ୍ ସାହିତ୍ୟ ତତ୍ତ୍ୱରେ, ବିଶେଷ କରି ଉପନ୍ୟାସର ବିଶ୍ଳେଷଣରେ 'heteroglossia' (ବହୁସ୍ୱରତା) ଏବଂ 'dialogism' (ସଂଳାପବାଦ) ଅବଧାରଣା ପ୍ରବର୍ତ୍ତନ କରିଥିଲେ?",
+          "options": [
+            "ମିଖାଇଲ୍ ବାଖ୍ତିନ୍",
+            "ରୋଲାଣ୍ଡ ବାର୍ଥେସ୍",
+            "ଜାକ୍ ଦେରିଦା",
+            "ନର୍ଥ୍ରୋପ୍ ଫ୍ରାଇ"
+          ],
+          "explanation": "ମିଖାଇଲ୍ ବାଖ୍ତିନ୍ ତାଙ୍କର ପ୍ରବନ୍ଧଗୁଡ଼ିକରେ, ବିଶେଷ କରି 'ଦି ଡାୟଲୋଜିକ୍ ଇମାଜିନେସନ୍' (୧୯୮୧) ରେ 'heteroglossia' ଏବଂ 'dialogism' ର ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782218786103-1",
+      "section": "Subject Knowledge",
+      "topic": "British Poetry (Romantic Age)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "John Keats's famous concept of 'Negative Capability' was first introduced in a letter written in December 1817 to whom?",
+      "options": [
+        "George and Thomas Keats",
+        "Percy Bysshe Shelley",
+        "Leigh Hunt",
+        "John Hamilton Reynolds"
+      ],
+      "answer": 0,
+      "explanation": "John Keats coined the term 'Negative Capability' in his letter to his brothers George and Thomas Keats, dated December 21 (or 27), 1817, defining it as the capacity to exist in uncertainties, mysteries, and doubts without any irritable reaching after fact and reason.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ କିଟ୍ସଙ୍କ ପ୍ରସିଦ୍ଧ ଅବଧାରଣା 'Negative Capability' (ନକାରାତ୍ମକ ସାମର୍ଥ୍ୟ) ପ୍ରଥମେ ଡିସେମ୍ବର ୧୮୧୭ ରେ କାହାକୁ ଲିଖିତ ଏକ ପତ୍ରରେ ଉଲ୍ଲେଖ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଜର୍ଜ ଏବଂ ଥୋମାସ୍ କିଟ୍ସ",
+            "ପର୍ସି ବାଇଶି ଶେଲି",
+            "ଲି ହଣ୍ଟ",
+            "ଜନ୍ ହାମିଲଟନ୍ ରେନଲ୍ଡସ୍"
+          ],
+          "explanation": "ଜନ୍ କିଟ୍ସ ପ୍ରଥମେ ଡିସେମ୍ବର ୧୮୧୭ ରେ ତାଙ୍କ ଭାଇ ଜର୍ଜ ଏବଂ ଥୋମାସ୍ କିଟ୍ସଙ୍କୁ ଲେଖିଥିବା ଏକ ପତ୍ରରେ 'Negative Capability' ଶବ୍ଦଟି ବ୍ୟବହାର କରିଥିଲେ, ଯାହାର ଅର୍ଥ ହେଉଛି ତଥ୍ୟ ଏବଂ ଯୁକ୍ତି ପଛରେ ନ ଗୋଡ଼ାଇ ଅନିଶ୍ଚିତତା ଏବଂ ସନ୍ଦେହ ମଧ୍ୟରେ ରହିବାର କ୍ଷମତା।"
+        }
+      }
     }
   ]
 }

@@ -613,6 +613,38 @@
       ],
       "answer": 2,
       "explanation": "The Vernacular Press Act was passed in 1878 to suppress local-language newspapers that were critical of British policies, particularly the Second Anglo-Afghan War."
+    },
+    {
+      "id": "ibps-po-ai-1782217046421-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B, and C enter into a partnership. A invests Rs. 24,000 for 8 months, B invests Rs. 30,000 for some months, and C invests Rs. 20,000 for 12 months. Out of a total annual profit of Rs. 56,000, B receives Rs. 20,000 as his share. For how many months did B invest his money?",
+      "options": [
+        "6 months",
+        "8 months",
+        "9 months",
+        "10 months"
+      ],
+      "answer": 1,
+      "explanation": "Let B invest for x months.\nRatio of profit sharing of A, B, and C is based on the product of investment and time:\nRatio = (24000 * 8) : (30000 * x) : (20000 * 12)\n= 192,000 : 30,000x : 240,000\nDividing by 6000:\nRatio = 32 : 5x : 40\n\nTotal profit share units = 32 + 5x + 40 = 72 + 5x\nB's share of profit is Rs. 20,000 out of Rs. 56,000.\nSo, 5x / (72 + 5x) = 20000 / 56000\n5x / (72 + 5x) = 5 / 14\nx / (72 + 5x) = 1 / 14\n14x = 72 + 5x\n9x = 72\nx = 8\nTherefore, B invested for 8 months."
+    },
+    {
+      "id": "ibps-po-ai-1782217046421-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red, 4 green, and 3 blue balls. If three balls are drawn at random from the bag, what is the probability that at least two of the drawn balls are red?",
+      "options": [
+        "5/11",
+        "4/11",
+        "7/22",
+        "9/22"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 5 + 4 + 3 = 12.\nTotal number of ways to draw 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220.\n\nWe need the probability of drawing at least 2 red balls. This comprises two cases:\nCase 1: Exactly 2 red balls and 1 other ball (green or blue).\nWays = 5C2 * 7C1 = 10 * 7 = 70.\n\nCase 2: Exactly 3 red balls.\nWays = 5C3 = 10.\n\nTotal favorable ways = 70 + 10 = 80.\nProbability = 80 / 220 = 4/11."
     }
   ]
 }
