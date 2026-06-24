@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -645,6 +645,38 @@
       ],
       "answer": 1,
       "explanation": "Total number of balls = 5 + 4 + 3 = 12.\nTotal number of ways to draw 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220.\n\nWe need the probability of drawing at least 2 red balls. This comprises two cases:\nCase 1: Exactly 2 red balls and 1 other ball (green or blue).\nWays = 5C2 * 7C1 = 10 * 7 = 70.\n\nCase 2: Exactly 3 red balls.\nWays = 5C3 = 10.\n\nTotal favorable ways = 70 + 10 = 80.\nProbability = 80 / 220 = 4/11."
+    },
+    {
+      "id": "ibps-po-ai-1782301829925-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A train crosses a vertical pole in 12 seconds and a platform of length 240 meters in 28 seconds. What is the speed of the train in km/h?",
+      "options": [
+        "45 km/h",
+        "54 km/h",
+        "60 km/h",
+        "72 km/h"
+      ],
+      "answer": 1,
+      "explanation": "The train takes 12 seconds to cross its own length (L) and 28 seconds to cross L + 240 meters. This means it takes 16 seconds to cover 240 meters. The speed of the train is 240/16 = 15 m/s. Converting to km/h, we get 15 * (18/5) = 54 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1782301829925-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A rectangular plot has a length of 20 meters and a breadth of 15 meters. A path of uniform width 2.5 meters is built all around the outside of the plot. Find the cost of graveling this path at the rate of Rs. 12 per square meter.",
+      "options": [
+        "Rs. 1,800",
+        "Rs. 2,100",
+        "Rs. 2,400",
+        "Rs. 2,800"
+      ],
+      "answer": 2,
+      "explanation": "The inner area is 20 * 15 = 300 sq m. The outer dimensions including the 2.5 m path on all sides are 25 m by 20 m, giving an outer area of 500 sq m. The area of the path is 500 - 300 = 200 sq m. At Rs. 12 per sq m, the total cost is 200 * 12 = Rs. 2,400."
     }
   ]
 }

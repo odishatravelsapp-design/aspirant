@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -729,6 +729,104 @@
       ],
       "answer": 2,
       "explanation": "Under the PM-SVANidhi scheme, eligible street vendors can avail of a working capital loan of up to ₹10,000 in the first tranche, up to ₹20,000 in the second tranche, and up to ₹50,000 in the third tranche upon timely or early repayment of previous loans.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782300481126-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If 'A + B' means 'A is the father of B', 'A - B' means 'A is the mother of B', 'A * B' means 'A is the brother of B', and 'A / B' means 'A is the sister of B', which of the following expressions shows that 'P is the maternal uncle of Q'?",
+      "options": [
+        "P * M - Q",
+        "P * M + Q",
+        "P / M - Q",
+        "P - M * Q"
+      ],
+      "answer": 0,
+      "explanation": "In the expression 'P * M - Q': 'P * M' means P is the brother of M, and 'M - Q' means M is the mother of Q. Since P is the brother of Q's mother, P is the maternal uncle of Q."
+    },
+    {
+      "id": "ibps-clerk-ai-1782300481126-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Given the following coded meanings:\n'A @ B' means 'A is not smaller than B' (i.e., A >= B)\n'A $ B' means 'A is not greater than B' (i.e., A <= B)\n'A % B' means 'A is neither greater than nor equal to B' (i.e., A < B)\n'A # B' means 'A is neither smaller than nor equal to B' (i.e., A > B)\n'A * B' means 'A is neither greater than nor smaller than B' (i.e., A = B)\n\nStatements: H # T, T @ R, R * D, D % F\nConclusions:\nI. H # R\nII. F # T\n\nWhich of the conclusions is/are definitely true?",
+      "options": [
+        "Only Conclusion I is true",
+        "Only Conclusion II is true",
+        "Both Conclusion I and II are true",
+        "Neither Conclusion I nor II is true"
+      ],
+      "answer": 0,
+      "explanation": "Decoding the statements, we get: H > T, T >= R, R = D, D < F. Combining them yields: H > T >= R = D < F. For Conclusion I (H # R i.e., H > R): since H > T >= R, we have H > R (True). For Conclusion II (F # T i.e., F > T): since T >= R = D < F, there is a sign conflict between T and F, so no relationship can be determined (False). Thus, only Conclusion I is true."
+    },
+    {
+      "id": "ibps-clerk-ai-1782300720579-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, a part of the sentence is underlined. Below are given alternatives to the underlined part which may improve the sentence. Choose the correct alternative.\n\n<u>Hardly had the manager entered the office than</u> the employees started presenting their grievances to him.",
+      "options": [
+        "Hardly had the manager entered the office when",
+        "No sooner the manager entered the office than",
+        "Scarcely had the manager entered the office than",
+        "Hardly the manager had entered the office when"
+      ],
+      "answer": 0,
+      "explanation": "The conjunction 'hardly' is always paired with 'when' (not 'than'). Additionally, when a sentence begins with a negative adverbial like 'hardly', subject-auxiliary inversion is required (i.e., 'had the manager entered' instead of 'the manager had entered'). Therefore, Option A is the correct choice."
+    },
+    {
+      "id": "ibps-clerk-ai-1782300720579-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, four words given in bold are marked as (A), (B), (C), and (D). These words may or may not be in their correct positions. Find the correct combination of words that should be interchanged to make the sentence grammatically and contextually correct.\n\nThe **provoke** (A) criticism in his speech was **designed** (B) to **implied** (C) a reaction from his opponents, though he tried to **mask** (D) his true intentions.",
+      "options": [
+        "Only A-C",
+        "Only B-D",
+        "Both A-B and C-D",
+        "No exchange required"
+      ],
+      "answer": 0,
+      "explanation": "The word 'provoke' is a verb and cannot modify the noun 'criticism' in this position. Instead, the past participle adjective 'implied' (C) fits perfectly before 'criticism'. Conversely, the infinitive 'to' requires a base form verb, so 'provoke' (A) fits perfectly after 'to' in position (C). Thus, swapping A and C makes the sentence grammatically and contextually correct: 'The implied criticism... was designed to provoke...'."
+    },
+    {
+      "id": "ibps-clerk-ai-1782300904539-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines for 'on-tap' licensing of Small Finance Banks (SFBs) in the private sector, what is the minimum paid-up voting equity capital or net worth required?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines for 'on-tap' licensing of Small Finance Banks, the minimum paid-up voting equity capital or net worth requirement is ₹200 crore (increased from the previous requirement of ₹100 crore).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782300904539-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme, what is the maximum limit of gold subscription permitted per fiscal year (April-March) for trusts and similar entities?",
+      "options": [
+        "4 kg",
+        "10 kg",
+        "20 kg",
+        "50 kg"
+      ],
+      "answer": 2,
+      "explanation": "Under the Sovereign Gold Bond (SGB) Scheme, the maximum limit of subscription is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities per fiscal year (April-March).",
       "status": "pending"
     }
   ]
