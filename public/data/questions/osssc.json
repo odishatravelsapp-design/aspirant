@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -144,6 +144,234 @@
             "8"
           ],
           "explanation": "ସମ୍ପତ୍ତିର ଅଧିକାର ହଟାଇ ଦିଆଯିବା ପରେ ଭାରତୀୟ ସମ୍ବିଧାନରେ 6ଟି ମୌଳିକ ଅଧିକାର ରହିଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473504442-0",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B can complete a piece of work in 15 days and 10 days respectively. They started working together, but after 2 days, B had to leave and A alone completed the remaining work. In how many days was the total work completed?",
+      "options": [
+        "10 days",
+        "12 days",
+        "14 days",
+        "8 days"
+      ],
+      "answer": 1,
+      "explanation": "Total work = LCM(15, 10) = 30 units. Efficiency of A = 30 / 15 = 2 units/day. Efficiency of B = 30 / 10 = 3 units/day. Combined efficiency = 5 units/day. Work completed in 2 days together = 5 * 2 = 10 units. Remaining work = 30 - 10 = 20 units. Time taken by A to complete the remaining work = 20 / 2 = 10 days. Total days taken = 2 (together) + 10 (alone) = 12 days.",
+      "translations": {
+        "or": {
+          "question": "A ଏବଂ B ଗୋଟିଏ କାର୍ଯ୍ୟକୁ ଯଥାକ୍ରମେ 15 ଦିନ ଏବଂ 10 ଦିନରେ ସମ୍ପୂର୍ଣ୍ଣ କରିପାରିବେ। ସେମାନେ ଏକାଠି କାର୍ଯ୍ୟ କରିବା ଆରମ୍ଭ କଲେ, କିନ୍ତୁ 2 ଦିନ ପରେ B କାର୍ଯ୍ୟ ଛାଡିଦେଲା ଏବଂ A ଏକାକୀ ଅବଶିଷ୍ଟ କାର୍ଯ୍ୟ ସମାପ୍ତ କଲା। ସମ୍ପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟଟି କେତେ ଦିନରେ ସମାପ୍ତ ହେଲା?",
+          "options": [
+            "10 ଦିନ",
+            "12 ଦିନ",
+            "14 ଦିନ",
+            "8 ଦିନ"
+          ],
+          "explanation": "ମୋଟ କାର୍ଯ୍ୟ = LCM(15, 10) = 30 ୟୁନିଟ୍। A ର ଦକ୍ଷତା = 30 / 15 = 2 ୟୁନିଟ୍/ଦିନ। B ର ଦକ୍ଷତା = 30 / 10 = 3 ୟୁନିଟ୍/ଦିନ। ମିଳିତ ଦକ୍ଷତା = 5 ୟୁନିଟ୍/ଦିନ। 2 ଦିନରେ ଏକାଠି ଶେଷ ହୋଇଥିବା କାର୍ଯ୍ୟ = 5 * 2 = 10 ୟୁନିଟ୍। ଅବଶିଷ୍ଟ କାର୍ଯ୍ୟ = 30 - 10 = 20 ୟୁନିଟ୍। ଅବଶିଷ୍ଟ କାର୍ଯ୍ୟ ଶେଷ କରିବାକୁ A ନେଇଥିବା ସମୟ = 20 / 2 = 10 ଦିନ। ମୋଟ ସମୟ = 2 (ଏକାଠି) + 10 (ଏକାକୀ) = 12 ଦିନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473504442-1",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C enter into a partnership. A invests Rs. 4000 for the whole year. B puts in Rs. 6000 initially and increases it to Rs. 8000 after 4 months, while C puts in Rs. 8000 initially but withdraws Rs. 2000 after 9 months. Out of a total annual profit of Rs. 16,950, what is B's share?",
+      "options": [
+        "Rs. 6,600",
+        "Rs. 7,200",
+        "Rs. 6,000",
+        "Rs. 6,750"
+      ],
+      "answer": 0,
+      "explanation": "Equivalent capital of A = 4000 * 12 = 48,000. Equivalent capital of B = (6000 * 4) + (8000 * 8) = 24,000 + 64,000 = 88,000. Equivalent capital of C = (8000 * 9) + (6000 * 3) = 72,000 + 18,000 = 90,000. Profit sharing ratio A : B : C = 48,000 : 88,000 : 90,000 = 24 : 44 : 45. Sum of ratio parts = 24 + 44 + 45 = 113. Value of 1 part = 16,950 / 113 = Rs. 150. B's share = 44 * 150 = Rs. 6,600.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଏକ ଅଂଶୀଦାରୀ ବ୍ୟବସାୟରେ ପ୍ରବେଶ କରନ୍ତି। A ସମ୍ପୂର୍ଣ୍ଣ ବର୍ଷ ପାଇଁ 4000 ଟଙ୍କା ବିନିଯୋଗ କରେ। B ପ୍ରାରମ୍ଭରେ 6000 ଟଙ୍କା ନିବେଶ କରେ ଏବଂ 4 ମାସ ପରେ ଏହାକୁ 8000 ଟଙ୍କାକୁ ବୃଦ୍ଧି କରେ, ଯେତେବେଳେ କି C ପ୍ରାରମ୍ଭରେ 8000 ଟଙ୍କା ନିବେଶ କରେ କିନ୍ତୁ 9 ମାସ ପରେ 2000 ଟଙ୍କା ପ୍ରତ୍ୟାହାର କରେ। ମୋଟ ବାର୍ଷିକ ଲାଭ 16,950 ଟଙ୍କା ମଧ୍ୟରୁ B ର ଅଂଶ କେତେ?",
+          "options": [
+            "6,600 ଟଙ୍କା",
+            "7,200 ଟଙ୍କା",
+            "6,000 ଟଙ୍କା",
+            "6,750 ଟଙ୍କା"
+          ],
+          "explanation": "A ର ସମତୁଲ୍ୟ ପୁଞ୍ଜି = 4000 * 12 = 48,000। B ର ସମତୁଲ୍ୟ ପୁଞ୍ଜି = (6000 * 4) + (8000 * 8) = 24,000 + 64,000 = 88,000। C ର ସମତୁଲ୍ୟ ପୁଞ୍ଜି = (8000 * 9) + (6000 * 3) = 72,000 + 18,000 = 90,000। ଲାଭ ବଣ୍ଟନ ଅନୁପାତ A : B : C = 48,000 : 88,000 : 90,000 = 24 : 44 : 45। ଅନୁପାତର ସମଷ୍ଟି = 24 + 44 + 45 = 113। 1 ଭାଗର ମୂଲ୍ୟ = 16,950 / 113 = 150 ଟଙ୍କା। B ର ଅଂଶ = 44 * 150 = 6,600 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473525332-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'ODISHA' is coded as 'PFLWMG'. How will 'CUTTACK' be coded in that language?",
+      "options": [
+        "DWWXFIR",
+        "DXWVFIS",
+        "DWWXGIR",
+        "EVXXGJS"
+      ],
+      "answer": 0,
+      "explanation": "The coding pattern adds increasing consecutive integers to each letter's position: O(+1)=P, D(+2)=F, I(+3)=L, S(+4)=W, H(+5)=M, A(+6)=G. Applying the same rule to CUTTACK: C(+1)=D, U(+2)=W, T(+3)=W, T(+4)=X, A(+5)=F, C(+6)=I, K(+7)=R. Thus, the code is DWWXFIR.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'ODISHA' କୁ 'PFLWMG' ଭାବରେ କୋଡ୍ କରାଯାଏ, ତେବେ ସେହି ଭାଷାରେ 'CUTTACK' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "DWWXFIR",
+            "DXWVFIS",
+            "DWWXGIR",
+            "EVXXGJS"
+          ],
+          "explanation": "ଏଠାରେ କୋଡିଂ ପ୍ୟାଟର୍ଣ୍ଣଟି ପ୍ରତ୍ୟେକ ଅକ୍ଷରର ସ୍ଥାନ ସହିତ କ୍ରମାଗତ ଭାବେ ବୃଦ୍ଧି ପାଉଥିବା ସଂଖ୍ୟା ଯୋଗ କରୁଛି: O(+1)=P, D(+2)=F, I(+3)=L, S(+4)=W, H(+5)=M, A(+6)=G | ସେହିପରି CUTTACK ପାଇଁ: C(+1)=D, U(+2)=W, T(+3)=W, T(+4)=X, A(+5)=F, C(+6)=I, K(+7)=R | ତେଣୁ, ସଠିକ୍ କୋଡ୍ ହେଉଛି DWWXFIR |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473525332-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'P + Q' means 'P is the sister of Q'; 'P - Q' means 'P is the brother of Q'; 'P * Q' means 'P is the daughter of Q'; and 'P / Q' means 'P is the mother of Q', then which of the following expressions shows that 'A is the maternal uncle of B'?",
+      "options": [
+        "A - C / B",
+        "A / C - B",
+        "A + C / B",
+        "B - C / A"
+      ],
+      "answer": 0,
+      "explanation": "In option A: 'A - C' means A is the brother of C (making A a male). 'C / B' means C is the mother of B. Since A is the brother of B's mother, A is the maternal uncle of B.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି 'P + Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ଭଉଣୀ'; 'P - Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ଭାଇ'; 'P * Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ଝିଅ'; ଏବଂ 'P / Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ମାଆ', ତେବେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସମ୍ପର୍କ ଦର୍ଶାଏ ଯେ 'A ହେଉଛି B ର ମାମୁଁ'?",
+          "options": [
+            "A - C / B",
+            "A / C - B",
+            "A + C / B",
+            "B - C / A"
+          ],
+          "explanation": "ବିକଳ୍ପ A ରେ: 'A - C' ର ଅର୍ଥ A ହେଉଛି C ର ଭାଇ (A ଜଣେ ପୁରୁଷ) | 'C / B' ର ଅର୍ଥ C ହେଉଛି B ର ମାଆ | ଯେହେତୁ A ହେଉଛି B ର ମାଆଙ୍କ ଭାଇ, ତେଣୁ A ହେଉଛି B ର ମାମୁଁ |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473536699-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the founder of the Bhoi dynasty of Odisha?",
+      "options": [
+        "Govinda Vidyadhara",
+        "Prataparudra Deva",
+        "Mukunda Deva",
+        "Kapilendra Deva"
+      ],
+      "answer": 0,
+      "explanation": "Govinda Vidyadhara established the Bhoi dynasty in Odisha in 1541 AD after seizing the throne from the weak successors of the Gajapati dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠାତା କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "କପିଳେନ୍ଦ୍ର ଦେବ"
+          ],
+          "explanation": "୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଗଜପତି ବଂଶର ଦୁର୍ବଳ ଶାସକମାନଙ୍କ ହାତରୁ ସିଂହାସନ ଛଡ଼ାଇ ନେଇ ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473536699-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography & Environment",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the Similipal Biosphere Reserve of Odisha included in the UNESCO World Network of Biosphere Reserves?",
+      "options": [
+        "2001",
+        "2009",
+        "2012",
+        "2015"
+      ],
+      "answer": 1,
+      "explanation": "Similipal Biosphere Reserve, located in the Mayurbhanj district of Odisha, was formally designated under the UNESCO Man and Biosphere (MAB) programme in May 2009.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଶିମିଳିପାଳ ବାୟୋସ୍ଫିୟର ରିଜର୍ଭକୁ କେଉଁ ବର୍ଷ ୟୁନେସ୍କୋ (UNESCO) ର ବିଶ୍ୱ ବାୟୋସ୍ଫିୟର ରିଜର୍ଭ ନେଟୱର୍କରେ ସାମିଲ କରାଯାଇଥିଲା?",
+          "options": [
+            "୨୦୦୧",
+            "୨୦୦୯",
+            "୨୦୧୨",
+            "୨୦୧୫"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଶିମିଳିପାଳ ବାୟୋସ୍ଫିୟର ରିଜର୍ଭକୁ ମେ ୨୦୦୯ ମସିହାରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ୟୁନେସ୍କୋର 'ମ୍ୟାନ୍ ଆଣ୍ଡ ବାୟୋସ୍ଫିୟର' (MAB) କାର୍ଯ୍ୟକ୍ରମରେ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473549834-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first Prime Minister (Premier) of Odisha Province after its creation as a separate province in 1936?",
+      "options": [
+        "Biswanath Das",
+        "Krushna Chandra Gajapati",
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 1,
+      "explanation": "Maharaja Krushna Chandra Gajapati of Parlakhemundi served as the first Prime Minister (Premier) of Odisha Province from April 1, 1937, to July 19, 1937.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହାରେ ଓଡ଼ିଶା ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଭାବରେ ଗଠନ ହେବା ପରେ ଏହାର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) କିଏ ଥିଲେ?",
+          "options": [
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ୧ ଏପ୍ରିଲ ୧୯୩୭ ରୁ ୧୯ ଜୁଲାଇ ୧୯୩୭ ପର୍ଯ୍ୟନ୍ତ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782473549834-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The devastating Great Famine of Odisha, historically known as 'Na'Anka Durbhiksha', occurred in which of the following years?",
+      "options": [
+        "1857–1858",
+        "1866–1867",
+        "1876–1878",
+        "1899–1900"
+      ],
+      "answer": 1,
+      "explanation": "The Na'Anka Durbhiksha occurred in 1866–1867. It is named 'Na'Anka' because it took place in the 9th regnal year (Anka) of the Gajapati King of Puri, Divyasingha Deva.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାରେ ଐତିହାସିକ ଭାବେ ପ୍ରସିଦ୍ଧ ଭୟଙ୍କର 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' କେଉଁ ବର୍ଷ ପଡ଼ିଥିଲା?",
+          "options": [
+            "1857–1858",
+            "1866–1867",
+            "1876–1878",
+            "1899–1900"
+          ],
+          "explanation": "୧୮୬୬-୧୮୬୭ ମସିହାରେ ଓଡ଼ିଶାରେ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ପଡ଼ିଥିଲା। ପୁରୀର ଗଜପତି ମହାରାଜା ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ରାଜତ୍ୱର ୯ମ ଅଙ୍କ (ବର୍ଷ) ରେ ଏହି ଦୁର୍ଭିକ୍ଷ ହୋଇଥିବାରୁ ଏହାକୁ 'ନଅଙ୍କ' ଦୁର୍ଭିକ୍ଷ କୁହାଯାଏ।"
         }
       }
     }

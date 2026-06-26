@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -827,6 +827,136 @@
       ],
       "answer": 2,
       "explanation": "Under the Sovereign Gold Bond (SGB) Scheme, the maximum limit of subscription is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities per fiscal year (April-March).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782473328179-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat can travel 24 km upstream in 3 hours. If the speed of the stream is 2 km/h, how much time will the boat take to travel 48 km downstream?",
+      "options": [
+        "3 hours",
+        "4 hours",
+        "4.5 hours",
+        "5 hours"
+      ],
+      "answer": 1,
+      "explanation": "Speed Upstream (U) = Distance / Time = 24 / 3 = 8 km/h. Speed of stream (S) = 2 km/h. Speed of boat in still water (B) = U + S = 8 + 2 = 10 km/h. Speed Downstream (D) = B + S = 10 + 2 = 12 km/h. Time taken to travel 48 km downstream = Distance / Speed Downstream = 48 / 12 = 4 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1782473328179-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership with investments in the ratio 3 : 4 : 5. After 4 months, A withdraws 1/3rd of his capital, while B adds 25% more to his investment. After another 4 months, C withdraws 20% of his capital. If the total annual profit is Rs. 14,100, find the share of B in the profit.",
+      "options": [
+        "Rs. 5,120",
+        "Rs. 5,640",
+        "Rs. 6,240",
+        "Rs. 5,880"
+      ],
+      "answer": 1,
+      "explanation": "Let initial investments of A, B, and C be 3x, 4x, and 5x. \n- Equivalent investment of A for 1 year = (3x * 4) + (2x * 8) = 12x + 16x = 28x. \n- Equivalent investment of B for 1 year = (4x * 4) + (5x * 8) = 16x + 40x = 56x. \n- Equivalent investment of C for 1 year = (5x * 8) + (4x * 4) = 40x + 16x = 56x. \nProfit sharing ratio A : B : C = 28 : 56 : 56 = 1 : 2 : 2. \nTotal ratio parts = 1 + 2 + 2 = 5 parts. \nShare of B = (2/5) * Rs. 14,100 = Rs. 5,640."
+    },
+    {
+      "id": "ibps-clerk-ai-1782473339951-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nSome pens are pencils.\nAll pencils are erasers.\nNo eraser is a marker.\n\nConclusions:\nI. Some pens are erasers.\nII. No pencil is a marker.\nIII. Some markers are pens.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All follow"
+      ],
+      "answer": 0,
+      "explanation": "Since some pens are pencils and all pencils are erasers, the intersection of pens and pencils is also part of erasers. Thus, conclusion I (Some pens are erasers) is correct. Since all pencils are erasers and no eraser is a marker, no pencil can be a marker. Thus, conclusion II (No pencil is a marker) is correct. There is no definite relation between markers and pens, so conclusion III does not follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1782473339951-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'P $ Q' means 'P is the brother of Q'; 'P # Q' means 'P is the mother of Q'; and 'P * Q' means 'P is the daughter of Q'. If the expression 'A # B $ C * D' is true, how is D related to A?",
+      "options": [
+        "Wife",
+        "Husband",
+        "Son-in-law",
+        "Father"
+      ],
+      "answer": 1,
+      "explanation": "From 'A # B', A is the mother of B. From 'B $ C', B is the brother of C, which means B and C are siblings with A as their mother. From 'C * D', C is the daughter of D. Since C's mother is A, D must be the father of C. Therefore, A (mother) and D (father) are married, making D the husband of A."
+    },
+    {
+      "id": "ibps-clerk-ai-1782473353059-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, a sentence is given with an idiom printed in bold. Select the option that best expresses the meaning of the idiom as used in the sentence.\n\n\"The manager decided to **play devil's advocate** during the meeting to ensure the team had considered all potential risks before launching the new product.\"",
+      "options": [
+        "To support the majority opinion without questioning",
+        "To present counterarguments to a point of view to test its validity",
+        "To intentionally create conflict and disrupt the peace of the meeting",
+        "To take the blame for a mistake made by another colleague"
+      ],
+      "answer": 1,
+      "explanation": "To 'play devil's advocate' means to argue against an idea or plan, not because you disagree with it, but to make people think about it more carefully or to test its soundness by presenting alternative or opposing viewpoints."
+    },
+    {
+      "id": "ibps-clerk-ai-1782473353059-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Rearrange the following five parts (P, Q, R, S, T) to form a coherent and grammatically correct sentence, then choose the correct sequence from the options.\n\nP: to mitigate the impact of rising global temperatures\nQ: implementing sustainable agricultural practices is no longer\nR: on crop yields and food security\nS: a choice but a necessity for developing nations\nT: in order to build long-term economic resilience",
+      "options": [
+        "Q-S-P-R-T",
+        "P-R-T-Q-S",
+        "Q-P-R-S-T",
+        "S-Q-P-R-T"
+      ],
+      "answer": 0,
+      "explanation": "The correct sequence is Q-S-P-R-T. Part Q introduces the subject ('implementing sustainable agricultural practices...'), which connects to the predicate in S ('is no longer a choice...'). Part P explains the purpose of this necessity ('to mitigate the impact...'), which naturally links with the prepositional phrase in R ('on crop yields and food security'). Part T concludes the sentence by stating the ultimate goal ('in order to build...')."
+    },
+    {
+      "id": "ibps-clerk-ai-1782473364248-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the maximum overdraft limit available to eligible account holders under the Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+      "options": [
+        "Rs. 5,000",
+        "Rs. 10,000",
+        "Rs. 15,000",
+        "Rs. 20,000"
+      ],
+      "answer": 1,
+      "explanation": "The overdraft limit under the Pradhan Mantri Jan Dhan Yojana (PMJDY) was revised and doubled from Rs. 5,000 to Rs. 10,000. Additionally, the upper age limit for availing this overdraft facility was increased from 60 years to 65 years.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782473364248-1",
+      "section": "General Awareness",
+      "topic": "International Financial Institutions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Where is the headquarters of the Bank for International Settlements (BIS) located?",
+      "options": [
+        "Geneva, Switzerland",
+        "Basel, Switzerland",
+        "Zurich, Switzerland",
+        "Vienna, Austria"
+      ],
+      "answer": 1,
+      "explanation": "The Bank for International Settlements (BIS), which acts as a bank for central banks and fosters international monetary and financial cooperation, is headquartered in Basel, Switzerland.",
       "status": "pending"
     }
   ]

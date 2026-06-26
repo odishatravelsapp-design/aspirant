@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -511,6 +511,64 @@
       ],
       "answer": 1,
       "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the range of tasks that are too difficult for a child to master alone but can be learned with the guidance and assistance of adults or more-skilled peers."
+    },
+    {
+      "id": "tgt-ai-1782474675567-0",
+      "section": "Subject Knowledge",
+      "topic": "Light - Optics",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "An object is placed at a distance of 20 cm in front of a concave mirror of focal length 15 cm. What is the nature and position of the image formed?",
+      "options": [
+        "Real, inverted and at a distance of 60 cm in front of the mirror.",
+        "Virtual, erect and at a distance of 60 cm behind the mirror.",
+        "Real, inverted and at a distance of 30 cm in front of the mirror.",
+        "Virtual, erect and at a distance of 30 cm behind the mirror."
+      ],
+      "answer": 0,
+      "explanation": "Using the mirror formula 1/f = 1/v + 1/u, where focal length f = -15 cm and object distance u = -20 cm, we get 1/v = -1/15 - (-1/20) = -1/15 + 1/20 = -1/60. Thus, v = -60 cm. The negative sign indicates that the image is formed in front of the mirror, which means it is a real and inverted image.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ବସ୍ତୁକୁ ୧୫ ସେମି ଫୋକାଲ୍ ଦୂରତା ବିଶିଷ୍ଟ ଏକ ଅବତଳ ଦର୍ପଣ ସମ୍ମୁଖରେ ୨୦ ସେମି ଦୂରତାରେ ରଖାଯାଇଛି। ସୃଷ୍ଟି ହେଉଥିବା ପ୍ରତିବିମ୍ବର ପ୍ରକୃତି ଏବଂ ଅବସ୍ଥାନ କ’ଣ ହେବ?",
+          "options": [
+            "ଦର୍ପଣ ସମ୍ମୁଖରେ ୬୦ ସେମି ଦୂରତାରେ ବାସ୍ତବ ଏବଂ ଓଲଟା।",
+            "ଦର୍ପଣ ପଛରେ ୬୦ ସେମି ଦୂରତାରେ ଆଭାସୀ ଏବଂ ସଳଖ।",
+            "ଦର୍ପଣ ସମ୍ମୁଖରେ ୩୦ ସେମି ଦୂରତାରେ ବାସ୍ତବ ଏବଂ ଓଲଟା।",
+            "ଦର୍ପଣ ପଛରେ ୩୦ ସେମି ଦୂରତାରେ ଆଭାସୀ ଏବଂ ସଳଖ।"
+          ],
+          "explanation": "ଦର୍ପଣ ସୂତ୍ର 1/f = 1/v + 1/u ବ୍ୟବହାର କରି, ଯେଉଁଠାରେ ଫୋକାଲ୍ ଦୂରତା f = -15 ସେମି ଏବଂ ବସ୍ତୁ ଦୂରତା u = -20 ସେମି, ଆମେ ପାଇବା 1/v = -1/15 + 1/20 = -1/60, ତେଣୁ v = -60 ସେମି। ବିୟୋଗ ଚିହ୍ନ ସୂଚାଏ ଯେ ପ୍ରତିବିମ୍ବ ଦର୍ପଣ ସମ୍ମୁଖରେ ଗଠିତ ହୋଇଛି, ଯାହାର ଅର୍ଥ ଏହା ଏକ ବାସ୍ତବ ଏବଂ ଓଲଟା ପ୍ରତିବିମ୍ବ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1782474675567-1",
+      "section": "Subject Knowledge",
+      "topic": "English Literature - Romantic Era",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following poems by John Keats is written in the Spenserian stanza form?",
+      "options": [
+        "Ode on a Grecian Urn",
+        "The Eve of St. Agnes",
+        "Hyperion",
+        "Lamia"
+      ],
+      "answer": 1,
+      "explanation": "John Keats' narrative poem 'The Eve of St. Agnes' is written in Spenserian stanzas, which consist of nine lines (eight lines in iambic pentameter followed by a single alexandrine line in iambic hexameter) with the rhyming scheme ababbcbcc.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ କିଟ୍ସଙ୍କ ନିମ୍ନଲିଖିତ କବିତାଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ସ୍ପେନ୍ସେରିଆନ୍ ଷ୍ଟାଞ୍ଜା (Spenserian stanza) ଶୈଳୀରେ ଲେଖାଯାଇଛି?",
+          "options": [
+            "ଓଡ୍ ଅନ୍ ଏ ଗ୍ରେସିଆନ୍ ଅର୍ଣ୍ଣ (Ode on a Grecian Urn)",
+            "ଦି ଇଭ୍ ଅଫ୍ ସେଣ୍ଟ ଆଗ୍ନେସ (The Eve of St. Agnes)",
+            "ହାଇପେରିଅନ୍ (Hyperion)",
+            "ଲାମିଆ (Lamia)"
+          ],
+          "explanation": "ଜନ୍ କିଟ୍ସଙ୍କ ପ୍ରସିଦ୍ଧ ବର୍ଣ୍ଣନାତ୍ମକ କବିତା 'ଦି ଇଭ୍ ଅଫ୍ ସେଣ୍ଟ ଆଗ୍ନେସ' (The Eve of St. Agnes) ସ୍ପେନ୍ସେରିଆନ୍ ଷ୍ଟାଞ୍ଜା (Spenserian stanza) ଫର୍ମାଟ୍‌ରେ ଲେଖାଯାଇଛି, ଯେଉଁଥିରେ ପ୍ରତ୍ୟେକ ସ୍ତବକରେ ୯ଟି ଧାଡ଼ି ଥାଏ (ଆଇମ୍ବିକ୍ ପେଣ୍ଟାମିଟରରେ ଆଠଟି ଧାଡ଼ି ଏବଂ ପରେ ଆଇମ୍ବିକ୍ ହେକ୍ସାମିଟରରେ ଏକକ ଆଲେକ୍ସଜାଣ୍ଡ୍ରାଇନ୍ ଧାଡ଼ି) ଏବଂ ଏହାର ମିଳନ ଶୈଳୀ ababbcbcc ଅଟେ।"
+        }
+      }
     }
   ]
 }

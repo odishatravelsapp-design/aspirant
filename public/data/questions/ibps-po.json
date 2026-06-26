@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -677,6 +677,136 @@
       ],
       "answer": 2,
       "explanation": "The inner area is 20 * 15 = 300 sq m. The outer dimensions including the 2.5 m path on all sides are 25 m by 20 m, giving an outer area of 500 sq m. The area of the path is 500 - 300 = 200 sq m. At Rs. 12 per sq m, the total cost is 200 * 12 = Rs. 2,400."
+    },
+    {
+      "id": "ibps-po-ai-1782473446013-0",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 5 : 3. If 16 liters of this mixture is taken out and replaced with 16 liters of water, the ratio of milk to water becomes 3 : 5. Find the initial quantity of milk in the vessel.",
+      "options": [
+        "20 liters",
+        "25 liters",
+        "30 liters",
+        "35 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial quantity of milk and water be 5x and 3x respectively (Total = 8x). When 16 liters of mixture is removed: Milk removed = 16 * (5/8) = 10 liters; Water removed = 16 * (3/8) = 6 liters. Remaining milk = 5x - 10, remaining water = 3x - 6. After adding 16 liters of water, the new water quantity becomes 3x - 6 + 16 = 3x + 10. The new ratio is 3:5, so (5x - 10) / (3x + 10) = 3/5. Solving this: 5(5x - 10) = 3(3x + 10) => 25x - 50 = 9x + 30 => 16x = 80 => x = 5. The initial quantity of milk = 5x = 5 * 5 = 25 liters."
+    },
+    {
+      "id": "ibps-po-ai-1782473446013-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three pipes A, B, and C can fill a cistern in 12 hours, 15 hours, and 20 hours respectively. Pipe A is opened at 7:00 AM, Pipe B at 8:00 AM, and Pipe C at 10:00 AM. At what time will the cistern be completely full?",
+      "options": [
+        "12:45 PM",
+        "1:05 PM",
+        "1:15 PM",
+        "2:10 PM"
+      ],
+      "answer": 1,
+      "explanation": "Let the total capacity of the cistern be LCM(12, 15, 20) = 60 units. Efficiency of A = 5 units/hr, B = 4 units/hr, and C = 3 units/hr. From 7:00 AM to 8:00 AM (1 hour), only A is open: work done = 5 * 1 = 5 units. From 8:00 AM to 10:00 AM (2 hours), A and B are open: work done = (5 + 4) * 2 = 18 units. Total work done by 10:00 AM = 5 + 18 = 23 units. Remaining work = 60 - 23 = 37 units. From 10:00 AM onwards, all three pipes are open: combined efficiency = 5 + 4 + 3 = 12 units/hr. Time taken to fill the remaining part = 37 / 12 hours = 3 hours and 5 minutes. Therefore, the cistern will be full at 10:00 AM + 3 hours 5 minutes = 1:05 PM."
+    },
+    {
+      "id": "ibps-po-ai-1782473457479-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some symbols are used with the following meanings:\n'A @ B' means 'A is not smaller than B'\n'A $ B' means 'A is not greater than B'\n'A # B' means 'A is neither greater than nor equal to B'\n'A % B' means 'A is neither smaller than nor equal to B'\n'A & B' means 'A is neither greater than nor smaller than B'\n\nGiven Statements: P # Q, Q & R, R @ S\nWhich of the following conclusions is/are definitely true?\nI. P # S\nII. S $ Q",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusions I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 1,
+      "explanation": "Decoding the symbols, we get: '@' means '>=', '$' means '<=', '#' means '<', '%' means '>', and '&' means '='. The given statements translate to: P < Q, Q = R, R >= S. Combining these, we get the relationship: P < Q = R >= S. \nFor conclusion I (P # S -> P < S): Since the symbols between P and S change direction (< and >=), no definite relationship can be established. Thus, I is not definitely true.\nFor conclusion II (S $ Q -> S <= Q): Since Q = R and R >= S, we have Q >= S, which means S <= Q. Thus, II is definitely true."
+    },
+    {
+      "id": "ibps-po-ai-1782473457479-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the statements carefully and decide which of the given conclusions logically follow(s) from the statements, disregarding commonly known facts.\n\nStatements:\n1. Only a few Gliders are Parachutes.\n2. No Parachute is a Balloon.\n3. All Balloons are Airships.\n\nConclusions:\nI. Some Gliders are definitely not Balloons.\nII. Some Airships being Parachutes is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 ('Only a few Gliders are Parachutes') implies that 'Some Gliders are Parachutes' and 'Some Gliders are not Parachutes'. \nFor Conclusion I: Since some Gliders are Parachutes, and no Parachute is a Balloon, those Gliders that are Parachutes can never be Balloons. Thus, 'Some Gliders are definitely not Balloons' is true.\nFor Conclusion II: While no Balloon can be a Parachute, Airships are a larger set containing Balloons. The part of Airships that does not overlap with Balloons can safely overlap with Parachutes without violating any statement. Hence, 'Some Airships being Parachutes is a possibility' is also true. Both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1782473470182-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Mark that part as your answer.\n\n'Hardly had the regulatory body (A) / initiated the forensic audit than (B) / several severe discrepancies in (C) / the ledger books came to light. (D)'",
+      "options": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+      ],
+      "answer": 1,
+      "explanation": "The correlative conjunction 'Hardly' is paired with 'when' or 'before', whereas 'No sooner' is paired with 'than'. Therefore, 'than' in Part B must be replaced with 'when' to make the sentence grammatically correct."
+    },
+    {
+      "id": "ibps-po-ai-1782473470182-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Each sentence below contains two blanks. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\n'The board of directors decided to _______ the proposed merger, fearing that it would _______ the company's core brand identity.'",
+      "options": [
+        "sanction, reinforce",
+        "shelve, compromise",
+        "endorse, weaken",
+        "dismiss, bolster"
+      ],
+      "answer": 1,
+      "explanation": "The word 'fearing' indicates that the consequence of the merger on the brand identity was negative. Hence, the second blank needs a negative word like 'compromise' or 'weaken'. If they feared this negative outcome, they would not approve ('endorse') it; instead, they would reject or postpone ('shelve') it. Thus, 'shelve, compromise' fits perfectly."
+    },
+    {
+      "id": "ibps-po-ai-1782473483065-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the total Priority Sector Lending (PSL) target for Small Finance Banks (SFBs) in India, expressed as a percentage of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher?",
+      "options": [
+        "40%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": 2,
+      "explanation": "Small Finance Banks (SFBs) are required to allocate 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, to the priority sector, whereas for domestic commercial banks (excluding RRBs and SFBs), the target is 40%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782473483065-1",
+      "section": "General Awareness",
+      "topic": "Banking History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Imperial Bank of India, which was later transformed into the State Bank of India in 1955, was established in 1921 by amalgamating three Presidency Banks under which of the following Acts?",
+      "options": [
+        "Presidency Banks Act, 1876",
+        "Imperial Bank of India Act, 1920",
+        "Government of India Act, 1919",
+        "Reserve Bank of India Act, 1934"
+      ],
+      "answer": 1,
+      "explanation": "The Imperial Bank of India was constituted under the Imperial Bank of India Act, 1920, and began operations on January 27, 1921, by amalgamating the three Presidency Banks: the Bank of Bengal, the Bank of Bombay, and the Bank of Madras.",
+      "status": "pending"
     }
   ]
 }

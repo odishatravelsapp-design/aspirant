@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1021,6 +1021,118 @@
       ],
       "answer": 1,
       "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the range of tasks that are too difficult for a child to master alone but can be learned with the guidance and assistance of adults or more-skilled peers."
+    },
+    {
+      "id": "pgt-ai-1782473955307-0",
+      "section": "Teaching Aptitude",
+      "topic": "Taxonomy of Educational Objectives",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the Revised Bloom's Taxonomy (Anderson & Krathwohl, 2001), which of the following represents the highest level of the cognitive domain?",
+      "options": [
+        "Evaluating",
+        "Creating",
+        "Analyzing",
+        "Applying"
+      ],
+      "answer": 1,
+      "explanation": "In the 2001 revised version of Bloom's Taxonomy by Anderson and Krathwohl, 'Creating' (putting elements together to form a coherent or functional whole) replaced 'Synthesis' and was placed at the highest level of the cognitive hierarchy, above 'Evaluating'.",
+      "translations": {
+        "or": {
+          "question": "ସଂଶୋଧିତ ବ୍ଲୁମଙ୍କ ବର୍ଗୀକରଣ (Revised Bloom's Taxonomy, ୨୦୦୧) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର ସର୍ବୋଚ୍ଚ ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "Evaluating (ମୂଲ୍ୟାଙ୍କନ କରିବା)",
+            "Creating (ସୃଜନ କରିବା)",
+            "Analyzing (ବିଶ୍ଳେଷଣ କରିବା)",
+            "Applying (ପ୍ରୟୋଗ କରିବା)"
+          ],
+          "explanation": "ଆଣ୍ଡରସନ ଏବଂ କ୍ରାଥୱାଲଙ୍କ ଦ୍ୱାରା ବ୍ଲୁମଙ୍କ ବର୍ଗୀକରଣର ୨୦୦୧ ସଂଶୋଧିତ ସଂସ୍କରଣରେ, 'ସୃଜନ କରିବା' (Creating) କୁ 'ସଂଶ୍ଳେଷଣ' (Synthesis) ସ୍ଥାନରେ ରଖାଯାଇ ଜ୍ଞାନାତ୍ମକ କ୍ରମର ସର୍ବୋଚ୍ଚ ସ୍ତରରେ ରଖାଯାଇଛି, ଯାହା 'ମୂଲ୍ୟାଙ୍କନ' (Evaluating) ର ଉପରେ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782473955307-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching and Classroom Interaction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS) for analyzing classroom interaction, how many categories are specifically dedicated to 'Teacher Talk'?",
+      "options": [
+        "5 categories",
+        "7 categories",
+        "10 categories",
+        "3 categories"
+      ],
+      "answer": 1,
+      "explanation": "Flanders' Interaction Analysis Category System (FIACS) consists of 10 categories in total. Out of these, categories 1 to 7 are dedicated to Teacher Talk (1-4 represent Indirect Influence and 5-7 represent Direct Influence). Categories 8 and 9 represent Pupil Talk, and category 10 represents Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ବର୍ଗ ପ୍ରଣାଳୀ (FIACS) ରେ, କେତୋଟି ବର୍ଗ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (Teacher Talk) ପାଇଁ ଉଦ୍ଦିଷ୍ଟ?",
+          "options": [
+            "୫ଟି ବର୍ଗ",
+            "୭ଟି ବର୍ଗ",
+            "୧୦ଟି ବର୍ଗ",
+            "୩ଟି ବର୍ଗ"
+          ],
+          "explanation": "FIACS ରେ ସର୍ବମୋଟ ୧୦ଟି ବର୍ଗ ରହିଛି। ଏହା ମଧ୍ୟରୁ, ୧ ରୁ ୭ ପର୍ଯ୍ୟନ୍ତ ବର୍ଗଗୁଡ଼ିକ ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା (Teacher Talk) ପାଇଁ ଉଦ୍ଦିଷ୍ଟ (ଯାହାକୁ ୪ଟି ପରୋକ୍ଷ ପ୍ରଭାବ ଏବଂ ୩ଟି ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବରେ ବିଭକ୍ତ କରାଯାଇଛି), ୮ ଏବଂ ୯ ବର୍ଗ ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା (Pupil Talk) କୁ ପ୍ରତିନିଧିତ୍ୱ କରେ ଏବଂ ୧୦ମ ବର୍ଗ ନୀରବତା କିମ୍ବା ବିଭ୍ରାନ୍ତି (Silence or Confusion) କୁ ପ୍ରତିନିଧିତ୍ୱ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782474206313-0",
+      "section": "Child Development",
+      "topic": "Cognitive Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Jean Piaget's theory of cognitive development, when a child fits new information into existing schemas without changing them, this process is known as:",
+      "options": [
+        "Accommodation",
+        "Assimilation",
+        "Equilibration",
+        "Organization"
+      ],
+      "answer": 1,
+      "explanation": "Assimilation is the cognitive process of fitting new information into existing cognitive schemas, perceptions, and understanding without changing the schema itself. Accommodation, on the other hand, involves altering existing schemas as a result of new information.",
+      "translations": {
+        "or": {
+          "question": "ଜିନ୍ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଯେତେବେଳେ ଜଣେ ଶିଶୁ ନୂତନ ସୂଚନାକୁ ନିଜର ବିଦ୍ୟମାନ ସ୍କିମା (schema) ମଧ୍ୟରେ କୌଣସି ପରିବର୍ତ୍ତନ ନକରି ଫିଟ୍ କରେ, ସେହି ପ୍ରକ୍ରିୟାକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "ସମାୟୋଜନ (Accommodation)",
+            "ଆତ୍ମସାତକରଣ (Assimilation)",
+            "ସନ୍ତୁଳନ (Equilibration)",
+            "ସଂଗଠନ (Organization)"
+          ],
+          "explanation": "ଆତ୍ମସାତକରଣ (Assimilation) ହେଉଛି ଏକ ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟା ଯେଉଁଥିରେ ନୂତନ ସୂଚନାକୁ ବିଦ୍ୟମାନ ସ୍କିମା ମଧ୍ୟରେ କୌଣସି ପରିବର୍ତ୍ତନ ନକରି ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782474206313-1",
+      "section": "Child Development",
+      "topic": "Moral Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A high school student decides not to cheat on an exam because they believe that rules are essential for maintaining social order and that everyone has a duty to uphold these rules for society to function smoothly. According to Lawrence Kohlberg's stages of moral development, this student is operating at which stage?",
+      "options": [
+        "Stage 3: Good Interpersonal Relationships (Good Boy - Nice Girl orientation)",
+        "Stage 4: Maintaining the Social Order (Law and Order orientation)",
+        "Stage 5: Social Contract and Individual Rights",
+        "Stage 2: Individualism and Exchange"
+      ],
+      "answer": 1,
+      "explanation": "In Kohlberg's Stage 4 (Law and Order orientation / Maintaining Social Order), moral decisions are made based on the importance of maintaining social order, respecting authority, and performing one's duty so that society functions properly.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ହାଇସ୍କୁଲ ଛାତ୍ର ପରୀକ୍ଷାରେ ନକଲ ନକରିବାକୁ ସ୍ଥିର କରନ୍ତି କାରଣ ସେ ବିଶ୍ୱାସ କରନ୍ତି ଯେ ସାମାଜିକ ଶୃଙ୍ଖଳା ରକ୍ଷା କରିବା ପାଇଁ ନିୟମଗୁଡ଼ିକ ଅତ୍ୟନ୍ତ ଜରୁରୀ ଏବଂ ସମାଜର ସୁଚାରୁ ପରିଚାଳନା ପାଇଁ ଏହି ନିୟମଗୁଡ଼ିକୁ ମାନିବା ସମସ୍ତଙ୍କର କର୍ତ୍ତବ୍ୟ। ଲରେନ୍ସ କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶର ପର୍ଯ୍ୟାୟ ଅନୁଯାୟୀ, ଏହି ଛାତ୍ରଜଣକ କେଉଁ ପର୍ଯ୍ୟାୟରେ କାର୍ଯ୍ୟ କରୁଛନ୍ତି?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୩: ଉତ୍ତମ ପାରସ୍ପରିକ ସମ୍ପର୍କ (ଭଲ ବାଳକ - ଭଲ ବାଳିକା ଅଭିମୁଖ୍ୟ)",
+            "ପର୍ଯ୍ୟାୟ ୪: ସାମାଜିକ ଶୃଙ୍ଖଳା ରକ୍ଷା କରିବା (ଆଇନ ଏବଂ ଶୃଙ୍ଖଳା ଅଭିମୁଖ୍ୟ)",
+            "ପର୍ଯ୍ୟାୟ ୫: ସାମାଜିକ ଚୁକ୍ତି ଏବଂ ବ୍ୟକ୍ତିଗତ ଅଧିକାର",
+            "ପର୍ଯ୍ୟାୟ ୨: ବ୍ୟକ୍ତିବାଦ ଏବଂ ବିନିମୟ"
+          ],
+          "explanation": "କୋହଲବର୍ଗଙ୍କ ପର୍ଯ୍ୟାୟ ୪ (ଆଇନ ଏବଂ ଶୃଙ୍ଖଳା ଅଭିମୁଖ୍ୟ) ରେ, ସାମାଜିକ ଶୃଙ୍ଖଳା ବଜାୟ ରଖିବା, କର୍ତ୍ତବ୍ୟ ପାଳନ କରିବା ଏବଂ ନିୟମକୁ ସମ୍ମାନ ଦେବା ଆଧାରରେ ନୈତିକ ନିଷ୍ପତ୍ତି ନିଆଯାଇଥାଏ।"
+        }
+      }
     }
   ]
 }

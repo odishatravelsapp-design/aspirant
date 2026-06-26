@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1077,6 +1077,178 @@
             "ଜନ୍ ହାମିଲଟନ୍ ରେନଲ୍ଡସ୍"
           ],
           "explanation": "ଜନ୍ କିଟ୍ସ ପ୍ରଥମେ ଡିସେମ୍ବର ୧୮୧୭ ରେ ତାଙ୍କ ଭାଇ ଜର୍ଜ ଏବଂ ଥୋମାସ୍ କିଟ୍ସଙ୍କୁ ଲେଖିଥିବା ଏକ ପତ୍ରରେ 'Negative Capability' ଶବ୍ଦଟି ବ୍ୟବହାର କରିଥିଲେ, ଯାହାର ଅର୍ଥ ହେଉଛି ତଥ୍ୟ ଏବଂ ଯୁକ୍ତି ପଛରେ ନ ଗୋଡ଼ାଇ ଅନିଶ୍ଚିତତା ଏବଂ ସନ୍ଦେହ ମଧ୍ୟରେ ରହିବାର କ୍ଷମତା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782473564973-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory and Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Harold Bloom's 'The Anxiety of Influence', which of the six revisionary ratios describes a movement of self-purgation or emptying where the later poet humbles themselves, yet in doing so, also empties out the precursor's poem?",
+      "options": [
+        "Clinamen",
+        "Kenosis",
+        "Tessera",
+        "Askesis"
+      ],
+      "answer": 1,
+      "explanation": "In Harold Bloom's theory of poetic influence, 'Kenosis' is the movement of undoing or emptying. The later poet humbles themselves as if to divest of their precursor's influence, but this act ultimately empties out the precursor's poem as well, isolating the later poet's voice.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ହାରୋଲ୍ଡ ବ୍ଲୁମ୍‌ଙ୍କ 'ଦି ଆଙ୍ଗଜାଇଟି ଅଫ୍ ଇନ୍‌ଫ୍ଲୁଏନ୍ସ' (The Anxiety of Influence) ରେ, ଛଅଟି ସଂଶୋଧନମୂଳକ ଅନୁପାତ ମଧ୍ୟରୁ କେଉଁ ଶବ୍ଦଟି ଏକ ସ୍ୱ-ଶୁଦ୍ଧିକରଣ କିମ୍ବା ଶୂନ୍ୟ କରିବାର ପ୍ରକ୍ରିୟାକୁ ଦର୍ଶାଏ ଯେଉଁଠାରେ ପରବର୍ତ୍ତୀ କବି ନିଜକୁ ନମ୍ର କରନ୍ତି, କିନ୍ତୁ ଏହା କରିବା ଦ୍ୱାରା ପୂର୍ବବର୍ତ୍ତୀ କବିଙ୍କ କବିତାକୁ ମଧ୍ୟ ଶୂନ୍ୟ କରିଦିଅନ୍ତି?",
+          "options": [
+            "କ୍ଲିନାମେନ୍ (Clinamen)",
+            "କେନୋସିସ୍ (Kenosis)",
+            "ଟେସେରା (Tessera)",
+            "ଆସ୍କେସିସ୍ (Askesis)"
+          ],
+          "explanation": "ହାରୋଲ୍ଡ ବ୍ଲୁମ୍‌ଙ୍କ କାବ୍ୟିକ ପ୍ରଭାବ ସିଦ୍ଧାନ୍ତରେ, 'କେନୋସିସ୍' (Kenosis) ହେଉଛି ଏକ ଶୂନ୍ୟ କରିବା କିମ୍ବା ପୁନଃନିର୍ମାଣ କରିବାର ପ୍ରକ୍ରିୟା । ପରବର୍ତ୍ତୀ କବି ନିଜକୁ ନମ୍ର କରନ୍ତି ଯେପରି ସେ ନିଜ ପୂର୍ବବର୍ତ୍ତୀଙ୍କ ପ୍ରଭାବରୁ ମୁକ୍ତ ହେବେ, କିନ୍ତୁ ଏହି କାର୍ଯ୍ୟ ଶେଷରେ ପୂର୍ବବର୍ତ୍ତୀଙ୍କ କବିତାକୁ ମଧ୍ୟ ଶୂନ୍ୟ କରିଦିଏ, ଯାହା ପରବର୍ତ୍ତୀ କବିଙ୍କ ସ୍ୱରକୁ ପୃଥକ କରେ ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782473564973-1",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Matthew Arnold's famous poem 'The Scholar-Gipsy' is based on a story from which 17th-century prose work?",
+      "options": [
+        "Robert Burton's 'The Anatomy of Melancholy'",
+        "Joseph Glanvill's 'The Vanity of Dogmatizing'",
+        "Richard Baxter's 'The Saints' Everlasting Rest'",
+        "Thomas Browne's 'Religio Medici'"
+      ],
+      "answer": 1,
+      "explanation": "Matthew Arnold's 'The Scholar-Gipsy' (1853) is based on an anecdote found in Joseph Glanvill's 1661 book 'The Vanity of Dogmatizing', which tells the story of an Oxford student who leaves his studies to join a band of gypsies.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡଙ୍କ ପ୍ରସିଦ୍ଧ କବିତା 'ଦି ସ୍କଲାର-ଜିପ୍ସୀ' (The Scholar-Gipsy) ସପ୍ତଦଶ ଶତାବ୍ଦୀର କେଉଁ ଗଦ୍ୟ ରଚନାର ଏକ କାହାଣୀ ଉପରେ ଆଧାରିତ?",
+          "options": [
+            "ରବର୍ଟ ବର୍ଟନଙ୍କ 'ଦି ଆନାଟୋମି ଅଫ୍ ମେଲାନ୍‌କଲି' (The Anatomy of Melancholy)",
+            "ଜୋସେଫ୍ ଗ୍ଲାନ୍ଭିଲ୍‌ଙ୍କ 'ଦି ଭ୍ୟାନିଟି ଅଫ୍ ଡଗ୍ମାଟାଇଜିଙ୍ଗ୍' (The Vanity of Dogmatizing)",
+            "ରିଚାର୍ଡ ବାକ୍ସଟରଙ୍କ 'ଦି ସେଣ୍ଟସ୍ ଏଭରଲାଷ୍ଟିଙ୍ଗ୍ ରେଷ୍ଟ' (The Saints' Everlasting Rest)",
+            "ଥୋମାସ ବ୍ରାଉନଙ୍କ 'ରିଲିଜିଓ ମେଡିସି' (Religio Medici)"
+          ],
+          "explanation": "ମାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡଙ୍କ 'ଦି ସ୍କଲାର-ଜିପ୍ସୀ' (୧୮୫୩) କବିତାଟି ଜୋସେଫ୍ ଗ୍ଲାନ୍ଭିଲ୍‌ଙ୍କ ୧୬୬୧ ମସିହାର ପୁସ୍ତକ 'ଦି ଭ୍ୟାନିଟି ଅଫ୍ ଡଗ୍ମାଟାଇଜିଙ୍ଗ୍' ରେ ଥିବା ଏକ କାହାଣୀ ଉପରେ ଆଧାରିତ, ଯାହା ଜଣେ ଅକ୍ସଫୋର୍ଡ ଛାତ୍ରଙ୍କ ବିଷୟରେ କହିଥାଏ ଯିଏ ନିଜ ପାଠପଢ଼ା ଛାଡି ଜିପ୍ସୀମାନଙ୍କ ଦଳରେ ଯୋଗ ଦେଇଥିଲେ ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782473578686-0",
+      "section": "Teaching Aptitude",
+      "topic": "History of Indian Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Wardha Scheme of Basic Education (1937), initiated by Mahatma Gandhi, was detailed and formulated by a committee under the chairmanship of which eminent educationist?",
+      "options": [
+        "Dr. Zakir Husain",
+        "Dr. Lakshmanaswamy Mudaliar",
+        "Dr. D. S. Kothari",
+        "Acharya Narendra Dev"
+      ],
+      "answer": 0,
+      "explanation": "The Wardha Scheme of Education (also known as Nai Talim) was proposed by Mahatma Gandhi in 1937. A committee under the chairmanship of Dr. Zakir Husain was appointed to formulate the detailed syllabus and implementation plan for this basic education scheme.",
+      "translations": {
+        "or": {
+          "question": "ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିବା ୱାର୍ଦ୍ଧା ମୌଳିକ ଶିକ୍ଷା ଯୋଜନା (୧୯୩୭) ର ବିସ୍ତୃତ ରୂପରେଖ କେଉଁ ବିଶିଷ୍ଟ ଶିକ୍ଷାବିତ୍‌ଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଗଠିତ କମିଟି ଦ୍ୱାରା ପ୍ରସ୍ତୁତ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଡ. ଜାକିର ହୁସେନ",
+            "ଡ. ଲକ୍ଷ୍ମଣସ୍ୱାମୀ ମୁଦାଲିଅର",
+            "ଡ. ଡି. ଏସ. କୋଠାରୀ",
+            "ଆଚାର୍ଯ୍ୟ ନରେନ୍ଦ୍ର ଦେବ"
+          ],
+          "explanation": "୧୯୩୭ ମସିହାରେ ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତାବିତ ମୌଳିକ ଶିକ୍ଷା ଯୋଜନା (ନଈ ତାଲିମ) ର ବିସ୍ତୃତ ପାଠ୍ୟକ୍ରମ ପ୍ରସ୍ତୁତ କରିବା ପାଇଁ ଡ. ଜାକିର ହୁସେନଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଏକ କମିଟି ଗଠନ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782473578686-1",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Interaction Analysis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS) used for analyzing classroom verbal behavior, how many of the ten categories are designated to represent 'Teacher Talk'?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "Out of the 10 total categories in Flanders' Interaction Analysis Category System (FIACS), Categories 1 through 7 (a total of 7 categories) are dedicated to representing 'Teacher Talk'. This is further divided into Indirect Influence (Categories 1-4) and Direct Influence (Categories 5-7).",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ମୌଖିକ ବ୍ୟବହାରର ବିଶ୍ଳେଷଣ ପାଇଁ ବ୍ୟବହୃତ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରଆକ୍ସନ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ (FIACS) ରେ, ଦଶଟି ବର୍ଗ ମଧ୍ୟରୁ କେତୋଟି ବର୍ଗ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (Teacher Talk) କୁ ଦର୍ଶାଇବା ପାଇଁ ନିର୍ଦ୍ଧାରିତ ହୋଇଛି?",
+          "options": [
+            "୪",
+            "୫",
+            "୭",
+            "୨"
+          ],
+          "explanation": "FIACS ର ୧୦ଟି ବର୍ଗ ମଧ୍ୟରୁ, ୧ ରୁ ୭ ପର୍ଯ୍ୟନ୍ତ (୭ଟି ବର୍ଗ) ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା ପାଇଁ ଉଦ୍ଦିଷ୍ଟ ଅଟେ, ଯାହା ଶିକ୍ଷକଙ୍କ ପରୋକ୍ଷ ପ୍ରଭାବ (ବର୍ଗ ୧-୪) ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ (ବର୍ଗ ୫-୭) ଭାବରେ ବିଭକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782473788931-0",
+      "section": "Odisha GK",
+      "topic": "Medieval History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the eldest son and prominent military commander of Gajapati Kapilendra Deva who led the southern military campaigns and successfully captured Kanchi?",
+      "options": [
+        "Hamvira Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 0,
+      "explanation": "Hamvira Deva was the eldest son of Kapilendra Deva who successfully led the Gajapati army during the southern expeditions, conquering territories up to Kanchi and the Kaveri basin.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବଙ୍କ ଜ୍ୟେଷ୍ଠ ପୁତ୍ର ତଥା ପ୍ରମୁଖ ସେନାପତି କିଏ ଥିଲେ, ଯିଏ ଦକ୍ଷିଣ ସାମରିକ ଅଭିଯାନର ନେତୃତ୍ୱ ନେଇ ସଫଳତାର ସହ କାଞ୍ଚି ଜୟ କରିଥିଲେ?",
+          "options": [
+            "ହମ୍ଭୀର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "ହମ୍ଭୀର ଦେବ ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବଙ୍କ ଜ୍ୟେଷ୍ଠ ପୁତ୍ର ଥିଲେ, ଯିଏ ଦକ୍ଷିଣ ଅଭିଯାନ ସମୟରେ ଗଜପତି ସେନାର ନେତୃତ୍ୱ ନେଇ କାଞ୍ଚି ଏବଂ କାବେରୀ ଅବବାହିକା ପର୍ଯ୍ୟନ୍ତ ଅଞ୍ଚଳ ଜୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782473788931-1",
+      "section": "Odisha GK",
+      "topic": "Odia Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who is the author of the famous historical Odia novel 'Nila Saila' (The Blue Mountain), which depicts the preservation of Lord Jagannath's idol during Muslim invasions?",
+      "options": [
+        "Surendra Mohanty",
+        "Gopinath Mohanty",
+        "Kanhu Charan Mohanty",
+        "Ramachandra Behera"
+      ],
+      "answer": 0,
+      "explanation": "'Nila Saila' is a highly acclaimed historical novel written by Surendra Mohanty. It received the Central Sahitya Akademi Award in 1969.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମୁସଲମାନ ଆକ୍ରମଣ ସମୟରେ ମହାପ୍ରଭୁ ଶ୍ରୀଜଗନ୍ନାଥଙ୍କ ବିଗ୍ରହ ସୁରକ୍ଷା ଉପରେ ଆଧାରିତ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ଓଡ଼ିଆ ଉପନ୍ୟାସ 'ନୀଳଶୈଳ'ର ରଚୟିତା କିଏ?",
+          "options": [
+            "ସୁରେନ୍ଦ୍ର ମହାନ୍ତି",
+            "ଗୋପୀନାଥ ମହାନ୍ତି",
+            "କାହ୍ନୁଚରଣ ମହାନ୍ତି",
+            "ରାମଚନ୍ଦ୍ର ବେହେରା"
+          ],
+          "explanation": "'ନୀଳଶୈଳ' ହେଉଛି ସୁରେନ୍ଦ୍ର ମହାନ୍ତିଙ୍କ ଦ୍ୱାରା ରଚିତ ଏକ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ଉପନ୍ୟାସ, ଯାହା ପାଇଁ ସେ ୧୯୬୯ ମସିହାରେ କେନ୍ଦ୍ର ସାହିତ୍ୟ ଅକାଦେମୀ ପୁରସ୍କାର ପାଇଥିଲେ।"
         }
       }
     }

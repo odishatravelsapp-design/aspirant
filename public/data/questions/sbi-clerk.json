@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -710,6 +710,136 @@
       ],
       "answer": 1,
       "explanation": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption mechanism. Unlike the traditional Reverse Repo facility, where the RBI has to provide government securities as collateral to banks, the SDF does not require any collateral, thereby strengthening the operating framework of monetary policy.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782473376645-0",
+      "section": "Quant",
+      "topic": "Simplification & Approximation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What approximate value should come in place of the question mark (?) in the following question? \n\n√(441.02) × 11.98 + (15.99)² - 120.05 = ?",
+      "options": [
+        "352",
+        "388",
+        "412",
+        "440"
+      ],
+      "answer": 1,
+      "explanation": "To solve this, we approximate the values to the nearest integers:\n- √(441.02) ≈ √441 = 21\n- 11.98 ≈ 12\n- 15.99 ≈ 16, so (15.99)² ≈ 16² = 256\n- 120.05 ≈ 120\n\nNow, substitute these back into the expression:\n21 × 12 + 256 - 120\n= 252 + 256 - 120\n= 508 - 120\n= 388"
+    },
+    {
+      "id": "sbi-clerk-ai-1782473376645-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat can travel 36 km upstream in 4 hours. If the speed of the stream is 3 km/h, how much time (in hours) will the boat take to travel 105 km downstream?",
+      "options": [
+        "5 hours",
+        "6 hours",
+        "7 hours",
+        "8 hours"
+      ],
+      "answer": 2,
+      "explanation": "1. Speed of the boat upstream (U) = Distance / Time = 36 / 4 = 9 km/h.\n2. We know that Upstream Speed (U) = Speed of boat in still water (x) - Speed of stream (y).\nGiven, y = 3 km/h.\nSo, 9 = x - 3 => x = 12 km/h.\n3. Speed of the boat downstream (D) = Speed of boat in still water (x) + Speed of stream (y) = 12 + 3 = 15 km/h.\n4. Time taken to travel 105 km downstream = Distance / Downstream Speed = 105 / 15 = 7 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1782473404421-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, if 'TREAT' is coded as '79517' and 'CHAIR' is coded as '38149', how will 'TEACHER' be coded in that language?",
+      "options": [
+        "7513859",
+        "7518359",
+        "7513895",
+        "7153859"
+      ],
+      "answer": 0,
+      "explanation": "The letters are directly mapped to specific digits based on the given examples:\nT = 7, R = 9, E = 5, A = 1, C = 3, H = 8, I = 4.\nApplying this mapping to 'TEACHER':\nT -> 7\nE -> 5\nA -> 1\nC -> 3\nH -> 8\nE -> 5\nR -> 9\nThus, 'TEACHER' is coded as '7513859'."
+    },
+    {
+      "id": "sbi-clerk-ai-1782473404421-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven people—A, B, C, D, E, F, and G—are sitting in a straight line facing North. A sits third to the left of E. E sits adjacent to G. Only two people sit between G and B. C sits to the immediate right of F. D is not an immediate neighbor of A. F does not sit at any of the extreme ends of the line. Who sits third to the right of B?",
+      "options": [
+        "D",
+        "E",
+        "G",
+        "F"
+      ],
+      "answer": 2,
+      "explanation": "Let's place them in 7 positions from left (1) to right (7):\n1. A sits third to the left of E, which means we have the sequence A _ _ E.\n2. E is adjacent to G, and F is not at the extreme end. Testing the placement of A at position 1 and E at position 4:\n- G must be at position 5 (if G is at 3, B would be at 6, leaving no adjacent spots for F and C).\n- Since G is at 5, B must be at 2 (two people between G and B).\n- This gives: A (1), B (2), _ (3), E (4), G (5), _ (6), _ (7).\n- C sits to the immediate right of F, so F must be at 6 and C at 7.\n- The remaining spot 3 is filled by D.\n- This arrangement: A(1), B(2), D(3), E(4), G(5), F(6), C(7) satisfies all conditions (D is not adjacent to A, and F is not at the extreme ends).\nThird to the right of B (at position 2) is G (at position 5)."
+    },
+    {
+      "id": "sbi-clerk-ai-1782473419627-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, a part of the sentence is emboldened. Choose the alternative that best improves the emboldened part grammatically and structurally.\n\nHe was **not only famous for his wisdom** but also for his humility.",
+      "options": [
+        "famous not only for his wisdom",
+        "not only famous because of his wisdom",
+        "famous for not only his wisdom",
+        "not only famous for wisdom"
+      ],
+      "answer": 0,
+      "explanation": "To maintain parallel structure in a sentence, the correlative conjunctions 'not only' and 'but also' must be followed by the same grammatical form. In the original sentence, 'but also' is followed by a prepositional phrase ('for his humility'). Therefore, 'not only' must also be followed by a prepositional phrase starting with 'for'. Option A perfectly achieves this balance: 'He was famous [not only for his wisdom] but also [for his humility]'."
+    },
+    {
+      "id": "sbi-clerk-ai-1782473419627-1",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, a word is given followed by four sentences. Identify the sentence in which the word COMPROMISE has been used INCORRECTLY.",
+      "options": [
+        "The cyberattack did compromise the sensitive data of millions of users.",
+        "After hours of intense debate, they managed to reach a mutually beneficial compromise.",
+        "The new automated assembly line will compromise of twelve robotic arms working in unison.",
+        "She was unwilling to compromise her integrity for a short-term financial gain."
+      ],
+      "answer": 2,
+      "explanation": "In option C, the word 'compromise' is used incorrectly in place of 'comprise' (which means to consist of or be made up of). In options A and D, 'compromise' is correctly used as a verb meaning to weaken, damage, or accept standards that are lower than desirable. In option B, 'compromise' is correctly used as a noun meaning an agreement reached by mutual concession."
+    },
+    {
+      "id": "sbi-clerk-ai-1782473429512-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Basel III capital regulations prescribed by the Reserve Bank of India (RBI), what is the minimum Capital to Risk-weighted Assets Ratio (CRAR) that scheduled commercial banks in India are required to maintain on an ongoing basis (excluding the Capital Conservation Buffer)?",
+      "options": [
+        "8.0%",
+        "9.0%",
+        "10.5%",
+        "11.5%"
+      ],
+      "answer": 1,
+      "explanation": "According to RBI guidelines, scheduled commercial banks in India are required to maintain a minimum CRAR of 9% (excluding the Capital Conservation Buffer of 2.5%), which is 1% higher than the Basel III minimum requirement of 8%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782473429512-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the 'Mahila Samman Savings Certificate' (MSSC) scheme, what is the maximum deposit limit permitted for an account holder, and what is the fixed interest rate offered per annum?",
+      "options": [
+        "₹1,50,000 at 7.1% interest rate",
+        "₹2,00,000 at 7.5% interest rate",
+        "₹3,00,000 at 7.75% interest rate",
+        "₹5,00,000 at 8.0% interest rate"
+      ],
+      "answer": 1,
+      "explanation": "The Mahila Samman Savings Certificate is a small savings scheme for women and girls with a tenure of two years. It offers a maximum investment limit of ₹2 Lakh (with a minimum of ₹1,000) at a fixed interest rate of 7.5% per annum.",
       "status": "pending"
     }
   ]
