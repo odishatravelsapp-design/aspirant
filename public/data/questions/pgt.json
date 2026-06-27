@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1131,6 +1131,118 @@
             "ପର୍ଯ୍ୟାୟ ୨: ବ୍ୟକ୍ତିବାଦ ଏବଂ ବିନିମୟ"
           ],
           "explanation": "କୋହଲବର୍ଗଙ୍କ ପର୍ଯ୍ୟାୟ ୪ (ଆଇନ ଏବଂ ଶୃଙ୍ଖଳା ଅଭିମୁଖ୍ୟ) ରେ, ସାମାଜିକ ଶୃଙ୍ଖଳା ବଜାୟ ରଖିବା, କର୍ତ୍ତବ୍ୟ ପାଳନ କରିବା ଏବଂ ନିୟମକୁ ସମ୍ମାନ ଦେବା ଆଧାରରେ ନୈତିକ ନିଷ୍ପତ୍ତି ନିଆଯାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782553209738-0",
+      "section": "Teaching Aptitude",
+      "topic": "Micro-teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the model developed by NCERT, what is the total standard duration of a complete micro-teaching cycle in India?",
+      "options": [
+        "30 minutes",
+        "36 minutes",
+        "40 minutes",
+        "45 minutes"
+      ],
+      "answer": 1,
+      "explanation": "The standard micro-teaching cycle duration recommended by the NCERT in India is 36 minutes. The breakdown is: Teach (6 min), Feedback (6 min), Re-plan (12 min), Re-teach (6 min), and Re-feedback (6 min).",
+      "translations": {
+        "or": {
+          "question": "NCERT ଦ୍ଵାରା ବିକଶିତ ମଡେଲ ଅନୁଯାୟୀ, ଭାରତରେ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ମାଇକ୍ରୋ-ଟିଚିଙ୍ଗ୍ (ସୂକ୍ଷ୍ମ-ଶିକ୍ଷଣ) ଚକ୍ରର ମୋଟ ମାନକ ଅବଧି କେତେ?",
+          "options": [
+            "୩୦ ମିନିଟ୍",
+            "୩୬ ମିନିଟ୍",
+            "୪୦ ମିନିଟ୍",
+            "୪୫ ମିନିଟ୍"
+          ],
+          "explanation": "ଭାରତରେ NCERT ଦ୍ଵାରା ସୁପାରିଶ କରାଯାଇଥିବା ମାନକ ମାଇକ୍ରୋ-ଟିଚିଙ୍ଗ୍ ଚକ୍ରର ଅବଧି ହେଉଛି ୩୬ ମିନିଟ୍ | ଏହାର ବିଭାଜନ ହେଉଛି: ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ପ୍ରତିପୁଷ୍ଟି/ଫିଡ୍‌ବ୍ୟାକ୍ (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଏବଂ ପୁନଃ-ପ୍ରତିପୁଷ୍ଟି (୬ ମିନିଟ୍) |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782553209738-1",
+      "section": "Teaching Aptitude",
+      "topic": "Meaningful Verbal Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Ausubel's theory of Meaningful Verbal Learning, what is the primary function of an 'Advance Organizer'?",
+      "options": [
+        "To provide a cognitive bridge between new learning material and the learner's existing cognitive structure.",
+        "To test the prerequisite entry-level knowledge of students before starting a new unit.",
+        "To summarize and consolidate the key points of the lesson at the very end of instruction.",
+        "To provide external reinforcement and motivation to prevent students from losing focus."
+      ],
+      "answer": 0,
+      "explanation": "David Ausubel introduced the concept of 'Advance Organizers' to serve as a cognitive bridge. They are presented prior to the new learning material to help the learner organize and interpret the new information by linking it to their pre-existing cognitive structures.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲ୍ (David Ausubel)ଙ୍କ ଅର୍ଥପୂର୍ଣ୍ଣ ମୌଖିକ ଶିକ୍ଷଣ (Meaningful Verbal Learning) ସିଦ୍ଧାନ୍ତରେ, 'ଆଡଭାନ୍ସ ଅର୍ଗାନାଇଜର୍' (Advance Organizer) ର ପ୍ରାଥମିକ କାର୍ଯ୍ୟ କ’ଣ?",
+          "options": [
+            "ନୂତନ ଶିକ୍ଷଣ ସାମଗ୍ରୀ ଏବଂ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପୂର୍ବରୁ ଥିବା ଜ୍ଞାନାତ୍ମକ ସଂରଚନା ମଧ୍ୟରେ ଏକ ଜ୍ଞାନାତ୍ମକ ସେତୁ ପ୍ରଦାନ କରିବା।",
+            "ଏକ ନୂତନ ବିଷୟ ଆରମ୍ଭ କରିବା ପୂର୍ବରୁ ଛାତ୍ରମାନଙ୍କର ପ୍ରାରମ୍ଭିକ ଜ୍ଞାନର ପରୀକ୍ଷା କରିବା।",
+            "ଶିକ୍ଷାଦାନର ଶେଷ ଭାଗରେ ପାଠର ମୁଖ୍ୟ ବିନ୍ଦୁଗୁଡ଼ିକୁ ସଂକ୍ଷିପ୍ତ ଏବଂ ଏକତ୍ରିତ କରିବା।",
+            "ଛାତ୍ରମାନଙ୍କୁ ମନୋଯୋଗ ହରାଇବାରୁ ରୋକିବା ପାଇଁ ବାହ୍ୟ ପ୍ରୋତ୍ସାହନ ଏବଂ ପ୍ରେରଣା ପ୍ରଦାନ କରିବା।"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଆସୁବେଲ୍ ଜ୍ଞାନାତ୍ମକ ସେତୁ ଭାବରେ କାର୍ଯ୍ୟ କରିବା ପାଇଁ 'ଆଡଭାନ୍ସ ଅର୍ଗାନାଇଜର୍' ର ଅବଧାରଣା ପ୍ରଦାନ କରିଥିଲେ। ନୂତନ ସାମଗ୍ରୀ ଉପସ୍ଥାପନ କରିବା ପୂର୍ବରୁ ଏଗୁଡିକ ପ୍ରଦାନ କରାଯାଏ, ଯାହା ଶିକ୍ଷାର୍ଥୀଙ୍କୁ ସେମାନଙ୍କର ପୂର୍ବ ଜ୍ଞାନ ସହିତ ନୂତନ ସୂଚନାକୁ ଯୋଡ଼ିବାରେ ଏବଂ ବୁଝିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782553570698-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which amendment to the Constitution of India reduced the voting age from 21 to 18 years?",
+      "options": [
+        "61st Amendment Act",
+        "42nd Amendment Act",
+        "44th Amendment Act",
+        "73rd Amendment Act"
+      ],
+      "answer": 0,
+      "explanation": "The 61st Constitutional Amendment Act of 1988 reduced the voting age for the Lok Sabha and State Legislative Assemblies from 21 to 18 years. It came into force in 1989.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ସଂଶୋଧନ ଭୋଟ୍ ଦେବାର ବୟସକୁ ୨୧ ବର୍ଷରୁ ୧୮ ବର୍ଷକୁ ହ୍ରାସ କରିଥିଲା?",
+          "options": [
+            "୬୧ତମ ସଂଶୋଧନ ଅଧିନିୟମ",
+            "୪୨ତମ ସଂଶୋଧନ ଅଧିନିୟମ",
+            "୪୪ତମ ସଂଶୋଧନ ଅଧିନିୟମ",
+            "୭୩ତମ ସଂଶୋଧନ ଅଧିନିୟମ"
+          ],
+          "explanation": "୧୯୮୮ ର ୬୧ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ ଦ୍ୱାରା ଲୋକସଭା ଏବଂ ରାଜ୍ୟ ବିଧାନସଭା ନିର୍ବାଚନ ପାଇଁ ଭୋଟ୍ ଦେବାର ବୟସ ସୀମାକୁ ୨୧ ବର୍ଷରୁ ୧୮ ବର୍ଷକୁ ହ୍ରାସ କରାଯାଇଥିଲା। ଏହା ୧୯୮୯ ମସିହାରେ କାର୍ଯ୍ୟକାରୀ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782553570698-1",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following is the correct sequence of the tributaries of the Ganga River from West to East?",
+      "options": [
+        "Yamuna, Ghaghara, Gandak, Kosi",
+        "Ghaghara, Yamuna, Kosi, Gandak",
+        "Yamuna, Gandak, Ghaghara, Kosi",
+        "Ghaghara, Gandak, Yamuna, Kosi"
+      ],
+      "answer": 0,
+      "explanation": "From West to East, the correct geographical sequence of the major tributaries of the Ganga River is Yamuna (joining at Prayagraj), Ghaghara, Gandak, and Kosi.",
+      "translations": {
+        "or": {
+          "question": "ପଶ୍ଚିମରୁ ପୂର୍ବ ଦିଗକୁ ଗଙ୍ଗା ନଦୀର ଉପନଦୀଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି?",
+          "options": [
+            "ଯମୁନା, ଘାଘରା, ଗଣ୍ଡକ, କୋଶୀ",
+            "ଘାଘରା, ଯମୁନା, କୋଶୀ, ଗଣ୍ଡକ",
+            "ଯମୁନା, ଗଣ୍ଡକ, ଘାଘରା, କୋଶୀ",
+            "ଘାଘରା, ଗଣ୍ଡକ, ଯମୁନା, କୋଶୀ"
+          ],
+          "explanation": "ପଶ୍ଚିମରୁ ପୂର୍ବ ଆଡ଼କୁ ଗଙ୍ଗା ନଦୀର ପ୍ରମୁଖ ଉପନଦୀଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମ ହେଉଛି ଯମୁନା, ଘାଘରା, ଗଣ୍ଡକ ଏବଂ କୋଶୀ।"
         }
       }
     }

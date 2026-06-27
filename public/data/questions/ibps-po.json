@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -806,6 +806,136 @@
       ],
       "answer": 1,
       "explanation": "The Imperial Bank of India was constituted under the Imperial Bank of India Act, 1920, and began operations on January 27, 1921, by amalgamating the three Presidency Banks: the Bank of Bengal, the Bank of Bombay, and the Bank of Madras.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782553022351-0",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A man borrows Rs. 33,100 at 10% per annum compound interest, compounded annually. He agrees to pay back the loan in three equal annual installments. Find the value of each installment.",
+      "options": [
+        "Rs. 11,000",
+        "Rs. 12,100",
+        "Rs. 13,310",
+        "Rs. 14,200"
+      ],
+      "answer": 2,
+      "explanation": "Let the annual installment be x. The present value of all three installments must equal the borrowed amount. Therefore, P = x/(1 + r/100) + x/(1 + r/100)^2 + x/(1 + r/100)^3. Given P = 33100 and r = 10%, we get: 33100 = x/1.1 + x/1.21 + x/1.331 => 33100 = x * (1.21 + 1.1 + 1)/1.331 => 33100 = x * (3.31)/1.331 => 33100 = x * 3310/1331. Solving for x, we get x = (33100 * 1331) / 3310 = Rs. 13,310."
+    },
+    {
+      "id": "ibps-po-ai-1782553022351-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B started a business by investing Rs. 40,000 and Rs. 50,000 respectively. After 4 months, C joined them with an investment of Rs. 60,000. Since A was the managing partner, he was paid a salary of Rs. 1,000 per month from the profit. If the total profit at the end of the year was Rs. 38,000, find B's share in the profit.",
+      "options": [
+        "Rs. 8,000",
+        "Rs. 10,000",
+        "Rs. 12,000",
+        "Rs. 15,000"
+      ],
+      "answer": 1,
+      "explanation": "First, calculate the ratio of profit-sharing based on investment and time: A's share = 40,000 * 12 = 4,80,000; B's share = 50,000 * 12 = 6,00,000; C's share = 60,000 * 8 = 4,80,000. The ratio of their shares is 4,80,000 : 6,00,000 : 4,80,000 = 4 : 5 : 4. A's annual salary is Rs. 1,000 * 12 = Rs. 12,000. The remaining profit to be distributed in the ratio is 38,000 - 12,000 = Rs. 26,000. B's share of this remaining profit is (5 / 13) * 26,000 = Rs. 10,000."
+    },
+    {
+      "id": "ibps-po-ai-1782553048367-0",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons - P, Q, R, S, T, U, V, and W - are sitting around a circular table facing the center. P sits third to the left of Q. Two people sit between P and R. S sits second to the right of R. T is an immediate neighbor of S. U sits third to the right of V. How many people sit between U and P when counted from the right of U?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 3,
+      "explanation": "Let's map the positions of the 8 persons facing the center (positions 1 to 8 in counter-clockwise order):\n1. Let Q be at position 1.\n2. P sits third to the left of Q (clockwise), so P is at position 6.\n3. Two people sit between P and R. Counting clockwise or counter-clockwise, R must be at position 3 (since position 1 is occupied by Q).\n4. S sits second to the right of R (counter-clockwise), so S is at position 5.\n5. T is an immediate neighbor of S. Since position 6 is occupied by P, T must be at position 4.\n6. U sits third to the right of V. The remaining vacant positions are 2, 7, and 8. If V is at 7, then U (third to the right of V) is at position 2. This is valid. The remaining position 8 is occupied by W.\n\nNow, we need to find the number of people between U (position 2) and P (position 6) when counting from the right of U (counter-clockwise): positions 3 (R), 4 (T), and 5 (S) lie between them. Thus, there are exactly 3 people."
+    },
+    {
+      "id": "ibps-po-ai-1782553048367-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point A is 6m West of Point B. Point C is 5m North of Point B. Point D is 11m East of Point C. Point E is 10m South of Point D. Point F is 5m West of Point E. What is the shortest distance between Point A and Point F, and in which direction is Point F with respect to Point A?",
+      "options": [
+        "13m, South-East",
+        "12m, South",
+        "13m, North-East",
+        "15m, South-East"
+      ],
+      "answer": 0,
+      "explanation": "Let's resolve the coordinates of each point starting with A at the origin (0, 0):\n- B is 6m East of A: B = (6, 0)\n- C is 5m North of B: C = (6, 5)\n- D is 11m East of C: D = (17, 5)\n- E is 10m South of D: E = (17, -5)\n- F is 5m West of E: F = (12, -5)\n\nTo find the shortest distance between A (0,0) and F (12, -5):\nDistance = \\sqrt{(12 - 0)^2 + (-5 - 0)^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13m.\nSince F is at (12, -5), it is to the East and South of A, which means F is in the South-East direction with respect to A."
+    },
+    {
+      "id": "ibps-po-ai-1782553069086-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, a part of the sentence is underlined. Choose the correct alternative that can replace the underlined part to make the sentence grammatically correct.\n\nSentence: No sooner had the delegation arrived at the capital *when the protests erupted* across the central square.",
+      "options": [
+        "than the protests erupted",
+        "than the protests had erupted",
+        "then the protests erupted",
+        "when the protests had erupted"
+      ],
+      "answer": 0,
+      "explanation": "The correlative conjunction 'No sooner' is always paired with 'than' (not 'when' or 'then'). The clause introduced by 'than' should be in the simple past tense ('the protests erupted') to indicate a sequence of events following the past perfect action ('had the delegation arrived')."
+    },
+    {
+      "id": "ibps-po-ai-1782553069086-1",
+      "section": "English",
+      "topic": "Spotting the Error",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, one of the parts contains a grammatical error. Identify the erroneous segment.\n\n(A) The monetary policy committee's decision / (B) to keep repo rates unchanged / (C) was prompted by the need to support growth / (D) despite of persistent inflationary pressures.",
+      "options": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+      ],
+      "answer": 3,
+      "explanation": "The preposition 'despite' must not be followed by 'of'. It is either 'despite persistent inflationary pressures' or 'in spite of persistent inflationary pressures'. Therefore, the error lies in part (D)."
+    },
+    {
+      "id": "ibps-po-ai-1782553078450-0",
+      "section": "General Awareness",
+      "topic": "Banking Infrastructure",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, what is the minimum net worth requirement for a non-bank entity to set up, own, and operate White Label ATMs (WLAs) in India?",
+      "options": [
+        "₹50 crore",
+        "₹100 crore",
+        "₹150 crore",
+        "₹200 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines on White Label ATMs (WLAs), non-bank entities that intend to set up and operate WLAs in India must have a minimum net worth of ₹100 crore, which must be maintained at all times.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782553078450-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme issued by the RBI, what is the maximum annual subscription limit per fiscal year (April–March) for Hindu Undivided Families (HUFs) and Trusts respectively?",
+      "options": [
+        "2 kg and 10 kg",
+        "4 kg and 20 kg",
+        "4 kg and 10 kg",
+        "5 kg and 20 kg"
+      ],
+      "answer": 1,
+      "explanation": "Under the Sovereign Gold Bond (SGB) Scheme, the maximum limit of subscription per fiscal year (April-March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for trusts and similar entities.",
       "status": "pending"
     }
   ]

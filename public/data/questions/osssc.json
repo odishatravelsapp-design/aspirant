@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -372,6 +372,234 @@
             "1899–1900"
           ],
           "explanation": "୧୮୬୬-୧୮୬୭ ମସିହାରେ ଓଡ଼ିଶାରେ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ପଡ଼ିଥିଲା। ପୁରୀର ଗଜପତି ମହାରାଜା ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ରାଜତ୍ୱର ୯ମ ଅଙ୍କ (ବର୍ଷ) ରେ ଏହି ଦୁର୍ଭିକ୍ଷ ହୋଇଥିବାରୁ ଏହାକୁ 'ନଅଙ୍କ' ଦୁର୍ଭିକ୍ଷ କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553096423-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks his goods 40% above the cost price. He allows a discount of 25% on the marked price and still earns a profit of Rs. 150 by selling the item. Find the cost price of the item.",
+      "options": [
+        "Rs. 2500",
+        "Rs. 3000",
+        "Rs. 3500",
+        "Rs. 4000"
+      ],
+      "answer": 1,
+      "explanation": "Let Cost Price (CP) = 100x. Marked Price (MP) = 140x. Discount = 25% of 140x = 35x. Selling Price (SP) = 140x - 35x = 105x. Profit = SP - CP = 105x - 100x = 5x. Given 5x = 150, which gives x = 30. Therefore, Cost Price = 100 * 30 = Rs. 3000.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଦୋକାନୀ ତାଙ୍କ ସାମଗ୍ରୀର ମୂଲ୍ୟ କ୍ରୟ ମୂଲ୍ୟଠାରୁ ୪୦% ଅଧିକ ଚିହ୍ନିତ କରନ୍ତି। ସେ ଚିହ୍ନିତ ମୂଲ୍ୟ ଉପରେ ୨୫% ରିହାତି ଦିଅନ୍ତି ଏବଂ ତଥାପି ସାମଗ୍ରୀଟିକୁ ବିକ୍ରି କରି ୧୫୦ ଟଙ୍କା ଲାଭ ପାଆନ୍ତି। ସାମଗ୍ରୀର କ୍ରୟ ମୂଲ୍ୟ କେତେ?",
+          "options": [
+            "ଟ. ୨୫୦୦",
+            "ଟ. ୩୦୦୦",
+            "ଟ. ୩୫୦୦",
+            "ଟ. ୪୦୦୦"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ କ୍ରୟ ମୂଲ୍ୟ (CP) = ୧୦୦x। ଚିହ୍ନିତ ମୂଲ୍ୟ (MP) = ୧୪୦x। ରିହାତି = ୧୪୦x ର ୨୫% = ୩୫x। ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = ୧୪୦x - ୩୫x = ୧୦୫x। ଲାଭ = ୧୦୫x - ୧୦୦x = ୫x। ପ୍ରଶ୍ନ ଅନୁସାରେ ୫x = ୧୫୦, ତେଣୁ x = ୩୦। କ୍ରୟ ମୂଲ୍ୟ = ୧୦୦ * ୩୦ = ୩୦୦୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553096423-1",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains, one from Bhubaneswar to Sambalpur and the other from Sambalpur to Bhubaneswar, start simultaneously. After meeting, they complete their journeys in 9 hours and 16 hours respectively. If the speed of the first train is 64 km/h, what is the speed of the second train?",
+      "options": [
+        "36 km/h",
+        "42 km/h",
+        "48 km/h",
+        "54 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Using the relation: Speed1 / Speed2 = sqrt(Time2 / Time1) after meeting. Here, Speed1 = 64 km/h, Time1 = 9 hours, and Time2 = 16 hours. So, 64 / Speed2 = sqrt(16 / 9) = 4 / 3. Solving this, Speed2 = (64 * 3) / 4 = 48 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ଟ୍ରେନ୍, ଗୋଟିଏ ଭୁବନେଶ୍ୱରରୁ ସମ୍ବଲପୁର ଏବଂ ଅନ୍ୟଟି ସମ୍ବଲପୁରରୁ ଭୁବନେଶ୍ୱର ଅଭିମୁଖେ ଏକ ସମୟରେ ଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତି। ପରସ୍ପରକୁ ଭେଟିବା ପରେ, ସେମାନେ ନିଜର ଯାତ୍ରା ଯଥାକ୍ରମେ ୯ ଘଣ୍ଟା ଏବଂ ୧୬ ଘଣ୍ଟାରେ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତି। ଯଦି ପ୍ରଥମ ଟ୍ରେନର ବେଗ ୬୪ କିମି/ଘଣ୍ଟା ହୁଏ, ତେବେ ଦ୍ୱିତୀୟ ଟ୍ରେନର ବେଗ କେତେ?",
+          "options": [
+            "୩୬ କିମି/ଘଣ୍ଟା",
+            "୪୨ କିମି/ଘଣ୍ଟା",
+            "୪୮ କିମି/ଘଣ୍ଟା",
+            "୫୪ କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ସୂତ୍ର ଅନୁଯାୟୀ: (ପ୍ରଥମ ଟ୍ରେନର ବେଗ / ଦ୍ୱିତୀୟ ଟ୍ରେନର ବେଗ) = √(ଦ୍ୱିତୀୟ ଟ୍ରେନର ସମୟ / ପ୍ରଥମ ଟ୍ରେନର ସମୟ)। ଏଠାରେ, ପ୍ରଥମ ବେଗ = ୬୪, ପ୍ରଥମ ସମୟ = ୯, ଏବଂ ଦ୍ୱିତୀୟ ସମୟ = ୧୬। ତେଣୁ, ୬୪ / ବେଗ୨ = √(୧୬ / ୯) = ୪ / ୩। ଏହାକୁ ସମାଧାନ କଲେ, ଦ୍ୱିତୀୟ ଟ୍ରେନର ବେଗ = (୬୪ * ୩) / ୪ = ୪୮ କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553112915-0",
+      "section": "Reasoning",
+      "topic": "Directions and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A man walks 10 km towards North. From there he walks 6 km towards South. Then, he walks 3 km towards East. How far and in which direction is he now with reference to his starting point?",
+      "options": [
+        "5 km South-West",
+        "5 km North-East",
+        "7 km South-East",
+        "7 km North-West"
+      ],
+      "answer": 1,
+      "explanation": "Starting from the origin (0,0), walking 10 km North reaches (0, 10). Walking 6 km South from there brings him to (0, 4). Finally, walking 3 km East brings him to (3, 4). The distance from the starting point is √(3² + 4²) = √25 = 5 km. The direction from (0,0) to (3,4) is North-East.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି ଉତ୍ତର ଦିଗକୁ ୧୦ କିଲୋମିଟର ଚାଲନ୍ତି। ସେଠାରୁ ସେ ଦକ୍ଷିଣ ଦିଗକୁ ୬ କିଲୋମିଟର ଚାଲନ୍ତି। ଏହାପରେ, ସେ ପୂର୍ବ ଦିଗକୁ ୩ କିଲୋମିଟର ଚାଲନ୍ତି। ବର୍ତ୍ତମାନ ସେ ନିଜର ଆରମ୍ଭ ବିନ୍ଦୁରୁ କେତେ ଦୂରରେ ଏବଂ କେଉଁ ଦିଗରେ ଅଛନ୍ତି?",
+          "options": [
+            "୫ କିଲୋମିଟର ଦକ୍ଷିଣ-ପଶ୍ଚିମ",
+            "୫ କିଲୋମିଟର ଉତ୍ତର-ପୂର୍ବ",
+            "୭ କିଲୋମିଟର ଦକ୍ଷିଣ-ପୂର୍ବ",
+            "୭ କିଲୋମିଟର ଉତ୍ତର-ପଶ୍ଚିମ"
+          ],
+          "explanation": "ଆରମ୍ଭ ବିନ୍ଦୁ (୦,୦) ରୁ ଉତ୍ତର ଦିଗକୁ ୧୦ କିଲୋମିଟର ଚାଲିଲେ (୦, ୧୦) ରେ ପହଞ୍ଚିବେ। ସେଠାରୁ ଦକ୍ଷିଣକୁ ୬ କିଲୋମିଟର ଚାଲିଲେ (୦, ୪) ବିନ୍ଦୁରେ ପହଞ୍ଚିବେ। ଶେଷରେ ପୂର୍ବକୁ ୩ କିଲୋମିଟର ଚାଲିଲେ (୩, ୪) ରେ ପହଞ୍ଚିବେ। ଆରମ୍ଭ ବିନ୍ଦୁରୁ ଦୂରତା ହେଉଛି √(୩² + ୪²) = √୨୫ = ୫ କିଲୋମିଟର। (୦,୦) ରୁ (୩,୪) ର ଦିଗ ହେଉଛି ଉତ୍ତର-ପୂର୍ବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553112915-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'A $ B' means 'A is the brother of B'; 'A @ B' means 'A is the wife of B'; 'A # B' means 'A is the daughter of B'; and 'A * B' means 'A is the father of B'. Which of the following expressions indicates that 'U is the father-in-law of P'?",
+      "options": [
+        "P @ Q * U",
+        "U * Q @ P",
+        "U * Q # P",
+        "P * Q @ U"
+      ],
+      "answer": 1,
+      "explanation": "In option B: 'U * Q @ P'. Here, 'Q @ P' means Q is the wife of P (so P is the husband). 'U * Q' means U is the father of Q. Since U is the father of P's wife, U is the father-in-law of P.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି 'A $ B' ର ଅର୍ଥ 'A ହେଉଛି B ର ଭାଇ'; 'A @ B' ର ଅର୍ଥ 'A ହେଉଛି B ର ପତ୍ନୀ'; 'A # B' ର ଅର୍ଥ 'A ହେଉଛି B ର ଝିଅ'; ଏବଂ 'A * B' ର ଅର୍ଥ 'A ହେଉଛି B ର ପିତା'। ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସମୀକରଣଟି ଦର୍ଶାଏ ଯେ 'U ହେଉଛି P ର ଶ୍ୱଶୁର'?",
+          "options": [
+            "P @ Q * U",
+            "U * Q @ P",
+            "U * Q # P",
+            "P * Q @ U"
+          ],
+          "explanation": "ବିକଳ୍ପ B ରେ: 'U * Q @ P'। ଏଠାରେ, 'Q @ P' ର ଅର୍ଥ Q ହେଉଛି P ର ପତ୍ନୀ (ତେଣୁ P ହେଉଛନ୍ତି ସ୍ୱାମୀ)। 'U * Q' ର ଅର୍ଥ U ହେଉଛି Q ର ପିତା। ଯେହେତୁ U ହେଉଛନ୍ତି P ଙ୍କ ପତ୍ନୀଙ୍କ ପିତା, ତେଣୁ U ହେଉଛନ୍ତି P ଙ୍କ ଶ୍ୱଶୁର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553124874-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was elected as the first President of the Utkal Pradesh Congress Committee (UPCC) in 1921?",
+      "options": [
+        "Gopabandhu Das",
+        "Harekrushna Mahatab",
+        "Madhusudan Das",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 0,
+      "explanation": "Pandit Gopabandhu Das was elected as the first President of the Utkal Pradesh Congress Committee (UPCC) when it was formed in March 1921, with Bhagirathi Mahapatra as its secretary.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୨୧ ମସିହାରେ ଗଠିତ ଉତ୍କଳ ପ୍ରଦେଶ କଂଗ୍ରେସ କମିଟି (UPCC) ର ପ୍ରଥମ ସଭାପତି ଭାବେ କିଏ ନିର୍ବାଚିତ ହୋଇଥିଲେ?",
+          "options": [
+            "ଗୋପବନ୍ଧୁ ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ମଧୁସୂଦନ ଦାସ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "୧୯୨୧ ମସିହା ମାର୍ଚ୍ଚ ମାସରେ ଗଠିତ ଉତ୍କଳ ପ୍ରଦେଶ କଂଗ୍ରେସ କମିଟିର ପ୍ରଥମ ସଭାପତି ଭାବେ ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସ ନିର୍ବାଚିତ ହୋଇଥିଲେ ଏବଂ ଭାଗୀରଥି ମହାପାତ୍ର ଏହାର ସମ୍ପାଦକ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553124874-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the strength of the Odisha Legislative Assembly increased from 140 to the current 147 seats?",
+      "options": [
+        "1967",
+        "1974",
+        "1977",
+        "1980"
+      ],
+      "answer": 1,
+      "explanation": "The number of seats in the Odisha Legislative Assembly was increased from 140 to the current strength of 147 during the 6th Legislative Assembly elections held in 1974.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ବର୍ଷ ଓଡ଼ିଶା ବିଧାନସଭାର ସଦସ୍ୟ ସଂଖ୍ୟା (ଆସନ ସଂଖ୍ୟା) ୧୪୦ ରୁ ବୃଦ୍ଧି ପାଇ ବର୍ତ୍ତମାନର ୧୪୭ କୁ ପରିବର୍ତ୍ତିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧୯୬୭",
+            "୧୯୭୪",
+            "୧୯୭୭",
+            "୧୯୮୦"
+          ],
+          "explanation": "୧୯୭୪ ମସିହାରେ ଅନୁଷ୍ଠିତ ଷଷ୍ଠ ବିଧାନସଭା ନିର୍ବାଚନ ସମୟରେ ଓଡ଼ିଶା ବିଧାନସଭାର ଆସନ ସଂଖ୍ୟା ୧୪୦ ରୁ ବୃଦ୍ଧି କରାଯାଇ ବର୍ତ୍ତମାନର ୧୪୭ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553140153-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first woman member of the Odisha Legislative Assembly?",
+      "options": [
+        "Sarala Devi",
+        "Rama Devi Choudhury",
+        "Malati Choudhury",
+        "A. Laxmibai"
+      ],
+      "answer": 0,
+      "explanation": "Sarala Devi was the first woman elected to the Odisha Legislative Assembly in 1937 from the Cuttack Town constituency. She was a prominent freedom fighter, social reformer, and writer.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶା ବିଧାନସଭାର ପ୍ରଥମ ମହିଳା ସଦସ୍ୟା କିଏ ଥିଲେ?",
+          "options": [
+            "ସରଳା ଦେବୀ",
+            "ରମାଦେବୀ ଚୌଧୁରୀ",
+            "ମାଳତୀ ଚୌଧୁରୀ",
+            "ଏ. ଲକ୍ଷ୍ମୀବାଈ"
+          ],
+          "explanation": "ସରଳା ଦେବୀ ୧୯୩୭ ମସିହାରେ କଟକ ସଦର ନିର୍ବାଚନ ମଣ୍ଡଳୀରୁ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ସଦସ୍ୟା ଥିଲେ। ସେ ଜଣେ ପ୍ରତିଷ୍ଠିତ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ, ସମାଜ ସଂସ୍କାରକ ଏବଂ ଲେଖିକା ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782553140153-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the India State of Forest Report (ISFR) 2021, which district of Odisha has the highest percentage of forest cover relative to its total geographical area?",
+      "options": [
+        "Kandhamal",
+        "Deogarh",
+        "Gajapati",
+        "Nayagarh"
+      ],
+      "answer": 0,
+      "explanation": "According to the ISFR 2021, Kandhamal district has the highest forest cover by percentage of its total geographical area in Odisha, standing at approximately 67.13%.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ବନ ସ୍ଥିତି ବିବରଣୀ (ISFR) ୨୦୨୧ ଅନୁଯାୟୀ, ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ଏହାର ମୋଟ ଭୌଗୋଳିକ କ୍ଷେତ୍ରଫଳ ତୁଳନାରେ ସର୍ବାଧିକ ପ୍ରତିଶତ ଜଙ୍ଗଲ ଅଞ୍ଚଳ ରହିଛି?",
+          "options": [
+            "କନ୍ଧମାଳ",
+            "ଦେବଗଡ଼",
+            "ଗଜପତି",
+            "ନୟାଗଡ଼"
+          ],
+          "explanation": "ISFR ୨୦୨୧ ଅନୁଯାୟୀ, କନ୍ଧମାଳ ଜିଲ୍ଲାରେ ଓଡ଼ିଶାର ସର୍ବାଧିକ ପ୍ରତିଶତ ଜଙ୍ଗଲ ଆଚ୍ଛାଦନ ରହିଛି, ଯାହା ଏହାର ମୋଟ ଭୌଗୋଳିକ କ୍ଷେତ୍ରଫଳର ପ୍ରାୟ ୬୭.୧୩% ଅଟେ।"
         }
       }
     }

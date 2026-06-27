@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1249,6 +1249,234 @@
             "ରାମଚନ୍ଦ୍ର ବେହେରା"
           ],
           "explanation": "'ନୀଳଶୈଳ' ହେଉଛି ସୁରେନ୍ଦ୍ର ମହାନ୍ତିଙ୍କ ଦ୍ୱାରା ରଚିତ ଏକ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ଉପନ୍ୟାସ, ଯାହା ପାଇଁ ସେ ୧୯୬୯ ମସିହାରେ କେନ୍ଦ୍ର ସାହିତ୍ୟ ଅକାଦେମୀ ପୁରସ୍କାର ପାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553153020-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which of his highly influential essays did T.S. Eliot introduce the critical concept of the 'Objective Correlative'?",
+      "options": [
+        "Tradition and the Individual Talent",
+        "Hamlet and His Problems",
+        "The Metaphysical Poets",
+        "The Function of Criticism"
+      ],
+      "answer": 1,
+      "explanation": "T.S. Eliot introduced the concept of the 'Objective Correlative' in his 1919 essay 'Hamlet and His Problems', where he argued that Hamlet is an artistic failure because Shakespeare was unable to find an objective correlative for the character's emotions.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଟି.ଏସ. ଏଲିଅଟ୍ (T.S. Eliot) ତାଙ୍କର କେଉଁ ଅତ୍ୟନ୍ତ ପ୍ରଭାବଶାଳୀ ପ୍ରବନ୍ଧରେ 'Objective Correlative' (ବସ୍ତୁନିଷ୍ଠ ସହସମ୍ବନ୍ଧ) ର ସମାଲୋଚନାତ୍ମକ ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଥିଲେ?",
+          "options": [
+            "ଟ୍ରାଡିସନ୍ ଆଣ୍ଡ ଦି ଇଣ୍ଡିଭିଜୁଆଲ୍ ଟ୍ୟାଲେଣ୍ଟ୍ (Tradition and the Individual Talent)",
+            "ହାମଲେଟ୍ ଆଣ୍ଡ ହିଜ୍ ପ୍ରୋବ୍ଲେମ୍ସ (Hamlet and His Problems)",
+            "ଦି ମେଟାଫିଜିକାଲ୍ ପୋଏଟ୍ସ (The Metaphysical Poets)",
+            "ଦି ଫଙ୍କସନ୍ ଅଫ୍ କ୍ରିଟିସିଜିମ୍ (The Function of Criticism)"
+          ],
+          "explanation": "ଟି.ଏସ. ଏଲିଅଟ୍ ତାଙ୍କର ୧୯୧୯ର ପ୍ରବନ୍ଧ 'Hamlet and His Problems' ରେ 'Objective Correlative' ର ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଥିଲେ, ଯେଉଁଠାରେ ସେ ଯୁକ୍ତି ବାଢିଥିଲେ ଯେ ହାମଲେଟ୍ ଏକ କଳାତ୍ମକ ବିଫଳତା କାରଣ ଶେକ୍ସପିୟର ଚରିତ୍ରର ଭାବନା ପାଇଁ ଏକ ବସ୍ତୁନିଷ୍ଠ ସହସମ୍ବନ୍ଧ ଖୋଜିବାରେ ଅସମର୍ଥ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553153020-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the famous foreword to his novel 'Kanthapura' (1938), Raja Rao discusses the challenges of writing Indian sensibility in an alien language. How does he complete the sentence: 'We cannot write like the English. We can write only as...'?",
+      "options": [
+        "...Indians.",
+        "...ourselves.",
+        "...translators of our own culture.",
+        "...colonized subjects."
+      ],
+      "answer": 0,
+      "explanation": "In the foreword to 'Kanthapura', Raja Rao famously wrote: 'One has to convey in a language that is not one's own the spirit that is one's own... We cannot write like the English. We can write only as Indians.'",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରାଜା ରାଓ ତାଙ୍କ ଉପନ୍ୟାସ 'କାନ୍ଥପୁରା' (1938) ର ପ୍ରସିଦ୍ଧ ପ୍ରସ୍ତାବନାରେ ଏକ ବିଦେଶୀ ଭାଷାରେ ଭାରତୀୟ ସଂବେଦନଶୀଳତା ଲେଖିବାର ପ୍ରତିବନ୍ଧକ ବିଷୟରେ ଆଲୋଚନା କରିଛନ୍ତି। ସେ 'We cannot write like the English. We can write only as...' ବାକ୍ୟଟିକୁ କିପରି ସମ୍ପୂର୍ଣ୍ଣ କରିଛନ୍ତି?",
+          "options": [
+            "...ଭାରତୀୟ ଭାବରେ (Indians).",
+            "...ଆମ ନିଜ ଭାବରେ (ourselves).",
+            "...ଆମ ନିଜ ସଂସ୍କୃତିର ଅନୁବାଦକ ଭାବରେ (translators of our own culture).",
+            "...ଉପନିବେଶିତ ପ୍ରଜା ଭାବରେ (colonized subjects)."
+          ],
+          "explanation": "କାନ୍ଥପୁରା (Kanthapura) ର ପ୍ରସ୍ତାବନାରେ ରାଜା ରାଓ ପ୍ରସିଦ୍ଧ ଭାବରେ ଲେଖିଥିଲେ: 'One has to convey in a language that is not one's own the spirit that is one's own... We cannot write like the English. We can write only as Indians.'"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553170009-0",
+      "section": "Teaching Aptitude",
+      "topic": "Micro-teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the NCERT model of micro-teaching, what is the total standard duration of a complete micro-teaching cycle?",
+      "options": [
+        "30 minutes",
+        "36 minutes",
+        "40 minutes",
+        "45 minutes"
+      ],
+      "answer": 1,
+      "explanation": "The standard NCERT micro-teaching cycle consists of six steps: Teach (6 min), Feedback (6 min), Re-plan (12 min), Re-teach (6 min), and Re-feedback (6 min), summing up to a total of 36 minutes.",
+      "translations": {
+        "or": {
+          "question": "NCERT ମାଇକ୍ରୋ-ଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷାଦାନ) ମଡେଲ ଅନୁଯାୟୀ, ଏକ ସମ୍ପୂର୍ଣ୍ଣ ମାଇକ୍ରୋ-ଟିଚିଂ ଚକ୍ରର ସମୁଦାୟ ମାନକ ଅବଧି କେତେ?",
+          "options": [
+            "୩୦ ମିନିଟ୍",
+            "୩୬ ମିନିଟ୍",
+            "୪୦ ମିନିଟ୍",
+            "୪୫ ମିନିଟ୍"
+          ],
+          "explanation": "ମାନକ NCERT ମାଇକ୍ରୋ-ଟିଚିଂ ଚକ୍ରରେ ଛଅଟି ପର୍ଯ୍ୟାୟ ରହିଛି: ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ମତାମତ/ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଏବଂ ପୁନଃ-ମତାମତ (୬ ମିନିଟ୍), ଯାହା ସର୍ବମୋଟ ୩୬ ମିନିଟ୍ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553170009-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Ausubel's Theory of Meaningful Verbal Learning, which type of advance organizer is used when the new learning material is completely unfamiliar to the learner?",
+      "options": [
+        "Comparative Organizer",
+        "Expository Organizer",
+        "Narrative Organizer",
+        "Concept Map"
+      ],
+      "answer": 1,
+      "explanation": "According to David Ausubel, Expository Organizers are used when the new material is unfamiliar to the learner, providing an anchor or high-level conceptual scaffolding. Comparative Organizers, on the other hand, are used when the material is relatively familiar to help integrate and discriminate between old and new ideas.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲ୍‌ଙ୍କ ଅର୍ଥପୂର୍ଣ୍ଣ ମୌଖିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ (Theory of Meaningful Verbal Learning) ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ଶିକ୍ଷଣ ବିଷୟବସ୍ତୁ ଶିକ୍ଷାର୍ଥୀ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଅପରିଚିତ ଥାଏ, ସେତେବେଳେ କେଉଁ ପ୍ରକାରର ଆଡଭାନ୍ସ ଅର୍ଗାନାଇଜର (Advance Organizer) ବ୍ୟବହାର କରାଯାଏ?",
+          "options": [
+            "ତୁଳନାତ୍ମକ ଅର୍ଗାନାଇଜର (Comparative Organizer)",
+            "ବ୍ୟାଖ୍ୟାମୂଳକ ଅର୍ଗାନାଇଜର (Expository Organizer)",
+            "ବର୍ଣ୍ଣନାତ୍ମକ ଅର୍ଗାନାଇଜର (Narrative Organizer)",
+            "ଧାରଣା ମାନଚିତ୍ର (Concept Map)"
+          ],
+          "explanation": "ଆସୁବେଲ୍‌ଙ୍କ ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ବିଷୟବସ୍ତୁ ଶିକ୍ଷାର୍ଥୀ ପାଇଁ ଅପରିଚିତ ଥାଏ, ସେତେବେଳେ ଏକ ବୌଦ୍ଧିକ ଆଧାର ପ୍ରଦାନ କରିବା ପାଇଁ ବ୍ୟାଖ୍ୟାମୂଳକ ଅର୍ଗାନାଇଜର (Expository Organizers) ବ୍ୟବହାର କରାଯାଏ। ତୁଳନାତ୍ମକ ଅର୍ଗାନାଇଜରଗୁଡ଼ିକ ପରିଚିତ ବିଷୟବସ୍ତୁରେ ପୁରୁଣା ଓ ନୂଆ ଧାରଣା ମଧ୍ୟରେ ସାଦୃଶ୍ୟ ଏବଂ ପାର୍ଥକ୍ୟ ଦର୍ଶାଇବା ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553180112-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was elected as the first President of the Utkal Pradesh Congress Committee (UPCC) when it was formed in 1921?",
+      "options": [
+        "Gopabandhu Das",
+        "Harekrushna Mahatab",
+        "Madhusudan Das",
+        "Bhagirathi Mahapatra"
+      ],
+      "answer": 0,
+      "explanation": "In 1921, the Utkal Pradesh Congress Committee (UPCC) was formed with Pandit Gopabandhu Das as its first President and Bhagirathi Mahapatra as its Secretary.",
+      "translations": {
+        "or": {
+          "question": "୧୯୨୧ ମସିହାରେ ଗଠିତ ଉତ୍କଳ ପ୍ରଦେଶ କଂଗ୍ରେସ କମିଟି (UPCC) ର ପ୍ରଥମ ସଭାପତି ଭାବରେ କିଏ ନିର୍ବାଚିତ ହୋଇଥିଲେ?",
+          "options": [
+            "ଗୋପବନ୍ଧୁ ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ମଧୁସୂଦନ ଦାସ",
+            "ଭାଗୀରଥୀ ମହାପାତ୍ର"
+          ],
+          "explanation": "୧୯୨୧ ମସିହାରେ ଗଠିତ ଉତ୍କଳ ପ୍ରଦେଶ କଂଗ୍ରେସ କମିଟିର ପ୍ରଥମ ସଭାପତି ଭାବରେ ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସ ଏବଂ ସମ୍ପାଦକ ଭାବରେ ଭାଗୀରଥୀ ମହାପାତ୍ର ନିର୍ବାଚିତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553180112-1",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which Article of the Constitution of India is the Governor of a State empowered to promulgate ordinances during the recess of the State Legislature?",
+      "options": [
+        "Article 200",
+        "Article 213",
+        "Article 123",
+        "Article 163"
+      ],
+      "answer": 1,
+      "explanation": "Article 213 of the Constitution of India empowers the Governor of a State to promulgate ordinances when the State Legislative Assembly (or Councils, where they exist) is not in session. Article 123 grants similar powers to the President.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଅନୁଚ୍ଛେଦ ଅନୁଯାୟୀ ରାଜ୍ୟ ବିଧାନସଭାର ମୁଲତବୀ ସମୟରେ ଅଧ୍ୟାଦେଶ ଜାରି କରିବା ପାଇଁ ରାଜ୍ୟପାଳଙ୍କୁ କ୍ଷମତା ପ୍ରଦାନ କରାଯାଇଛି?",
+          "options": [
+            "ଅନୁଚ୍ଛେଦ ୨୦୦",
+            "ଅନୁଚ୍ଛେଦ ୨୧୩",
+            "ଅନୁଚ୍ଛେଦ ୧୨୩",
+            "ଅନୁଚ୍ଛେଦ ୧୬୩"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଅନୁଚ୍ଛେଦ ୨୧୩ ରାଜ୍ୟପାଳଙ୍କୁ ବିଧାନସଭା ଅଧିବେଶନ ଚାଲୁ ନଥିବା ସମୟରେ ଅଧ୍ୟାଦେଶ (ordinances) ଜାରି କରିବାର କ୍ଷମତା ପ୍ରଦାନ କରିଥାଏ। ଅନୁଚ୍ଛେଦ ୧୨୩ ରାଷ୍ଟ୍ରପତିଙ୍କୁ ସମାନ କ୍ଷମତା ପ୍ରଦାନ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553193395-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which historical event in Odisha is popularly referred to as the 'Jallianwala Bagh of Odisha' due to the tragic police firing on peaceful protestors?",
+      "options": [
+        "Eram Massacre",
+        "Papadahandi Massacre",
+        "Amco-Simco Massacre",
+        "Lunia Massacre"
+      ],
+      "answer": 0,
+      "explanation": "On 28 September 1942, during the Quit India Movement, British police opened fire on a peaceful gathering at Eram in Bhadrak district (then part of Balasore), killing 29 people. This site is known as 'Rakta Tirtha' and the event is referred to as the Jallianwala Bagh of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଐତିହାସିକ ଘଟଣାକୁ ଶାନ୍ତିପୂର୍ଣ୍ଣ ଆନ୍ଦୋଳନକାରୀଙ୍କ ଉପରେ ହୋଇଥିବା ଦୁଃଖଦାୟକ ପୋଲିସ ଗୁଳି ଚାଳନା ହେତୁ 'ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍' ବୋଲି କୁହାଯାଏ?",
+          "options": [
+            "ଇରମ ଗଣହତ୍ୟା",
+            "ପାପଡ଼ାହାଣ୍ଡି ଗଣହତ୍ୟା",
+            "ଆମକୋ-ସିମକୋ ଗଣହତ୍ୟା",
+            "ଲୁଣିଆ ଗଣହତ୍ୟା"
+          ],
+          "explanation": "୨୮ ସେପ୍ଟେମ୍ବର ୧୯୪୨ ରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ, ଭଦ୍ରକ ଜିଲ୍ଲାର (ତତ୍କାଳୀନ ବାଲେଶ୍ୱର ଜିଲ୍ଲା) ଇରମଠାରେ ଏକ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସଭା ଉପରେ ବ୍ରିଟିଶ ପୋଲିସ ଗୁଳି ଚଳାଇଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ପ୍ରାଣ ହରାଇଥିଲେ। ଏହି ସ୍ଥାନକୁ 'ରକ୍ତତୀର୍ଥ' କୁହାଯାଏ ଏବଂ ଏହି ଘଟଣାକୁ ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍ ଭାବରେ ସ୍ମରଣ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782553193395-1",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following waterfalls in Odisha is associated with the Machkund Hydroelectric Project and is also known as 'Matsya Tirtha'?",
+      "options": [
+        "Khandadhar Waterfall",
+        "Duduma Waterfall",
+        "Barehipani Waterfall",
+        "Harishankar Waterfall"
+      ],
+      "answer": 1,
+      "explanation": "The Duduma Waterfall, located on the Machkund River in Koraput district of Odisha, is also known as 'Matsya Tirtha'. It supports the Machkund Hydroelectric Project, which is a collaborative project between Odisha and Andhra Pradesh.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ସହିତ ଜଡ଼ିତ ଏବଂ ଏହାକୁ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ବୋଲି ମଧ୍ୟ କୁହାଯାଏ?",
+          "options": [
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ଡୁଡୁମା ଜଳପ୍ରପାତ",
+            "ବରେହିପାଣି ଜଳପ୍ରପାତ",
+            "ହରିଶଙ୍କର ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାର ମାଛକୁଣ୍ଡ ନଦୀରେ ଅବସ୍ଥିତ ଡୁଡୁମା ଜଳପ୍ରପାତକୁ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ମଧ୍ୟ କୁହାଯାଏ। ଏହା ମାଛକୁଣ୍ଡ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପକୁ ସହାୟତା କରିଥାଏ, ଯାହା ଓଡ଼ିଶା ଏବଂ ଆନ୍ଧ୍ରପ୍ରଦେଶର ଏକ ମିଳିତ ପ୍ରକଳ୍ପ ଅଟେ।"
         }
       }
     }

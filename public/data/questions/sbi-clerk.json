@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -840,6 +840,136 @@
       ],
       "answer": 1,
       "explanation": "The Mahila Samman Savings Certificate is a small savings scheme for women and girls with a tenure of two years. It offers a maximum investment limit of ₹2 Lakh (with a minimum of ₹1,000) at a fixed interest rate of 7.5% per annum.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782552949770-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks up an article by 40% and then gives a discount of 20%. If he had marked it up by 50% and given a discount of 25%, the difference in the profit earned would have been Rs. 18. Find the cost price of the article.",
+      "options": [
+        "Rs. 3200",
+        "Rs. 3600",
+        "Rs. 4000",
+        "Rs. 4500"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price (CP) of the article be 100x.\nCase 1:\nMarked Price (MP1) = 140% of 100x = 140x\nSelling Price (SP1) = 80% of 140x = 112x\nProfit1 = 112x - 100x = 12x\n\nCase 2:\nMarked Price (MP2) = 150% of 100x = 150x\nSelling Price (SP2) = 75% of 150x = 112.5x\nProfit2 = 112.5x - 100x = 12.5x\n\nGiven difference in profit = Rs. 18\n12.5x - 12x = 18\n0.5x = 18\nx = 36\n\nTherefore, Cost Price (CP) = 100x = 100 * 36 = Rs. 3600."
+    },
+    {
+      "id": "sbi-clerk-ai-1782552949770-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 7 : 3. If 20 liters of the mixture is taken out and replaced with 12 liters of water, the ratio of milk and water becomes 14 : 9. Find the initial quantity of the mixture in the vessel.",
+      "options": [
+        "80 liters",
+        "120 liters",
+        "100 liters",
+        "90 liters"
+      ],
+      "answer": 2,
+      "explanation": "Let the initial quantity of milk and water be 7x and 3x respectively (Total mixture = 10x).\nWhen 20 liters of mixture is removed:\nMilk removed = 20 * (7/10) = 14 liters\nWater removed = 20 * (3/10) = 6 liters\n\nRemaining Milk = 7x - 14\nRemaining Water = 3x - 6\n\nAfter adding 12 liters of water:\nNew Water quantity = 3x - 6 + 12 = 3x + 6\n\nAccording to the question, the new ratio is 14 : 9:\n(7x - 14) / (3x + 6) = 14 / 9\n9 * (7x - 14) = 14 * (3x + 6)\n63x - 126 = 42x + 84\n21x = 210\nx = 10\n\nInitial quantity of mixture = 10x = 10 * 10 = 100 liters."
+    },
+    {
+      "id": "sbi-clerk-ai-1782552968023-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point Q is 8m to the East of Point P. Point R is 6m to the South of Point Q. Point S is 15m to the West of Point R. Point T is 12m to the North of Point S. Point U is 7m to the East of Point T. What is the shortest distance between Point P and Point U?",
+      "options": [
+        "6 m",
+        "8 m",
+        "10 m",
+        "12 m"
+      ],
+      "answer": 0,
+      "explanation": "Let us represent the points on a Cartesian coordinate plane with Point P at the origin (0, 0).\n- Q is 8m East of P -> Q = (8, 0)\n- R is 6m South of Q -> R = (8, -6)\n- S is 15m West of R -> S = (8 - 15, -6) = (-7, -6)\n- T is 12m North of S -> T = (-7, -6 + 12) = (-7, 6)\n- U is 7m East of T -> U = (-7 + 7, 6) = (0, 6)\n\nThe shortest distance between P (0, 0) and U (0, 6) is the straight-line distance along the y-axis, which is |6 - 0| = 6 meters."
+    },
+    {
+      "id": "sbi-clerk-ai-1782552968023-1",
+      "section": "Reasoning",
+      "topic": "Designation Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – A, B, C, D, E, F, and G – hold different designations in a bank: General Manager (GM), Deputy General Manager (DGM), Assistant General Manager (AGM), Chief Manager (CM), Manager, Officer, and Clerk. The order of seniority is GM > DGM > AGM > CM > Manager > Officer > Clerk (where GM is the most senior and Clerk is the most junior). Only one person is senior to B. As many persons are junior to B as senior to C. More than three persons hold designations between C and D. G is senior to F, and F is senior to E. E is senior to A. Who among the following is the Assistant General Manager (AGM)?",
+      "options": [
+        "G",
+        "F",
+        "E",
+        "A"
+      ],
+      "answer": 0,
+      "explanation": "Let's analyze the clues step-by-step:\n1. 'Only one person is senior to B' means B is the DGM (2nd senior-most).\n2. 'As many persons are junior to B as senior to C'. Since B is 2nd, there are 5 persons junior to B. Thus, there must be 5 persons senior to C, making C the Officer (6th senior-most).\n3. 'More than three persons hold designations between C and D'. Since C is 6th, D must be 1st (GM) to have exactly 4 designations (DGM, AGM, CM, Manager) between them. (If D were 7th, there would only be 1 designation between them).\n4. The remaining vacant designations are AGM (3rd), CM (4th), Manager (5th), and Clerk (7th).\n5. The remaining persons are A, E, F, and G.\n6. From the clues 'G is senior to F, and F is senior to E' and 'E is senior to A', we get the seniority order: G > F > E > A.\n7. Placing them in the remaining vacant seats from senior to junior: G is AGM, F is CM, E is Manager, and A is Clerk.\nTherefore, G is the Assistant General Manager (AGM)."
+    },
+    {
+      "id": "sbi-clerk-ai-1782552978656-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, two blanks are given. From the options, choose the pair of words that best fits the context of the sentence to make it grammatically correct and meaningful.\n\nThe banking sector is undergoing a massive ____________ phase, and it is crucial for employees to ____________ themselves with the latest digital tools.",
+      "options": [
+        "stagnation, distance",
+        "transformation, acquaint",
+        "decline, ignore",
+        "resolution, restrict"
+      ],
+      "answer": 1,
+      "explanation": "The context of the sentence implies a progressive change because employees need to adapt to 'latest digital tools'. 'Transformation' fits the first blank perfectly, and 'acquaint' (meaning to make familiar with) is the correct verb to use with 'themselves' in this context."
+    },
+    {
+      "id": "sbi-clerk-ai-1782552978656-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, a part of the sentence is underlined. Below are given alternatives to the underlined part which may improve the sentence. Choose the correct alternative.\n\n<u>Seldom we have witnessed</u> such a rapid adoption of digital payment systems in rural areas as we have seen in the last three years.",
+      "options": [
+        "Seldom have we witnessed",
+        "Seldom we had witnessed",
+        "Seldom did we witnessed",
+        "No correction required"
+      ],
+      "answer": 0,
+      "explanation": "When a sentence begins with a restrictive adverb or adverbial phrase like 'seldom', 'hardly', or 'scarcely', subject-auxiliary inversion is required. Therefore, the auxiliary verb 'have' must come before the subject 'we', making 'Seldom have we witnessed' the grammatically correct choice."
+    },
+    {
+      "id": "sbi-clerk-ai-1782552988853-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Liberalised Remittance Scheme (LRS) of the Reserve Bank of India, what is the maximum permissible limit for resident individuals to freely remit funds abroad per financial year?",
+      "options": [
+        "USD 1,50,000",
+        "USD 2,00,000",
+        "USD 2,50,000",
+        "USD 5,00,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the Liberalised Remittance Scheme (LRS), all resident individuals, including minors, are allowed to freely remit up to USD 2,50,000 per financial year (April - March) for any permissible current or capital account transaction or a combination of both.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782552988853-1",
+      "section": "General Awareness",
+      "topic": "Indian Economy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The term 'Hindu Rate of Growth', which historically referred to the low annual growth rate of the Indian economy (around 3.5%) from the 1950s to the 1980s, was coined by which of the following economists?",
+      "options": [
+        "Dr. Manmohan Singh",
+        "Prof. Raj Krishna",
+        "Prof. Amartya Sen",
+        "Dr. Bimal Jalan"
+      ],
+      "answer": 1,
+      "explanation": "The term 'Hindu Rate of Growth' was coined by the Indian economist Raj Krishna in 1978 to describe the slow growth rate of the Indian economy, which hovered around 3.5% from the 1950s to the 1980s, despite high rates of savings and investments.",
       "status": "pending"
     }
   ]

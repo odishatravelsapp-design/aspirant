@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -957,6 +957,136 @@
       ],
       "answer": 1,
       "explanation": "The Bank for International Settlements (BIS), which acts as a bank for central banks and fosters international monetary and financial cooperation, is headquartered in Basel, Switzerland.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782552895024-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following equation? \n\n√441 × 5 + 120% of 180 = ?² - 3",
+      "options": [
+        "14",
+        "18",
+        "22",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "√441 × 5 + 120% of 180 = ?² - 3 \n=> 21 × 5 + (1.2 × 180) = ?² - 3 \n=> 105 + 216 = ?² - 3 \n=> 321 = ?² - 3 \n=> ?² = 324 \n=> ? = 18."
+    },
+    {
+      "id": "ibps-clerk-ai-1782552895024-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 7 : 5. If 24 liters of this mixture is taken out and replaced with 24 liters of water, the ratio of milk to water becomes 7 : 9. Find the initial quantity of milk in the vessel.",
+      "options": [
+        "42 liters",
+        "49 liters",
+        "56 liters",
+        "63 liters"
+      ],
+      "answer": 2,
+      "explanation": "After removing 24 L of mixture, the ratio of remaining milk and water remains 7:5. Let remaining milk = 7y and remaining water = 5y. Now, 24 L of water is added, making the ratio 7:9. So, 7y / (5y + 24) = 7/9 => 9y = 5y + 24 => 4y = 24 => y = 6. The remaining mixture = (7+5)*6 = 72 L. The initial mixture total volume = 72 + 24 = 96 L. Therefore, initial milk = (7/12) * 96 = 56 L."
+    },
+    {
+      "id": "ibps-clerk-ai-1782552911502-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rahul starts walking from Point A towards the North. After walking 8 meters, he reaches Point B. From Point B, he turns right and walks 6 meters to reach Point C. Then, he turns right and walks 16 meters to reach Point D. How far and in which direction is Point D with respect to Point A?",
+      "options": [
+        "10 meters, South-East",
+        "14 meters, South-East",
+        "10 meters, South-West",
+        "12 meters, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Rahul starts at A (0,0). Walking 8m North brings him to B (0,8). Turning right (East) and walking 6m brings him to C (6,8). Turning right (South) and walking 16m brings him to D (6, -8). The shortest distance AD = sqrt((6-0)^2 + (-8-0)^2) = sqrt(36 + 64) = sqrt(100) = 10 meters. With respect to A, D is located in the South-East direction."
+    },
+    {
+      "id": "ibps-clerk-ai-1782552911502-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six people - A, B, C, D, E, and F - are sitting in a single straight line facing North. A sits third to the left of C. C does not sit at any of the extreme ends. Only one person sits between C and F. B sits second to the left of E. D is not an immediate neighbor of A. Who sits at the extreme right end of the line?",
+      "options": [
+        "D",
+        "E",
+        "F",
+        "C"
+      ],
+      "answer": 0,
+      "explanation": "Based on the clues, C is not at the ends, and A sits third to the left of C. If A is at position 1, C is at 4. If A is at position 2, C is at 5. Since only one person sits between C and F, and B sits second to the left of E, the only valid arrangement that satisfies all conditions (especially that D is not an immediate neighbor of A) is: A (1), F (2), B (3), C (4), E (5), D (6). Thus, D sits at the extreme right end."
+    },
+    {
+      "id": "ibps-clerk-ai-1782552923768-0",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, a word has been used in three different sentences. Choose the option that corresponds to the sentence(s) where the usage of the word 'COMPLIMENTARY' is grammatically correct and meaningful.\n\nI. The local gallery offered complimentary tickets to the school children for the art exhibition.\nII. The two colors are complimentary and create a very pleasing visual effect when used together.\nIII. She was very complimentary about his web design skills, which boosted his confidence.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and III",
+        "Both II and III"
+      ],
+      "answer": 2,
+      "explanation": "'Complimentary' means given free of charge (as in sentence I) or expressing praise/admiration (as in sentence III). In sentence II, the correct word should be 'complementary', which means combining in such a way as to enhance or emphasize the qualities of each other. Therefore, only I and III are correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1782552923768-1",
+      "section": "English",
+      "topic": "Fill in the Blanks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most appropriate word to fill in the blank and make the sentence grammatically correct and contextually meaningful.\n\nThe board's sudden decision to downsize the department was met with widespread ___________ from the employees, who felt their hard work had been completely disregarded.",
+      "options": [
+        "adulation",
+        "indignation",
+        "benevolence",
+        "consolation"
+      ],
+      "answer": 1,
+      "explanation": "'Indignation' means anger or annoyance provoked by what is perceived as unfair treatment, which perfectly fits the context of employees feeling that their hard work was disregarded. 'Adulation' (excessive praise), 'benevolence' (kindness), and 'consolation' (comfort) do not fit the negative and resentful tone of the sentence."
+    },
+    {
+      "id": "ibps-clerk-ai-1782552935142-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India (RBI) guidelines updated in October 2022, what is the minimum Net Owned Fund (NOF) requirement for an Asset Reconstruction Company (ARC) to commence operations?",
+      "options": [
+        "Rs 100 crore",
+        "Rs 200 crore",
+        "Rs 300 crore",
+        "Rs 500 crore"
+      ],
+      "answer": 2,
+      "explanation": "In October 2022, the Reserve Bank of India (RBI) increased the minimum Net Owned Fund (NOF) requirement for Asset Reconstruction Companies (ARCs) from Rs 100 crore to Rs 300 crore to ensure they have sufficient financial strength to handle non-performing assets.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782552935142-1",
+      "section": "General Awareness",
+      "topic": "Financial Reports",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following international organizations publishes the semiannual 'Global Financial Stability Report'?",
+      "options": [
+        "World Bank",
+        "International Monetary Fund (IMF)",
+        "World Economic Forum (WEF)",
+        "Bank for International Settlements (BIS)"
+      ],
+      "answer": 1,
+      "explanation": "The Global Financial Stability Report (GFSR) is published semiannually by the International Monetary Fund (IMF). It provides an assessment of the global financial system and markets, highlighting potential vulnerabilities.",
       "status": "pending"
     }
   ]
