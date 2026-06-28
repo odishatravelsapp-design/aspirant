@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-27",
+  "updated": "2026-06-28",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1088,6 +1088,70 @@
       "answer": 1,
       "explanation": "The Global Financial Stability Report (GFSR) is published semiannually by the International Monetary Fund (IMF). It provides an assessment of the global financial system and markets, highlighting potential vulnerabilities.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782642079879-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some symbols are used with the following meanings:\n'P % Q' means 'P is neither greater than nor equal to Q'.\n'P # Q' means 'P is neither smaller than nor equal to Q'.\n'P $ Q' means 'P is not greater than Q'.\n'P @ Q' means 'P is not smaller than Q'.\n'P * Q' means 'P is neither greater than nor smaller than Q'.\n\nStatements:\nA # B, B * C, C @ D, D $ E\n\nWhich of the following conclusions is/are definitely true?\nI. A # C\nII. E @ C",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusion I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 0,
+      "explanation": "Decoding the symbols: '%' means '<', '#' means '>', '$' means '<=', '@' means '>=', and '*' means '='. The statements can be combined as: A > B = C >= D <= E. For Conclusion I (A # C => A > C): Since A > B and B = C, we get A > C. Hence, I is true. For Conclusion II (E @ C => E >= C): Since C >= D <= E, there is a sign conflict between C and E, so no definite relationship can be established. Thus, II is not definitely true. Therefore, only conclusion I is true."
+    },
+    {
+      "id": "ibps-clerk-ai-1782642079879-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, some statements are given followed by some conclusions. Take the given statements to be true even if they seem to be at variance from commonly known facts and decide which of the conclusions logically follow(s) from the given statements.\n\nStatements:\nOnly a few Roses are Jasmine.\nNo Jasmine is Lily.\nAll Lilies are Marigold.\n\nConclusions:\nI. All Roses being Jasmine is a possibility.\nII. Some Marigolds are not Jasmine.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Roses are Jasmine' implies that 'Some Roses are Jasmine' and 'Some Roses are NOT Jasmine'. Therefore, all Roses can never be Jasmine, making Conclusion I ('All Roses being Jasmine is a possibility') false.\n2. Since 'All Lilies are Marigold' and 'No Jasmine is Lily', the portion of Marigold which is Lily can never be Jasmine. Thus, 'Some Marigolds are not Jasmine' is definitely true, making Conclusion II follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1782642144317-0",
+      "section": "English",
+      "topic": "Sentence Correction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the sentence that is grammatically correct and coherent.",
+      "options": [
+        "Hardly had the teacher entered the classroom than the students stood up to greet her.",
+        "The manager was so angry that he did not even listen to what his subordinates have to say.",
+        "No sooner did the train arrive at the platform when the passengers rushed to board it.",
+        "Not only did she complete the project on time but she also managed to stay well within the budget."
+      ],
+      "answer": 3,
+      "explanation": "Option D is grammatically correct. It correctly uses the correlative conjunction 'not only... but also' along with proper subject-verb inversion ('did she complete') because the sentence begins with a negative-restricting adverbial. Option A is incorrect because 'hardly' should be followed by 'when' or 'before', not 'than'. Option B is incorrect due to a tense mismatch ('was so angry' vs 'have to say'). Option C is incorrect because 'no sooner' must be paired with 'than', not 'when'."
+    },
+    {
+      "id": "ibps-clerk-ai-1782642144317-1",
+      "section": "English",
+      "topic": "Antonyms",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the context carefully and select the word that is most opposite in meaning to the word 'EPHEMERAL' in the given sentence: 'The joy of winning the lottery proved to be ephemeral, as he lost all his wealth within a year due to poor investments.'",
+      "options": [
+        "Transitory",
+        "Perennial",
+        "Evanescent",
+        "Fleeting"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time. 'Perennial' means lasting or existing for a long or infinite time (enduring), making it the correct antonym. The other options ('Transitory', 'Evanescent', and 'Fleeting') are synonyms of 'ephemeral'."
     }
   ]
 }

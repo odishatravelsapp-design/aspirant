@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-27",
+  "updated": "2026-06-28",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -971,6 +971,38 @@
       "answer": 1,
       "explanation": "The term 'Hindu Rate of Growth' was coined by the Indian economist Raj Krishna in 1978 to describe the slow growth rate of the Indian economy, which hovered around 3.5% from the 1950s to the 1980s, despite high rates of savings and investments.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782642434090-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 16 hours, and Pipe B can fill it in 24 hours. Both pipes are opened together, but 4 hours before the tank is full, Pipe A is closed. In how many hours will the tank be filled?",
+      "options": [
+        "10 hours",
+        "12 hours",
+        "14 hours",
+        "15 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let the capacity of the tank be the LCM of 16 and 24, which is 48 units. Efficiency of Pipe A = 48/16 = 3 units/hour. Efficiency of Pipe B = 48/24 = 2 units/hour. Let the total time taken to fill the tank be 't' hours. Pipe A worked for (t - 4) hours and Pipe B worked for 't' hours. Total work done: 3*(t - 4) + 2*t = 48 => 3t - 12 + 2t = 48 => 5t = 60 => t = 12 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1782642434090-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 4 red, 5 blue, and 3 green balls. If three balls are drawn at random from the bag, what is the probability that at least two of the drawn balls are blue?",
+      "options": [
+        "5/11",
+        "4/11",
+        "3/11",
+        "6/11"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 4 + 5 + 3 = 12. Total ways of drawing 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220. We need at least 2 blue balls (which means either exactly 2 blue balls or exactly 3 blue balls). Case 1: 2 Blue and 1 other ball. Ways = 5C2 * 7C1 = 10 * 7 = 70. Case 2: 3 Blue balls. Ways = 5C3 = 10. Total favorable ways = 70 + 10 = 80. Required probability = 80 / 220 = 4/11."
     }
   ]
 }
