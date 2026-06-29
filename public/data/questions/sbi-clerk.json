@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1003,6 +1003,136 @@
       ],
       "answer": 1,
       "explanation": "Total number of balls = 4 + 5 + 3 = 12. Total ways of drawing 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220. We need at least 2 blue balls (which means either exactly 2 blue balls or exactly 3 blue balls). Case 1: 2 Blue and 1 other ball. Ways = 5C2 * 7C1 = 10 * 7 = 70. Case 2: 3 Blue balls. Ways = 5C3 = 10. Total favorable ways = 70 + 10 = 80. Required probability = 80 / 220 = 4/11."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744906229-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B entered into a partnership. A invested Rs. 15,000 for 8 months and B invested Rs. 12,000 for a certain number of months. If the total profit at the end of the year was Rs. 27,000 and B's share of profit was Rs. 12,000, for how many months did B invest his money?",
+      "options": [
+        "6 months",
+        "8 months",
+        "9 months",
+        "10 months"
+      ],
+      "answer": 1,
+      "explanation": "Ratio of profit sharing of A and B = (Total Profit - B's Profit) : B's Profit = (27,000 - 12,000) : 12,000 = 15,000 : 12,000 = 5 : 4. We also know that the ratio of profit is equal to the ratio of the product of their investments and time periods. So, (15,000 * 8) / (12,000 * x) = 5 / 4, where x is the number of months B invested. This simplifies to 120,000 / 12,000x = 5 / 4 => 10 / x = 5 / 4 => 5x = 40 => x = 8. Thus, B invested for 8 months."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744906229-1",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains start at the same time from two stations, P and Q, and proceed towards each other at speeds of 60 km/h and 75 km/h respectively. When they meet, it is found that one train has traveled 90 km more than the other. What is the distance between the two stations P and Q?",
+      "options": [
+        "720 km",
+        "810 km",
+        "780 km",
+        "840 km"
+      ],
+      "answer": 1,
+      "explanation": "Let the two trains meet after 't' hours. Distance traveled by the first train = 60t km. Distance traveled by the second train = 75t km. The difference in distance is 75t - 60t = 15t km. Given that this difference is 90 km: 15t = 90 => t = 6 hours. The total distance between P and Q is the sum of the distances traveled by both trains: 60t + 75t = 135t = 135 * 6 = 810 km."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744923473-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Directions: In the following question, three statements are given followed by two conclusions. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\n1. Only a few Pens are Pencils.\n2. Some Pencils are Erasers.\n3. No Eraser is a Ruler.\n\nConclusions:\nI. All Pens can never be Pencils.\nII. Some Pencils are not Rulers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "1. 'Only a few Pens are Pencils' implies both 'Some Pens are Pencils' and 'Some Pens are not Pencils'. Since it is certain that some Pens are not Pencils, the statement 'All Pens can never be Pencils' is logically correct. Thus, conclusion I follows.\n2. 'Some Pencils are Erasers' and 'No Eraser is a Ruler' means that the common part of Pencils and Erasers can never be Rulers. Hence, those Pencils which are Erasers are definitely not Rulers. Thus, 'Some Pencils are not Rulers' is also correct and conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744923473-1",
+      "section": "Reasoning",
+      "topic": "Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Five boxes A, B, C, D, and E are placed one above another in a stack. Box A is placed immediately above Box D. Two boxes are placed between Box D and Box B. Box C is placed adjacent to Box B. Box E is placed at either the topmost or the bottommost position. Box B is not placed at the topmost position. Which box is placed at the middle position (3rd from the bottom)?",
+      "options": [
+        "Box A",
+        "Box B",
+        "Box C",
+        "Box D"
+      ],
+      "answer": 2,
+      "explanation": "Let us analyze the positions from top (5) to bottom (1):\n1. Box E is at either the topmost (5) or bottommost (1) position.\n2. Box A is immediately above Box D (forming an AD block).\n3. Two boxes are placed between Box D and Box B.\n4. Box B is not topmost, so Box E must be at the topmost position (5). If E is at 5, and we place Box B at 4, then Box D must be at position 1 to keep exactly two boxes (at positions 2 and 3) between D and B. This places Box A at position 2 (immediately above D). This leaves Box C for position 3, which satisfies the condition that C is adjacent to B (at 4).\n5. The final order from top to bottom is: E (5), B (4), C (3), A (2), D (1).\n6. Therefore, Box C is in the middle position."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744930945-0",
+      "section": "English",
+      "topic": "Conditional Clauses",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the correct option to complete the sentence: 'If the board of directors had taken the decision earlier, the company ______ saved from filing for bankruptcy.'",
+      "options": [
+        "would have been",
+        "will have been",
+        "would be",
+        "had been"
+      ],
+      "answer": 0,
+      "explanation": "This sentence is a third conditional (unreal past situation and its past result). The structure requires 'If + past perfect' in the conditional clause, and 'would have + past participle' in the main clause. Therefore, 'would have been' is correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744930945-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blanks with the most appropriate pair of words: 'The government's decision to subsidize renewable energy was met with ________ approval by environmentalists, but skeptics remained ________ about its long-term financial viability.'",
+      "options": [
+        "lukewarm, enthusiastic",
+        "resounding, dubious",
+        "critical, optimistic",
+        "redundant, certain"
+      ],
+      "answer": 1,
+      "explanation": "The conjunction 'but' indicates a contrast between the environmentalists' reaction and that of the skeptics. Environmentalists are likely to support renewable energy subsidies ('resounding' approval), while skeptics would remain doubtful ('dubious') of its viability. Option B fits this semantic contrast perfectly."
+    },
+    {
+      "id": "sbi-clerk-ai-1782744944431-0",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending (PSL)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the total Priority Sector Lending (PSL) target prescribed by the Reserve Bank of India (RBI) for Regional Rural Banks (RRBs), expressed as a percentage of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher?",
+      "options": [
+        "40%",
+        "75%",
+        "18%",
+        "60%"
+      ],
+      "answer": 1,
+      "explanation": "According to the Reserve Bank of India (RBI) guidelines on Priority Sector Lending, Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) have a total priority sector lending target of 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher. For domestic commercial banks (excluding RRBs and SFBs), the target is 40%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782744944431-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), the central government revised the upper age limit to avail of the overdraft facility of up to ₹10,000. What is the current maximum age limit for this facility?",
+      "options": [
+        "60 years",
+        "65 years",
+        "70 years",
+        "55 years"
+      ],
+      "answer": 1,
+      "explanation": "In 2018, the Union Cabinet made key revisions to the Pradhan Mantri Jan Dhan Yojana (PMJDY). The overdraft limit was doubled from ₹5,000 to ₹10,000, and the upper age limit to avail of this overdraft facility was raised from 60 years to 65 years. The minimum age remains 18 years.",
+      "status": "pending"
     }
   ]
 }

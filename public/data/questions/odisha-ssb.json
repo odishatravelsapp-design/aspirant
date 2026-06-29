@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1477,6 +1477,176 @@
             "ହରିଶଙ୍କର ଜଳପ୍ରପାତ"
           ],
           "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାର ମାଛକୁଣ୍ଡ ନଦୀରେ ଅବସ୍ଥିତ ଡୁଡୁମା ଜଳପ୍ରପାତକୁ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ମଧ୍ୟ କୁହାଯାଏ। ଏହା ମାଛକୁଣ୍ଡ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପକୁ ସହାୟତା କରିଥାଏ, ଯାହା ଓଡ଼ିଶା ଏବଂ ଆନ୍ଧ୍ରପ୍ରଦେଶର ଏକ ମିଳିତ ପ୍ରକଳ୍ପ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782745189933-0",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Wordsworth's 'The Prelude' was published posthumously in 1850. However, he completed an early version in 1805. To whom was this autobiographical poem addressed?",
+      "options": [
+        "Dorothy Wordsworth",
+        "Samuel Taylor Coleridge",
+        "Robert Southey",
+        "Charles Lamb"
+      ],
+      "answer": 1,
+      "explanation": "William Wordsworth's autobiographical masterpiece 'The Prelude' was addressed to his close friend and fellow poet Samuel Taylor Coleridge. During Wordsworth's lifetime, it was often referred to as the 'Poem to Coleridge'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱାର୍ଡ଼ସୱର୍ଥଙ୍କ 'ଦି ପ୍ରିଲ୍ୟୁଡ୍' (The Prelude) ତାଙ୍କ ମୃତ୍ୟୁ ପରେ ୧୮୫୦ ମସିହାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା। କିନ୍ତୁ, ସେ ଏହାର ଏକ ପ୍ରାରମ୍ଭିକ ସଂସ୍କରଣ ୧୮୦୫ ମସିହାରେ ସମ୍ପୂର୍ଣ୍ଣ କରିଥିଲେ। ଏହି ଆତ୍ମଜୀବନୀମୂଳକ କବିତାଟି କାହାକୁ ସମ୍ବୋଧିତ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଡୋରୋଥି ୱାର୍ଡ଼ସୱର୍ଥ (Dorothy Wordsworth)",
+            "ସାମୁଏଲ୍ ଟେଲର୍ କୋଲରିଜ୍ (Samuel Taylor Coleridge)",
+            "ରବର୍ଟ ସାଉଦି (Robert Southey)",
+            "ଚାର୍ଲ୍ସ ଲ୍ୟାମ୍ବ (Charles Lamb)"
+          ],
+          "explanation": "ୱାର୍ଡ଼ସୱର୍ଥଙ୍କ 'ଦି ପ୍ରିଲ୍ୟୁଡ୍' କବିତାଟି ତାଙ୍କର ପ୍ରିୟ ବନ୍ଧୁ ତଥା ସହ-କବି ସାମୁଏଲ୍ ଟେଲର୍ କୋଲରିଜ୍‌ଙ୍କୁ ସମ୍ବୋଧିତ କରାଯାଇଛି, ଯାହାକୁ ପ୍ରଥମେ ପ୍ରାୟତଃ 'କୋଲରିଜ୍‌ଙ୍କୁ ଉଦ୍ଦିଷ୍ଟ କବିତା' (Poem to Coleridge) ବୋଲି କୁହାଯାଉଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782745189933-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Jacques Derrida's 'Of Grammatology', what term does he use to describe the pre-linguistic, generalized writing that precedes and makes possible both speech and phonetic writing?",
+      "options": [
+        "Différance",
+        "Arche-writing",
+        "Trace",
+        "Logocentrism"
+      ],
+      "answer": 1,
+      "explanation": "In 'Of Grammatology', Derrida introduces the concept of 'arche-writing' (archi-écriture) to designate a form of writing that cannot be reduced to phonetic notation. It serves as the underlying structure or condition of possibility that precedes and enables both speech and traditional writing.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜାକ୍ ଡେରିଡାଙ୍କ 'ଅଫ୍ ଗ୍ରାମାଟୋଲୋଜି' (Of Grammatology) ରେ, ସେ ଭାଷାଗତ ପୂର୍ବବର୍ତ୍ତୀ, ସାଧାରଣୀକୃତ ଲିଖନକୁ ବର୍ଣ୍ଣନା କରିବା ପାଇଁ କେଉଁ ଶବ୍ଦ ବ୍ୟବହାର କରନ୍ତି ଯାହା କଥନ ଏବଂ ଧ୍ୱନିଗତ ଲିଖନ ଉଭୟକୁ ସମ୍ଭବ କରିଥାଏ?",
+          "options": [
+            "ଡିଫେରାନ୍ସ (Différance)",
+            "ଆର୍କି-ରାଇଟିଂ (Arche-writing)",
+            "ଟ୍ରେସ୍ (Trace)",
+            "ଲୋଗୋସେଣ୍ଟ୍ରିଜିମ୍ (Logocentrism)"
+          ],
+          "explanation": "ଡେରିଡା 'ଆର୍କି-ରାଇଟିଂ' (arche-writing) ଶବ୍ଦଟିକୁ ଏକ ପ୍ରାଥମିକ ଲିଖନ ପ୍ରକ୍ରିୟାକୁ ବୁଝାଇବା ପାଇଁ ବ୍ୟବହାର କରନ୍ତି, ଯାହା ପାରମ୍ପରିକ କଥନ ଏବଂ ଲିଖନର ବିଭାଜନ ପୂର୍ବରୁ ବିଦ୍ୟମାନ ଏବଂ ସେଗୁଡ଼ିକୁ ସମ୍ଭବ କରାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782745215777-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Synectics model of teaching, developed by William J.J. Gordon, primarily aims at which of the following?",
+      "options": [
+        "Enhancing logical-mathematical reasoning",
+        "Developing creative problem-solving and metaphorical thinking",
+        "Mastering facts and concepts through rote memorization",
+        "Modifying classroom behavior through operant conditioning"
+      ],
+      "answer": 1,
+      "explanation": "Synectics is an instructional model designed by William J.J. Gordon to stimulate creative thinking and problem-solving. It relies heavily on the use of analogies and metaphors to help learners 'make the strange familiar' and 'make the familiar strange'.",
+      "translations": {
+        "or": {
+          "question": "ଉଇଲିୟମ୍ ଜେ.ଜେ. ଗର୍ଡନ୍‌ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ଶିକ୍ଷାଦାନର \"ସାଇନେକ୍ଟିକ୍ସ\" (Synectics) ମଡେଲ୍‌ର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ କ’ଣ?",
+          "options": [
+            "ଯୌକ୍ତିକ-ଗାଣିତିକ ଚିନ୍ତାଧାରାର ଉନ୍ନତି କରିବା",
+            "ସୃଜନଶୀଳ ସମସ୍ୟା-ସମାଧାନ ଏବଂ ରୂପକାତ୍ମକ ଚିନ୍ତାଧାରାର ବିକାଶ କରିବା",
+            "ଘୋଷା ବିଦ୍ୟା ମାଧ୍ୟମରେ ତଥ୍ୟ ଏବଂ ଧାରଣା ହାସଲ କରିବା",
+            "ଅପରେଣ୍ଟ କଣ୍ଡିସନିଂ ମାଧ୍ୟମରେ ଶ୍ରେଣୀଗୃହର ବ୍ୟବହାରରେ ପରିବର୍ତ୍ତନ ଆଣିବା"
+          ],
+          "explanation": "ସାଇନେକ୍ଟିକ୍ସ ହେଉଛି ଏକ ସୃଜନଶୀଳ ସମସ୍ୟା-ସମାଧାନ ପଦ୍ଧତି ଯାହା ସୃଜନଶୀଳ ପ୍ରକ୍ରିୟାକୁ ତ୍ୱରାନ୍ୱିତ କରିବା ପାଇଁ ରୂପକାତ୍ମକ (metaphorical) ଚିନ୍ତାଧାରା ଉପରେ ନିର୍ଭର କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782745215777-1",
+      "section": "Teaching Aptitude",
+      "topic": "Evaluation and Assessment",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Donald Kirkpatrick's Four-Level Training Evaluation Model, which level specifically measures the degree to which participants apply what they learned during training when they are back on the job?",
+      "options": [
+        "Level 1 - Reaction",
+        "Level 2 - Learning",
+        "Level 3 - Behavior",
+        "Level 4 - Results"
+      ],
+      "answer": 2,
+      "explanation": "In Kirkpatrick's model, Level 1 measures Reaction (satisfaction), Level 2 measures Learning (knowledge gained), Level 3 measures Behavior (transfer of learning to the actual workplace/job), and Level 4 measures Results (business or organizational outcomes).",
+      "translations": {
+        "or": {
+          "question": "ଡୋନାଲ୍ଡ କିର୍କପାଟ୍ରିକଙ୍କ ଚାରି-ସ୍ତରୀୟ ପ୍ରଶିକ୍ଷଣ ମୂଲ୍ୟାଙ୍କନ ମଡେଲ୍‌ରେ, କେଉଁ ସ୍ତରଟି ବିଶେଷ ଭାବରେ ପ୍ରଶିକ୍ଷାର୍ଥୀମାନେ ପ୍ରଶିକ୍ଷଣ ସମୟରେ ଶିଖିଥିବା ଜ୍ଞାନକୁ ସେମାନଙ୍କ କାର୍ଯ୍ୟକ୍ଷେତ୍ରରେ କେତେଦୂର ପ୍ରୟୋଗ କରୁଛନ୍ତି ତାହା ମାପ କରିଥାଏ?",
+          "options": [
+            "ସ୍ତର ୧ - ପ୍ରତିକ୍ରିୟା",
+            "ସ୍ତର ୨ - ଶିକ୍ଷଣ",
+            "ସ୍ତର ୩ - ବ୍ୟବହାର",
+            "ସ୍ତର ୪ - ଫଳାଫଳ"
+          ],
+          "explanation": "ଚାରି-ସ୍ତରୀୟ ମଡେଲ୍‌ରେ, ସ୍ତର ୩ (ବ୍ୟବହାର) ମାପ କରେ ଯେ ପ୍ରଶିକ୍ଷଣର ପ୍ରଭାବ ସ୍ୱରୂପ ଅଂଶଗ୍ରହଣକାରୀମାନେ ସେମାନଙ୍କର କାର୍ଯ୍ୟ ଶୈଳୀ କିମ୍ବା ବ୍ୟବହାରରେ ପରିବର୍ତ୍ତନ ଆଣିଛନ୍ତି କି ନାହିଁ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782745304878-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following became the first Prime Minister (Premier) of Odisha Province in April 1937?",
+      "options": [
+        "Bishwanath Das",
+        "Maharaja Krushna Chandra Gajapati Narayan Deo",
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 1,
+      "explanation": "Maharaja Krushna Chandra Gajapati Narayan Deo of Paralakhemundi became the first Prime Minister (Premier) of Odisha Province on April 1, 1937, serving until July 19, 1937, before Bishwanath Das took office.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ଅପ୍ରେଲରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ହୋଇଥିଲେ?",
+          "options": [
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ନାରାୟଣ ଦେବ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ନାରାୟଣ ଦେବ ୧ ଅପ୍ରେଲ ୧୯୩୭ ରୁ ୧୯ ଜୁଲାଇ ୧୯୩୭ ପର୍ଯ୍ୟନ୍ତ କାର୍ଯ୍ୟ କରି ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782745304878-1",
+      "section": "General Studies",
+      "topic": "Odisha Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was Chilika Lake designated as the first Indian wetland of international importance under the Ramsar Convention?",
+      "options": [
+        "1981",
+        "1982",
+        "1985",
+        "1990"
+      ],
+      "answer": 0,
+      "explanation": "Chilika Lake was designated as the first Indian wetland of international importance under the Ramsar Convention on October 1, 1981, alongside Keoladeo National Park in Rajasthan.",
+      "translations": {
+        "or": {
+          "question": "ରାମସାର୍ ସମ୍ମିଳନୀ (Ramsar Convention) ଅଧୀନରେ ଚିଲିକା ହ୍ରଦକୁ କେଉଁ ବର୍ଷ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆଦ୍ରଭୂମି ଭାବରେ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "1981",
+            "1982",
+            "1985",
+            "1990"
+          ],
+          "explanation": "ରାଜସ୍ଥାନର କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ଚିଲିକା ହ୍ରଦକୁ ୧ ଅକ୍ଟୋବର ୧୯୮୧ ରେ ରାମସାର୍ ସମ୍ମିଳନୀ ଅଧୀନରେ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆଦ୍ରଭୂମି ଭାବରେ ନାମିତ କରାଯାଇଥିଲା।"
         }
       }
     }

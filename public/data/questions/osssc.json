@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -600,6 +600,178 @@
             "ନୟାଗଡ଼"
           ],
           "explanation": "ISFR ୨୦୨୧ ଅନୁଯାୟୀ, କନ୍ଧମାଳ ଜିଲ୍ଲାରେ ଓଡ଼ିଶାର ସର୍ବାଧିକ ପ୍ରତିଶତ ଜଙ୍ଗଲ ଆଚ୍ଛାଦନ ରହିଛି, ଯାହା ଏହାର ମୋଟ ଭୌଗୋଳିକ କ୍ଷେତ୍ରଫଳର ପ୍ରାୟ ୬୭.୧୩% ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782745129713-0",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A thief is spotted by a policeman from a distance of 250 meters. When the policeman starts the chase, the thief also starts running. If the speed of the thief is 10 km/h and that of the policeman is 12 km/h, how far will the thief have run before he is overtaken?",
+      "options": [
+        "1000 m",
+        "1250 m",
+        "1500 m",
+        "800 m"
+      ],
+      "answer": 1,
+      "explanation": "The relative speed between the policeman and the thief is 12 - 10 = 2 km/h. Converting this to m/s: 2 * (5/18) = 5/9 m/s. The time taken to catch the thief is Distance / Relative Speed = 250 / (5/9) = 450 seconds. Distance run by the thief in this time = Speed of thief * Time = (10 * 5/18) * 450 = 1250 meters.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ପୋଲିସ କର୍ମଚାରୀ ୨୫୦ ମିଟର ଦୂରତାରୁ ଜଣେ ଚୋରକୁ ଦେଖିଲେ। ଯେତେବେଳେ ପୋଲିସ ଚୋର ପଛରେ ଗୋଡ଼ାଇବା ଆରମ୍ଭ କଲା, ଚୋର ମଧ୍ୟ ଦୌଡ଼ିବା ଆରମ୍ଭ କଲା। ଯଦି ଚୋରର ବେଗ ଘଣ୍ଟା ପ୍ରତି ୧୦ କିମି ଏବଂ ପୋଲିସର ବେଗ ଘଣ୍ଟା ପ୍ରତି ୧୨ କିମି ହୁଏ, ତେବେ ଧରାପଡ଼ିବା ପୂର୍ବରୁ ଚୋର କେତେ ଦୂର ଦୌଡ଼ିସାରିଥିବ?",
+          "options": [
+            "୧୦୦୦ ମି.",
+            "୧୨୫୦ ମି.",
+            "୧୫୦୦ ମି.",
+            "୮୦୦ ମି."
+          ],
+          "explanation": "ପୋଲିସ ଏବଂ ଚୋର ମଧ୍ୟରେ ଆପେକ୍ଷିକ ବେଗ = ୧୨ - ୧୦ = ୨ କିମି/ଘଣ୍ଟା। ଏହାକୁ ମିଟର/ସେକେଣ୍ଡରେ ପରିଣତ କଲେ: ୨ * (୫/୧୮) = ୫/୯ ମିଟର/ସେକେଣ୍ଡ। ଚୋରକୁ ଧରିବା ପାଇଁ ଲାଗିଥିବା ସମୟ = ଦୂରତା / ଆପେକ୍ଷିକ ବେଗ = ୨୫୦ / (୫/୯) = ୪୫୦ ସେକେଣ୍ଡ। ଏହି ସମୟ ମଧ୍ୟରେ ଚୋର ଦ୍ୱାରା ଅତିକ୍ରମ କରାଯାଇଥିବା ଦୂରତା = ଚୋରର ବେଗ * ସମୟ = (୧୦ * ୫/୧୮) * ୪୫୦ = ୧୨୫୦ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782745129714-1",
+      "section": "Arithmetic",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains 80 liters of milk. 8 liters of milk is taken out and replaced with water. This process is repeated further two times. How much milk is now contained in the vessel?",
+      "options": [
+        "56.58 liters",
+        "58.32 liters",
+        "64.80 liters",
+        "51.20 liters"
+      ],
+      "answer": 1,
+      "explanation": "Using the formula for repeated dilution: Remaining quantity = Initial quantity * (1 - Quantity replaced / Initial quantity)^n. Here, Initial quantity (P) = 80, Quantity replaced (x) = 8, and number of operations (n) = 3. Remaining milk = 80 * (1 - 8/80)^3 = 80 * (0.9)^3 = 80 * 0.729 = 58.32 liters.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ପାତ୍ରରେ ୮୦ ଲିଟର କ୍ଷୀର ଅଛି। ସେଥିରୁ ୮ ଲିଟର କ୍ଷୀର ବାହାର କରି ସେତିକି ପରିମାଣର ପାଣି ମିଶାଗଲା। ଏହି ପ୍ରକ୍ରିୟାକୁ ଆଉ ଦୁଇଥର ଦୋହରାଗଲା। ବର୍ତ୍ତମାନ ସେହି ପାତ୍ରରେ କେତେ ପରିମାଣର କ୍ଷୀର ଅଛି?",
+          "options": [
+            "୫୬.୫୮ ଲିଟର",
+            "୫୮.୩୨ ଲିଟର",
+            "୬୪.୮୦ ଲିଟର",
+            "୫୧.୨୦ ଲିଟର"
+          ],
+          "explanation": "ସୂତ୍ର ଅନୁଯାୟୀ, ଅବଶିଷ୍ଟ କ୍ଷୀର = ପ୍ରାରମ୍ଭିକ ପରିମାଣ * (୧ - ବଦଳାଯାଇଥିବା ପରିମାଣ / ପ୍ରାରମ୍ଭିକ ପରିମାଣ)^n। ଏଠାରେ ପ୍ରାରମ୍ଭିକ ପରିମାଣ (P) = ୮୦, ବଦଳାଯାଇଥିବା ପରିମାଣ (x) = ୮ ଏବଂ ପ୍ରକ୍ରିୟା ସଂଖ୍ୟା (n) = ୩। ଅବଶିଷ୍ଟ କ୍ଷୀର = ୮୦ * (୧ - ୮/୮୦)^୩ = ୮୦ * (୦.୯)^୩ = ୮୦ * ୦.୭୨୯ = ୫୮.୩୨ ଲିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782745159245-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is a major right-bank tributary of the Mahanadi River?",
+      "options": [
+        "Ib",
+        "Mand",
+        "Hasdeo",
+        "Tel"
+      ],
+      "answer": 3,
+      "explanation": "The Tel River is one of the largest right-bank tributaries of the Mahanadi River. It flows through the Kalahandi, Balangir, and Sonepur districts of Odisha, joining the Mahanadi at Sonepur. Ib, Mand, and Hasdeo are left-bank tributaries.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ମହାନଦୀର ଏକ ପ୍ରମୁଖ ଡାହାଣ ପାର୍ଶ୍ୱ ଉପନଦୀ?",
+          "options": [
+            "ଇବ୍",
+            "ମାଣ୍ଡ",
+            "ହାସଦେଓ",
+            "ତେଲ୍"
+          ],
+          "explanation": "ତେଲ ନଦୀ ମହାନଦୀର ଅନ୍ୟତମ ବୃହତ୍ତମ ଡାହାଣ ପାର୍ଶ୍ୱ ଉପନଦୀ ଅଟେ। ଏହା ଓଡ଼ିଶାର କଳାହାଣ୍ଡି, ବଲାଙ୍ଗୀର ଏବଂ ସୋନପୁର ଜିଲ୍ଲା ଦେଇ ପ୍ରବାହିତ ହୋଇ ସୋନପୁରଠାରେ ମହାନଦୀ ସହିତ ମିଳିତ ହୋଇଥାଏ। ଇବ୍, ମାଣ୍ଡ ଏବଂ ହାସଦେଓ ହେଉଛନ୍ତି ବାମ ପାର୍ଶ୍ୱ ଉପନଦୀ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782745159245-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Eastern Ganga Dynasty ruler shifted his capital from Kalinganagar to Abhinava Varanasi Kataka (modern-day Cuttack)?",
+      "options": [
+        "Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimha Deva I",
+        "Bhanu Deva I"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III shifted the capital of the Eastern Ganga Empire from Kalinganagar to the newly founded city of Abhinava Varanasi Kataka (present-day Cuttack) in the early 13th century (around 1211 AD) for strategic and administrative convenience.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ଗଙ୍ଗ ବଂଶର ଶାସକ ନିଜର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ III",
+            "ନରସିଂହ ଦେବ I",
+            "ଭାନୁ ଦେବ I"
+          ],
+          "explanation": "ଅନଙ୍ଗଭୀମ ଦେବ III ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ (ପ୍ରାୟ ୧୨୧୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ) ସାମରିକ ଏବଂ ପ୍ରଶାସନିକ ସୁବିଧା ପାଇଁ ପୂର୍ବ ଗଙ୍ଗ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ନୂତନ ଭାବେ ପ୍ରତିଷ୍ଠିତ ଅଭିନବ ବାରାଣସୀ କଟକ (ବର୍ତ୍ତମାନର କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782745171741-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The historic 'Paika Rebellion' (Paika Bidroha) of Odisha against the British East India Company took place in which year?",
+      "options": [
+        "1817",
+        "1803",
+        "1857",
+        "1827"
+      ],
+      "answer": 0,
+      "explanation": "The Paika Rebellion was an armed rebellion against the British East India Company's rule in Odisha in 1817, led by Bakshi Jagabandhu.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରିଟିଶ୍ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୁଦ୍ଧରେ ଓଡ଼ିଶାର ଐତିହାସିକ 'ପାଇକ ବିଦ୍ରୋହ' କେଉଁ ବର୍ଷ ସଂଘଟିତ ହୋଇଥିଲା?",
+          "options": [
+            "1817",
+            "1803",
+            "1857",
+            "1827"
+          ],
+          "explanation": "ପାଇକ ବିଦ୍ରୋହ ୧୮୧୭ ମସିହାରେ ବକ୍ସି ଜଗବନ୍ଧୁଙ୍କ ନେତୃତ୍ୱରେ ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ୍ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ଶାସନ ବିରୁଦ୍ଧରେ ଏକ ସଶସ୍ତ୍ର ବିଦ୍ରୋହ ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782745171741-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Judiciary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first Chief Justice of the Orissa High Court when it was established in 1948?",
+      "options": [
+        "Justice Bira Kishore Ray",
+        "Justice Lingaraj Panigrahi",
+        "Justice Lalit Mohan Sharma",
+        "Justice Harihar Mahapatra"
+      ],
+      "answer": 0,
+      "explanation": "Justice Bira Kishore Ray was appointed as the first Chief Justice of the Orissa High Court upon its establishment on July 26, 1948.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୮ ମସିହାରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ (Orissa High Court) ପ୍ରତିଷ୍ଠା ହେବା ସମୟରେ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ",
+            "ଜଷ୍ଟିସ୍ ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ",
+            "ଜଷ୍ଟିସ୍ ଲଳିତ ମୋହନ ଶର୍ମା",
+            "ଜଷ୍ଟିସ୍ ହରିହର ମହାପାତ୍ର"
+          ],
+          "explanation": "୨୬ ଜୁଲାଇ ୧୯୪୮ରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ପ୍ରତିଷ୍ଠା ହେବା ପରେ ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି ଭାବରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ।"
         }
       }
     }

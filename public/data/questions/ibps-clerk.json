@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1152,6 +1152,136 @@
       ],
       "answer": 1,
       "explanation": "'Ephemeral' means lasting for a very short time. 'Perennial' means lasting or existing for a long or infinite time (enduring), making it the correct antonym. The other options ('Transitory', 'Evanescent', and 'Fleeting') are synonyms of 'ephemeral'."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744778937-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following equation?\n35% of 180 + 18^2 - √289 = ? + 140",
+      "options": [
+        "210",
+        "230",
+        "250",
+        "190"
+      ],
+      "answer": 1,
+      "explanation": "LHS: 35% of 180 = 63. 18^2 = 324. √289 = 17. So, 63 + 324 - 17 = 370. Now, 370 = ? + 140 => ? = 370 - 140 = 230."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744778938-1",
+      "section": "Quant",
+      "topic": "Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains, A and B, start at the same time from stations P and Q respectively towards each other. After crossing each other, train A takes 4 hours 48 minutes to reach Q, while train B takes 3 hours 20 minutes to reach P. If the speed of train A is 45 km/h, what is the speed of train B?",
+      "options": [
+        "50 km/h",
+        "54 km/h",
+        "60 km/h",
+        "48 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Using the relation Speed_A / Speed_B = √(Time_B / Time_A). Here, Time_A = 4 hours 48 minutes = 24/5 hours. Time_B = 3 hours 20 minutes = 10/3 hours. Speed_A / Speed_B = √((10/3) / (24/5)) = √(50/72) = √(25/36) = 5/6. Given Speed_A = 45 km/h, we get 45 / Speed_B = 5/6 => Speed_B = (45 * 6) / 5 = 54 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744806709-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person starts from Point P and walks 10 meters North to reach Point Q. From Point Q, he turns right and walks 15 meters to reach Point R. From Point R, he turns right and walks 7 meters to reach Point S. From Point S, he turns left and walks 24 meters to reach Point T. What is the shortest distance between Point R and Point T?",
+      "options": [
+        "25 meters",
+        "31 meters",
+        "17 meters",
+        "29 meters"
+      ],
+      "answer": 0,
+      "explanation": "From Point R, the person walks 7 meters South to reach Point S. From Point S, he turns left (which is East) and walks 24 meters to reach Point T. This forms a right-angled triangle RST with RS = 7 meters (vertical) and ST = 24 meters (horizontal). The shortest distance RT is the hypotenuse: RT = sqrt(7^2 + 24^2) = sqrt(49 + 576) = sqrt(625) = 25 meters."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744806709-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by three conclusions numbered I, II, and III. Read all the conclusions and then decide which of the given conclusions logically follow(s) from the given statements.\n\nStatements:\n1. Only a few Cups are Plates.\n2. All Plates are Spoons.\n3. No Spoon is a Fork.\n\nConclusions:\nI. All Cups can never be Plates.\nII. Some Cups are Spoons.\nIII. All Cups can be Forks.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All I, II and III follow"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 ('Only a few Cups are Plates') implies that 'Some Cups are Plates' and 'Some Cups are not Plates'. Since some Cups are not Plates, 'All Cups can never be Plates' is true (Conclusion I follows). Since 'Some Cups are Plates' and 'All Plates are Spoons', the common part of Cups and Plates must be Spoons, so 'Some Cups are Spoons' is definitely true (Conclusion II follows). Since 'Some Cups are Spoons' and 'No Spoon is a Fork', those Cups which are Spoons can never be Forks; hence, 'All Cups can be Forks' is false (Conclusion III does not follow)."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744819128-0",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the word that best fits the blank in the given sentence to make it contextually and grammatically correct:\n\n'Despite the market volatility, the company's robust risk management framework helped it ________ the economic storm without significant losses.'",
+      "options": [
+        "weather",
+        "wither",
+        "capitulate",
+        "exacerbate"
+      ],
+      "answer": 0,
+      "explanation": "The verb 'to weather' means to withstand or come safely through a difficult situation (like a storm or crisis). 'Wither' means to shrivel or decay, 'capitulate' means to surrender, and 'exacerbate' means to make a problem worse. Therefore, 'weather' is the only contextually appropriate fit."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744819128-1",
+      "section": "English",
+      "topic": "Grammar (Conditionals)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the grammatically correct option to complete the conditional sentence:\n\n'Had the government taken proactive measures earlier, the crisis __________ averted.'",
+      "options": [
+        "would have being",
+        "could be",
+        "might have been",
+        "will have been"
+      ],
+      "answer": 2,
+      "explanation": "This sentence is a third conditional (past unreal conditional), which is used to express a hypothetical past event and its result. The structure is: 'Had + subject + past participle' (in the condition clause) and 'subject + would/could/might + have + past participle' (in the main/result clause). 'might have been' correctly completes this structure in the passive voice."
+    },
+    {
+      "id": "ibps-clerk-ai-1782744888887-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "With effect from February 4, 2020, the Deposit Insurance and Credit Guarantee Corporation (DICGC) raised the insurance cover limit for depositors in insured banks. What is the current maximum insurance cover per depositor for both principal and interest amount held in the same right and same capacity in a bank?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "The DICGC raised the limit of insurance cover for depositors in insured banks to ₹5 lakh per depositor (including both principal and interest) with effect from February 4, 2020, up from the previous limit of ₹1 lakh.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782744888887-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The premium rates for the flagship social security schemes Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY) were revised in June 2022. What is the current annual premium rate for the Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+      "options": [
+        "₹12",
+        "₹20",
+        "₹330",
+        "₹436"
+      ],
+      "answer": 1,
+      "explanation": "Effective from June 1, 2022, the annual premium for Pradhan Mantri Suraksha Bima Yojana (PMSBY) was revised from ₹12 to ₹20, whereas the premium for Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) was revised from ₹330 to ₹436.",
+      "status": "pending"
     }
   ]
 }

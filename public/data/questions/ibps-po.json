@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -936,6 +936,136 @@
       ],
       "answer": 1,
       "explanation": "Under the Sovereign Gold Bond (SGB) Scheme, the maximum limit of subscription per fiscal year (April-March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for trusts and similar entities.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782744965523-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "An escalator is moving downwards at a constant speed. Amit walks down the escalator and takes 40 steps to reach the bottom. Binita runs down the same escalator and takes 60 steps to reach the bottom. If Binita's speed of walking/running is twice that of Amit, how many steps are visible on the escalator when it is stationary?",
+      "options": [
+        "100",
+        "120",
+        "150",
+        "80"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of Amit be 'a' steps per second. Since Binita's speed is twice that of Amit, Binita's speed is '2a' steps per second. Let the speed of the escalator be 'e' steps per second. Time taken by Amit = 40/a. During this time, the escalator covers e * (40/a) steps. So, total steps N = 40 + 40(e/a). Time taken by Binita = 60/(2a) = 30/a. During this time, the escalator covers e * (30/a) steps. So, total steps N = 60 + 30(e/a). Equating the two expressions for N: 40 + 40(e/a) = 60 + 30(e/a) => 10(e/a) = 20 => e/a = 2. Substituting e/a = 2 into the first equation: N = 40 + 40(2) = 120 steps."
+    },
+    {
+      "id": "ibps-po-ai-1782744965523-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A certain sum of money is invested at a rate of r% per annum simple interest for 3 years. The same sum is invested at the same rate of r% per annum compound interest (compounded annually) for 2 years. If the ratio of the simple interest earned in 3 years to the compound interest earned in 2 years is 15 : 11, find the value of r.",
+      "options": [
+        "12%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explanation": "Let the Principal be P and x = r/100. Simple Interest (SI) for 3 years = P * x * 3 = 3Px. Compound Interest (CI) for 2 years = P * [(1 + x)^2 - 1] = P * (x^2 + 2x). The ratio of SI to CI is given as 15/11. Therefore, 3Px / [P * (x^2 + 2x)] = 15/11 => 3 / (x + 2) = 15/11 => 33 = 15x + 30 => 15x = 3 => x = 3/15 = 1/5 = 0.2. Thus, r = 0.2 * 100 = 20%."
+    },
+    {
+      "id": "ibps-po-ai-1782744986050-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a family of seven members - P, Q, R, S, T, U, and V - there are two married couples. P is the mother-in-law of T. T is married to R. S is the brother of R. V is the father of S. U is the son of R, and Q is the daughter of T. How is S related to Q?",
+      "options": [
+        "Uncle",
+        "Father",
+        "Nephew",
+        "Brother-in-law"
+      ],
+      "answer": 0,
+      "explanation": "P is the mother-in-law of T, who is married to R, meaning P is R's mother. S is the brother of R, and V is the father of S (and therefore of R as well). U and Q are the children of R and T. Since S is the brother of R (Q's parent), S is the uncle of Q."
+    },
+    {
+      "id": "ibps-po-ai-1782744986050-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the statements carefully and decide which of the given conclusions logically follow(s) from the statements, disregarding commonly known facts.\n\nStatements:\n1. Only a few books are novels.\n2. All novels are stories.\n3. No story is a cartoon.\n\nConclusions:\nI. Some books are not novels.\nII. Some novels being cartoons is a possibility.\nIII. All books can never be cartoons.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All I, II and III follow"
+      ],
+      "answer": 2,
+      "explanation": "Conclusion I follows because 'Only a few books are novels' directly implies that some books are not novels. Conclusion II does not follow because all novels are stories, and no story is a cartoon, which means no novel can ever be a cartoon. Conclusion III follows because some books are novels (and hence are stories), and since no story is a cartoon, those books can never be cartoons, meaning all books can never be cartoons."
+    },
+    {
+      "id": "ibps-po-ai-1782744998710-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Complete the sentence by choosing the most appropriate pair of words:\n\nGiven the _________ nature of the global market, the board decided to adopt a _________ approach toward capital expenditure this quarter.",
+      "options": [
+        "fluctuating, reckless",
+        "volatile, conservative",
+        "robust, hesitant",
+        "precarious, lavish"
+      ],
+      "answer": 1,
+      "explanation": "The word 'volatile' means highly unstable or unpredictable, which logically prompts a 'conservative' (cautious and risk-averse) approach to capital expenditure. The other options are either contradictory or logically inconsistent in a corporate decision-making context."
+    },
+    {
+      "id": "ibps-po-ai-1782744998710-1",
+      "section": "English",
+      "topic": "Sentence Correction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the grammatically correct option to replace the bold phrase in the sentence:\n\n'No sooner had the regulatory body cleared the merger **when the shares of both companies surged** to record highs.'",
+      "options": [
+        "than the shares of both companies surged",
+        "then the shares of both companies surged",
+        "when the shares of both companies had surged",
+        "than the shares of both companies had surged"
+      ],
+      "answer": 0,
+      "explanation": "The correlative conjunction 'No sooner' must always be paired with 'than' (not 'when' or 'then'). Additionally, when 'No sooner' introduces a past event, the standard structure is 'No sooner had + subject + past participle... than + subject + simple past'. Therefore, 'than the shares of both companies surged' is correct."
+    },
+    {
+      "id": "ibps-po-ai-1782745010983-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Prompt Corrective Action (PCA) framework for NBFCs introduced by the Reserve Bank of India (RBI) which came into effect on October 1, 2022, which of the following financial parameters is NOT monitored as a key indicator for assessing the trigger points?",
+      "options": [
+        "Return on Assets (RoA)",
+        "Capital to Risk-Weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (NNPA) Ratio",
+        "Tier I Leverage Ratio"
+      ],
+      "answer": 0,
+      "explanation": "The RBI's PCA framework for NBFCs (specifically for deposit-taking and non-deposit-taking middle, upper, and top-layer NBFCs) monitors three key performance indicators: Capital (CRAR and Common Equity Tier 1), Asset Quality (Net NPA Ratio), and Leverage (Tier I Leverage Ratio). Return on Assets (RoA) is not used as a trigger indicator under this framework.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782745010983-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under Section 45ZB of the Reserve Bank of India (RBI) Act, 1934, the Monetary Policy Committee (MPC) consists of six members. Which of the following statements is correct regarding the members appointed by the Central Government?",
+      "options": [
+        "There are three government-appointed members, holding office for a term of 3 years and eligible for re-appointment.",
+        "There are three government-appointed members, holding office for a term of 4 years and not eligible for re-appointment.",
+        "There are three government-appointed members, holding office for a term of 5 years and not eligible for re-appointment.",
+        "There are two government-appointed members, holding office for a term of 4 years and eligible for re-appointment."
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI Act, 1934, the Central Government appoints three members to the MPC. These members hold office for a period of four years and are not eligible for re-appointment.",
       "status": "pending"
     }
   ]
