@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1066,6 +1066,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI Act, 1934, the Central Government appoints three members to the MPC. These members hold office for a period of four years and are not eligible for re-appointment.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782819302039-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat covers a distance of 48 km downstream in 3 hours. If the ratio of the speed of the boat in still water to the speed of the stream is 5 : 3, how much time (in hours) will the boat take to cover a distance of 32 km upstream?",
+      "options": [
+        "6 hours",
+        "8 hours",
+        "10 hours",
+        "12 hours"
+      ],
+      "answer": 1,
+      "explanation": "Downstream speed (D) = Distance / Time = 48 / 3 = 16 km/h. Let the speed of the boat in still water be 5k and the speed of the stream be 3k. Therefore, downstream speed = 5k + 3k = 8k. Since 8k = 16 km/h, we get k = 2. The speed of the boat in still water is 5 * 2 = 10 km/h, and the speed of the stream is 3 * 2 = 6 km/h. The upstream speed (U) = 10 - 6 = 4 km/h. The time taken to cover 32 km upstream is 32 / 4 = 8 hours."
+    },
+    {
+      "id": "ibps-po-ai-1782819302039-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A solid metallic cylinder of base radius 10 cm and height 18 cm is melted and recast into 'n' small solid spheres of radius 3 cm each. If 10% of the metal is wasted in the melting and recasting process, what is the value of 'n'?",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "54"
+      ],
+      "answer": 1,
+      "explanation": "The volume of the original cylinder is V = π * r^2 * h = π * 10^2 * 18 = 1800π cm³. Since 10% of the metal is wasted, the usable volume is 90% of 1800π = 1620π cm³. The volume of one small sphere of radius 3 cm is v = (4/3) * π * 3^3 = 36π cm³. The number of spheres 'n' is given by (usable volume) / (volume of one sphere) = 1620π / 36π = 45."
+    },
+    {
+      "id": "ibps-po-ai-1782819377458-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain coded language, the following symbols represent relationships:\n'P # Q' means 'P is the father of Q'\n'P + Q' means 'P is the mother of Q'\n'P - Q' means 'P is the brother of Q'\n'P % Q' means 'P is the wife of Q'\n\nIf the expression 'A + B - C % D # E' is true, how is A related to E?",
+      "options": [
+        "Maternal Grandmother",
+        "Mother-in-law",
+        "Paternal Grandmother",
+        "Aunt"
+      ],
+      "answer": 0,
+      "explanation": "From the expression 'A + B - C % D # E':\n1. 'A + B' means A is the mother of B (Female).\n2. 'B - C' means B is the brother of C (Male). Thus, A is also the mother of C.\n3. 'C % D' means C is the wife of D (Female). This makes D the husband of C.\n4. 'D # E' means D is the father of E.\nSince C is the wife of D and D is the father of E, C must be the mother of E. Since A is the mother of C, A is the mother's mother (Maternal Grandmother) of E."
+    },
+    {
+      "id": "ibps-po-ai-1782819377458-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the statements carefully and decide which of the given conclusions logically follow(s) from the statements, disregarding commonly known facts.\n\nStatements:\n1. Only a few Gliders are Parachutes.\n2. No Parachute is a Balloon.\n3. All Balloons are Hot-airs.\n\nConclusions:\nI. Some Gliders are definitely not Balloons.\nII. Some Hot-airs being Parachutes is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few Gliders are Parachutes' implies 'Some Gliders are Parachutes' and 'Some Gliders are not Parachutes'.\n2. Since some Gliders are Parachutes, and no Parachute is a Balloon, those Gliders which are Parachutes can never be Balloons. Thus, 'Some Gliders are definitely not Balloons' (Conclusion I) is definitely true.\n3. 'No Parachute is a Balloon' and 'All Balloons are Hot-airs' allows the part of Hot-airs that is not Balloons to overlap with Parachutes. Thus, 'Some Hot-airs being Parachutes is a possibility' (Conclusion II) is also true."
+    },
+    {
+      "id": "ibps-po-ai-1782819398083-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, four words have been marked in bold and labeled (A), (B), (C), and (D). Choose the option that represents the correct interchange of these words to make the sentence grammatically and contextually correct:\n\n\"The **accountability** (A) objective of the new policy is to **enhance** (B) transparency and **primary** (C) in the banking **sector** (D).\"",
+      "options": [
+        "A-C",
+        "B-D",
+        "A-B",
+        "No interchange required"
+      ],
+      "answer": 0,
+      "explanation": "The words 'accountability' and 'primary' need to be interchanged. 'Primary' is an adjective that correctly modifies the noun 'objective' ('primary objective'), and 'accountability' is a noun that fits parallelly with 'transparency' ('transparency and accountability'). Thus, exchanging A and C makes the sentence grammatically and contextually correct."
+    },
+    {
+      "id": "ibps-po-ai-1782819398083-1",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, one of the parts may contain a grammatical error. Select the part that contains the error. If the sentence is correct, select 'No error'.\n\n\"Scarcely had the new tax policy (A) / been implemented than the retail sector (B) / witnessed a sharp decline in consumer spending. (C) / No error (D)\"",
+      "options": [
+        "Scarcely had the new tax policy",
+        "been implemented than the retail sector",
+        "witnessed a sharp decline in consumer spending",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "The conjunction 'scarcely' is grammatically paired with 'when' or 'before' to introduce the second clause, whereas 'than' is strictly paired with 'no sooner'. Therefore, 'than' in part (B) must be replaced with 'when' to correct the error."
+    },
+    {
+      "id": "ibps-po-ai-1782819410998-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's (RBI) guidelines for 'on-tap' licensing of Small Finance Banks (SFBs) in the private sector, what is the minimum paid-up voting equity capital required?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "As per the RBI's 'on-tap' licensing guidelines for Small Finance Banks issued in December 2019, the minimum paid-up voting equity capital or net worth requirement was increased from the earlier ₹100 crore to ₹200 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782819410998-1",
+      "section": "General Awareness",
+      "topic": "Non-Banking Financial Companies (NBFCs)",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India (Internal Ombudsman for Non-Banking Financial Companies) Directions, 2021, which of the following categories of NBFCs is required to appoint an Internal Ombudsman?",
+      "options": [
+        "All deposit-taking NBFCs irrespective of their branch network size",
+        "Non-deposit-taking NBFCs with asset size of ₹5,000 crore and above and having public customer interface",
+        "All NBFCs registered as Infrastructure Debt Funds (IDF-NBFCs)",
+        "Systemically Important Non-Deposit taking NBFCs with asset size of ₹1,000 crore and above"
+      ],
+      "answer": 1,
+      "explanation": "The RBI directions on Internal Ombudsman for NBFCs (2021) mandate the appointment of an Internal Ombudsman for deposit-taking NBFCs with 10 or more branches, and non-deposit-taking NBFCs with an asset size of ₹5,000 crore and above that have a public customer interface.",
       "status": "pending"
     }
   ]

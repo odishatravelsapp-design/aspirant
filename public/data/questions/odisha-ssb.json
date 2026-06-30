@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1647,6 +1647,234 @@
             "1990"
           ],
           "explanation": "ରାଜସ୍ଥାନର କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ଚିଲିକା ହ୍ରଦକୁ ୧ ଅକ୍ଟୋବର ୧୯୮୧ ରେ ରାମସାର୍ ସମ୍ମିଳନୀ ଅଧୀନରେ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆଦ୍ରଭୂମି ଭାବରେ ନାମିତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819501097-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Robert Browning's famous dramatic monologue \"Childe Roland to the Dark Tower Came\" takes its title from a line in which play by William Shakespeare?",
+      "options": [
+        "Hamlet",
+        "King Lear",
+        "Macbeth",
+        "The Tempest"
+      ],
+      "answer": 1,
+      "explanation": "The title of Robert Browning's poem is derived from a line spoken by Edgar (disguised as Poor Tom) in Act III, Scene 4 of William Shakespeare's tragedy 'King Lear': \"Child Rowland to the dark tower came...\"",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ ପ୍ରସିଦ୍ଧ ନାଟକୀୟ ଏକକୋକ୍ତି (dramatic monologue) \"Childe Roland to the Dark Tower Came\" ର ଶୀର୍ଷକ ଉଇଲିୟମ ସେକ୍ସପିୟରଙ୍କ କେଉଁ ନାଟକର ଏକ ପଙ୍କ୍ତିରୁ ନିଆଯାଇଛି?",
+          "options": [
+            "ହାମଲେଟ୍ (Hamlet)",
+            "କିଙ୍ଗ୍ ଲିୟର୍ (King Lear)",
+            "ମ୍ୟାକବେଥ୍ (Macbeth)",
+            "ଦି ଟେମ୍ପେଷ୍ଟ (The Tempest)"
+          ],
+          "explanation": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ କବିତା \"Childe Roland to the Dark Tower Came\" ର ଶୀର୍ଷକ ସେକ୍ସପିୟରଙ୍କ ନାଟକ 'କିଙ୍ଗ୍ ଲିୟର୍' (Act III, Scene 4) ରେ ଏଡଗାରଙ୍କ (Poor Tom ବେଶରେ) ଦ୍ଵାରା କୁହାଯାଇଥିବା ଏକ ପଙ୍କ୍ତି \"Child Rowland to the dark tower came...\" ରୁ ଗ୍ରହଣ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819501097-1",
+      "section": "Subject Knowledge",
+      "topic": "Postcolonial Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In his influential edited volume 'Nation and Narration' (1990), Homi K. Bhabha discusses the conceptual tension between the 'pedagogical' and the 'performative' narratives of the nation. In which essay does he map out this distinction?",
+      "options": [
+        "\"Of Mimicry and Man\"",
+        "\"DissemiNation: Time, narrative and the margins of the modern nation\"",
+        "\"The Commitment to Theory\"",
+        "\"Signs Taken for Wonders\""
+      ],
+      "answer": 1,
+      "explanation": "In the essay 'DissemiNation', Homi K. Bhabha theorizes the nation's people as a double writing: they are both the historical 'pedagogical' objects of a national narrative and the 'performative' subjects of a daily process of signification.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ହୋମି କେ. ଭାଭା ତାଙ୍କର ପ୍ରଭାବଶାଳୀ ସଂପାଦିତ ପୁସ୍ତକ 'Nation and Narration' (୧୯୯୦) ରେ ରାଷ୍ଟ୍ରର ପ୍ରଦର୍ଶନକାରୀ (performative) ଏବଂ ଶିକ୍ଷାଗତ (pedagogical) ଆଖ୍ୟାନ ମଧ୍ୟରେ ଥିବା ବୈଚାରିକ ଦ୍ଵନ୍ଦ୍ଵ ବିଷୟରେ ଆଲୋଚନା କରିଛନ୍ତି। ଏହି ପୁସ୍ତକର କେଉଁ ପ୍ରବନ୍ଧରେ ସେ ଏହି ପାର୍ଥକ୍ୟର ମାନଚିତ୍ର ପ୍ରଦାନ କରିଛନ୍ତି?",
+          "options": [
+            "\"Of Mimicry and Man\"",
+            "\"DissemiNation: Time, narrative and the margins of the modern nation\"",
+            "\"The Commitment to Theory\"",
+            "\"Signs Taken for Wonders\""
+          ],
+          "explanation": "ହୋମି ଭାଭାଙ୍କ ପ୍ରବନ୍ଧ 'DissemiNation' ରେ ସେ ରାଷ୍ଟ୍ରର ଜନସାଧାରଣଙ୍କୁ ଏକ ଦ୍ଵିତୀୟ ଲିଖନ (double writing) ଭାବରେ ସିଦ୍ଧାନ୍ତ କରିଛନ୍ତି: ଯେଉଁଠାରେ ସେମାନେ ଏକାଧାରରେ ଜାତୀୟ ଆଖ୍ୟାନର ଐତିହାସିକ 'ଶିକ୍ଷାଗତ' (pedagogical) ବିଷୟବସ୍ତୁ ଏବଂ ଦୈନନ୍ଦିନ ଅର୍ଥ ପ୍ରକାଶନ ପ୍ରକ୍ରିୟାର 'ପ୍ରଦର୍ଶନକାରୀ' (performative) କର୍ତ୍ତା ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819520322-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The \"Inquiry Training Model\" of teaching, which is designed to bring students directly into the cognitive process of scientific inquiry, was developed by:",
+      "options": [
+        "Richard Suchman",
+        "Joseph Schwab",
+        "Jerome Bruner",
+        "Carl Rogers"
+      ],
+      "answer": 0,
+      "explanation": "Richard Suchman developed the Inquiry Training Model to help students analyze connection relations, establish facts, and build and test hypotheses systematically.",
+      "translations": {
+        "or": {
+          "question": "\"ଇନକ୍ଵାରୀ ଟ୍ରେନିଂ ମଡେଲ୍\" (Inquiry Training Model) ଶିକ୍ଷାଦାନ ପଦ୍ଧତି, ଯାହାକି ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ବୈଜ୍ଞାନିକ ଅନୁସନ୍ଧାନର ଜ୍ଞାନଗତ ପ୍ରକ୍ରିୟାରେ ସିଧାସଳଖ ସାମିଲ କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ କରାଯାଇଛି, ଏହା କାହା ଦ୍ୱାରା ବିକଶିତ ହୋଇଥିଲା?",
+          "options": [
+            "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ (Richard Suchman)",
+            "ଜୋସେଫ୍ ସ୍ୱାବ୍ (Joseph Schwab)",
+            "ଜେରୋମ ବ୍ରୁନର (Jerome Bruner)",
+            "କାର୍ଲ ରୋଜର୍ସ (Carl Rogers)"
+          ],
+          "explanation": "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କ ମଧ୍ୟରେ ସ୍ୱାଧୀନ ଭାବରେ ଅନୁସନ୍ଧାନ କରିବାର କ୍ଷମତା ଏବଂ ବୈଜ୍ଞାନିକ ଚିନ୍ତାଧାରାର ବିକାଶ ପାଇଁ ଇନକ୍ଵାରୀ ଟ୍ରେନିଂ ମଡେଲ୍ ବିକଶିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819520322-1",
+      "section": "Teaching Aptitude",
+      "topic": "Taxonomy of Educational Objectives",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Krathwohl's taxonomy of the affective domain, which of the following represents the highest level of internalization?",
+      "options": [
+        "Valuing",
+        "Characterization by a value or value complex",
+        "Organization",
+        "Responding"
+      ],
+      "answer": 1,
+      "explanation": "Krathwohl's affective domain taxonomy consists of five levels in hierarchical order: Receiving, Responding, Valuing, Organization, and Characterization by a value or value complex, which is the highest level.",
+      "translations": {
+        "or": {
+          "question": "କ୍ରାଥୱୋଲ୍‌ଙ୍କ (Krathwohl) ଭାବାତ୍ମକ କ୍ଷେତ୍ର (affective domain) ବର୍ଗୀକରଣରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଆଭ୍ୟନ୍ତରୀଣକରଣର ସର୍ବୋଚ୍ଚ ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ମୂଲ୍ୟବୋଧ ପ୍ରଦାନ (Valuing)",
+            "ମୂଲ୍ୟବୋଧ ବା ମୂଲ୍ୟବୋଧ ଜଟିଳତା ଦ୍ୱାରା ଚରିତ୍ର ଚିତ୍ରଣ (Characterization by a value or value complex)",
+            "ସଂଗଠନ (Organization)",
+            "ପ୍ରତିକ୍ରିୟା ପ୍ରଦର୍ଶନ (Responding)"
+          ],
+          "explanation": "କ୍ରାଥୱୋଲ୍‌ଙ୍କ ଭାବାତ୍ମକ କ୍ଷେତ୍ରର ବର୍ଗୀକରଣରେ 'ଚରିତ୍ର ଚିତ୍ରଣ' (Characterization) ହେଉଛି ସର୍ବୋଚ୍ଚ ସ୍ତର, ଯେଉଁଠାରେ ଜଣେ ବ୍ୟକ୍ତିର ମୂଲ୍ୟବୋଧ ତାଙ୍କର ଜୀବନଶୈଳୀ ଏବଂ ଆଚରଣକୁ ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ନିୟନ୍ତ୍ରିତ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819554763-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following princely states was the first to sign the Instrument of Accession to merge with the province of Odisha in November 1947?",
+      "options": [
+        "Nilgiri",
+        "Ranpur",
+        "Mayurbhanj",
+        "Kalahandi"
+      ],
+      "answer": 0,
+      "explanation": "Nilgiri was the first princely state of Odisha to be merged with the Odisha province. Following local uprisings and a breakdown of administration, the Government of India intervened and took over its administration on November 14, 1947.",
+      "translations": {
+        "or": {
+          "question": "ନଭେମ୍ବର ୧୯୪୭ ରେ ଓଡ଼ିଶା ପ୍ରଦେଶ ସହିତ ମିଶ୍ରଣ ପାଇଁ ମିଶ୍ରଣ ଚୁକ୍ତିପତ୍ର (Instrument of Accession) ସ୍ୱାକ୍ଷର କରିଥିବା ପ୍ରଥମ ଗଡ଼ଜାତ ରାଜ୍ୟ କେଉଁଟି ଥିଲା?",
+          "options": [
+            "ନୀଳଗିରି",
+            "ରଣପୁର",
+            "ମୟୂରଭଞ୍ଜ",
+            "କଳାହାଣ୍ଡି"
+          ],
+          "explanation": "ନୀଳଗିରି ଓଡ଼ିଶାର ପ୍ରଥମ ଗଡ଼ଜାତ ରାଜ୍ୟ ଥିଲା ଯାହା ଓଡ଼ିଶା ପ୍ରଦେଶ ସହିତ ମିଶିଥିଲା। ସ୍ଥାନୀୟ ବିଦ୍ରୋହ ଏବଂ ପ୍ରଶାସନିକ ବିପର୍ଯ୍ୟୟ ପରେ ଭାରତ ସରକାର ଏଥିରେ ହସ୍ତକ୍ଷେପ କରି ୧୪ ନଭେମ୍ବର ୧୯୪୭ ରେ ଏହାର ଶାସନ ଭାର ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819554763-1",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga Dynasty shifted the capital of the kingdom from Kalinganagar to Abhinaba Baranasi Kataka (modern-day Cuttack) in the early 13th century?",
+      "options": [
+        "Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimha Deva I",
+        "Bhanu Deva I"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III shifted his capital from Kalinganagar to Abhinaba Baranasi Kataka (modern Cuttack) during the early part of the 13th century (around 1230 AD) for strategic and administrative reasons.",
+      "translations": {
+        "or": {
+          "question": "ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ନିଜର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ",
+            "ନରସିଂହ ଦେବ ପ୍ରଥମ",
+            "ଭାନୁ ଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ (ପ୍ରାୟ ୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ) ସାମରିକ ଏବଂ ପ୍ରଶାସନିକ କାରଣରୁ ନିଜ ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକକୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819798525-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Urjam inscription, which is considered one of the earliest epigraphical evidences of the proto-Odia language, belongs to which Ganga dynasty ruler?",
+      "options": [
+        "Anantavarman Vajrahasta V",
+        "Chodaganga Deva",
+        "Narasimha Deva I",
+        "Bhanu Deva I"
+      ],
+      "answer": 0,
+      "explanation": "The Urjam copper-plate inscription of Ganga King Anantavarman Vajrahasta V, dating back to 1051 AD, is widely recognized as one of the earliest epigraphical records showcasing proto-Odia language elements.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରାକ୍-ଓଡ଼ିଆ ଭାଷାର ସର୍ବପ୍ରଥମ ଶିଳାଲେଖ ପ୍ରମାଣ ଭାବରେ ବିବେଚନା କରାଯାଉଥିବା 'ଉର୍ଜାମ ଶିଳାଲେଖ' କେଉଁ ଗଙ୍ଗବଂଶୀ ଶାସକଙ୍କ ସମୟର ଅଟେ?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ ବଜ୍ରହସ୍ତ (ପଞ୍ଚମ)",
+            "ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ପ୍ରଥମ ନରସିଂହ ଦେବ",
+            "ପ୍ରଥମ ଭାନୁ ଦେବ"
+          ],
+          "explanation": "୧୦୫୧ ଖ୍ରୀଷ୍ଟାବ୍ଦର ଗଙ୍ଗବଂଶୀ ରାଜା ଅନନ୍ତବର୍ମନ ବଜ୍ରହସ୍ତ (ପଞ୍ଚମ)ଙ୍କ ଉର୍ଜାମ ତାମ୍ରଫଳକ ଶିଳାଲେଖକୁ ପ୍ରାକ୍-ଓଡ଼ିଆ ଭାଷାର ପ୍ରାଥମିକ ଶିଳାଲେଖ ପ୍ରମାଣ ଭାବରେ ମାନ୍ୟତା ଦିଆଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782819798525-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following protected areas in Odisha is the only site from the state to be included in the UNESCO World Network of Biosphere Reserves (WNBR)?",
+      "options": [
+        "Bhitarkanika National Park",
+        "Similipal Biosphere Reserve",
+        "Debrigarh Wildlife Sanctuary",
+        "Satkosia Gorge Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Similipal Biosphere Reserve was added to the UNESCO World Network of Biosphere Reserves in May 2009. It is the only biosphere reserve in Odisha to have this distinction.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ସୁରକ୍ଷିତ ଅଞ୍ଚଳଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ୟୁନେସ୍କୋ (UNESCO)ର 'ୱାର୍ଲ୍ଡ ନେଟୱର୍କ ଅଫ୍ ବାୟୋସ୍ଫିୟର୍ ରିଜର୍ଭସ୍' (WNBR) ରେ ସ୍ଥାନ ପାଇଥିବା ରାଜ୍ୟର ଏକମାତ୍ର ସ୍ଥଳ ଅଟେ?",
+          "options": [
+            "ଭିତରକନିକା ଜାତୀୟ ଉଦ୍ୟାନ",
+            "ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ଦେବ୍ରୀଗଡ଼ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ସାତକୋଶିଆ ଗଣ୍ଡ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ମଇ ୨୦୦୯ ରେ ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳକୁ ୟୁନେସ୍କୋର ୱାର୍ଲ୍ଡ ନେଟୱର୍କ ଅଫ୍ ବାୟୋସ୍ଫିୟର୍ ରିଜର୍ଭସରେ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଥିଲା। ଏହି ଗୌରବ ହାସଲ କରିବାରେ ଏହା ଓଡ଼ିଶାର ଏକମାତ୍ର ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ।"
         }
       }
     }

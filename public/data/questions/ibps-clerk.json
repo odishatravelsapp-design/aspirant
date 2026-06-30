@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1281,6 +1281,136 @@
       ],
       "answer": 1,
       "explanation": "Effective from June 1, 2022, the annual premium for Pradhan Mantri Suraksha Bima Yojana (PMSBY) was revised from ₹12 to ₹20, whereas the premium for Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) was revised from ₹330 to ₹436.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782819116247-0",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The simple interest accrued on a sum of Rs. 15,000 at the end of 3 years is Rs. 7,200. What would be the compound interest accrued on the same sum at the same rate of interest in 2 years, compounded annually?",
+      "options": [
+        "Rs. 5,184",
+        "Rs. 5,264",
+        "Rs. 5,084",
+        "Rs. 5,124"
+      ],
+      "answer": 0,
+      "explanation": "Step 1: Find the rate of simple interest. \nSimple Interest (SI) = (P * R * T) / 100 \n7,200 = (15,000 * R * 3) / 100 \n7,200 = 450 * R \nR = 7,200 / 450 = 16% per annum.\n\nStep 2: Calculate the compound interest (CI) for 2 years at 16% per annum. \nCI = P * [(1 + R/100)^2 - 1] \nCI = 15,000 * [(1.16)^2 - 1] \nCI = 15,000 * [1.3456 - 1] \nCI = 15,000 * 0.3456 = Rs. 5,184."
+    },
+    {
+      "id": "ibps-clerk-ai-1782819116248-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 4 red, 5 blue, and 3 green balls. If three balls are drawn at random, what is the probability that at least two of the drawn balls are blue?",
+      "options": [
+        "3/11",
+        "4/11",
+        "5/11",
+        "6/11"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 4 (red) + 5 (blue) + 3 (green) = 12.\nTotal ways of drawing 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220.\nWe need the probability that at least two balls are blue. This can happen in two mutually exclusive ways:\nCase 1: Exactly 2 blue balls and 1 non-blue ball.\nNumber of ways = 5C2 * 7C1 = 10 * 7 = 70.\nCase 2: Exactly 3 blue balls.\nNumber of ways = 5C3 = 10.\n\nTotal favorable outcomes = 70 + 10 = 80.\nProbability = Favorable outcomes / Total outcomes = 80 / 220 = 8 / 22 = 4 / 11."
+    },
+    {
+      "id": "ibps-clerk-ai-1782819150868-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point A is 6m to the West of Point B. Point C is 10m to the North of Point B. Point D is 11m to the East of Point C. Point E is 18m to the South of Point D. Point F is 11m to the West of Point E. What is the shortest distance between Point B and Point F, and in which direction is Point F with respect to Point B?",
+      "options": [
+        "8m, South",
+        "10m, South",
+        "8m, North",
+        "12m, South-East"
+      ],
+      "answer": 0,
+      "explanation": "Let us plot the points on a coordinate plane with B as the origin (6, 0). Since A is 6m West of B, A is at (0, 0). B is at (6, 0). C is 10m North of B, so C is at (6, 10). D is 11m East of C, so D is at (17, 10). E is 18m South of D, so E is at (17, -8). F is 11m West of E, so F is at (6, -8). The distance between B (6, 0) and F (6, -8) is |0 - (-8)| = 8 meters. Since F is directly below B, F is in the South direction with respect to B."
+    },
+    {
+      "id": "ibps-clerk-ai-1782819150868-1",
+      "section": "Reasoning",
+      "topic": "Coded Direction Sense",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following statements carefully:\n'P # Q' means 'P is 8m East of Q'\n'P % Q' means 'P is 5m North of Q'\n'P @ Q' means 'P is 11m West of Q'\n'P $ Q' means 'P is 9m South of Q'\n\nIf the expression 'A # B % C @ D $ E' is true, what is the shortest distance between A and E, and in which direction is E with respect to A?",
+      "options": [
+        "5m, North-East",
+        "7m, South-West",
+        "5m, South-East",
+        "6m, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Decoding the expression step-by-step: 1) 'A # B' means A is 8m East of B. Let B be at (0,0), then A is at (8,0). 2) 'B % C' means B is 5m North of C. Thus, C is at (0, -5). 3) 'C @ D' means C is 11m West of D. Thus, D is at (11, -5). 4) 'D $ E' means D is 9m South of E. Thus, E is at (11, 4). Now, find the distance and direction of E (11, 4) with respect to A (8, 0): Horizontal distance = 11 - 8 = 3m (East). Vertical distance = 4 - 0 = 4m (North). Shortest distance = sqrt(3^2 + 4^2) = 5m. Direction of E from A is North-East."
+    },
+    {
+      "id": "ibps-clerk-ai-1782819190923-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence below, one of the parts may contain a grammatical error. Select the part that contains the error: 'The price of tomatoes have risen sharply in the domestic market due to the disruption in supply chains caused by unseasonal rains.'",
+      "options": [
+        "The price of tomatoes have risen sharply",
+        "in the domestic market due to",
+        "the disruption in supply chains",
+        "caused by unseasonal rains"
+      ],
+      "answer": 0,
+      "explanation": "The grammatical error lies in the first part. The subject of the sentence is the singular noun phrase 'The price' (not the plural 'tomatoes'), which requires the singular auxiliary verb 'has' instead of the plural 'have'. Therefore, 'have risen' should be corrected to 'has risen'."
+    },
+    {
+      "id": "ibps-clerk-ai-1782819190923-1",
+      "section": "English",
+      "topic": "Conjunctions and Inversion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blank with the grammatically correct option: '__________ had the flight taken off than the pilot realized there was a technical snag in the engine.'",
+      "options": [
+        "Hardly",
+        "No sooner",
+        "Scarcely",
+        "As soon as"
+      ],
+      "answer": 1,
+      "explanation": "'No sooner' is the correct conjunction to use here because it is always paired with 'than' in a comparative clause to indicate that one event happens immediately after another. In addition, when 'No sooner' is placed at the beginning of a sentence, it triggers subject-auxiliary inversion ('had the flight taken off'). 'Hardly' and 'Scarcely' would require 'when' or 'before' instead of 'than'."
+    },
+    {
+      "id": "ibps-clerk-ai-1782819202689-0",
+      "section": "General Awareness",
+      "topic": "Banking Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Payments Infrastructure Development Fund (PIDF) scheme, operationalized by the Reserve Bank of India to encourage deployment of payment acceptance infrastructure in tier-3 to tier-6 centers, has been extended till which of the following dates?",
+      "options": [
+        "December 31, 2024",
+        "December 31, 2025",
+        "March 31, 2026",
+        "December 31, 2026"
+      ],
+      "answer": 1,
+      "explanation": "The Reserve Bank of India (RBI) extended the term of the Payments Infrastructure Development Fund (PIDF) scheme by two years, making it valid till December 31, 2025. The scheme was originally launched in January 2021 for a period of three years till December 31, 2023.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782819202689-1",
+      "section": "General Awareness",
+      "topic": "Financial Committees",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following committees was constituted by the Reserve Bank of India (RBI) to undertake a comprehensive review of the working of Asset Reconstruction Companies (ARCs) in India?",
+      "options": [
+        "Nachiket Mor Committee",
+        "Sudarshan Sen Committee",
+        "Bimal Jalan Committee",
+        "Urjit Patel Committee"
+      ],
+      "answer": 1,
+      "explanation": "In April 2021, the RBI constituted a six-member committee headed by Sudarshan Sen, former Executive Director of the RBI, to review the legal and regulatory framework of Asset Reconstruction Companies (ARCs) and recommend measures to improve their efficacy.",
       "status": "pending"
     }
   ]

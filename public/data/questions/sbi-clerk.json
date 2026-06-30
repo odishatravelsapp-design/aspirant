@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1132,6 +1132,136 @@
       ],
       "answer": 1,
       "explanation": "In 2018, the Union Cabinet made key revisions to the Pradhan Mantri Jan Dhan Yojana (PMJDY). The overdraft limit was doubled from ₹5,000 to ₹10,000, and the upper age limit to avail of this overdraft facility was raised from 60 years to 65 years. The minimum age remains 18 years.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782819240286-0",
+      "section": "Quant",
+      "topic": "Ages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Four years ago, the ratio of A's age to B's age was 3 : 4. Eight years hence, the ratio of A's age to B's age will be 5 : 6. What is the sum of their present ages?",
+      "options": [
+        "46 years",
+        "50 years",
+        "54 years",
+        "60 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the ages of A and B four years ago be 3x and 4x respectively. Therefore, their present ages are (3x + 4) and (4x + 4). Eight years hence from now, their ages will be (3x + 12) and (4x + 12). According to the problem, (3x + 12) / (4x + 12) = 5 / 6. Solving this: 6 * (3x + 12) = 5 * (4x + 12) => 18x + 72 = 20x + 60 => 2x = 12 => x = 6. Present age of A = 3(6) + 4 = 22 years. Present age of B = 4(6) + 4 = 28 years. Sum of their present ages = 22 + 28 = 50 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1782819240286-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the length and breadth of a rectangular field is 5 : 3. A path of uniform width 2 meters runs all around the outside of the field. If the area of the path is 336 square meters, find the length of the rectangular field.",
+      "options": [
+        "40 meters",
+        "45 meters",
+        "50 meters",
+        "60 meters"
+      ],
+      "answer": 2,
+      "explanation": "Let the length and breadth of the field be 5x and 3x respectively. Inner Area = 5x * 3x = 15x^2. The path lies outside, so the outer length = 5x + 4 and outer breadth = 3x + 4. Outer Area = (5x + 4)(3x + 4) = 15x^2 + 20x + 12x + 16 = 15x^2 + 32x + 16. Area of the path = Outer Area - Inner Area = 32x + 16. Given, 32x + 16 = 336 => 32x = 320 => x = 10. Therefore, the length of the rectangular field is 5x = 5 * 10 = 50 meters."
+    },
+    {
+      "id": "sbi-clerk-ai-1782819251911-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If 'A + B' means 'A is the father of B', 'A - B' means 'A is the sister of B', 'A * B' means 'A is the brother of B', and 'A / B' means 'A is the mother of B', then which of the following expressions definitely represents that 'P is the maternal aunt of Q'?",
+      "options": [
+        "P - R * Q",
+        "P - R / Q",
+        "P / R - Q",
+        "P * R / Q"
+      ],
+      "answer": 1,
+      "explanation": "In expression 'P - R / Q': 'P - R' means P is the sister of R. 'R / Q' means R is the mother of Q. Since P is the sister of Q's mother (R), P is the maternal aunt of Q. Therefore, option B is correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1782819251911-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\n1. Only a few Blue are Green.\n2. All Green are Yellow.\n3. No Yellow is Black.\n\nConclusions:\nI. Some Blue are not Black.\nII. All Blue can be Green.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "From the statements: 1) Only a few Blue are Green means Some Blue are Green and Some Blue are not Green. 2) All Green are Yellow. 3) No Yellow is Black. Since some Blue are Green and all Green are Yellow, that intersecting part of Blue is also Yellow. Since no Yellow is Black, that intersecting part of Blue can never be Black. Hence, 'Some Blue are not Black' is definitely true (Conclusion I follows). 'Only a few Blue are Green' means some Blue are definitely not Green, so 'All Blue can be Green' is not possible (Conclusion II does not follow)."
+    },
+    {
+      "id": "sbi-clerk-ai-1782819277478-0",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rearrange the following five sentences (A), (B), (C), (D), and (E) in the proper sequence to form a meaningful paragraph, then select the correct order from the options.\n\n(A) However, the success of this digital currency will largely depend on robust cybersecurity measures.\n(B) The Reserve Bank of India (RBI) recently launched its pilot project for the central bank digital currency.\n(C) This step is widely seen as a significant milestone in India's transition toward a cashless economy.\n(D) It is also expected to lower transaction costs and improve settlement speeds.\n(E) In addition to these benefits, it aims to foster greater financial inclusion in remote areas.",
+      "options": [
+        "BCDEA",
+        "CBDEA",
+        "BCADE",
+        "EABCD"
+      ],
+      "answer": 0,
+      "explanation": "Sentence B introduces the main topic, the pilot project for the central bank digital currency (CBDC). Sentence C naturally follows B as 'This step' refers back to the launch of the project. Sentence D adds a further benefit of the project ('It is also expected to...'). Sentence E builds on D with 'In addition to these benefits...'. Finally, Sentence A acts as a concluding contrast, highlighting a potential challenge ('However, the success...'). Thus, BCDEA is the correct sequence."
+    },
+    {
+      "id": "sbi-clerk-ai-1782819277478-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, four words have been marked in bold and labeled (A), (B), (C), and (D). These words may or may not be in their correct positions. Choose the option that represents the correct exchange of words to make the sentence grammatically correct and contextually meaningful.\n\n'To **address** (A) economic growth, the government must **foster** (B) the structural bottlenecks that **hinder** (C) investment and **dampen** (D) investor confidence.'",
+      "options": [
+        "Only A-B",
+        "Only C-D",
+        "Both A-B and C-D",
+        "No exchange required"
+      ],
+      "answer": 0,
+      "explanation": "The words 'address' and 'foster' are misplaced. One does not 'address' economic growth in a context where actions must be taken to encourage it, nor does a government 'foster' (encourage/promote) structural bottlenecks (which are obstacles). Swapping A and B gives: 'To foster economic growth, the government must address the structural bottlenecks...', which is grammatically correct and contextually logical. 'Hinder' and 'dampen' are correctly placed as bottlenecks 'hinder' investment and 'dampen' confidence."
+    },
+    {
+      "id": "sbi-clerk-ai-1782819287372-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the minimum paid-up voting equity capital required for setting up a Small Finance Bank (SFB) in India?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's guidelines for 'on-tap' licensing of Small Finance Banks, the minimum paid-up voting equity capital for setting up an SFB was increased from ₹100 crore to ₹200 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782819287372-1",
+      "section": "General Awareness",
+      "topic": "Reserve Bank of India Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which Section of the Reserve Bank of India (RBI) Act, 1934, is the RBI vested with the sole right to issue bank notes in India?",
+      "options": [
+        "Section 18",
+        "Section 20",
+        "Section 22",
+        "Section 24"
+      ],
+      "answer": 2,
+      "explanation": "Section 22 of the RBI Act, 1934, gives the Reserve Bank of India the sole right to issue bank notes in India. Section 24 deals with the denominations of notes that can be issued.",
       "status": "pending"
     }
   ]

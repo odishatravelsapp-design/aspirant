@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -772,6 +772,205 @@
             "ଜଷ୍ଟିସ୍ ହରିହର ମହାପାତ୍ର"
           ],
           "explanation": "୨୬ ଜୁଲାଇ ୧୯୪୮ରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ପ୍ରତିଷ୍ଠା ହେବା ପରେ ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି ଭାବରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819427219-0",
+      "section": "Arithmetic",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In what ratio must tea worth Rs. 60 per kg be mixed with tea worth Rs. 65 per kg so that by selling the mixture at Rs. 68.20 per kg, there is a gain of 10%?",
+      "options": [
+        "3 : 2",
+        "3 : 5",
+        "4 : 3",
+        "2 : 3"
+      ],
+      "answer": 0,
+      "explanation": "First, find the Cost Price (CP) of the mixture. Selling Price (SP) = Rs. 68.20 and Gain = 10%. CP of mixture = (100 / 110) * 68.20 = Rs. 62. By the rule of alligation: (Quantity of cheaper tea) / (Quantity of dearer tea) = (CP of dearer - Mean CP) / (Mean CP - CP of cheaper) = (65 - 62) / (62 - 60) = 3 / 2. Therefore, the required ratio is 3 : 2.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରତି କିଗ୍ରା ପିଛା ୬୦ ଟଙ୍କା ମୂଲ୍ୟର ଚା’ ସହିତ ପ୍ରତି କିଗ୍ରା ପିଛା ୬୫ ଟଙ୍କା ମୂଲ୍ୟର ଚା’କୁ କେଉଁ ଅନୁପାତରେ ମିଶାଇଲେ, ମିଶ୍ରଣକୁ ପ୍ରତି କିଗ୍ରା ୬୮.୨୦ ଟଙ୍କାରେ ବିକ୍ରି କଲେ ୧୦% ଲାଭ ହେବ?",
+          "options": [
+            "3 : 2",
+            "3 : 5",
+            "4 : 3",
+            "2 : 3"
+          ],
+          "explanation": "ପ୍ରଥମେ, ମିଶ୍ରଣର କ୍ରୟ ମୂଲ୍ୟ (CP) ବାହାର କରନ୍ତୁ। ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = ୬୮.୨୦ ଟଙ୍କା ଏବଂ ଲାଭ = ୧୦%। ମିଶ୍ରଣର କ୍ରୟ ମୂଲ୍ୟ = (୧୦୦ / ୧୧୦) * ୬୮.୨୦ = ୬୨ ଟଙ୍କା। ମିଶ୍ରଣ ନିୟମ ଅନୁସାରେ: (ଶସ୍ତା ଚା'ର ପରିମାଣ) / (ଦାମୀ ଚା'ର ପରିମାଣ) = (ଦାମୀ ଚା'ର କ୍ରୟ ମୂଲ୍ୟ - ମାଧ୍ୟମ କ୍ରୟ ମୂଲ୍ୟ) / (ମାଧ୍ୟମ କ୍ରୟ ମୂଲ୍ୟ - ଶସ୍ତା ଚା'ର କ୍ରୟ ମୂଲ୍ୟ) = (୬୫ - ୬୨) / (୬୨ - ୬୦) = ୩ / ୨। ଅତଏବ, ଆବଶ୍ୟକ ଅନୁପାତ ହେଉଛି ୩ : ୨।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819427220-1",
+      "section": "Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The difference between simple interest and compound interest (compounded annually) on a certain sum of money for 3 years at 10% per annum is Rs. 93. Find the sum.",
+      "options": [
+        "Rs. 2500",
+        "Rs. 3000",
+        "Rs. 3500",
+        "Rs. 4000"
+      ],
+      "answer": 1,
+      "explanation": "The formula for the difference (D) between compound interest and simple interest for 3 years is D = P * (R/100)^2 * (3 + R/100), where P is the principal and R is the rate of interest. Given D = 93 and R = 10, we get: 93 = P * (10/100)^2 * (3 + 10/100) => 93 = P * (1/100) * (3.1) => 93 = P * 3.1 / 100 => P = (93 * 100) / 3.1 = 3000. Thus, the sum is Rs. 3000.",
+      "translations": {
+        "or": {
+          "question": "ବାର୍ଷିକ ୧୦% ହାରରେ ୩ ବର୍ଷ ପାଇଁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିମାଣର ଅର୍ଥ ଉପରେ ସରଳ ସୁଧ ଏବଂ ଚକ୍ରବୃଦ୍ଧି ସୁଧ (ବାର୍ଷିକ ହିସାବ) ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ହେଉଛି ୯୩ ଟଙ୍କା। ମୂଳଧନ କେତେ?",
+          "options": [
+            "Rs. 2500",
+            "Rs. 3000",
+            "Rs. 3500",
+            "Rs. 4000"
+          ],
+          "explanation": "୩ ବର୍ଷ ପାଇଁ ଚକ୍ରବୃଦ୍ଧି ସୁଧ ଏବଂ ସରଳ ସୁଧ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ (D) ର ସୂତ୍ର ହେଉଛି D = P * (R/100)^2 * (3 + R/100), ଯେଉଁଠାରେ P ହେଉଛି ମୂଳଧନ ଏବଂ R ହେଉଛି ସୁଧ ହାର। ପ୍ରଶ୍ନ ଅନୁସାରେ D = ୯୩ ଏବଂ R = ୧୦। ମୂଲ୍ୟ ସ୍ଥାପନ କଲେ: ୯୩ = P * (୧୦/୧୦୦)^୨ * (୩ + ୧୦/୧୦୦) => ୯୩ = P * (୧/୧୦୦) * (୩.୧) => ୯୩ = P * ୩.୧ / ୧୦୦ => P = (୯୩ * ୧୦୦) / ୩.୧ = ୩୦୦୦। ଅତଏବ, ମୂଳଧନ ହେଉଛି ୩୦୦୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819446897-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'TEMPLE' is coded as 'VHQURL'. How will 'CHURCH' be coded in that language?",
+      "options": [
+        "EKYWIO",
+        "EKYXJP",
+        "DKXVHN",
+        "FLYWJO"
+      ],
+      "answer": 0,
+      "explanation": "The pattern of coding is +2, +3, +4, +5, +6, +7 for successive letters. Applying this: C+2 = E, H+3 = K, U+4 = Y, R+5 = W, C+6 = I, H+7 = O. So, 'EKYWIO' is the correct answer.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ 'TEMPLE' କୁ 'VHQURL' ଭାବରେ କୋଡ୍ କରାଯାଏ, ତେବେ ସେହି ଭାଷାରେ 'CHURCH' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "EKYWIO",
+            "EKYXJP",
+            "DKXVHN",
+            "FLYWJO"
+          ],
+          "explanation": "କୋଡିଂର ପ୍ୟାଟର୍ନ ହେଉଛି କ୍ରମାଗତ ଅକ୍ଷରଗୁଡ଼ିକ ପାଇଁ +2, +3, +4, +5, +6, +7 | ଏହାକୁ ପ୍ରୟୋଗ କଲେ: C+2 = E, H+3 = K, U+4 = Y, R+5 = W, C+6 = I, H+7 = O | ତେଣୁ, 'EKYWIO' ହେଉଛି ସଠିକ୍ ଉତ୍ତର |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819446897-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six friends A, B, C, D, E, and F are sitting around a circular table facing the center. A is second to the left of C. B is to the immediate right of A. D is sitting opposite to B. F is not an immediate neighbor of A. Who is sitting to the immediate left of E?",
+      "options": [
+        "D",
+        "F",
+        "A",
+        "C"
+      ],
+      "answer": 0,
+      "explanation": "Arranging them around the circular table facing center: Let C be at position 1. A is second to his left (clockwise), so A is at position 3. B is to the immediate right of A (counter-clockwise), so B is at position 2. D is opposite to B, so D is at position 5. F is not a neighbor of A (positions 2 and 4), so F is at position 6. The remaining seat 4 is occupied by E. Therefore, the immediate left of E (clockwise) is D.",
+      "translations": {
+        "or": {
+          "question": "ଛଅ ଜଣ ବନ୍ଧୁ A, B, C, D, E, ଏବଂ F କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ଏକ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ ବସିଛନ୍ତି। A, C ର ବାମ ପାର୍ଶ୍ୱରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। B, A ର ତୁରନ୍ତ ଡାହାଣ ପାର୍ଶ୍ୱରେ ଅଛନ୍ତି। D, B ର ବିପରୀତ ଦିଗରେ ବସିଛନ୍ତି। F, A ର ତୁରନ୍ତ ପଡ଼ୋଶୀ ନୁହଁନ୍ତି। E ର ତୁରନ୍ତ ବାମ ପାର୍ଶ୍ୱରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "D",
+            "F",
+            "A",
+            "C"
+          ],
+          "explanation": "ସେମାନଙ୍କୁ କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ ସଜାଇଲେ: ମନେକରନ୍ତୁ C ସ୍ଥାନ 1 ରେ ଅଛି | A ତାଙ୍କ ବାମ ପାର୍ଶ୍ୱରେ ଦ୍ୱିତୀୟ (ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ), ତେଣୁ A ସ୍ଥାନ 3 ରେ ଅଛି | B, A ର ତୁରନ୍ତ ଡାହାଣରେ ଅଛି (ଘଣ୍ଟା କଣ୍ଟାର ବିପରୀତ ଦିଗରେ), ତେଣୁ B ସ୍ଥାନ 2 ରେ ଅଛି | D, B ର ବିପରୀତରେ ଅଛି, ତେଣୁ D ସ୍ଥାନ 5 ରେ ଅଛି | F, A ର ପଡ଼ୋଶୀ ନୁହଁନ୍ତି (ସ୍ଥାନ 2 ଏବଂ 4), ତେଣୁ F ସ୍ଥାନ 6 ରେ ଅଛି | ଅବଶିଷ୍ଟ ସ୍ଥାନ 4 ରେ E ବସିବ | ତେଣୁ, E ର ତୁରନ୍ତ ବାମ ପାର୍ଶ୍ୱରେ (ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ) D ଅଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819458579-0",
+      "section": "General Knowledge",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous Duduma Waterfall in Odisha is formed by which of the following rivers?",
+      "options": [
+        "Mahanadi",
+        "Machhkund",
+        "Baitarani",
+        "Budhabalanga"
+      ],
+      "answer": 1,
+      "explanation": "The Duduma Waterfall, also known as Matsya Tirtha, is formed by the Machhkund River. It is located on the boundary of Koraput district in Odisha and Visakhapatnam district in Andhra Pradesh.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ପ୍ରସିଦ୍ଧ ଦୁଦୁମା ଜଳପ୍ରପାତ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି?",
+          "options": [
+            "ମହାନଦୀ",
+            "ମାଛକୁଣ୍ଡ",
+            "ବୈତରଣୀ",
+            "ବୁଢ଼ାବଳଙ୍ଗ"
+          ],
+          "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ, ଯାହା ମତ୍ସ୍ୟ ତୀର୍ଥ ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା, ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି। ଏହା ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲା ଏବଂ ଆନ୍ଧ୍ରପ୍ରଦେଶର ବିଶାଖାପାଟଣା ଜିଲ୍ଲା ସୀମାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819458579-1",
+      "section": "General Knowledge",
+      "topic": "History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was appointed as the first Prime Minister (Premier) of the Odisha Province after its creation in 1936?",
+      "options": [
+        "Biswanath Das",
+        "Maharaja Krushna Chandra Gajapati",
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 1,
+      "explanation": "Following the creation of Odisha as a separate province on April 1, 1936, Maharaja Krushna Chandra Gajapati of Parlakhemundi became the first Prime Minister (Premier) of Odisha on April 1, 1937.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହାରେ ଓଡ଼ିଶା ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଗଠନ ହେବା ପରେ କିଏ ଏହାର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ଭାବରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ?",
+          "options": [
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "୧୯୩୬ ମସିହା ଅପ୍ରେଲ ୧ ରେ ଓଡ଼ିଶା ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଭାବରେ ଗଠନ ହେବା ପରେ, ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ୧୯୩୭ ଅପ୍ରେଲ ୧ ରେ ଓଡ଼ିଶାର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782819472193-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the last independent ruler of the medieval kingdom of Odisha?",
+      "options": [
+        "Mukunda Deva",
+        "Prataparudra Deva",
+        "Kapilendra Deva",
+        "Govinda Vidyadhara"
+      ],
+      "answer": 0,
+      "explanation": "Gajapati Mukunda Deva (Mukunda Harichandan) was the last independent Hindu ruler of medieval Odisha. He ruled until 1568, when Odisha was defeated and occupied by the Bengal Sultanate under Suleiman Karrani's general, Kalapahad.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶା ସାମ୍ରାଜ୍ୟର ଶେଷ ସ୍ୱାଧୀନ ଶାସକ ଥିଲେ?",
+          "options": [
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
+          ],
+          "explanation": "ଗଜପତି ମୁକୁନ୍ଦ ଦେବ (ମୁକୁନ୍ଦ ହରିଚନ୍ଦନ) ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ ଥିଲେ। ସେ ୧୫୬୮ ମସିହା ପର୍ଯ୍ୟନ୍ତ ଶାସନ କରିଥିଲେ, ଯେତେବେଳେ ସୁଲେମାନ କରାନିଙ୍କ ସେନାପତି କଳାପାହାଡ଼ଙ୍କ ନେତୃତ୍ୱରେ ବଙ୍ଗଳା ସୁଲତାନଙ୍କ ଦ୍ୱାରା ଓଡ଼ିଶା ପରାଜିତ ଓ ଅଧିକୃତ ହୋଇଥିଲା।"
         }
       }
     }
