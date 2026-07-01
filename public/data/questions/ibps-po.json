@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1196,6 +1196,40 @@
       ],
       "answer": 1,
       "explanation": "The RBI directions on Internal Ombudsman for NBFCs (2021) mandate the appointment of an Internal Ombudsman for deposit-taking NBFCs with 10 or more branches, and non-deposit-taking NBFCs with an asset size of ₹5,000 crore and above that have a public customer interface.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782908057940-0",
+      "section": "General Awareness",
+      "topic": "Banking Current Affairs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In December 2023, the Reserve Bank of India (RBI) enhanced the transaction limit for Unified Payments Interface (UPI) payments to hospitals and educational institutions to what amount?",
+      "options": [
+        "₹2 Lakh per transaction",
+        "₹3 Lakh per transaction",
+        "₹5 Lakh per transaction",
+        "₹10 Lakh per transaction"
+      ],
+      "answer": 2,
+      "explanation": "In its December 2023 Monetary Policy Committee (MPC) meeting, the Reserve Bank of India announced an increase in the UPI transaction limit for payments to hospitals and educational institutions from ₹1 Lakh to ₹5 Lakh per transaction.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782908057940-1",
+      "section": "General Awareness",
+      "topic": "Money Market Instruments",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the updated Reserve Bank of India (RBI) guidelines, what is the minimum denomination in which a Certificate of Deposit (CD) can be issued, and what is its minimum maturity period when issued by a scheduled commercial bank?",
+      "options": [
+        "₹1 Lakh and 15 days",
+        "₹5 Lakh and 7 days",
+        "₹5 Lakh and 15 days",
+        "₹10 Lakh and 7 days"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI Master Direction on Money Market Instruments, Certificates of Deposit (CDs) must be issued in a minimum denomination of ₹5 Lakh and in multiples of ₹5 Lakh thereafter. The maturity period of CDs issued by banks must not be less than 7 days and not more than 1 year.",
       "status": "pending"
     }
   ]

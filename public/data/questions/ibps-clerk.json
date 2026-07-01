@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1412,6 +1412,102 @@
       "answer": 1,
       "explanation": "In April 2021, the RBI constituted a six-member committee headed by Sudarshan Sen, former Executive Director of the RBI, to review the legal and regulatory framework of Asset Reconstruction Companies (ARCs) and recommend measures to improve their efficacy.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782906557032-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B started a business with investments in the ratio of 3 : 5. After 6 months, B withdrew 1/5 of his investment. If the total annual profit was Rs. 12,000, what is B's share in the profit?",
+      "options": [
+        "Rs. 4,800",
+        "Rs. 7,200",
+        "Rs. 6,000",
+        "Rs. 6,400"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial investments of A and B be 3x and 5x respectively. For A, the investment remains 3x for 12 months. Equivalent investment for A = 3x * 12 = 36x. For B, the investment is 5x for the first 6 months. Then, B withdraws 1/5 of 5x (which is x), leaving 4x for the next 6 months. Equivalent investment for B = (5x * 6) + (4x * 6) = 30x + 24x = 54x. Ratio of profit sharing between A and B = 36x : 54x = 2 : 3. B's share in the profit = (3/5) * 12,000 = Rs. 7,200."
+    },
+    {
+      "id": "ibps-clerk-ai-1782906557032-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a piece of work individually in 12, 15, and 20 days respectively. They all start working together, but A leaves after 3 days, and B leaves 1 day before the completion of the work. In how many days was the total work completed?",
+      "options": [
+        "6 days",
+        "7 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the total work be the LCM of 12, 15, and 20, which is 60 units. The daily efficiencies of A, B, and C are 5, 4, and 3 units respectively. In the first 3 days, all three work together, completing (5 + 4 + 3) * 3 = 36 units of work. The remaining work is 60 - 36 = 24 units. Let the remaining work be completed in 't' days. Since B leaves 1 day before completion, B works for (t - 1) days and C works for 't' days. Thus, 4*(t - 1) + 3*t = 24 => 7t - 4 = 24 => 7t = 28 => t = 4 days. The total time to complete the work is 3 + 4 = 7 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1782906589616-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If 'P + Q' means 'P is the husband of Q', 'P - Q' means 'P is the sister of Q', 'P * Q' means 'P is the son of Q', and 'P / Q' means 'P is the mother of Q', then in the expression 'A * B / C - D + E', how is A related to E?",
+      "options": [
+        "Brother",
+        "Brother-in-law",
+        "Nephew",
+        "Father-in-law"
+      ],
+      "answer": 1,
+      "explanation": "Let's decode the expression 'A * B / C - D + E' step-by-step from right to left:\n1. 'D + E' means D is the husband of E (D is male, E is female).\n2. 'C - D' means C is the sister of D (C is female).\n3. 'B / C' means B is the mother of C. Since C and D are siblings, B is also the mother of D.\n4. 'A * B' means A is the son of B. Since B is the mother of A, C, and D, A is the brother of C and D.\n\nSince D is E's husband and A is D's brother, A is the brother-in-law of E."
+    },
+    {
+      "id": "ibps-clerk-ai-1782906589616-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by three conclusions. Take the given statements to be true even if they seem to be at variance from commonly known facts and decide which of the given conclusions logically follow(s).\n\nStatements:\n1. Only a few Cups are Buckets.\n2. All Buckets are Tubs.\n3. No Tub is a Mug.\n\nConclusions:\nI. Some Cups are not Tubs.\nII. No Bucket is a Mug.\nIII. Some Cups are Tubs.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only III follows",
+        "None of the conclusions follow"
+      ],
+      "answer": 1,
+      "explanation": "Let's analyze each conclusion:\n- For I: 'Only a few Cups are Buckets' means 'Some Cups are Buckets' and 'Some Cups are not Buckets'. This does not mean 'Some Cups are not Tubs' must be true. We can draw a possibility where all Cups are inside Tubs. Thus, Conclusion I does not definitely follow.\n- For II: All Buckets are Tubs, and No Tub is a Mug. Since the entire set of Buckets lies inside Tubs, and Tubs cannot overlap with Mugs, Buckets can never overlap with Mugs either. Thus, 'No Bucket is a Mug' is definitely true and follows.\n- For III: Since 'Some Cups are Buckets' (from 'only a few') and 'All Buckets are Tubs', the common part of Cups and Buckets must also be inside Tubs. Thus, 'Some Cups are Tubs' is definitely true and follows.\nTherefore, only II and III follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1782906624070-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The management decided to ________ the union's demands in order to avoid a prolonged strike, despite knowing it would severely affect the company's long-term budget.",
+      "options": [
+        "cave in to",
+        "stand up for",
+        "hold out against",
+        "back out of"
+      ],
+      "answer": 0,
+      "explanation": "The phrasal verb 'cave in to' means to yield or submit under pressure. In this context, the management yielded to the union's demands to avoid a strike, even though it had negative budgetary consequences."
+    },
+    {
+      "id": "ibps-clerk-ai-1782906624070-1",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the connector from the options that can be used to link the two sentences given below into a single, coherent sentence without altering their meaning.\n\nI. The government implemented strict environmental regulations on local manufacturing industries.\nII. Several small-scale factories had to shut down due to high compliance costs.",
+      "options": [
+        "Nevertheless",
+        "As a consequence of which",
+        "Provided that",
+        "Although"
+      ],
+      "answer": 1,
+      "explanation": "'As a consequence of which' establishes a clear cause-and-effect relationship between the implementation of regulations (cause) and the closure of factories (effect). The other connectors fail to establish this logical connection."
     }
   ]
 }

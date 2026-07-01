@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1263,6 +1263,38 @@
       "answer": 2,
       "explanation": "Section 22 of the RBI Act, 1934, gives the Reserve Bank of India the sole right to issue bank notes in India. Section 24 deals with the denominations of notes that can be issued.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782906779597-0",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A sum of money is invested at Simple Interest for 3 years at 10% per annum, and another equal sum is invested at Compound Interest (compounded annually) for 2 years at 10% per annum. If the difference between the interests earned from both investments is Rs. 180, what is the sum invested in each?",
+      "options": [
+        "Rs. 1,800",
+        "Rs. 2,000",
+        "Rs. 2,400",
+        "Rs. 2,500"
+      ],
+      "answer": 1,
+      "explanation": "Let the sum invested in each case be P. Simple Interest (SI) for 3 years at 10% p.a. = (P * 10 * 3) / 100 = 0.30P. Compound Interest (CI) for 2 years at 10% p.a. = P * [(1 + 10/100)^2 - 1] = P * [1.21 - 1] = 0.21P. Given, SI - CI = Rs. 180. Therefore, 0.30P - 0.21P = 180 => 0.09P = 180 => P = 180 / 0.09 = Rs. 2,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1782906779597-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A train running at a speed of 72 km/h crosses a platform in 30 seconds. If the same train crosses a man running at 12 km/h in the same direction as the train in 18 seconds, what is the length of the platform?",
+      "options": [
+        "250 meters",
+        "300 meters",
+        "350 meters",
+        "400 meters"
+      ],
+      "answer": 1,
+      "explanation": "Speed of the train = 72 km/h = 72 * (5/18) = 20 m/s. Speed of the man = 12 km/h = 12 * (5/18) = 10/3 m/s. Since they are running in the same direction, relative speed = 20 - 10/3 = 50/3 m/s. The train crosses the man in 18 seconds, so length of the train (T) = relative speed * time = (50/3) * 18 = 300 meters. Let the length of the platform be L. The train crosses the platform in 30 seconds, so (T + L) / speed of train = 30 => (300 + L) / 20 = 30 => 300 + L = 600 => L = 300 meters."
     }
   ]
 }
