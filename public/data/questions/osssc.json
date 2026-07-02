@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -971,6 +971,178 @@
             "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
           ],
           "explanation": "ଗଜପତି ମୁକୁନ୍ଦ ଦେବ (ମୁକୁନ୍ଦ ହରିଚନ୍ଦନ) ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ ଥିଲେ। ସେ ୧୫୬୮ ମସିହା ପର୍ଯ୍ୟନ୍ତ ଶାସନ କରିଥିଲେ, ଯେତେବେଳେ ସୁଲେମାନ କରାନିଙ୍କ ସେନାପତି କଳାପାହାଡ଼ଙ୍କ ନେତୃତ୍ୱରେ ବଙ୍ଗଳା ସୁଲତାନଙ୍କ ଦ୍ୱାରା ଓଡ଼ିଶା ପରାଜିତ ଓ ଅଧିକୃତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782988308838-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the next number in the given series: 4, 11, 30, 67, 128, ?",
+      "options": [
+        "198",
+        "219",
+        "222",
+        "245"
+      ],
+      "answer": 1,
+      "explanation": "The series follows the pattern of n^3 + 3, where n starts from 1. 1^3 + 3 = 4, 2^3 + 3 = 11, 3^3 + 3 = 30, 4^3 + 3 = 67, 5^3 + 3 = 128. Therefore, the next term will be 6^3 + 3 = 216 + 3 = 219.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଶୃଙ୍ଖଳାରେ ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି କ’ଣ ହେବ ସ୍ଥିର କରନ୍ତୁ: 4, 11, 30, 67, 128, ?",
+          "options": [
+            "198",
+            "219",
+            "222",
+            "245"
+          ],
+          "explanation": "ଏହି ଶୃଙ୍ଖଳାଟି n^3 + 3 ର ନିୟମ ଅନୁସରଣ କରୁଛି, ଯେଉଁଠାରେ n ର ମୂଲ୍ୟ 1 ରୁ ଆରମ୍ଭ ହେଉଛି। 1^3 + 3 = 4, 2^3 + 3 = 11, 3^3 + 3 = 30, 4^3 + 3 = 67, 5^3 + 3 = 128। ତେଣୁ, ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ହେବ 6^3 + 3 = 216 + 3 = 219।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782988308839-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language, 'ROSE' is coded as '228' and 'TULIP' is coded as '390'. How will 'LOTUS' be coded in that language?",
+      "options": [
+        "385",
+        "415",
+        "435",
+        "455"
+      ],
+      "answer": 2,
+      "explanation": "The logic used is: (Sum of the positional values of the alphabets) * (Number of letters in the word). For ROSE: (18 + 15 + 19 + 5) * 4 = 57 * 4 = 228. For TULIP: (20 + 21 + 12 + 9 + 16) * 5 = 78 * 5 = 390. Similarly, for LOTUS: (12 + 15 + 20 + 21 + 19) * 5 = 87 * 5 = 435.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'ROSE' କୁ '228' ଏବଂ 'TULIP' କୁ '390' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି ଭାଷାରେ 'LOTUS' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "385",
+            "415",
+            "435",
+            "455"
+          ],
+          "explanation": "ଏଠାରେ ବ୍ୟବହୃତ ଯୁକ୍ତି ହେଉଛି: (ଅକ୍ଷରଗୁଡ଼ିକର ସ୍ଥାନୀୟ ମାନର ସମଷ୍ଟି) * (ଶବ୍ଦରେ ଥିବା ମୋଟ ଅକ୍ଷର ସଂଖ୍ୟା)। ROSE ପାଇଁ: (18 + 15 + 19 + 5) * 4 = 57 * 4 = 228। TULIP ପାଇଁ: (20 + 21 + 12 + 9 + 16) * 5 = 78 * 5 = 390। ସେହିପରି, LOTUS ପାଇଁ: (12 + 15 + 20 + 21 + 19) * 5 = 87 * 5 = 435।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782988320113-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first woman member to be elected to the Odisha Legislative Assembly in 1937?",
+      "options": [
+        "Sarala Devi",
+        "Rama Devi",
+        "Malati Choudhury",
+        "A. Laxmibai"
+      ],
+      "answer": 0,
+      "explanation": "Sarala Devi was the first woman elected to the Odisha Legislative Assembly in 1937, representing the Patkura constituency.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ମସିହାରେ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ସଦସ୍ୟ କିଏ ଥିଲେ?",
+          "options": [
+            "ସରଳା ଦେବୀ",
+            "ରମା ଦେବୀ",
+            "ମାଳତୀ ଚୌଧୁରୀ",
+            "ଏ. ଲକ୍ଷ୍ମୀବାଈ"
+          ],
+          "explanation": "ସରଳା ଦେବୀ ୧୯୩୭ ମସିହାରେ ପାଟକୁରା ନିର୍ବାଚନ ମଣ୍ଡଳୀରୁ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782988320113-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following famous hot springs of Odisha is located in the Nayagarh district?",
+      "options": [
+        "Taptapani",
+        "Deulajhari",
+        "Atri",
+        "Tarabalo"
+      ],
+      "answer": 3,
+      "explanation": "Tarabalo hot spring is located in the Nayagarh district of Odisha. Atri is in Khordha, Taptapani is in Ganjam, and Deulajhari is in Angul district.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ପ୍ରସିଦ୍ଧ ଉଷ୍ଣପ୍ରସ୍ରବଣଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ନୟାଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ତପ୍ତପାଣି",
+            "ଦେଉଳଝରି",
+            "ଅଟ୍ରି",
+            "ତରବାଲୋ"
+          ],
+          "explanation": "ତରବାଲୋ ଉଷ୍ଣପ୍ରସ୍ରବଣ ଓଡ଼ିଶାର ନୟାଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଅଟ୍ରି ଖୋର୍ଦ୍ଧାରେ, ତପ୍ତପାଣି ଗଞ୍ଜାମରେ ଏବଂ ଦେଉଳଝରି ଅନୁଗୋଳ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782988335646-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following wildlife sanctuaries in Odisha is also known as 'Ushakothi Wildlife Sanctuary'?",
+      "options": [
+        "Badrama Wildlife Sanctuary",
+        "Hadagarh Wildlife Sanctuary",
+        "Khalasuni Wildlife Sanctuary",
+        "Kotagarh Wildlife Sanctuary"
+      ],
+      "answer": 0,
+      "explanation": "The Badrama Wildlife Sanctuary, located in the Sambalpur district of Odisha, is also popularly known as the Ushakothi Wildlife Sanctuary. It was established in 1962.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ 'ଉଷାକୋଠି ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ' ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା?",
+          "options": [
+            "ବଦ୍ରାମା ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+            "ହଦଗଡ଼ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+            "ଖଲାସୁଣୀ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+            "କୋଟଗଡ଼ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ସମ୍ବଲପୁର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ବଦ୍ରାମା ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟକୁ ସାଧାରଣତଃ ଉଷାକୋଠି ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ ଭାବରେ ମଧ୍ୟ ଜଣାଯାଏ। ଏହା ୧୯୬୨ ମସିହାରେ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1782988335646-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Union Conference' (Utkal Sammilani) established under the leadership of Madhusudan Das?",
+      "options": [
+        "1901",
+        "1903",
+        "1905",
+        "1912"
+      ],
+      "answer": 1,
+      "explanation": "The Utkal Sammilani (Utkal Union Conference) was founded by Madhusudan Das in December 1903 to campaign for the unification of Odia-speaking territories into a separate province.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମଧୁସୂଦନ ଦାସଙ୍କ ନେତୃତ୍ୱରେ କେଉଁ ବର୍ଷ 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୯୦୧",
+            "୧୯୦୩",
+            "୧୯୦୫",
+            "୧୯୧୨"
+          ],
+          "explanation": "ଓଡ଼ିଆ ଭାଷାଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକର ଏକତ୍ରୀକରଣ ଏବଂ ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଗଠନ ଦାବିରେ ଡିସେମ୍ବର ୧୯୦୩ ମସିହାରେ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
         }
       }
     }

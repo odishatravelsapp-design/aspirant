@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1295,6 +1295,136 @@
       ],
       "answer": 1,
       "explanation": "Speed of the train = 72 km/h = 72 * (5/18) = 20 m/s. Speed of the man = 12 km/h = 12 * (5/18) = 10/3 m/s. Since they are running in the same direction, relative speed = 20 - 10/3 = 50/3 m/s. The train crosses the man in 18 seconds, so length of the train (T) = relative speed * time = (50/3) * 18 = 300 meters. Let the length of the platform be L. The train crosses the platform in 30 seconds, so (T + L) / speed of train = 30 => (300 + L) / 20 = 30 => 300 + L = 600 => L = 300 meters."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987880043-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A is 40% more efficient than B. Working together, they can complete a certain work in 15 days. If A works alone for 10 days and then leaves, in how many days can B complete the remaining work alone?",
+      "options": [
+        "20 days",
+        "22 days",
+        "25 days",
+        "18 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the efficiency of B be 5 units/day. Since A is 40% more efficient than B, the efficiency of A is 5 * 1.4 = 7 units/day.\nTogether, their efficiency is 7 + 5 = 12 units/day.\nTotal work = 12 * 15 = 180 units.\nIn 10 days, A completes = 7 * 10 = 70 units of work.\nRemaining work = 180 - 70 = 110 units.\nTime taken by B to complete the remaining work = 110 / 5 = 22 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987880043-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "An urn contains 5 red, 4 black, and 3 yellow balls. If three balls are drawn at random, what is the probability that at least two of the drawn balls are yellow?",
+      "options": [
+        "7/55",
+        "9/55",
+        "13/110",
+        "3/22"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 5 + 4 + 3 = 12.\nTotal number of ways to draw 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220.\nWe want 'at least two yellow balls'. This means we can have either exactly 2 yellow balls or exactly 3 yellow balls.\nCase 1: Exactly 2 yellow balls and 1 non-yellow ball.\nWays = 3C2 * 9C1 = 3 * 9 = 27.\nCase 2: Exactly 3 yellow balls.\nWays = 3C3 = 1.\nTotal favorable outcomes = 27 + 1 = 28.\nRequired Probability = 28 / 220 = 7 / 55."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987892701-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Raman starts walking from his home towards the North. After walking 10 meters, he turns left and walks 15 meters. Then, he turns right and walks 8 meters. Finally, he turns right again and walks 15 meters to reach his office. How far and in which direction is his office from his home?",
+      "options": [
+        "18 meters, North",
+        "18 meters, South",
+        "8 meters, North",
+        "28 meters, North"
+      ],
+      "answer": 0,
+      "explanation": "Starting from (0,0), walking 10m North reaches (0,10). Turning left and walking 15m reaches (-15,10). Turning right (North) and walking 8m reaches (-15,18). Turning right (East) and walking 15m reaches (0,18). The final position is 18 meters North of the starting point."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987892701-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Directions: In the following question, some statements are given followed by two conclusions. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\n1. Only a few markers are pens.\n2. Some pens are erasers.\n3. No eraser is a pencil.\n\nConclusions:\nI. Some markers are not pens.\nII. All pens can never be pencils.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 ('Only a few markers are pens') implies that both 'Some markers are pens' and 'Some markers are not pens' are definitely true. Hence, Conclusion I follows. Statement 2 and 3 state 'Some pens are erasers' and 'No eraser is a pencil'. This means the part of pens that overlap with erasers can never be pencils, meaning 'All pens can never be pencils' is also true. Thus, both conclusions follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987909962-0",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the word that is most opposite in meaning to the word 'OBDURATE'.",
+      "options": [
+        "Flexible",
+        "Adamant",
+        "Obnoxious",
+        "Callous"
+      ],
+      "answer": 0,
+      "explanation": "'Obdurate' means stubbornly refusing to change one's opinion or course of action. 'Flexible' means ready and able to change so as to adapt to different circumstances, making it the exact antonym. 'Adamant' is a synonym, 'Callous' means insensitive/cruel, and 'Obnoxious' means extremely unpleasant."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987909962-1",
+      "section": "English",
+      "topic": "Grammar",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the grammatically correct sentence from the options given below.",
+      "options": [
+        "Scarcely had the match started when it began to rain heavily.",
+        "Scarcely had the match started than it began to rain heavily.",
+        "Scarcely did the match started when it began to rain heavily.",
+        "Scarcely the match had started then it began to rain heavily."
+      ],
+      "answer": 0,
+      "explanation": "When starting a sentence with negative/restrictive adverbs like 'scarcely', 'hardly', or 'barely', we must use subject-verb inversion (e.g., 'had the match started'). Additionally, 'scarcely' is grammatically paired with 'when' to connect the clauses, unlike 'no sooner' which is paired with 'than'."
+    },
+    {
+      "id": "sbi-clerk-ai-1782987917573-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Prompt Corrective Action (PCA) Framework for NBFCs issued by the Reserve Bank of India (RBI), which of the following financial indicators is NOT monitored as a primary metric to assess the financial health of the NBFC?",
+      "options": [
+        "Capital to Risk Weighted Assets Ratio (CRAR)",
+        "Tier I Capital Ratio",
+        "Net Non-Performing Assets (Net NPA) ratio",
+        "Credit-to-Deposit Ratio (CD Ratio)"
+      ],
+      "answer": 3,
+      "explanation": "Under the PCA Framework for NBFCs introduced by the RBI, the three primary parameters monitored are CRAR, Tier I Capital Ratio, and Net NPA Ratio. Credit-to-Deposit Ratio is a banking metric and is not used as a primary indicator under the NBFC PCA framework.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1782987917573-1",
+      "section": "General Awareness",
+      "topic": "Static Banking GK",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was the Imperial Bank of India nationalized and transformed into the State Bank of India (SBI) under the State Bank of India Act?",
+      "options": [
+        "1949",
+        "1955",
+        "1959",
+        "1969"
+      ],
+      "answer": 1,
+      "explanation": "The State Bank of India was constituted on July 1, 1955, under the State Bank of India Act, 1955, to take over the undertaking of the Imperial Bank of India.",
+      "status": "pending"
     }
   ]
 }

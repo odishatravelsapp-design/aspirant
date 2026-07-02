@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1243,6 +1243,232 @@
             "ଘାଘରା, ଗଣ୍ଡକ, ଯମୁନା, କୋଶୀ"
           ],
           "explanation": "ପଶ୍ଚିମରୁ ପୂର୍ବ ଆଡ଼କୁ ଗଙ୍ଗା ନଦୀର ପ୍ରମୁଖ ଉପନଦୀଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମ ହେଉଛି ଯମୁନା, ଘାଘରା, ଗଣ୍ଡକ ଏବଂ କୋଶୀ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988632687-0",
+      "section": "Teaching Aptitude",
+      "topic": "Methods of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who is credited with formulating the \"Project Method\" of teaching, which is based on the pragmatic philosophy of John Dewey?",
+      "options": [
+        "William Heard Kilpatrick",
+        "Friedrich Froebel",
+        "Maria Montessori",
+        "Johann Heinrich Pestalozzi"
+      ],
+      "answer": 0,
+      "explanation": "William Heard Kilpatrick developed the Project Method of teaching, which is heavily influenced by John Dewey's pragmatic philosophy of 'learning by doing' and focusing on purposeful activities in a social context.",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ଡିଉଇଙ୍କ ପ୍ରାଗ୍‌ମାଟିକ୍ (ପ୍ରୟୋଗବାଦୀ) ଦର୍ଶନ ଉପରେ ଆଧାରିତ ଶିକ୍ଷାଦାନର \"ପ୍ରକଳ୍ପ ପଦ୍ଧତି\" (Project Method) ପ୍ରଣୟନ କରିବାର ଶ୍ରେୟ କାହାକୁ ଦିଆଯାଏ?",
+          "options": [
+            "ୱିଲିୟମ୍ ହାର୍ଡ କିଲପାଟ୍ରିକ୍",
+            "ଫ୍ରେଡ୍ରିକ୍ ଫ୍ରୋବେଲ୍",
+            "ମାରିଆ ମଣ୍ଟେସୋରୀ",
+            "ଜୋହାନ ହେନ୍ରିକ୍ ପେଷ୍ଟାଲୋଜି"
+          ],
+          "explanation": "ୱିଲିୟମ୍ ହାର୍ଡ କିଲପାଟ୍ରିକ୍, ଜନ୍ ଡିଉଇଙ୍କ ପ୍ରୟୋଗବାଦୀ ଦର୍ଶନ ଦ୍ୱାରା ପ୍ରଭାବିତ ହୋଇ ଶିକ୍ଷାଦାନର 'ପ୍ରକଳ୍ପ ପଦ୍ଧତି' ବିକଶିତ କରିଥିଲେ, ଯେଉଁଥିରେ ବାସ୍ତବ ଜୀବନର ସମସ୍ୟା ଗୁଡ଼ିକୁ ପ୍ରକଳ୍ପ ମାଧ୍ୟମରେ ସମାଧାନ କରିବା ଉପରେ ଗୁରୁତ୍ୱ ଦିଆଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988632687-1",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Jacob Kounin's classroom management theory, the teacher's ability to remain aware of what is happening in all parts of the classroom at all times is referred to as:",
+      "options": [
+        "Overlapping",
+        "Withitness",
+        "Momentum",
+        "Ripple Effect"
+      ],
+      "answer": 1,
+      "explanation": "Jacob Kounin coined the term 'Withitness' to describe a teacher's ability to know what is going on in all areas of the classroom at all times, colloquially referred to as having 'eyes in the back of one's head'.",
+      "translations": {
+        "or": {
+          "question": "ଜାକବ୍ କୌନିନ୍‌ଙ୍କ ଶ୍ରେଣୀଗୃହ ପରିଚାଳନା ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଶ୍ରେଣୀଗୃହର ସମସ୍ତ ଭାଗରେ ସବୁ ସମୟରେ କ’ଣ ଚାଲିଛି ସେ ବିଷୟରେ ସଚେତନ ରହିବାର ଶିକ୍ଷକଙ୍କ ଦକ୍ଷତାକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "ଓଭରଲ୍ୟାପିଙ୍ଗ୍ (Overlapping)",
+            "ୱିଥ୍‌ଇଟ୍‌ନେସ୍ (Withitness)",
+            "ମୋମେଣ୍ଟମ୍ (Momentum)",
+            "ରିପଲ୍ ଇଫେକ୍ଟ (Ripple Effect)"
+          ],
+          "explanation": "ଜାକବ୍ କୌନିନ୍‌ଙ୍କ ମତରେ, 'ୱିଥ୍‌ଇଟ୍‌ନେସ୍' (Withitness) ହେଉଛି ଜଣେ ଶିକ୍ଷକଙ୍କର ଶ୍ରେଣୀର ପ୍ରତ୍ୟେକ କାର୍ଯ୍ୟକଳାପ ପ୍ରତି ସର୍ବଦା ସଚେତନ ରହିବାର ଦକ୍ଷତା, ଯାହା ଶୃଙ୍ଖଳା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988756710-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Transition State Theory (Eyring equation), the pre-exponential factor (A) in the Arrhenius equation is related to the entropy of activation (ΔS‡) by which of the following expressions for a unimolecular gas-phase reaction?",
+      "options": [
+        "A = e * (k_B * T / h) * e^(ΔS‡ / R)",
+        "A = (k_B * T / h) * e^(ΔS‡ / R)",
+        "A = e * (k_B * T / h) * e^(-ΔS‡ / R)",
+        "A = e^2 * (k_B * T / h) * e^(ΔS‡ / R)"
+      ],
+      "answer": 0,
+      "explanation": "For a unimolecular gas-phase reaction, the relation between activation energy (E_a) and enthalpy of activation (ΔH‡) is E_a = ΔH‡ + RT. Substituting this into the Eyring equation yields k = e * (k_B * T / h) * e^(ΔS‡ / R) * e^(-E_a / RT). Comparing this with the Arrhenius equation, the pre-exponential factor A is given by e * (k_B * T / h) * e^(ΔS‡ / R).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଟ୍ରାନ୍ସିସନ୍ ଷ୍ଟେଟ୍ ଥ୍ରୀ (Transition State Theory) ଅନୁଯାୟୀ, ଆରେନିଅସ୍ ସମୀକରଣରେ ପ୍ରି-ଏକ୍ସପୋନେନସିଆଲ୍ ଫ୍ୟାକ୍ଟର (A) ଏବଂ ସକ୍ରିୟକରଣ ଏଣ୍ଟ୍ରୋପି (ΔS‡) ମଧ୍ୟରେ ସମ୍ପର୍କ କଣ? (ଏକ ଗ୍ୟାସୀୟ ପ୍ରବାହରେ ୟୁନିମଲିକୁଲାର ପ୍ରତିକ୍ରିୟା ପାଇଁ ଧରିନିଅନ୍ତୁ)",
+          "options": [
+            "A = e * (k_B * T / h) * e^(ΔS‡ / R)",
+            "A = (k_B * T / h) * e^(ΔS‡ / R)",
+            "A = e * (k_B * T / h) * e^(-ΔS‡ / R)",
+            "A = e^2 * (k_B * T / h) * e^(ΔS‡ / R)"
+          ],
+          "explanation": "ଏକ ଗ୍ୟାସୀୟ ୟୁନିମଲିକୁଲାର ପ୍ରତିକ୍ରିୟା ପାଇଁ ସକ୍ରିୟକରଣ ଶକ୍ତି (E_a) ଏବଂ ସକ୍ରିୟକରଣ ଏନ୍ଥାଲପି (ΔH‡) ମଧ୍ୟରେ ସମ୍ପର୍କ ହେଉଛି E_a = ΔH‡ + RT । ଏହାକୁ ଆରେନିଅସ୍ ସମୀକରଣ ସହିତ ତୁଳନା କଲେ ଆମେ ପ୍ରି-ଏକ୍ସପୋନେନସିଆଲ୍ ଫ୍ୟାକ୍ଟର A = e * (k_B * T / h) * e^(ΔS‡ / R) ପାଇଥାଉ ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988756710-1",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Mechanics",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "For a particle of mass m confined in a one-dimensional infinite potential well of width L (from x = 0 to x = L), what is the probability of finding the particle in its first excited state (n=2) in the region between x = 0 and x = L/4?",
+      "options": [
+        "0.50",
+        "0.25",
+        "0.125",
+        "0.33"
+      ],
+      "answer": 1,
+      "explanation": "The wavefunction for the first excited state (n=2) is ψ_2(x) = sqrt(2/L) * sin(2πx/L). The probability of finding the particle in the region [0, L/4] is given by the integral of |ψ_2(x)|^2 dx from 0 to L/4, which evaluates exactly to 1/4 or 0.25.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "L ପ୍ରସ୍ଥ ବିଶିଷ୍ଟ ଏକ ଏକ-ବିମୀୟ ଅସୀମ ବିଭବ କୂପ (one-dimensional infinite potential well) (x = 0 ରୁ x = L) ମଧ୍ୟରେ ଆବଦ୍ଧ m ବସ୍ତୁତ୍ୱର ଏକ କଣିକା ପାଇଁ, ଏହାର ପ୍ରଥମ ଉତ୍ତେଜିତ ଅବସ୍ଥା (n=2) ରେ କଣିକାଟି x = 0 ରୁ x = L/4 ମଧ୍ୟରେ ମିଳିବାର ସମ୍ଭାବ୍ୟତା (probability) କେତେ?",
+          "options": [
+            "0.50",
+            "0.25",
+            "0.125",
+            "0.33"
+          ],
+          "explanation": "ପ୍ରଥମ ଉତ୍ତେଜିତ ଅବସ୍ଥା (n=2) ପାଇଁ ତରଙ୍ଗ ଅପେକ୍ଷକ (wavefunction) ହେଉଛି ψ_2(x) = sqrt(2/L) * sin(2πx/L) । x = 0 ରୁ x = L/4 ମଧ୍ୟରେ ସୀମିତ ସମ୍ଭାବ୍ୟତା ହେଉଛି |ψ_2(x)|^2 dx ର ସମାକଳନ (integral) ଯାହାକି ସଠିକ୍ ଭାବେ 1/4 ବା 0.25 ଅଟେ ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988813050-0",
+      "section": "Child Development",
+      "topic": "Vygotsky's Socio-cultural Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Lev Vygotsky's theory of cognitive development, which term describes the process where two participants who begin a task with different understandings arrive at a shared understanding?",
+      "options": [
+        "Guided Participation",
+        "Intersubjectivity",
+        "Scaffolding",
+        "Zone of Proximal Development"
+      ],
+      "answer": 1,
+      "explanation": "Intersubjectivity is defined as the process whereby two participants who begin a task with different understandings arrive at a shared understanding. It creates a common ground for communication as each partner adjusts to the perspective of the other.",
+      "translations": {
+        "or": {
+          "question": "ଲେଭ୍ ଭାଇଗୋଟ୍ସ୍କିଙ୍କ (Lev Vygotsky) ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତରେ, କେଉଁ ଶବ୍ଦଟି ସେହି ପ୍ରକ୍ରିୟାକୁ ବର୍ଣ୍ଣନା କରେ ଯେଉଁଠାରେ ଭିନ୍ନ ବୁଝାମଣା ସହିତ ଏକ କାର୍ଯ୍ୟ ଆରମ୍ଭ କରୁଥିବା ଦୁଇଜଣ ଅଂଶଗ୍ରହଣକାରୀ ଏକ ସାଧାରଣ ବୁଝାମଣାରେ ପହଞ୍ଚନ୍ତି?",
+          "options": [
+            "ନିର୍ଦ୍ଦେଶିତ ଅଂଶଗ୍ରହଣ (Guided Participation)",
+            "ପାରସ୍ପରିକ ବୁଝାମଣା / ଆନ୍ତଃ-ବିଷୟବସ୍ତୁତା (Intersubjectivity)",
+            "ସ୍କାଫୋଲ୍ଡିଂ (Scaffolding)",
+            "ସନ୍ନିହିତ ବିକାଶର କ୍ଷେତ୍ର (Zone of Proximal Development)"
+          ],
+          "explanation": "ଇଣ୍ଟରସବଜେକ୍ଟିଭିଟି (Intersubjectivity) ହେଉଛି ଏକ ପ୍ରକ୍ରିୟା ଯେଉଁଥିରେ ଭିନ୍ନ ବୁଝାମଣା ସହିତ କାର୍ଯ୍ୟ ଆରମ୍ଭ କରୁଥିବା ଦୁଇଜଣ ବ୍ୟକ୍ତି ଏକ ସାଧାରଣ ବୁଝାମଣାରେ ପହଞ୍ଚନ୍ତି | ଏହା ଯୋଗାଯୋଗ ପାଇଁ ଏକ ସାଧାରଣ ଭିତ୍ତିଭୂମି ସୃଷ୍ଟି କରେ କାରଣ ପ୍ରତ୍ୟେକ ସହଭାଗୀ ଅନ୍ୟର ଦୃଷ୍ଟିକୋଣ ସହିତ ନିଜକୁ ସମାୟୋଜିତ କରନ୍ତି |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988813050-1",
+      "section": "Child Development",
+      "topic": "Bronfenbrenner's Ecological Systems Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Urie Bronfenbrenner's Ecological Systems Theory, the interaction between a child's parents and their school teachers represents which system?",
+      "options": [
+        "Microsystem",
+        "Mesosystem",
+        "Exosystem",
+        "Macrosystem"
+      ],
+      "answer": 1,
+      "explanation": "The mesosystem comprises the connections and interactions between different microsystems in a child's life, such as the relationship between the child's home (parents) and school (teachers).",
+      "translations": {
+        "or": {
+          "question": "ୟୁରି ବ୍ରୋନଫେନବ୍ରେନରଙ୍କ ପରିବେଶ ବ୍ୟବସ୍ଥା ସିଦ୍ଧାନ୍ତ (Ecological Systems Theory) ଅନୁଯାୟୀ, ଶିଶୁର ପିତାମାତା ଏବଂ ସେମାନଙ୍କ ବିଦ୍ୟାଳୟର ଶିକ୍ଷକମାନଙ୍କ ମଧ୍ୟରେ ପାରସ୍ପରିକ କ୍ରିୟା କେଉଁ ବ୍ୟବସ୍ଥାକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ମାଇକ୍ରୋସିଷ୍ଟମ୍ (Microsystem)",
+            "ମେସୋସିଷ୍ଟମ୍ (Mesosystem)",
+            "ଏକ୍ସୋସିଷ୍ଟମ୍ (Exosystem)",
+            "ମାକ୍ରୋସିଷ୍ଟମ୍ (Macrosystem)"
+          ],
+          "explanation": "ମେସୋସିଷ୍ଟମ୍ (Mesosystem) ଶିଶୁର ଜୀବନରେ ବିଭିନ୍ନ ମାଇକ୍ରୋସିଷ୍ଟମ୍ ମଧ୍ୟରେ ସଂଯୋଗ ଏବଂ ପାରସ୍ପରିକ ସମ୍ପର୍କକୁ ବୁଝାଏ, ଯେପରିକି ଶିଶୁର ଘର (ପିତାମାତା) ଏବଂ ବିଦ୍ୟାଳୟ (ଶିକ୍ଷକ) ମଧ୍ୟରେ ସମ୍ପର୍କ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988872248-0",
+      "section": "General Studies",
+      "topic": "Constitutional History of India",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under which of the following Acts was the Diarchy system introduced at the provincial level in British India?",
+      "options": [
+        "Government of India Act, 1909",
+        "Government of India Act, 1919",
+        "Government of India Act, 1935",
+        "Indian Councils Act, 1892"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India Act 1919, also known as the Montagu-Chelmsford Reforms, introduced the system of Diarchy (dual government) at the provincial level, dividing subjects into 'Transferred' and 'Reserved'.",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରିଟିଶ ଭାରତରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଅଧିନିୟମ ଅଧୀନରେ ପ୍ରାଦେଶିକ ସ୍ତରରେ ଦ୍ୱିଶାସନ (Diarchy) ବ୍ୟବସ୍ଥା ପ୍ରବର୍ତ୍ତନ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଭାରତ ସରକାର ଅଧିନିୟମ, ୧୯୦୯",
+            "ଭାରତ ସରକାର ଅଧିନିୟମ, ୧୯୧୯",
+            "ଭାରତ ସରକାର ଅଧିନିୟମ, ୧୯୩୫",
+            "ଭାରତୀୟ ପରିଷଦ ଅଧିନିୟମ, ୧୮୯୨"
+          ],
+          "explanation": "୧୯୧୯ ର ଭାରତ ସରକାର ଅଧିନିୟମ (ମଣ୍ଟେଗୁ-ଚେମ୍ସଫୋର୍ଡ ସଂସ୍କାର) ଦ୍ୱାରା ପ୍ରାଦେଶିକ ସ୍ତରରେ ଦ୍ୱିଶାସନ ବ୍ୟବସ୍ଥା ପ୍ରବର୍ତ୍ତନ କରାଯାଇଥିଲା, ଯେଉଁଥିରେ ବିଷୟଗୁଡ଼ିକୁ 'ହସ୍ତାନ୍ତରିତ' ଏବଂ 'ସଂରକ୍ଷିତ' ଭାବରେ ବିଭକ୍ତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1782988872248-1",
+      "section": "General Studies",
+      "topic": "Indian Geography - Rivers & Hydro Projects",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following hydro-electric power projects is correctly matched with the river on which it is constructed?",
+      "options": [
+        "Salal Project - Jhelum River",
+        "Baglihar Project - Chenab River",
+        "Uri Project - Ravi River",
+        "Chamera Project - Beas River"
+      ],
+      "answer": 1,
+      "explanation": "The Baglihar Hydroelectric Power Project is constructed on the Chenab River in Jammu and Kashmir. Salal is also on the Chenab River, Uri is on the Jhelum River, and Chamera is on the Ravi River.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପଟି ଏହା ନିର୍ମିତ ହୋଇଥିବା ନଦୀ ସହିତ ସଠିକ୍ ଭାବରେ ମେଳ ଖାଉଛି?",
+          "options": [
+            "ସଲାଲ ପ୍ରକଳ୍ପ - ଜେଲମ ନଦୀ",
+            "ବାଗଲିହାର ପ୍ରକଳ୍ପ - ଚେନାବ ନଦୀ",
+            "ଉରି ପ୍ରକଳ୍ପ - ରାବି ନଦୀ",
+            "ଚାମେରା ପ୍ରକଳ୍ପ - ବିଆସ ନଦୀ"
+          ],
+          "explanation": "ବାଗଲିହାର ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ଜମ୍ମୁ ଓ କାଶ୍ମୀରର ଚେନାବ ନଦୀ ଉପରେ ନିର୍ମିତ। ସଲାଲ ପ୍ରକଳ୍ପ ମଧ୍ୟ ଚେନାବ ନଦୀରେ, ଉରି ପ୍ରକଳ୍ପ ଜେଲମ ନଦୀରେ ଏବଂ ଚାମେରା ପ୍ରକଳ୍ପ ରାବି ନଦୀରେ ଅବସ୍ଥିତ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1230,6 +1230,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI Master Direction on Money Market Instruments, Certificates of Deposit (CDs) must be issued in a minimum denomination of ₹5 Lakh and in multiples of ₹5 Lakh thereafter. The maturity period of CDs issued by banks must not be less than 7 days and not more than 1 year.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782987935537-0",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "There are 6 letters to be delivered to 6 different addresses. If they are randomly put into 6 addressed envelopes, what is the probability that exactly 4 letters are delivered to the correct addresses?",
+      "options": [
+        "1/48",
+        "1/24",
+        "1/12",
+        "5/144"
+      ],
+      "answer": 0,
+      "explanation": "To find the probability that exactly 4 letters are delivered to the correct addresses, we need to choose which 4 letters are correct and ensure the remaining 2 are incorrect (deranged). The number of ways to choose 4 correct letters out of 6 is C(6, 4) = 15. The remaining 2 letters must both go into the wrong envelopes. The number of derangements for 2 items is D(2) = 1. Therefore, the number of favorable outcomes is 15 * 1 = 15. The total number of ways to arrange 6 letters in 6 envelopes is 6! = 720. Thus, the probability is 15/720 = 1/48."
+    },
+    {
+      "id": "ibps-po-ai-1782987935537-1",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A sum of Rs. X is invested in Scheme A which offers 15% per annum simple interest. After 2 years, the total amount received from Scheme A is reinvested in Scheme B which offers 10% per annum compound interest (compounded annually) for 2 years. If the total interest earned from Scheme B is Rs. 1,365, find the value of X.",
+      "options": [
+        "Rs. 4,500",
+        "Rs. 5,000",
+        "Rs. 6,000",
+        "Rs. 5,500"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal be X.\nAmount received from Scheme A after 2 years at 15% SI = X + (X * 15 * 2)/100 = X + 0.30X = 1.30X.\nThis amount (1.30X) is invested in Scheme B at 10% CI for 2 years.\nThe effective interest rate of 10% CI for 2 years is 10 + 10 + (10 * 10)/100 = 21%.\nInterest earned from Scheme B = 21% of 1.30X = 0.21 * 1.30X = 0.273X.\nGiven: 0.273X = 1365\n=> X = 1365 / 0.273 = 5000.\nTherefore, the value of X is Rs. 5,000."
+    },
+    {
+      "id": "ibps-po-ai-1782987961400-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Roses are Jasmine.\nNo Jasmine is Tulip.\nAll Tulips are Lotus.\n\nConclusions:\nI. Some Roses are definitely not Tulips.\nII. All Lotus being Jasmine is a possibility.\n\nWhich of the following options is correct?",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few Roses are Jasmine' implies both 'Some Roses are Jasmine' and 'Some Roses are not Jasmine'.\n2. Since some Roses are Jasmine, and 'No Jasmine is Tulip', those Roses which are Jasmine can never be Tulips. Thus, 'Some Roses are definitely not Tulips' (Conclusion I) is definitely true.\n3. 'All Tulips are Lotus' and 'No Jasmine is Tulip' means that the part of Lotus which is Tulip can never be Jasmine. Thus, all Lotus can never be Jasmine, making 'All Lotus being Jasmine is a possibility' (Conclusion II) false."
+    },
+    {
+      "id": "ibps-po-ai-1782987961400-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language:\n'secure monetary policy growth' is coded as 'S#22 M#02 P@02 G#19'\n'rate demand analysis trend' is coded as 'R@22 D@23 A#08 T#23'\n'banking system sector reform' is coded as 'B@20 S#14 S@09 R@14'\n\nWhat is the code for the word 'development' in this code language?",
+      "options": [
+        "D#07",
+        "D@07",
+        "D@20",
+        "E@07"
+      ],
+      "answer": 1,
+      "explanation": "The logic behind the code is:\n1. The first letter of the code is the same as the first letter of the word (for 'development', it is 'D').\n2. The symbol is '@' if the number of vowels in the word is even, and '#' if the number of vowels is odd. In 'development', the vowels are 'e, e, o, e' (4 vowels, which is even), so the symbol is '@'.\n3. The number represents the positional value of the letter opposite to the last letter of the word in alphabetical order. The last letter of 'development' is 't' (20th letter), and its opposite letter is 'g' (7th letter), so the number is 07.\nCombining these gives 'D@07'."
+    },
+    {
+      "id": "ibps-po-ai-1782987980860-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, four words have been printed in bold and labeled A, B, C, and D. These words may or may not be in their correct positions. Find the correct combination of words that need to be swapped to make the sentence grammatically correct and meaningful.\n\n\"The **sustainable** (A) effects of climate change have **sectors** (B) the need for **disruptive** (C) practices across all **heightened** (D) of the economy.\"",
+      "options": [
+        "Both A-C and B-D",
+        "Only A-C",
+        "Both A-B and C-D",
+        "Only B-D"
+      ],
+      "answer": 0,
+      "explanation": "The word 'sustainable' in position (A) is contextually incorrect because the effects of climate change are 'disruptive' rather than sustainable. Thus, A and C need to be swapped to get 'disruptive effects' and 'sustainable practices'. Similarly, 'sectors' in position (B) is a noun and cannot follow the auxiliary verb 'have' in this context. Swapping B and D gives 'have heightened' (present perfect verb) and 'all sectors of the economy' (noun phrase), making the sentence grammatically correct and meaningful."
+    },
+    {
+      "id": "ibps-po-ai-1782987980860-1",
+      "section": "English",
+      "topic": "Spotting Errors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the part of the sentence that contains a grammatical error. If there is no error, select the option indicating no error.\n\n\"The municipal corporation has issued (A) / a strict advisory to the residents (B) / to keep their windows closed (C) / lest the toxic fumes will cause respiratory issues (D).\"",
+      "options": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+      ],
+      "answer": 3,
+      "explanation": "The conjunction 'lest' means 'for fear that' or 'to avoid the risk of'. It is grammatically followed by a subjunctive clause (using the base form of the verb) or by 'should' + base verb. It cannot be followed by auxiliaries like 'will', 'would', 'may', or 'can'. Therefore, 'will cause' in Part D must be replaced with 'should cause' or 'cause' to be correct."
+    },
+    {
+      "id": "ibps-po-ai-1782987992678-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the revised Liquidity Adjustment Facility (LAF) framework introduced by the Reserve Bank of India (RBI) in April 2022, the Standing Deposit Facility (SDF) rate is set at how many basis points below the Policy Repo Rate?",
+      "options": [
+        "15 basis points",
+        "25 basis points",
+        "40 basis points",
+        "50 basis points"
+      ],
+      "answer": 1,
+      "explanation": "In April 2022, the RBI introduced the Standing Deposit Facility (SDF) as the floor of the LAF corridor, replacing the fixed reverse repo rate. The SDF rate is aligned at 25 basis points (0.25%) below the Policy Repo Rate.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1782987992678-1",
+      "section": "General Awareness",
+      "topic": "Insolvency and Bankruptcy Code",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "To prevent corporate debtors, particularly MSMEs, from being pushed into insolvency proceedings due to temporary economic stress, the minimum threshold of default for initiating the Corporate Insolvency Resolution Process (CIRP) under the IBC, 2016 was increased to what amount?",
+      "options": [
+        "Rs. 10 Lakh",
+        "Rs. 50 Lakh",
+        "Rs. 1 Crore",
+        "Rs. 5 Crore"
+      ],
+      "answer": 2,
+      "explanation": "In March 2020, the Government of India exercised its powers under Section 4 of the Insolvency and Bankruptcy Code (IBC), 2016, to increase the minimum threshold of default from Rs. 1 Lakh to Rs. 1 Crore in order to protect businesses from being dragged into insolvency.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1508,6 +1508,136 @@
       ],
       "answer": 1,
       "explanation": "'As a consequence of which' establishes a clear cause-and-effect relationship between the implementation of regulations (cause) and the closure of factories (effect). The other connectors fail to establish this logical connection."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987818180-0",
+      "section": "Quant",
+      "topic": "Ages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The ratio of the ages of A and B, 4 years ago, was 4 : 5. Eight years hence, the ratio of the ages of A and B will be 11 : 13. What is the sum of their present ages?",
+      "options": [
+        "68 years",
+        "72 years",
+        "80 years",
+        "84 years"
+      ],
+      "answer": 2,
+      "explanation": "Let the ages of A and B, 4 years ago, be 4x and 5x respectively. Present age of A = 4x + 4, Present age of B = 5x + 4. Eight years hence, their ages will be (4x + 12) and (5x + 12). Given, (4x + 12) / (5x + 12) = 11 / 13 => 13(4x + 12) = 11(5x + 12) => 52x + 156 = 55x + 132 => 3x = 24 => x = 8. Present age of A = 4(8) + 4 = 36 years. Present age of B = 5(8) + 4 = 44 years. Sum of their present ages = 36 + 44 = 80 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987818181-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two pipes A and B can fill a tank in 12 hours and 15 hours respectively. A third pipe C can empty the full tank in 20 hours. If Pipe A is opened at 7:00 AM, Pipe B at 9:00 AM and Pipe C at 10:00 AM, at what time will the tank be completely filled?",
+      "options": [
+        "3:40 PM",
+        "4:20 PM",
+        "4:50 PM",
+        "5:10 PM"
+      ],
+      "answer": 2,
+      "explanation": "Let the total capacity of the tank be LCM(12, 15, 20) = 60 units. Efficiency of A = 60/12 = 5 units/hr. Efficiency of B = 60/15 = 4 units/hr. Efficiency of C = -60/20 = -3 units/hr (emptying). From 7:00 AM to 9:00 AM (2 hours), only A is open: 2 * 5 = 10 units filled. From 9:00 AM to 10:00 AM (1 hour), A and B are open: 1 * (5 + 4) = 9 units filled. Total filled till 10:00 AM = 10 + 9 = 19 units. Remaining capacity to fill = 60 - 19 = 41 units. After 10:00 AM, all three pipes are open. Net efficiency = 5 + 4 - 3 = 6 units/hr. Time required to fill remaining part = 41/6 hours = 6 hours and 50 minutes. Therefore, the tank will be completely filled at 10:00 AM + 6 hours 50 minutes = 4:50 PM."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987840686-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some statements are given followed by two conclusions. Read the statements carefully and decide which of the given conclusions logically follow(s).\n\nStatements:\nA > B ≥ C = D; E ≤ F < C; G > B\n\nConclusions:\nI. G > F\nII. D > E",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusions I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 2,
+      "explanation": "From the given statements, we can combine the elements as follows:\n1) For conclusion I (G > F): We have G > B ≥ C > F (since F < C is equivalent to C > F). Thus, G > F holds true.\n2) For conclusion II (D > E): We have D = C > F ≥ E (since E ≤ F is equivalent to F ≥ E). Thus, D > E holds true.\nTherefore, both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987840686-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six people - P, Q, R, S, T, and U - are sitting in a straight line facing North. P sits third to the left of U. Only one person sits between U and S. T sits to the immediate left of S. Q sits to the immediate right of R. Who sits second to the right of R?",
+      "options": [
+        "Q",
+        "U",
+        "T",
+        "S"
+      ],
+      "answer": 1,
+      "explanation": "Let's determine the arrangement step-by-step from left to right:\n1. 'P sits third to the left of U' gives us the framework: P, _, _, U.\n2. 'Only one person sits between U and S' and 'T sits to the immediate left of S' means the sequence must be U, T, S. Combining this with our first step gives: P, _, _, U, T, S.\n3. 'Q sits to the immediate right of R' fits perfectly into the remaining two adjacent empty slots, giving us R followed by Q. \nPutting it all together, the final linear arrangement from left to right is: P, R, Q, U, T, S.\nLooking at this arrangement, the person sitting second to the right of R is U."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987856735-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the sentence in which the phrasal verb 'make up for' is used INCORRECTLY.",
+      "options": [
+        "She bought him a lovely gift to make up for her late arrival at the party.",
+        "He had to make up for a complex story to explain his sudden absence from the meeting.",
+        "The company offered a generous discount to make up for the delayed shipment.",
+        "The team worked extra hours during the week to make up for the lost time."
+      ],
+      "answer": 1,
+      "explanation": "'Make up for' means to compensate for a mistake, loss, or shortcoming. In the second sentence, the context requires the meaning 'to invent or fabricate', which is represented by the phrasal verb 'make up'. Therefore, 'make up for' is contextually incorrect in that sentence."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987856736-1",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following pairs of verbs correctly completes the sentence below?\n\n'Each of the delegates who ________ arrived at the venue ________ requested to check in at the reception.'",
+      "options": [
+        "has, are",
+        "have, is",
+        "has, is",
+        "have, are"
+      ],
+      "answer": 1,
+      "explanation": "The relative pronoun 'who' refers to the immediate antecedent 'delegates' (plural), which requires the plural verb 'have'. The main subject of the sentence is 'Each' (singular), which governs the main verb of the sentence, requiring the singular verb 'is'. Thus, 'have, is' is the correct combination."
+    },
+    {
+      "id": "ibps-clerk-ai-1782987865359-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Atal Pension Yojana (APY) launched by the Government of India, what is the minimum and maximum age of entry for a subscriber to be eligible for the pension benefits?",
+      "options": [
+        "18 years and 40 years",
+        "18 years and 50 years",
+        "21 years and 50 years",
+        "21 years and 60 years"
+      ],
+      "answer": 0,
+      "explanation": "The Atal Pension Yojana (APY) is a flagship social security scheme aimed at providing pension benefits to workers in the unorganized sector. The minimum age of joining APY is 18 years and the maximum age is 40 years.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1782987865359-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Basel III capital regulations prescribed by the Reserve Bank of India (RBI), what is the minimum Common Equity Tier 1 (CET1) capital ratio that Scheduled Commercial Banks in India are required to maintain on an ongoing basis, excluding the Capital Conservation Buffer (CCB)?",
+      "options": [
+        "4.5%",
+        "5.5%",
+        "7.0%",
+        "9.0%"
+      ],
+      "answer": 1,
+      "explanation": "While the global Basel III framework mandates a minimum CET1 ratio of 4.5%, the RBI has set a more stringent requirement of 5.5% for Indian Scheduled Commercial Banks, excluding the Capital Conservation Buffer of 2.5%.",
+      "status": "pending"
     }
   ]
 }

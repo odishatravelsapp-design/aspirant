@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -1875,6 +1875,234 @@
             "ସାତକୋଶିଆ ଗଣ୍ଡ ଅଭୟାରଣ୍ୟ"
           ],
           "explanation": "ମଇ ୨୦୦୯ ରେ ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳକୁ ୟୁନେସ୍କୋର ୱାର୍ଲ୍ଡ ନେଟୱର୍କ ଅଫ୍ ବାୟୋସ୍ଫିୟର୍ ରିଜର୍ଭସରେ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଥିଲା। ଏହି ଗୌରବ ହାସଲ କରିବାରେ ଏହା ଓଡ଼ିଶାର ଏକମାତ୍ର ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988351808-0",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following verse tragedies, based on a real Italian family scandal of the Renaissance, was written by Percy Bysshe Shelley in 1819?",
+      "options": [
+        "Manfred",
+        "The Cenci",
+        "Remorse",
+        "Otho the Great"
+      ],
+      "answer": 1,
+      "explanation": "The Cenci is a verse drama in five acts by Percy Bysshe Shelley, written in the summer of 1819 while he was living in Italy. It is based on a real historical event involving Beatrice Cenci and her family during the Italian Renaissance.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୧୯ ମସିହାରେ ପର୍ସି ବିଶ୍ ଶେଲିଙ୍କ ଦ୍ୱାରା ଲିଖିତ, ପୁନର୍ଜାଗରଣ କାଳର ଏକ ପ୍ରକୃତ ଇଟାଲୀୟ ପାରିବାରିକ କେଳେଙ୍କାରୀ ଉପରେ ଆଧାରିତ ନିମ୍ନଲିଖିତ ପଦ୍ୟ ଟ୍ରାଜେଡିଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଅଟେ?",
+          "options": [
+            "ମ୍ୟାନଫ୍ରେଡ୍ (Manfred)",
+            "ଦି ଚେଞ୍ଚି (The Cenci)",
+            "ରିମୋର୍ସ (Remorse)",
+            "ଓଥୋ ଦି ଗ୍ରେଟ୍ (Otho the Great)"
+          ],
+          "explanation": "‘ଦି ଚେଞ୍ଚି’ ହେଉଛି ପର୍ସି ବିଶ୍ ଶେଲିଙ୍କ ଦ୍ୱାରା ଲିଖିତ ପାଞ୍ଚଟି ଅଙ୍କ ବିଶିଷ୍ଟ ଏକ ପଦ୍ୟ ନାଟକ, ଯାହା ସେ ୧୮୧୯ ମସିହା ଗ୍ରୀଷ୍ମ ଋତୁରେ ଇଟାଲୀରେ ରହୁଥିବା ସମୟରେ ରଚନା କରିଥିଲେ। ଏହା ଇଟାଲୀୟ ପୁନର୍ଜାଗରଣ ସମୟର ବିଟ୍ରିସ୍ ଚେଞ୍ଚି ଏବଂ ତାଙ୍କ ପରିବାରର ଏକ ପ୍ରକୃତ ଐତିହାସିକ ଘଟଣା ଉପରେ ଆଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988351808-1",
+      "section": "Subject Knowledge",
+      "topic": "Postcolonial Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In her seminal essay 'Can the Subaltern Speak?', Gayatri Chakravorty Spivak famously critiques the post-structuralist views of which two French thinkers for ignoring the international division of labor and recreating the subject of the West?",
+      "options": [
+        "Jacques Derrida and Jacques Lacan",
+        "Michel Foucault and Gilles Deleuze",
+        "Jean-François Lyotard and Jean Baudrillard",
+        "Louis Althusser and Roland Barthes"
+      ],
+      "answer": 1,
+      "explanation": "In 'Can the Subaltern Speak?', Spivak critiques Michel Foucault and Gilles Deleuze's conversation 'Intellectuals and Power'. She argues that their desire to allow the oppressed to speak for themselves ignores the international division of labor and reinstates a sovereign Western subject.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିଜର ପ୍ରସିଦ୍ଧ ପ୍ରବନ୍ଧ 'କ୍ୟାନ୍ ଦି ସବ୍‌ଅଲ୍ଟର୍ନ ସ୍ପିକ୍?' (Can the Subaltern Speak?) ରେ ଗାୟତ୍ରୀ ଚକ୍ରବର୍ତ୍ତୀ ସ୍ପିଭାକ୍ ଆନ୍ତର୍ଜାତୀୟ ଶ୍ରମ ବିଭାଜନକୁ ଅଣଦେଖା କରିବା ଏବଂ ପାଶ୍ଚାତ୍ୟର ବିଷୟବସ୍ତୁକୁ ପୁନର୍ଜୀବିତ କରିବା ପାଇଁ କେଉଁ ଦୁଇଜଣ ଫରାସୀ ଚିନ୍ତକଙ୍କର ଉତ୍ତର-ସଂରଚନାବାଦୀ ଦୃଷ୍ଟିକୋଣକୁ ସମାଲୋଚନା କରିଛନ୍ତି?",
+          "options": [
+            "ଜାକ୍ ଡେରିଡା ଏବଂ ଜାକ୍ ଲାକାଁ (Jacques Derrida and Jacques Lacan)",
+            "ମିସେଲ୍ ଫୁକୋ ଏବଂ ଗିଲ୍ସ ଡେଲ୍ୟୁଜ୍ (Michel Foucault and Gilles Deleuze)",
+            "ଜିନ୍-ଫ୍ରାନ୍ସୁଆ ଲ୍ୟୋଟାର୍ଡ ଏବଂ ଜିନ୍ ବଡ୍ରିଲାର୍ଡ (Jean-François Lyotard and Jean Baudrillard)",
+            "ଲୁଇ ଆଲଥୁସର ଏବଂ ରୋଲାଣ୍ଡ ବାର୍ଥେସ (Louis Althusser and Roland Barthes)"
+          ],
+          "explanation": "'କ୍ୟାନ୍ ଦି ସବ୍‌ଅଲ୍ଟର୍ନ ସ୍ପିକ୍?' ପ୍ରବନ୍ଧରେ, ସ୍ପିଭାକ୍ ମିସେଲ୍ ଫୁକୋ ଏବଂ ଗିଲ୍ସ ଡେଲ୍ୟୁଜ୍‌ଙ୍କ ମଧ୍ୟରେ ହୋଇଥିବା କଥୋପକଥନ 'ଇଣ୍ଟେଲେକ୍ଚୁଆଲ୍ସ ଆଣ୍ଡ ପାୱାର୍' କୁ ସମାଲୋଚନା କରିଛନ୍ତି। ସେ ଯୁକ୍ତି ବାଢ଼ିଛନ୍ତି ଯେ ନିଷ୍ପେଷିତମାନଙ୍କୁ ନିଜ ପାଇଁ କହିବାକୁ ସୁଯୋଗ ଦେବାର ସେମାନଙ୍କର ଇଚ୍ଛା ଆନ୍ତର୍ଜାତୀୟ ଶ୍ରମ ବିଭାଜନକୁ ଅଣଦେଖା କରେ ଏବଂ ଏକ ସାର୍ବଭୌମ ପାଶ୍ଚାତ୍ୟ ବିଷୟବସ୍ତୁକୁ ପୁନଃ ପ୍ରତିଷ୍ଠିତ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988365768-0",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Jerome Bruner's theory of cognitive representation, which of the following represents the correct sequence of stages through which a learner develops understanding?",
+      "options": [
+        "Iconic, Enactive, Symbolic",
+        "Enactive, Iconic, Symbolic",
+        "Symbolic, Iconic, Enactive",
+        "Enactive, Symbolic, Iconic"
+      ],
+      "answer": 1,
+      "explanation": "According to Bruner, cognitive growth occurs through three successive stages of representation: Enactive (action-based), Iconic (image-based), and Symbolic (language or symbol-based).",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ ବ୍ରୁନରଙ୍କ ଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ (cognitive representation) ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଶିକ୍ଷାର୍ଥୀର ବୁଝାମଣା ବିକଶିତ ହେବା ପାଇଁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ପର୍ଯ୍ୟାୟଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ଆଇକନିକ୍, ଏନାକ୍ଟିଭ୍, ସିମ୍ବୋଲିକ୍",
+            "ଏନାକ୍ଟିଭ୍, ଆଇକନିକ୍, ସିମ୍ବୋଲିକ୍",
+            "ସିମ୍ବୋଲିକ୍, ଆଇକନିକ୍, ଏନାକ୍ଟିଭ୍",
+            "ଏନାକ୍ଟିଭ୍, ସିମ୍ବୋଲିକ୍, ଆଇକନିକ୍"
+          ],
+          "explanation": "ବ୍ରୁନରଙ୍କ ଅନୁଯାୟୀ, ଜ୍ଞାନାତ୍ମକ ବିକାଶ ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି କ୍ରମିକ ପର୍ଯ୍ୟାୟ ମାଧ୍ୟମରେ ଘଟିଥାଏ: ଏନାକ୍ଟିଭ୍ (କାର୍ଯ୍ୟ-ଆଧାରିତ), ଆଇକନିକ୍ (ଚିତ୍ର-ଆଧାରିତ), ଏବଂ ସିମ୍ବୋଲିକ୍ (ଭାଷା କିମ୍ବା ପ୍ରତୀକ-ଆଧାରିତ)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988365768-1",
+      "section": "Teaching Aptitude",
+      "topic": "Gagné's Conditions of Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Gagné's Hierarchy of Learning, which of the following is the immediate prerequisite level of learning that must be acquired before a learner can master 'Rule Learning'?",
+      "options": [
+        "Concept Learning",
+        "Verbal Association",
+        "Multiple Discrimination",
+        "Problem Solving"
+      ],
+      "answer": 0,
+      "explanation": "In Gagné's eight-level hierarchy of learning, 'Rule Learning' (Level 7) directly builds upon 'Concept Learning' (Level 6), as rules are relationships between concepts.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେଙ୍କ ଶିକ୍ଷଣର କ୍ରମଶ୍ରେଣୀ (Hierarchy of Learning) ରେ, ଶିକ୍ଷାର୍ଥୀ 'ନିୟମ ଶିକ୍ଷଣ' (Rule Learning) ହାସଲ କରିବା ପୂର୍ବରୁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ତା’ର ପୂର୍ବ-ଆବଶ୍ୟକୀୟ ଶିକ୍ଷଣ ସ୍ତର ଅଟେ?",
+          "options": [
+            "ସଂକଳ୍ପ ଶିକ୍ଷଣ (Concept Learning)",
+            "ମୌଖିକ ସହଯୋଗ (Verbal Association)",
+            "ବହୁମୁଖୀ ବିଭେଦୀକରଣ (Multiple Discrimination)",
+            "ସମସ୍ୟା ସମାଧାନ (Problem Solving)"
+          ],
+          "explanation": "ଗାଗ୍ନେଙ୍କ ଆଠ-ସ୍ତରୀୟ ଶିକ୍ଷଣ କ୍ରମଶ୍ରେଣୀରେ, 'ନିୟମ ଶିକ୍ଷଣ' (ସ୍ତର ୭) ସିଧାସଳଖ 'ସଂକଳ୍ପ ଶିକ୍ଷଣ' (ସ୍ତର ୬) ଉପରେ ଆଧାରିତ, କାରଣ ନିୟମଗୁଡ଼ିକ ହେଉଛି ସଂକଳ୍ପଗୁଡ଼ିକ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988575513-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the Commissioner of Odisha Division during the devastating Great Famine (Na'Anka Durbhiksha) of 1866?",
+      "options": [
+        "T. E. Ravenshaw",
+        "Sir George Campbell",
+        "John Beames",
+        "Henry Ricketts"
+      ],
+      "answer": 0,
+      "explanation": "Thomas Edward Ravenshaw was the officiating Commissioner of the Odisha Division during the Great Famine of 1866 (Na'Anka Durbhiksha). Sir George Campbell headed the Famine Commission appointed later to investigate the causes of the disaster.",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାର ଭୟାବହ ନ’ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଓଡ଼ିଶା ବିଭାଗର କମିଶନର କିଏ ଥିଲେ?",
+          "options": [
+            "ଟି. ଇ. ରେଭେନ୍ସା",
+            "ସର୍ ଜର୍ଜ କ୍ୟାମ୍ପବେଲ୍",
+            "ଜନ୍ ବିମ୍ସ",
+            "ହେନେରୀ ରିକେଟ୍ସ"
+          ],
+          "explanation": "୧୮୬୬ ମସିହାରେ ଓଡ଼ିଶାରେ ହୋଇଥିବା ନ’ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଟି. ଇ. ରେଭେନ୍ସା ଓଡ଼ିଶା ବିଭାଗର କମିଶନର ଭାବରେ କାର୍ଯ୍ୟ କରୁଥିଲେ। ସେହି ସମୟରେ ଦୁର୍ଭିକ୍ଷର କାରଣ ଅନୁସନ୍ଧାନ ପାଇଁ ସର୍ ଜର୍ଜ କ୍ୟାମ୍ପବେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଏକ କମିଶନ ଗଠନ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988575513-1",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which princely state of Odisha was the British Political Agent, Major R.L. Bazalgette, killed by an agitated mob during the Prajamandala Movement in January 1939?",
+      "options": [
+        "Dhenkanal",
+        "Nayagarh",
+        "Ranpur",
+        "Talcher"
+      ],
+      "answer": 2,
+      "explanation": "On 5th January 1939, Major R.L. Bazalgette, the Political Agent of Orissa States, was lynched and killed by an angry crowd at Ranpur State during the height of the anti-feudal Prajamandala Movement.",
+      "translations": {
+        "or": {
+          "question": "ଜାନୁଆରୀ ୧୯୩୯ ରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ଓଡ଼ିଶାର କେଉଁ ଗଡ଼ଜାତ ରାଜ୍ୟରେ ବ୍ରିଟିଶ୍ ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ମେଜର ଆର.ଏଲ. ବେଜେଲଗେଟ୍ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା ନିହତ ହୋଇଥିଲେ?",
+          "options": [
+            "ଢେଙ୍କାନାଳ",
+            "ନୟାଗଡ଼",
+            "ରଣପୁର",
+            "ତାଳଚେର"
+          ],
+          "explanation": "୫ ଜାନୁଆରୀ ୧୯୩୯ ରେ ରଣପୁର ଗଡ଼ଜାତ ରାଜ୍ୟରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ବ୍ରିଟିଶ୍ ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ମେଜର ଆର.ଏଲ. ବେଜେଲଗେଟ୍ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଆକ୍ରମଣରେ ପ୍ରାଣ ହରାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988589620-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Ananta Vasudeva Temple in Bhubaneswar was constructed in the 13th century by which of the following royal personalities?",
+      "options": [
+        "Kasturikamodini (Queen of Chodaganga Deva)",
+        "Chandrika Devi (Daughter of Anangabhima Deva III)",
+        "Kolavati Devi (Mother of Udyotakesari)",
+        "Surya Devi (Queen of Langula Narasimha Deva)"
+      ],
+      "answer": 1,
+      "explanation": "The Ananta Vasudeva Temple in Bhubaneswar was built in 1278 AD by Chandrika Devi, the daughter of Eastern Ganga king Anangabhima Deva III, during the reign of Bhanudeva I.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର ୧୩ଶ ଶତାବ୍ଦୀରେ ନିମ୍ନଲିଖିତ କେଉଁ ରାଜକୀୟ ବ୍ୟକ୍ତିତ୍ୱଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "କସ୍ତୁରୀକାମୋଦିନୀ (ଚୋଡ଼ଗଙ୍ଗ ଦେବଙ୍କ ରାଣୀ)",
+            "ଚନ୍ଦ୍ରିକା ଦେବୀ (ଅନଙ୍ଗଭୀମ ଦେବ (ତୃତୀୟ)ଙ୍କ କନ୍ୟା)",
+            "କୋଳାବତୀ ଦେବୀ (ଉଦ୍ୟୋତକେଶରୀଙ୍କ ମାତା)",
+            "ସୂର୍ଯ୍ୟ ଦେବୀ (ଲାଙ୍ଗୁଳା ନରସିଂହ ଦେବଙ୍କ ରାଣୀ)"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରସ୍ଥିତ ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର ୧୨୭୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ପୂର୍ବ ଗଙ୍ଗବଂଶର ରାଜା ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବଙ୍କ କନ୍ୟା ଚନ୍ଦ୍ରିକା ଦେବୀଙ୍କ ଦ୍ୱାରା ଭାନୁଦେବ (ପ୍ରଥମ)ଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1782988589620-1",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The devastating Great Orissa Famine, popularly known as the 'Na'Anka Durbhiksha', occurred during which of the following periods?",
+      "options": [
+        "1855–1856 AD",
+        "1866–1867 AD",
+        "1872–1873 AD",
+        "1881–1882 AD"
+      ],
+      "answer": 1,
+      "explanation": "The Na'Anka Durbhiksha (Great Orissa Famine) occurred in 1866, which corresponded to the 9th regnal year (Anka) of the Gajapati King of Puri, Divyasingha Deva. It resulted in the loss of about one-third of Odisha's population.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାରେ ଘଟିଥିବା ଭୟଙ୍କର ଦୁର୍ଭିକ୍ଷ, ଯାହା ସାଧାରଣତଃ 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ଭାବରେ ଜଣାଶୁଣା, ନିମ୍ନଲିଖିତ କେଉଁ ସମୟରେ ଘଟିଥିଲା?",
+          "options": [
+            "୧୮୫୫–୧୮୫୬ ଖ୍ରୀଷ୍ଟାବ୍ଦ",
+            "୧୮୬୬–୧୮୬୭ ଖ୍ରୀଷ୍ଟାବ୍ଦ",
+            "୧୮୭୨–୧୮୭୩ ଖ୍ରୀଷ୍ଟାବ୍ଦ",
+            "୧୮୮୧–୧୮୮୨ ଖ୍ରୀଷ୍ଟାବ୍ଦ"
+          ],
+          "explanation": "ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ୧୮୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଘଟିଥିଲା, ଯାହା ପୁରୀର ଗଜପତି ରାଜା ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ଶାସନର ୯ମ ଅଙ୍କ (ବର୍ଷ) ଥିଲା। ଏହି ଦୁର୍ଭିକ୍ଷରେ ଓଡ଼ିଶାର ପ୍ରାୟ ଏକ-ତୃତୀୟାଂଶ ଜନସଂଖ୍ୟା ପ୍ରାଣ ହରାଇଥିଲେ।"
         }
       }
     }
