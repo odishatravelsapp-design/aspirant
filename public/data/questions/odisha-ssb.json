@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -2103,6 +2103,120 @@
             "୧୮୮୧–୧୮୮୨ ଖ୍ରୀଷ୍ଟାବ୍ଦ"
           ],
           "explanation": "ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ୧୮୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଘଟିଥିଲା, ଯାହା ପୁରୀର ଗଜପତି ରାଜା ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ଶାସନର ୯ମ ଅଙ୍କ (ବର୍ଷ) ଥିଲା। ଏହି ଦୁର୍ଭିକ୍ଷରେ ଓଡ଼ିଶାର ପ୍ରାୟ ଏକ-ତୃତୀୟାଂଶ ଜନସଂଖ୍ୟା ପ୍ରାଣ ହରାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783074293637-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory and Linguistics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Ferdinand de Saussure's seminal work 'Course in General Linguistics' (Cours de linguistique générale) was reconstructed from his students' lecture notes. Who translated this work from French into English in 1959?",
+      "options": [
+        "Wade Baskin",
+        "Roy Harris",
+        "Jonathan Culler",
+        "Alan Sheridan"
+      ],
+      "answer": 0,
+      "explanation": "Ferdinand de Saussure's 'Course in General Linguistics' was first translated into English by Wade Baskin in 1959. Another notable translation by Roy Harris was published later in 1983.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଫର୍ଡିନାଣ୍ଡ୍ ଡି ସସୁର୍‌ଙ୍କ ପ୍ରଭାବଶାଳୀ ଗ୍ରନ୍ଥ 'କୋର୍ସ ଇନ୍ ଜେନେରାଲ୍ ଲିଙ୍ଗୁଇଷ୍ଟିକ୍ସ' (Course in General Linguistics) ତାଙ୍କ ଛାତ୍ରମାନଙ୍କର ଅଧ୍ୟାପନ ଟିପ୍ପଣୀରୁ ପୁନର୍ଗଠିତ ହୋଇଥିଲା। ୧୯୫୯ ମସିହାରେ କିଏ ଏହି ଗ୍ରନ୍ଥକୁ ଫରାସୀରୁ ଇଂରାଜୀକୁ ଅନୁବାଦ କରିଥିଲେ?",
+          "options": [
+            "ୱେଡ୍ ବାସ୍କିନ୍",
+            "ରୟ ହାରିସ୍",
+            "ଜୋନାଥନ୍ କଲର୍",
+            "ଆଲାନ୍ ଶେରିଡାନ୍"
+          ],
+          "explanation": "ଫର୍ଡିନାଣ୍ଡ୍ ଡି ସସୁର୍‌ଙ୍କ 'କୋର୍ସ ଇନ୍ ଜେନେରାଲ୍ ଲିଙ୍ଗୁଇଷ୍ଟିକ୍ସ' ପ୍ରଥମେ ୧୯୫୯ ମସିହାରେ ୱେଡ୍ ବାସ୍କିନ୍‌ଙ୍କ ଦ୍ୱାରା ଇଂରାଜୀକୁ ଅନୁବାଦ କରାଯାଇଥିଲା। ରୟ ହାରିସ୍‌ଙ୍କ ଅନ୍ୟ ଏକ ପ୍ରସିଦ୍ଧ ଅନୁବାଦ ପରେ ୧୯୮୩ ମସିହାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783074293637-1",
+      "section": "Subject Knowledge",
+      "topic": "Elizabethan Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In 1599, a miscellany of poems was published by William Jaggard and attributed entirely to William Shakespeare, though it contained only a few of his actual poems. What is the title of this collection?",
+      "options": [
+        "The Phoenix and the Turtle",
+        "The Passionate Pilgrim",
+        "A Lover's Complaint",
+        "Venus and Adonis"
+      ],
+      "answer": 1,
+      "explanation": "'The Passionate Pilgrim' (1599) was an anthology of poems published by William Jaggard and attributed to William Shakespeare, though only five of the poems are definitely Shakespearean.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୫୯୯ ମସିହାରେ, ୱିଲିୟମ୍ ଜାଗାର୍ଡଙ୍କ ଦ୍ୱାରା ଏକ କବିତା ସଂକଳନ ପ୍ରକାଶିତ ହୋଇଥିଲା ଏବଂ ଏହାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ୱିଲିୟମ୍ ସେକ୍ସପିୟରଙ୍କ ରଚନା ବୋଲି ଦର୍ଶାଯାଇଥିଲା, ଯଦିଓ ଏଥିରେ ତାଙ୍କର ମାତ୍ର କିଛି ପ୍ରକୃତ କବିତା ସ୍ଥାନ ପାଇଥିଲା। ଏହି ସଂକଳନର ଶୀର୍ଷକ କ’ଣ?",
+          "options": [
+            "ଦ ଫିନିକ୍ସ ଆଣ୍ଡ ଦ ଟର୍ଟଲ୍",
+            "ଦ ପାସିଓନେଟ୍ ପիଲଗ୍ରିମ୍",
+            "ଏ ଲଭର୍ସ କମ୍ପ୍ଲେଣ୍ଟ୍",
+            "ଭେନସ୍ ଆଣ୍ଡ ଆଡୋନିସ୍"
+          ],
+          "explanation": "'ଦ ପାସିଓନେଟ୍ ପիଲଗ୍ରିମ୍' (୧୫୯୯) ହେଉଛି ୱିଲିୟମ୍ ଜାଗାର୍ଡଙ୍କ ଦ୍ୱାରା ପ୍ରକାଶିତ ଏକ କାବ୍ୟ ସଂକଳନ ଯାହା ସେକ୍ସପିୟରଙ୍କ ନାମରେ ପ୍ରକାଶିତ ହୋଇଥିଲା, ଯଦିଓ ଏଥିମଧ୍ୟରୁ କେବଳ ପାଞ୍ଚଟି କବିତା ନିଶ୍ଚିତ ଭାବେ ସେକ୍ସପିୟରଙ୍କର ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783074318008-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Robert Glaser's Basic Teaching Model (1962), which of the following components is primarily concerned with assessing the learner's pre-requisite abilities, prior knowledge, and intellectual status before the instruction begins?",
+      "options": [
+        "Instructional Objectives",
+        "Entering Behavior",
+        "Instructional Procedure",
+        "Performance Assessment"
+      ],
+      "answer": 1,
+      "explanation": "Robert Glaser's Basic Teaching Model consists of four components: Instructional Objectives, Entering Behavior, Instructional Procedure, and Performance Assessment. 'Entering Behavior' refers to the initial status of the learner, which includes prior knowledge, intellectual abilities, and motivational state before instruction begins.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ଲାସରଙ୍କ ମୌଳିକ ଶିକ୍ଷାଦାନ ମଡେଲ (୧୯୬୨) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଉପାଦାନଟି ଶିକ୍ଷାଦାନ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପୂର୍ବ-ଆବଶ୍ୟକୀୟ ଯୋଗ୍ୟତା, ପୂର୍ବ ଜ୍ଞାନ ଏବଂ ବୌଦ୍ଧିକ ସ୍ଥିତିର ଆକଳନ ସହିତ ମୁଖ୍ୟତଃ ଜଡ଼ିତ?",
+          "options": [
+            "ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ (Instructional Objectives)",
+            "ପ୍ରବେଶ ବ୍ୟବହାର (Entering Behavior)",
+            "ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା (Instructional Procedure)",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ମୂଲ୍ୟାଙ୍କନ (Performance Assessment)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ଲାସରଙ୍କ ମୌଳିକ ଶିକ୍ଷାଦାନ ମଡେଲରେ ଚାରୋଟି ଉପାଦାନ ରହିଛି: ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ, ପ୍ରବେଶ ବ୍ୟବହାର, ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ଏବଂ କାର୍ଯ୍ୟଦକ୍ଷତା ମୂଲ୍ୟାଙ୍କନ। 'ପ୍ରବେଶ ବ୍ୟବହାର' ଶିକ୍ଷାର୍ଥୀଙ୍କ ପ୍ରାରମ୍ଭିକ ସ୍ଥିତିକୁ ସୂଚିତ କରେ, ଯେଉଁଥିରେ ଶିକ୍ଷାଦାନ ପୂର୍ବରୁ ସେମାନଙ୍କର ପୂର୍ବ ଜ୍ଞାନ, ବୌଦ୍ଧିକ ଦକ୍ଷତା ଏବଂ ପ୍ରେରଣାଦାୟୀ ସ୍ଥିତି ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783074318008-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Edgar Dale's 'Cone of Experience', which of the following bands of experience represents the most concrete level of learning, lying at the very base of the cone?",
+      "options": [
+        "Contrived Experiences",
+        "Direct Purposeful Experiences",
+        "Dramatic Participation",
+        "Demonstrations"
+      ],
+      "answer": 1,
+      "explanation": "According to Edgar Dale's Cone of Experience, 'Direct, Purposeful Experiences' represent the most concrete, hands-on, and first-hand experiences, and they form the foundational base of the cone. As one moves up the cone, the experiences become progressively more abstract.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗର ଡେଲ୍‌ଙ୍କ 'ଅଭିଜ୍ଞତା ଶଙ୍କୁ' (Cone of Experience) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଅଭିଜ୍ଞତା ସ୍ତରଟି ଶିକ୍ଷଣର ସବୁଠାରୁ ବାସ୍ତବ ବା ମୂର୍ତ୍ତ (concrete) ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ଵ କରେ, ଯାହା ଶଙ୍କୁର ଏକେବାରେ ନିମ୍ନ ଭାଗରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "କୃତ୍ରିମ ଅଭିଜ୍ଞତା (Contrived Experiences)",
+            "ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା (Direct Purposeful Experiences)",
+            "ନାଟକୀୟ ଅଂଶଗ୍ରହଣ (Dramatic Participation)",
+            "ପ୍ରଦର୍ଶନ (Demonstrations)"
+          ],
+          "explanation": "ଏଡଗର ଡେଲ୍‌ଙ୍କ ଅଭିଜ୍ଞତା ଶଙ୍କୁ ଅନୁଯାୟୀ, 'ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା' ସବୁଠାରୁ ବାସ୍ତବ, ବ୍ୟବହାରିକ ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ଅଭିଜ୍ଞତାକୁ ପ୍ରତିନିଧିତ୍ଵ କରେ ଏବଂ ଏହା ଶଙ୍କୁର ମୂଳଦୁଆ ଗଠନ କରେ। ଶଙ୍କୁର ଉପରକୁ ଗଲେ, ଅଭିଜ୍ଞତାଗୁଡ଼ିକ କ୍ରମଶଃ ଅମୂର୍ତ୍ତ (abstract) ହୋଇଯାଏ।"
         }
       }
     }

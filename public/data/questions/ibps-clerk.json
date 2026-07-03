@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1637,6 +1637,136 @@
       ],
       "answer": 1,
       "explanation": "While the global Basel III framework mandates a minimum CET1 ratio of 4.5%, the RBI has set a more stringent requirement of 5.5% for Indian Scheduled Commercial Banks, excluding the Capital Conservation Buffer of 2.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783073962276-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B can complete a piece of work in 18 days and 24 days respectively. They started the work together, but A left 3 days before the completion of the work. In how many days was the work completed?",
+      "options": [
+        "9 days",
+        "10 days",
+        "12 days",
+        "15 days"
+      ],
+      "answer": 2,
+      "explanation": "Let the total work be the LCM of 18 and 24, which is 72 units. Efficiency of A = 72 / 18 = 4 units/day. Efficiency of B = 72 / 24 = 3 units/day. Let the total time taken to complete the work be 'x' days. Since A left 3 days before completion, A worked for (x - 3) days and B worked for x days. Therefore, 4*(x - 3) + 3*x = 72 => 4x - 12 + 3x = 72 => 7x = 84 => x = 12 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1783073962276-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the length to the breadth of a rectangular plot is 5 : 4. A path of uniform width 2 meters runs all around the outside of the plot. If the area of the path is 196 square meters, what is the breadth of the plot?",
+      "options": [
+        "16 meters",
+        "20 meters",
+        "24 meters",
+        "25 meters"
+      ],
+      "answer": 1,
+      "explanation": "Let the length and breadth of the plot be 5x and 4x respectively. Area of the plot = 5x * 4x = 20x^2. The path runs outside the plot with a width of 2 meters, so the outer length becomes (5x + 4) meters and the outer breadth becomes (4x + 4) meters. Outer area = (5x + 4)(4x + 4) = 20x^2 + 20x + 16x + 16 = 20x^2 + 36x + 16. Area of the path = Outer area - Inner area = (20x^2 + 36x + 16) - 20x^2 = 36x + 16. Given, 36x + 16 = 196 => 36x = 180 => x = 5. Therefore, the breadth of the plot is 4x = 4 * 5 = 20 meters."
+    },
+    {
+      "id": "ibps-clerk-ai-1783073980886-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "There are seven members in a family: P, Q, R, S, T, U, and V. There are two married couples. P is the father-in-law of T, who is the mother of R. Q is the brother of U. V is the only son of P. S is the sister of V, and S is married to Q. How is S related to P?",
+      "options": [
+        "Daughter",
+        "Daughter-in-law",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "P is the father-in-law of T, and T is the mother of R. Since V is the only son of P, T must be married to V. S is the sister of V, which means S is the daughter of P (and Q is her husband). Thus, S is the daughter of P."
+    },
+    {
+      "id": "ibps-clerk-ai-1783073980886-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language, all vowels in a word are replaced by their immediately preceding letter in the English alphabetical series, and all consonants are replaced by their immediately succeeding letter in the English alphabetical series. After this replacement, the letters of the resulting word are arranged in alphabetical order from left to right. What will be the code for the word 'CREDIT'?",
+      "options": [
+        "DDEHSU",
+        "DDHESU",
+        "DDEHUS",
+        "CDEHSU"
+      ],
+      "answer": 0,
+      "explanation": "First, we apply the replacement rules to 'CREDIT': C (consonant) becomes D; R (consonant) becomes S; E (vowel) becomes D; D (consonant) becomes E; I (vowel) becomes H; T (consonant) becomes U. This gives the intermediate string 'DSDEHU'. Arranging these letters in alphabetical order from left to right results in 'DDEHSU'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783073991175-0",
+      "section": "English",
+      "topic": "Contextual Vocabulary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, two words are italicized. Identify the grammatical/semantic relationship between these two words:\n\n'The CEO's *lucid* explanation of the complex merger made the board members appreciate his *perspicuous* communication style.'",
+      "options": [
+        "They are antonyms to each other.",
+        "They are synonyms to each other.",
+        "They are homophones but have different meanings.",
+        "One is a noun and the other is an adjective."
+      ],
+      "answer": 1,
+      "explanation": "Both 'lucid' and 'perspicuous' are adjectives that mean clearly expressed and easy to understand. Therefore, they are synonyms to each other in this context."
+    },
+    {
+      "id": "ibps-clerk-ai-1783073991175-1",
+      "section": "English",
+      "topic": "Subject-Auxiliary Inversion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following options correctly completes the sentence given below?\n\n'Seldom _______ such a breathtaking performance by a debutant actor in the local theater.'",
+      "options": [
+        "we have witnessed",
+        "have we witnessed",
+        "we had witnessed",
+        "did we witnessed"
+      ],
+      "answer": 1,
+      "explanation": "When negative or restrictive adverbs like 'seldom', 'rarely', or 'hardly' are placed at the beginning of a sentence for emphasis, they require subject-auxiliary inversion. Therefore, 'have we witnessed' is the grammatically correct choice. Option D is incorrect because 'did' must be followed by the base form of the verb ('witness')."
+    },
+    {
+      "id": "ibps-clerk-ai-1783074001977-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the maximum deposit limit allowed under the Mahila Samman Savings Certificate (MSSC) scheme, which was introduced in the Union Budget 2023-24?",
+      "options": [
+        "Rs. 1,00,000",
+        "Rs. 1,50,000",
+        "Rs. 2,00,000",
+        "Rs. 5,00,000"
+      ],
+      "answer": 2,
+      "explanation": "The Mahila Samman Savings Certificate (MSSC) is a one-time small savings scheme for women and girls. It offers a fixed interest rate of 7.5% per annum with a tenure of two years, and the maximum deposit limit is capped at Rs. 2 Lakh.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783074001977-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the minimum net worth requirement for non-bank entities to set up and operate White Label ATMs (WLAs) in India?",
+      "options": [
+        "Rs. 50 crore",
+        "Rs. 100 crore",
+        "Rs. 150 crore",
+        "Rs. 200 crore"
+      ],
+      "answer": 1,
+      "explanation": "To ensure financial stability and serious participation, the Reserve Bank of India has mandated that non-bank entities intending to set up and operate White Label ATMs (WLAs) in India must have a minimum net worth of Rs. 100 crore.",
       "status": "pending"
     }
   ]

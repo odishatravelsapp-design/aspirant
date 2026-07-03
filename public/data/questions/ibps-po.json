@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1360,6 +1360,136 @@
       ],
       "answer": 2,
       "explanation": "In March 2020, the Government of India exercised its powers under Section 4 of the Insolvency and Bankruptcy Code (IBC), 2016, to increase the minimum threshold of default from Rs. 1 Lakh to Rs. 1 Crore in order to protect businesses from being dragged into insolvency.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783074096293-0",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "An urn contains 6 red, 4 blue, and 5 green balls. If three balls are drawn at random, what is the probability that at least two of the drawn balls are of the same color?",
+      "options": [
+        "67/91",
+        "24/91",
+        "53/91",
+        "71/91"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 6 + 4 + 5 = 15. The number of ways to draw 3 balls out of 15 is 15C3 = (15 * 14 * 13) / (3 * 2 * 1) = 455. The event 'at least two balls are of the same color' is the complement of the event 'all three balls are of different colors'. The number of ways to choose exactly one ball of each color is 6C1 * 4C1 * 5C1 = 6 * 4 * 5 = 120. Thus, the probability of getting all three different colors is 120/455 = 24/91. Therefore, the probability of getting at least two balls of the same color is 1 - 24/91 = 67/91."
+    },
+    {
+      "id": "ibps-po-ai-1783074096293-1",
+      "section": "Quant",
+      "topic": "Compound and Simple Interest",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A person invested a sum of Rs. P in Scheme A offering 20% p.a. compound interest (compounded annually) for 3 years. He invested another sum, which is Rs. 4,000 more than P, in Scheme B offering 10% p.a. simple interest for 3 years. If the interest earned from Scheme A is Rs. 3,080 more than the interest earned from Scheme B, find the total sum invested by the person in both schemes together.",
+      "options": [
+        "Rs. 20,000",
+        "Rs. 24,000",
+        "Rs. 28,000",
+        "Rs. 32,000"
+      ],
+      "answer": 1,
+      "explanation": "Interest from Scheme A (CI for 3 years at 20%): I_A = P * [(1 + 0.20)^3 - 1] = P * [1.728 - 1] = 0.728P. Interest from Scheme B (SI for 3 years at 10% on P + 4000): I_B = (P + 4000) * 10% * 3 = 0.30(P + 4000) = 0.30P + 1200. Given that I_A - I_B = 3080. Substituting the values: 0.728P - (0.30P + 1200) = 3080 => 0.428P - 1200 = 3080 => 0.428P = 4280 => P = 10,000. The total sum invested in both schemes is P + (P + 4000) = 10,000 + 14,000 = Rs. 24,000."
+    },
+    {
+      "id": "ibps-po-ai-1783074112760-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few oceans are seas.\nAll seas are rivers.\nNo river is a lake.\n\nConclusions:\nI. All oceans being rivers is a possibility.\nII. Some seas are not lakes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few oceans are seas' means 'Some oceans are seas' and 'Some oceans are not seas'. Since 'All seas are rivers', the oceans that are not seas can still be part of rivers. Thus, all oceans being rivers is a valid possibility, so Conclusion I follows.\n2. Since 'All seas are rivers' and 'No river is a lake', it is certain that 'No sea is a lake'. If no sea is a lake, then 'Some seas are not lakes' is also definitely true. Thus, Conclusion II follows."
+    },
+    {
+      "id": "ibps-po-ai-1783074112760-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, the symbols $, @, %, #, and * are used with the following meanings:\n'P $ Q' means 'P is neither smaller than nor equal to Q'\n'P @ Q' means 'P is neither greater than nor equal to Q'\n'P % Q' means 'P is not greater than Q'\n'P # Q' means 'P is not smaller than Q'\n'P * Q' means 'P is neither greater than nor smaller than Q'\n\nStatements: H # T, T @ F, F % L, L * W\n\nConclusions:\nI. W $ T\nII. H @ F",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Decoding the symbols:\n$ means >\n@ means <\n% means <=\n# means >=\n* means =\n\nConverting the statements:\nH >= T, T < F, F <= L, L = W\nCombining them: H >= T < F <= L = W\n\nEvaluating Conclusions:\nI. W $ T => W > T. From the chain T < F <= L = W, we clearly get T < W (or W > T). Hence, I is true.\nII. H @ F => H < F. From H >= T < F, the signs are in opposite directions between H and F, so no relationship can be established. Hence, II is false."
+    },
+    {
+      "id": "ibps-po-ai-1783074131050-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, two sentences are given with a blank in each. Select the word from the given options that fits grammatically and contextually in both the blanks.\n\nI. Several environmental organizations have decided to ________ the new green energy initiative proposed by the ministry.\nII. Known as a fierce ________ of free speech, the journalist refused to reveal her sources despite intense political pressure.",
+      "options": [
+        "champion",
+        "bolster",
+        "proponent",
+        "defend"
+      ],
+      "answer": 0,
+      "explanation": "'Champion' can act as both a verb and a noun. In sentence I, 'to champion' acts as an infinitive verb meaning to support or defend a cause. In sentence II, 'champion' acts as a noun meaning a person who vigorously supports or defends a cause. 'Bolster' and 'defend' do not fit grammatically as nouns in sentence II without modification, and 'proponent' cannot be used as a verb in sentence I."
+    },
+    {
+      "id": "ibps-po-ai-1783074131050-1",
+      "section": "English",
+      "topic": "Paragraph Coherence",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Four of the five sentences (A, B, C, D, and E) given below can be rearranged to form a coherent paragraph. Identify the sentence that does NOT fit into the sequence and is the 'odd one out'.\n\n(A) While central banks globally are raising interest rates to combat inflation, the domestic market has shown remarkable resilience due to robust consumer demand.\n(B) This resilience is particularly visible in the automotive and real estate sectors, which have recorded double-digit growth over the last two quarters.\n(C) Economists suggest that sustained wage growth and a stable job market have acted as a buffer against external macroeconomic shocks.\n(D) Consequently, foreign institutional investors have turned net buyers, pumping billions of dollars into Indian equities.\n(E) However, the transition to renewable energy sources remains painfully slow due to policy bottlenecks and high capital costs.",
+      "options": [
+        "Sentence B",
+        "Sentence C",
+        "Sentence D",
+        "Sentence E"
+      ],
+      "answer": 3,
+      "explanation": "Sentences A, B, C, and D form a logically coherent paragraph discussing the resilience of the domestic market, the sectors driving it, the underlying economic factors (wage and job stability), and the resulting foreign investment. Sentence E introduces an entirely unrelated topic—the transition to renewable energy and its policy bottlenecks—making it the odd one out."
+    },
+    {
+      "id": "ibps-po-ai-1783074140163-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Liberalised Remittance Scheme (LRS) of the Reserve Bank of India, what is the maximum permissible limit for resident individuals to freely remit funds abroad per financial year (April-March) for any permitted current or capital account transaction?",
+      "options": [
+        "USD 100,000",
+        "USD 150,000",
+        "USD 250,000",
+        "USD 500,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the Liberalised Remittance Scheme (LRS), all resident individuals, including minors, are allowed to freely remit up to USD 250,000 per financial year (April - March) for any permissible current or capital account transaction or a combination of both.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783074140163-1",
+      "section": "General Awareness",
+      "topic": "Co-operative Banking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the four-tier regulatory framework for Urban Co-operative Banks (UCBs) implemented by the Reserve Bank of India, Tier 1 UCBs include unit UCBs and salary earners' UCBs, as well as other UCBs with deposits up to which of the following thresholds?",
+      "options": [
+        "₹50 crore",
+        "₹100 crore",
+        "₹250 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's revised regulatory framework for UCBs, Tier 1 comprises unit UCBs and salary earners' UCBs (irrespective of deposit size), and all other UCBs having deposits up to ₹100 crore.",
       "status": "pending"
     }
   ]

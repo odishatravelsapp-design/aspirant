@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -1143,6 +1143,234 @@
             "୧୯୧୨"
           ],
           "explanation": "ଓଡ଼ିଆ ଭାଷାଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକର ଏକତ୍ରୀକରଣ ଏବଂ ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଗଠନ ଦାବିରେ ଡିସେମ୍ବର ୧୯୦୩ ମସିହାରେ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074173457-0",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B start a business with investments in the ratio 5 : 6. After 4 months, A withdraws 1/5 of his investment, while B increases his investment by 33 1/3%. If the total annual profit is Rs. 12,600, what is the share of B in the profit?",
+      "options": [
+        "Rs. 7,200",
+        "Rs. 7,920",
+        "Rs. 8,400",
+        "Rs. 6,480"
+      ],
+      "answer": 1,
+      "explanation": "Let initial investments of A and B be 5x and 6x respectively. For the first 4 months, A's investment is 5x * 4 = 20x, and B's investment is 6x * 4 = 24x. For the next 8 months, A withdraws 1/5 of 5x (which is x), making his remaining investment 4x. So A's investment for these 8 months is 4x * 8 = 32x. B increases his investment by 33 1/3% of 6x (which is 2x), making his new investment 8x. So B's investment for these 8 months is 8x * 8 = 64x. Total investment ratio of A to B = (20x + 32x) : (24x + 64x) = 52x : 88x = 13 : 22. Total profit is Rs. 12,600. Sum of ratio shares = 13 + 22 = 35. Therefore, B's share = (22 / 35) * 12,600 = 22 * 360 = Rs. 7,920.",
+      "translations": {
+        "or": {
+          "question": "A ଏବଂ B ଯଥାକ୍ରମେ 5 : 6 ଅନୁପାତରେ ପୁଞ୍ଜି ବିନିଯୋଗ କରି ଏକ ବ୍ୟବସାୟ ଆରମ୍ଭ କରନ୍ତି। 4 ମାସ ପରେ, A ତାଙ୍କ ବିନିଯୋଗର 1/5 ଭାଗ ପ୍ରତ୍ୟାହାର କରନ୍ତି, ଯେତେବେଳେ କି B ତାଙ୍କ ବିନିଯୋଗକୁ 33 1/3% ବୃଦ୍ଧି କରନ୍ତି। ଯଦି ବାର୍ଷିକ ମୋଟ ଲାଭ 12,600 ଟଙ୍କା ହୁଏ, ତେବେ ଲାଭରେ B ର ଅଂଶ କେତେ?",
+          "options": [
+            "7,200 ଟଙ୍କା",
+            "7,920 ଟଙ୍କା",
+            "8,400 ଟଙ୍କା",
+            "6,480 ଟଙ୍କା"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ A ଏବଂ B ର ପ୍ରାରମ୍ଭିକ ବିନିଯୋଗ ଯଥାକ୍ରମେ 5x ଏବଂ 6x ଅଟେ। ପ୍ରଥମ 4 ମାସ ପାଇଁ, A ର ବିନିଯୋଗ = 5x * 4 = 20x ଏବଂ B ର ବିନିଯୋଗ = 6x * 4 = 24x। ପରବର୍ତ୍ତୀ 8 ମାସ ପାଇଁ, A ତାଙ୍କର 5x ର 1/5 ଭାଗ (ଅର୍ଥାତ୍ x) ପ୍ରତ୍ୟାହାର କରନ୍ତି, ଯାହା ଫଳରେ ତାଙ୍କର ଅବଶିଷ୍ଟ ବିନିଯୋଗ 4x ହୁଏ। ତେଣୁ ଏହି 8 ମାସ ପାଇଁ A ର ବିନିଯୋଗ = 4x * 8 = 32x। B ତାଙ୍କର 6x ର 33 1/3% (ଅର୍ଥାତ୍ 2x) ବୃଦ୍ଧି କରନ୍ତି, ଯାହା ଫଳରେ ତାଙ୍କର ନୂତନ ବିନିଯୋଗ 8x ହୁଏ। ତେଣୁ ଏହି 8 ମାସ ପାଇଁ B ର ବିନିଯୋଗ = 8x * 8 = 64x। A ଏବଂ B ର ମୋଟ ବିନିଯୋଗ ଅନୁପାତ = (20x + 32x) : (24x + 64x) = 52 : 88 = 13 : 22। ମୋଟ ଲାଭ = 12,600 ଟଙ୍କା। ଅନୁପାତର ସମଷ୍ଟି = 13 + 22 = 35। ତେଣୁ, B ର ଅଂଶ = (22 / 35) * 12,600 = 22 * 360 = 7,920 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074173457-1",
+      "section": "Arithmetic",
+      "topic": "Average",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The average score of 40 students in an exam was 72. Later, it was discovered that the scores of three students were misread as 68, 75, and 73 instead of 86, 57, and 93 respectively. Additionally, one student's score of 84 was completely omitted from the calculation. What is the correct average score of the 41 students (rounded to two decimal places)?",
+      "options": [
+        "72.48",
+        "72.78",
+        "73.12",
+        "71.95"
+      ],
+      "answer": 1,
+      "explanation": "Initial total sum of 40 students = 40 * 72 = 2880. Correct sum = Initial sum - (Incorrect scores) + (Correct scores) + (Omitted student's score) = 2880 - (68 + 75 + 73) + (86 + 57 + 93) + 84 = 2880 - 216 + 236 + 84 = 2984. Since one student's score was completely omitted initially, the actual total number of students is now 41. New Correct Average = 2984 / 41 ≈ 72.78.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ପରୀକ୍ଷାରେ 40 ଜଣ ଛାତ୍ରଙ୍କ ହାରାହାରି ମାର୍କ 72 ଥିଲା। ପରେ ଜଣାପଡିଲା ଯେ ତିନିଜଣ ଛାତ୍ରଙ୍କ ମାର୍କ 86, 57 ଏବଂ 93 ବଦଳରେ ଭୁଲବଶତଃ ଯଥାକ୍ରମେ 68, 75 ଏବଂ 73 ପଢାଯାଇଥିଲା। ଏହା ବ୍ୟତୀତ, ଜଣେ ଛାତ୍ରଙ୍କ ମାର୍କ 84 କୁ ହିସାବରୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ବାଦ୍ ଦିଆଯାଇଥିଲା। 41 ଜଣ ଛାତ୍ରଙ୍କ ସଠିକ୍ ହାରାହାରି ମାର୍କ କେତେ (ଦଶମିକ ଦୁଇ ସ୍ଥାନ ପର୍ଯ୍ୟନ୍ତ)?",
+          "options": [
+            "72.48",
+            "72.78",
+            "73.12",
+            "71.95"
+          ],
+          "explanation": "40 ଜଣ ଛାତ୍ରଙ୍କ ପ୍ରାରମ୍ଭିକ ମୋଟ ମାର୍କ = 40 * 72 = 2880। ସଠିକ୍ ମୋଟ ମାର୍କ = ପ୍ରାରମ୍ଭିକ ସମଷ୍ଟି - (ଭୁଲ ମାର୍କ) + (ସଠିକ୍ ମାର୍କ) + (ବାଦ୍ ପଡ଼ିଥିବା ଛାତ୍ରଙ୍କ ମାର୍କ) = 2880 - (68 + 75 + 73) + (86 + 57 + 93) + 84 = 2880 - 216 + 236 + 84 = 2984। ଯେହେତୁ ପ୍ରାରମ୍ଭରେ ଜଣେ ଛାତ୍ରଙ୍କ ମାର୍କ ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ବାଦ୍ ଦିଆଯାଇଥିଲା, ବର୍ତ୍ତମାନ ପ୍ରକୃତ ମୋଟ ଛାତ୍ର ସଂଖ୍ୟା ହେଉଛି 41। ନୂତନ ସଠିକ୍ ହାରାହାରି ମାର୍କ = 2984 / 41 ≈ 72.78।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074200062-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'SAMBALPUR' is coded as 'TCPCCOQWU'. How will 'BALASORE' be coded in that language?",
+      "options": [
+        "CCOBURSG",
+        "CCOBTRSG",
+        "CCNAURSG",
+        "CDOBVRSG"
+      ],
+      "answer": 0,
+      "explanation": "The pattern involves alternating additions of +1, +2, and +3 to the positional values of the letters. S (+1) = T, A (+2) = C, M (+3) = P, B (+1) = C, A (+2) = C, L (+3) = O, P (+1) = Q, U (+2) = W, R (+3) = U. Applying this same pattern to 'BALASORE': B (+1) = C, A (+2) = C, L (+3) = O, A (+1) = B, S (+2) = U, O (+3) = R, R (+1) = S, E (+2) = G. Thus, 'BALASORE' is coded as 'CCOBURSG'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'SAMBALPUR' କୁ 'TCPCCOQWU' ଭାବରେ କୋଡ୍ କରାଯାଇଛି | ସେହି ଭାଷାରେ 'BALASORE' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "CCOBURSG",
+            "CCOBTRSG",
+            "CCNAURSG",
+            "CDOBVRSG"
+          ],
+          "explanation": "ଏଠାରେ ପାଟର୍ନଟି ହେଉଛି ଅକ୍ଷରଗୁଡ଼ିକର କ୍ରମରେ +1, +2, ଏବଂ +3 ର ପର୍ଯ୍ୟାୟକ୍ରମିକ ଯୋଗଫଳ | S (+1) = T, A (+2) = C, M (+3) = P, B (+1) = C, A (+2) = C, L (+3) = O, P (+1) = Q, U (+2) = W, R (+3) = U | BALASORE ପାଇଁ ସମାନ ନିୟମ ପ୍ରୟୋଗ କଲେ: B (+1) = C, A (+2) = C, L (+3) = O, A (+1) = B, S (+2) = U, O (+3) = R, R (+1) = S, E (+2) = G | ତେଣୁ, କୋଡ୍ ହେଉଛି 'CCOBURSG' |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074200062-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A tourist starts from a hotel and walks 12 km towards North. He then turns right and walks 8 km. After that, he turns left and walks 5 km, then turns left again and walks 12 km. He then turns left and walks 17 km. In which direction and how far is he now from his starting point?",
+      "options": [
+        "4 km, West",
+        "4 km, East",
+        "8 km, North",
+        "12 km, South"
+      ],
+      "answer": 0,
+      "explanation": "Let the starting point (hotel) be at coordinates (0, 0). 1) Walking 12 km North reaches (0, 12). 2) Turning right (East) and walking 8 km reaches (8, 12). 3) Turning left (North) and walking 5 km reaches (8, 17). 4) Turning left (West) and walking 12 km reaches (-4, 17). 5) Turning left (South) and walking 17 km reaches (-4, 0). The coordinates (-4, 0) indicate that he is exactly 4 km West of his starting point (0, 0).",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ପର୍ଯ୍ୟଟକ ଏକ ହୋଟେଲରୁ ବାହାରି ଉତ୍ତର ଦିଗକୁ ୧୨ କିଲୋମିଟର ଚାଲନ୍ତି | ଏହା ପରେ ସେ ଡାହାଣକୁ ବୁଲି ୮ କିଲୋମିଟର ଚାଲନ୍ତି | ତା’ପରେ, ସେ ବାମକୁ ବୁଲି ୫ କିଲୋମିଟର ଚାଲନ୍ତି, ପୁଣି ଥରେ ବାମକୁ ବୁଲି ୧୨ କିଲୋମିଟର ଚାଲନ୍ତି | ଏହା ପରେ ସେ ବାମକୁ ବୁଲି ୧୭ କିଲୋମିଟର ଚାଲନ୍ତି | ବର୍ତ୍ତମାନ ସେ ନିଜର ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁରୁ କେଉଁ ଦିଗରେ ଏବଂ କେତେ ଦୂରରେ ଅଛନ୍ତି?",
+          "options": [
+            "୪ କିଲୋମିଟର, ପଶ୍ଚିମ",
+            "୪ କିଲୋମିଟର, ପୂର୍ବ",
+            "୮ କିଲୋମିଟର, ଉତ୍ତର",
+            "୧୨ କିଲୋମିଟର, ଦକ୍ଷିଣ"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ (ହୋଟେଲ) (0, 0) ସ୍ଥାନରେ ଅଛି | ୧) ଉତ୍ତର ଦିଗକୁ ୧୨ କିଲୋମିଟର ଚାଲିଲେ (0, 12) ରେ ପହଞ୍ଚିବେ | ୨) ଡାହାଣକୁ (ପୂର୍ବ ଦିଗ) ବୁଲି ୮ କିଲୋମିଟର ଚାଲିଲେ (8, 12) ରେ ପହଞ୍ଚିବେ | ୩) ବାମକୁ (ଉତ୍ତର ଦିଗ) ବୁଲି ୫ କିଲୋମିଟର ଚାଲିଲେ (8, 17) ରେ ପହଞ୍ଚିବେ | ୪) ପୁଣି ବାମକୁ (ପଶ୍ଚିମ ଦିଗ) ବୁଲି ୧୨ କିଲୋମିଟର ଚାଲିଲେ (-4, 17) ରେ ପହଞ୍ଚିବେ | ୫) ଶେଷରେ ବାମକୁ (ଦକ୍ଷିଣ ଦିଗ) ବୁଲି ୧୭ କିଲୋମିଟର ଚାଲିଲେ (-4, 0) ରେ ପହଞ୍ଚିବେ | ଏହି ସ୍ଥିତି (-4, 0) ଦର୍ଶାଏ ଯେ ସେ ନିଜର ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ (0, 0) ରୁ ଠିକ୍ ୪ କିଲୋମିଟର ପଶ୍ଚିମ ଦିଗରେ ଅଛନ୍ତି |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074235721-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first Chief Justice of the Orissa High Court after its establishment in 1948?",
+      "options": [
+        "Bira Kishore Ray",
+        "Jagannadhadas",
+        "R. Lakshman Narasimham",
+        "Lingaraj Panigrahi"
+      ],
+      "answer": 0,
+      "explanation": "Justice Bira Kishore Ray was appointed as the first Chief Justice of the Orissa High Court when it was formally inaugurated on July 26, 1948.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୮ ମସିହାରେ ପ୍ରତିଷ୍ଠା ହେବା ପରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ବୀର କିଶୋର ରାୟ",
+            "ଜଗନ୍ନାଥ ଦାସ",
+            "ଆର. ଲକ୍ଷ୍ମଣ ନରସିଂହମ",
+            "ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ"
+          ],
+          "explanation": "ଜୁଲାଇ ୨୬, ୧୯୪୮ ରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦଘାଟିତ ହେବା ସମୟରେ ଜଷ୍ଟିସ ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି ଭାବରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074235721-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Suryavamsi Gajapati dynasty of Odisha authored the famous Sanskrit play 'Abhinava Venisamharanam'?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 1,
+      "explanation": "Gajapati Purushottama Deva, who ruled from 1467 to 1497 AD, was a scholar and wrote the Sanskrit drama 'Abhinava Venisamharanam'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜବଂଶର କେଉଁ ଶାସକ ପ୍ରସିଦ୍ଧ ସଂସ୍କୃତ ନାଟକ 'ଅଭିନବ ବେଣୀସଂହରଣମ୍' ରଚନା କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "୧୪୬୭ ରୁ ୧୪୯୭ ଖ୍ରୀଷ୍ଟାବ୍ଦ ପର୍ଯ୍ୟନ୍ତ ଶାସନ କରିଥିବା ଗଜପତି ପୁରୁଷୋତ୍ତମ ଦେବ ଜଣେ ବିଦ୍ୱାନ ଥିଲେ ଏବଂ ସେ ସଂସ୍କୃତ ନାଟକ 'ଅଭିନବ ବେଣୀସଂହରଣମ୍' ରଚନା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074271329-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first recipient of the prestigious Atibadi Jagannath Das Award, the highest literary award of the Odisha Sahitya Akademi?",
+      "options": [
+        "Gopinath Mohanty",
+        "Radha Mohan Gadanayak",
+        "Sachidananda Routray",
+        "Surendra Mohanty"
+      ],
+      "answer": 1,
+      "explanation": "The Atibadi Jagannath Das Award was instituted by the Odisha Sahitya Akademi to honor lifetime contributions to Odia literature. The eminent poet Radha Mohan Gadanayak was its first recipient in the year 1993.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶା ସାହିତ୍ୟ ଏକାଡେମୀର ସର୍ବୋଚ୍ଚ ସାହିତ୍ୟିକ ସମ୍ମାନ 'ଅତିବଡ଼ୀ ଜଗନ୍ନାଥ ଦାସ ପୁରସ୍କାର' ର ପ୍ରଥମ ପ୍ରାପ୍ତକର୍ତ୍ତା କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋପୀନାଥ ମହାନ୍ତି",
+            "ରାଧାମୋହନ ଗଡ଼ନାୟକ",
+            "ସଚ୍ଚିଦାନନ୍ଦ ରାଉତରାୟ",
+            "ସୁରେନ୍ଦ୍ର ମହାନ୍ତି"
+          ],
+          "explanation": "ଓଡ଼ିଆ ସାହିତ୍ୟକୁ ଆଜୀବନ ଅବଦାନ ପାଇଁ ଓଡ଼ିଶା ସାହିତ୍ୟ ଏକାଡେମୀ ଦ୍ୱାରା ଅତିବଡ଼ୀ ଜଗନ୍ନାଥ ଦାସ ପୁରସ୍କାର ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା। ବିଶିଷ୍ଟ କବି ରାଧାମୋହନ ଗଡ଼ନାୟକ ୧୯୯୩ ମସିହାରେ ଏହି ପୁରସ୍କାରର ପ୍ରଥମ ପ୍ରାପ୍ତକର୍ତ୍ତା ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783074271329-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under British administration, in which year was the district of Sambalpur officially transferred from the Central Provinces to the Bengal Presidency (which then included the Odisha Division)?",
+      "options": [
+        "1901",
+        "1905",
+        "1912",
+        "1936"
+      ],
+      "answer": 1,
+      "explanation": "On 16 October 1905, as part of the territorial reorganization associated with the Partition of Bengal, Sambalpur was officially transferred from the Chhattisgarh Division of the Central Provinces to the Orissa Division of the Bengal Presidency.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରିଟିଶ ପ୍ରଶାସନ ଅଧୀନରେ, କେଉଁ ବର୍ଷ ସମ୍ବଲପୁର ଜିଲ୍ଲାକୁ କେନ୍ଦ୍ରୀୟ ପ୍ରଦେଶ (Central Provinces) ରୁ ସ୍ଥାନାନ୍ତର କରାଯାଇ ବଙ୍ଗ ପ୍ରେସିଡେନ୍ସି (ଯେଉଁଥିରେ ସେତେବେଳେ ଓଡ଼ିଶା ବିଭାଗ ସାମିଲ ଥିଲା) ସହ ମିଶ୍ରଣ କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୯୦୧",
+            "୧୯୦୫",
+            "୧୯୧୨",
+            "୧୯୩୬"
+          ],
+          "explanation": "୧୬ ଅକ୍ଟୋବର ୧୯୦୫ ରେ ବଙ୍ଗ ବିଭାଜନ ସହ ଜଡ଼ିତ ଆଞ୍ଚଳିକ ପୁନର୍ଗଠନର ଏକ ଅଂଶ ଭାବରେ, ସମ୍ବଲପୁରକୁ କେନ୍ଦ୍ରୀୟ ପ୍ରଦେଶର ଛତିଶଗଡ଼ ବିଭାଗରୁ ବଙ୍ଗ ପ୍ରେସିଡେନ୍ସିର ଓଡ଼ିଶା ବିଭାଗକୁ ସ୍ଥାନାନ୍ତର କରାଯାଇଥିଲା।"
         }
       }
     }

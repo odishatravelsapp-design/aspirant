@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1469,6 +1469,62 @@
             "ଚାମେରା ପ୍ରକଳ୍ପ - ବିଆସ ନଦୀ"
           ],
           "explanation": "ବାଗଲିହାର ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ଜମ୍ମୁ ଓ କାଶ୍ମୀରର ଚେନାବ ନଦୀ ଉପରେ ନିର୍ମିତ। ସଲାଲ ପ୍ରକଳ୍ପ ମଧ୍ୟ ଚେନାବ ନଦୀରେ, ଉରି ପ୍ରକଳ୍ପ ଜେଲମ ନଦୀରେ ଏବଂ ଚାମେରା ପ୍ରକଳ୍ପ ରାବି ନଦୀରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783075277393-0",
+      "section": "Child Development",
+      "topic": "Erikson's Psychosocial Stages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Erik Erikson's theory of psychosocial development, a school-age child who is encouraged and praised for their initiatives in school and home activities develops a sense of industry. If this initiative is instead restricted or ridiculed, the child is likely to develop a sense of:",
+      "options": [
+        "Guilt",
+        "Inferiority",
+        "Role confusion",
+        "Isolation"
+      ],
+      "answer": 1,
+      "explanation": "During Erikson's fourth stage (Industry vs. Inferiority, typically ages 6 to 11), children learn to perform increasingly complex tasks. Teachers and parents who encourage and praise them help them develop a sense of competence and industry. If they are discouraged, ridiculed, or cannot meet expectations, they are likely to develop feelings of inadequacy and inferiority.",
+      "translations": {
+        "or": {
+          "question": "ଏରିକ ଏରିକସନଙ୍କ ମନୋସାମାଜିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଯେଉଁ ସ୍କୁଲ୍ ଯାଉଥିବା ପିଲାକୁ ବିଦ୍ୟାଳୟ ଏବଂ ଗୃହ କାର୍ଯ୍ୟକଳାପରେ ତାଙ୍କର ପଦକ୍ଷେପ ପାଇଁ ଉତ୍ସାହିତ ଏବଂ ପ୍ରଶଂସା କରାଯାଏ, ସେଠାରେ ପରିଶ୍ରମଶୀଳତା (industry) ଭାବନା ବିକଶିତ ହୁଏ। ଯଦି ଏହି ପଦକ୍ଷେପକୁ ସୀମିତ କିମ୍ବା ପରିହାସ କରାଯାଏ, ତେବେ ପିଲାଟି କେଉଁ ଭାବନା ବିକଶିତ କରିବାର ସମ୍ଭାବନା ଥାଏ?",
+          "options": [
+            "ଅପରାଧବୋଧ (Guilt)",
+            "ହୀନମନ୍ୟତା (Inferiority)",
+            "ଭୂମିକା ଦ୍ୱନ୍ଦ୍ୱ (Role confusion)",
+            "ଏକାକୀତ୍ୱ (Isolation)"
+          ],
+          "explanation": "ଏରିକସନଙ୍କ ମନୋସାମାଜିକ ବିକାଶର ଚତୁର୍ଥ ପର୍ଯ୍ୟାୟରେ (ପରିଶ୍ରମଶୀଳତା ବନାମ ହୀନମନ୍ୟତା, ସାଧାରଣତଃ ୬ ରୁ ୧୧ ବର୍ଷ), ପିଲାମାନେ ଅଧିକ ଜଟିଳ କାର୍ଯ୍ୟ କରିବା ଶିଖନ୍ତି। ଶିକ୍ଷକ ଏବଂ ପିତାମାତା ଯେଉଁମାନେ ସେମାନଙ୍କୁ ପ୍ରୋତ୍ସାହିତ କରନ୍ତି, ସେମାନଙ୍କୁ ଦକ୍ଷତା ବିକାଶରେ ସାହାଯ୍ୟ କରନ୍ତି। ଯଦି ସେମାନଙ୍କୁ ନିରୁତ୍ସାହିତ କିମ୍ବା ଉପହାସ କରାଯାଏ, ତେବେ ସେମାନଙ୍କ ମଧ୍ୟରେ ହୀନମନ୍ୟତା ସୃଷ୍ଟି ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783075277393-1",
+      "section": "Child Development",
+      "topic": "Moral Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Carol Gilligan's critique of Lawrence Kohlberg's theory of moral development argues that Kohlberg's stages are biased against women because they prioritize an ethics of justice over an:",
+      "options": [
+        "ethics of care",
+        "ethics of duty",
+        "ethics of self-actualization",
+        "ethics of reciprocity"
+      ],
+      "answer": 0,
+      "explanation": "Carol Gilligan, in her book 'In a Different Voice', argued that Lawrence Kohlberg's theory was male-biased because it emphasized abstract rules and justice (typically prioritized by males) while neglecting the ethics of care, which emphasizes relationships, empathy, and responsibility toward others (typically prioritized by females).",
+      "translations": {
+        "or": {
+          "question": "ଲରେନ୍ସ କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଉପରେ କାରୋଲ ଗିଲିଗାନଙ୍କ ସମାଲୋଚନା ଦର୍ଶାଏ ଯେ କୋହଲବର୍ଗଙ୍କ ପର୍ଯ୍ୟାୟଗୁଡ଼ିକ ମହିଳାମାନଙ୍କ ବିରୁଦ୍ଧରେ ପକ୍ଷପାତମୂଳକ, କାରଣ ସେଗୁଡ଼ିକ ନ୍ୟାୟର ନୈତିକତାକୁ କାହା ଅପେକ୍ଷା ଅଧିକ ପ୍ରାଥମିକତା ଦିଅନ୍ତି?",
+          "options": [
+            "ଯତ୍ନର ନୈତିକତା (ethics of care)",
+            "କର୍ତ୍ତବ୍ୟର ନୈତିକତା (ethics of duty)",
+            "ଆତ୍ମ-ସନ୍ତୋଷର ନୈତିକତା (ethics of self-actualization)",
+            "ପାରସ୍ପରିକତାର ନୈତିକତା (ethics of reciprocity)"
+          ],
+          "explanation": "କାରୋଲ ଗିଲିଗାନ୍ ନିଜ ପୁସ୍ତକ 'ଇନ୍ ଏ ଡିଫରେଣ୍ଟ ଭଏସ୍' ରେ ଯୁକ୍ତି ବାଢ଼ିଥିଲେ ଯେ କୋହଲବର୍ଗଙ୍କ ସିଦ୍ଧାନ୍ତ ପୁରୁଷ-କେନ୍ଦ୍ରିତ ଥିଲା କାରଣ ଏହା ନିୟମ ଏବଂ ନ୍ୟାୟ ଉପରେ ଅଧିକ ଗୁରୁତ୍ୱ ଦେଉଥିଲା, ଯେତେବେଳେ କି 'ଯତ୍ନର ନୈତିକତା' (ଯାହା ସମ୍ପର୍କ, ସହାନୁଭୂତି ଏବଂ ଦାୟିତ୍ୱ ଉପରେ ଆଧାରିତ) କୁ ଅବହେଳା କରୁଥିଲା।"
         }
       }
     }

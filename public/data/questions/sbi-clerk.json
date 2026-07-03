@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1424,6 +1424,136 @@
       ],
       "answer": 1,
       "explanation": "The State Bank of India was constituted on July 1, 1955, under the State Bank of India Act, 1955, to take over the undertaking of the Imperial Bank of India.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783074023849-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B start a business. A invests Rs. 8,000. After 4 months, A withdraws Rs. 2,000 and B joins the business with an investment of Rs. 10,000. After another 2 months, C joins them with an investment of Rs. 12,000. If the total profit at the end of the year is Rs. 43,500, find the share of B in the profit.",
+      "options": [
+        "Rs. 12,500",
+        "Rs. 15,000",
+        "Rs. 16,500",
+        "Rs. 18,000"
+      ],
+      "answer": 1,
+      "explanation": "A's equivalent investment for 1 month = (8000 * 4) + (6000 * 8) = 32000 + 48000 = Rs. 80,000. B joins after 4 months (active for 8 months), so B's equivalent investment = 10000 * 8 = Rs. 80,000. C joins after another 2 months (active for 6 months), so C's equivalent investment = 12000 * 6 = Rs. 72,000. The ratio of profit sharing A : B : C = 80000 : 80000 : 72000 = 10 : 10 : 9. The sum of ratio terms = 10 + 10 + 9 = 29. B's share of profit = (10 / 29) * 43500 = Rs. 15,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1783074023849-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A man can row 24 km upstream and 36 km downstream in 6 hours. He can row 36 km upstream and 24 km downstream in 6.5 hours. Find the speed of the current (stream) in km/h.",
+      "options": [
+        "1.5 km/h",
+        "2.5 km/h",
+        "2 km/h",
+        "3 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Let upstream speed be u km/h and downstream speed be d km/h. According to the first condition: 24/u + 36/d = 6 => 4/u + 6/d = 1. According to the second condition: 36/u + 24/d = 6.5 => 72/u + 48/d = 13. Multiplying the first simplified equation by 4 gives: 16/u + 24/d = 4. Subtracting this from the second equation: (72/u - 16/u) = 13 - 4 => 20/u = 2.5 => u = 8 km/h. Substituting u = 8 in the first equation: 4/8 + 6/d = 1 => 6/d = 1/2 => d = 12 km/h. Speed of the stream = (d - u)/2 = (12 - 8)/2 = 2 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1783074040371-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusion(s) is/are definitely true.\n\nStatements: P ≥ Q > R ≥ U; T < R ≤ S\n\nConclusions:\nI. P > T\nII. S ≥ U",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusions I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 2,
+      "explanation": "By combining the given statements, we get: P ≥ Q > R > T (since T < R) and S ≥ R ≥ U. For conclusion I: Since P ≥ Q > R > T, we clearly have P > T. Hence, conclusion I is true. For conclusion II: Since S ≥ R ≥ U, we have S ≥ U. Hence, conclusion II is also true. Thus, both conclusions I and II are true."
+    },
+    {
+      "id": "sbi-clerk-ai-1783074040371-1",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six friends A, B, C, D, E, and F are sitting around a circular table facing the center. A sits second to the left of B. C sits second to the right of B. D sits opposite to B. E is not an immediate neighbor of A. Who sits to the immediate left of F?",
+      "options": [
+        "E",
+        "A",
+        "C",
+        "B"
+      ],
+      "answer": 1,
+      "explanation": "Let us place the six friends at positions corresponding to 12, 2, 4, 6, 8, and 10 o'clock on a circle. Let B sit at 12 o'clock. Since they face the center, 'left' is clockwise and 'right' is counter-clockwise. A sits second to the left of B, so A is at 4 o'clock. C sits second to the right of B, so C is at 8 o'clock. D sits opposite to B, so D is at 6 o'clock. E is not an immediate neighbor of A (the neighbors of A at 4 o'clock are 2 and 6 o'clock), which means E cannot be at 2 o'clock, so E must sit at 10 o'clock. The only remaining position for F is at 2 o'clock. Facing the center, the immediate left (clockwise direction) of F (at 2 o'clock) is 4 o'clock, which is occupied by A."
+    },
+    {
+      "id": "sbi-clerk-ai-1783074051979-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most appropriate pair of words to fill in the blanks and make the sentence grammatically correct and contextually meaningful.\n\nThe committee decided to ________ the discussion on the new policy to prevent any further ________ among the staff members.",
+      "options": [
+        "expedite, contentment",
+        "defer, dissension",
+        "suppress, peace",
+        "highlight, alignment"
+      ],
+      "answer": 1,
+      "explanation": "The word 'defer' means to postpone or delay, and 'dissension' means disagreement that leads to discord. In the context of the sentence, the committee would postpone (defer) a discussion to avoid or prevent further disagreement (dissension) among the staff. Other options do not fit the logical flow of 'preventing' a negative outcome."
+    },
+    {
+      "id": "sbi-clerk-ai-1783074051979-1",
+      "section": "English",
+      "topic": "Subjunctive Mood",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the correct option to fill in the blank.\n\nIt is imperative that the newly appointed director ________ immediate action to curb the rising operational deficits.",
+      "options": [
+        "takes",
+        "take",
+        "would take",
+        "is taking"
+      ],
+      "answer": 1,
+      "explanation": "The sentence structure utilizes the subjunctive mood, which is triggered by adjectives expressing urgency or demand such as 'imperative', 'essential', or 'crucial'. In subjunctive noun clauses, the base form of the verb (bare infinitive 'take') is used, regardless of whether the subject ('the newly appointed director') is singular or plural."
+    },
+    {
+      "id": "sbi-clerk-ai-1783074063383-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the Union Budget 2023-24, the maximum deposit limit for the Senior Citizens Savings Scheme (SCSS) was enhanced from ₹15 lakh to what amount?",
+      "options": [
+        "₹20 lakh",
+        "₹25 lakh",
+        "₹30 lakh",
+        "₹40 lakh"
+      ],
+      "answer": 2,
+      "explanation": "In the Union Budget 2023-24, the Government of India enhanced the maximum investment limit for the Senior Citizens Savings Scheme (SCSS) from ₹15 lakh to ₹30 lakh to benefit senior citizens.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783074063383-1",
+      "section": "General Awareness",
+      "topic": "RBI Initiatives",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the RBI Retail Direct Scheme launched to facilitate investment in government securities by individual investors, which of the following instruments is NOT eligible for investment?",
+      "options": [
+        "Treasury Bills (T-Bills)",
+        "State Development Loans (SDLs)",
+        "Sovereign Gold Bonds (SGB)",
+        "Commercial Papers (CPs)"
+      ],
+      "answer": 3,
+      "explanation": "The RBI Retail Direct Scheme allows retail investors to buy and sell Government Securities (G-Secs) such as Treasury Bills (T-Bills), Dated Securities, State Development Loans (SDLs), and Sovereign Gold Bonds (SGBs). Commercial Papers (CPs) are unsecured money market instruments issued by corporates and are not eligible under this scheme.",
       "status": "pending"
     }
   ]
