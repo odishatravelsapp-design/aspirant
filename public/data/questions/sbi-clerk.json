@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1554,6 +1554,136 @@
       ],
       "answer": 3,
       "explanation": "The RBI Retail Direct Scheme allows retail investors to buy and sell Government Securities (G-Secs) such as Treasury Bills (T-Bills), Dated Securities, State Development Loans (SDLs), and Sovereign Gold Bonds (SGBs). Commercial Papers (CPs) are unsecured money market instruments issued by corporates and are not eligible under this scheme.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783157552286-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person sold an article at a loss of 12%. If he had sold it for Rs. 162 more, he would have gained 15%. At what price should he sell the article to gain 20%?",
+      "options": [
+        "Rs. 720",
+        "Rs. 750",
+        "Rs. 680",
+        "Rs. 800"
+      ],
+      "answer": 0,
+      "explanation": "Let the Cost Price (CP) of the article be Rs. x. Selling at a 12% loss means SP1 = 0.88x. Selling at a 15% gain means SP2 = 1.15x. Given, SP2 - SP1 = 162 => 1.15x - 0.88x = 162 => 0.27x = 162 => x = 600. To gain 20%, the selling price must be 120% of CP = 1.20 * 600 = Rs. 720."
+    },
+    {
+      "id": "sbi-clerk-ai-1783157552286-1",
+      "section": "Quant",
+      "topic": "Permutation and Combination",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In how many different ways can the letters of the word 'CREATION' be arranged such that the vowels always occupy the odd places?",
+      "options": [
+        "576",
+        "1152",
+        "2880",
+        "1440"
+      ],
+      "answer": 0,
+      "explanation": "The word 'CREATION' has 8 letters: 4 vowels (E, A, I, O) and 4 consonants (C, R, T, N). There are 4 odd positions (1st, 3rd, 5th, 7th) and 4 even positions (2nd, 4th, 6th, 8th). The 4 vowels can be arranged in the 4 odd positions in 4! = 24 ways. The remaining 4 consonants can be arranged in the 4 even positions in 4! = 24 ways. Therefore, the total number of ways is 24 * 24 = 576."
+    },
+    {
+      "id": "sbi-clerk-ai-1783157568606-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Directions: In the following question, three statements are given followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\n1. Only a few papers are files.\n2. All files are folders.\n3. No folder is a document.\n\nConclusions:\nI. Some papers are not folders.\nII. Some files are not documents.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 ('Only a few papers are files') means Some papers are files and Some papers are not files. Statement 2 says 'All files are folders'. Since all files are folders and some papers are files, a part of papers is definitely folders. However, all papers can potentially be folders (just not all files). Thus, conclusion I ('Some papers are not folders') does not definitely follow. Statement 3 says 'No folder is a document'. Since all files are folders, no file can be a document. Therefore, 'Some files are not documents' (Conclusion II) is definitely true. Thus, only conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1783157568606-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Analyze the coding rules and answer the question that follows:\n\nLetters: A, E, I, O, U, B, D, F, G, H, K, M\nCodes: 5, @, 3, $, 8, 2, %, 6, *, 7, 9, 1\n(Note: Codes are given in the respective order of letters, i.e., A=5, E=@, I=3, O=$, U=8, B=2, D=%, F=6, G=*, H=7, K=9, M=1)\n\nRules:\n1. If the first letter is a consonant and the last letter is a vowel, both are to be coded as the code for the vowel.\n2. If the first letter is a vowel and the last letter is a consonant, their codes are to be interchanged.\n3. If both the first and last letters are consonants, both are to be coded as '#'.\n\nWhat is the code for the word 'MDKHIE'?",
+      "options": [
+        "@%973@",
+        "1%973@",
+        "@%9731",
+        "#%973#"
+      ],
+      "answer": 0,
+      "explanation": "In the word 'MDKHIE', the first letter is 'M' (a consonant) and the last letter is 'E' (a vowel). According to Rule 1, both the first and last letters must be coded as the code for the vowel 'E', which is '@'. The remaining letters 'D', 'K', 'H', and 'I' are coded as '%', '9', '7', and '3' respectively. Hence, the code for 'MDKHIE' is '@%973@'."
+    },
+    {
+      "id": "sbi-clerk-ai-1783157583312-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most suitable phrasal verb to fill in the blank in the sentence below:\n\nDespite the intense pressure from the management, the union leaders refused to _________ and stood firm on their demands.",
+      "options": [
+        "knuckle under",
+        "egg on",
+        "tide over",
+        "iron out"
+      ],
+      "answer": 0,
+      "explanation": "\"Knuckle under\" is a phrasal verb that means to submit, yield, or give in to pressure or authority. In the context of the sentence, the union leaders refused to yield to the management's pressure, making \"knuckle under\" the correct choice. \"Egg on\" means to encourage someone to do something. \"Tide over\" means to help someone through a difficult period. \"Iron out\" means to resolve difficulties."
+    },
+    {
+      "id": "sbi-clerk-ai-1783157583312-1",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blanks with the correct combination of words to make the sentence grammatically coherent:\n\nThe committee _________ divided in their opinions regarding the new policy, but after a long discussion, every member _________ to sign the resolution.",
+      "options": [
+        "was, was willing",
+        "were, was willing",
+        "were, were willing",
+        "was, were willing"
+      ],
+      "answer": 1,
+      "explanation": "Collective nouns like 'committee' take a plural verb ('were') when the members are acting individually, which is indicated here by the plural pronoun 'their'. Conversely, 'every member' is singular because 'every' acts as a singular distributive pronoun, thus requiring the singular verb 'was willing'."
+    },
+    {
+      "id": "sbi-clerk-ai-1783157593097-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Depositor Education and Awareness Fund (DEAF) Scheme, banks are required to transfer the credit balance of any account that has not been operated for how many years to the Reserve Bank of India?",
+      "options": [
+        "5 years",
+        "7 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": 2,
+      "explanation": "According to Section 26A of the Banking Regulation Act, 1949, banks must transfer any amount under any deposit account in India that has not been operated upon for a period of 10 years, or any deposit remaining unclaimed for more than 10 years, to the Depositor Education and Awareness Fund (DEAF) maintained by the RBI.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783157593097-1",
+      "section": "General Awareness",
+      "topic": "Financial Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the minimum transaction value above which the 20-digit Legal Entity Identifier (LEI) is mandatory for non-individual entities undertaking transactions through RTGS and NEFT?",
+      "options": [
+        "₹10 crore and above",
+        "₹50 crore and above",
+        "₹100 crore and above",
+        "₹200 crore and above"
+      ],
+      "answer": 1,
+      "explanation": "The Reserve Bank of India made the 20-digit Legal Entity Identifier (LEI) code mandatory for all payment transactions of value ₹50 crore and above undertaken by entities (non-individuals) using Centralised Payment Systems, specifically RTGS and NEFT.",
       "status": "pending"
     }
   ]

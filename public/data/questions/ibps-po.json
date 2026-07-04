@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1490,6 +1490,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI's revised regulatory framework for UCBs, Tier 1 comprises unit UCBs and salary earners' UCBs (irrespective of deposit size), and all other UCBs having deposits up to ₹100 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783157613489-0",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A bag contains 6 red cards numbered 1 to 6 and 5 blue cards numbered 1 to 5. If two cards are drawn at random, find the probability that both cards are of the same color or have the same number.",
+      "options": [
+        "6/11",
+        "7/11",
+        "5/11",
+        "8/11"
+      ],
+      "answer": 0,
+      "explanation": "Total number of cards = 6 (red) + 5 (blue) = 11. The number of ways to draw 2 cards from 11 is 11C2 = (11 * 10) / 2 = 55. Let E1 be the event that both cards are of the same color. Number of favorable outcomes for E1 = 6C2 (both red) + 5C2 (both blue) = 15 + 10 = 25. Let E2 be the event that both cards have the same number. Since blue cards are numbered 1 to 5 and red cards 1 to 6, the matching pairs can only be (1R, 1B), (2R, 2B), (3R, 3B), (4R, 4B), and (5R, 5B). Thus, there are 5 such pairs. Number of favorable outcomes for E2 = 5. Since a pair of cards cannot have both the same color and the same number, E1 and E2 are mutually exclusive events. Therefore, the total favorable outcomes = 25 + 5 = 30. Probability = 30 / 55 = 6/11."
+    },
+    {
+      "id": "ibps-po-ai-1783157613489-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a work individually in 20, 30, and 40 days respectively. They started working together, but A left after some days, and B left 5 days before the completion of the work. If the total work was completed in 14 days, for how many days did A work?",
+      "options": [
+        "6 days",
+        "7 days",
+        "8 days",
+        "5 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the total work be the LCM of 20, 30, and 40, which is 120 units. Rate of work: A = 120/20 = 6 units/day, B = 120/30 = 4 units/day, C = 120/40 = 3 units/day. The total work was completed in 14 days. C worked for all 14 days, so work done by C = 14 * 3 = 42 units. B left 5 days before completion, meaning B worked for 14 - 5 = 9 days. Work done by B = 9 * 4 = 36 units. Total work done by B and C together = 42 + 36 = 78 units. The remaining work was done by A. Remaining work = 120 - 78 = 42 units. Number of days A worked = 42 / 6 = 7 days."
+    },
+    {
+      "id": "ibps-po-ai-1783157631580-0",
+      "section": "Reasoning",
+      "topic": "Coded Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain coded language, the following symbols represent directions between points:\n'P * Q' means 'P is 12m East of Q'\n'P @ Q' means 'P is 4m West of Q'\n'P # Q' means 'P is 9m North of Q'\n'P $ Q' means 'P is 3m South of Q'\n\nIf the expression 'A * B # C @ D $ E' is true, what is the shortest distance and direction of E with respect to A?",
+      "options": [
+        "10m, South-West",
+        "10m, North-East",
+        "14m, South-West",
+        "12m, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Let us trace the coordinates of the points by setting a reference point. Let C be at the origin (0, 0).\n1. 'C @ D' means C is 4m West of D. Thus, D is at (4, 0).\n2. 'D $ E' means D is 3m South of E. Thus, E is at (4, 3).\n3. 'B # C' means B is 9m North of C. Thus, B is at (0, 9).\n4. 'A * B' means A is 12m East of B. Thus, A is at (12, 9).\n\nNow, we find the distance and direction of E(4, 3) with respect to A(12, 9):\nHorizontal distance (dx) = 12 - 4 = 8m\nVertical distance (dy) = 9 - 3 = 6m\nShortest distance = sqrt(8^2 + 6^2) = sqrt(64 + 36) = sqrt(100) = 10m.\nTo go from A(12, 9) to E(4, 3), we must move West and South. Hence, the direction is South-West."
+    },
+    {
+      "id": "ibps-po-ai-1783157631580-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statement: A major public sector bank in India recently decided to completely replace its physical passbook printing kiosks with digital e-passbooks accessible via a mobile application. The management argued that this move would drastically reduce operational costs and encourage paperless green banking. However, union representatives argue that this decision will alienate a significant portion of their rural and elderly customer base, who are not tech-savvy and rely heavily on physical records for financial reassurance.\n\nWhich of the following, if true, most seriously weakens the union representatives' argument?",
+      "options": [
+        "A recent independent survey shows that 85% of the bank's rural and elderly customers already use basic smartphones and have successfully transitioned to UPI-based digital payments.",
+        "The maintenance cost of physical kiosk machines has risen by 40% over the last two fiscal years, impacting the bank's overall profit margins.",
+        "Several private sector banks operating in metro cities have successfully phased out physical passbooks without experiencing any reduction in their customer base.",
+        "The bank plans to set up dedicated help-desks in its urban branches to assist customers in downloading and navigating the new mobile application."
+      ],
+      "answer": 0,
+      "explanation": "The union's argument is based on the premise that rural and elderly customers will be alienated because they are not tech-savvy and cannot adapt to digital alternatives. Option A directly weakens this argument by presenting empirical data that 85% of this specific demographic is already tech-savvy enough to use smartphones and UPI payments. Option B supports the management's cost-saving motive but does not address the union's concern about customer alienation. Option C is irrelevant as it talks about private banks in metro (urban) areas, whereas the concern is about rural/elderly customers. Option D only addresses urban branches, leaving the rural customer base unassisted."
+    },
+    {
+      "id": "ibps-po-ai-1783157649375-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the pair of words that fits logically and grammatically into the blanks of the given sentence.\n\nThe central bank's decision to ________ interest rates was aimed at ________ the rising inflation that had been destabilizing the economy for consecutive quarters.",
+      "options": [
+        "escalate, cushioning",
+        "hike, curbing",
+        "depress, fueling",
+        "stabilize, aggravating"
+      ],
+      "answer": 1,
+      "explanation": "To control or reduce rising inflation, central banks typically increase or 'hike' interest rates. 'Curbing' means to limit or keep in check, which fits perfectly with the goal of taming destabilizing inflation."
+    },
+    {
+      "id": "ibps-po-ai-1783157649375-1",
+      "section": "English",
+      "topic": "Grammar and Syntax",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the grammatically correct sentence from the options below.",
+      "options": [
+        "The Managing Director, along with his team of financial analysts, is scheduled to present the annual budget proposal tomorrow.",
+        "Scarcely had the merger been announced than the share prices of both companies began to plummet rapidly.",
+        "The new policy is preferable than the old one as it offers greater flexibility to the retail investors.",
+        "Neither the board of directors nor the chief executive officer were aware of the security breach until yesterday."
+      ],
+      "answer": 0,
+      "explanation": "Option A is correct because the singular subject 'The Managing Director' takes the singular verb 'is'; parenthetical phrases led by 'along with' do not change the number of the subject. Option B is incorrect because 'scarcely' should be paired with 'when' or 'before' instead of 'than'. Option C is incorrect because 'preferable' must be followed by 'to', not 'than'. Option D is incorrect because with 'neither... nor', the verb agrees with the closer subject ('chief executive officer'), which is singular, so it requires 'was' instead of 'were'."
+    },
+    {
+      "id": "ibps-po-ai-1783157667127-0",
+      "section": "General Awareness",
+      "topic": "Digital Payments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In October 2024, the Reserve Bank of India (RBI) enhanced the limits for UPI Lite to promote wider adoption of digital payments. What is the revised maximum wallet limit for UPI Lite?",
+      "options": [
+        "₹2,000",
+        "₹5,000",
+        "₹10,000",
+        "₹15,000"
+      ],
+      "answer": 1,
+      "explanation": "During the October 2024 Monetary Policy Committee (MPC) meeting, the RBI increased the wallet limit for UPI Lite from ₹2,000 to ₹5,000, and the per-transaction limit from ₹500 to ₹1,000, to encourage digital transactions in offline/low-connectivity modes.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783157667127-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. What is the primary operational difference between the SDF and the Reverse Repo Rate?",
+      "options": [
+        "SDF requires the RBI to provide government securities as collateral to banks, whereas Reverse Repo does not.",
+        "SDF does not require the RBI to provide government securities as collateral to banks, whereas Reverse Repo does.",
+        "SDF is available only to Cooperative Banks, whereas Reverse Repo is available to all Scheduled Commercial Banks.",
+        "SDF transactions are processed only weekly, while Reverse Repo is operated on a daily basis."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) allows the RBI to absorb liquidity from commercial banks without providing government securities as collateral, unlike the Reverse Repo facility which is a collateralized mechanism.",
       "status": "pending"
     }
   ]

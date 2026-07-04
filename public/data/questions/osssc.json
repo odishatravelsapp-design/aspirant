@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -1371,6 +1371,234 @@
             "୧୯୩୬"
           ],
           "explanation": "୧୬ ଅକ୍ଟୋବର ୧୯୦୫ ରେ ବଙ୍ଗ ବିଭାଜନ ସହ ଜଡ଼ିତ ଆଞ୍ଚଳିକ ପୁନର୍ଗଠନର ଏକ ଅଂଶ ଭାବରେ, ସମ୍ବଲପୁରକୁ କେନ୍ଦ୍ରୀୟ ପ୍ରଦେଶର ଛତିଶଗଡ଼ ବିଭାଗରୁ ବଙ୍ଗ ପ୍ରେସିଡେନ୍ସିର ଓଡ଼ିଶା ବିଭାଗକୁ ସ୍ଥାନାନ୍ତର କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157690289-0",
+      "section": "Arithmetic",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pipe A and Pipe B can fill a cistern in 12 hours and 15 hours respectively. Pipe C can empty it in 6 hours. If A and B are opened for 5 hours and then C is also opened, how long will it take to empty the cistern?",
+      "options": [
+        "30 hours",
+        "40 hours",
+        "45 hours",
+        "50 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let the capacity of the cistern be the LCM of 12, 15, and 6, which is 60 units. Efficiency of Pipe A = 60 / 12 = 5 units/hr. Efficiency of Pipe B = 60 / 15 = 4 units/hr. Efficiency of Pipe C = -60 / 6 = -10 units/hr (negative because it empties). In the first 5 hours, A and B are open: Water filled = (5 + 4) * 5 = 45 units. Now, when C is also opened, the net efficiency = 5 + 4 - 10 = -1 unit/hr (emptying). Time taken to empty the 45 units already filled = 45 / 1 = 45 hours.",
+      "translations": {
+        "or": {
+          "question": "ପାଇପ୍ A ଏବଂ ପାଇପ୍ B ଯଥାକ୍ରମେ 12 ଘଣ୍ଟା ଏବଂ 15 ଘଣ୍ଟାରେ ଏକ ଜଳାଶୟ (cistern) ପୂର୍ଣ୍ଣ କରିପାରିବେ। ପାଇପ୍ C ଏହାକୁ 6 ଘଣ୍ଟାରେ ଖାଲି କରିପାରିବ। ଯଦି A ଏବଂ B କୁ 5 ଘଣ୍ଟା ପାଇଁ ଖୋଲା ରଖାଯାଏ ଏବଂ ତା’ପରେ C କୁ ମଧ୍ୟ ଖୋଲାଯାଏ, ତେବେ ଜଳାଶୟଟିକୁ ଖାଲି ହେବା ପାଇଁ କେତେ ସମୟ ଲାଗିବ?",
+          "options": [
+            "30 ଘଣ୍ଟା",
+            "40 ଘଣ୍ଟା",
+            "45 ଘଣ୍ଟା",
+            "50 ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ଜଳାଶୟର ମୋଟ କ୍ଷମତା (12, 15, 6 ର LCM) = 60 ୟୁନିଟ୍। Pipe A ର ଦକ୍ଷତା = 60 / 12 = 5 ୟୁନିଟ୍/ଘଣ୍ଟା। Pipe B ର ଦକ୍ଷତା = 60 / 15 = 4 ୟୁନିଟ୍/ଘଣ୍ଟା। Pipe C ର ଦକ୍ଷତା = -60 / 6 = -10 ୟୁନିଟ୍/ଘଣ୍ଟା (ଖାଲି ହେବା ହେତୁ ବିୟୋଗାତ୍ମକ)। ପ୍ରଥମ 5 ଘଣ୍ଟାରେ A ଏବଂ B ଦ୍ୱାରା ପୂର୍ଣ୍ଣ ହୋଇଥିବା ଜଳ = (5 + 4) * 5 = 45 ୟୁନିଟ୍। ଯେତେବେଳେ C କୁ ଖୋଲାଯାଏ, ନେଟ୍ ଦକ୍ଷତା = 5 + 4 - 10 = -1 ୟୁନିଟ୍/ଘଣ୍ଟା। ଜଳାଶୟକୁ ଖାଲି କରିବା ପାଇଁ ସମୟ = 45 / 1 = 45 ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157690289-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A dealer marks his goods 30% above the cost price and allows a discount of 15% to his customers. At the time of selling, he uses a false weight of 900g instead of 1 kg. What is his overall profit percentage?",
+      "options": [
+        "20 1/9 %",
+        "22 7/9 %",
+        "25 5/9 %",
+        "27 2/9 %"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price of 1g of goods be Rs. 1. Thus, CP of 1000g = Rs. 1000. Marked Price (MP) of 1000g = 1000 * 1.30 = Rs. 1300. Selling Price (SP) after 15% discount = 1300 * 0.85 = Rs. 1105. Since he uses a false weight of 900g instead of 1kg, the actual cost of the goods sold is the CP of 900g = Rs. 900. Profit = SP - CP = 1105 - 900 = Rs. 205. Profit % = (205 / 900) * 100 = 205 / 9 % = 22 7/9 %.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟବସାୟୀ ତାଙ୍କ ସାମଗ୍ରୀର ମୂଲ୍ୟ କ୍ରୟ ମୂଲ୍ୟଠାରୁ 30% ଅଧିକ ଧାର୍ଯ୍ୟ କରନ୍ତି ଏବଂ ଗ୍ରାହକଙ୍କୁ 15% ରିହାତି ପ୍ରଦାନ କରନ୍ତି। ବିକ୍ରୟ ସମୟରେ, ସେ 1 କିଲୋଗ୍ରାମ ବଦଳରେ 900 ଗ୍ରାମର ଏକ ମିଥ୍ୟା ଓଜନ ବ୍ୟବହାର କରନ୍ତି। ତାଙ୍କର ସମୁଦାୟ ଲାଭ ପ୍ରତିଶତ କେତେ?",
+          "options": [
+            "20 1/9 %",
+            "22 7/9 %",
+            "25 5/9 %",
+            "27 2/9 %"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ 1 ଗ୍ରାମ ସାମଗ୍ରୀର କ୍ରୟ ମୂଲ୍ୟ 1 ଟଙ୍କା। 1000 ଗ୍ରାମର କ୍ରୟ ମୂଲ୍ୟ (CP) = 1000 ଟଙ୍କା। ଧାର୍ଯ୍ୟ ମୂଲ୍ୟ (MP) = 1000 ର 130% = 1300 ଟଙ୍କା। 15% ରିହାତି ପରେ ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = 1300 * 0.85 = 1105 ଟଙ୍କା। କିନ୍ତୁ ସେ 900 ଗ୍ରାମ ଓଜନ ଦିଅନ୍ତି, ଯାହାର ପ୍ରକୃତ କ୍ରୟ ମୂଲ୍ୟ (CP) = 900 ଟଙ୍କା। ଲାଭ = SP - CP = 1105 - 900 = 205 ଟଙ୍କା। ଲାଭ ପ୍ରତିଶତ = (205 / 900) * 100% = 22 7/9 %।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157705626-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the next number in the given series: 7, 16, 41, 90, 171, ?",
+      "options": [
+        "252",
+        "292",
+        "282",
+        "312"
+      ],
+      "answer": 1,
+      "explanation": "The differences between consecutive terms are consecutive odd squares: 16 - 7 = 9 (3²), 41 - 16 = 25 (5²), 90 - 41 = 49 (7²), 171 - 90 = 81 (9²). The next difference must be 11² = 121. Therefore, the next number is 171 + 121 = 292.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ ଶୃଙ୍ଖଳାରେ ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି କ’ଣ ହେବ? 7, 16, 41, 90, 171, ?",
+          "options": [
+            "252",
+            "292",
+            "282",
+            "312"
+          ],
+          "explanation": "କ୍ରମାଗତ ପଦଗୁଡ଼ିକ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ହେଉଛି କ୍ରମାଗତ ଅଯୁଗ୍ମ ସଂଖ୍ୟାର ବର୍ଗ: 16 - 7 = 9 (3²), 41 - 16 = 25 (5²), 90 - 41 = 49 (7²), 171 - 90 = 81 (9²)। ପରବର୍ତ୍ତୀ ପାର୍ଥକ୍ୟ 11² = 121 ହେବା ଉଚିତ। ତେଣୁ, ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ହେବ 171 + 121 = 292।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157705626-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'A # B' means 'A is the father of B'; 'A & B' means 'A is the brother of B'; 'A % B' means 'A is the mother of B'; and 'A @ B' means 'A is the daughter of B', then how is M related to Q in the expression 'M @ N % O & P # Q'?",
+      "options": [
+        "Mother",
+        "Paternal Aunt",
+        "Maternal Aunt",
+        "Sister"
+      ],
+      "answer": 1,
+      "explanation": "From 'M @ N', M is the daughter of N. From 'N % O', N is the mother of O. From 'O & P', O is the brother of P. This means M, O, and P are siblings, and N is their mother. From 'P # Q', P is the father of Q. Since M is the sister of Q's father (P), M is the paternal aunt of Q.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି 'A # B' ର ଅର୍ଥ 'A ହେଉଛି B ର ପିତା'; 'A & B' ର ଅର୍ଥ 'A ହେଉଛି B ର ଭାଇ'; 'A % B' ର ଅର୍ଥ 'A ହେଉଛି B ର ମାତା'; ଏବଂ 'A @ B' ର ଅର୍ଥ 'A ହେଉଛି B ର ଝିଅ', ତେବେ 'M @ N % O & P # Q' ସମୀକରଣରେ M ର Q ସହିତ ସମ୍ପର୍କ କ’ଣ?",
+          "options": [
+            "ମାତା (Mother)",
+            "ପିଉସୀ (Paternal Aunt)",
+            "ମାଉସୀ (Maternal Aunt)",
+            "ଭଉଣୀ (Sister)"
+          ],
+          "explanation": "'M @ N' ରୁ ଜଣାପଡ଼େ M ହେଉଛି N ର ଝିଅ। 'N % O' ରୁ N ହେଉଛି O ର ମାତା। 'O & P' ରୁ O ହେଉଛି P ର ଭାଇ। ଏହାର ଅର୍ଥ M, O ଏବଂ P ହେଉଛନ୍ତି ପରସ୍ପରର ଭାଇଭଉଣୀ ଏବଂ N ସେମାନଙ୍କର ମାତା। 'P # Q' ରୁ P ହେଉଛି Q ର ପିତା। ଯେହେତୁ M ହେଉଛନ୍ତି Q ଙ୍କ ପିତା (P) ଙ୍କ ଭଉଣୀ, ତେଣୁ M ହେଉଛନ୍ତି Q ର ପିଉସୀ (Paternal Aunt)।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157716703-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History and Culture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following was the founder of the 'Satyabadi Bana Vidyalaya' at Sakshigopal in Puri district?",
+      "options": [
+        "Gopabandhu Das",
+        "Madhusudan Das",
+        "Nilakantha Das",
+        "Harihar Das"
+      ],
+      "answer": 0,
+      "explanation": "Pandit Gopabandhu Das established the Satyabadi Bana Vidyalaya, a famous open-air school, at Sakshigopal in Puri district in the year 1909.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ‘ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ’ର ପ୍ରତିଷ୍ଠାତା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋପବନ୍ଧୁ ଦାସ",
+            "ମଧୁସୂଦନ ଦାସ",
+            "ନୀଳକଣ୍ଠ ଦାସ",
+            "ହରିହର ଦାସ"
+          ],
+          "explanation": "ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସ ୧୯୦୯ ମସିହାରେ ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ଏକ ପ୍ରସିଦ୍ଧ ମୁକ୍ତାକାଶ ବିଦ୍ୟାଳୟ ‘ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ’ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157716703-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Mandira Dam is built across which of the following tributaries of the Brahmani River?",
+      "options": [
+        "Sankh River",
+        "Koel River",
+        "Tel River",
+        "Ib River"
+      ],
+      "answer": 0,
+      "explanation": "The Mandira Dam is located near Kansbahal in the Sundargarh district of Odisha. It is built across the Sankh River, which is a major tributary of the Brahmani River.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମନ୍ଦିରା ବନ୍ଧ ବ୍ରାହ୍ମଣୀ ନଦୀର ନିମ୍ନଲିଖିତ କେଉଁ ଉପନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି?",
+          "options": [
+            "ଶଙ୍ଖ ନଦୀ",
+            "କୋଏଲ ନଦୀ",
+            "ତେଲ ନଦୀ",
+            "ଇବ୍ ନଦୀ"
+          ],
+          "explanation": "ମନ୍ଦିରା ବନ୍ଧ ଓଡ଼ିଶାର ସୁନ୍ଦରଗଡ଼ ଜିଲ୍ଲାର କାଂଶବାହାଲ ନିକଟରେ ଅବସ୍ଥିତ। ଏହା ବ୍ରାହ୍ମଣୀ ନଦୀର ଏକ ପ୍ରମୁଖ ଉପନଦୀ ଶଙ୍ଖ ନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157735411-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History & Journalism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was 'Utkal Deepika', the first weekly Odia newspaper, first published?",
+      "options": [
+        "1862",
+        "1866",
+        "1868",
+        "1872"
+      ],
+      "answer": 1,
+      "explanation": "Utkal Deepika, the first weekly newspaper in the Odia language, was published on August 4, 1866, by Karmabira Gouri Shankar Ray and Babu Bichitrananda Das during the critical period of the Na'Anka Durbhiksha (famine).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଥମ ସାପ୍ତାହିକ ଓଡ଼ିଆ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା' କେଉଁ ବର୍ଷ ପ୍ରଥମେ ପ୍ରକାଶିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧୮୬୨",
+            "୧୮୬୬",
+            "୧୮୬୮",
+            "୧୮୭୨"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ପ୍ରଥମ ସାପ୍ତାହିକ ଓଡ଼ିଆ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା' ୪ ଅଗଷ୍ଟ ୧୮୬୬ ମସିହାରେ କର୍ମବୀର ଗୌରୀଶଙ୍କର ରାୟ ଏବଂ ବାବୁ ବିଚିତ୍ରାନନ୍ଦ ଦାସଙ୍କ ଦ୍ୱାରା ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷର ଜଟିଳ ସମୟରେ ପ୍ରକାଶିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783157735411-1",
+      "section": "Odisha GK",
+      "topic": "Tribal Uprisings in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who led the second Bhuyan Uprising (Bhuyan Melia) of Keonjhar in 1891-92?",
+      "options": [
+        "Ratna Naik",
+        "Dharanidhar Naik",
+        "Laxman Nayak",
+        "Chakra Bisoyi"
+      ],
+      "answer": 1,
+      "explanation": "The second Bhuyan Uprising of Keonjhar (1891-92) was led by Dharanidhar Naik against the oppressive administration of King Dhanurjaya Narayan Bhanj Deo. The first rebellion in 1867-68 was led by Ratna Naik.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୯୧-୯୨ ମସିହାରେ କେନ୍ଦୁଝରର ଦ୍ୱିତୀୟ ଭୂୟାଁ ବିଦ୍ରୋହ (ଭୂୟାଁ ମେଳି) ର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ରତ୍ନ ନାଏକ",
+            "ଧରଣୀଧର ନାଏକ",
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ଚକ୍ର ବିଷୋୟୀ"
+          ],
+          "explanation": "୧୮୯୧-୯୨ ମସିହାରେ କେନ୍ଦୁଝରର ଦ୍ୱିତୀୟ ଭୂୟାଁ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ଧରଣୀଧର ନାଏକ ରାଜା ଧନୁର୍ଜୟ ନାରାୟଣ ଭଞ୍ଜଦେଓଙ୍କ ଅତ୍ୟାଚାରୀ ଶାସନ ବିରୁଦ୍ଧରେ ନେଇଥିଲେ। ପ୍ରଥମ ବିଦ୍ରୋହ (୧୮୬୭-୬୮) ର ନେତୃତ୍ୱ ରତ୍ନ ନାଏକ ନେଇଥିଲେ।"
         }
       }
     }

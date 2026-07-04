@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1767,6 +1767,136 @@
       ],
       "answer": 1,
       "explanation": "To ensure financial stability and serious participation, the Reserve Bank of India has mandated that non-bank entities intending to set up and operate White Label ATMs (WLAs) in India must have a minimum net worth of Rs. 100 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783157375510-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The ratio of the radius of a cylinder to its height is 5 : 7. If the volume of the cylinder is 4400 cm³, what is its curved surface area? (Take π = 22/7)",
+      "options": [
+        "440 cm²",
+        "880 cm²",
+        "660 cm²",
+        "1100 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Let the radius (r) of the cylinder be 5x and its height (h) be 7x.\nVolume of a cylinder = π * r² * h\n4400 = (22/7) * (5x)² * 7x\n4400 = 22 * 25x² * x\n4400 = 550 * x³\nx³ = 4400 / 550 = 8\nx = 2\nThus, radius r = 5 * 2 = 10 cm, and height h = 7 * 2 = 14 cm.\nCurved Surface Area (CSA) = 2 * π * r * h\nCSA = 2 * (22/7) * 10 * 14 = 2 * 22 * 10 * 2 = 880 cm²."
+    },
+    {
+      "id": "ibps-clerk-ai-1783157375510-1",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Train A, running at a speed of 72 km/h, crosses a platform of length 250 meters in 26 seconds. Train B, running at a speed of 54 km/h, crosses a pole in 16 seconds. What is the ratio of the length of Train A to that of Train B?",
+      "options": [
+        "9 : 8",
+        "5 : 4",
+        "3 : 2",
+        "8 : 7"
+      ],
+      "answer": 0,
+      "explanation": "Speed of Train A = 72 * (5/18) = 20 m/s.\nDistance covered by Train A in 26 seconds = Speed * Time = 20 * 26 = 520 m.\nSince it crosses a platform of 250 m, the length of Train A (L_A) + 250 = 520 => L_A = 270 m.\nSpeed of Train B = 54 * (5/18) = 15 m/s.\nSince Train B crosses a pole in 16 seconds, the length of Train B (L_B) = Speed * Time = 15 * 16 = 240 m.\nRatio of the length of Train A to Train B = 270 : 240 = 9 : 8."
+    },
+    {
+      "id": "ibps-clerk-ai-1783157408907-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If 'A @ B' means 'A is the husband of B', 'A # B' means 'A is the daughter of B', 'A $ B' means 'A is the brother of B', and 'A % B' means 'A is the mother of B', then how is M related to Q in the expression 'M # N @ O % P $ Q'?",
+      "options": [
+        "Brother",
+        "Sister",
+        "Mother",
+        "Daughter"
+      ],
+      "answer": 1,
+      "explanation": "From the expression M # N @ O % P $ Q: 1. M # N means M is the daughter of N (M is female). 2. N @ O means N is the husband of O (N is male, O is female, married couple). 3. O % P means O is the mother of P. 4. P $ Q means P is the brother of Q. This implies M, P, and Q are siblings, children of N and O. Since M is female, M is the sister of Q."
+    },
+    {
+      "id": "ibps-clerk-ai-1783157408907-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Given below are three statements followed by three conclusions. Decide which of the conclusions logically follow(s) from the given statements.\n\nStatements:\n1. Only a few tables are chairs.\n2. All chairs are benches.\n3. No bench is a desk.\n\nConclusions:\nI. All tables can never be chairs.\nII. Some chairs are desks is a possibility.\nIII. At least some tables are benches.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All I, II and III follow"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few tables are chairs' implies Some tables are chairs AND Some tables are not chairs. Thus, all tables can never be chairs. Conclusion I is correct. 2. Since 'All chairs are benches' and 'No bench is a desk', no chair can be a desk. Thus, the possibility in Conclusion II is incorrect. 3. Since some tables are chairs and all chairs are benches, there is a definite intersection between tables and benches. Conclusion III is correct. Therefore, only I and III follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1783157491568-0",
+      "section": "English",
+      "topic": "Grammar - Subjunctive Mood",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the options correctly replaces the bracketed portion of the sentence to maintain grammatical accuracy?\n\n'The board [demanded that the CEO explains] the sudden drop in quarterly profits.'",
+      "options": [
+        "demanded that the CEO explains",
+        "demanded that the CEO explain",
+        "demanded that the CEO should explains",
+        "demands that the CEO explains"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'demanded' triggers the subjunctive mood in the noun clause that follows it ('that the CEO explain...'). In the subjunctive mood, the base form of the verb ('explain') is used, regardless of whether the subject is singular or plural. Therefore, 'explain' is correct instead of 'explains'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783157491568-1",
+      "section": "English",
+      "topic": "Vocabulary - Word Usage",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Evaluate the use of the word 'disinterested' in the statements below and choose the option that represents its correct usage.\n\n1. A disinterested judge is required to ensure a fair and unbiased trial.\n2. He seemed completely disinterested in the lecture and kept checking his phone.\n3. The financial advisor gave disinterested advice, as he had no stake in the recommended funds.",
+      "options": [
+        "Only 1 and 2",
+        "Only 2 and 3",
+        "Only 1 and 3",
+        "All 1, 2, and 3"
+      ],
+      "answer": 2,
+      "explanation": "'Disinterested' means impartial, unbiased, or having no financial or personal interest in the outcome. Thus, it is used correctly in statements 1 and 3. In statement 2, the correct word should be 'uninterested', which means lacking interest, bored, or indifferent."
+    },
+    {
+      "id": "ibps-clerk-ai-1783157538074-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Priority Sector Lending (PSL) guidelines of the Reserve Bank of India, what is the target percentage of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (whichever is higher) prescribed for lending to 'Small and Marginal Farmers' for the financial year 2023-24 onwards?",
+      "options": [
+        "8.0%",
+        "9.5%",
+        "10.0%",
+        "12.0%"
+      ],
+      "answer": 2,
+      "explanation": "According to the RBI's revised guidelines on Priority Sector Lending, the sub-target for Small and Marginal Farmers (SMFs) within agriculture was increased in a phased manner, reaching 10% in FY 2023-24 (up from 8% in FY 2020-21).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783157538074-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The central government revised the premium rates for its flagship insurance schemes in June 2022. What is the current annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+      "options": [
+        "Rs. 12",
+        "Rs. 20",
+        "Rs. 330",
+        "Rs. 436"
+      ],
+      "answer": 1,
+      "explanation": "With effect from June 1, 2022, the annual premium rate for the Pradhan Mantri Suraksha Bima Yojana (PMSBY) was revised from Rs. 12 to Rs. 20. Simultaneously, the premium for PMJJBY was revised from Rs. 330 to Rs. 436.",
       "status": "pending"
     }
   ]

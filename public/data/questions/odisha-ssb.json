@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -2217,6 +2217,176 @@
             "ପ୍ରଦର୍ଶନ (Demonstrations)"
           ],
           "explanation": "ଏଡଗର ଡେଲ୍‌ଙ୍କ ଅଭିଜ୍ଞତା ଶଙ୍କୁ ଅନୁଯାୟୀ, 'ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା' ସବୁଠାରୁ ବାସ୍ତବ, ବ୍ୟବହାରିକ ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ଅଭିଜ୍ଞତାକୁ ପ୍ରତିନିଧିତ୍ଵ କରେ ଏବଂ ଏହା ଶଙ୍କୁର ମୂଳଦୁଆ ଗଠନ କରେ। ଶଙ୍କୁର ଉପରକୁ ଗଲେ, ଅଭିଜ୍ଞତାଗୁଡ଼ିକ କ୍ରମଶଃ ଅମୂର୍ତ୍ତ (abstract) ହୋଇଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783157754148-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Prose",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Thomas Carlyle's 'Sartor Resartus', what is the literal English translation of the name of the protagonist, Diogenes Teufelsdröckh?",
+      "options": [
+        "God-born Devil's-dung",
+        "Noble-born Angel's-food",
+        "Wisdom-seeker Earth-born",
+        "Light-bringer Shadow-catcher"
+      ],
+      "answer": 0,
+      "explanation": "In 'Sartor Resartus', the protagonist's name is highly symbolic. 'Diogenes' is of Greek origin meaning 'God-born' (or born of Zeus), and 'Teufelsdröckh' is a German compound word meaning 'Devil's dung'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଥମାସ କାର୍ଲାଇଲଙ୍କ 'Sartor Resartus' ରେ, ମୁଖ୍ୟ ଚରିତ୍ର 'ଡାୟୋଜେନିସ ଟେଉଫେଲ୍ସଡ୍ରୋକ' (Diogenes Teufelsdröckh) ଙ୍କ ନାମର ଆକ୍ଷରିକ ଇଂରାଜୀ ଅନୁବାଦ କ’ଣ?",
+          "options": [
+            "God-born Devil's-dung (ଈଶ୍ୱର-ଜନ୍ମିତ ଶୟତାନର ମଳ)",
+            "Noble-born Angel's-food (ମହତ-ଜନ୍ମିତ ଦେବଦୂତଙ୍କ ଖାଦ୍ୟ)",
+            "Wisdom-seeker Earth-born (ଜ୍ଞାନ-ଅନ୍ୱେଷୀ ପୃଥିବୀ-ଜନ୍ମିତ)",
+            "Light-bringer Shadow-catcher (ଆଲୋକ-ଦାତା ଛାୟା-ଗ୍ରହଣକାରୀ)"
+          ],
+          "explanation": "'Sartor Resartus' ରେ ମୁଖ୍ୟ ଚରିତ୍ରଙ୍କ ନାମ ଅତ୍ୟନ୍ତ ପ୍ରତୀକାତ୍ମକ ଅଟେ। 'Diogenes' ଗ୍ରୀକ୍ ଶବ୍ଦରୁ ଆସିଛି ଯାହାର ଅର୍ଥ 'ଈଶ୍ୱର-ଜନ୍ମିତ' (God-born) ଏବଂ 'Teufelsdröckh' ହେଉଛି ଏକ ଜର୍ମାନ ଶବ୍ଦ ଯାହାର ଅର୍ଥ 'ଶୟତାନର ମଳ' (Devil's dung) ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783157754148-1",
+      "section": "Subject Knowledge",
+      "topic": "Middle English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the 'General Prologue' to Geoffrey Chaucer's 'The Canterbury Tales', which pilgrim is described as having a 'fire-red cherubim's face', 'narrow eyes', and 'scabby black brows', making him a figure feared by children?",
+      "options": [
+        "The Miller",
+        "The Summoner",
+        "The Pardoner",
+        "The Reeve"
+      ],
+      "answer": 1,
+      "explanation": "In Chaucer's 'General Prologue', the Summoner is described as having a heavily diseased, pimply face ('fire-red cherubin's face'), narrow eyes, and black scabby brows, which makes him look so terrifying that children are afraid of him.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେଫ୍ରି ଚସରଙ୍କ 'ଦି କ୍ୟାଣ୍ଟରବରୀ ଟେଲ୍ସ' (The Canterbury Tales) ର 'ଜେନେରାଲ ପ୍ରୋଲୋଗ୍' (General Prologue) ରେ, କେଉଁ ଯାତ୍ରୀଙ୍କୁ 'ଅଗ୍ନି-ଲାଲ୍ ଦେବଦୂତ ସଦୃଶ ଚେହେରା' (fire-red cherubim's face), 'ସଂକୀର୍ଣ୍ଣ ଆଖି' ଏବଂ 'କାଛୁ କୁଣ୍ଡିଆ ହୋଇଥିବା କଳା ଭ୍ରୂଲତା' (scabby black brows) ଥିବା ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି, ଯାହାଙ୍କୁ ପିଲାମାନେ ଭୟ କରନ୍ତି?",
+          "options": [
+            "The Miller (ଦି ମିଲର୍)",
+            "The Summoner (ଦି ସମନର୍)",
+            "The Pardoner (ଦି ପାର୍ଡନର୍)",
+            "The Reeve (ଦି ରୀଭ୍)"
+          ],
+          "explanation": "ଚସରଙ୍କ 'ଜେନେରାଲ ପ୍ରୋଲୋଗ୍' ରେ, ସମନର୍ (The Summoner) ଙ୍କୁ ଏକ ରୋଗାକ୍ରାନ୍ତ, ବ୍ରଣଯୁକ୍ତ ଚେହେରା ('ଅଗ୍ନି-ଲାଲ୍ ଦେବଦୂତ ସଦୃଶ ଚେହେରା'), ସଂକୀର୍ଣ୍ଣ ଆଖି ଏବଂ କଳା କାଛୁଯୁକ୍ତ ଭ୍ରୂଲତା ଥିବା ବ୍ୟକ୍ତି ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି, ଯାହାଙ୍କୁ ଦେଖି ପିଲାମାନେ ଭୟ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783157770692-0",
+      "section": "Teaching Aptitude",
+      "topic": "Lesson Planning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is the correct sequential order of the Herbartian steps of lesson planning?",
+      "options": [
+        "Preparation, Presentation, Association, Generalization, Application",
+        "Presentation, Preparation, Generalization, Association, Application",
+        "Preparation, Association, Presentation, Application, Generalization",
+        "Presentation, Association, Preparation, Application, Generalization"
+      ],
+      "answer": 0,
+      "explanation": "The Herbartian formal steps of instruction follow a systematic five-step sequence: 1. Preparation (preparing the student's mind to receive new knowledge), 2. Presentation (presenting the new lesson), 3. Association or Comparison (linking new ideas with existing ones), 4. Generalization (deriving general laws or principles), and 5. Application (applying the acquired knowledge to new situations).",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ହର୍ବାର୍ଟିଆନ୍ ପାଠ୍ୟ ଯୋଜନା (Herbartian steps of lesson planning) ର ସଠିକ୍ କ୍ରମ ଅଟେ?",
+          "options": [
+            "ପ୍ରସ୍ତୁତି (Preparation), ଉପସ୍ଥାପନା (Presentation), ସହଯୋଗ/ତୁଳନା (Association), ସାଧାରଣୀକରଣ (Generalization), ପ୍ରୟୋଗ (Application)",
+            "ଉପସ୍ଥାପନା, ପ୍ରସ୍ତୁତି, ସାଧାରଣୀକରଣ, ସହଯୋଗ/ତୁଳନା, ପ୍ରୟୋଗ",
+            "ପ୍ରସ୍ତୁତି, ସହଯୋଗ/ତୁଳନା, ଉପସ୍ଥାପନା, ପ୍ରୟୋଗ, ସାଧାରଣୀକରଣ",
+            "ଉପସ୍ଥାପନା, ସହଯୋଗ/ତୁଳନା, ପ୍ରସ୍ତୁତି, ପ୍ରୟୋଗ, ସାଧାରଣୀକରଣ"
+          ],
+          "explanation": "ହର୍ବାର୍ଟଙ୍କ ପାଠ୍ୟ ଯୋଜନାର ପାଞ୍ଚଟି ଆନୁଷ୍ଠାନିକ ସୋପାନ ହେଉଛି: ପ୍ରସ୍ତୁତି (Introduction/Preparation), ଉପସ୍ଥାପନା (Presentation), ସହଯୋଗ କିମ୍ବା ତୁଳନା (Association/Comparison), ସାଧାରଣୀକରଣ (Generalization) ଏବଂ ପ୍ରୟୋଗ (Application)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783157770692-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The concept of 'Goal-Free Evaluation' was introduced by Michael Scriven in 1972. What is the primary objective of employing a goal-free evaluator in an educational program?",
+      "options": [
+        "To align the curriculum objectives precisely with the national standards.",
+        "To minimize bias and avoid overlooking unintended side-effects or outcomes of the program.",
+        "To ensure that the instructional goals set by the teacher are fully met by the students.",
+        "To rank students based on their achievement relative to their peers."
+      ],
+      "answer": 1,
+      "explanation": "Goal-Free Evaluation (GFE) is an approach where the evaluator intentionally avoids learning the program's stated goals. This helps to reduce anticipatory bias and allows the evaluator to discover and evaluate all actual outcomes (both positive and negative, intended and unintended) of the program.",
+      "translations": {
+        "or": {
+          "question": "୧୯୭୨ ମସିହାରେ ମାଇକେଲ୍ ସ୍କ୍ରିଭେନ୍ (Michael Scriven) ଙ୍କ ଦ୍ୱାରା 'ଲକ୍ଷ୍ୟ-ମୁକ୍ତ ମୂଲ୍ୟାଙ୍କନ' (Goal-Free Evaluation) ର ଧାରଣା ପ୍ରଦାନ କରାଯାଇଥିଲା। ଏକ ଶିକ୍ଷାଗତ କାର୍ଯ୍ୟକ୍ରମରେ ଜଣେ ଲକ୍ଷ୍ୟ-ମୁକ୍ତ ମୂଲ୍ୟାଙ୍କନକାରୀଙ୍କୁ ନିୟୋଜିତ କରିବାର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ କ’ଣ?",
+          "options": [
+            "ପାଠ୍ୟକ୍ରମର ଲକ୍ଷ୍ୟଗୁଡ଼ିକୁ ଜାତୀୟ ମାନଦଣ୍ଡ ସହିତ ସଠିକ୍ ଭାବରେ ସମନ୍ୱିତ କରିବା।",
+            "ପୂର୍ବଗ୍ରହ ହ୍ରାସ କରିବା ଏବଂ କାର୍ଯ୍ୟକ୍ରମର ଅଜାଣତରେ ହେଉଥିବା ପାର୍ଶ୍ୱ ପ୍ରତିକ୍ରିୟା କିମ୍ବା ଫଳାଫଳଗୁଡ଼ିକୁ ଅଣଦେଖା ନକରିବା।",
+            "ଶିକ୍ଷକଙ୍କ ଦ୍ୱାରା ନିର୍ଦ୍ଧାରିତ ଶିକ୍ଷାଦାନ ଲକ୍ଷ୍ୟଗୁଡ଼ିକ ଛାତ୍ରମାନଙ୍କ ଦ୍ୱାରା ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ହାସଲ ହୋଇଛି କି ନାହିଁ ତାହା ନିଶ୍ଚିତ କରିବା।",
+            "ସହପାଠୀମାନଙ୍କ ତୁଳନାରେ ଛାତ୍ରମାନଙ୍କର ସଫଳତା ଆଧାରରେ ସେମାନଙ୍କୁ ମାନ୍ୟତା (Rank) ପ୍ରଦାନ କରିବା।"
+          ],
+          "explanation": "ମାଇକେଲ୍ ସ୍କ୍ରିଭେନଙ୍କ ଲକ୍ଷ୍ୟ-ମୁକ୍ତ ମୂଲ୍ୟାଙ୍କନରେ, ମୂଲ୍ୟାଙ୍କନକାରୀ କାର୍ଯ୍ୟକ୍ରମର ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ ଲକ୍ଷ୍ୟ ବିଷୟରେ ନଜାଣି ଏହାର ପ୍ରକୃତ ପ୍ରଭାବକୁ ମୂଲ୍ୟାଙ୍କନ କରନ୍ତି। ଏହା ପୂର୍ବଗ୍ରହ (bias) କୁ କମ କରିଥାଏ ଏବଂ କାର୍ଯ୍ୟକ୍ରମର ସମସ୍ତ ଅପ୍ରତ୍ୟାଶିତ କିମ୍ବା ଅଜାଣତ ଫଳାଫଳଗୁଡ଼ିକୁ ଚିହ୍ନଟ କରିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783157784504-0",
+      "section": "General Studies",
+      "topic": "Odisha History - Freedom Movement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was the famous 'Satyabadi Bana Vidyalaya' established by Pandit Gopabandhu Das at Sakshigopal in Puri district?",
+      "options": [
+        "1905",
+        "1909",
+        "1912",
+        "1919"
+      ],
+      "answer": 1,
+      "explanation": "Pandit Gopabandhu Das established the Satyabadi Bana Vidyalaya, an open-air school modelled on the Gurukul system, at Sakshigopal in Puri district on 12 August 1909.",
+      "translations": {
+        "or": {
+          "question": "ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସଙ୍କ ଦ୍ୱାରା ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ପ୍ରସିଦ୍ଧ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' କେଉଁ ବର୍ଷ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୯୦୫",
+            "୧୯୦୯",
+            "୧୯୧୨",
+            "୧୯୧୯"
+          ],
+          "explanation": "ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସ ୧୨ ଅଗଷ୍ଟ ୧୯୦୯ ରେ ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ଗୁରୁକୁଳ ଶୈଳୀରେ ଏକ ମୁକ୍ତାକାଶ ବିଦ୍ୟାଳୟ ଭାବରେ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783157784504-1",
+      "section": "General Studies",
+      "topic": "Medieval Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Mughal general recognized Ramachandra Deva I, the founder of the Bhoi Dynasty, as the King of Khurda and the superintendent of the Jagannath Temple in 1592?",
+      "options": [
+        "Raja Man Singh",
+        "Todar Mal",
+        "Shaista Khan",
+        "Mir Jumla"
+      ],
+      "answer": 0,
+      "explanation": "In 1592, Raja Man Singh, the Mughal governor under Emperor Akbar, defeated the Afghan rulers of Odisha and treaty-wise recognized Ramachandra Deva I as the rightful ruler of Khurda and custodian/superintendent of the Jagannath Temple.",
+      "translations": {
+        "or": {
+          "question": "୧୫୯୨ ମସିହାରେ କେଉଁ ମୋଗଲ ସେନାପତି ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠାତା ରାମଚନ୍ଦ୍ର ଦେବ (ପ୍ରଥମ)ଙ୍କୁ ଖୋର୍ଦ୍ଧାର ରାଜା ଏବଂ ଜଗନ୍ନାଥ ମନ୍ଦିରର ପରିଚାଳକ ଭାବରେ ସ୍ୱୀକୃତି ପ୍ରଦାନ କରିଥିଲେ?",
+          "options": [
+            "ରାଜା ମାନସିଂହ",
+            "ତୋଡର ମଲ୍",
+            "ଶାଏସ୍ତା ଖାଁ",
+            "ମୀର ଜୁମଲା"
+          ],
+          "explanation": "୧୫୯୨ ମସିହାରେ, ମୋଗଲ ସମ୍ରାଟ ଆକବରଙ୍କ ଅଧୀନରେ ଥିବା ବିହାର ଓ ବଙ୍ଗର ମୋଗଲ ଗଭର୍ଣ୍ଣର ରାଜା ମାନସିଂହ ଓଡ଼ିଶାର ଆଫଗାନମାନଙ୍କୁ ପରାସ୍ତ କରିଥିଲେ ଏବଂ ରାମଚନ୍ଦ୍ର ଦେବ (ପ୍ରଥମ)ଙ୍କୁ ଖୋର୍ଦ୍ଧାର ବୈଧ ଶାସକ ତଥା ଜଗନ୍ନାଥ ମନ୍ଦିରର ମୁଖ୍ୟ ପରିଚାଳକ ଭାବରେ ସ୍ୱୀକୃତି ଦେଇଥିଲେ।"
         }
       }
     }
