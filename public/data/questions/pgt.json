@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1525,6 +1525,118 @@
             "ପାରସ୍ପରିକତାର ନୈତିକତା (ethics of reciprocity)"
           ],
           "explanation": "କାରୋଲ ଗିଲିଗାନ୍ ନିଜ ପୁସ୍ତକ 'ଇନ୍ ଏ ଡିଫରେଣ୍ଟ ଭଏସ୍' ରେ ଯୁକ୍ତି ବାଢ଼ିଥିଲେ ଯେ କୋହଲବର୍ଗଙ୍କ ସିଦ୍ଧାନ୍ତ ପୁରୁଷ-କେନ୍ଦ୍ରିତ ଥିଲା କାରଣ ଏହା ନିୟମ ଏବଂ ନ୍ୟାୟ ଉପରେ ଅଧିକ ଗୁରୁତ୍ୱ ଦେଉଥିଲା, ଯେତେବେଳେ କି 'ଯତ୍ନର ନୈତିକତା' (ଯାହା ସମ୍ପର୍କ, ସହାନୁଭୂତି ଏବଂ ଦାୟିତ୍ୱ ଉପରେ ଆଧାରିତ) କୁ ଅବହେଳା କରୁଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783245566378-0",
+      "section": "Teaching Aptitude",
+      "topic": "Bruner's Cognitive Representation Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Jerome Bruner's theory of cognitive development, in which stage of representation do children represent the world primarily through abstract symbols, such as language and mathematical notation?",
+      "options": [
+        "Enactive representation",
+        "Iconic representation",
+        "Symbolic representation",
+        "Conceptual representation"
+      ],
+      "answer": 2,
+      "explanation": "Jerome Bruner proposed three modes of representation in cognitive development: Enactive (action-based), Iconic (image-based), and Symbolic (language and symbol-based). Abstract symbols such as language and mathematical notations belong to the Symbolic representation stage.",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ ବ୍ରୁନରଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ (cognitive development) ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, କେଉଁ ପ୍ରତିନିଧିତ୍ୱ ପର୍ଯ୍ୟାୟରେ ଶିଶୁମାନେ ମୁଖ୍ୟତଃ ଭାଷା ଏବଂ ଗାଣିତିକ ସଙ୍କେତ ଭଳି ବିମୂର୍ତ୍ତ ପ୍ରତୀକ ମାଧ୍ୟମରେ ଜଗତକୁ ପ୍ରତିନିଧିତ୍ୱ କରନ୍ତି?",
+          "options": [
+            "କ୍ରିୟାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ (Enactive representation)",
+            "ଚିତ୍ରାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ (Iconic representation)",
+            "ପ୍ରତୀକାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ (Symbolic representation)",
+            "ସଂକଳ୍ପାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ (Conceptual representation)"
+          ],
+          "explanation": "ଜେରୋମ ବ୍ରୁନର ଜ୍ଞାନାତ୍ମକ ବିକାଶରେ ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି ପଦ୍ଧତି ପ୍ରସ୍ତାବ କରିଥିଲେ: କ୍ରିୟାତ୍ମକ (କାର୍ଯ୍ୟ-ଆଧାରିତ), ଚିତ୍ରାତ୍ମକ (ଚିତ୍ର-ଆଧାରିତ), ଏବଂ ପ୍ରତୀକାତ୍ମକ (ଭାଷା/ପ୍ରତୀକ-ଆଧାରିତ)। ଭାଷା ଏବଂ ଗାଣିତିକ ସଙ୍କେତ ପରି ବିମୂର୍ତ୍ତ ପ୍ରତୀକଗୁଡ଼ିକ ପ୍ରତୀକାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ ପର୍ଯ୍ୟାୟର ଅନ୍ତର୍ଗତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783245566378-1",
+      "section": "Teaching Aptitude",
+      "topic": "Edgar Dale's Cone of Experience",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Edgar Dale’s 'Cone of Experience,' which of the following learning activities is likely to result in the highest level of retention (active learning) for a student?",
+      "options": [
+        "Hearing spoken words",
+        "Viewing a motion picture",
+        "Designing and performing a dramatic presentation",
+        "Observing a live demonstration"
+      ],
+      "answer": 2,
+      "explanation": "In Edgar Dale's Cone of Experience, active learning experiences at the bottom of the cone (such as designing/performing a dramatic presentation, hands-on workshops, or simulating real experiences) lead to the highest level of retention compared to passive experiences like hearing, viewing, or observing.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର୍ ଡେଲ୍‌ଙ୍କ 'ଅଭିଜ୍ଞତା ଶଙ୍କୁ' (Cone of Experience) ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ଶିକ୍ଷଣ କାର୍ଯ୍ୟକଳାପଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଜଣେ ଶିକ୍ଷାର୍ଥୀ ପାଇଁ ସର୍ବାଧିକ ସ୍ତରର ସ୍ମରଣ ଶକ୍ତି (ସକ୍ରିୟ ଶିକ୍ଷଣ) ପ୍ରଦାନ କରିଥାଏ?",
+          "options": [
+            "କଥିତ ଶବ୍ଦ ଶୁଣିବା",
+            "ଏକ ଚଳଚ୍ଚିତ୍ର ଦେଖିବା",
+            "ଏକ ନାଟକୀୟ ପ୍ରଦର୍ଶନର ପରିକଳ୍ପନା ଏବଂ ଉପସ୍ଥାପନ କରିବା",
+            "ଏକ ଜୀବନ୍ତ ପ୍ରଦର୍ଶନ (demonstration) ପର୍ଯ୍ୟବେକ୍ଷଣ କରିବା"
+          ],
+          "explanation": "ଏଡଗାର୍ ଡେଲ୍‌ଙ୍କ ଅଭିଜ୍ଞତା ଶଙ୍କୁରେ, ଶଙ୍କୁର ନିମ୍ନ ଭାଗରେ ଥିବା ସକ୍ରିୟ ଶିକ୍ଷଣ ଅଭିଜ୍ଞତା (ଯେପରିକି ନାଟକୀୟ ପ୍ରଦର୍ଶନର ପରିକଳ୍ପନା/ଉପସ୍ଥାପନ, ହାତେ-ହାତେ କାର୍ଯ୍ୟଶାଳା କିମ୍ବା ବାସ୍ତବ ଅଭିଜ୍ଞତାର ଅନୁକରଣ) ଶୁଣିବା, ଦେଖିବା କିମ୍ବା ପର୍ଯ୍ୟବେକ୍ଷଣ କରିବା ଭଳି ନିଷ୍କ୍ରିୟ ଅଭିଜ୍ଞତା ତୁଳନାରେ ସର୍ବାଧିକ ସ୍ତରର ସ୍ମରଣ ଶକ୍ତି ପ୍ରଦାନ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783245807337-0",
+      "section": "Child Development",
+      "topic": "Attachment Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Mary Ainsworth's 'Strange Situation' classification, a child who shows distress when the mother leaves, but is easily comforted and returns to play when she returns, is demonstrating which type of attachment?",
+      "options": [
+        "Avoidant Attachment",
+        "Secure Attachment",
+        "Resistant/Ambivalent Attachment",
+        "Disorganized Attachment"
+      ],
+      "answer": 1,
+      "explanation": "In Ainsworth's attachment theory, a child with secure attachment uses the caregiver as a secure base, shows distress upon separation, but is easily comforted and returns to exploring the environment when the caregiver returns.",
+      "translations": {
+        "or": {
+          "question": "ମେରୀ ଏନ୍ସୱର୍ଥଙ୍କ 'ଷ୍ଟ୍ରେଞ୍ଜ ସିଚୁଏସନ୍' (Strange Situation) ବର୍ଗୀକରଣରେ, ଜଣେ ଶିଶୁ ଯିଏ ମାଆ ଚାଲିଗଲେ ବିଚଳିତ ହୁଏ, କିନ୍ତୁ ମାଆ ଫେରିବା ପରେ ସହଜରେ ଶାନ୍ତ ହୋଇଯାଏ ଏବଂ ପୁଣି ଖେଳିବାକୁ ଲାଗେ, ସେ କେଉଁ ପ୍ରକାରର ଆସକ୍ତି (attachment) ପ୍ରଦର୍ଶନ କରୁଛି?",
+          "options": [
+            "ପରିହାରକାରୀ ଆସକ୍ତି (Avoidant Attachment)",
+            "ସୁରକ୍ଷିତ ଆସକ୍ତି (Secure Attachment)",
+            "ପ୍ରତିରୋଧୀ/ଦ୍ୱନ୍ଦ୍ୱାତ୍ମକ ଆସକ୍ତି (Resistant/Ambivalent Attachment)",
+            "ଶୃଙ୍ଖଳାହୀନ ଆସକ୍ତି (Disorganized Attachment)"
+          ],
+          "explanation": "ଯେଉଁ ଶିଶୁ ମାଆଙ୍କ ଅନୁପସ୍ଥିତିରେ ବିଚଳିତ ହୁଏ କିନ୍ତୁ ସେ ଫେରିବା ପରେ ସହଜରେ ସ୍ୱାଭାବିକ ହୋଇ ଖେଳିବା ଆରମ୍ଭ କରେ, ତାହା ସୁରକ୍ଷିତ ଆସକ୍ତିର ଏକ ପ୍ରମୁଖ ଲକ୍ଷଣ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783245807337-1",
+      "section": "Child Development",
+      "topic": "Cognitive Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Robert Siegler's Overlapping Waves Theory of cognitive development, how do children's problem-solving strategies change over time?",
+      "options": [
+        "Children abruptly transition from one single strategy to another as they mature.",
+        "Children use a variety of strategies simultaneously, with the frequency of more efficient strategies gradually increasing.",
+        "Children rely strictly on innate strategies until formal instruction begins.",
+        "Children discard old strategies entirely before experimenting with new ones."
+      ],
+      "answer": 1,
+      "explanation": "Siegler's Overlapping Waves Model posits that development is not a step-by-step transition from one strategy to another but rather a continuous process where children use multiple strategies at any given age, with the most efficient strategies gradually becoming more dominant over time.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ସିଗ୍ଲରଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶର 'ଓଭରଲ୍ୟାପିଙ୍ଗ୍ ୱେଭ୍ସ ଥିଓରୀ' (Overlapping Waves Theory) ଅନୁଯାୟୀ, ସମୟ ସହିତ ପିଲାମାନଙ୍କର ସମସ୍ୟା-ସମାଧାନ କୌଶଳ କିପରି ପରିବର୍ତ୍ତିତ ହୁଏ?",
+          "options": [
+            "ପିଲାମାନେ ବୟସ ବଢ଼ିବା ସହିତ ହଠାତ୍ ଗୋଟିଏ କୌଶଳରୁ ଅନ୍ୟ ଏକ କୌଶଳକୁ ପରିବର୍ତ୍ତିତ ହୁଅନ୍ତି।",
+            "ପିଲାମାନେ ଏକାସଙ୍ଗେ ବିଭିନ୍ନ କୌଶଳ ବ୍ୟବହାର କରନ୍ତି, ଯେଉଁଥିରେ ଅଧିକ ଦକ୍ଷ କୌଶଳଗୁଡ଼ିକର ବ୍ୟବହାର ଧୀରେ ଧୀରେ ବୃଦ୍ଧି ପାଇଥାଏ।",
+            "ପ୍ରାଥମିକ ଶିକ୍ଷା ଆରମ୍ଭ ହେବା ପର୍ଯ୍ୟନ୍ତ ପିଲାମାନେ କେବଳ ସହଜାତ କୌଶଳ ଉପରେ ନିର୍ଭର କରନ୍ତି।",
+            "ନୂତନ କୌଶଳ ପରୀକ୍ଷଣ କରିବା ପୂର୍ବରୁ ପିଲାମାନେ ପୁରୁଣା କୌଶଳଗୁଡ଼ିକକୁ ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ବର୍ଜନ କରନ୍ତି।"
+          ],
+          "explanation": "ସିଗ୍ଲରଙ୍କ ଓଭରଲ୍ୟାପିଙ୍ଗ୍ ୱେଭ୍ସ ମଡେଲ୍ ଅନୁଯାୟୀ, ବିକାଶ ହେଉଛି ଏକ ନିରନ୍ତର ପ୍ରକ୍ରିୟା ଯେଉଁଠାରେ ଶିଶୁମାନେ ଯେକୌଣସି ବୟସରେ ଏକାଧିକ ସମାଧାନ କୌଶଳ ବ୍ୟବହାର କରନ୍ତି ଏବଂ ସମୟକ୍ରମେ ଅଧିକ ଫଳପ୍ରଦ କୌଶଳଗୁଡ଼ିକର ଆଧିପତ୍ୟ ବୃଦ୍ଧି ପାଏ।"
         }
       }
     }

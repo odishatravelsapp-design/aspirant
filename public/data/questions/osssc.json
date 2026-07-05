@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -1599,6 +1599,234 @@
             "ଚକ୍ର ବିଷୋୟୀ"
           ],
           "explanation": "୧୮୯୧-୯୨ ମସିହାରେ କେନ୍ଦୁଝରର ଦ୍ୱିତୀୟ ଭୂୟାଁ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ଧରଣୀଧର ନାଏକ ରାଜା ଧନୁର୍ଜୟ ନାରାୟଣ ଭଞ୍ଜଦେଓଙ୍କ ଅତ୍ୟାଚାରୀ ଶାସନ ବିରୁଦ୍ଧରେ ନେଇଥିଲେ। ପ୍ରଥମ ବିଦ୍ରୋହ (୧୮୬୭-୬୮) ର ନେତୃତ୍ୱ ରତ୍ନ ନାଏକ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245431467-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "An article is sold at a loss of 10%. If its cost price is decreased by 20% and the selling price is increased by Rs. 55, then there is a profit of 40%. Find the original cost price of the article.",
+      "options": [
+        "Rs. 200",
+        "Rs. 250",
+        "Rs. 300",
+        "Rs. 275"
+      ],
+      "answer": 1,
+      "explanation": "Let the original cost price (CP) be 100x. Since it is sold at a 10% loss, the original selling price (SP) is 90x. The new CP is decreased by 20%, so new CP = 80x. The new SP is increased by Rs. 55, so new SP = 90x + 55. The new profit is 40%, which means: New SP = 140% of New CP => 90x + 55 = 1.4 * 80x => 90x + 55 = 112x => 22x = 55 => x = 2.5. Therefore, original CP = 100 * 2.5 = Rs. 250.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଦ୍ରବ୍ୟକୁ 10% କ୍ଷତିରେ ବିକ୍ରୟ କରାଯାଏ। ଯଦି ଏହାର କ୍ରୟ ମୂଲ୍ୟ 20% ହ୍ରାସ ପାଏ ଏବଂ ବିକ୍ରୟ ମୂଲ୍ୟ 55 ଟଙ୍କା ବୃଦ୍ଧି ପାଏ, ତେବେ 40% ଲାଭ ହୁଏ। ଦ୍ରବ୍ୟର ମୂଳ କ୍ରୟ ମୂଲ୍ୟ କେତେ ଥିଲା?",
+          "options": [
+            "ଟ. 200",
+            "ଟ. 250",
+            "ଟ. 300",
+            "ଟ. 275"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ମୂଳ କ୍ରୟ ମୂଲ୍ୟ (CP) = 100x। ଯେହେତୁ ଏହା 10% କ୍ଷତିରେ ବିକ୍ରୟ ହୁଏ, ମୂଳ ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = 90x। ନୂତନ କ୍ରୟ ମୂଲ୍ୟ 20% ହ୍ରାସ ପାଇଛି, ତେଣୁ ନୂତନ CP = 80x। ନୂତନ SP 55 ଟଙ୍କା ବୃଦ୍ଧି ପାଇଛି, ତେଣୁ ନୂତନ SP = 90x + 55। ନୂତନ ଲାଭ 40%, ଯାହାର ଅର୍ଥ ହେଉଛି: ନୂତନ SP = ନୂତନ CP ର 140% => 90x + 55 = 1.4 * 80x => 90x + 55 = 112x => 22x = 55 => x = 2.5। ତେଣୁ, ମୂଳ କ୍ରୟ ମୂଲ୍ୟ = 100 * 2.5 = 250 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245431467-1",
+      "section": "Arithmetic",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three pipes A, B, and C can fill a cistern in 15 hours, 20 hours, and 30 hours respectively. They are opened together, but after some time pipe A is closed. 2 hours before the cistern is completely filled, pipe B is also closed. If the cistern is filled in a total of 8 hours, after how many hours was pipe A closed?",
+      "options": [
+        "5 hours",
+        "5.5 hours",
+        "6 hours",
+        "6.5 hours"
+      ],
+      "answer": 3,
+      "explanation": "Let the total capacity of the cistern be the LCM of 15, 20, and 30, which is 60 units. Efficiency of A = 60/15 = 4 units/hour. Efficiency of B = 60/20 = 3 units/hour. Efficiency of C = 60/30 = 2 units/hour. The total time taken to fill the cistern is 8 hours. Pipe C worked for all 8 hours, so work done by C = 8 * 2 = 16 units. Pipe B was closed 2 hours before the completion, so B worked for 8 - 2 = 6 hours. Work done by B = 6 * 3 = 18 units. Remaining work to be done by A = 60 - (16 + 18) = 26 units. Time for which pipe A worked = 26 / 4 = 6.5 hours. Therefore, pipe A was closed after 6.5 hours.",
+      "translations": {
+        "or": {
+          "question": "ତିନୋଟି ପାଇପ୍ A, B, ଏବଂ C ଗୋଟିଏ ଜଳାଶୟକୁ ଯଥାକ୍ରମେ 15 ଘଣ୍ଟା, 20 ଘଣ୍ଟା ଏବଂ 30 ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରିବେ। ସେଗୁଡ଼ିକୁ ଏକାଠି ଖୋଲାଗଲା, କିନ୍ତୁ କିଛି ସମୟ ପରେ ପାଇପ୍ A ବନ୍ଦ କରିଦିଆଗଲା। ଜଳାଶୟଟି ସମ୍ପୂର୍ଣ୍ଣ ପୂର୍ଣ୍ଣ ହେବାର 2 ଘଣ୍ଟା ପୂର୍ବରୁ ପାଇପ୍ B କୁ ମଧ୍ୟ ବନ୍ଦ କରିଦିଆଗଲା। ଯଦି ଜଳାଶୟଟି ସମୁଦାୟ 8 ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ ହୁଏ, ତେବେ ପାଇପ୍ A କେତେ ଘଣ୍ଟା ପରେ ବନ୍ଦ ହୋଇଥିଲା?",
+          "options": [
+            "5 ଘଣ୍ଟା",
+            "5.5 ଘଣ୍ଟା",
+            "6 ଘଣ୍ଟା",
+            "6.5 ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ଜଳାଶୟର ମୋଟ କ୍ଷମତା = LCM(15, 20, 30) = 60 ୟୁନିଟ୍। A ର ଦକ୍ଷତା = 60/15 = 4 ୟୁନିଟ୍/ଘଣ୍ଟା। B ର ଦକ୍ଷତା = 60/20 = 3 ୟୁନିଟ୍/ଘଣ୍ଟା। C ର ଦକ୍ଷତା = 60/30 = 2 ୟୁନିଟ୍/ଘଣ୍ଟା। ଜଳାଶୟଟି ପୂର୍ଣ୍ଣ ହେବା ପାଇଁ ସମୁଦାୟ 8 ଘଣ୍ଟା ସମୟ ଲାଗିଲା। ପାଇପ୍ C ସମ୍ପୂର୍ଣ୍ଣ 8 ଘଣ୍ଟା କାର୍ଯ୍ୟ କରିଥିଲା, ତେଣୁ C ଦ୍ୱାରା କରାଯାଇଥିବା କାର୍ଯ୍ୟ = 8 * 2 = 16 ୟୁନିଟ୍। ପାଇପ୍ B ପୂର୍ଣ୍ଣ ହେବାର 2 ଘଣ୍ଟା ପୂର୍ବରୁ ବନ୍ଦ ହୋଇଥିଲା, ତେଣୁ B ମୋଟ 8 - 2 = 6 ଘଣ୍ଟା କାର୍ଯ୍ୟ କରିଥିଲା। B ଦ୍ୱାରା କରାଯାଇଥିବା କାର୍ଯ୍ୟ = 6 * 3 = 18 ୟୁନିଟ୍। A ଦ୍ୱାରା କରାଯିବାକୁ ଥିବା ଅବଶିଷ୍ଟ କାର୍ଯ୍ୟ = 60 - (16 + 18) = 26 ୟୁନିଟ୍। ପାଇପ୍ A କାର୍ଯ୍ୟ କରିଥିବା ସମୟ = 26 / 4 = 6.5 ଘଣ୍ଟା। ତେଣୁ, ପାଇପ୍ A କୁ 6.5 ଘଣ୍ଟା ପରେ ବନ୍ଦ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245464582-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'KHORDA' is coded as 'LJRVIG'. How will 'GANJAM' be coded in that language?",
+      "options": [
+        "HCQNFS",
+        "HCQNES",
+        "HBQNFS",
+        "IDROGT"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed here is that each letter of the word is shifted forward by consecutive natural numbers (+1, +2, +3, +4, +5, +6). Applying the same logic to GANJAM: G(+1) = H, A(+2) = C, N(+3) = Q, J(+4) = N, A(+5) = F, M(+6) = S. Thus, GANJAM is coded as HCQNFS.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'KHORDA' କୁ 'LJRVIG' ଭାବରେ କୋଡ୍ କରାଯାଇଛି | ସେହି ଭାଷାରେ 'GANJAM' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "HCQNFS",
+            "HCQNES",
+            "HBQNFS",
+            "IDROGT"
+          ],
+          "explanation": "ଏଠାରେ ଢାଞ୍ଚାଟି ହେଉଛି: ପ୍ରତ୍ୟେକ ଅକ୍ଷରକୁ କ୍ରମାଗତ ସଂଖ୍ୟା (+1, +2, +3, +4, +5, +6) ଦ୍ୱାରା ଆଗକୁ ସ୍ଥାନାନ୍ତରିତ କରାଯାଇଛି | ସେହିପରି, GANJAM ପାଇଁ: G(+1) = H, A(+2) = C, N(+3) = Q, J(+4) = N, A(+5) = F, M(+6) = S | ତେଣୁ, 'GANJAM' ର କୋଡ୍ ହେବ 'HCQNFS' |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245464582-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight friends A, B, C, D, E, F, G, and H are sitting around a circular table facing the center. A is second to the right of C. H is fourth to the left of A. D is second to the left of H. B is second to the right of E. F is not an immediate neighbor of C. Who is sitting third to the left of G?",
+      "options": [
+        "H",
+        "D",
+        "E",
+        "F"
+      ],
+      "answer": 0,
+      "explanation": "By arranging them in a circle facing the center: Let C be at position 1. A is second to the right of C (position 3). H is fourth to the left of A (position 7). D is second to the left of H (position 5). B is second to the right of E, which means E is at position 6 and B is at position 8. F is not an immediate neighbor of C, so F must be at position 4 and G at position 2. Thus, the person sitting third to the left of G (position 2) is H (position 7).",
+      "translations": {
+        "or": {
+          "question": "8 ଜଣ ବ୍ୟକ୍ତି A, B, C, D, E, F, G ଏବଂ H ଏକ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବସିଛନ୍ତି | A, C ର ଡାହାଣକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି | H, A ର ବାମକୁ ଚତୁର୍ଥ ସ୍ଥାନରେ ବସିଛନ୍ତି | D, H ର ବାମକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି | B, E ର ଡାହାଣକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି | F, C ର ପାଖାପାଖି ପଡ଼ୋଶୀ ନୁହଁନ୍ତି | G ର ବାମକୁ ତୃତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "H",
+            "D",
+            "E",
+            "F"
+          ],
+          "explanation": "କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବୃତ୍ତାକାରରେ ବସିବା ବ୍ୟବସ୍ଥା ଅନୁଯାୟୀ: ମନେକରନ୍ତୁ C ସ୍ଥାନ 1 ରେ ଅଛନ୍ତି | A, C ର ଡାହାଣକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି (ସ୍ଥାନ 3) | H, A ର ବାମକୁ ଚତୁର୍ଥ ସ୍ଥାନରେ ଅଛନ୍ତି (ସ୍ଥାନ 7) | D, H ର ବାମକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି (ସ୍ଥାନ 5) | B, E ର ଡାହାଣକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି, ଯାହାର ଅର୍ଥ E ସ୍ଥାନ 6 ରେ ଏବଂ B ସ୍ଥାନ 8 ରେ ଅଛନ୍ତି | F, C ର ପଡ଼ୋଶୀ ନୁହଁନ୍ତି, ତେଣୁ F ସ୍ଥାନ 4 ରେ ଏବଂ G ସ୍ଥାନ 2 ରେ ରହିବେ | ବର୍ତ୍ତମାନ, G (ସ୍ଥାନ 2) ର ବାମକୁ ତୃତୀୟ ସ୍ଥାନରେ (2 -> 1 -> 8 -> 7) H ବସିଛନ୍ତି |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245480847-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following princely states was the last to merge with the province of Odisha on 1st January 1949?",
+      "options": [
+        "Seraikela",
+        "Kharsawan",
+        "Mayurbhanj",
+        "Keonjhar"
+      ],
+      "answer": 2,
+      "explanation": "Mayurbhanj was the last princely state to merge with Odisha. While other princely states signed the instrument of merger in December 1947 and merged on January 1, 1948, Mayurbhanj joined later on January 1, 1949, under Maharaja Pratap Chandra Bhanj Deo.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଗଡ଼ଜାତ ରାଜ୍ୟ ୧ ଜାନୁଆରୀ ୧୯୪୯ ରେ ଓଡ଼ିଶା ପ୍ରଦେଶ ସହିତ ସର୍ବଶେଷରେ ମିଶ୍ରିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଷଢ଼େଇକଳା",
+            "ଖରସୁଆଁ",
+            "ମୟୂରଭଞ୍ଜ",
+            "କେନ୍ଦୁଝର"
+          ],
+          "explanation": "ମୟୂରଭଞ୍ଜ ଓଡ଼ିଶା ସହିତ ମିଶ୍ରିତ ହୋଇଥିବା ଶେଷ ଗଡ଼ଜାତ ରାଜ୍ୟ ଥିଲା। ଅନ୍ୟ ଗଡ଼ଜାତ ରାଜ୍ୟଗୁଡ଼ିକ ୧ ଜାନୁଆରୀ ୧୯୪୮ ରେ ମିଶ୍ରିତ ହୋଇଥିବା ବେଳେ, ମୟୂରଭଞ୍ଜ ମହାରାଜା ପ୍ରତାପ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓଙ୍କ ଅଧୀନରେ ୧ ଜାନୁଆରୀ ୧୯୪୯ ରେ ଓଡ଼ିଶା ସହିତ ମିଶିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245480847-1",
+      "section": "General Knowledge",
+      "topic": "Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Rushikulya River, famous for the mass nesting of Olive Ridley sea turtles, originates from which of the following hills of Odisha?",
+      "options": [
+        "Gonasika Hills",
+        "Rushimal Hills",
+        "Sinkaran Hills",
+        "Deomali Hills"
+      ],
+      "answer": 1,
+      "explanation": "The Rushikulya River originates from the Rushimal hills of the Eastern Ghats near Daringbadi in the Kandhamal district of Odisha. Its estuary is world-famous for the mass nesting (Arribada) of Olive Ridley sea turtles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କଇଁଛମାନଙ୍କର ଗଣ ଅଣ୍ଡାଦାନ ପାଇଁ ପ୍ରସିଦ୍ଧ ରୁଷିକୂଲ୍ୟା ନଦୀ ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି?",
+          "options": [
+            "ଗୋନାସିକା ପାହାଡ଼",
+            "ରୁଷିମାଳ ପାହାଡ଼",
+            "ସିଙ୍କାରାମ ପାହାଡ଼",
+            "ଦେଓମାଳୀ ପାହାଡ଼"
+          ],
+          "explanation": "ରୁଷିକୂଲ୍ୟା ନଦୀ ଓଡ଼ିଶାର କନ୍ଧମାଳ ଜିଲ୍ଲାର ଦାରିଙ୍ଗବାଡ଼ି ନିକଟସ୍ଥ ପୂର୍ବଘାଟ ପର୍ବତମାଳାର ରୁଷିମାଳ ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି। ଏହାର ମୁହାଣ ଓଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କଇଁଛମାନଙ୍କର ଗଣ ଅଣ୍ଡାଦାନ (ଅରିବାଡ଼ା) ପାଇଁ ବିଶ୍ୱ ପ୍ରସିଦ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245494821-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Literary History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the editor of the influential weekly newspaper 'Sambalpur Hitaisini', which was first published in 1889 from Bamra State (Deogarh)?",
+      "options": [
+        "Nilamani Vidyaratna",
+        "Gouri Shankar Ray",
+        "Radhanath Ray",
+        "Fakir Mohan Senapati"
+      ],
+      "answer": 0,
+      "explanation": "'Sambalpur Hitaisini' was published under the patronage of King Basudev Sudhal Dev of Bamra State in 1889, and Pandit Nilamani Vidyaratna served as its editor. The weekly played a monumental role in the Odia language protection movement.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୮୯ ମସିହାରେ ବାମଣ୍ଡା ରାଜ୍ୟ (ଦେଓଗଡ଼)ରୁ ପ୍ରଥମ କରି ପ୍ରକାଶିତ ହୋଇଥିବା ପ୍ରଭାବଶାଳୀ ସାପ୍ତାହିକ ପତ୍ରିକା 'ସମ୍ବଲପୁର ହିତୈଷିଣୀ'ର ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ନୀଳମଣି ବିଦ୍ୟାରତ୍ନ",
+            "ଗୌରୀଶଙ୍କର ରାୟ",
+            "ରାଧାନାଥ ରାୟ",
+            "ଫକୀର ମୋହନ ସେନାପତି"
+          ],
+          "explanation": "'ସମ୍ବଲପୁର ହିତୈଷିଣୀ' ୧୮୮୯ ମସିହାରେ ବାମଣ୍ଡା ରାଜ୍ୟର ରାଜା ବାସୁଦେବ ସୁଢ଼ଳ ଦେବଙ୍କ ପୃଷ୍ଠପୋଷକତାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା ଏବଂ ପଣ୍ଡିତ ନୀଳମଣି ବିଦ୍ୟାରତ୍ନ ଏହାର ସମ୍ପାଦକ ଭାବେ କାର୍ଯ୍ୟ କରିଥିଲେ। ଓଡ଼ିଆ ଭାଷା ସୁରକ୍ଷା ଆନ୍ଦୋଳନରେ ଏହି ସାପ୍ତାହିକୀ ଏକ ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783245494821-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the legendary leader of the Ghumusar Kondh Rebellion that broke out against British rule in 1835?",
+      "options": [
+        "Chakra Bisoyi",
+        "Dora Bisoyi",
+        "Buxi Jagabandhu",
+        "Madho Singh"
+      ],
+      "answer": 1,
+      "explanation": "Dora Bisoyi was the chief leader of the Kondhs of Ghumusar who led a powerful rebellion against the British East India Company from 1835 to 1837 before being captured.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୩୫ ମସିହାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୁଦ୍ଧରେ ଆରମ୍ଭ ହୋଇଥିବା ପ୍ରସିଦ୍ଧ ଘୁମୁସର କନ୍ଧ ବିଦ୍ରୋହର ମୁଖ୍ୟ ନେତା କିଏ ଥିଲେ?",
+          "options": [
+            "ଚକ୍ର ବିଷୋୟୀ",
+            "ଦୋରା ବିଷୋୟୀ",
+            "ବକ୍ସି ଜଗବନ୍ଧୁ",
+            "ମାଧୋ ସିଂହ"
+          ],
+          "explanation": "ଦୋରା ବିଷୋୟୀ ଘୁମୁସର କନ୍ଧମାନଙ୍କର ମୁଖ୍ୟ ନେତା ଥିଲେ, ଯିଏକି ୧୮୩୫ ରୁ ୧୮୩୭ ମସିହା ପର୍ଯ୍ୟନ୍ତ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୁଦ୍ଧରେ ଏକ ଶକ୍ତିଶାଳୀ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇ ଗିରଫ ହେବା ପର୍ଯ୍ୟନ୍ତ ସଂଗ୍ରାମ ଜାରି ରଖିଥିଲେ।"
         }
       }
     }

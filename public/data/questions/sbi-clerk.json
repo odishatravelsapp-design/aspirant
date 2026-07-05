@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1684,6 +1684,136 @@
       ],
       "answer": 1,
       "explanation": "The Reserve Bank of India made the 20-digit Legal Entity Identifier (LEI) code mandatory for all payment transactions of value ₹50 crore and above undertaken by entities (non-individuals) using Centralised Payment Systems, specifically RTGS and NEFT.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783245303354-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Two trains of lengths 180 meters and 220 meters are running in opposite directions on parallel tracks. If the speed of the first train is 54 km/h and they cross each other completely in 16 seconds, what is the speed of the second train?",
+      "options": [
+        "32 km/h",
+        "36 km/h",
+        "40 km/h",
+        "45 km/h"
+      ],
+      "answer": 1,
+      "explanation": "To cross each other completely, the relative distance to be covered is the sum of the lengths of both trains: Distance = 180 + 220 = 400 meters. Relative Speed = Distance / Time = 400 / 16 = 25 m/s. Converting this relative speed into km/h: 25 * (18 / 5) = 90 km/h. Since the trains are moving in opposite directions, Relative Speed = Speed of Train 1 + Speed of Train 2. Therefore, 90 = 54 + Speed of Train 2, which gives Speed of Train 2 = 36 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1783245303354-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the radius of a right circular cylinder to its height is 2 : 3. If the volume of the cylinder is 1617 cm³, find its total surface area. (Take π = 22/7)",
+      "options": [
+        "616 cm²",
+        "770 cm²",
+        "836 cm²",
+        "924 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Let the radius (r) be 2x and height (h) be 3x. Volume of a cylinder = π * r² * h. Thus, (22/7) * (2x)² * (3x) = 1617 => (22/7) * 4x² * 3x = 1617 => (264/7) * x³ = 1617 => x³ = (1617 * 7) / 264 = 343 / 8. This gives x = 7/2 = 3.5. So, radius (r) = 2 * 3.5 = 7 cm, and height (h) = 3 * 3.5 = 10.5 cm. Total Surface Area = 2 * π * r * (r + h) = 2 * (22/7) * 7 * (7 + 10.5) = 44 * 17.5 = 770 cm²."
+    },
+    {
+      "id": "sbi-clerk-ai-1783245318584-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'MONKEY' is coded as 'XDJMNL'. How will 'TIGER' be coded in that language?",
+      "options": [
+        "SDFHQ",
+        "QDFHS",
+        "QDFGR",
+        "QEFHS"
+      ],
+      "answer": 1,
+      "explanation": "The pattern of coding is: the word is reversed, and then each letter is decremented by 1 (replaced with the previous letter in alphabetical order). Reversing 'MONKEY' gives 'YEKNOM'. Applying -1 to each letter: Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L, which gives 'XDJMNL'. Similarly, reversing 'TIGER' gives 'REGIT'. Applying -1 to each letter: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S, which gives 'QDFHS'."
+    },
+    {
+      "id": "sbi-clerk-ai-1783245318584-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Directions: In the following question, some statements are given followed by two conclusions. Read all the conclusions and decide which of the given conclusions logically follows from the given statements.\n\nStatements:\n1. Only a few Papers are Books.\n2. All Books are Notebooks.\n3. No Notebook is a Novel.\n\nConclusions:\nI. Some Papers are not Novels.\nII. All Papers can never be Books.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "For Conclusion I: Since 'Only a few Papers are Books' and 'All Books are Notebooks', the common part of Papers and Books is also a part of Notebooks. Since 'No Notebook is a Novel', that common part of Papers can never be Novels. Hence, 'Some Papers are not Novels' is definitely true and follows.\nFor Conclusion II: 'Only a few Papers are Books' implies 'Some Papers are Books' and 'Some Papers are not Books'. Since some Papers are definitely not Books, all Papers can never be Books. Hence, 'All Papers can never be Books' is also definitely true and follows. Therefore, both conclusions follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1783245328934-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence carefully and choose the option that best expresses the meaning of the bolded idiom:\n\nThe manager decided to **play devil's advocate** during the meeting to ensure all potential pitfalls of the new project were thoroughly discussed.",
+      "options": [
+        "To support the majority opinion without questioning",
+        "To present an opposing or alternative point of view for the sake of debate",
+        "To deliberately cause conflict and delay the project timeline",
+        "To act as the main spokesperson for the corporate management"
+      ],
+      "answer": 1,
+      "explanation": "To 'play devil's advocate' means to express an opinion which disagrees with others' proposals, not because you necessarily support it, but to provoke debate and test the strength of the argument."
+    },
+    {
+      "id": "sbi-clerk-ai-1783245328934-1",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two sentences are given below. Choose the connector from the options that can be used to combine them into a single coherent sentence without changing the original meaning.\n\nI. The company faced severe financial losses due to the pandemic.\nII. It did not lay off any of its permanent employees.",
+      "options": [
+        "Consequently",
+        "Notwithstanding",
+        "Furthermore",
+        "Hence"
+      ],
+      "answer": 1,
+      "explanation": "'Notwithstanding' means 'in spite of' or 'despite'. It correctly establishes the contrast between the company facing severe financial losses and not laying off employees (e.g., 'Notwithstanding the severe financial losses due to the pandemic, the company did not lay off any of its permanent employees'). The other options indicate cause-and-effect or addition, which are contextually incorrect."
+    },
+    {
+      "id": "sbi-clerk-ai-1783245343674-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the guidelines of the Reserve Bank of India (RBI), what is the minimum net worth requirement for non-bank entities to operate White Label ATMs (WLAs) in India?",
+      "options": [
+        "₹50 crore",
+        "₹100 crore",
+        "₹200 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines, non-bank entities intending to set up and operate White Label ATMs (WLAs) in India must have a minimum net worth of ₹100 crore as per the latest audited balance sheet, which must be maintained at all times.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783245343674-1",
+      "section": "General Awareness",
+      "topic": "Financial Awareness",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The National Asset Reconstruction Company Limited (NARCL) was incorporated to aggregate and resolve stressed assets in the banking system. What is the minimum percentage of shareholding that Public Sector Banks (PSBs) must collectively maintain in NARCL?",
+      "options": [
+        "26%",
+        "49%",
+        "51%",
+        "74%"
+      ],
+      "answer": 2,
+      "explanation": "NARCL (colloquially known as the 'Bad Bank') is structured such that Public Sector Banks (PSBs) collectively maintain a majority ownership of 51% in the entity, with the remaining stake held by private banks and other financial institutions.",
       "status": "pending"
     }
   ]

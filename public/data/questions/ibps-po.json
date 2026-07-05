@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1620,6 +1620,136 @@
       ],
       "answer": 1,
       "explanation": "The Standing Deposit Facility (SDF) allows the RBI to absorb liquidity from commercial banks without providing government securities as collateral, unlike the Reverse Repo facility which is a collateralized mechanism.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783245357845-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Station P and Station Q are 590 km apart. Train A starts from Station P at 8:00 AM and travels towards Station Q at a speed of 60 km/h. Train B starts from Station Q at 8:30 AM and travels towards Station P at a speed of 80 km/h. At what time will they meet and at what distance from Station P?",
+      "options": [
+        "12:30 PM, 270 km",
+        "1:00 PM, 300 km",
+        "12:30 PM, 320 km",
+        "11:30 AM, 210 km"
+      ],
+      "answer": 0,
+      "explanation": "In the first 30 minutes (from 8:00 AM to 8:30 AM), Train A covers a distance of 60 km/h * 0.5 h = 30 km. The remaining distance between P and Q at 8:30 AM is 590 - 30 = 560 km. Since the trains are moving towards each other, their relative speed is 60 + 80 = 140 km/h. The time taken to cover the remaining distance is 560 / 140 = 4 hours. Thus, they meet at 8:30 AM + 4 hours = 12:30 PM. The distance from Station P is the total distance covered by Train A: 30 km + (60 km/h * 4 hours) = 270 km."
+    },
+    {
+      "id": "ibps-po-ai-1783245357845-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A box contains 5 red, 6 white, and 4 black balls. If three balls are drawn at random from the box, what is the probability that all three balls are of different colors?",
+      "options": [
+        "12/91",
+        "24/91",
+        "48/91",
+        "15/91"
+      ],
+      "answer": 1,
+      "explanation": "The total number of balls is 5 + 6 + 4 = 15. The total number of ways to draw 3 balls out of 15 is 15C3 = (15 * 14 * 13) / (3 * 2 * 1) = 455. To get one ball of each color, we must select 1 red, 1 white, and 1 black ball. The number of ways to do this is 5C1 * 6C1 * 4C1 = 5 * 6 * 4 = 120. Therefore, the required probability is 120 / 455 = 24 / 91."
+    },
+    {
+      "id": "ibps-po-ai-1783245379974-0",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statement: A large number of students in a government-run school fell ill after consuming the mid-day meal provided by the school administration.\n\nCourses of Action:\nI. The school principal should immediately suspend the food vendor and order a forensic investigation into the quality of food served.\nII. The government should immediately shut down all government schools in the state to prevent further food poisoning cases.",
+      "options": [
+        "Only course of action I follows",
+        "Only course of action II follows",
+        "Both courses of action I and II follow",
+        "Neither course of action I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Action I is a logical, corrective, and immediate step to address the source of the issue and prevent future occurrences. Action II is an extreme and disproportionate reaction, as shutting down all government schools across the entire state is highly impractical and unnecessary for a localized incident."
+    },
+    {
+      "id": "ibps-po-ai-1783245379974-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—A, B, C, D, E, and F—live on six different floors of a building, where the ground floor is numbered 1, the floor above it is numbered 2, and so on, up to the topmost floor numbered 6.\n\n- A lives on an even-numbered floor.\n- Only two persons live between A and B, who lives on the bottommost floor.\n- C lives immediately above E.\n- D lives on an odd-numbered floor.\n- F lives on a floor above D.\n\nWho lives on the 5th floor?",
+      "options": [
+        "F",
+        "D",
+        "C",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Since B lives on the bottommost floor, B is on Floor 1. Two persons live between A and B, which places A on Floor 4 (satisfying the condition that A lives on an even floor). The remaining vacant floors are 6, 5, 3, and 2. C lives immediately above E, so they must occupy consecutive floors. This leaves two possibilities: (6, 5) or (3, 2). If C and E are on 6 and 5, the remaining floors for D and F are 3 and 2. D must be on an odd floor (Floor 3), leaving Floor 2 for F. But F must live above D, which is violated. Thus, C and E must be on Floors 3 and 2 respectively. This leaves Floors 6 and 5 for F and D. Since D must live on an odd floor, D lives on Floor 5, and F lives on Floor 6 (which satisfies F living above D). Hence, D lives on the 5th floor."
+    },
+    {
+      "id": "ibps-po-ai-1783245395534-0",
+      "section": "English",
+      "topic": "Contextual Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the word that best fits the blank to make the sentence grammatically correct and contextually meaningful.\n\n\"The board members decided to adopt a/an ________ stance during the negotiations, refusing to compromise on the core terms of the merger despite facing immense pressure from the market regulators.\"",
+      "options": [
+        "conciliatory",
+        "intransigent",
+        "compliant",
+        "flippant"
+      ],
+      "answer": 1,
+      "explanation": "'Intransigent' means refusing to agree or compromise, which perfectly fits the context of refusing to yield on the core terms of the merger despite external pressure. 'Conciliatory' and 'compliant' represent the opposite meaning (yielding/willing to compromise), while 'flippant' means not showing a serious attitude."
+    },
+    {
+      "id": "ibps-po-ai-1783245395534-1",
+      "section": "English",
+      "topic": "Sentence Synthesizing and Connectors",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Choose the word from the options that can act as a coherent starter to combine the following two statements into a single grammatically correct sentence.\n\nI. The pharmaceutical giant faced severe regulatory scrutiny over its clinical trials.\nII. It managed to secure approval for its new vaccine ahead of the projected timeline.",
+      "options": [
+        "Notwithstanding",
+        "Inasmuch as",
+        "Whereas",
+        "Henceforth"
+      ],
+      "answer": 0,
+      "explanation": "'Notwithstanding' functions as a preposition meaning 'in spite of'. It can be used to start the combined sentence: 'Notwithstanding the severe regulatory scrutiny over its clinical trials, the pharmaceutical giant managed to secure approval...'. 'Inasmuch as' means 'since' or 'to the extent that' (causal), 'Whereas' is used for comparing two different subjects, and 'Henceforth' means 'from this time on', none of which fit the contrast between the two statements."
+    },
+    {
+      "id": "ibps-po-ai-1783245407657-0",
+      "section": "General Awareness",
+      "topic": "Integrated Ombudsman Scheme, 2021",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (Integrated Ombudsman) Scheme, 2021, what is the maximum amount of compensation the Ombudsman can award to a complainant for any loss directly arising out of an act or omission of a Regulated Entity?",
+      "options": [
+        "₹10 lakh",
+        "₹20 lakh",
+        "₹25 lakh",
+        "₹50 lakh"
+      ],
+      "answer": 1,
+      "explanation": "Under Clause 15(1) of the RBI (Integrated Ombudsman) Scheme, 2021, the Ombudsman has the power to award compensation up to ₹20 lakh for any loss directly arising out of an act or omission of the Regulated Entity, or the amount of the loss, whichever is lower. Additionally, up to ₹1 lakh can be awarded for harassment and mental agony.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783245407657-1",
+      "section": "General Awareness",
+      "topic": "Trade Receivables Discounting System (TReDS)",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the minimum paid-up equity capital required for an entity to set up and operate a Trade Receivables Discounting System (TReDS)?",
+      "options": [
+        "₹10 crore",
+        "₹25 crore",
+        "₹50 crore",
+        "₹100 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines on TReDS, which is an electronic platform for facilitating the financing of trade receivables of MSMEs, the minimum paid-up equity capital required to set up and operate the system is ₹25 crore.",
       "status": "pending"
     }
   ]

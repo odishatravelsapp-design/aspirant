@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -2387,6 +2387,234 @@
             "ମୀର ଜୁମଲା"
           ],
           "explanation": "୧୫୯୨ ମସିହାରେ, ମୋଗଲ ସମ୍ରାଟ ଆକବରଙ୍କ ଅଧୀନରେ ଥିବା ବିହାର ଓ ବଙ୍ଗର ମୋଗଲ ଗଭର୍ଣ୍ଣର ରାଜା ମାନସିଂହ ଓଡ଼ିଶାର ଆଫଗାନମାନଙ୍କୁ ପରାସ୍ତ କରିଥିଲେ ଏବଂ ରାମଚନ୍ଦ୍ର ଦେବ (ପ୍ରଥମ)ଙ୍କୁ ଖୋର୍ଦ୍ଧାର ବୈଧ ଶାସକ ତଥା ଜଗନ୍ନାଥ ମନ୍ଦିରର ମୁଖ୍ୟ ପରିଚାଳକ ଭାବରେ ସ୍ୱୀକୃତି ଦେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245507588-0",
+      "section": "Subject Knowledge",
+      "topic": "The English Novel",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ian Watt's influential study 'The Rise of the Novel' (1957), which three authors are identified as the foundational figures of the English novel?",
+      "options": [
+        "Daniel Defoe, Samuel Richardson, and Henry Fielding",
+        "Daniel Defoe, Jonathan Swift, and Laurence Sterne",
+        "Samuel Richardson, Henry Fielding, and Tobias Smollett",
+        "John Bunyan, Daniel Defoe, and Samuel Richardson"
+      ],
+      "answer": 0,
+      "explanation": "Ian Watt's 'The Rise of the Novel' (1957) attributes the origin of the modern English novel to the works of Daniel Defoe, Samuel Richardson, and Henry Fielding, highlighting their use of 'formal realism'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଇଆନ୍ ୱାଟ୍‌ଙ୍କ ପ୍ରଭାବଶାଳୀ ଗ୍ରନ୍ଥ 'The Rise of the Novel' (1957) ରେ, କେଉଁ ତିନିଜଣ ଲେଖକଙ୍କୁ ଇଂରାଜୀ ଉପନ୍ୟାସର ପ୍ରତିଷ୍ଠାତା ଭାବରେ ଗ୍ରହଣ କରାଯାଇଛି?",
+          "options": [
+            "ଡାନିଏଲ୍ ଡିଫୋ, ସାମୁଏଲ୍ ରିଚାର୍ଡସନ ଏବଂ ହେନେରୀ ଫିଲ୍ଡିଂ",
+            "ଡାନିଏଲ୍ ଡିଫୋ, ଜୋନାଥନ୍ ସ୍ୱିଫ୍ଟ ଏବଂ ଲରେନ୍ସ ଷ୍ଟର୍ଣ୍ଣ",
+            "ସାମୁଏଲ୍ ରିଚାର୍ଡସନ, ହେନେରୀ ଫିଲ୍ଡିଂ ଏବଂ ଟୋବିଆସ ସ୍ମୋଲେଟ୍",
+            "ଜନ୍ ବନିୟାନ୍, ଡାନିଏଲ୍ ଡିଫୋ ଏବଂ ସାମୁଏଲ୍ ରିଚାର୍ଡସନ"
+          ],
+          "explanation": "ଇଆନ୍ ୱାଟ୍‌ଙ୍କ ପ୍ରଭାବଶାଳୀ ଗ୍ରନ୍ଥ 'The Rise of the Novel' (୧୯୫୭) ରେ ସେ ଡାନିଏଲ୍ ଡିଫୋ, ସାମୁଏଲ୍ ରିଚାର୍ଡସନ ଏବଂ ହେନେରୀ ଫିଲ୍ଡିଂଙ୍କ କାର୍ଯ୍ୟକୁ ଆଧୁନିକ ଇଂରାଜୀ ଉପନ୍ୟାସର ମୂଳଦୁଆ ଭାବରେ ଦର୍ଶାଇଛନ୍ତି, ଯେଉଁଥିରେ ସେମାନଙ୍କର 'formal realism' (ଆନୁଷ୍ଠାନିକ ବାସ୍ତବବାଦ) ବ୍ୟବହାରକୁ ଗୁରୁତ୍ୱ ଦିଆଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245507588-1",
+      "section": "Subject Knowledge",
+      "topic": "Middle English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Middle English poem 'Pearl', written by the anonymous Pearl Poet, is structured around a complex numerical scheme. How many stanzas does the poem contain?",
+      "options": [
+        "99",
+        "100",
+        "101",
+        "121"
+      ],
+      "answer": 2,
+      "explanation": "The Middle English poem 'Pearl' contains exactly 101 stanzas. It is structured into 20 groups of five stanzas each, except for Group XV which contains six stanzas, resulting in a total of 101 stanzas and 1212 lines.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଅଜ୍ଞାତ ପର୍ଲ୍ କବି (Pearl Poet) ଙ୍କ ଦ୍ୱାରା ଲିଖିତ ମଧ୍ୟଯୁଗୀୟ ଇଂରାଜୀ କବିତା 'ପର୍ଲ୍' (Pearl) ଏକ ଜଟିଳ ସଂଖ୍ୟାତ୍ମକ ଶୈଳୀରେ ଗଠିତ। ଏହି କବିତାରେ କେତେଗୋଟି ସ୍ତବକ (stanzas) ରହିଛି?",
+          "options": [
+            "୯୯",
+            "୧୦୦",
+            "୧୦୧",
+            "୧୨୧"
+          ],
+          "explanation": "ମଧ୍ୟଯୁଗୀୟ ଇଂରାଜୀ କବିତା 'ପର୍ଲ୍' (Pearl) ରେ ଠିକ୍ ୧୦୧ଟି ସ୍ତବକ ରହିଛି। ଏହା ୫ଟି ଲେଖାଏଁ ସ୍ତବକ ବିଶିଷ୍ଟ ୨୦ଟି ବିଭାଗରେ ଗଠିତ, କିନ୍ତୁ ବିଭାଗ XV ରେ ୬ଟି ସ୍ତବକ ରହିଛି, ଯାହାଫଳରେ ସର୍ବମୋଟ ୧୦୧ଟି ସ୍ତବକ ଏବଂ ୧୨୧୨ ଧାଡ଼ି ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245523008-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The 'Jurisprudential Inquiry Model' of teaching, which helps students learn to think systematically about contemporary social issues and formulate public policy, was developed by:",
+      "options": [
+        "Bruce Joyce and Marsha Weil",
+        "Carl Rogers and Fritz Perls",
+        "Donald Oliver and James P. Shaver",
+        "Joseph Schwab and Paul Brandwein"
+      ],
+      "answer": 2,
+      "explanation": "The Jurisprudential Inquiry Model was formulated by Donald Oliver and James P. Shaver to help students analyze and address social issues by using a legalistic framework of inquiry and debate.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଦାନର 'ଜୁରିସପ୍ରୁଡେନ୍ସିଆଲ୍ ଇନକ୍ଵାରୀ ମଡେଲ୍' (Jurisprudential Inquiry Model), ଯାହା ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ସମସାମୟିକ ସାମାଜିକ ସମସ୍ୟାଗୁଡ଼ିକ ବିଷୟରେ ବ୍ୟବସ୍ଥିତ ଭାବରେ ଚିନ୍ତା କରିବାକୁ ଏବଂ ଜନସାଧାରଣଙ୍କ ନୀତି ପ୍ରଣୟନ କରିବାରେ ସାହାଯ୍ୟ କରେ, ତାହା କାହା ଦ୍ୱାରା ବିକଶିତ ହୋଇଥିଲା?",
+          "options": [
+            "ବ୍ରୁସ୍ ଜଏସ୍ ଏବଂ ମାର୍ଶା ୱେଲ୍",
+            "କାର୍ଲ ରୋଜର୍ସ ଏବଂ ଫ୍ରିଜ୍ ପର୍ଲ୍ସ",
+            "ଡୋନାଲ୍ଡ ଅଲିଭର ଏବଂ ଜେମ୍ସ ପି. ଶାଭର",
+            "ଜୋସେଫ୍ ଶ୍ୱାବ୍ ଏବଂ ପଲ୍ ବ୍ରାଣ୍ଡୱେନ୍"
+          ],
+          "explanation": "ଜୁରିସପ୍ରୁଡେନ୍ସିଆଲ୍ ଇନକ୍ଵାରୀ ମଡେଲ୍ ଡୋନାଲ୍ଡ ଅଲିଭର ଏବଂ ଜେମ୍ସ ପି. ଶାଭରଙ୍କ ଦ୍ୱାରା ସାମାଜିକ ସମସ୍ୟାଗୁଡିକର ବିଶ୍ଳେଷଣ କରିବା ଏବଂ ଗଣତାନ୍ତ୍ରିକ ପ୍ରକ୍ରିୟାରେ ନିଷ୍ପତ୍ତି ନେବା ପାଇଁ ବିକଶିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245523008-1",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Evaluation Models",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Stake's Countenance Model of curriculum evaluation, what are the three categories of data or bodies of information that an evaluator must describe and judge?",
+      "options": [
+        "Antecedents, Transactions, and Outcomes",
+        "Input, Process, and Product",
+        "Context, Input, and Process",
+        "Objectives, Activities, and Evaluation"
+      ],
+      "answer": 0,
+      "explanation": "Robert Stake's Countenance Model (1967) organizes curriculum evaluation data into three categories: Antecedents (conditions prior to instruction), Transactions (the actual interactions during instruction), and Outcomes (the consequences of the educational program).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଷ୍ଟେକ୍‌ଙ୍କ ପାଠ୍ୟକ୍ରମ ମୂଲ୍ୟାଙ୍କନର 'କାଉଣ୍ଟେନାନ୍ସ ମଡେଲ୍' (Countenance Model) ରେ, ତଥ୍ୟ/ସୂଚନାର ସେହି ତିନୋଟି ବର୍ଗ କ’ଣ ଯାହାକୁ ଜଣେ ମୂଲ୍ୟାଙ୍କନକାରୀ ବର୍ଣ୍ଣନା ଏବଂ ବିଚାର କରିବା ଆବଶ୍ୟକ?",
+          "options": [
+            "ଆଣ୍ଟିସିଡେଣ୍ଟସ୍ (ପୂର୍ବବର୍ତ୍ତୀ ପରିସ୍ଥିତି), ଟ୍ରାଞ୍ଜାକ୍ସନସ୍ (ପାରସ୍ପରିକ କ୍ରିୟା) ଏବଂ ଆଉଟକମ୍ସ (ଫଳାଫଳ)",
+            "ଇନପୁଟ୍, ପ୍ରୋସେସ୍ ଏବଂ ପ୍ରଡକ୍ଟ",
+            "କଣ୍ଟେକ୍ସଟ୍, ଇନପୁଟ୍ ଏବଂ ପ୍ରୋସେସ୍",
+            "ଅବଜେକ୍ଟିଭ୍ସ, ଆକ୍ଟିଭିଟିଜ୍ ଏବଂ ଇଭାଲ୍ୟୁଏସନ୍"
+          ],
+          "explanation": "ରବର୍ଟ ଷ୍ଟେକ୍‌ଙ୍କ କାଉଣ୍ଟେନାନ୍ସ ମଡେଲ୍ ପାଠ୍ୟକ୍ରମର ବାସ୍ତବତାକୁ ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ବୁଝିବା ପାଇଁ ଆଣ୍ଟିସିଡେଣ୍ଟସ୍ (Antecedents), ଟ୍ରାଞ୍ଜାକ୍ସନସ୍ (Transactions) ଏବଂ ଆଉଟକମ୍ସ (Outcomes) ର ବିଶ୍ଳେଷଣ ଉପରେ ଗୁରୁତ୍ୱ ଦିଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245537324-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who presided over the first session of the Utkal Sammilani (Utkal Union Conference) held at Cuttack in December 1903?",
+      "options": [
+        "Madhusudan Das",
+        "Maharaja Sriram Chandra Bhanj Deo",
+        "Maharaja Krushna Chandra Gajapati",
+        "Radhanath Ray"
+      ],
+      "answer": 1,
+      "explanation": "The first session of the Utkal Sammilani was held at Cuttack in December 1903 and was presided over by Maharaja Sriram Chandra Bhanj Deo of Mayurbhanj, while Madhusudan Das was the primary organizer.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୩ ମସିହା ଡିସେମ୍ବରରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ସଭାପତିତ୍ୱ କରିଥିଲେ?",
+          "options": [
+            "ମଧୁସୂଦନ ଦାସ",
+            "ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ରାଧାନାଥ ରାୟ"
+          ],
+          "explanation": "ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ୧୯୦୩ ଡିସେମ୍ବରରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା ଏବଂ ଏଥିରେ ମୟୂରଭଞ୍ଜର ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ ସଭାପତିତ୍ୱ କରିଥିଲେ, ଯେତେବେଳେ କି ମଧୁସୂଦନ ଦାସ ଏହାର ମୁଖ୍ୟ ସଂଗଠକ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245537324-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following hills is the source of the Baitarani River in Odisha?",
+      "options": [
+        "Gonasika Hills",
+        "Deomali Hills",
+        "Mahendragiri Hills",
+        "Malayagiri Hills"
+      ],
+      "answer": 0,
+      "explanation": "The Baitarani River originates from the Gonasika (also known as Guptaganga) hills in the Keonjhar (Kendujhar) district of Odisha.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପାହାଡ଼ ଓଡ଼ିଶାର ବୈତରଣୀ ନଦୀର ଉତ୍ପତ୍ତି ସ୍ଥଳ?",
+          "options": [
+            "ଗୋନାସିକା ପାହାଡ଼",
+            "ଦେଓମାଳୀ ପାହାଡ଼",
+            "ମହେନ୍ଦ୍ରଗିରି ପାହାଡ଼",
+            "ମାଳୟଗିରି ପାହାଡ଼"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା (ଗୁପ୍ତଗଙ୍ଗା ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା) ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245553037-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the ruler of the Bhoi dynasty of Khurda when the historic Paika Rebellion broke out in 1817?",
+      "options": [
+        "Birakishore Deva",
+        "Divyasingha Deva I",
+        "Mukunda Deva II",
+        "Ramachandra Deva II"
+      ],
+      "answer": 2,
+      "explanation": "During the Paika Rebellion of 1817, Raja Mukunda Deva II was the titular king of Khurda. The rebellion was led by Bakshi Jagabandhu against the British East India Company's oppressive land revenue policies.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୧୭ ମସିହାରେ ଯେତେବେଳେ ଐତିହାସିକ ପାଇକ ବିଦ୍ରୋହ ଆରମ୍ଭ ହୋଇଥିଲା, ସେତେବେଳେ ଖୋର୍ଦ୍ଧାର ଭୋଇ ବଂଶର ଶାସକ କିଏ ଥିଲେ?",
+          "options": [
+            "ବୀରକିଶୋର ଦେବ",
+            "ଦିବ୍ୟସିଂହ ଦେବ (ପ୍ରଥମ)",
+            "ମୁକୁନ୍ଦ ଦେବ (ଦ୍ୱିତୀୟ)",
+            "ରାମଚନ୍ଦ୍ର ଦେବ (ଦ୍ୱିତୀୟ)"
+          ],
+          "explanation": "୧୮୧୭ ମସିହାର ପାଇକ ବିଦ୍ରୋହ ସମୟରେ ରାଜା ମୁକୁନ୍ଦ ଦେବ (ଦ୍ୱିତୀୟ) ଖୋର୍ଦ୍ଧାର ନାମମାତ୍ର ଶାସକ ଥିଲେ। ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀର ଶୋଷଣମୂଳକ ଜମି ଜମା ନୀତି ବିରୁଦ୍ଧରେ ବକ୍ସି ଜଗବନ୍ଧୁଙ୍କ ନେତୃତ୍ୱରେ ଏହି ସଶସ୍ତ୍ର ବିଦ୍ରୋହ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783245553037-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography & Ancient History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ancient port of 'Paloura' (Palur), mentioned by the Greek geographer Ptolemy in the 2nd century AD, is located in which modern-day district of Odisha?",
+      "options": [
+        "Balasore",
+        "Bhadrak",
+        "Ganjam",
+        "Puri"
+      ],
+      "answer": 2,
+      "explanation": "The ancient port of Paloura (Palur) was a prominent maritime trade center of Kalinga, situated in the modern Ganjam district near the mouth of the Rushikulya River. It served as an important departure point for voyages to Southeast Asia.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଦ୍ୱିତୀୟ ଶତାବ୍ଦୀରେ ଗ୍ରୀକ୍ ଭୂଗୋଳବିତ୍ ଟଲେମିଙ୍କ ଦ୍ୱାରା ଉଲ୍ଲେଖ କରାଯାଇଥିବା ପ୍ରାଚୀନ ବନ୍ଦର 'ପାଲୁରା' (ପାଲୁର) ଓଡ଼ିଶାର କେଉଁ ଆଧୁନିକ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ବାଲେଶ୍ୱର",
+            "ଭଦ୍ରକ",
+            "ଗଞ୍ଜାମ",
+            "ପୁରୀ"
+          ],
+          "explanation": "ପ୍ରାଚୀନ ବନ୍ଦର ପାଲୁରା (ପାଲୁର) କଳିଙ୍ଗର ଏକ ପ୍ରମୁଖ ସାମୁଦ୍ରିକ ବାଣିଜ୍ୟ କେନ୍ଦ୍ର ଥିଲା, ଯାହା ଆଧୁନିକ ଗଞ୍ଜାମ ଜିଲ୍ଲାର ରୁଷିକୁଲ୍ୟା ନଦୀ ମୁହାଣ ନିକଟରେ ଅବସ୍ଥିତ। ଏହା ଦକ୍ଷିଣ-ପୂର୍ବ ଏସିଆ ଯାତ୍ରା ପାଇଁ ଏକ ପ୍ରମୁଖ ପ୍ରସ୍ଥାନ ବିନ୍ଦୁ ଥିଲା।"
         }
       }
     }

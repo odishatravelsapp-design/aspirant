@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -1897,6 +1897,136 @@
       ],
       "answer": 1,
       "explanation": "With effect from June 1, 2022, the annual premium rate for the Pradhan Mantri Suraksha Bima Yojana (PMSBY) was revised from Rs. 12 to Rs. 20. Simultaneously, the premium for PMJJBY was revised from Rs. 330 to Rs. 436.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783245240672-0",
+      "section": "Quant",
+      "topic": "Profit, Loss & Discount",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A retailer buys an article at a discount of 15% on its marked price and sells it at a price which is 19% more than its marked price. What is his profit percentage?",
+      "options": [
+        "35%",
+        "40%",
+        "44%",
+        "38%"
+      ],
+      "answer": 1,
+      "explanation": "Let the marked price (MP) of the article be Rs. 100. Cost Price (CP) for the retailer = 15% discount on MP = 100 - 15 = Rs. 85. Selling Price (SP) of the article = 19% more than MP = 100 + 19 = Rs. 119. Profit made by the retailer = SP - CP = 119 - 85 = Rs. 34. Profit percentage = (Profit / CP) * 100 = (34 / 85) * 100 = (2 / 5) * 100 = 40%."
+    },
+    {
+      "id": "ibps-clerk-ai-1783245240673-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A train running at 54 km/h crosses a man walking in the opposite direction at 6 km/h in 12 seconds. The same train crosses another slower train of length 150 meters running in the same direction in 30 seconds. What is the speed of the second train (in km/h)?",
+      "options": [
+        "12 km/h",
+        "18 km/h",
+        "15 km/h",
+        "24 km/h"
+      ],
+      "answer": 0,
+      "explanation": "Speed of Train 1 = 54 km/h = 54 * (5/18) = 15 m/s. Speed of the man = 6 km/h = 6 * (5/18) = 5/3 m/s. Since they move in opposite directions, relative speed = 15 + 5/3 = 50/3 m/s. Length of Train 1 = Relative Speed * Time = (50/3) * 12 = 200 meters. When crossing the second train of length 150 m in the same direction, total distance = 200 + 150 = 350 meters. Relative speed in same direction = Total Distance / Time = 350 / 30 = 35/3 m/s. Since the second train is slower, Relative Speed = Speed of Train 1 - Speed of Train 2. 35/3 = 15 - Speed of Train 2 => Speed of Train 2 = 15 - 35/3 = 10/3 m/s. Converting to km/h: (10/3) * (18/5) = 12 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1783245261283-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'FORWARD' is written as 'EQQYZTC'. How will 'JOURNEY' be written in that code language?",
+      "options": [
+        "IQTTMGX",
+        "IPSSMGX",
+        "IQTSLFX",
+        "IRTTNHY"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed in the code is alternating subtraction and addition of letters: -1, +2, -1, +2, -1, +2, -1.\nApplying this to FORWARD:\nF - 1 = E\nO + 2 = Q\nR - 1 = Q\nW + 2 = Y\nA - 1 = Z\nR + 2 = T\nD - 1 = C\n\nApplying the same pattern to JOURNEY:\nJ - 1 = I\nO + 2 = Q\nU - 1 = T\nR + 2 = T\nN - 1 = M\nE + 2 = G\nY - 1 = X\nHence, JOURNEY is coded as IQTTMGX."
+    },
+    {
+      "id": "ibps-clerk-ai-1783245261283-1",
+      "section": "Reasoning",
+      "topic": "Floor/Stack Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven boxes A, B, C, D, E, F, and G are kept one above another in a stack. Box G is kept immediately above Box A. Only three boxes are kept between Box A and Box D. Box B is kept immediately below Box D. Only two boxes are kept between Box B and Box E. Box C is kept above Box F, but not immediately above. Box G is not kept at the topmost position. Which box is kept at the topmost position?",
+      "options": [
+        "Box C",
+        "Box E",
+        "Box G",
+        "Box D"
+      ],
+      "answer": 1,
+      "explanation": "Let the positions be 1 to 7 from bottom to top:\n1. Since G is immediately above A, they form a GA block.\n2. Three boxes are between A and D. This gives two possibilities: D _ _ G A or G A _ _ _ D.\n3. Box B is immediately below Box D. This refines the cases to: D B _ G A (5 boxes) or G A _ _ _ D B (7 boxes).\n4. Only two boxes are between B and E. If we take the second case (G A _ _ _ D B), E must be placed at position 4 (G=7, A=6, C/F=5, E=4, C/F=3, D=2, B=1). However, this makes G the topmost box, which violates the condition 'Box G is not kept at the topmost position'.\n5. Thus, we must use the first case: D B _ G A. E must be 2 boxes above B, which positions E at the very top (Position 7). The final arrangement from top (7) to bottom (1) is:\n7: Box E\n6: Box C\n5: Box D\n4: Box B\n3: Box F\n2: Box G\n1: Box A\n\nThis perfectly satisfies all conditions, including Box C being above Box F but not immediately above (separated by D and B). Thus, Box E is at the topmost position."
+    },
+    {
+      "id": "ibps-clerk-ai-1783245276585-0",
+      "section": "English",
+      "topic": "Grammar - Prepositions",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the pair of prepositions that correctly completes the following sentence:\n\n'The board of directors was divided _______ themselves regarding the merger, but they eventually agreed _______ a mutually beneficial solution.'",
+      "options": [
+        "between, to",
+        "among, on",
+        "within, with",
+        "amidst, at"
+      ],
+      "answer": 1,
+      "explanation": "The preposition 'among' is used when referring to a division or distribution involving more than two entities (the members of the board). 'Agreed on' is the correct phrasal usage when parties reach a mutual decision or consensus regarding a plan or solution."
+    },
+    {
+      "id": "ibps-clerk-ai-1783245276585-1",
+      "section": "English",
+      "topic": "Vocabulary - Word Fitting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the sentence:\n\n'The politician's _______ remarks during the crisis did little to _______ the public's growing apprehensions.'",
+      "options": [
+        "felicitous, aggravate",
+        "flippant, assuage",
+        "grave, intensify",
+        "poignant, exacerbate"
+      ],
+      "answer": 1,
+      "explanation": "'Flippant' means not showing a serious or respectful attitude, which perfectly fits the context of inappropriate remarks made during a crisis. 'Assuage' means to make an unpleasant feeling (like apprehension or fear) less intense. Therefore, flippant remarks would do little to assuage the public's worries."
+    },
+    {
+      "id": "ibps-clerk-ai-1783245282547-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the minimum paid-up equity capital required for setting up a Payments Bank in India as per the guidelines issued by the Reserve Bank of India?",
+      "options": [
+        "Rs. 50 crore",
+        "Rs. 100 crore",
+        "Rs. 200 crore",
+        "Rs. 300 crore"
+      ],
+      "answer": 1,
+      "explanation": "As per the guidelines issued by the Reserve Bank of India (RBI), the minimum paid-up equity capital for setting up a Payments Bank in India is Rs. 100 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783245282547-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the total estimated investment envisaged under the Pradhan Mantri Matsya Sampada Yojana (PMMSY) for its implementation period of 5 years from FY 2020-21 to FY 2024-25?",
+      "options": [
+        "Rs. 15,000 crore",
+        "Rs. 20,050 crore",
+        "Rs. 25,500 crore",
+        "Rs. 30,000 crore"
+      ],
+      "answer": 1,
+      "explanation": "The Pradhan Mantri Matsya Sampada Yojana (PMMSY) was launched with an estimated investment of Rs. 20,050 crore for its implementation over a period of 5 years from FY 2020-21 to FY 2024-25 in all States and Union Territories.",
       "status": "pending"
     }
   ]
