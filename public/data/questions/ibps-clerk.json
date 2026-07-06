@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2027,6 +2027,136 @@
       ],
       "answer": 1,
       "explanation": "The Pradhan Mantri Matsya Sampada Yojana (PMMSY) was launched with an estimated investment of Rs. 20,050 crore for its implementation over a period of 5 years from FY 2020-21 to FY 2024-25 in all States and Union Territories.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783346936588-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A sum of money invested at simple interest triples itself in 8 years. How many times will the same sum become in 20 years at the same rate of simple interest?",
+      "options": [
+        "5 times",
+        "6 times",
+        "5.5 times",
+        "7 times"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal sum be P. Since it triples itself in 8 years, the Amount (A) becomes 3P.\nSimple Interest (SI) earned in 8 years = A - P = 3P - P = 2P.\nWe know that SI = (P * R * T) / 100\n2P = (P * R * 8) / 100 => R = 25% per annum.\nNow, we need to find the amount in 20 years at the same rate of interest.\nSI for 20 years = (P * 25 * 20) / 100 = 5P.\nTotal Amount in 20 years = Principal + SI = P + 5P = 6P.\nTherefore, the sum will become 6 times itself."
+    },
+    {
+      "id": "ibps-clerk-ai-1783346936588-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the curved surface area to the total surface area of a right circular cylinder is 3 : 5. If the volume of the cylinder is 1617 cm³, what is its curved surface area? (Take π = 22/7)",
+      "options": [
+        "308 cm²",
+        "462 cm²",
+        "616 cm²",
+        "528 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Let the radius of the cylinder be r and height be h.\nCurved Surface Area (CSA) = 2πrh\nTotal Surface Area (TSA) = 2πr(h + r)\nGiven, CSA : TSA = 3 : 5\n=> 2πrh / [2πr(h + r)] = 3 / 5\n=> h / (h + r) = 3 / 5\n=> 5h = 3h + 3r\n=> 2h = 3r => r = 2h/3\n\nVolume of the cylinder = πr²h = 1617\n=> (22/7) * (2h/3)² * h = 1617\n=> (22/7) * (4h²/9) * h = 1617\n=> h³ = (1617 * 7 * 9) / (22 * 4)\n=> h³ = (147 * 7 * 9) / 8  [Dividing 1617 and 22 by 11]\n=> h³ = (21 * 7 * 7 * 9) / 8\n=> h³ = (3 * 7 * 7 * 7 * 9) / 8\n=> h³ = (7³ * 3³) / 2³\n=> h = (7 * 3) / 2 = 10.5 cm\n\nThen, r = (2/3) * 10.5 = 7 cm\n\nCurved Surface Area (CSA) = 2πrh\n=> CSA = 2 * (22/7) * 7 * 10.5 = 44 * 10.5 = 462 cm²."
+    },
+    {
+      "id": "ibps-clerk-ai-1783346947681-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'PRISM' is written as '11-9-18-8-14'. How will 'GLOWS' be written in that same code language?",
+      "options": [
+        "20-15-12-4-8",
+        "20-12-15-4-8",
+        "7-12-15-23-19",
+        "20-15-12-3-8"
+      ],
+      "answer": 0,
+      "explanation": "The logic used is that each letter of the word is replaced by the position number of its opposite letter in the English alphabetical order. P's opposite is K (11), R's opposite is I (9), I's opposite is R (18), S's opposite is H (8), and M's opposite is N (14). Applying this to GLOWS: G -> T (20), L -> O (15), O -> L (12), W -> D (4), and S -> H (8). Thus, the code is 20-15-12-4-8."
+    },
+    {
+      "id": "ibps-clerk-ai-1783346947681-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions. Take the given statements to be true even if they seem to be at variance from commonly known facts and decide which of the given conclusions logically follow(s) from the given statements.\n\nStatements:\nOnly a few Blue are Green.\nAll Green are Yellow.\nNo Yellow is Black.\n\nConclusions:\nI. Some Blue are not Black.\nII. All Green being Blue is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "For Conclusion I: 'Only a few Blue are Green' implies some Blue are Green. Since all Green are Yellow and no Yellow is Black, the part of Blue that is Green/Yellow can never be Black. Thus, 'Some Blue are not Black' definitely follows. For Conclusion II: 'Only a few Blue are Green' means all Blue cannot be Green, but all Green can be Blue. Hence, 'All Green being Blue is a possibility' is also true. Both conclusions follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1783346967463-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence below, four words are highlighted in bold. Select the option that represents the correct interchange of these words to make the sentence grammatically correct and contextually meaningful:\n\n'The **unprecedented** (A) growth of the digital sector has **consequences** (B) several traditional businesses, leading to severe **disrupted** (C) for their future **outlook** (D).'",
+      "options": [
+        "Only A-B",
+        "Only B-C",
+        "Both A-D and B-C",
+        "No exchange required"
+      ],
+      "answer": 1,
+      "explanation": "The auxiliary verb 'has' must be followed by a past participle verb ('disrupted') instead of a noun ('consequences'). Similarly, the adjective 'severe' must modify a noun ('consequences') instead of a verb ('disrupted'). Interchanging B and C makes the sentence grammatically correct: '...has disrupted (C) several traditional businesses, leading to severe consequences (B)...'. All other words are in their correct positions."
+    },
+    {
+      "id": "ibps-clerk-ai-1783346967463-1",
+      "section": "English",
+      "topic": "Parallelism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the option that correctly completes the sentence while maintaining perfect grammatical parallel structure:\n\n'The newly appointed director is responsible not only for overseeing the daily operations of the firm but also __________.'",
+      "options": [
+        "to draft the long-term strategic plans for expansion",
+        "for drafting the long-term strategic plans for expansion",
+        "drafting the long-term strategic plans for expansion",
+        "the draft of long-term strategic plans for expansion"
+      ],
+      "answer": 1,
+      "explanation": "The correlative conjunction 'not only... but also' requires parallel grammatical structures on both sides to maintain balance. Since 'not only' is followed by the prepositional phrase 'for overseeing...', 'but also' must be followed by a matching prepositional phrase 'for drafting...' to satisfy the adjective 'responsible'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783346998235-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "With effect from April 1, 2023, what is the maximum deposit limit permitted per individual under the Senior Citizens Savings Scheme (SCSS)?",
+      "options": [
+        "Rs 15 lakh",
+        "Rs 20 lakh",
+        "Rs 25 lakh",
+        "Rs 30 lakh"
+      ],
+      "answer": 3,
+      "explanation": "In the Union Budget 2023-24, the maximum deposit limit for the Senior Citizens Savings Scheme (SCSS) was enhanced from Rs 15 lakh to Rs 30 lakh per individual, effective from April 1, 2023.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783346998235-1",
+      "section": "General Awareness",
+      "topic": "Banking Technology & Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the guidelines of the Reserve Bank of India, the Legal Entity Identifier (LEI) code introduced for key financial transactions is a unique global identifier consisting of how many digits?",
+      "options": [
+        "12 digits",
+        "16 digits",
+        "20 digits",
+        "24 digits"
+      ],
+      "answer": 2,
+      "explanation": "The Legal Entity Identifier (LEI) is a 20-digit unique code global identifier used to identify parties to financial transactions worldwide. The RBI has progressively mandated its use for large-value transactions and borrowers.",
       "status": "pending"
     }
   ]

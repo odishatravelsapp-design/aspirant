@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -567,6 +567,62 @@
             "ଲାମିଆ (Lamia)"
           ],
           "explanation": "ଜନ୍ କିଟ୍ସଙ୍କ ପ୍ରସିଦ୍ଧ ବର୍ଣ୍ଣନାତ୍ମକ କବିତା 'ଦି ଇଭ୍ ଅଫ୍ ସେଣ୍ଟ ଆଗ୍ନେସ' (The Eve of St. Agnes) ସ୍ପେନ୍ସେରିଆନ୍ ଷ୍ଟାଞ୍ଜା (Spenserian stanza) ଫର୍ମାଟ୍‌ରେ ଲେଖାଯାଇଛି, ଯେଉଁଥିରେ ପ୍ରତ୍ୟେକ ସ୍ତବକରେ ୯ଟି ଧାଡ଼ି ଥାଏ (ଆଇମ୍ବିକ୍ ପେଣ୍ଟାମିଟରରେ ଆଠଟି ଧାଡ଼ି ଏବଂ ପରେ ଆଇମ୍ବିକ୍ ହେକ୍ସାମିଟରରେ ଏକକ ଆଲେକ୍ସଜାଣ୍ଡ୍ରାଇନ୍ ଧାଡ଼ି) ଏବଂ ଏହାର ମିଳନ ଶୈଳୀ ababbcbcc ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783349714237-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following was the chairperson of the Provincial Constitution Committee of the Constituent Assembly of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Dr. B.R. Ambedkar",
+        "J.B. Kripalani"
+      ],
+      "answer": 1,
+      "explanation": "Sardar Vallabhbhai Patel was the chairperson of the Provincial Constitution Committee of the Constituent Assembly of India, while Jawaharlal Nehru chaired the Union Constitution Committee.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଭାରତୀୟ ସମ୍ବିଧାନ ପ୍ରଣୟନ ସଭାର ପ୍ରାଦେଶିକ ସମ୍ବିଧାନ କମିଟିର (Provincial Constitution Committee) ଅଧ୍ୟକ୍ଷ ଥିଲେ?",
+          "options": [
+            "ଜବାହରଲାଲ ନେହେରୁ",
+            "ସର୍ଦ୍ଦାର ବଲ୍ଲଭଭାଇ ପଟେଲ",
+            "ଡଃ ବି.ଆର. ଆମ୍ବେଦକର",
+            "ଜେ.ବି. କୃପାଳିନୀ"
+          ],
+          "explanation": "ସର୍ଦ୍ଦାର ବଲ୍ଲଭଭାଇ ପଟେଲ ଭାରତୀୟ ସମ୍ବିଧାନ ପ୍ରଣୟନ ସଭାର ପ୍ରାଦେଶିକ ସମ୍ବିଧାନ କମିଟିର ଅଧ୍ୟକ୍ଷ ଥିଲେ, ଅନ୍ୟପକ୍ଷରେ ଜବାହରଲାଲ ନେହେରୁ କେନ୍ଦ୍ର ସମ୍ବିଧାନ କମିଟିର ଅଧ୍ୟକ୍ଷ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783349714237-1",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "On which of the following rivers is the Baglihar Hydroelectric Power Project constructed?",
+      "options": [
+        "Jhelum",
+        "Chenab",
+        "Ravi",
+        "Beas"
+      ],
+      "answer": 1,
+      "explanation": "The Baglihar Hydroelectric Power Project is a run-of-the-river power project built on the Chenab River in the Ramban district of Jammu and Kashmir.",
+      "translations": {
+        "or": {
+          "question": "ବାଗଲିହାର ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ (Baglihar Hydroelectric Power Project) ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି?",
+          "options": [
+            "ଝେଲମ",
+            "ଚେନାବ",
+            "ରାଭି",
+            "ବ୍ୟାସ"
+          ],
+          "explanation": "ବାଗଲିହାର ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ଜମ୍ମୁ ଓ କାଶ୍ମୀରର ରାମବନ ଜିଲ୍ଲାରେ ଚେନାବ ନଦୀ ଉପରେ ନିର୍ମିତ ଏକ ରନ୍-ଅଫ୍-ଦି-ରିଭର୍ (run-of-the-river) ପ୍ରକଳ୍ପ ଅଟେ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1750,6 +1750,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI guidelines on TReDS, which is an electronic platform for facilitating the financing of trade receivables of MSMEs, the minimum paid-up equity capital required to set up and operate the system is ₹25 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783347143866-0",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Vessel A contains a mixture of milk and water in the ratio 4 : 5, and Vessel B contains a mixture of milk and water in the ratio 5 : 1. In what ratio should the liquids from Vessel A and Vessel B be mixed so that the resulting mixture contains milk and water in the ratio 5 : 4?",
+      "options": [
+        "3 : 2",
+        "5 : 2",
+        "4 : 3",
+        "5 : 3"
+      ],
+      "answer": 1,
+      "explanation": "Let the ratio in which the mixtures from Vessel A and Vessel B are mixed be x : y. In Vessel A, the fraction of milk is 4/9. In Vessel B, the fraction of milk is 5/6. In the final mixture, the fraction of milk is 5/9. Using the rule of alligation: (Milk in B - Mean Milk) / (Mean Milk - Milk in A) = (5/6 - 5/9) / (5/9 - 4/9). Since 5/6 - 5/9 = 5/18 and 5/9 - 4/9 = 1/9, the ratio is (5/18) / (1/9) = 5/2. Thus, the ratio is 5 : 2."
+    },
+    {
+      "id": "ibps-po-ai-1783347143866-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A box contains 4 red, 5 blue, and 6 green balls. If three balls are drawn at random from the box, what is the probability that at least two of the drawn balls are blue?",
+      "options": [
+        "15 / 91",
+        "22 / 91",
+        "27 / 91",
+        "33 / 91"
+      ],
+      "answer": 1,
+      "explanation": "The total number of balls is 4 + 5 + 6 = 15. The number of ways to draw 3 balls from 15 is 15C3 = (15 * 14 * 13) / (3 * 2 * 1) = 455. We want the probability of drawing 'at least 2 blue balls'. This can happen in two ways: Case 1: Exactly 2 blue balls and 1 non-blue ball. Number of ways = 5C2 * 10C1 = 10 * 10 = 100. Case 2: Exactly 3 blue balls. Number of ways = 5C3 = 10. Total favorable outcomes = 100 + 10 = 110. Required probability = 110 / 455 = 22 / 91."
+    },
+    {
+      "id": "ibps-po-ai-1783347209915-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Apples are Bananas.\nAll Bananas are Grapes.\nNo Grape is Mango.\n\nConclusions:\nI. All Bananas being Apples is a possibility.\nII. Some Apples are not Mangoes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few Apples are Bananas' implies some Apples are Bananas AND some Apples are not Bananas. This allows all Bananas to potentially be Apples (as the restriction is only on all Apples being Bananas, not vice versa). Thus, Conclusion I is a possibility and follows.\n2. Since all Bananas are Grapes and no Grape is Mango, no Banana can be a Mango. Since some Apples are definitely Bananas (from 'Only a few'), those Apples can never be Mangoes. Thus, 'Some Apples are not Mangoes' is definitely true. Conclusion II also follows."
+    },
+    {
+      "id": "ibps-po-ai-1783347209915-1",
+      "section": "Reasoning",
+      "topic": "Coded Direction Sense",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain coded language, the following symbols represent relationships between directions and distances:\n'P @ Q (d)' means P is 'd' meters North of Q.\n'P # Q (d)' means P is 'd' meters South of Q.\n'P $ Q (d)' means P is 'd' meters East of Q.\n'P % Q (d)' means P is 'd' meters West of Q.\n\nBased on the expression: 'A @ B (5)', 'C % B (15)', 'D @ C (10)', and 'E $ D (3)', what is the shortest distance between A and E, and what is the direction of A with respect to E?",
+      "options": [
+        "13m, South-East",
+        "13m, South-West",
+        "15m, South-East",
+        "12m, North-East"
+      ],
+      "answer": 0,
+      "explanation": "Let us trace the points using a coordinate system where B is at the origin (0, 0):\n1. 'A @ B (5)' means A is 5m North of B. So, A = (0, 5).\n2. 'C % B (15)' means C is 15m West of B. So, C = (-15, 0).\n3. 'D @ C (10)' means D is 10m North of C. So, D = (-15, 10).\n4. 'E $ D (3)' means E is 3m East of D. So, E = (-12, 10).\n\nTo find the shortest distance between A(0, 5) and E(-12, 10):\nDistance = sqrt((0 - (-12))^2 + (5 - 10)^2) = sqrt(12^2 + (-5)^2) = sqrt(144 + 25) = sqrt(169) = 13 meters.\n\nDirection of A(0, 5) with respect to E(-12, 10):\nRelative to E, A is towards the East (0 is to the right of -12) and South (5 is below 10). Thus, A is in the South-East direction with respect to E."
+    },
+    {
+      "id": "ibps-po-ai-1783347228939-0",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, a word has been given in bold. Under it, three sentences (I, II, and III) are given, using the word. Identify the sentence(s) in which the word has been used correctly.\n\nWord: CONVENE\n\nI. The committee decided to convene a meeting next Friday to discuss the impending budget cuts.\nII. The diplomat tried to convene his deep condolences to the bereaved family during his visit.\nIII. The alumni of the college will convene in the main auditorium for the annual golden jubilee celebration.",
+      "options": [
+        "Only I",
+        "Only I and II",
+        "Only I and III",
+        "All I, II and III"
+      ],
+      "answer": 2,
+      "explanation": "The word 'convene' means to come together or assemble for a meeting or activity. In sentence I, it is used correctly as the committee is calling a meeting. In sentence III, it is also used correctly as the alumni are gathering in the auditorium. In sentence II, the correct word should be 'convey' (to communicate or express a feeling/message), not 'convene'. Therefore, only I and III are correct."
+    },
+    {
+      "id": "ibps-po-ai-1783347228939-1",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two sentences are given below. Three starters/connectors labeled I, II, and III are also provided. Identify which of these can be used to combine the two sentences into a single coherent sentence without altering the original meaning.\n\nSentences:\n1. The company experienced a severe drop in quarterly revenues.\n2. The board of directors decided to go ahead with the planned expansion of its retail outlets.\n\nStarters:\nI. Despite experiencing a severe drop...\nII. In light of a severe drop...\nIII. Although the company experienced...",
+      "options": [
+        "Only I",
+        "Only III",
+        "Both I and III",
+        "Both II and III"
+      ],
+      "answer": 2,
+      "explanation": "The two source sentences represent contrasting ideas: a negative event (drop in revenue) and a positive/progressive action (expanding retail outlets). 'Despite' (I) and 'Although' (III) are adversative connectors that perfectly capture this contrast. 'In light of' (II) indicates a cause-and-effect relationship (meaning 'because of' or 'considering'), which is semantically incorrect here as a drop in revenue would not be the reason to expand. Thus, only I and III can be used."
+    },
+    {
+      "id": "ibps-po-ai-1783347241996-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India's (RBI) Scale Based Regulation (SBR) framework, what is the minimum Net Owned Fund (NOF) requirement prescribed for NBFC-Micro Finance Institutions (NBFC-MFIs) (excluding those operating in the North Eastern Region)?",
+      "options": [
+        "₹2 crore",
+        "₹5 crore",
+        "₹10 crore",
+        "₹20 crore"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI's Scale Based Regulation (SBR) framework, the minimum Net Owned Fund (NOF) requirement for NBFC-MFIs and NBFC-Factors has been increased to ₹10 crore. For those operating in the North Eastern Region of India, the minimum NOF requirement is ₹5 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783347241996-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy & Government Finance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Ways and Means Advances (WMA) scheme of the Reserve Bank of India, what is the rate of interest charged on WMA provided to the Central and State Governments?",
+      "options": [
+        "Repo Rate",
+        "Repo Rate minus 1.00%",
+        "Bank Rate",
+        "Marginal Standing Facility (MSF) Rate"
+      ],
+      "answer": 0,
+      "explanation": "Ways and Means Advances (WMA) are temporary loan facilities provided by the RBI to the Central and State Governments to help them tide over temporary mismatches in cash flows. The interest rate charged on WMA is equal to the prevailing Repo Rate, whereas the rate for overdrafts is 2% above the Repo Rate.",
       "status": "pending"
     }
   ]

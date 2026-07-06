@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1814,6 +1814,136 @@
       ],
       "answer": 2,
       "explanation": "NARCL (colloquially known as the 'Bad Bank') is structured such that Public Sector Banks (PSBs) collectively maintain a majority ownership of 51% in the entity, with the remaining stake held by private banks and other financial institutions.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783347012775-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper mixes two varieties of rice costing Rs. 60 per kg and Rs. 80 per kg in the ratio 3 : 2. If he sells the mixed variety at Rs. 81.60 per kg, what is his gain percentage?",
+      "options": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explanation": "Let the quantities of the two varieties of rice be 3 kg and 2 kg. Total Cost Price (CP) of 5 kg of mixture = (3 * 60) + (2 * 80) = 180 + 160 = Rs. 340. Cost Price per kg = 340 / 5 = Rs. 68. Selling Price (SP) per kg = Rs. 81.60. Profit per kg = 81.60 - 68 = Rs. 13.60. Profit percentage = (13.60 / 68) * 100 = 20%."
+    },
+    {
+      "id": "sbi-clerk-ai-1783347012775-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A car covers a certain distance between town A and town B at a uniform speed. If the speed of the car is increased by 10 km/h, it takes 2 hours less to cover the distance. If the speed is further increased by 15 km/h, it takes 2 more hours less to cover the same distance. Find the distance between town A and town B.",
+      "options": [
+        "450 km",
+        "500 km",
+        "600 km",
+        "720 km"
+      ],
+      "answer": 2,
+      "explanation": "Let the original speed be 'v' km/h and original time be 't' hours. Distance D = v * t. Case 1: (v + 10)(t - 2) = vt => vt - 2v + 10t - 20 = vt => 10t - 2v = 20 => v = 5t - 10. Case 2: (v + 25)(t - 4) = vt => vt - 4v + 25t - 100 = vt => 25t - 4v = 100. Substituting v = 5t - 10 in the second equation: 25t - 4(5t - 10) = 100 => 25t - 20t + 40 = 100 => 5t = 60 => t = 12 hours. Therefore, v = 5(12) - 10 = 50 km/h. Distance D = v * t = 50 * 12 = 600 km."
+    },
+    {
+      "id": "sbi-clerk-ai-1783347074330-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'sky is blue' is written as 'de ko na', 'blue colour is nice' is written as 'na ko pa ra', 'nice picture clear' is written as 'ra si ti', and 'clear sky looks good' is written as 'de si lo ma'. What is the code for the word 'colour' in this language?",
+      "options": [
+        "na",
+        "pa",
+        "ko",
+        "ra"
+      ],
+      "answer": 1,
+      "explanation": "By comparing the first and second statements: 'sky is blue' ('de ko na') and 'blue colour is nice' ('na ko pa ra'), the common words are 'is' and 'blue', and the common codes are 'ko' and 'na'. By comparing the second and third statements: 'blue colour is nice' ('na ko pa ra') and 'nice picture clear' ('ra si ti'), the common word is 'nice' and the common code is 'ra'. Thus, 'nice' = 'ra'. In the second statement, the remaining word 'colour' must correspond to the remaining code 'pa'."
+    },
+    {
+      "id": "sbi-clerk-ai-1783347074330-1",
+      "section": "Reasoning",
+      "topic": "Comparison Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Among six friends - P, Q, R, S, T, and U - each has a different height. P is taller than only two people. T is shorter than only one person. Q is taller than P but is not the tallest. R is taller than S but shorter than U. Who is the third shortest person among them?",
+      "options": [
+        "Q",
+        "P",
+        "R",
+        "T"
+      ],
+      "answer": 1,
+      "explanation": "Let us arrange them from tallest (1st) to shortest (6th):\n1. 'P is taller than only two people' means P is in the 4th position (_ > _ > _ > P > _ > _).\n2. 'T is shorter than only one person' means T is in the 2nd position (_ > T > _ > P > _ > _).\n3. 'Q is taller than P but not the tallest' means Q must be in the 3rd position (since 2nd is T, Q cannot be 1st or 2nd) -> (_ > T > Q > P > _ > _).\n4. 'R is taller than S but shorter than U'. The remaining spots are 1st, 5th, and 6th. To satisfy U > R > S, U must be 1st, R must be 5th, and S must be 6th.\nThus, the descending order of height is: U > T > Q > P > R > S.\nThe shortest is S (6th), the second shortest is R (5th), and the third shortest is P (4th)."
+    },
+    {
+      "id": "sbi-clerk-ai-1783347113369-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that best fits the blanks to make the sentence grammatically correct and contextually meaningful:\n\nThe board members were ________ by the CEO's sudden resignation, but they managed to ________ a transition plan quickly.",
+      "options": [
+        "perturbed, devise",
+        "delighted, discard",
+        "unfazed, sabotage",
+        "astounded, falter"
+      ],
+      "answer": 0,
+      "explanation": "'Perturbed' means anxious or unsettled, which fits the reaction to a sudden resignation. 'Devise' means to plan or invent, which fits the context of creating a transition plan. The conjunction 'but' indicates a contrast, showing that despite being anxious, they successfully created a plan."
+    },
+    {
+      "id": "sbi-clerk-ai-1783347113369-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the part of the sentence that contains a grammatical error:\n\nNo sooner did the committee (A) / announced the new policy (B) / than the employees started (C) / protesting against the decision (D).",
+      "options": [
+        "No sooner did the committee",
+        "announced the new policy",
+        "than the employees started",
+        "protesting against the decision"
+      ],
+      "answer": 1,
+      "explanation": "The auxiliary verb 'did' must be followed by the base form of the verb (V1). Therefore, 'announced' in part (B) should be replaced with 'announce' to make the sentence grammatically correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1783347131060-0",
+      "section": "General Awareness",
+      "topic": "Small Finance Banks (SFBs)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the licensing guidelines issued by the Reserve Bank of India (RBI), Small Finance Banks (SFBs) are required to maintain a minimum Capital to Risk-weighted Assets Ratio (CRAR) of what percent on a continuous basis?",
+      "options": [
+        "9%",
+        "12%",
+        "15%",
+        "18%"
+      ],
+      "answer": 2,
+      "explanation": "According to RBI guidelines, Small Finance Banks (SFBs) are required to maintain a minimum Capital to Risk-weighted Assets Ratio (CRAR) of 15% on a continuous basis, with Tier I capital being at least 7.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783347131060-1",
+      "section": "General Awareness",
+      "topic": "UPI Lite Limits",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "With effect from August 2023, the Reserve Bank of India (RBI) enhanced the upper limit of a single offline payment transaction via UPI Lite from ₹200 to how much?",
+      "options": [
+        "₹500",
+        "₹1,000",
+        "₹1,500",
+        "₹2,000"
+      ],
+      "answer": 0,
+      "explanation": "To promote digital transactions, the RBI in August 2023 increased the limit for a single offline digital payment transaction via UPI Lite to ₹500, although the overall limit for a UPI Lite wallet on a device remains capped at ₹2,000.",
       "status": "pending"
     }
   ]

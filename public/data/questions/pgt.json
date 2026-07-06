@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1637,6 +1637,62 @@
             "ନୂତନ କୌଶଳ ପରୀକ୍ଷଣ କରିବା ପୂର୍ବରୁ ପିଲାମାନେ ପୁରୁଣା କୌଶଳଗୁଡ଼ିକକୁ ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ବର୍ଜନ କରନ୍ତି।"
           ],
           "explanation": "ସିଗ୍ଲରଙ୍କ ଓଭରଲ୍ୟାପିଙ୍ଗ୍ ୱେଭ୍ସ ମଡେଲ୍ ଅନୁଯାୟୀ, ବିକାଶ ହେଉଛି ଏକ ନିରନ୍ତର ପ୍ରକ୍ରିୟା ଯେଉଁଠାରେ ଶିଶୁମାନେ ଯେକୌଣସି ବୟସରେ ଏକାଧିକ ସମାଧାନ କୌଶଳ ବ୍ୟବହାର କରନ୍ତି ଏବଂ ସମୟକ୍ରମେ ଅଧିକ ଫଳପ୍ରଦ କୌଶଳଗୁଡ଼ିକର ଆଧିପତ୍ୟ ବୃଦ୍ଧି ପାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783348157325-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Robert Glaser's Basic Teaching Model (1962), which component refers to the initial status of the pupil's knowledge, abilities, and intellectual development before instruction begins?",
+      "options": [
+        "Instructional Objectives",
+        "Entering Behavior",
+        "Instructional Procedure",
+        "Performance Assessment"
+      ],
+      "answer": 1,
+      "explanation": "In Robert Glaser's Basic Teaching Model, 'Entering Behavior' represents the pre-requisite abilities, current understanding, and motivational state of the learner before starting a new unit of instruction.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ଲେସରଙ୍କ ବେସିକ୍ ଟିଚିଙ୍ଗ୍ ମଡେଲ୍ (୧୯୬୨) ରେ, ଶିକ୍ଷାଦାନ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ ଛାତ୍ରଙ୍କ ଜ୍ଞାନ, ଦକ୍ଷତା ଏବଂ ବୌଦ୍ଧିକ ବିକାଶର ପ୍ରାରମ୍ଭିକ ସ୍ଥିତିକୁ କେଉଁ ଉପାଦାନ ସୂଚିତ କରେ?",
+          "options": [
+            "ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ (Instructional Objectives)",
+            "ପ୍ରବେଶ ବ୍ୟବହାର (Entering Behavior)",
+            "ଶିକ୍ଷଣ ପ୍ରଣାଳୀ (Instructional Procedure)",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ମୂଲ୍ୟାଙ୍କନ (Performance Assessment)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ଲେସରଙ୍କ ବେସିକ୍ ଟିଚିଙ୍ଗ୍ ମଡେଲ୍‌ରେ 'Entering Behavior' ହେଉଛି ଶିକ୍ଷାର୍ଥୀଙ୍କ ପୂର୍ବ-ଆବଶ୍ୟକୀୟ ଦକ୍ଷତା, ବର୍ତ୍ତମାନର ବୁଝାମଣା ଏବଂ ପ୍ରେରଣାଦାୟୀ ସ୍ଥିତି, ଯାହା ନୂତନ ଶିକ୍ଷାଦାନ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ ଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783348157325-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In his seminal work \"Pedagogy of the Oppressed\", Paulo Freire criticizes the traditional \"banking concept of education\" and proposes an alternative approach. What is this alternative approach called?",
+      "options": [
+        "Dialogic and Problem-posing education",
+        "Direct Instruction and Behaviourist education",
+        "Programmed learning and Mathetic instruction",
+        "Non-formal and Distance education"
+      ],
+      "answer": 0,
+      "explanation": "Paulo Freire proposed 'Problem-posing education' as an alternative to the banking concept. It is dialogic in nature, encouraging critical thinking and overcoming the teacher-student contradiction.",
+      "translations": {
+        "or": {
+          "question": "ପାଉଲୋ ଫ୍ରେଇରେ (Paulo Freire) ତାଙ୍କର ପ୍ରସିଦ୍ଧ ପୁସ୍ତକ \"ପେଡାଗୋଜି ଅଫ୍ ଦି ଅପ୍ରେସଡ୍\" (Pedagogy of the Oppressed) ରେ ପାରମ୍ପରିକ \"ବ୍ୟାଙ୍କିଙ୍ଗ୍ ଶିକ୍ଷା ଧାରଣା\" (banking concept of education) ର ସମାଲୋଚନା କରିଛନ୍ତି ଏବଂ ଏକ ବିକଳ୍ପ ଦୃଷ୍ଟିକୋଣ ପ୍ରସ୍ତାବ କରିଛନ୍ତି। ଏହି ବିକଳ୍ପ ଦୃଷ୍ଟିକୋଣକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "ସଂଳାପୀ ଏବଂ ସମସ୍ୟା-ଉପସ୍ଥାପନକାରୀ ଶିକ୍ଷା (Dialogic and Problem-posing education)",
+            "ପ୍ରତ୍ୟକ୍ଷ ନିର୍ଦ୍ଦେଶନା ଏବଂ ବ୍ୟବହାରବାଦୀ ଶିକ୍ଷା (Direct Instruction and Behaviourist education)",
+            "କ୍ରମବଦ୍ଧ ଶିକ୍ଷା ଏବଂ ମାଥେଟିକ୍ସ ଶିକ୍ଷାଦାନ (Programmed learning and Mathetic instruction)",
+            "ଅଣ-ଆନୁଷ୍ଠାନିକ ଏବଂ ଦୂର ନିରନ୍ତର ଶିକ୍ଷା (Non-formal and Distance education)"
+          ],
+          "explanation": "ପାଉଲୋ ଫ୍ରେଇରେ 'Problem-posing education' (ସମସ୍ୟା-ଉପସ୍ଥାପନକାରୀ ଶିକ୍ଷା) ର ପ୍ରସ୍ତାବ ଦେଇଥିଲେ ଯାହା ସଂଳାପୀ (dialogic) ଅଟେ ଏବଂ ଏହା ଶିକ୍ଷାର୍ଥୀଙ୍କ ମଧ୍ୟରେ ସମାଲୋଚନାତ୍ମକ ଚିନ୍ତାଧାରାର ବିକାଶ କରିଥାଏ।"
         }
       }
     }

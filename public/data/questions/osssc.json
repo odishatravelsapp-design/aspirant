@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -1827,6 +1827,234 @@
             "ମାଧୋ ସିଂହ"
           ],
           "explanation": "ଦୋରା ବିଷୋୟୀ ଘୁମୁସର କନ୍ଧମାନଙ୍କର ମୁଖ୍ୟ ନେତା ଥିଲେ, ଯିଏକି ୧୮୩୫ ରୁ ୧୮୩୭ ମସିହା ପର୍ଯ୍ୟନ୍ତ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୁଦ୍ଧରେ ଏକ ଶକ୍ତିଶାଳୀ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇ ଗିରଫ ହେବା ପର୍ଯ୍ୟନ୍ତ ସଂଗ୍ରାମ ଜାରି ରଖିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347268860-0",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership. A invests 1/3 of the capital for 1/3 of the time, B invests 1/6 of the capital for 1/3 of the time, and C invests the remaining capital for the whole time. If the total profit is Rs. 54,000, find the share of B.",
+      "options": [
+        "Rs. 3,000",
+        "Rs. 4,500",
+        "Rs. 6,000",
+        "Rs. 9,000"
+      ],
+      "answer": 1,
+      "explanation": "Let total capital = C and total time = T. A's profit share ratio is proportional to (1/3)C * (1/3)T = 1/9 CT. B's profit share ratio is proportional to (1/6)C * (1/3)T = 1/18 CT. C's capital is C - (1/3 C + 1/6 C) = 1/2 C, and time is T, so C's ratio is (1/2)C * T = 1/2 CT. Thus, the ratio of profit share A : B : C = 1/9 : 1/18 : 1/2 = 2 : 1 : 9. Sum of ratios = 2 + 1 + 9 = 12. B's share = (1/12) * Rs. 54,000 = Rs. 4,500.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଏକ ଭାଗିଦାରୀ ବ୍ୟବସାୟ ଆରମ୍ଭ କରନ୍ତି। A ସମୁଦାୟ ପୁଞ୍ଜିର 1/3 ଭାଗ 1/3 ସମୟ ପାଇଁ, B ସମୁଦାୟ ପୁଞ୍ଜିର 1/6 ଭାଗ 1/3 ସମୟ ପାଇଁ ଏବଂ C ଅବଶିଷ୍ଟ ପୁଞ୍ଜି ସମ୍ପୂର୍ଣ୍ଣ ସମୟ ପାଇଁ ବିନିଯୋଗ କରେ। ଯଦି ସମୁଦାୟ ଲାଭ Rs. 54,000 ହୁଏ, ତେବେ B ର ଅଂଶ କେତେ?",
+          "options": [
+            "Rs. 3,000",
+            "Rs. 4,500",
+            "Rs. 6,000",
+            "Rs. 9,000"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ସମୁଦାୟ ପୁଞ୍ଜି = C ଏବଂ ସମୁଦାୟ ସମୟ = T। A ର ଲାଭ ଅନୁପାତ = (1/3) * (1/3) = 1/9। B ର ଲାଭ ଅନୁପାତ = (1/6) * (1/3) = 1/18। C ର ପୁଞ୍ଜି = 1 - (1/3 + 1/6) = 1/2। C ର ଲାଭ ଅନୁପାତ = (1/2) * 1 = 1/2। ଲାଭ ବଣ୍ଟନ ଅନୁପାତ A:B:C = 1/9 : 1/18 : 1/2 = 2 : 1 : 9। ଅନୁପାତର ସମଷ୍ଟି = 2+1+9 = 12। B ର ଅଂଶ = (1/12) * 54000 = Rs. 4,500।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347268860-1",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two runners A and B start running simultaneously from the same point on a circular track of length 1200 meters in opposite directions with speeds of 15 m/s and 10 m/s respectively. How many times will they meet each other before they meet at the starting point for the first time?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "Time taken by A to complete one round = 1200/15 = 80 seconds. Time taken by B to complete one round = 1200/10 = 120 seconds. They will meet at the starting point for the first time at LCM(80, 120) = 240 seconds. Since they run in opposite directions, their relative speed is 15 + 10 = 25 m/s. Time taken for any consecutive meeting = 1200/25 = 48 seconds. Total meetings up to 240 seconds = 240/48 = 5 times. The 5th meeting occurs at the starting point. Thus, they meet 4 times before meeting at the starting point.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଜଣ ଦୌଡ଼ାଳି A ଏବଂ B ଏକ 1200 ମିଟର ବିଶିଷ୍ଟ ବୃତ୍ତାକାର ଟ୍ରାକ୍‌ର ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ବିନ୍ଦୁରୁ ଏକାସଙ୍ଗେ ବିପରୀତ ଦିଗରେ ଯଥାକ୍ରମେ 15 m/s ଏବଂ 10 m/s ବେଗରେ ଦୌଡ଼ିବା ଆରମ୍ଭ କରନ୍ତି। ପ୍ରଥମ ଥର ପାଇଁ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁରେ ମିଳିତ ହେବା ପୂର୍ବରୁ ସେମାନେ ପରସ୍ପରକୁ କେତେଥର ଭେଟିବେ?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "explanation": "A କୁ ଗୋଟିଏ ଚକ୍କର ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଲାଗୁଥିବା ସମୟ = 1200/15 = 80 ସେକେଣ୍ଡ। B କୁ ଗୋଟିଏ ଚକ୍କର ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଲାଗୁଥିବା ସମୟ = 1200/10 = 120 ସେକେଣ୍ଡ। ସେମାନେ ପ୍ରଥମ ଥର ପାଇଁ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁରେ LCM(80, 120) = 240 ସେକେଣ୍ଡରେ ମିଳିତ ହେବେ। ଯେହେତୁ ସେମାନେ ବିପରୀତ ଦିଗରେ ଦୌଡୁଛନ୍ତି, ସେମାନଙ୍କ ଆପେକ୍ଷିକ ବେଗ = 15 + 10 = 25 m/s। ପରସ୍ପରକୁ ଭେଟିବା ପାଇଁ ଲାଗୁଥିବା ସମୟ = 1200/25 = 48 ସେକେଣ୍ଡ। 240 ସେକେଣ୍ଡ ମଧ୍ୟରେ ସମୁଦାୟ ସାକ୍ଷାତ ସଂଖ୍ୟା = 240/48 = 5 ଥର। ୫ମ ସାକ୍ଷାତ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁରେ ହେବ। ତେଣୁ, ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁରେ ମିଳିତ ହେବା ପୂର୍ବରୁ ସେମାନେ 4 ଥର ଭେଟିବେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347289706-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'MAHANADI' is coded as 'NZSZMZWR'. How will 'CHILIKA' be coded in that language?",
+      "options": [
+        "XSRORPZ",
+        "XSSORPZ",
+        "WRQNQOY",
+        "YTSPSQA"
+      ],
+      "answer": 0,
+      "explanation": "Each letter of the word is replaced by its opposite letter in the English alphabet (pairs that sum to 27). M <-> N, A <-> Z, H <-> S, N <-> M, D <-> W, I <-> R. Applying the same logic to CHILIKA: C -> X, H -> S, I -> R, L -> O, I -> R, K -> P, A -> Z. Hence, the code is XSRORPZ.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ 'MAHANADI' କୁ 'NZSZMZWR' ଭାବରେ କୋଡ୍ କରାଯାଏ, ତେବେ ସେହି ଭାଷାରେ 'CHILIKA' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "XSRORPZ",
+            "XSSORPZ",
+            "WRQNQOY",
+            "YTSPSQA"
+          ],
+          "explanation": "ପ୍ରତ୍ୟେକ ଅକ୍ଷରକୁ ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାରେ ତାର ବିପରୀତ ଅକ୍ଷର (ଯାହାର ସ୍ଥାନ ମୂଲ୍ୟର ସମଷ୍ଟି ୨୭) ସହିତ ବଦଳାଯାଇଛି | M <-> N, A <-> Z, H <-> S, N <-> M, D <-> W, I <-> R | ସେହିପରି, CHILIKA ର ବିପରୀତ ଅକ୍ଷରଗୁଡ଼ିକ ହେଉଛି XSRORPZ |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347289706-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Ramesh starts from his home and drives 12 km towards North. He takes a right turn and drives 20 km. He then takes a left turn and drives 8 km. From there, he turns 90 degrees left and drives 5 km. Finally, he turns left again and drives 20 km to reach his office. How far and in which direction is his office from his starting point (home)?",
+      "options": [
+        "15 km, East",
+        "15 km, North-East",
+        "25 km, East",
+        "20 km, North"
+      ],
+      "answer": 0,
+      "explanation": "Let starting point be (0,0). Going North 12 km reaches (0,12). Turning right (East) 20 km reaches (20,12). Turning left (North) 8 km reaches (20,20). Turning left (West) 5 km reaches (15,20). Turning left again (South) 20 km reaches (15,0). The final point (15,0) is 15 km to the East of the starting point (0,0).",
+      "translations": {
+        "or": {
+          "question": "ରମେଶ ତାଙ୍କ ଘରୁ ବାହାରି ଉତ୍ତର ଦିଗକୁ ୧୨ କିଲୋମିଟର ଗାଡି ଚଲାଇଲେ। ସେ ସେଠାରୁ ଡାହାଣକୁ ବୁଲି ୨୦ କିଲୋମିଟର ଗଲେ | ଏହା ପରେ ସେ ବାମକୁ ବୁଲି ୮ କିଲୋମିଟର ଗଲେ | ସେଠାରୁ ସେ ବାମକୁ ୯୦ ଡିଗ୍ରୀ ବୁଲି ୫ କିଲୋମିଟର ଗଲେ | ଶେଷରେ, ସେ ପୁଣି ବାମକୁ ବୁଲି ନିଜ ଅଫିସରେ ପହଞ୍ଚିବା ପାଇଁ ୨୦ କିଲୋମିଟର ଗାଡି ଚଲାଇଲେ | ତାଙ୍କ ଅଫିସ ତାଙ୍କ ଘରୁ (ଆରମ୍ଭ ବିନ୍ଦୁ) କେତେ ଦୂରରେ ଏବଂ କେଉଁ ଦିଗରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "୧୫ କିଲୋମିଟର, ପୂର୍ବ",
+            "୧୫ କିଲୋମିଟର, ଉତ୍ତର-ପୂର୍ବ",
+            "୨୫ କିଲୋମିଟର, ପୂର୍ବ",
+            "୨୦ କିଲୋମିଟର, ଉତ୍ତର"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ଆରମ୍ଭ ବିନ୍ଦୁ (୦,୦) | ଉତ୍ତରକୁ ୧୨ କିମି ଗଲେ ପହଞ୍ଚିବେ (୦, ୧୨) ରେ | ଡାହାଣକୁ (ପୂର୍ବ) ୨୦ କିମି ଗଲେ ପହଞ୍ଚିବେ (୨୦, ୧୨) ରେ | ବାମକୁ (ଉତ୍ତର) ୮ କିମି ଗଲେ ପହଞ୍ଚିବେ (୨୦, ୨୦) ରେ | ବାମକୁ (ପଶ୍ଚିମ) ୫ କିମି ଗଲେ ପହଞ୍ଚିବେ (୧୫, ୨୦) ରେ | ପୁଣି ବାମକୁ (ଦକ୍ଷିଣ) ୨୦ କିମି ଗଲେ ପହଞ୍ଚିବେ (୧୫, ୦) ରେ | ତେଣୁ ଶେଷ ବିନ୍ଦୁ (୧୫, ୦) ଆରମ୍ଭ ବିନ୍ଦୁ (୦, ୦) ରୁ ପୂର୍ବ ଦିଗରେ ୧୫ କିଲୋମିଟର ଦୂରରେ ଅଛି |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347333285-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who led the first batch of Satyagrahis to Inchudi to manufacture salt after the arrest of Gopabandhu Choudhury during the Salt Satyagraha of 1930?",
+      "options": [
+        "Acharya Harihar Das",
+        "Harekrushna Mahatab",
+        "Rama Devi",
+        "Sarala Devi"
+      ],
+      "answer": 0,
+      "explanation": "After the arrest of Gopabandhu Choudhury on 9th April 1930, Acharya Harihar Das led the first batch of Satyagrahis from Cuttack to Inchudi in Balasore and broke the salt law on 14th April 1930.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ମସିହାର ଲବଣ ସତ୍ୟାଗ୍ରହ ସମୟରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀଙ୍କ ଗିରଫଦାରୀ ପରେ ଲୁଣ ପ୍ରସ୍ତୁତ କରିବା ପାଇଁ ସତ୍ୟାଗ୍ରହୀମାନଙ୍କ ପ୍ରଥମ ଦଳକୁ ଇଞ୍ଚୁଡ଼ି କିଏ ନେତୃତ୍ୱ ଦେଇଥିଲେ?",
+          "options": [
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ରମା ଦେବୀ",
+            "ସରଳା ଦେବୀ"
+          ],
+          "explanation": "୯ ଅପ୍ରେଲ ୧୯୩୦ରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଗିରଫ ହେବା ପରେ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ କଟକରୁ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ପର୍ଯ୍ୟନ୍ତ ସତ୍ୟାଗ୍ରହୀମାନଙ୍କର ପ୍ରଥମ ଦଳର ନେତୃତ୍ୱ ନେଇଥିଲେ ଏବଂ ୧୪ ଅପ୍ରେଲ ୧୯୩୦ରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347333285-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity & Administration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the Chairman of the Orissa Boundary Committee appointed in 1931 by the British Government?",
+      "options": [
+        "Sir Samuel O'Donnell",
+        "Philip Duff",
+        "H. M. Mehta",
+        "T. R. Phookun"
+      ],
+      "answer": 0,
+      "explanation": "The Orissa Boundary Committee (also known as the O'Donnell Committee) was appointed in 1931 with Sir Samuel O'Donnell as its Chairman to look into the boundaries of the proposed separate province of Orissa.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୧ ମସିହାରେ ବ୍ରିଟିଶ ସରକାରଙ୍କ ଦ୍ୱାରା ଗଠିତ ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି (Orissa Boundary Committee) ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସାର୍ ସାମୁଏଲ୍ ଓ'ଡୋନେଲ୍",
+            "ଫିଲିପ୍ ଡଫ୍",
+            "ଏଚ୍. ଏମ୍. ମେହେଟ୍ଟା",
+            "ଟି. ଆର୍. ଫୁକୁନ୍"
+          ],
+          "explanation": "ପ୍ରସ୍ତାବିତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ୧୯୩୧ ମସିହାରେ ସାର୍ ସାମୁଏଲ୍ ଓ'ଡୋନେଲ୍‌ଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି (ଓ'ଡୋନେଲ୍ କମିଟି) ଗଠିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347350446-0",
+      "section": "Odisha GK",
+      "topic": "History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who led the first batch of Satyagrahis from Cuttack to Inchudi (Balasore) for the historic Salt Satyagraha in April 1930?",
+      "options": [
+        "Gopabandhu Choudhury",
+        "Acharya Harihar Das",
+        "Harekrushna Mahatab",
+        "Rama Devi"
+      ],
+      "answer": 1,
+      "explanation": "Gopabandhu Choudhury was arrested on 8th April 1930 before reaching the destination. Consequently, Acharya Harihar Das led the first batch of Satyagrahis from Swaraj Ashram, Cuttack to Inchudi, Balasore, and broke the salt law on 14th April 1930.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ଅପ୍ରେଲରେ ଐତିହାସିକ ଲବଣ ସତ୍ୟାଗ୍ରହ ପାଇଁ କଟକରୁ ଇଞ୍ଚୁଡ଼ି (ବାଲେଶ୍ୱର) ଅଭିମୁଖେ ଯାତ୍ରା କରିଥିବା ସତ୍ୟାଗ୍ରହୀଙ୍କ ପ୍ରଥମ ଦଳର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ",
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ରମା ଦେବୀ"
+          ],
+          "explanation": "ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ୮ ଅପ୍ରେଲ ୧୯୩୦ରେ ଗିରଫ ହୋଇଥିଲେ। ଫଳସ୍ୱରୂପ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ କଟକର ସ୍ୱରାଜ ଆଶ୍ରମରୁ ଇଞ୍ଚୁଡ଼ି ଅଭିମୁଖେ ସତ୍ୟାଗ୍ରହୀଙ୍କ ପ୍ରଥମ ଦଳର ନେତୃତ୍ୱ ନେଇଥିଲେ ଏବଂ ୧୪ ଅପ୍ରେଲ ୧୯୩୦ରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783347350446-1",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Sabha' (Orissa Association) established at Cuttack, which played a pioneering role in the development of political consciousness in Odisha?",
+      "options": [
+        "1872",
+        "1882",
+        "1896",
+        "1903"
+      ],
+      "answer": 1,
+      "explanation": "The 'Utkal Sabha' (Orissa Association) was formed in the year 1882 at Cuttack. Madhusudan Das and Gauri Shankar Ray were among its key leaders. It played a major role in shaping the political and social consciousness of Odisha before the formation of Utkal Sammilani.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାରେ ରାଜନୈତିକ ସଚେତନତାର ବିକାଶରେ ଅଗ୍ରଣୀ ଭୂମିକା ଗ୍ରହଣ କରିଥିବା 'ଉତ୍କଳ ସଭା' (ଓଡ଼ିଶା ଆସୋସିଏସନ) କେଉଁ ବର୍ଷ କଟକଠାରେ ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "1872",
+            "1882",
+            "1896",
+            "1903"
+          ],
+          "explanation": "୧୮୮୨ ମସିହାରେ କଟକଠାରେ 'ଉତ୍କଳ ସଭା' ଗଠିତ ହୋଇଥିଲା। ମଧୁସୂଦନ ଦାସ ଏବଂ ଗୌରୀଶଙ୍କର ରାୟ ଏହାର ପ୍ରମୁଖ ନେତା ଥିଲେ। ଉତ୍କଳ ସମ୍ମିଳନୀ ଗଠନ ପୂର୍ବରୁ ଓଡ଼ିଶାର ରାଜନୈତିକ ଏବଂ ସାମାଜିକ ସଚେତନତା ସୃଷ୍ଟି କରିବାରେ ଏହା ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -2615,6 +2615,62 @@
             "ପୁରୀ"
           ],
           "explanation": "ପ୍ରାଚୀନ ବନ୍ଦର ପାଲୁରା (ପାଲୁର) କଳିଙ୍ଗର ଏକ ପ୍ରମୁଖ ସାମୁଦ୍ରିକ ବାଣିଜ୍ୟ କେନ୍ଦ୍ର ଥିଲା, ଯାହା ଆଧୁନିକ ଗଞ୍ଜାମ ଜିଲ୍ଲାର ରୁଷିକୁଲ୍ୟା ନଦୀ ମୁହାଣ ନିକଟରେ ଅବସ୍ଥିତ। ଏହା ଦକ୍ଷିଣ-ପୂର୍ବ ଏସିଆ ଯାତ୍ରା ପାଇଁ ଏକ ପ୍ରମୁଖ ପ୍ରସ୍ଥାନ ବିନ୍ଦୁ ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783347632099-0",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Evaluation Models",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Daniel Stufflebeam's CIPP (Context, Input, Process, Product) evaluation model, which of the following components focuses on identifying system capabilities, alternative program strategies, and procedural designs for meeting the targeted needs?",
+      "options": [
+        "Context Evaluation",
+        "Input Evaluation",
+        "Process Evaluation",
+        "Product Evaluation"
+      ],
+      "answer": 1,
+      "explanation": "Input evaluation in the CIPP model helps determine how to utilize resources and choose appropriate strategies or designs to achieve the goals identified in the context evaluation.",
+      "translations": {
+        "or": {
+          "question": "ଡାନିଏଲ୍ ଷ୍ଟଫଲବିମ୍‌ଙ୍କ CIPP (ପ୍ରସଙ୍ଗ, ନିବେଶ, ପ୍ରକ୍ରିୟା, ଉତ୍ପାଦ) ମୂଲ୍ୟାଙ୍କନ ମଡେଲରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଉପାଦାନଟି ବ୍ୟବସ୍ଥାର କ୍ଷମତା, ବିକଳ୍ପ କାର୍ଯ୍ୟକ୍ରମ ରଣନୀତି ଏବଂ ଲକ୍ଷ୍ୟଧାର୍ଯ୍ୟ ଆବଶ୍ୟକତା ପୂରଣ ପାଇଁ ପ୍ରକ୍ରିୟାଗତ ନକ୍ସା ଚିହ୍ନଟ କରିବା ଉପରେ ଧ୍ୟାନ ଦେଇଥାଏ?",
+          "options": [
+            "ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ (Context Evaluation)",
+            "ନିବେଶ ମୂଲ୍ୟାଙ୍କନ (Input Evaluation)",
+            "ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାଙ୍କନ (Process Evaluation)",
+            "ଉତ୍ପାଦ ମୂଲ୍ୟାଙ୍କନ (Product Evaluation)"
+          ],
+          "explanation": "CIPP ମଡେଲରେ ନିବେଶ ମୂଲ୍ୟାଙ୍କନ (Input evaluation) ସମ୍ବଳଗୁଡ଼ିକୁ କିପରି ବ୍ୟବହାର କରାଯିବ ଏବଂ ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନରେ ଚିହ୍ନଟ ହୋଇଥିବା ଲକ୍ଷ୍ୟ ହାସଲ ପାଇଁ ଉପଯୁକ୍ତ ରଣନୀତି କିମ୍ବା ନକ୍ସା କିପରି ଚୟନ କରାଯିବ ତାହା ସ୍ଥିର କରିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783347632099-1",
+      "section": "Teaching Aptitude",
+      "topic": "Programmed Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who is credited with the development of the 'Branching Programmed Instruction' model, which is based on the principle that learning is an active process where learners make choices and errors are used constructively for remediation?",
+      "options": [
+        "B.F. Skinner",
+        "Norman A. Crowder",
+        "Thomas F. Gilbert",
+        "Robert Mager"
+      ],
+      "answer": 1,
+      "explanation": "Norman A. Crowder developed the Branching (or Intrinsic) Programming model, where the learner's response determines the next step of instruction, utilizing errors for remedial feedback, whereas Skinner developed Linear Programming.",
+      "translations": {
+        "or": {
+          "question": "'ଶାଖାକୃତ କ୍ରମାନ୍ଵୟ ଶିକ୍ଷଣ' (Branching Programmed Instruction) ମଡେଲ୍ ବିକାଶର ଶ୍ରେୟ କାହାକୁ ଦିଆଯାଏ, ଯାହା ଏହି ନୀତି ଉପରେ ଆଧାରିତ ଯେ ଶିକ୍ଷଣ ହେଉଛି ଏକ ସକ୍ରିୟ ପ୍ରକ୍ରିୟା ଯେଉଁଠାରେ ଶିକ୍ଷାର୍ଥୀମାନେ ବିକଳ୍ପ ଚୟନ କରନ୍ତି ଏବଂ ତ୍ରୁଟିଗୁଡ଼ିକୁ ସଂଶୋଧନ ପାଇଁ ଗଠନମୂଳକ ଭାବରେ ବ୍ୟବହାର କରାଯାଏ?",
+          "options": [
+            "ବି.ଏଫ୍. ସ୍କିନର୍",
+            "ନର୍ମାନ ଏ. କ୍ରାଉଡର୍",
+            "ଥୋମାସ୍ ଏଫ୍. ଗିଲବର୍ଟ",
+            "ରବର୍ଟ ମେଜର୍"
+          ],
+          "explanation": "ନର୍ମାନ ଏ. କ୍ରାଉଡର୍ ଶାଖାକୃତ (ବା ଆଭ୍ୟନ୍ତରୀଣ) କ୍ରମାନ୍ଵୟ ଶିକ୍ଷଣ ମଡେଲ୍ ବିକଶିତ କରିଥିଲେ, ଯେଉଁଠାରେ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣର ପରବର୍ତ୍ତୀ ପଦକ୍ଷେପ ନିର୍ଦ୍ଧାରଣ କରେ ଏବଂ ସଂଶୋଧନମୂଳକ ମତାମତ ପାଇଁ ତ୍ରୁଟିଗୁଡ଼ିକର ବ୍ୟବହାର କରାଯାଏ; ଅନ୍ୟପକ୍ଷରେ ସ୍କିନର୍ ସରଳରେଖିତ କ୍ରମାନ୍ଵୟ ଶିକ୍ଷଣ (Linear Programming) ବିକଶିତ କରିଥିଲେ।"
         }
       }
     }
