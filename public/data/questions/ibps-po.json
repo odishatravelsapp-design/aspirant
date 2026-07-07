@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1880,6 +1880,104 @@
       ],
       "answer": 0,
       "explanation": "Ways and Means Advances (WMA) are temporary loan facilities provided by the RBI to the Central and State Governments to help them tide over temporary mismatches in cash flows. The interest rate charged on WMA is equal to the prevailing Repo Rate, whereas the rate for overdrafts is 2% above the Repo Rate.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783423853489-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Blue are Green.\nAll Green are Yellow.\nNo Yellow is Black.\n\nConclusions:\nI. Some Blue are not Black.\nII. All Yellow being Blue is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From the statements, 'Only a few Blue are Green' means 'Some Blue are Green' and 'Some Blue are not Green'. Since 'All Green are Yellow' and 'No Yellow is Black', we can deduce that 'No Green is Black'. Since some part of Blue is always Green, that specific part of Blue can never be Black. Hence, Conclusion I ('Some Blue are not Black') is definitely true. For Conclusion II, there is no statement preventing the entire set of Yellow from being inside Blue. The restriction is only that some Blue must not be Green, which is satisfied even if all Yellow is inside Blue. Hence, Conclusion II is also a possibility."
+    },
+    {
+      "id": "ibps-po-ai-1783423853489-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain coded language, the following symbols represent relationships between people:\n'P # Q' means P is the brother of Q.\n'P @ Q' means P is the daughter of Q.\n'P & Q' means P is the husband of Q.\n'P % Q' means P is the mother of Q.\n\nWhich of the following expressions indicates that 'M is the maternal uncle of N'?",
+      "options": [
+        "M # K % N @ T",
+        "M & K % T # N",
+        "K % M # T @ N",
+        "M # K & T % N"
+      ],
+      "answer": 0,
+      "explanation": "Let us decode the correct option 'M # K % N @ T':\n1. 'M # K' means M is the brother of K (M is male).\n2. 'K % N' means K is the mother of N (K is female).\n3. 'N @ T' means N is the daughter of T. Since K is already the mother of N, T must be the husband of K (and father of N).\nSince M is the brother of K, and K is the mother of N, M is the maternal uncle of N."
+    },
+    {
+      "id": "ibps-po-ai-1783423953717-0",
+      "section": "English",
+      "topic": "Vocabulary / Fill in the Blanks",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following words can fill the blank in the given sentence to make it contextually and grammatically correct?\n\n'The diplomat’s __________ demeanor during the intense negotiations helped defuse a potentially explosive situation, earning him praise from both delegations.'",
+      "options": [
+        "volatile",
+        "irenic",
+        "truculent",
+        "mercurial"
+      ],
+      "answer": 1,
+      "explanation": "The word 'irenic' means aiming or tending to promote peace or reconciliation. This fits the context of a diplomat defusing an explosive situation. 'Volatile' and 'mercurial' mean unstable or unpredictable, which would worsen the situation, while 'truculent' means eager or quick to argue or fight."
+    },
+    {
+      "id": "ibps-po-ai-1783423953717-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the following sentences and select the option that represents the sentence(s) containing grammatical error(s).\n\nI. No sooner had he entered the room when the lights went out.\nII. The number of candidates appearing for the exam has increased significantly this year.\nIII. She behaves as if she were the queen of the estate.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and III",
+        "Both II and III"
+      ],
+      "answer": 0,
+      "explanation": "Sentence I contains an error because 'No sooner' is always followed by 'than', not 'when'. Sentence II is correct because 'The number of' takes a singular verb ('has'). Sentence III is correct because 'as if' takes the subjunctive mood ('were') to express an unreal condition."
+    },
+    {
+      "id": "ibps-po-ai-1783423967262-0",
+      "section": "General Awareness",
+      "topic": "SARFAESI Act Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under Section 31 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, the provisions of the Act do not apply to any security interest created in agricultural land, or any case in which the amount due is less than what percentage of the principal amount and interest thereon?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explanation": "According to Section 31(j) of the SARFAESI Act, 2002, the provisions of the Act do not apply to any case in which the amount due is less than twenty per cent (20%) of the principal amount and interest thereon.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783423967262-1",
+      "section": "General Awareness",
+      "topic": "External Commercial Borrowings (ECB)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Master Direction on External Commercial Borrowings (ECB) issued by the Reserve Bank of India, what is the maximum ECB liability-to-equity ratio permitted for Foreign Currency Denominated (FCY) ECB raised from a direct foreign equity holder under the automatic route?",
+      "options": [
+        "3:1",
+        "5:1",
+        "7:1",
+        "10:1"
+      ],
+      "answer": 2,
+      "explanation": "According to the RBI's ECB framework guidelines, the ECB liability-to-equity ratio for FCY denominated ECB raised from a direct foreign equity holder under the automatic route cannot exceed 7:1. This ratio is not applicable if the total ECB outstanding is up to USD 5 million or equivalent.",
       "status": "pending"
     }
   ]

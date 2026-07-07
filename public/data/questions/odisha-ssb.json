@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -2671,6 +2671,120 @@
             "ରବର୍ଟ ମେଜର୍"
           ],
           "explanation": "ନର୍ମାନ ଏ. କ୍ରାଉଡର୍ ଶାଖାକୃତ (ବା ଆଭ୍ୟନ୍ତରୀଣ) କ୍ରମାନ୍ଵୟ ଶିକ୍ଷଣ ମଡେଲ୍ ବିକଶିତ କରିଥିଲେ, ଯେଉଁଠାରେ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣର ପରବର୍ତ୍ତୀ ପଦକ୍ଷେପ ନିର୍ଦ୍ଧାରଣ କରେ ଏବଂ ସଂଶୋଧନମୂଳକ ମତାମତ ପାଇଁ ତ୍ରୁଟିଗୁଡ଼ିକର ବ୍ୟବହାର କରାଯାଏ; ଅନ୍ୟପକ୍ଷରେ ସ୍କିନର୍ ସରଳରେଖିତ କ୍ରମାନ୍ଵୟ ଶିକ୍ଷଣ (Linear Programming) ବିକଶିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783424427404-0",
+      "section": "Subject Knowledge",
+      "topic": "Indian English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Toru Dutt's posthumously published poetry collection 'Ancient Ballads and Legends of Hindustan' (1882) features an introductory prefatory memoir written by which prominent English critic?",
+      "options": [
+        "Edmund Gosse",
+        "Arthur Symons",
+        "Edward Thompson",
+        "Leslie Stephen"
+      ],
+      "answer": 0,
+      "explanation": "Toru Dutt's 'Ancient Ballads and Legends of Hindustan', published in 1882 (after her death in 1877), contains an introductory memoir by the eminent English poet and critic Edmund Gosse, who praised her poetic genius and introduced her work to Western readers.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ତୋରୁ ଦତ୍ତଙ୍କ ମରଣୋତ୍ତର ଭାବେ ପ୍ରକାଶିତ କବିତା ସଂକଳନ 'Ancient Ballads and Legends of Hindustan' (୧୮୮୨) ରେ କେଉଁ ବିଶିଷ୍ଟ ଇଂରାଜୀ ସମାଲୋଚକଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏକ ପ୍ରାରମ୍ଭିକ ସ୍ମୃତିଚିତ୍ର (prefatory memoir) ସ୍ଥାନିତ ହୋଇଛି?",
+          "options": [
+            "ଏଡମଣ୍ଡ ଗସ୍ (Edmund Gosse)",
+            "ଆର୍ଥର ସାଇମନ୍ସ (Arthur Symons)",
+            "ଏଡୱାର୍ଡ ଥମ୍ପସନ (Edward Thompson)",
+            "ଲେସଲି ଷ୍ଟିଫେନ (Leslie Stephen)"
+          ],
+          "explanation": "୧୮୮୨ ମସିହାରେ ପ୍ରକାଶିତ ତୋରୁ ଦତ୍ତଙ୍କ 'Ancient Ballads and Legends of Hindustan' ପୁସ୍ତକରେ ବିଶିଷ୍ଟ ଇଂରାଜୀ କବି ତଥା ସମାଲୋଚକ ଏଡମଣ୍ଡ ଗସ୍‌ଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏକ ପରିଚୟାତ୍ମକ ସ୍ମୃତିଚିତ୍ର ରହିଛି, ଯିଏ କି ତାଙ୍କର ପ୍ରତିଭାକୁ ପ୍ରଶଂସା କରିଥିଲେ ଏବଂ ପାଶ୍ଚାତ୍ୟ ପାଠକମାନଙ୍କ ସହ ତାଙ୍କ କାର୍ଯ୍ୟର ପରିଚୟ କରାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783424427404-1",
+      "section": "Subject Knowledge",
+      "topic": "Middle English Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The late 14th-century Middle English alliterative poem 'Sir Gawain and the Green Knight' structures its stanzas with a distinctive metrical device known as the \"bob and wheel\". What is the rhyme scheme of this five-line concluding sequence?",
+      "options": [
+        "ababb",
+        "ababa",
+        "aabbb",
+        "abbaa"
+      ],
+      "answer": 1,
+      "explanation": "The \"bob and wheel\" is a metrical device used in Middle English poetry, notably in 'Sir Gawain and the Green Knight'. It consists of a very short line of one stress (the bob) followed by four longer lines of three stresses (the wheel), following an ababa rhyme scheme.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଚତୁର୍ଦ୍ଦଶ ଶତାବ୍ଦୀର ଶେଷ ଭାଗର ମଧ୍ୟ-ଇଂରାଜୀ ଅନୁପ୍ରାସ କବିତା 'Sir Gawain and the Green Knight' ର ସ୍ତବକଗୁଡ଼ିକ ଏକ ବିଶେଷ ଛନ୍ଦୋବଦ୍ଧ ଶୈଳୀରେ ଗଠିତ, ଯାହାକୁ \"bob and wheel\" କୁହାଯାଏ। ଏହି ପାଞ୍ଚ ଧାଡ଼ି ବିଶିଷ୍ଟ ପରିସମାପ୍ତି ଅନୁକ୍ରମର ଅନୁପ୍ରାସ ଯୋଜନା (rhyme scheme) କ’ଣ?",
+          "options": [
+            "ababb",
+            "ababa",
+            "aabbb",
+            "abbaa"
+          ],
+          "explanation": "\"bob and wheel\" ହେଉଛି ମଧ୍ୟ-ଇଂରାଜୀ କବିତାରେ ବ୍ୟବହୃତ ଏକ ଶୈଳୀ, ଯାହା ବିଶେଷ ଭାବରେ 'Sir Gawain and the Green Knight' ରେ ଦେଖିବାକୁ ମିଳେ। ଏଥିରେ ଏକ ଅତି ସଂକ୍ଷିପ୍ତ ଧାଡ଼ି (bob) ଏବଂ ତାହା ପରେ ଚାରୋଟି ଦୀର୍ଘ ଧାଡ଼ି (wheel) ଥାଏ, ଯାହାର ଅନୁପ୍ରାସ ଶୈଳୀ ababa ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783424654352-0",
+      "section": "Teaching Aptitude",
+      "topic": "Programmed Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is NOT one of the five basic principles of Linear Programmed Instruction formulated by B.F. Skinner?",
+      "options": [
+        "Principle of Small Steps",
+        "Principle of Active Responding",
+        "Principle of Immediate Confirmation",
+        "Principle of Branching Remediation"
+      ],
+      "answer": 3,
+      "explanation": "B.F. Skinner developed Linear Programmed Instruction based on five core principles: Small Steps, Active Responding, Immediate Confirmation, Self-Pacing, and Student Testing. 'Branching Remediation' is a feature associated with Norman Crowder's Branching Programming model, not Skinner's linear model.",
+      "translations": {
+        "or": {
+          "question": "ବି.ଏଫ୍. ସ୍କିନର୍‌ଙ୍କ ଦ୍ଵାରା ପ୍ରଣିତ 'ରୈଖିକ କ୍ରମାନ୍ଵୟିତ ଅନୁଦେଶନ' (Linear Programmed Instruction) ର ପାଞ୍ଚଟି ମୌଳିକ ନିୟମ ମଧ୍ୟରୁ କେଉଁଟି ଅନ୍ତର୍ଭୁକ୍ତ ନୁହେଁ?",
+          "options": [
+            "କ୍ଷୁଦ୍ର ପଦକ୍ଷେପର ନିୟମ (Principle of Small Steps)",
+            "ସକ୍ରିୟ ପ୍ରତିକ୍ରିୟାର ନିୟମ (Principle of Active Responding)",
+            "ତତ୍କାଳ ନିଶ୍ଚିତକରଣର ନିୟମ (Principle of Immediate Confirmation)",
+            "ଶାଖାଯୁକ୍ତ ପ୍ରତିକାରର ନିୟମ (Principle of Branching Remediation)"
+          ],
+          "explanation": "ବି.ଏଫ୍. ସ୍କିନର୍ ପାଞ୍ଚଟି ନିୟମ ଆଧାରରେ ରୈଖିକ କ୍ରମାନ୍ଵୟିତ ଅନୁଦେଶନ ବିକଶିତ କରିଥିଲେ: କ୍ଷୁଦ୍ର ପଦକ୍ଷେପ, ସକ୍ରିୟ ପ୍ରତିକ୍ରିୟା, ତତ୍କାଳ ନିଶ୍ଚିତକରଣ (ଫିଡ୍‌ବ୍ୟାକ୍), ନିଜ ଗତିରେ ଶିଖିବା (Self-pacing) ଏବଂ ଶିକ୍ଷାର୍ଥୀ ପରୀକ୍ଷଣ। 'ଶାଖାଯୁକ୍ତ ପ୍ରତିକାର' (Branching Remediation) ହେଉଛି ନର୍ମାନ୍ କ୍ରାଉଡର୍‌ଙ୍କ ଶାଖାଯୁକ୍ତ ପ୍ରୋଗ୍ରାମିଂର ଏକ ବୈଶିଷ୍ଟ୍ୟ, ସ୍କିନର୍‌ଙ୍କ ରୈଖିକ ପ୍ରୋଗ୍ରାମିଂର ନୁହେଁ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783424654352-1",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development Models",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Hilda Taba's Grassroots Model of curriculum development, which of the following is the first step in the sequence of curriculum planning?",
+      "options": [
+        "Formulation of objectives",
+        "Diagnosis of learners' needs",
+        "Selection of learning experiences",
+        "Organization of content"
+      ],
+      "answer": 1,
+      "explanation": "Unlike Ralph Tyler's deductive model which begins with identifying objectives, Hilda Taba proposed an inductive (Grassroots) approach which starts with diagnosing the needs of the learners first, before formulating objectives.",
+      "translations": {
+        "or": {
+          "question": "ହିଲ୍ଡା ଟାବାଙ୍କ ପାଠ୍ୟକ୍ରମ ବିକାଶର 'ତୃଣମୂଳ ମଡେଲ୍' (Grassroots Model) ରେ, ପାଠ୍ୟକ୍ରମ ଯୋଜନା କ୍ରମରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ପ୍ରଥମ ପଦକ୍ଷେପ?",
+          "options": [
+            "ଉଦ୍ଦେଶ୍ୟ ପ୍ରଣୟନ (Formulation of objectives)",
+            "ଶିକ୍ଷାର୍ଥୀଙ୍କ ଆବଶ୍ୟକତାର ନିରୂପଣ (Diagnosis of learners' needs)",
+            "ଶିକ୍ଷଣ ଅନୁଭୂତି ଚୟନ (Selection of learning experiences)",
+            "비ଷୟବସ୍ତୁର ସଂଗଠନ (Organization of content)"
+          ],
+          "explanation": "ରାଲ୍ଫ ଟାଇଲର୍‌ଙ୍କ ଅବରୋହୀ (deductive) ମଡେଲ୍ ଯାହା ଉଦ୍ଦେଶ୍ୟ ନିର୍ଦ୍ଧାରଣରୁ ଆରମ୍ଭ ହୁଏ, ତାହା ବିପରୀତରେ ହିଲ୍ଡା ଟାବା ଏକ ଆରୋହୀ (inductive/Grassroots) ଆଭିମୁଖ୍ୟ ପ୍ରସ୍ତାବ କରିଥିଲେ ଯାହା ଉଦ୍ଦେଶ୍ୟ ପ୍ରଣୟନ କରିବା ପୂର୍ବରୁ ପ୍ରଥମେ ଶିକ୍ଷାର୍ଥୀଙ୍କ ଆବଶ୍ୟକତା ନିରୂପଣରୁ ଆରମ୍ଭ ହୋଇଥାଏ।"
         }
       }
     }

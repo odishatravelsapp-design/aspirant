@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -2055,6 +2055,234 @@
             "1903"
           ],
           "explanation": "୧୮୮୨ ମସିହାରେ କଟକଠାରେ 'ଉତ୍କଳ ସଭା' ଗଠିତ ହୋଇଥିଲା। ମଧୁସୂଦନ ଦାସ ଏବଂ ଗୌରୀଶଙ୍କର ରାୟ ଏହାର ପ୍ରମୁଖ ନେତା ଥିଲେ। ଉତ୍କଳ ସମ୍ମିଳନୀ ଗଠନ ପୂର୍ବରୁ ଓଡ଼ିଶାର ରାଜନୈତିକ ଏବଂ ସାମାଜିକ ସଚେତନତା ସୃଷ୍ଟି କରିବାରେ ଏହା ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424074727-0",
+      "section": "Arithmetic",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat goes 24 km upstream and 28 km downstream in 6 hours. It goes 30 km upstream and 21 km downstream in 6.5 hours. Find the speed of the boat in still water.",
+      "options": [
+        "8 km/h",
+        "10 km/h",
+        "12 km/h",
+        "9 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let upstream speed be u and downstream speed be d. We have 24/u + 28/d = 6 and 30/u + 21/d = 6.5. Solving these equations, we get u = 6 km/h and d = 14 km/h. Speed of boat in still water = (d + u)/2 = (14 + 6)/2 = 10 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ଡଙ୍ଗା ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୨୪ କିଲୋମିଟର ଏବଂ ସ୍ରୋତର ଅନୁକୂଳରେ ୨୮ କିଲୋମିଟର ୬ ଘଣ୍ଟାରେ ଯାଏ | ଏହା ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୩୦ କିଲୋମିଟର ଏବଂ ସ୍ରୋତର ଅନୁକୂଳରେ ୨୧ କିଲୋମିଟର ୬.୫ ଘଣ୍ଟାରେ ଯାଏ | ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ ନିରୂପଣ କରନ୍ତୁ |",
+          "options": [
+            "୮ କିମି/ଘଣ୍ଟା",
+            "୧୦ କିମି/ଘଣ୍ଟା",
+            "୧୨ କିମି/ଘଣ୍ଟା",
+            "୯ କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ପ୍ରତିକୂଳ ବେଗ u ଏବଂ ଅନୁକୂଳ ବେଗ d। ଆମ ପାଖରେ 24/u + 28/d = 6 ଏବଂ 30/u + 21/d = 6.5 ଅଛି। ଏହି ସମୀକରଣଗୁଡ଼ିକୁ ସମାଧାନ କଲେ, ଆମେ u = 6 କିମି/ଘଣ୍ଟା ଏବଂ d = 14 କିମି/ଘଣ୍ଟା ପାଇବା। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ = (d + u)/2 = (14 + 6)/2 = 10 କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424074727-1",
+      "section": "Arithmetic",
+      "topic": "HCF and LCM",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Find the greatest four-digit number which when divided by 12, 15, 18, and 27 leaves remainders 8, 11, 14, and 23 respectively.",
+      "options": [
+        "9716",
+        "9720",
+        "9724",
+        "9712"
+      ],
+      "answer": 0,
+      "explanation": "The difference between the divisor and remainder is constant: 12-8 = 4, 15-11 = 4, 18-14 = 4, 27-23 = 4. LCM of 12, 15, 18, 27 is 540. The greatest 4-digit number is 9999. Dividing 9999 by 540 gives a remainder of 279. So, the greatest 4-digit multiple of 540 is 9999 - 279 = 9720. The required number is 9720 - 4 = 9716.",
+      "translations": {
+        "or": {
+          "question": "ଚାରି ଅଙ୍କ ବିଶିଷ୍ଟ ସେହି ବୃହତ୍ତମ ସଂଖ୍ୟାଟି ନିରୂପଣ କରନ୍ତୁ ଯାହାକୁ ଯଥାକ୍ରମେ ୧୨, ୧୫, ୧୮, ଏବଂ ୨୭ ଦ୍ୱାରା ଭାଗ କଲେ ଯଥାକ୍ରମେ ୮, ୧୧, ୧୪, ଏବଂ ୨୩ ଭାଗଶେଷ ରହେ |",
+          "options": [
+            "୯୭୧୬",
+            "୯୭୨୦",
+            "୯୭୨୪",
+            "୯୭୧୨"
+          ],
+          "explanation": "ଭାଜକ ଏବଂ ଭାଗଶେଷ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ସ୍ଥିର ଅଟେ: 12-8 = 4, 15-11 = 4, 18-14 = 4, 27-23 = 4। 12, 15, 18, 27 ର ଲ.ସା.ଗୁ. (LCM) ହେଉଛି 540। ଚାରି ଅଙ୍କ ବିଶିଷ୍ଟ ବୃହତ୍ତମ ସଂଖ୍ୟା ହେଉଛି 9999। 9999 କୁ 540 ଦ୍ୱାରା ଭାଗ କଲେ ଭାଗଶେଷ 279 ରହେ। ତେଣୁ, 540 ର ସବୁଠାରୁ ବଡ଼ 4-ଅଙ୍କ ବିଶିଷ୍ଟ ଗୁଣିତକ ହେଉଛି 9999 - 279 = 9720। ଆବଶ୍ୟକ ସଂଖ୍ୟାଟି ହେଉଛି 9720 - 4 = 9716।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424114923-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'BARIPADA' is coded as 'ABQJOBCB'. How will 'KORAPUT' be coded in that same language?",
+      "options": [
+        "JPQBOVS",
+        "LPSCQVU",
+        "JPQBPVS",
+        "JOQANVS"
+      ],
+      "answer": 0,
+      "explanation": "The logic used here is: Vowels are shifted by +1 (A -> B, E -> F, I -> J, O -> P, U -> V) and Consonants are shifted by -1 (B -> A, R -> Q, P -> O, D -> C, etc.). Applying this to 'KORAPUT': K (consonant -1) = J; O (vowel +1) = P; R (consonant -1) = Q; A (vowel +1) = B; P (consonant -1) = O; U (vowel +1) = V; T (consonant -1) = S. Thus, the code is 'JPQBOVS'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'BARIPADA' କୁ 'ABQJOBCB' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି କୋଡ୍ ଭାଷାରେ 'KORAPUT' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "JPQBOVS",
+            "LPSCQVU",
+            "JPQBPVS",
+            "JOQANVS"
+          ],
+          "explanation": "ଏଠାରେ ବ୍ୟବହୃତ ଯୁକ୍ତି ହେଉଛି: ସ୍ୱରବର୍ଣ୍ଣ (Vowels) ଗୁଡ଼ିକୁ +1 ଶିଫ୍ଟ କରାଯାଇଛି (A -> B, I -> J, O -> P, U -> V) ଏବଂ ବ୍ୟଞ୍ଜନବର୍ଣ୍ଣ (Consonants) ଗୁଡ଼ିକୁ -1 ଶିଫ୍ଟ କରାଯାଇଛି (B -> A, R -> Q, P -> O, D -> C, ଇତ୍ୟାଦି)। ଏହାକୁ 'KORAPUT' ରେ ପ୍ରୟୋଗ କଲେ: K (ବ୍ୟଞ୍ଜନ -1) = J; O (ସ୍ୱର +1) = P; R (ବ୍ୟଞ୍ଜନ -1) = Q; A (ସ୍ୱର +1) = B; P (ବ୍ୟଞ୍ଜନ -1) = O; U (ସ୍ୱର +1) = V; T (ବ୍ୟଞ୍ଜନ -1) = S | ତେଣୁ, ସଠିକ୍ କୋଡ୍ ହେଉଛି 'JPQBOVS'।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424114924-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven friends P, Q, R, S, T, U, and V are sitting in a straight line facing North. U sits second to the right of S. T sits third to the left of U. Only three people sit between T and P. V sits to the immediate right of P. Q is not an immediate neighbor of S. Who sits third to the left of Q?",
+      "options": [
+        "R",
+        "U",
+        "P",
+        "S"
+      ],
+      "answer": 1,
+      "explanation": "Based on the clues, we can place the friends from left to right as follows: T (1st), S (2nd), R (3rd), U (4th), P (5th), V (6th), Q (7th). Let's verify: U is second to the right of S (correct). T is third to the left of U (correct). Three people (S, R, U) sit between T and P (correct). V is to the immediate right of P (correct). Q is not a neighbor of S (correct). The person sitting third to the left of Q (at 7th position) is U (at 4th position).",
+      "translations": {
+        "or": {
+          "question": "ସାତ ଜଣ ସାଙ୍ଗ P, Q, R, S, T, U, ଏବଂ V ଉତ୍ତର ଦିଗକୁ ମୁହଁ କରି ଏକ ସରଳ ରେଖାରେ ବସିଛନ୍ତି। U, S ର ଡାହାଣକୁ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। T, U ର ବାମକୁ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। T ଏବଂ P ମଧ୍ୟରେ କେବଳ ତିନିଜଣ ବସିଛନ୍ତି। V, P ର ଠିକ୍ ଡାହାଣ ପାର୍ଶ୍ୱରେ ବସିଛନ୍ତି। Q, S ର ଜଣେ ପଡୋଶୀ ନୁହଁନ୍ତି। Q ର ବାମକୁ ତୃତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "R",
+            "U",
+            "P",
+            "S"
+          ],
+          "explanation": "ସୂତ୍ର ଅନୁଯାୟୀ, ଆମେ ବାମରୁ ଡାହାଣକୁ ସାଙ୍ଗମାନଙ୍କୁ ଏହିପରି ବସାଇପାରିବା: T (ପ୍ରଥମ), S (ଦ୍ୱିତୀୟ), R (ତୃତୀୟ), U (ଚତୁର୍ଥ), P (ପଞ୍ଚମ), V (ଷଷ୍ଠ), Q (ସପ୍ତମ)। ଯାଞ୍ଚ କରିବା: U, S ର ଡାହାଣକୁ ଦ୍ୱିତୀୟରେ ଅଛନ୍ତି (ସଠିକ୍)। T, U ର ବାମକୁ ତୃତୀୟରେ ଅଛନ୍ତି (ସଠିକ୍)। T ଏବଂ P ମଧ୍ୟରେ ତିନିଜଣ (S, R, U) ବସିଛନ୍ତି (ସଠିକ୍)। V, P ର ଠିକ୍ ଡାହାଣରେ ଅଛନ୍ତି (ସଠିକ୍)। Q, S ର ପଡୋଶୀ ନୁହଁନ୍ତି (ସଠିକ୍)। Q (ସପ୍ତମ ସ୍ଥାନ) ର ବାମକୁ ତୃତୀୟ ସ୍ଥାନରେ ବସିଥିବା ବ୍ୟକ୍ତି ହେଉଛନ୍ତି U (ଚତୁର୍ଥ ସ୍ଥାନ)।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424146682-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year did the infamous 'Na'Anka Durbhiksha' (famine) of Odisha take place?",
+      "options": [
+        "1857",
+        "1866",
+        "1872",
+        "1888"
+      ],
+      "answer": 1,
+      "explanation": "The Na'Anka Durbhiksha (famine) occurred in Odisha in 1866 during the 9th regnal year of Gajapati Dibyasingha Deba, resulting in massive loss of life and severe socio-economic impact.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ବର୍ଷ ଓଡ଼ିଶାରେ ପ୍ରସିଦ୍ଧ 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ହୋଇଥିଲା?",
+          "options": [
+            "1857",
+            "1866",
+            "1872",
+            "1888"
+          ],
+          "explanation": "ଗଜପତି ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ରାଜତ୍ୱର ୯ମ ବର୍ଷରେ ୧୮୬୬ ମସିହାରେ ଓଡ଼ିଶାରେ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ଦେଖାଦେଇଥିଲା, ଯାହାଫଳରେ ପ୍ରବଳ ଜନଜୀବନ ହାନି ଏବଂ ଗୁରୁତର ସାମାଜିକ-ଅର୍ଥନୈତିକ ପ୍ରଭାବ ପଡିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424146682-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which lake in Odisha was designated as the first Indian wetland of international importance under the Ramsar Convention?",
+      "options": [
+        "Ansupa Lake",
+        "Chilika Lake",
+        "Kanjia Lake",
+        "Tampara Lake"
+      ],
+      "answer": 1,
+      "explanation": "Chilika Lake was designated as the first Ramsar site in India in 1981 due to its rich biodiversity, unique brackish water ecosystem, and importance as a wintering ground for migratory birds.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରାମସର ସମ୍ମିଳନୀ (Ramsar Convention) ଅଧୀନରେ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆଦ୍ରଭୂମି ଭାବରେ ଓଡ଼ିଶାର କେଉଁ ହ୍ରଦକୁ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ଚିଲିକା ହ୍ରଦ",
+            "କଞ୍ଜିଆ ହ୍ରଦ",
+            "ତାମ୍ପରା ହ୍ରଦ"
+          ],
+          "explanation": "ଚିଲିକା ହ୍ରଦକୁ ଏହାର ସମୃଦ୍ଧ ଜୈବ ବିବିଧତା, ଅନନ୍ୟ ଲୁଣିଆ ପାଣି ପରିବେଶ ଏବଂ ପ୍ରବାସୀ ପକ୍ଷୀମାନଙ୍କ ପାଇଁ ଶୀତକାଳୀନ ଆଶ୍ରୟସ୍ଥଳୀ ଭାବରେ ଗୁରୁତ୍ୱ ପାଇଁ ୧୯୮୧ ମସିହାରେ ଭାରତର ପ୍ରଥମ ରାମସର ସ୍ଥଳ ଭାବରେ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424352999-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the author of the famous historical play 'Kanchi Kaveri' (published in 1880-81), which is widely considered as the first modern Odia play?",
+      "options": [
+        "Radhanath Ray",
+        "Ramashankar Ray",
+        "Madhusudan Rao",
+        "Fakir Mohan Senapati"
+      ],
+      "answer": 1,
+      "explanation": "Ramashankar Ray is considered the father of modern Odia drama. His play 'Kanchi Kaveri', published in 1880-81, is recognized as the first modern Odia play, based on the historical legend of King Purushottama Deva and Princess Padmavati.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ନାଟକ 'କାଞ୍ଚି କାବେରୀ' (୧୮୮୦-୮୧ ମସିହାରେ ପ୍ରକାଶିତ) ର ରଚୟିତା କିଏ, ଯାହାକୁ ବହୁଳ ଭାବରେ ପ୍ରଥମ ଆଧୁନିକ ଓଡ଼ିଆ ନାଟକ ଭାବରେ ଗଣ୍ୟ କରାଯାଏ?",
+          "options": [
+            "ରାଧାନାଥ ରାୟ",
+            "ରାମଶଙ୍କର ରାୟ",
+            "ମଧୁସୂଦନ ରାଓ",
+            "ଫକୀର ମୋହନ ସେନାପତି"
+          ],
+          "explanation": "ରାମଶଙ୍କର ରାୟଙ୍କୁ ଆଧୁନିକ ଓଡ଼ିଆ ନାଟକର ଜନକ କୁହାଯାଏ। ୧୮୮୦-୮୧ ମସିହାରେ ପ୍ରକାଶିତ ତାଙ୍କ ନାଟକ 'କାଞ୍ଚି କାବେରୀ' ହେଉଛି ଓଡ଼ିଆ ସାହିତ୍ୟର ପ୍ରଥମ ଆଧୁନିକ ନାଟକ, ଯାହା ଗଜପତି ପୁରୁଷୋତ୍ତମ ଦେବ ଏବଂ କାଞ୍ଚିର ରାଜକୁମାରୀ ପଦ୍ମାବତୀଙ୍କ କିମ୍ବଦନ୍ତୀ ଉପରେ ଆଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783424352999-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following princely states was the last to sign the instrument of merger with the Indian Union and officially integrated with Odisha on January 1, 1949?",
+      "options": [
+        "Keonjhar",
+        "Mayurbhanj",
+        "Kalahandi",
+        "Dhenkanal"
+      ],
+      "answer": 1,
+      "explanation": "While most of the princely states of Odisha merged with the province in January 1948, Mayurbhanj remained independent until it finally signed the instrument of merger and officially integrated with Odisha on January 1, 1949.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଗଡ଼ଜାତ ରାଜ୍ୟ ଭାରତୀୟ ସଂଘ ସହ ମିଶ୍ରଣ ଚୁକ୍ତିପତ୍ରରେ ସ୍ୱାକ୍ଷର କରିବାରେ ଶେଷ ଥିଲା ଏବଂ ୧ ଜାନୁଆରୀ ୧୯୪୯ ରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ଓଡ଼ିଶା ସହ ମିଶ୍ରିତ ହୋଇଥିଲା?",
+          "options": [
+            "କେନ୍ଦୁଝର",
+            "ମୟୂରଭଞ୍ଜ",
+            "କଳାହାଣ୍ଡି",
+            "ଢେଙ୍କାନାଳ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ଅଧିକାଂଶ ଗଡ଼ଜାତ ରାଜ୍ୟ ଜାନୁଆରୀ ୧୯୪୮ ରେ ଓଡ଼ିଶା ପ୍ରଦେଶ ସହ ମିଶ୍ରିତ ହୋଇଥିବାବେଳେ, ମୟୂରଭଞ୍ଜ ସ୍ୱତନ୍ତ୍ର ରହିଥିଲା ଏବଂ ଶେଷରେ ୧ ଜାନୁଆରୀ ୧୯୪୯ ରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ଓଡ଼ିଶା ସହିତ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ମିଶ୍ରିତ ହେଲା।"
         }
       }
     }

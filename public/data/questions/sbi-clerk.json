@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -1944,6 +1944,104 @@
       ],
       "answer": 0,
       "explanation": "To promote digital transactions, the RBI in August 2023 increased the limit for a single offline digital payment transaction via UPI Lite to ₹500, although the overall limit for a UPI Lite wallet on a device remains capped at ₹2,000.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783423735682-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Three partners A, B, and C invest in a business in the ratio of 4 : 5 : 6. After 6 months, C withdraws half of his capital. If the total profit at the end of the year is Rs. 54,000, what is the profit share of C?",
+      "options": [
+        "Rs. 18,000",
+        "Rs. 20,000",
+        "Rs. 16,000",
+        "Rs. 24,000"
+      ],
+      "answer": 0,
+      "explanation": "Let the initial investments of A, B, and C be 4x, 5x, and 6x respectively. The ratio of their profit sharing at the end of 1 year is calculated as: A : B : C = (4x * 12) : (5x * 12) : (6x * 6 + 3x * 6) = 48x : 60x : 54x = 8 : 10 : 9. The total sum of ratio terms is 8 + 10 + 9 = 27. Therefore, C's share of the profit is (9 / 27) * Rs. 54,000 = Rs. 18,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1783423735682-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a piece of work in 10, 12, and 15 days respectively. They begin the work together, but A leaves after 2 days and B leaves 3 days before the work is completed. In how many days is the work completed?",
+      "options": [
+        "6 days",
+        "7 days",
+        "8 days",
+        "9 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the total work be the LCM of 10, 12, and 15, which is 60 units. The daily efficiencies of A, B, and C are 6, 5, and 4 units respectively. Let the total time to complete the work be D days. A works for 2 days, contributing 2 * 6 = 12 units. B works for (D - 3) days, contributing 5 * (D - 3) units. C works for all D days, contributing 4 * D units. Setting up the equation: 12 + 5(D - 3) + 4D = 60 => 12 + 5D - 15 + 4D = 60 => 9D - 3 = 60 => 9D = 63 => D = 7 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1783423747134-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Directions: In the following question, some statements are given followed by two conclusions. Read all the statements and then decide which of the given conclusions logically follows.\n\nStatements:\n1. Only a few Gliders are Parachutes.\n2. No Parachute is a Balloon.\n3. All Balloons are Airships.\n\nConclusions:\nI. Some Gliders are not Balloons.\nII. Some Airships are not Parachutes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "For Conclusion I: Since 'Only a few Gliders are Parachutes', some Gliders are Parachutes. As 'No Parachute is a Balloon', those Gliders which are Parachutes can never be Balloons. Hence, 'Some Gliders are not Balloons' is definitely true. For Conclusion II: All Balloons are Airships, and No Balloon is a Parachute. Thus, the part of Airships which is Balloons can never be Parachutes. Hence, 'Some Airships are not Parachutes' is also definitely true. Therefore, both conclusions follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1783423747134-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusion(s) among given options is/are definitely true.\n\nStatements:\nA < B <= C = D; E >= F > C; G < F <= H\n\nConclusions:\nI. E > A\nII. H > D",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Either conclusion I or II is true",
+        "Both conclusions I and II are true"
+      ],
+      "answer": 3,
+      "explanation": "From the statements, we can establish the relations: For Conclusion I: We have A < B <= C, which means A < C. Also, E >= F > C, which means E > C. Combining these, we get E > C > A, which simplifies to E > A. Thus, Conclusion I is true. For Conclusion II: We have F > C and C = D, so F > D. We also have F <= H, which means H >= F. Combining these, we get H >= F > D, which simplifies to H > D. Thus, Conclusion II is also true. Therefore, both conclusions are true."
+    },
+    {
+      "id": "sbi-clerk-ai-1783423796572-0",
+      "section": "General Awareness",
+      "topic": "Banking Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Payments Infrastructure Development Fund (PIDF) Scheme, operationalized by the Reserve Bank of India (RBI) to encourage deployment of payment acceptance infrastructure, has been extended till which of the following dates?",
+      "options": [
+        "December 31, 2024",
+        "March 31, 2025",
+        "December 31, 2025",
+        "March 31, 2026"
+      ],
+      "answer": 2,
+      "explanation": "The Reserve Bank of India (RBI) extended the tenure of the Payments Infrastructure Development Fund (PIDF) Scheme by two years, making it valid up to December 31, 2025. The scheme was initially launched in January 2021 for a period of three years.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783423796573-1",
+      "section": "General Awareness",
+      "topic": "Insolvency and Bankruptcy Code",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Pre-packaged Insolvency Resolution Process (PIRP) introduced for MSMEs under the Insolvency and Bankruptcy Code, the entire resolution process must be completed within a maximum of how many days from the commencement date?",
+      "options": [
+        "90 days",
+        "120 days",
+        "180 days",
+        "270 days"
+      ],
+      "answer": 1,
+      "explanation": "According to Section 54D of the Insolvency and Bankruptcy Code (IBC), the Pre-packaged Insolvency Resolution Process (PIRP) must be completed within a maximum period of 120 days from the insolvency commencement date.",
       "status": "pending"
     }
   ]

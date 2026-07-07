@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1693,6 +1693,62 @@
             "ଅଣ-ଆନୁଷ୍ଠାନିକ ଏବଂ ଦୂର ନିରନ୍ତର ଶିକ୍ଷା (Non-formal and Distance education)"
           ],
           "explanation": "ପାଉଲୋ ଫ୍ରେଇରେ 'Problem-posing education' (ସମସ୍ୟା-ଉପସ୍ଥାପନକାରୀ ଶିକ୍ଷା) ର ପ୍ରସ୍ତାବ ଦେଇଥିଲେ ଯାହା ସଂଳାପୀ (dialogic) ଅଟେ ଏବଂ ଏହା ଶିକ୍ଷାର୍ଥୀଙ୍କ ମଧ୍ୟରେ ସମାଲୋଚନାତ୍ମକ ଚିନ୍ତାଧାରାର ବିକାଶ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783425794855-0",
+      "section": "Child Development",
+      "topic": "Language Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Noam Chomsky, the rapid acquisition of language in early childhood is facilitated by an innate biological brain mechanism known as the:",
+      "options": [
+        "Language Acquisition Device (LAD)",
+        "Zone of Proximal Development (ZPD)",
+        "Universal Grammar Schema (UGS)",
+        "Phonemic Mapping Module (PMM)"
+      ],
+      "answer": 0,
+      "explanation": "Noam Chomsky proposed the concept of the Language Acquisition Device (LAD), an innate, biologically preprogrammed mechanism in the human brain that allows children to rapidly acquire language and master its grammatical rules without formal instruction.",
+      "translations": {
+        "or": {
+          "question": "ନୋଆମ୍ ଚୋମସ୍କିଙ୍କ ଅନୁଯାୟୀ, ପ୍ରାରମ୍ଭିକ ଶୈଶବାବସ୍ଥାରେ ଭାଷାର ଦ୍ରୁତ ଶିକ୍ଷଣ ଏକ ସହଜାତ ଜୈବିକ ମସ୍ତିଷ୍କ ପ୍ରକ୍ରିୟା ଦ୍ୱାରା ସହଜ ହୋଇଥାଏ, ଯାହାକୁ କୁହାଯାଏ:",
+          "options": [
+            "ଲାଙ୍ଗୁଏଜ୍ ଆକ୍ୱିଜିସନ୍ ଡିଭାଇସ୍ (LAD) / Language Acquisition Device (LAD)",
+            "ଜୋନ୍ ଅଫ୍ ପ୍ରକ୍ସିମାଲ୍ ଡେଭଲପମେଣ୍ଟ (ZPD) / Zone of Proximal Development (ZPD)",
+            "ୟୁନିଭର୍ସାଲ୍ ଗ୍ରାମାର୍ ସ୍କିମା (UGS) / Universal Grammar Schema (UGS)",
+            "ଫୋନେମିକ୍ ମ୍ୟାପିଙ୍ଗ୍ ମଡ୍ୟୁଲ୍ (PMM) / Phonemic Mapping Module (PMM)"
+          ],
+          "explanation": "ନୋଆମ୍ ଚୋମସ୍କିଙ୍କ ଅନୁଯାୟୀ, ଶିଶୁମାନଙ୍କର ଏକ ଜନ୍ମଗତ କ୍ଷମତା ଥାଏ ଯାହାକୁ 'ଲାଙ୍ଗୁଏଜ୍ ଆକ୍ୱିଜିସନ୍ ଡିଭାଇସ୍' (LAD) କୁହାଯାଏ, ଯାହା ସେମାନଙ୍କୁ ଭାଷା ଶୀଘ୍ର ଶିଖିବାରେ ଏବଂ ବ୍ୟାକରଣ ନିୟମ ବୁଝିବାରେ ସାହାଯ୍ୟ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783425794855-1",
+      "section": "Child Development",
+      "topic": "Social Perspective-Taking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Robert Selman’s stages of perspective-taking development, at which stage does a child realize that both self and other can view each other as subjects, allowing them to step outside a two-person interaction and view it from a third-party perspective?",
+      "options": [
+        "Social-informational perspective-taking (Stage 1)",
+        "Self-reflective perspective-taking (Stage 2)",
+        "Third-party/Mutual perspective-taking (Stage 3)",
+        "Societal/Societal-systemic perspective-taking (Stage 4)"
+      ],
+      "answer": 2,
+      "explanation": "In Stage 3 (Third-party/Mutual perspective-taking), which typically occurs around ages 10 to 15, the child can step outside the immediate relationship and view the interaction from the perspective of an objective, third-party observer, realizing how both parties' perspectives interact.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ସେଲମ୍ୟାନ୍‌ଙ୍କ ଭୂମିକା-ଗ୍ରହଣ (ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ) ବିକାଶର ପର୍ଯ୍ୟାୟ ଅନୁଯାୟୀ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଏକ ଶିଶୁ ଅନୁଭବ କରେ ଯେ ନିଜେ ଏବଂ ଅନ୍ୟମାନେ ପରସ୍ପରକୁ ବିଷୟ ଭାବରେ ଦେଖିପାରିବେ, ଯାହା ସେମାନଙ୍କୁ ଦୁଇ ଜଣଙ୍କ ମଧ୍ୟରେ ହେଉଥିବା ପାରସ୍ପରିକ କ୍ରିୟାରୁ ବାହାରି ଏକ ତୃତୀୟ ପକ୍ଷର ଦୃଷ୍ଟିକୋଣରୁ ଏହାକୁ ଦେଖିବାକୁ ଅନୁମତି ଦିଏ?",
+          "options": [
+            "ସାମାଜିକ-ତଥ୍ୟପ୍ରଦାନକାରୀ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (ପର୍ଯ୍ୟାୟ ୧) / Social-informational perspective-taking (Stage 1)",
+            "ଆତ୍ମ-ପ୍ରତିଫଳିତ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (ପର୍ଯ୍ୟାୟ ୨) / Self-reflective perspective-taking (Stage 2)",
+            "ତୃତୀୟ-ପକ୍ଷ/ପାରସ୍ପରିକ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (ପର୍ଯ୍ୟାୟ ୩) / Third-party/Mutual perspective-taking (Stage 3)",
+            "ସାମାଜିକ/ସାମାଜିକ-ପ୍ରଣାଳୀ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (ପର୍ଯ୍ୟାୟ ୪) / Societal/Societal-systemic perspective-taking (Stage 4)"
+          ],
+          "explanation": "ରବର୍ଟ ସେଲମ୍ୟାନ୍‌ଙ୍କ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ ସିଦ୍ଧାନ୍ତର ପର୍ଯ୍ୟାୟ ୩ (ତୃତୀୟ-ପକ୍ଷ/ପାରସ୍ପରିକ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ) ରେ, ଶିଶୁମାନେ ନିଜ ସମ୍ପର୍କ ଏବଂ କାର୍ଯ୍ୟକୁ ଜଣେ ନିରପେକ୍ଷ ତୃତୀୟ ପକ୍ଷର ଦୃଷ୍ଟିକୋଣରୁ ଦେଖିବାକୁ ସକ୍ଷମ ହୁଅନ୍ତି।"
         }
       }
     }

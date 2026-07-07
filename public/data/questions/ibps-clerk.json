@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2158,6 +2158,102 @@
       "answer": 2,
       "explanation": "The Legal Entity Identifier (LEI) is a 20-digit unique code global identifier used to identify parties to financial transactions worldwide. The RBI has progressively mandated its use for large-value transactions and borrowers.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783423661730-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat's speed in still water is 15 km/h. It travels a certain distance downstream and returns back to the starting point upstream. If the speed of the stream is 3 km/h and the total time taken for the round trip is 5 hours, what is the distance between the starting point and the destination?",
+      "options": [
+        "30 km",
+        "36 km",
+        "42 km",
+        "45 km"
+      ],
+      "answer": 1,
+      "explanation": "Let the distance between the starting point and the destination be d km. Downstream speed (D) = speed in still water + speed of stream = 15 + 3 = 18 km/h. Upstream speed (U) = speed in still water - speed of stream = 15 - 3 = 12 km/h. Total time taken = (d / D) + (d / U) = 5 hours. Therefore, (d / 18) + (d / 12) = 5. Solving this equation: (2d + 3d) / 36 = 5 => 5d / 36 = 5 => d = 36 km."
+    },
+    {
+      "id": "ibps-clerk-ai-1783423661730-1",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and the simple interest on a certain sum of money at 10% per annum for 3 years is Rs. 155. Find the sum.",
+      "options": [
+        "Rs. 4,000",
+        "Rs. 4,500",
+        "Rs. 5,000",
+        "Rs. 6,000"
+      ],
+      "answer": 2,
+      "explanation": "For 3 years, the difference (D) between Compound Interest and Simple Interest is given by the formula: D = P * (R / 100)^2 * ((300 + R) / 100), where P is the principal sum and R is the rate of interest. Given D = 155 and R = 10%. Substituting the values: 155 = P * (10 / 100)^2 * ((300 + 10) / 100) => 155 = P * (1 / 100) * (310 / 100) => 155 = P * (31 / 1000) => P = (155 * 1000) / 31 = 5 * 1000 = Rs. 5,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1783423672127-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, if all the vowels in the word 'CANDIDATE' are replaced by their immediate next letter in the alphabetical series and all the consonants are replaced by their immediate preceding letter in the alphabetical series, then what will be the coded form of 'CANDIDATE'?",
+      "options": [
+        "BBMJCBCSF",
+        "BBMKCBCSF",
+        "ABMICBCRE",
+        "BBNJCBCSF"
+      ],
+      "answer": 0,
+      "explanation": "To code the word 'CANDIDATE':\n1. Consonants are replaced by their preceding letter: C -> B, N -> M, D -> C, D -> C, T -> S.\n2. Vowels are replaced by their next letter: A -> B, I -> J, A -> B, E -> F.\nPutting it all together in order: C(B) A(B) N(M) D(C) I(J) D(C) A(B) T(S) E(F) = BBMJCBCSF."
+    },
+    {
+      "id": "ibps-clerk-ai-1783423672127-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Ananya starts walking from Point X towards the North. After walking 10 meters, she reaches Point Y. From Point Y, she takes a 90-degree clockwise turn and walks 15 meters to reach Point Z. From Point Z, she turns 135 degrees anticlockwise and walks 15√2 meters to reach Point W. Finally, from Point W, she turns South and walks 12 meters to reach Point V. What is the shortest distance between Point X and Point V, and in which direction is Point V with respect to Point X?",
+      "options": [
+        "13 meters, North",
+        "15 meters, North",
+        "13 meters, South",
+        "13√2 meters, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Let Point X be at coordinates (0, 0).\n1. Walking 10m North to Y puts Y at (0, 10).\n2. Turning 90 degrees clockwise (East) and walking 15m to Z puts Z at (15, 10).\n3. From Z (facing East), turning 135 degrees anticlockwise means she faces North-West. Walking 15√2 meters in this direction means she moves West by 15m (15√2 * cos(45°)) and North by 15m (15√2 * sin(45°)). Thus, the coordinates of W are (15 - 15, 10 + 15) = (0, 25).\n4. From W(0, 25), turning South and walking 12m to V puts V at (0, 25 - 12) = (0, 13).\n5. The shortest distance between X(0,0) and V(0,13) is 13 meters, and V is directly North of X."
+    },
+    {
+      "id": "ibps-clerk-ai-1783423690008-0",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Four words are given below, of which three are synonyms and one is the odd one out. Identify the odd one.",
+      "options": [
+        "Ephemeral",
+        "Transient",
+        "Evanescent",
+        "Perpetual"
+      ],
+      "answer": 3,
+      "explanation": "'Ephemeral', 'transient', and 'evanescent' are all synonyms that mean lasting for a very short time or fleeting. 'Perpetual' means never-ending or everlasting, which makes it the antonym and the odd one out."
+    },
+    {
+      "id": "ibps-clerk-ai-1783423690008-1",
+      "section": "English",
+      "topic": "Grammar & Verb Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the sentence in which the verbs 'lay' or 'lie' (or their inflected forms) are used grammatically CORRECTLY.",
+      "options": [
+        "After a long day of hiking, he decided to lay down on the damp grass to rest.",
+        "The hen has laid three eggs in the nest this morning.",
+        "She had lain the heavy book on the coffee table before she left the room.",
+        "The picturesque valley lays between two majestic, snow-capped mountain ranges."
+      ],
+      "answer": 1,
+      "explanation": "Option B is grammatically correct because 'laid' is the past participle of the transitive verb 'lay' (to put/place), which correctly takes the direct object 'three eggs'. Option A is incorrect because it should use the intransitive verb 'lie' ('lie down'). Option C is incorrect because 'lain' is intransitive; it should be 'laid' since 'the heavy book' is a direct object. Option D is incorrect because the valley exists or rests there, which requires the intransitive verb 'lies' instead of 'lays'."
     }
   ]
 }
