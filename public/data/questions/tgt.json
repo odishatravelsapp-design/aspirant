@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -623,6 +623,62 @@
             "ବ୍ୟାସ"
           ],
           "explanation": "ବାଗଲିହାର ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ଜମ୍ମୁ ଓ କାଶ୍ମୀରର ରାମବନ ଜିଲ୍ଲାରେ ଚେନାବ ନଦୀ ଉପରେ ନିର୍ମିତ ଏକ ରନ୍-ଅଫ୍-ଦି-ରିଭର୍ (run-of-the-river) ପ୍ରକଳ୍ପ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783504118318-0",
+      "section": "Teaching Aptitude",
+      "topic": "Experiential Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to David Kolb's Experiential Learning Model, which of the following represents the correct sequence of the four stages in the learning cycle?",
+      "options": [
+        "Concrete Experience, Reflective Observation, Abstract Conceptualization, Active Experimentation",
+        "Abstract Conceptualization, Concrete Experience, Active Experimentation, Reflective Observation",
+        "Reflective Observation, Active Experimentation, Concrete Experience, Abstract Conceptualization",
+        "Active Experimentation, Reflective Observation, Abstract Conceptualization, Concrete Experience"
+      ],
+      "answer": 0,
+      "explanation": "David Kolb's experiential learning cycle consists of four stages: Concrete Experience (feeling), Reflective Observation (watching), Abstract Conceptualization (thinking), and Active Experimentation (doing). These stages typically occur in this specific, cyclical sequence.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କୋଲବ୍‌ଙ୍କ ଅଭିଜ୍ଞତାଭିତ୍ତିକ ଶିକ୍ଷଣ ମଡେଲ୍ (Experiential Learning Model) ଅନୁଯାୟୀ, ଶିକ୍ଷଣ ଚକ୍ରର ଚାରୋଟି ପର୍ଯ୍ୟାୟର ସଠିକ୍ କ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି?",
+          "options": [
+            "ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation)",
+            "ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization), ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation)",
+            "ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation), ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization)",
+            "ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization), ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience)"
+          ],
+          "explanation": "ଡେଭିଡ୍ କୋଲବ୍‌ଙ୍କ ଅଭିଜ୍ଞତାଭିତ୍ତିକ ଶିକ୍ଷଣ ଚକ୍ର ଚାରୋଟି ପର୍ଯ୍ୟାୟକୁ ନେଇ ଗଠିତ: ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience - ଅନୁଭବ କରିବା), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation - ଦେଖିବା), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization - ଚିନ୍ତା କରିବା), ଏବଂ ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation - କରିବା)। ଏହି ପର୍ଯ୍ୟାୟଗୁଡ଼ିକ ସାଧାରଣତଃ ଏହି ନିର୍ଦ୍ଦିଷ୍ଟ କ୍ରମରେ ଗତି କରିଥାନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783504118318-1",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Jerome Bruner's theory of cognitive development, children represent the world through actions, images, and symbols. Which of the following is the correct developmental sequence of these modes of representation from earliest to latest?",
+      "options": [
+        "Iconic, Enactive, Symbolic",
+        "Enactive, Iconic, Symbolic",
+        "Symbolic, Enactive, Iconic",
+        "Enactive, Symbolic, Iconic"
+      ],
+      "answer": 1,
+      "explanation": "Jerome Bruner proposed three modes of cognitive representation: Enactive (action-based, early childhood), Iconic (image-based, mid-childhood), and Symbolic (language/symbol-based, later childhood and adulthood). They develop in this chronological order.",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ୍ ବ୍ରୁନର୍‌ଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ଶିଶୁମାନେ କାର୍ଯ୍ୟ, ଚିତ୍ର ଏବଂ ସଙ୍କେତ ମାଧ୍ୟମରେ ବିଶ୍ୱକୁ ପ୍ରତିନିଧିତ୍ୱ କରନ୍ତି। ପ୍ରାରମ୍ଭରୁ ପରବର୍ତ୍ତୀ ସମୟ ଅନୁଯାୟୀ ଏହି ପ୍ରତିନିଧିତ୍ୱର ସଠିକ୍ କ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି?",
+          "options": [
+            "ଚିତ୍ରାତ୍ମକ (Iconic), କ୍ରିୟାତ୍ମକ (Enactive), ସାଙ୍କେତିକ (Symbolic)",
+            "କ୍ରିୟାତ୍ମକ (Enactive), ଚିତ୍ରାତ୍ମକ (Iconic), ସାଙ୍କେତିକ (Symbolic)",
+            "ସାଙ୍କେତିକ (Symbolic), କ୍ରିୟାତ୍ମକ (Enactive), ଚିତ୍ରାତ୍ମକ (Iconic)",
+            "କ୍ରିୟାତ୍ମକ (Enactive), ସାଙ୍କେତିକ (Symbolic), ଚିତ୍ରାତ୍ମକ (Iconic)"
+          ],
+          "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍ ଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି ପର୍ଯ୍ୟାୟ ପ୍ରସ୍ତାବ କରିଥିଲେ: କ୍ରିୟାତ୍ମକ (Enactive - କାର୍ଯ୍ୟ-ଆଧାରିତ, ଶୈଶବ ସମୟ), ଚିତ୍ରାତ୍ମକ (Iconic - ଚିତ୍ର-ଆଧାରିତ, ବାଲ୍ୟାବସ୍ଥା), ଏବଂ ସାଙ୍କେତିକ (Symbolic - ଭାଷା/ସଙ୍କେତ-ଆଧାରିତ, ପରବର୍ତ୍ତୀ ବାଲ୍ୟାବସ୍ଥା ଏବଂ ପ୍ରୌଢ଼ାବସ୍ଥା)। ଏଗୁଡ଼ିକ ଏହି କ୍ରମରେ ବିକଶିତ ହୋଇଥାଏ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -2283,6 +2283,234 @@
             "ଢେଙ୍କାନାଳ"
           ],
           "explanation": "ଓଡ଼ିଶାର ଅଧିକାଂଶ ଗଡ଼ଜାତ ରାଜ୍ୟ ଜାନୁଆରୀ ୧୯୪୮ ରେ ଓଡ଼ିଶା ପ୍ରଦେଶ ସହ ମିଶ୍ରିତ ହୋଇଥିବାବେଳେ, ମୟୂରଭଞ୍ଜ ସ୍ୱତନ୍ତ୍ର ରହିଥିଲା ଏବଂ ଶେଷରେ ୧ ଜାନୁଆରୀ ୧୯୪୯ ରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ଓଡ଼ିଶା ସହିତ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ମିଶ୍ରିତ ହେଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503595567-0",
+      "section": "Arithmetic",
+      "topic": "Time and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A train crosses a platform 150 m long in 15 seconds and a man standing on the platform in 9 seconds. What is the speed of the train in km/h?",
+      "options": [
+        "72 km/h",
+        "80 km/h",
+        "90 km/h",
+        "100 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Let the length of the train be L meters. The speed of the train when crossing the man is L/9 m/s. The speed when crossing the platform is (L + 150)/15 m/s. Since the speed is constant, L/9 = (L + 150)/15. Solving for L: 15L = 9L + 1350 => 6L = 1350 => L = 225 meters. Speed = 225/9 = 25 m/s. Converting to km/h: 25 * (18/5) = 90 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଟ୍ରେନ୍ ୧୫୦ ମିଟର ଲମ୍ବ ବିଶିଷ୍ଟ ଏକ ପ୍ଲାଟଫର୍ମକୁ ୧୫ ସେକେଣ୍ଡରେ ଏବଂ ପ୍ଲାଟଫର୍ମରେ ଛିଡ଼ା ହୋଇଥିବା ଜଣେ ବ୍ୟକ୍ତିଙ୍କୁ ୯ ସେକେଣ୍ଡରେ ଅତିକ୍ରମ କରେ। ଟ୍ରେନର ବେଗ ଘଣ୍ଟା ପ୍ରତି କେତେ କିଲୋମିଟର (km/h)?",
+          "options": [
+            "72 କିମି/ଘଣ୍ଟା",
+            "80 କିମି/ଘଣ୍ଟା",
+            "90 କିମି/ଘଣ୍ଟା",
+            "100 କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ଟ୍ରେନର ଲମ୍ବ L ମିଟର ଅଟେ। ବ୍ୟକ୍ତିଙ୍କୁ ଅତିକ୍ରମ କରିବା ସମୟରେ ଟ୍ରେନର ବେଗ = L/9 ମିଟର/ସେକେଣ୍ଡ। ପ୍ଲାଟଫର୍ମକୁ ଅତିକ୍ରମ କରିବା ସମୟରେ ବେଗ = (L + 150)/15 ମିଟର/ସେକେଣ୍ଡ। ଯେହେତୁ ବେଗ ସମାନ, L/9 = (L + 150)/15। ସମାଧାନ କଲେ: 15L = 9L + 1350 => 6L = 1350 => L = 225 ମିଟର। ବେଗ = 225/9 = 25 ମିଟର/ସେକେଣ୍ଡ। ଏହାକୁ କିମି/ଘଣ୍ଟାରେ ପ୍ରକାଶ କଲେ: 25 * (18/5) = 90 କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503595567-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A manufacturer sells an article to a wholesale dealer at a profit of 20%. The wholesale dealer sells it to a retail merchant at a loss of 10%. The retailer sells it to a customer for Rs. 594, making a profit of 10%. What was the cost price of the article to the manufacturer?",
+      "options": [
+        "Rs. 450",
+        "Rs. 500",
+        "Rs. 520",
+        "Rs. 550"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price of the article for the manufacturer be Rs. X. Selling price to wholesaler = 1.2X. Selling price of wholesaler to retailer = 1.2X * 0.9 = 1.08X. Selling price of retailer to customer = 1.08X * 1.1 = 1.188X. Given that 1.188X = 594. Therefore, X = 594 / 1.188 = 500. The cost price for the manufacturer was Rs. 500.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ପ୍ରସ୍ତୁତକାରୀ ଏକ ସାମଗ୍ରୀକୁ ପାଇକାରୀ ବିକ୍ରେତାଙ୍କୁ ୨୦% ଲାଭରେ ବିକ୍ରୟ କରନ୍ତି। ପାଇକାରୀ ବିକ୍ରେତା ଏହାକୁ ଜଣେ ଖୁଚୁରା ବ୍ୟବସାୟୀଙ୍କୁ ୧୦% କ୍ଷତିରେ ବିକ୍ରୟ କରନ୍ତି। ଖୁଚୁରା ବ୍ୟବସାୟୀ ଜଣକ ଜଣେ ଗ୍ରାହକଙ୍କୁ ଏହାକୁ ୫୯୪ ଟଙ୍କାରେ ବିକ୍ରୟ କରି ୧୦% ଲାଭ କରନ୍ତି। ପ୍ରସ୍ତୁତକାରୀଙ୍କ ପାଇଁ ସାମଗ୍ରୀଟିର କ୍ରୟ ମୂଲ୍ୟ କେତେ ଥିଲା?",
+          "options": [
+            "ଟ. ୪୫୦",
+            "ଟ. ୫୦୦",
+            "ଟ. ୫୨୦",
+            "ଟ. ୫୫୦"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ପ୍ରସ୍ତୁତକାରୀଙ୍କ ପାଇଁ କ୍ରୟ ମୂଲ୍ୟ X ଟଙ୍କା ଅଟେ। ପାଇକାରୀ ବିକ୍ରେତାଙ୍କ କ୍ରୟ ମୂଲ୍ୟ = 1.2X। ଖୁଚୁରା ବ୍ୟବସାୟୀଙ୍କ କ୍ରୟ ମୂଲ୍ୟ = 1.2X * 0.9 = 1.08X। ଗ୍ରାହକଙ୍କ କ୍ରୟ ମୂଲ୍ୟ (ଖୁଚୁରା ବିକ୍ରେତାଙ୍କ ବିକ୍ରୟ ମୂଲ୍ୟ) = 1.08X * 1.1 = 1.188X। ପ୍ରଶ୍ନ ଅନୁସାରେ, 1.188X = 594 => X = 594 / 1.188 = 500। ତେଣୁ, ପ୍ରସ୍ତୁତକାରୀଙ୍କ ପାଇଁ କ୍ରୟ ମୂଲ୍ୟ ୫୦୦ ଟଙ୍କା ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503611134-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'PURI' is coded as 'QWUM'. How will 'GOPALPUR' be coded in that language?",
+      "options": [
+        "HQSEQVBZ",
+        "HQREPVBZ",
+        "HPSEQWAZ",
+        "HRSEQVBY"
+      ],
+      "answer": 0,
+      "explanation": "The pattern is: P(+1)->Q, U(+2)->W, R(+3)->U, I(+4)->M. Similarly, applying the increasing shift to GOPALPUR: G(+1)->H, O(+2)->Q, P(+3)->S, A(+4)->E, L(+5)->Q, P(+6)->V, U(+7)->B, R(+8)->Z. Thus, GOPALPUR is coded as HQSEQVBZ.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'PURI' କୁ 'QWUM' ଭାବରେ କୋଡ୍ କରାଯାଇଛି | ସେହି ଭାଷାରେ 'GOPALPUR' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "HQSEQVBZ",
+            "HQREPVBZ",
+            "HPSEQWAZ",
+            "HRSEQVBY"
+          ],
+          "explanation": "ଏଠାରେ ପ୍ୟାଟର୍ଣ୍ଣଟି ହେଉଛି: P(+1)->Q, U(+2)->W, R(+3)->U, I(+4)->M | ସେହିଭଳି, GOPALPUR ଉପରେ କ୍ରମବର୍ଦ୍ଧମାନ ସିଫ୍ଟ ପ୍ରୟୋଗ କଲେ: G(+1)->H, O(+2)->Q, P(+3)->S, A(+4)->E, L(+5)->Q, P(+6)->V, U(+7)->B, R(+8)->Z ହେବ | ତେଣୁ, GOPALPUR ର କୋଡ୍ HQSEQVBZ ହେବ |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503611134-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'A * B' means 'A is the sister of B'; 'A / B' means 'A is the brother of B'; 'A + B' means 'A is the father of B'; 'A - B' means 'A is the mother of B'. In the expression 'K / T - M * S', how is K related to S?",
+      "options": [
+        "Maternal Uncle",
+        "Paternal Uncle",
+        "Nephew",
+        "Father"
+      ],
+      "answer": 0,
+      "explanation": "From 'K / T', K is the brother of T. From 'T - M', T is the mother of M. From 'M * S', M is the sister of S. Since T is the mother of M, and M is the sister of S, T is also the mother of S. Since K is the brother of T (S's mother), K is the maternal uncle of S.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି 'A * B' ର ଅର୍ଥ 'A ହେଉଛି B ର ଭଉଣୀ'; 'A / B' ର ଅର୍ଥ 'A ହେଉଛି B ର ଭାଇ'; 'A + B' ର ଅର୍ଥ 'A ହେଉଛି B ର ବାପା'; 'A - B' ର ଅର୍ଥ 'A ହେଉଛି B ର ମା'' | ତେବେ 'K / T - M * S' ସମୀକରଣରେ, K ର S ସହିତ କି ସମ୍ପର୍କ ଅଛି?",
+          "options": [
+            "ମାମୁଁ (Maternal Uncle)",
+            "ଦାଦା / କାକା (Paternal Uncle)",
+            "ଭଣଜା / ପୁତୁରା (Nephew)",
+            "ବାପା (Father)"
+          ],
+          "explanation": "'K / T' ରୁ ଜଣାପଡେ K ହେଉଛି T ର ଭାଇ | 'T - M' ରୁ ଜଣାପଡେ T ହେଉଛି M ର ମା' | 'M * S' ରୁ ଜଣାପଡେ M ହେଉଛି S ର ଭଉଣୀ | ଯେହେତୁ T ହେଉଛି M ର ମା' ଏବଂ M ହେଉଛି S ର ଭଉଣୀ, ତେଣୁ T ମଧ୍ୟ S ର ମା' ଅଟନ୍ତି | ଯେହେତୁ K ହେଉଛି T (S ର ମା') ର ଭାଇ, ତେଣୁ K ହେଉଛି S ର ମାମୁଁ |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503629201-0",
+      "section": "General Knowledge",
+      "topic": "Odia Journalism and Renaissance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the editor of the historic weekly newspaper 'Utkala Deepika', Odisha's first Odia newspaper published in 1866?",
+      "options": [
+        "Gourishankar Ray",
+        "Fakir Mohan Senapati",
+        "Radhanath Ray",
+        "Madhusudan Das"
+      ],
+      "answer": 0,
+      "explanation": "Utkala Deepika, the first Odia newspaper, was published on August 4, 1866, under the editorship of Karmabira Gourishankar Ray and Bichitrananda Das. It played a pivotal role in the Odia language movement and highlighted the plight of the people during the Na'Anka famine.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାରେ ପ୍ରକାଶିତ ଓଡ଼ିଶାର ପ୍ରଥମ ଓଡ଼ିଆ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା'ର ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୌରୀଶଙ୍କର ରାୟ",
+            "ଫକୀର ମୋହନ ସେନାପତି",
+            "ରାଧାନାଥ ରାୟ",
+            "ମଧୁସୂଦନ ଦାସ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ପ୍ରଥମ ଓଡ଼ିଆ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା' ୪ ଅଗଷ୍ଟ ୧୮୬୬ ମସିହାରେ କର୍ମବୀର ଗୌରୀଶଙ୍କର ରାୟ ଏବଂ ବିଚିତ୍ରାନନ୍ଦ ଦାସଙ୍କ ସମ୍ପାଦନାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା। ଏହା ଓଡ଼ିଆ ଭାଷା ଆନ୍ଦୋଳନ ଏବଂ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଲୋକଙ୍କ ସମସ୍ୟା ଉପସ୍ଥାପନ କରିବାରେ ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503629201-1",
+      "section": "General Knowledge",
+      "topic": "Medieval History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "During the reign of which Suryavamsi Gajapati ruler did the prominent Bhakti saint Sri Chaitanya Mahaprabhu visit Odisha and reside at Puri?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 2,
+      "explanation": "Sri Chaitanya Mahaprabhu arrived in Odisha (Puri) in 1510 AD during the reign of Gajapati Prataparudra Deva (who ruled from 1497 to 1540 AD). The Gajapati ruler eventually became a devout follower of Sri Chaitanya's Bhakti movement.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ଶାସକଙ୍କ ରାଜତ୍ୱ କାଳରେ ପ୍ରସିଦ୍ଧ ଭକ୍ତି ସନ୍ଥ ଶ୍ରୀ ଚୈତନ୍ୟ ମହାପ୍ରଭୁ ଓଡ଼ିଶା ଆସିଥିଲେ ଏବଂ ପୁରୀଠାରେ ଅବସ୍ଥାନ କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "ଶ୍ରୀ ଚୈତନ୍ୟ ମହାପ୍ରଭୁ ୧୫୧୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ (ଶାସନ କାଳ ୧୪୯୭-୧୫୪୦ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ରାଜତ୍ୱ ସମୟରେ ଓଡ଼ିଶା (ପୁରୀ) ଆସିଥିଲେ। ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବ ମଧ୍ୟ ଶ୍ରୀ ଚୈତନ୍ୟଙ୍କ ଭକ୍ତି ଆନ୍ଦୋଳନର ଜଣେ ପରମ ଅନୁଗାମୀ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503641886-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following freedom fighters led the Salt Satyagraha at Kujanga (in modern-day Jagatsinghpur district) in 1930?",
+      "options": [
+        "Rama Devi",
+        "Malati Choudhury",
+        "Rani Bhagyabati Patamahadei",
+        "Sarala Devi"
+      ],
+      "answer": 2,
+      "explanation": "Rani Bhagyabati Patamahadei of Kujanga led the local Salt Satyagraha in 1930, actively defying British salt laws alongside other women volunteers.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ମସିହାରେ କୁଜଙ୍ଗ (ବର୍ତ୍ତମାନର ଜଗତସିଂହପୁର ଜିଲ୍ଲା) ଠାରେ ଲବଣ ସତ୍ୟାଗ୍ରହର ନେତୃତ୍ୱ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ରମା ଦେବୀ",
+            "ମାଳତୀ ଚୌଧୁରୀ",
+            "ରାଣୀ ଭାଗ୍ୟବତୀ ପାଟମହାଦେଈ",
+            "ସରଳା ଦେବୀ"
+          ],
+          "explanation": "କୁଜଙ୍ଗର ରାଣୀ ଭାଗ୍ୟବତୀ ପାଟମହାଦେଈ ୧୯୩୦ ମସିହାରେ ଅନ୍ୟ ମହିଳା ସ୍ବେଚ୍ଛାସେବୀମାନଙ୍କ ସହ ବ୍ରିଟିଶ ଲବଣ ଆଇନକୁ ଅମାନ୍ୟ କରି ସ୍ଥାନୀୟ ଲବଣ ସତ୍ୟାଗ୍ରହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783503641886-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The earliest epigraphic evidence of the term 'Odisa Rajya' (written in Odia script) is found in the Jagannath Temple inscription of which Gajapati ruler?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Anangabhima Deva III"
+      ],
+      "answer": 0,
+      "explanation": "The earliest epigraphic evidence of the name 'Odisa Rajya' is found in the temple inscription of Gajapati Kapilendra Deva dating back to 1436 AD on the walls of the Jagannath Temple at Puri.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "'ଓଡ଼ିଶା ରାଜ୍ୟ' (ଓଡ଼ିଆ ସ୍କ୍ରିପ୍ଟରେ ଲିଖିତ) ଶବ୍ଦର ସର୍ବପ୍ରଥମ ଶିଳାଲେଖ ପ୍ରମାଣ କେଉଁ ଗଜପତି ଶାସକଙ୍କ ଜଗନ୍ନାଥ ମନ୍ଦିର ଶିଳାଲେଖରୁ ମିଳିଥାଏ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ"
+          ],
+          "explanation": "ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବଙ୍କ ୧୪୩୬ ଖ୍ରୀଷ୍ଟାବ୍ଦର ପୁରୀ ଜଗନ୍ନାଥ ମନ୍ଦିର କାନ୍ଥରେ ଥିବା ଶିଳାଲେଖରୁ 'ଓଡ଼ିଶା ରାଜ୍ୟ' ଶବ୍ଦର ସର୍ବପ୍ରଥମ ଶିଳାଲେଖ ପ୍ରମାଣ ମିଳିଥାଏ।"
         }
       }
     }

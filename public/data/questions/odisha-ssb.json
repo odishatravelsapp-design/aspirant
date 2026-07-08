@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -2785,6 +2785,234 @@
             "비ଷୟବସ୍ତୁର ସଂଗଠନ (Organization of content)"
           ],
           "explanation": "ରାଲ୍ଫ ଟାଇଲର୍‌ଙ୍କ ଅବରୋହୀ (deductive) ମଡେଲ୍ ଯାହା ଉଦ୍ଦେଶ୍ୟ ନିର୍ଦ୍ଧାରଣରୁ ଆରମ୍ଭ ହୁଏ, ତାହା ବିପରୀତରେ ହିଲ୍ଡା ଟାବା ଏକ ଆରୋହୀ (inductive/Grassroots) ଆଭିମୁଖ୍ୟ ପ୍ରସ୍ତାବ କରିଥିଲେ ଯାହା ଉଦ୍ଦେଶ୍ୟ ପ୍ରଣୟନ କରିବା ପୂର୍ବରୁ ପ୍ରଥମେ ଶିକ୍ଷାର୍ଥୀଙ୍କ ଆବଶ୍ୟକତା ନିରୂପଣରୁ ଆରମ୍ଭ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503661525-0",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Criticism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Chapter XIII of 'Biographia Literaria', Samuel Taylor Coleridge defines 'Primary Imagination' as which of the following?",
+      "options": [
+        "the living Power and prime Agent of all human Perception, and as a repetition in the finite mind of the eternal act of creation in the infinite I AM",
+        "an echo of the former, co-existing with the conscious will, yet still as identical with the primary in the kind of its agency",
+        "no other than a mode of Memory emancipated from the order of time and space, blended with, and modified by that empirical phenomenon of the will",
+        "the faculty that dissolves, diffuses, dissipates, in order to re-create, struggling to idealize and to unify"
+      ],
+      "answer": 0,
+      "explanation": "Coleridge defines the Primary Imagination in Chapter XIII of 'Biographia Literaria' as the living power and prime agent of all human perception, serving as a finite reflection of the divine creative act ('infinite I AM'). The other choices describe the Secondary Imagination (options B and D) or Fancy (option C).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "'Biographia Literaria' ର ତ୍ରୟୋଦଶ ଅଧ୍ୟାୟ (Chapter XIII) ରେ, ସାମୁଏଲ୍ ଟେଲର୍ କୋଲରିଜ୍ 'ପ୍ରାଥମିକ କଳ୍ପନାଶକ୍ତି' (Primary Imagination) କୁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଭାବରେ ସଂଜ୍ଞାୟିତ କରିଛନ୍ତି?",
+          "options": [
+            "ସମସ୍ତ ମାନବୀୟ ପ୍ରତ୍ୟକ୍ଷୀକରଣର ଜୀବନ୍ତ ଶକ୍ତି ଏବଂ ପ୍ରଧାନ କର୍ତ୍ତା, ଏବଂ ଅନନ୍ତ 'ମୁଁ ଅଛି' (I AM) ର ସୃଷ୍ଟିର ଶାଶ୍ୱତ କାର୍ଯ୍ୟର ସୀମିତ ମନରେ ଏକ ପୁନରାବୃତ୍ତି",
+            "ପୂର୍ବର ଏକ ପ୍ରତିଧ୍ୱନି, ଯାହା ସଚେତନ ଇଚ୍ଛାଶକ୍ତି ସହିତ ସହ-ଅବସ୍ଥାନ କରେ, ତଥାପି ଏହାର କାର୍ଯ୍ୟକାରିତା ଶୈଳୀରେ ପ୍ରାଥମିକ ସହିତ ସମାନ",
+            "ସମୟ ଏବଂ ସ୍ଥାନର କ୍ରମରୁ ମୁକ୍ତ ସ୍ମୃତିର ଏକ ରୂପ ବ୍ୟତୀତ ଅନ୍ୟ କିଛି ନୁହେଁ, ଯାହା ଇଚ୍ଛାଶକ୍ତିର ଅନୁଭୂତିକ ପ୍ରକ୍ରିୟା ସହିତ ମିଶ୍ରିତ ଏବଂ ପରିବର୍ତ୍ତିତ",
+            "ସେହି ଅଧ୍ୟାପନ ଯାହା ପୁନଃନିର୍ମାଣ କରିବା ପାଇଁ ଦ୍ରବୀଭୂତ, ବିସ୍ତାରିତ ଏବଂ ବିଚ୍ଛିନ୍ନ ହୁଏ, ଆଦର୍ଶଗତ ଏବଂ ଏକତ୍ରିତ କରିବାକୁ ସଂଘର୍ଷ କରେ"
+          ],
+          "explanation": "କୋଲରିଜ୍ ପ୍ରାଥମିକ କଳ୍ପନାଶକ୍ତିକୁ ସମସ୍ତ ମାନବୀୟ ପ୍ରତ୍ୟକ୍ଷୀକରଣର ଜୀବନ୍ତ ଶକ୍ତି ଏବଂ ମୁଖ୍ୟ କର୍ତ୍ତା ଭାବରେ ସଂଜ୍ଞାୟିତ କରିଛନ୍ତି, ଯାହା ଦୈବୀ ସୃଜନଶୀଳତାର ଏକ ସୀମିତ ପ୍ରତିଫଳନ ଅଟେ। ଅନ୍ୟ ବିକଳ୍ପଗୁଡ଼ିକ ଦ୍ୱିତୀୟକ କଳ୍ପନାଶକ୍ତି କିମ୍ବା ଫ୍ୟାନ୍ସି (Fancy) କୁ ସୂଚିତ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503661525-1",
+      "section": "Subject Knowledge",
+      "topic": "Structuralism",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In his influential essay 'The Structural Study of Myth' (1955), the French anthropologist Claude Lévi-Strauss argues that the constituent units of myth, which are organized in bundles to produce meaning, are called:",
+      "options": [
+        "Mythemes",
+        "Sememes",
+        "Mythologems",
+        "Phonemes"
+      ],
+      "answer": 0,
+      "explanation": "Lévi-Strauss adapted linguistic methodology to anthropology, asserting that myth, like language, is made of constituent units. He termed these minimal structural units of myth 'mythemes,' which only acquire meaning when combined into bundles in relations of opposition and correlation.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିଜର ପ୍ରଭାବଶାଳୀ ପ୍ରବନ୍ଧ 'The Structural Study of Myth' (୧୯୫୫) ରେ, ଫରାସୀ ମାନବବିଜ୍ଞାନୀ କ୍ଲୋଡ୍ ଲେଭି-ଷ୍ଟ୍ରସ୍ ଯୁକ୍ତି କରନ୍ତି ଯେ ପୁରାଣ (myth) ର ଗଠନମୂଳକ ଏକକଗୁଡ଼ିକ, ଯାହା ଅର୍ଥ ପ୍ରଦାନ କରିବା ପାଇଁ ଗୋଷ୍ଠୀଗତ ଭାବରେ ବ୍ୟବସ୍ଥିତ ହୋଇଥାଏ, ତାହାକୁ କଣ କୁହାଯାଏ?",
+          "options": [
+            "ମାଇଥେମ୍ସ (Mythemes)",
+            "ସେମେମ୍ସ (Sememes)",
+            "ମାଇଥୋଲୋଜେମ୍ସ (Mythologems)",
+            "ଫୋନେମ୍ସ (Phonemes)"
+          ],
+          "explanation": "ଲେଭି-ଷ୍ଟ୍ରସ୍ ଭାଷାତାତ୍ତ୍ୱିକ ପଦ୍ଧତିକୁ ମାନବବିଜ୍ଞାନରେ ପ୍ରୟୋଗ କରିଥିଲେ। ସେ ଦର୍ଶାଇଥିଲେ ଯେ ପୁରାଣ ଭାଷାର ଫୋନେମ୍ ଏବଂ ମର୍ଫିମ୍ ପରି କେତେକ ଗଠନମୂଳକ ଏକକ ଦ୍ୱାରା ଗଠିତ, ଯାହାକୁ ସେ 'ମାଇଥେମ୍ସ' (mythemes) ବୋଲି କହିଛନ୍ତି। ଏହି ମାଇଥେମ୍ସଗୁଡ଼ିକ ଏକତ୍ରିତ ହେଲେ ହିଁ ଅର୍ଥ ପ୍ରକାଶ ପାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503680408-0",
+      "section": "Teaching Aptitude",
+      "topic": "Personalized System of Instruction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Personalized System of Instruction (PSI), developed by Fred S. Keller, is a mastery-based teaching method. Which of the following is NOT one of the five core features of the Keller Plan?",
+      "options": [
+        "Self-pacing by the learner",
+        "Use of lectures and demonstrations primarily for motivation rather than information transmission",
+        "Unit-perfection requirement for advancement to the next level",
+        "Complete exclusion of peer-proctors in the instructional process"
+      ],
+      "answer": 3,
+      "explanation": "The Keller Plan actively relies on peer-proctors (or undergraduate proctors) to provide immediate feedback, grading, and tutoring to students. Therefore, the complete exclusion of proctors is incorrect as they are a core element of the system.",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ରେଡ୍ ଏସ୍. କେଲର୍‌ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ପର୍ସନାଲାଇଜ୍ଡ ସିଷ୍ଟମ୍ ଅଫ୍ ଇନଷ୍ଟ୍ରକସନ୍ (PSI) ହେଉଛି ଏକ ଦକ୍ଷତା-ଭିତ୍ତିକ (mastery-based) ଶିକ୍ଷାଦାନ ପଦ୍ଧତି। ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି କେଲର୍ ପ୍ଲାନର ପାଞ୍ଚଟି ମୁଖ୍ୟ ବୈଶିଷ୍ଟ୍ୟ ମଧ୍ୟରୁ ଗୋଟିଏ ନୁହେଁ?",
+          "options": [
+            "ଶିକ୍ଷାର୍ଥୀଙ୍କ ଦ୍ୱାରା ସ୍ୱ-ଗତିଶୀଳତା (Self-pacing)",
+            "ତଥ୍ୟ ପ୍ରଦାନ ପରିବର୍ତ୍ତେ ମୁଖ୍ୟତଃ ପ୍ରେରଣାଦାୟୀ ଉଦ୍ଦେଶ୍ୟ ପାଇଁ ବ୍ୟାଖ୍ୟାନ ଏବଂ ପ୍ରଦର୍ଶନର ବ୍ୟବହାର",
+            "ପରବର୍ତ୍ତୀ ସ୍ତରକୁ ଯିବା ପାଇଁ ଏକକ-ସିଦ୍ଧି (Unit-perfection) ର ଆବଶ୍ୟକତା",
+            "ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟାରେ ସହପାଠୀ ପ୍ରୋକ୍ଟର (peer-proctors) ମାନଙ୍କୁ ସମ୍ପୂର୍ଣ୍ଣ ବାଦ୍ ଦେବା"
+          ],
+          "explanation": "କେଲର୍ ପ୍ଲାନରେ ତୁରନ୍ତ ମତାମତ, ଶିକ୍ଷାଦାନ ଏବଂ ଗ୍ରେଡିଂ ସହାୟତା ପାଇଁ ପ୍ରୋକ୍ଟର (ସହପାଠୀ ବା ସହାୟକ) ମାନଙ୍କ ଉପରେ ସକ୍ରିୟ ଭାବରେ ନିର୍ଭର କରାଯାଏ। ତେଣୁ, ସେମାନଙ୍କୁ ବାଦ୍ ଦେବା କେଲର୍ ପ୍ଲାନର ବୈଶିଷ୍ଟ୍ୟ ନୁହେଁ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503680409-1",
+      "section": "Teaching Aptitude",
+      "topic": "5E Instructional Model",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the constructivist '5E' Instructional Model, during which phase do students apply their newly acquired conceptual understanding and skills to new, but related, academic contexts?",
+      "options": [
+        "Explore",
+        "Explain",
+        "Elaborate",
+        "Evaluate"
+      ],
+      "answer": 2,
+      "explanation": "In the 'Elaborate' phase of the 5E model, students extend and solidify their conceptual understanding by applying their learning to new situations, tasks, and real-world contexts.",
+      "translations": {
+        "or": {
+          "question": "ଗଠନମୂଳକ (constructivist) '5E' ଶିକ୍ଷାଦାନ ମଡେଲ୍‌ରେ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଛାତ୍ରଛାତ୍ରୀମାନେ ସେମାନଙ୍କର ନୂତନ ଜ୍ଞାନ ଏବଂ ଦକ୍ଷତାକୁ ନୂତନ ତଥା ସମ୍ବନ୍ଧିତ ଶିକ୍ଷାଗତ ପରିପ୍ରେକ୍ଷୀରେ ପ୍ରୟୋଗ କରନ୍ତି?",
+          "options": [
+            "ଅନ୍ୱେଷଣ (Explore)",
+            "ବ୍ୟାଖ୍ୟା (Explain)",
+            "ବିସ୍ତୃତୀକରଣ (Elaborate)",
+            "ମୂଲ୍ୟାଙ୍କନ (Evaluate)"
+          ],
+          "explanation": "'Elaborate' (ବିସ୍ତୃତୀକରଣ) ପର୍ଯ୍ୟାୟରେ, ଛାତ୍ରଛାତ୍ରୀମାନେ ସେମାନଙ୍କର ଶିକ୍ଷାକୁ ନୂତନ ପରିସ୍ଥିତି ଏବଂ ବାସ୍ତବ ଜଗତ ସହିତ ପ୍ରୟୋଗ କରି ସେମାନଙ୍କର ଧାରଣାକୁ ଆହୁରି ସ୍ପଷ୍ଟ ଓ ଦୃଢ଼ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503691790-0",
+      "section": "General Studies",
+      "topic": "Odisha Judiciary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first Chief Justice of the Orissa High Court, established in the year 1948?",
+      "options": [
+        "Justice Bira Kishore Ray",
+        "Justice Jagannadhadas",
+        "Justice R. Lakshman Narasimham",
+        "Justice Lingaraj Panigrahi"
+      ],
+      "answer": 0,
+      "explanation": "The Orissa High Court was formally inaugurated on July 26, 1948. Justice Bira Kishore Ray was appointed as its first Chief Justice.",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୮ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ (Orissa High Court) ର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ବିଚାରପତି ବୀର କିଶୋର ରାୟ",
+            "ବିଚାରପତି ଜଗନ୍ନାଥ ଦାସ",
+            "ବିଚାରପତି ଆର. ଲକ୍ଷ୍ମଣ ନରସିଂହମ",
+            "ବିଚାରପତି ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ"
+          ],
+          "explanation": "୧୯୪୮ ମସିହା ଜୁଲାଇ ୨୬ ତାରିଖରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦ୍‌ଘାଟିତ ହୋଇଥିଲା ଏବଂ ବିଚାରପତି ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି ଭାବେ ନିଯୁକ୍ତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503691790-1",
+      "section": "General Studies",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who led the historic Salt Satyagraha march from Swaraj Ashram, Cuttack to Inchudi, Balasore after the arrest of Gopabandhu Choudhury in April 1930?",
+      "options": [
+        "Surendranath Dwivedy",
+        "Acharya Harihar Das",
+        "Harekrushna Mahatab",
+        "Karunakar Panigrahi"
+      ],
+      "answer": 1,
+      "explanation": "After the arrest of Gopabandhu Choudhury on April 8, 1930, Acharya Harihar Das led the first batch of satyagrahis from Swaraj Ashram in Cuttack to Inchudi in Balasore to manufacture salt and break the salt law.",
+      "translations": {
+        "or": {
+          "question": "ଏପ୍ରିଲ୍ ୧୯୩୦ ମସିହାରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀଙ୍କ ଗିରଫଦାରୀ ପରେ କଟକର ସ୍ୱରାଜ ଆଶ୍ରମରୁ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ପର୍ଯ୍ୟନ୍ତ ଐତିହାସିକ ଲବଣ ସତ୍ୟାଗ୍ରହ ଯାତ୍ରାର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ସୁରେନ୍ଦ୍ରନାଥ ଦ୍ୱିବେଦୀ",
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "କରୁଣାକର ପାଣିଗ୍ରାହୀ"
+          ],
+          "explanation": "୧୯୩୦ ଏପ୍ରିଲ୍ ୮ ତାରିଖରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଗିରଫ ହେବା ପରେ, ସ୍ୱରାଜ ଆଶ୍ରମରୁ ବାହାରିଥିବା ସତ୍ୟାଗ୍ରହୀମାନଙ୍କର ପ୍ରଥମ ଦଳର ନେତୃତ୍ୱ ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ ନେଇଥିଲେ ଏବଂ ଇଞ୍ଚୁଡ଼ିଠାରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503703464-0",
+      "section": "Odisha GK",
+      "topic": "History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Sammilani' founded by Madhusudan Das to spearhead the campaign for a separate Odisha state?",
+      "options": [
+        "1901",
+        "1903",
+        "1905",
+        "1912"
+      ],
+      "answer": 1,
+      "explanation": "Utkal Sammilani was founded in December 1903 by Madhusudan Das. It played a pivotal role in the integration of Odia-speaking tracts and the creation of the separate province of Odisha on a linguistic basis in 1936.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେବା ପାଇଁ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା କେଉଁ ବର୍ଷ 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୯୦୧",
+            "୧୯୦୩",
+            "୧୯୦୫",
+            "୧୯୧୨"
+          ],
+          "explanation": "୧୯୦୩ ମସିହା ଡିସେମ୍ବରରେ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା ଉତ୍କଳ ସମ୍ମିଳନୀ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା। ୧୯୩୬ ମସିହାରେ ଭାଷା ଭିତ୍ତିରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ଏବଂ ଓଡ଼ିଆ ଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକର ଏକତ୍ରୀକରଣ ଦିଗରେ ଏହା ଏକ ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783503703464-1",
+      "section": "Odisha GK",
+      "topic": "Administrative History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the Chairman of the Orissa Boundary Committee appointed in 1931 by the Government of India to demarcate the boundaries of the proposed separate Odisha province?",
+      "options": [
+        "Samuel O'Donnell",
+        "Philip Duff",
+        "Clement Attlee",
+        "John Simon"
+      ],
+      "answer": 0,
+      "explanation": "The Orissa Boundary Committee, commonly known as the O'Donnell Committee, was appointed in 1931 under the chairmanship of Sir Samuel O'Donnell to determine the boundaries of the proposed Odisha province.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରସ୍ତାବିତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ ପାଇଁ ୧୯୩୧ ମସିହାରେ ଭାରତ ସରକାରଙ୍କ ଦ୍ୱାରା ଗଠିତ 'ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି' ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସାମୁଏଲ ଓ'ଡୋନେଲ",
+            "ଫିଲିପ୍ ଡଫ୍",
+            "କ୍ଲେମେଣ୍ଟ ଆଟଲି",
+            "ଜନ୍ ସାଇମନ୍"
+          ],
+          "explanation": "ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି, ଯାହା ଓ'ଡୋନେଲ କମିଟି ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା, ପ୍ରସ୍ତାବିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ୧୯୩୧ ମସିହାରେ ସାର୍ ସାମୁଏଲ ଓ'ଡୋନେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ନିଯୁକ୍ତ ହୋଇଥିଲା।"
         }
       }
     }

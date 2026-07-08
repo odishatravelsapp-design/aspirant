@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -1978,6 +1978,104 @@
       ],
       "answer": 2,
       "explanation": "According to the RBI's ECB framework guidelines, the ECB liability-to-equity ratio for FCY denominated ECB raised from a direct foreign equity holder under the automatic route cannot exceed 7:1. This ratio is not applicable if the total ECB outstanding is up to USD 5 million or equivalent.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783503541666-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B, and C enter into a partnership. A invests Rs. X for 8 months, B invests Rs. (X + 4000) for 6 months, and C invests Rs. (X + 8000) for 9 months. If the total annual profit is Rs. 1,18,000 and C's share of the profit is Rs. 54,000, find the value of X.",
+      "options": [
+        "Rs. 16,000",
+        "Rs. 18,400",
+        "Rs. 20,200",
+        "Rs. 22,000"
+      ],
+      "answer": 1,
+      "explanation": "The profit sharing ratio is based on the product of investment and time. Ratio of A : B : C = 8X : 6(X + 4000) : 9(X + 8000) = 8X : (6X + 24000) : (9X + 72000). Total ratio sum = 8X + 6X + 24000 + 9X + 72000 = 23X + 96000. Given, C's profit / Total profit = 54,000 / 1,18,000 = 27 / 59. Therefore, (9X + 72000) / (23X + 96000) = 27 / 59. Cross-multiplying: 59 * (9X + 72000) = 27 * (23X + 96000) => 531X + 4,248,000 = 621X + 2,592,000 => 90X = 1,656,000 => X = 18,400."
+    },
+    {
+      "id": "ibps-po-ai-1783503541666-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains N red balls and 6 blue balls. If two balls are drawn at random from the bag, the probability that both are red is 3/8. If three balls are drawn at random from the bag, what is the probability that at least one ball is blue?",
+      "options": [
+        "11/14",
+        "9/14",
+        "5/7",
+        "3/7"
+      ],
+      "answer": 0,
+      "explanation": "Let the number of red balls be N. Total balls = N + 6. Probability of drawing 2 red balls = [N * (N - 1)] / [(N + 6) * (N + 5)] = 3/8. Solving the equation: 8(N^2 - N) = 3(N^2 + 11N + 30) => 8N^2 - 8N = 3N^2 + 33N + 90 => 5N^2 - 41N - 90 = 0 => (N - 10)(5N + 9) = 0. Since N must be positive, N = 10. Total balls = 16 (10 Red, 6 Blue). Probability of drawing 3 red balls = (10/16) * (9/15) * (8/14) = 3/14. Probability of getting at least one blue ball = 1 - P(all three red) = 1 - 3/14 = 11/14."
+    },
+    {
+      "id": "ibps-po-ai-1783503566186-0",
+      "section": "English",
+      "topic": "Paragraph Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the short paragraph below and choose the option that logically and coherently completes the passage.\n\nWhile central banks worldwide are exploring Central Bank Digital Currencies (CBDCs) to enhance payment efficiency and reduce printing costs, the transition is not without hurdles. Chief among these is the risk of bank disintermediation, where depositors might migrate their funds from commercial banks to safer central bank digital accounts during financial crises. To mitigate this risk, policymakers are considering imposing holding limits on CBDC accounts. This measure, however, ____________.",
+      "options": [
+        "would completely eliminate the need for commercial banks to offer competitive interest rates",
+        "might inadvertently restrict the utility of the digital currency for high-value transactions, thereby hindering its adoption",
+        "ensures that cybersecurity threats are entirely mitigated without any regulatory oversight",
+        "is expected to accelerate the complete phasing out of physical fiat currency overnight"
+      ],
+      "answer": 1,
+      "explanation": "The paragraph discusses a measure (imposing holding limits on CBDC accounts) meant to prevent bank disintermediation. The word 'however' signals a drawback of this measure. Option B correctly identifies a logical drawback: limiting how much digital currency one can hold would naturally restrict its use for large transactions, which in turn would slow down its adoption. The other options are either logically flawed or overly dramatic."
+    },
+    {
+      "id": "ibps-po-ai-1783503566186-1",
+      "section": "English",
+      "topic": "Contextual Vocabulary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence given below and select the option that correctly defines the highlighted phrasal verb in its context.\n\nThe committee tried to **paper over** the differences between the two factions, but the deep-seated ideological rift soon became apparent during the press conference.",
+      "options": [
+        "To expose and criticize flaws or disagreements openly.",
+        "To resolve a conflict through formal legal arbitration and penalties.",
+        "To hide or gloss over difficulties or differences, especially in a temporary or superficial way.",
+        "To draft a formal written treaty or contract that binds both parties legally."
+      ],
+      "answer": 2,
+      "explanation": "To 'paper over' means to conceal or patch up a problem or disagreement superficially, rather than finding a permanent or genuine solution. This matches the context where the committee tried to hide the differences, but the deep-seated rift eventually became visible."
+    },
+    {
+      "id": "ibps-po-ai-1783503574625-0",
+      "section": "General Awareness",
+      "topic": "Basel III Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Basel III capital regulations prescribed by the Reserve Bank of India (RBI) for Indian scheduled commercial banks, what is the minimum Common Equity Tier 1 (CET1) capital ratio required to be maintained, excluding the Capital Conservation Buffer (CCB)?",
+      "options": [
+        "A) 4.5%",
+        "B) 5.5%",
+        "C) 7.0%",
+        "D) 8.0%"
+      ],
+      "answer": 1,
+      "explanation": "Under RBI's Basel III guidelines, Indian scheduled commercial banks are required to maintain a minimum Common Equity Tier 1 (CET1) ratio of 5.5% of risk-weighted assets (which is higher than the Basel III minimum of 4.5%). When including the 2.5% Capital Conservation Buffer (CCB), the total CET1 requirement becomes 8.0%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783503574625-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines on Priority Sector Lending (PSL), what is the target for lending to 'Weaker Sections' for Domestic Scheduled Commercial Banks (excluding RRBs and SFBs) from the financial year 2023-24 onwards?",
+      "options": [
+        "A) 10% of ANBC",
+        "B) 11.5% of ANBC",
+        "C) 12% of ANBC",
+        "D) 15% of ANBC"
+      ],
+      "answer": 2,
+      "explanation": "According to the revised PSL guidelines of the RBI, the sub-target for Weaker Sections for Domestic Scheduled Commercial Banks was increased in a phased manner, reaching its final target of 12% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, starting from the financial year 2023-24.",
       "status": "pending"
     }
   ]

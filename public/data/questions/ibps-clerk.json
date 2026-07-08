@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2254,6 +2254,136 @@
       ],
       "answer": 1,
       "explanation": "Option B is grammatically correct because 'laid' is the past participle of the transitive verb 'lay' (to put/place), which correctly takes the direct object 'three eggs'. Option A is incorrect because it should use the intransitive verb 'lie' ('lie down'). Option C is incorrect because 'lain' is intransitive; it should be 'laid' since 'the heavy book' is a direct object. Option D is incorrect because the valley exists or rests there, which requires the intransitive verb 'lies' instead of 'lays'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503381316-0",
+      "section": "Quant",
+      "topic": "Average",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The average weight of 15 students in a class is 48 kg. If the weight of the teacher is also included, the average weight increases by 1.5 kg. What is the weight of the teacher?",
+      "options": [
+        "68 kg",
+        "72 kg",
+        "75 kg",
+        "70 kg"
+      ],
+      "answer": 1,
+      "explanation": "Let the weight of the teacher be x. Initial total weight of 15 students = 15 * 48 = 720 kg. When the teacher is included, the total number of people becomes 16, and the average weight becomes 48 + 1.5 = 49.5 kg. New total weight = 16 * 49.5 = 792 kg. Weight of the teacher = New total weight - Initial total weight = 792 - 720 = 72 kg. Alternatively, Teacher's weight = Old Average + (New Number of People * Increase in Average) = 48 + (16 * 1.5) = 48 + 24 = 72 kg."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503381316-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The total surface area of a solid hemisphere is 462 cm². Find the volume of this hemisphere. (Take π = 22/7)",
+      "options": [
+        "612 1/3 cm³",
+        "718 2/3 cm³",
+        "539 cm³",
+        "684 cm³"
+      ],
+      "answer": 1,
+      "explanation": "The total surface area (TSA) of a solid hemisphere of radius r is given by 3πr². Given, 3 * (22/7) * r² = 462 => r² = (462 * 7) / 66 = 7 * 7 = 49 => r = 7 cm. The volume of a hemisphere is given by (2/3)πr³ = (2/3) * (22/7) * 7 * 7 * 7 = (2/3) * 22 * 49 = 2156 / 3 = 718 2/3 cm³."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503395361-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some statements are given followed by two conclusions. Read the statements carefully and decide which of the conclusions logically follow(s) from the given statements.\n\nStatements: A ≥ B > C = D; E < F ≤ D; G ≥ F\nConclusions:\nI. A > E\nII. C ≥ G",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusion I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 0,
+      "explanation": "By combining the given statements, we get the relationship: A ≥ B > C = D ≥ F > E (since E < F ≤ D). From this, we can easily establish that A > E is definitely true, making Conclusion I correct. For Conclusion II, we have C = D ≥ F and G ≥ F. Since both C and G are greater than or equal to F, their relative relationship cannot be determined. Thus, Conclusion II is not necessarily true."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503395361-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language, 'GLOW' is written as '20-15-225-4' and 'BENT' is written as '25-25-13-7'. How will 'PLUM' be written in that code language?",
+      "options": [
+        "11-15-441-14",
+        "11-15-121-14",
+        "12-15-441-13",
+        "11-12-441-14"
+      ],
+      "answer": 0,
+      "explanation": "The coding pattern is as follows: Consonants are represented by their reverse alphabetical position values (e.g., G = 27 - 7 = 20; L = 27 - 12 = 15; W = 27 - 23 = 4). Vowels are represented by the square of their standard alphabetical position values (e.g., O = 15² = 225). Applying this rule to 'PLUM': P (consonant) = 27 - 16 = 11; L (consonant) = 27 - 12 = 15; U (vowel) = 21² = 441; M (consonant) = 27 - 13 = 14. Therefore, the code for 'PLUM' is '11-15-441-14'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503411617-0",
+      "section": "English",
+      "topic": "Grammar - Subject-Verb Agreement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the option that is grammatically correct.",
+      "options": [
+        "Having finished his dinner, the television was turned on by Raj.",
+        "Not only did she lose her keys but also her wallet.",
+        "He is one of those men who always do their best.",
+        "Neither the teacher nor the students was present in the class."
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct. In the phrase 'one of those men who', the relative pronoun 'who' refers to the plural noun 'men'. Therefore, it requires the plural verb 'do' and plural pronoun 'their'. Option A has a dangling modifier. Option B has faulty parallelism. Option D violates the rule of proximity (it should be 'were' to agree with 'students')."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503411617-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which pair of words grammatically and logically completes the given sentence?\n\n'The management's _________ to implement the new policy without consulting the employees was seen as a _________ move that undermined workplace trust.'",
+      "options": [
+        "hesitation, collaborative",
+        "haste, despotic",
+        "delay, democratic",
+        "aversion, progressive"
+      ],
+      "answer": 1,
+      "explanation": "The sentence describes an action taken without consulting employees, which undermined trust. 'Haste' (excessive speed or urgency) fits the first blank, explaining the rushed implementation. 'Despotic' (acting like a tyrant, undemocratic) fits the second blank, describing the unilateral nature of the move."
+    },
+    {
+      "id": "ibps-clerk-ai-1783503467563-0",
+      "section": "General Awareness",
+      "topic": "RBI Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the RBI Retail Direct Scheme, which allows individual investors to invest in Government Securities, what is the fee charged by the Reserve Bank of India for opening and maintaining a Retail Direct Gilt (RDG) Account?",
+      "options": [
+        "₹100 per annum",
+        "0.05% of the transaction value",
+        "No fee is charged",
+        "A one-time registration fee of ₹500"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI Retail Direct Scheme launched in November 2021, no fee is charged by the Reserve Bank of India for opening and maintaining a Retail Direct Gilt (RDG) account. It is a completely free-of-cost service for retail investors.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783503467563-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the PM Vishwakarma Scheme launched by the Central Government, what is the maximum limit of the first tranche of the collateral-free Enterprise Development Loan provided to eligible artisans and craftspeople?",
+      "options": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹1,50,000",
+        "₹2,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the PM Vishwakarma Scheme, beneficiaries are eligible for collateral-free enterprise development loans of up to ₹3,00,000 in total. This is split into two tranches: the first tranche is up to ₹1,00,000 (with an 18-month repayment period) and the second tranche is up to ₹2,00,000 (with a 30-month repayment period) at a concessional interest rate of 5%.",
+      "status": "pending"
     }
   ]
 }

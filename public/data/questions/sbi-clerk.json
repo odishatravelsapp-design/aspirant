@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2042,6 +2042,136 @@
       ],
       "answer": 1,
       "explanation": "According to Section 54D of the Insolvency and Bankruptcy Code (IBC), the Pre-packaged Insolvency Resolution Process (PIRP) must be completed within a maximum period of 120 days from the insolvency commencement date.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783503482869-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks up the price of an article by x% above its cost price and then offers two successive discounts of 10% and 20% on the marked price. If he still gains 8% profit on the transaction, find the value of x.",
+      "options": [
+        "40%",
+        "45%",
+        "50%",
+        "60%"
+      ],
+      "answer": 2,
+      "explanation": "Let the Cost Price (CP) of the article be Rs. 100. Since the profit is 8%, the Selling Price (SP) = Rs. 108. Two successive discounts of 10% and 20% are given on the Marked Price (MP). The equivalent single discount = 10 + 20 - (10 * 20)/100 = 28%. Therefore, SP = 72% of MP. Hence, 0.72 * MP = 108 => MP = 108 / 0.72 = Rs. 150. Since CP is Rs. 100 and MP is Rs. 150, the markup is 50%, so x = 50."
+    },
+    {
+      "id": "sbi-clerk-ai-1783503482869-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the radius of a cone to that of a cylinder is 3 : 4, and the ratio of their heights is 4 : 3. If the sum of their volumes is 960π cm³, what is the volume of the cone?",
+      "options": [
+        "144π cm³",
+        "192π cm³",
+        "240π cm³",
+        "288π cm³"
+      ],
+      "answer": 1,
+      "explanation": "Let the radius of the cone and cylinder be 3r and 4r, and their heights be 4h and 3h respectively. Volume of cone (V1) = (1/3) * π * (3r)² * (4h) = (1/3) * π * 9r² * 4h = 12πr²h. Volume of cylinder (V2) = π * (4r)² * (3h) = π * 16r² * 3h = 48πr²h. Sum of their volumes = 12πr²h + 48πr²h = 60πr²h. Given 60πr²h = 960π => r²h = 16. Volume of the cone = 12πr²h = 12π * 16 = 192π cm³."
+    },
+    {
+      "id": "sbi-clerk-ai-1783503499677-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Directions: In the following question, three statements are given followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements, disregarding commonly known facts.\n\nStatements:\n1. Only a few rivers are seas.\n2. All seas are oceans.\n3. No ocean is a lake.\n\nConclusions:\nI. Some oceans are rivers.\nII. All rivers can be lakes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Since only a few rivers are seas, there is a definite intersection between rivers and seas. Since all seas are oceans, this intersection must also lie within oceans, making 'Some oceans are rivers' definitely true (Conclusion I follows). Furthermore, because no ocean is a lake and all seas are oceans, no sea can be a lake. Since some rivers are seas, those specific rivers can never be lakes, making the possibility 'All rivers can be lakes' false (Conclusion II does not follow)."
+    },
+    {
+      "id": "sbi-clerk-ai-1783503499677-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six boxes—P, Q, R, S, T, and U—have different weights. Box T is heavier than only two boxes. Box R is heavier than Box Q but lighter than Box U. Box P is lighter than Box T. Box S is the heaviest. Box Q is not the lightest. The third heaviest box weighs 75 kg, and the second lightest box weighs 50 kg. Which of the following options correctly identifies the second heaviest box and a possible weight for Box T?",
+      "options": [
+        "Box U, 60 kg",
+        "Box R, 80 kg",
+        "Box U, 80 kg",
+        "Box T, 65 kg"
+      ],
+      "answer": 0,
+      "explanation": "Based on the given conditions, we can set up the order from heaviest (1) to lightest (6):\n1. S (Heaviest)\n2. U\n3. R (75 kg)\n4. T\n5. Q (50 kg)\n6. P (Lightest)\n\nBox T is heavier than only Q and P. Since Q is not the lightest, Q is 5th (50 kg) and P is 6th. Box S is the heaviest. Since U > R > Q, U and R must occupy the 2nd and 3rd spots. Thus, the second heaviest box is U. The weight of Box T must lie between the weight of Box R (75 kg) and Box Q (50 kg). Therefore, 60 kg is a valid possible weight for Box T."
+    },
+    {
+      "id": "sbi-clerk-ai-1783503510378-0",
+      "section": "English",
+      "topic": "Vocabulary (Contextual Usage)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following words can contextually fit the blank in the given sentence to make it grammatically correct and meaningful?\n\n'The persistent rainfall ___________ the progress of the construction workers, forcing them to delay the project's completion.'",
+      "options": [
+        "impeded",
+        "facilitated",
+        "expedited",
+        "stimulated"
+      ],
+      "answer": 0,
+      "explanation": "The word 'impeded' means to delay or prevent someone or something by obstructing them. In the context of persistent rainfall forcing a delay in the construction project, 'impeded' fits perfectly. 'Facilitated', 'expedited', and 'stimulated' all suggest helping or speeding up the process, which contradicts the context of delaying the project."
+    },
+    {
+      "id": "sbi-clerk-ai-1783503510378-1",
+      "section": "English",
+      "topic": "Grammar (Conjunctions and Tense)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the correct alternative that should replace the italicized portion in the sentence below to make it grammatically correct.\n\n'Hardly had the committee members finished their deliberations *when the chairperson has announced* the final decision.'",
+      "options": [
+        "than the chairperson announced",
+        "when the chairperson announced",
+        "when the chairperson had announced",
+        "then the chairperson announced"
+      ],
+      "answer": 1,
+      "explanation": "The correlative conjunction 'Hardly' is correctly paired with 'when'. The tense structure after 'Hardly had + subject + V3' should be followed by 'when + subject + V2 (simple past)'. Therefore, 'when the chairperson announced' is grammatically correct. Option A is incorrect because 'than' is paired with 'No sooner'. Option C uses past perfect again, which is incorrect. Option D uses 'then', which is incorrect."
+    },
+    {
+      "id": "sbi-clerk-ai-1783503522455-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. The SDF rate is set at how many basis points below the Policy Repo Rate?",
+      "options": [
+        "15 basis points",
+        "25 basis points",
+        "40 basis points",
+        "50 basis points"
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) rate is positioned 25 basis points (bps) below the policy repo rate, while the Marginal Standing Facility (MSF) rate is 25 bps above the policy repo rate, creating a symmetrical LAF corridor of 50 bps.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783503522455-1",
+      "section": "General Awareness",
+      "topic": "Banking Legislation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 31 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002, the provisions of the Act do not apply to a debt where the remaining amount due is less than what percentage of the principal amount and interest?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explanation": "According to Section 31(j) of the SARFAESI Act, 2002, the provisions of the Act do not apply to any case in which the amount due is less than 20 percent of the principal amount and interest thereon.",
       "status": "pending"
     }
   ]

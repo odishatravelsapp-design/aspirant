@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -1749,6 +1749,176 @@
             "ସାମାଜିକ/ସାମାଜିକ-ପ୍ରଣାଳୀ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (ପର୍ଯ୍ୟାୟ ୪) / Societal/Societal-systemic perspective-taking (Stage 4)"
           ],
           "explanation": "ରବର୍ଟ ସେଲମ୍ୟାନ୍‌ଙ୍କ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ ସିଦ୍ଧାନ୍ତର ପର୍ଯ୍ୟାୟ ୩ (ତୃତୀୟ-ପକ୍ଷ/ପାରସ୍ପରିକ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ) ରେ, ଶିଶୁମାନେ ନିଜ ସମ୍ପର୍କ ଏବଂ କାର୍ଯ୍ୟକୁ ଜଣେ ନିରପେକ୍ଷ ତୃତୀୟ ପକ୍ଷର ଦୃଷ୍ଟିକୋଣରୁ ଦେଖିବାକୁ ସକ୍ଷମ ହୁଅନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783503717760-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the context of the Jurisprudential Inquiry Model of teaching, developed by Donald Oliver and James Shaver, which of the following is the primary objective?",
+      "options": [
+        "To help students learn cognitive structures and concepts of a discipline.",
+        "To help students analyze and address social issues using a systematic inquiry process.",
+        "To develop the psychomotor skills of students through experiential learning.",
+        "To improve the memorization capacity of learners through mnemonic devices."
+      ],
+      "answer": 1,
+      "explanation": "The Jurisprudential Inquiry Model, developed by Donald Oliver and James Shaver, is designed to help students think systematically about social issues, analyze public policy questions, and resolve value conflicts through a process of structured dialogue and inquiry.",
+      "translations": {
+        "or": {
+          "question": "ଜୁରିସପ୍ରୁଡେନ୍ସିଆଲ୍ ଇନକ୍ୱାରୀ ମଡେଲ୍ (Jurisprudential Inquiry Model) ପ୍ରସଙ୍ଗରେ, ଯାହା ଡୋନାଲ୍ଡ ଅଲିଭର୍ ଏବଂ ଜେମ୍ସ ସେଭର୍‌ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ହୋଇଛି, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ପ୍ରାଥମିକ ଉଦ୍ଦେଶ୍ୟ ଅଟେ?",
+          "options": [
+            "ଛାତ୍ରମାନଙ୍କୁ ଶୃଙ୍ଖଳାର ଜ୍ଞାନଗତ ଗଠନ ଏବଂ ଧାରଣା ଶିଖିବାରେ ସାହାଯ୍ୟ କରିବା |",
+            "ଏକ ବ୍ୟବସ୍ଥିତ ଅନୁସନ୍ଧାନ ପ୍ରକ୍ରିୟା ବ୍ୟବହାର କରି ସାମାଜିକ ସମସ୍ୟାର ବିଶ୍ଳେଷଣ ଏବଂ ସମାଧାନ କରିବାରେ ଛାତ୍ରମାନଙ୍କୁ ସାହାଯ୍ୟ କରିବା |",
+            "ପରୀକ୍ଷାମୂଳକ ଶିକ୍ଷଣ ମାଧ୍ୟମରେ ଛାତ୍ରମାନଙ୍କର ମନୋଶାରୀରିକ (psychomotor) ଦକ୍ଷତା ବିକାଶ କରିବା |",
+            "ସ୍ମରଣ ଶକ୍ତି ବୃଦ୍ଧି କରୁଥିବା କୌଶଳ (mnemonic devices) ମାଧ୍ୟମରେ ଶିକ୍ଷାର୍ଥୀମାନଙ୍କର ସ୍ମରଣ ଶକ୍ତିରେ ଉନ୍ନତି ଆଣିବା |"
+          ],
+          "explanation": "ଡୋନାଲ୍ଡ ଅଲିଭର୍ ଏବଂ ଜେମ୍ସ ସେଭର୍‌ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ଜୁରିସପ୍ରୁଡେନ୍ସିଆଲ୍ ଇନକ୍ୱାରୀ ମଡେଲ୍‌ର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ ହେଉଛି ଛାତ୍ରମାନଙ୍କୁ ସାମାଜିକ ସମସ୍ୟାଗୁଡ଼ିକୁ ବ୍ୟବସ୍ଥିତ ଭାବରେ ଚିନ୍ତା କରିବା, ବିଶ୍ଳେଷଣ କରିବା ଏବଂ ମୂଲ୍ୟବୋଧର ଦ୍ୱନ୍ଦ୍ୱକୁ ସମାଧାନ କରିବାରେ ସାହାଯ୍ୟ କରିବା |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783503717760-1",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment and Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following scales of measurement, as classified by S.S. Stevens, has an absolute zero point and allows for all types of mathematical operations?",
+      "options": [
+        "Nominal scale",
+        "Ordinal scale",
+        "Interval scale",
+        "Ratio scale"
+      ],
+      "answer": 3,
+      "explanation": "According to S.S. Stevens' classification, the Ratio scale possesses an absolute (true) zero point, which permits all arithmetic operations such as addition, subtraction, multiplication, and division, as well as the calculation of ratios.",
+      "translations": {
+        "or": {
+          "question": "ଏସ୍.ଏସ୍. ଷ୍ଟିଭେନ୍ସଙ୍କ ଦ୍ୱାରା ଶ୍ରେଣୀଭୁକ୍ତ କରାଯାଇଥିବା ମାପର ସ୍କେଲ୍ ମଧ୍ୟରୁ କେଉଁଟିରେ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଶୂନ୍ୟ ବିନ୍ଦୁ (absolute zero point) ଥାଏ ଏବଂ ସମସ୍ତ ପ୍ରକାରର ଗାଣିତିକ କ୍ରିୟା ପାଇଁ ଅନୁମତି ଦେଇଥାଏ?",
+          "options": [
+            "ନାମକରଣ ସ୍କେଲ୍ (Nominal scale)",
+            "କ୍ରମସୂଚକ ସ୍କେଲ୍ (Ordinal scale)",
+            "ଅନ୍ତରାଳ ସ୍କେଲ୍ (Interval scale)",
+            "ଅନୁପାତ ସ୍କେଲ୍ (Ratio scale)"
+          ],
+          "explanation": "ଏସ୍.ଏସ୍. ଷ୍ଟିଭେନ୍ସଙ୍କ ମାପର ସ୍କେଲ୍ ବର୍ଗୀକରଣ ଅନୁଯାୟୀ, ଅନୁପାତ ସ୍କେଲ୍ (Ratio scale) ରେ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଶୂନ୍ୟ ବିନ୍ଦୁ ଥାଏ, ଯାହା ସମସ୍ତ ଗାଣିତିକ କ୍ରିୟା (ଯୋଗ, ବିୟୋଗ, ଗୁଣନ, ହରଣ) କରିବାକୁ ସକ୍ଷମ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783503747087-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the ground state term symbol for a d^3 transition metal ion in an octahedral coordination field?",
+      "options": [
+        "^4T_1g",
+        "^4T_2g",
+        "^4A_2g",
+        "^2E_g"
+      ],
+      "answer": 2,
+      "explanation": "For a d^3 electronic configuration in an octahedral field (such as [Cr(H2O)6]3+), the three d-electrons occupy the three t2g orbitals singly with parallel spins (t2g^3). This configuration has no orbital degeneracy (it is an orbital singlet, represented by the letter A). The total spin S is 3/2, giving a spin multiplicity of 2S + 1 = 4. Since d-orbitals are gerade (g), the ground state term symbol is ^4A_2g.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏକ ଅଷ୍ଟଫଳକୀୟ (octahedral) ସମନ୍ଵୟ କ୍ଷେତ୍ରରେ ଏକ d^3 ସଂକ୍ରମଣ ଧାତୁ ଆୟନ (transition metal ion) ପାଇଁ ଗ୍ରାଉଣ୍ଡ ଷ୍ଟେଟ୍ ଟର୍ମ ସିମ୍ବଲ୍ (ground state term symbol) କଣ?",
+          "options": [
+            "^4T_1g",
+            "^4T_2g",
+            "^4A_2g",
+            "^2E_g"
+          ],
+          "explanation": "ଏକ ଅଷ୍ଟଫଳକୀୟ କ୍ଷେତ୍ରରେ d^3 ବିନ୍ୟାସ ପାଇଁ, ତିନୋଟି ଇଲେକ୍ଟ୍ରନ୍ ସମାନ୍ତରାଳ ସ୍ପିନ୍ ସହିତ t2g କକ୍ଷକଗୁଡ଼ିକୁ ଏକକ ଭାବରେ ଅଧିକାର କରନ୍ତି (t2g^3)। ଏହି କକ୍ଷକ ବିନ୍ୟାସଟି ଅଣ-ଅବନତ (orbital singlet) ଅଟେ, ଯାହା ଏକ 'A' ଟର୍ମ ପ୍ରଦାନ କରେ। ମୋଟ୍ ସ୍ପିନ୍ S = 3/2, ତେଣୁ ସ୍ପିନ୍ ଗୁଣକତା (multiplicity) 2S + 1 = 4 ଅଟେ। ଯେହେତୁ d କକ୍ଷକଗୁଡ଼ିକ gerade (g) ଅଟନ୍ତି, ତେଣୁ ଟର୍ମ ସିମ୍ବଲ୍ ^4A_2g ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783503747087-1",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Hückel Molecular Orbital (HMO) theory, what is the delocalization energy of 1,3-butadiene (where alpha is the Coulomb integral and beta is the resonance integral)?",
+      "options": [
+        "0.48 beta",
+        "1.48 beta",
+        "0.28 beta",
+        "0.82 beta"
+      ],
+      "answer": 0,
+      "explanation": "According to HMO theory, the energy levels of the four pi-orbitals of 1,3-butadiene are alpha + 1.62 beta, alpha + 0.62 beta, alpha - 0.62 beta, and alpha - 1.62 beta. The four pi-electrons occupy the two lowest-energy orbitals, giving a total pi-electron energy of E_total = 2*(alpha + 1.62 beta) + 2*(alpha + 0.62 beta) = 4*alpha + 4.48 beta. The energy of two isolated ethylene molecules (each with energy 2*alpha + 2*beta) is 4*alpha + 4*beta. The delocalization energy is the difference: (4*alpha + 4.48 beta) - (4*alpha + 4*beta) = 0.48 beta.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ହ୍ୟୁକେଲ୍ ମଲିକ୍ୟୁଲାର୍ ଅର୍ବିଟାଲ୍ (HMO) ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, 1,3-ବ୍ୟୁଟାଡାଏନ୍ (1,3-butadiene) ର ଡିଲୋକାଲାଇଜେସନ୍ ଶକ୍ତି (delocalization energy) କେତେ? (ଯେଉଁଠାରେ alpha ହେଉଛି କୁଲମ୍ବ ଇଣ୍ଟିଗ୍ରାଲ୍ ଏବଂ beta ହେଉଛି ରେଜୋନାନ୍ସ ଇଣ୍ଟିଗ୍ରାଲ୍)",
+          "options": [
+            "0.48 beta",
+            "1.48 beta",
+            "0.28 beta",
+            "0.82 beta"
+          ],
+          "explanation": "HMO ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, 1,3-ବ୍ୟୁଟାଡାଏନ୍‌ର ମୋଟ ପାଇ-ଇଲେକ୍ଟ୍ରନ୍ ଶକ୍ତି ହେଉଛି 2*(alpha + 1.62 beta) + 2*(alpha + 0.62 beta) = 4*alpha + 4.48 beta। ଦୁଇଟି ପୃଥକ ଇଥିଲିନ୍ ଅଣୁର ଶକ୍ତି ହେଉଛି 2 * 2*(alpha + beta) = 4*alpha + 4*beta। ଡିଲୋକାଲାଇଜେସନ୍ ଶକ୍ତି ହେଉଛି ଏହି ଦୁଇଟିର ପାର୍ଥକ୍ୟ: (4*alpha + 4.48 beta) - (4*alpha + 4*beta) = 0.48 beta।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783503758204-0",
+      "section": "Child Development",
+      "topic": "Identity Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to James Marcia's theory of identity statuses, an adolescent who has committed to an identity (such as a career path or belief system) without experiencing a crisis or actively exploring alternative options is in which status?",
+      "options": [
+        "Identity Diffusion",
+        "Identity Foreclosure",
+        "Identity Moratorium",
+        "Identity Achievement"
+      ],
+      "answer": 1,
+      "explanation": "Identity Foreclosure occurs when an individual makes a commitment to an identity, often inherited from parents or authority figures, without going through a period of active exploration or crisis.",
+      "translations": {
+        "or": {
+          "question": "ଜେମ୍ସ ମାର୍ସିଆଙ୍କ ପରିଚୟ ସ୍ଥିତି (identity statuses) ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଜଣେ କିଶୋର ଯିଏ କୌଣସି ସଂକଟର ସମ୍ମୁଖୀନ ନ ହୋଇ କିମ୍ବା ସକ୍ରିୟ ଭାବରେ ବିକଳ୍ପଗୁଡ଼ିକର ଅନୁସନ୍ଧାନ ନ କରି ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିଚୟ (ଯେପରିକି କ୍ୟାରିୟର ପଥ କିମ୍ବା ବିଶ୍ୱାସ ପ୍ରଣାଳୀ) ଗ୍ରହଣ କରିନିଏ, ସେ କେଉଁ ସ୍ଥିତିରେ ଅଛି?",
+          "options": [
+            "ପରିଚୟ ବିସ୍ତାର (Identity Diffusion)",
+            "ପରିଚୟ ପୂର୍ବବନ୍ଦୋବସ୍ତ (Identity Foreclosure)",
+            "ପରିଚୟ ସ୍ଥଗିତକରଣ (Identity Moratorium)",
+            "ପରିଚୟ ହାସଲ (Identity Achievement)"
+          ],
+          "explanation": "ପରିଚୟ ପୂର୍ବବନ୍ଦୋବସ୍ତ (Identity Foreclosure) ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ଜଣେ ବ୍ୟକ୍ତି ସକ୍ରିୟ ଅନୁସନ୍ଧାନ କିମ୍ବା ସଂକଟର ସମୟ ଦେଇ ନଯାଇ, ପ୍ରାୟତଃ ପିତାମାତା କିମ୍ବା ଗୁରୁଜନଙ୍କ ଆଦର୍ଶକୁ ଆପଣେଇ ନିଜର ପରିଚୟ ନିର୍ଦ୍ଧାରଣ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783503758204-1",
+      "section": "Child Development",
+      "topic": "Intelligence Theories",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In J.P. Guilford's Structure of Intellect (SOI) model, which of the following is classified under the 'Products' dimension rather than the 'Operations' dimension?",
+      "options": [
+        "Evaluation",
+        "Divergent Production",
+        "Relations",
+        "Memory Recording"
+      ],
+      "answer": 2,
+      "explanation": "In Guilford's SOI model, 'Relations' is a category under the Products dimension. Evaluation, Divergent Production, and Memory Recording (along with Cognition, Convergent Production, and Memory Retention) are categories under the Operations dimension.",
+      "translations": {
+        "or": {
+          "question": "ଜେ.ପି. ଗିଲଫୋର୍ଡଙ୍କ ବୁଦ୍ଧିମତ୍ତାର ସଂରଚନା (Structure of Intellect - SOI) ମଡେଲରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି 'କାର୍ଯ୍ୟକାରିତା' (Operations) ପରିବର୍ତ୍ତେ 'ଉତ୍ପାଦ' (Products) ପରିସରଭୁକ୍ତ ଅଟେ?",
+          "options": [
+            "ମୂଲ୍ୟାଙ୍କନ (Evaluation)",
+            "ବିଭିନ୍ନ ଚିନ୍ତାଧାରା ଉତ୍ପାଦନ (Divergent Production)",
+            "ସମ୍ପର୍କ (Relations)",
+            "ସ୍ମୃତି ଲିପିବଦ୍ଧକରଣ (Memory Recording)"
+          ],
+          "explanation": "ଗିଲଫୋର୍ଡଙ୍କ SOI ମଡେଲରେ, 'ସମ୍ପର୍କ' (Relations) ହେଉଛି 'ଉତ୍ପାଦ' (Products) ବିଭାଗର ଏକ ବିଭାଗ। ମୂଲ୍ୟାଙ୍କନ, ବିଭିନ୍ନ ଚିନ୍ତାଧାରା ଉତ୍ପାଦନ ଏବଂ ସ୍ମୃତି ଲିପିବଦ୍ଧକରଣ (ସଂଜ୍ଞାନ, ଏକମୁଖୀ ଚିନ୍ତାଧାରା ଏବଂ ସ୍ମୃତି ରକ୍ଷଣ ସହିତ) 'କାର୍ଯ୍ୟକାରିତା' (Operations) ବିଭାଗର ଅନ୍ତର୍ଗତ ଅଟେ।"
         }
       }
     }
