@@ -2482,6 +2482,176 @@
       "answer": 2,
       "explanation": "During the Monetary Policy Committee (MPC) meeting in December 2023, the Reserve Bank of India raised the transaction limit for UPI payments to hospitals and educational institutions from Rs 1 lakh to Rs 5 lakh per transaction to facilitate larger payments in the health and education sectors.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-0",
+      "section": "General Awareness",
+      "topic": "Banking History",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In which year was the Imperial Bank of India nationalized and renamed as the State Bank of India?",
+      "options": [
+        "1947",
+        "1950",
+        "1955",
+        "1969"
+      ],
+      "answer": 2,
+      "explanation": "The Imperial Bank of India was nationalized on July 1, 1955, and reconstituted as the State Bank of India (SBI) under the State Bank of India Act, 1955."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-1",
+      "section": "General Awareness",
+      "topic": "Types of Bank Accounts",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the maximum balance that can be maintained at any given point in time in a 'BSBDA-Small Account' (Basic Savings Bank Deposit Account - Small Account)?",
+      "options": [
+        "Rs. 10,000",
+        "Rs. 50,000",
+        "Rs. 1,00,000",
+        "Rs. 2,00,000"
+      ],
+      "answer": 1,
+      "explanation": "According to RBI guidelines, the aggregate balance in a BSBDA-Small Account must not exceed Rs. 50,000 at any point in time."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-2",
+      "section": "General Awareness",
+      "topic": "Financial Institutions (NABARD, SIDBI, EXIM)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In which year was the Small Industries Development Bank of India (SIDBI) established as a principal financial institution for promotion, financing, and development of MSMEs?",
+      "options": [
+        "1982",
+        "1988",
+        "1990",
+        "1995"
+      ],
+      "answer": 2,
+      "explanation": "SIDBI was established on April 2, 1990, under an Act of Parliament, initially as a wholly-owned subsidiary of IDBI."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-3",
+      "section": "General Awareness",
+      "topic": "RBI & Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under which section of the Reserve Bank of India Act, 1934, does the RBI hold the sole right to issue bank notes in India?",
+      "options": [
+        "Section 21",
+        "Section 22",
+        "Section 24",
+        "Section 28"
+      ],
+      "answer": 1,
+      "explanation": "Section 22 of the RBI Act, 1934, gives the Reserve Bank of India the sole authority and right to issue bank notes in India."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-4",
+      "section": "General Awareness",
+      "topic": "Insurance & Pension Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "With effect from June 1, 2022, what is the revised annual premium payable by a subscriber under the Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+      "options": [
+        "Rs. 12",
+        "Rs. 20",
+        "Rs. 330",
+        "Rs. 436"
+      ],
+      "answer": 1,
+      "explanation": "The annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY) was revised upwards from Rs. 12 to Rs. 20 with effect from June 1, 2022."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-5",
+      "section": "General Awareness",
+      "topic": "Negotiable Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "When a cheque bears across its face two parallel transverse lines without any specific words, or with the words 'and company', it is defined as which type of crossing under the Negotiable Instruments Act, 1881?",
+      "options": [
+        "Special Crossing",
+        "General Crossing",
+        "Restrictive Crossing",
+        "Account Payee Crossing"
+      ],
+      "answer": 1,
+      "explanation": "According to Section 123 of the Negotiable Instruments Act, 1881, such an addition constitutes a 'General Crossing', directing the paying banker to pay the money only through a banker."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-6",
+      "section": "General Awareness",
+      "topic": "Financial Institutions (NABARD, SIDBI, EXIM)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which committee, set up by the Reserve Bank of India, recommended the establishment of the National Bank for Agriculture and Rural Development (NABARD)?",
+      "options": [
+        "B. Sivaraman Committee",
+        "M. Narasimham Committee",
+        "V.S. Vyas Committee",
+        "A.M. Khusro Committee"
+      ],
+      "answer": 0,
+      "explanation": "NABARD was established on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), chaired by Shri B. Sivaraman."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-7",
+      "section": "General Awareness",
+      "topic": "Money Market & Capital Market",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the maximum maturity period for which a Commercial Paper (CP) can be issued by eligible corporates in the Indian money market?",
+      "options": [
+        "90 days",
+        "180 days",
+        "1 year",
+        "3 years"
+      ],
+      "answer": 2,
+      "explanation": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note with a maturity period of a minimum of 7 days and a maximum of up to 1 year from the date of issue."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-8",
+      "section": "General Awareness",
+      "topic": "Negotiable Instruments",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Section 138 of the Negotiable Instruments Act, 1881, what is the maximum term of imprisonment that can be awarded for the offence of dishonour of a cheque due to insufficiency of funds?",
+      "options": [
+        "Up to 1 year",
+        "Up to 2 years",
+        "Up to 3 years",
+        "Up to 5 years"
+      ],
+      "answer": 1,
+      "explanation": "As per Section 138 of the Negotiable Instruments Act, 1881 (amended in 2002), the maximum term of imprisonment for a cheque bounce offence is up to two years, or a fine which may extend to twice the amount of the cheque, or both."
+    },
+    {
+      "id": "ibps-clerk-gk-1783599659181-9",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Basel III framework, which ratio is designed to ensure that a bank maintains an adequate level of unencumbered high-quality liquid assets (HQLA) that can be converted into cash to meet its liquidity needs over a 30-calendar-day severe stress scenario?",
+      "options": [
+        "Net Stable Funding Ratio (NSFR)",
+        "Liquidity Coverage Ratio (LCR)",
+        "Capital Adequacy Ratio (CAR)",
+        "Leverage Ratio"
+      ],
+      "answer": 1,
+      "explanation": "The Liquidity Coverage Ratio (LCR) is a key Basel III metric that requires banks to hold sufficient high-quality liquid assets to survive a significant 30-day liquidity stress scenario. Net Stable Funding Ratio (NSFR), on the other hand, operates over a one-year horizon."
     }
   ]
 }

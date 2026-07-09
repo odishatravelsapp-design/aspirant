@@ -3185,6 +3185,261 @@
           "explanation": "ଦ୍ୱିତୀୟ ଆଙ୍ଗ୍ଲୋ-ମରାଠା ଯୁଦ୍ଧରେ ପରାଜୟ ପରେ, ନାଗପୁରର ଦ୍ୱିତୀୟ ରଘୁଜୀ ଭୋଂସଲା ୧୭ ଡିସେମ୍ବର ୧୮୦୩ ରେ ଦେଓଗାଁ ଚୁକ୍ତି ସ୍ୱାକ୍ଷର କରିଥିଲେ, ଯାହା ଦ୍ୱାରା ସେ କଟକ ପ୍ରଦେଶକୁ (ଯେଉଁଥିରେ ପୁରୀ ଏବଂ ବାଲେଶ୍ୱର ସମେତ ସମୁଦ୍ର ଉପକୂଳବର୍ତ୍ତୀ ଓଡ଼ିଶା ଅନ୍ତର୍ଭୁକ୍ତ ଥିଲା) ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀକୁ ହସ୍ତାନ୍ତର କରିଥିଲେ।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-0",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Section 21 of the Right of Children to Free and Compulsory Education (RTE) Act, 2009, which of the following bodies must be constituted in all government schools to monitor school functioning and manage grants?",
+      "options": [
+        "School Management Committee (SMC)",
+        "Parent Teacher Association (PTA)",
+        "School Advisory Board (SAB)",
+        "Local Education Authority (LEA)"
+      ],
+      "answer": 0,
+      "explanation": "Section 21 of the RTE Act, 2009 mandates the formation of a School Management Committee (SMC) in every government-aided school, consisting of elected representatives of the local authority, parents or guardians of children admitted in such schools, and teachers."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-1",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the correct logical sequence of the cyclical phases in a standard cycle of Action Research?",
+      "options": [
+        "Act, Plan, Observe, Reflect",
+        "Plan, Act, Observe, Reflect",
+        "Observe, Plan, Act, Reflect",
+        "Plan, Observe, Act, Reflect"
+      ],
+      "answer": 1,
+      "explanation": "The standard action research cycle, as conceptualized by Stephen Kemmis and others, follows the sequential order: Planning an action, Acting upon the plan, Observing the process and consequences, and Reflecting on the outcomes to plan further cycles."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-2",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following terms describes the phenomenon where newly acquired information disrupts the retrieval of older, previously stored information?",
+      "options": [
+        "Proactive Interference",
+        "Retroactive Interference",
+        "Trace Decay",
+        "Repression"
+      ],
+      "answer": 1,
+      "explanation": "Retroactive interference occurs when new learning acts backward in time to interfere with the recall of older information. Proactive interference, conversely, is when old information interferes with the retention of new information."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-3",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the new 5+3+3+4 pedagogical structure of the National Education Policy (NEP) 2020, which age group corresponds specifically to the 'Preparatory Stage'?",
+      "options": [
+        "3 to 8 years",
+        "8 to 11 years",
+        "11 to 14 years",
+        "14 to 18 years"
+      ],
+      "answer": 1,
+      "explanation": "The 'Preparatory Stage' of NEP 2020 covers 3 years of schooling (Grades 3-5) and corresponds to children in the age group of 8 to 11 years. The Foundational stage covers ages 3 to 8."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-4",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Jacob Kounin's research on classroom management, what term is used to describe a teacher's ability to demonstrate to students that they are aware of everything that is happening in the classroom at all times?",
+      "options": [
+        "Overlapping",
+        "Withitness",
+        "Momentum",
+        "Smoothness"
+      ],
+      "answer": 1,
+      "explanation": "Jacob Kounin coined the term 'Withitness' to refer to a teacher's keen awareness of classroom dynamics and their ability to catch and address misbehavior early, effectively communicating to students that nothing escapes their attention."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-5",
+      "section": "Teaching Aptitude",
+      "topic": "National Curriculum Framework (NCF)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The National Curriculum Framework (NCF) 2005 was primarily guided by the philosophy and recommendations of which historic committee report chaired by Prof. Yash Pal?",
+      "options": [
+        "Learning Without Burden",
+        "Education and National Development",
+        "Towards an Enlightened and Humane Society",
+        "Challenges of Education"
+      ],
+      "answer": 0,
+      "explanation": "NCF 2005 was highly shaped by the landmark 1993 Yash Pal Committee report titled 'Learning Without Burden', which advocated for reducing cognitive pressure and moving away from rote memorization towards a joyous, child-centered approach."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-6",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The concept of a Language Acquisition Device (LAD), suggesting humans are biologically pre-programmed with an innate capacity to acquire grammar, is most closely associated with which linguist?",
+      "options": [
+        "B.F. Skinner",
+        "Noam Chomsky",
+        "Jean Piaget",
+        "Lev Vygotsky"
+      ],
+      "answer": 1,
+      "explanation": "Noam Chomsky proposed the nativist theory of language acquisition, arguing that children possess an innate biological endowment called the Language Acquisition Device (LAD) that enables them to deduce the rules of their native language."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-7",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is credited with formally introducing the concept and methodology of 'Action Research' into the field of education through the 1953 book 'Action Research to Improve School Practices'?",
+      "options": [
+        "Kurt Lewin",
+        "Stephen Kemmis",
+        "Stephen M. Corey",
+        "Lawrence Stenhouse"
+      ],
+      "answer": 2,
+      "explanation": "While social psychologist Kurt Lewin coined the term 'Action Research' in the 1940s, Stephen M. Corey at Columbia University's Teachers College was the key figure who adapted and popularized it specifically for improving classroom and school practices in 1953."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-8",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Stephen Krashen's Monitor Model of Second Language Acquisition, which hypothesis proposes that grammatical structures are internalized in a highly predictable, developmental sequence regardless of the order of formal instruction?",
+      "options": [
+        "The Acquisition-Learning Hypothesis",
+        "The Monitor Hypothesis",
+        "The Natural Order Hypothesis",
+        "The Input Hypothesis"
+      ],
+      "answer": 2,
+      "explanation": "The Natural Order Hypothesis asserts that the acquisition of grammatical rules follows a predictable progression, meaning certain rules are always acquired early while others are mastered much later, regardless of the learner's age or instruction."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-9",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "When an educational assessment consistently yields identical, stable results under unchanged conditions but fails to measure the actual cognitive domain or learning objective it was designed to evaluate, the test possesses:",
+      "options": [
+        "Low reliability and high validity",
+        "High reliability and low validity",
+        "High reliability and high validity",
+        "Low reliability and low validity"
+      ],
+      "answer": 1,
+      "explanation": "Reliability refers to the consistency/stability of test scores, while validity refers to the accuracy with which a test measures what it claims to measure. Consistent but inaccurate measurements indicate high reliability but low validity."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-10",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which specific section of the Right of Children to Free and Compulsory Education (RTE) Act, 2009 strictly prohibits physical punishment and mental harassment of children in schools?",
+      "options": [
+        "Section 13",
+        "Section 17",
+        "Section 21",
+        "Section 28"
+      ],
+      "answer": 1,
+      "explanation": "Section 17 of the RTE Act, 2009 explicitly states that no child shall be subjected to physical punishment or mental harassment, and any violation of this provision shall make the perpetrator liable to disciplinary action under service rules."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-11",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In a perfectly normal distribution of test scores with a mean of 50 and a standard deviation of 10, a student who achieves a raw score of 60 would fall closest to which percentile rank?",
+      "options": [
+        "50th percentile",
+        "68th percentile",
+        "84th percentile",
+        "95th percentile"
+      ],
+      "answer": 2,
+      "explanation": "A raw score of 60 is exactly one standard deviation (+1 SD) above the mean of 50. In a normal distribution, approximately 34.13% of scores fall between the mean and +1 SD. Adding this to the 50% of scores below the mean yields roughly the 84th percentile (84.13%)."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-12",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "The National Education Policy (NEP) 2020 proposes the establishment of the Higher Education Commission of India (HECI) as an umbrella body. Which of its four independent verticals is tasked with the function of funding higher education?",
+      "options": [
+        "National Higher Education Regulatory Council (NHERC)",
+        "National Accreditation Council (NAC)",
+        "Higher Education Grants Council (HEGC)",
+        "General Education Council (GEC)"
+      ],
+      "answer": 2,
+      "explanation": "NEP 2020 outlines four distinct verticals for HECI: NHERC (regulation), NAC (accreditation), HEGC (funding/grants), and GEC (academic standard-setting). Thus, HEGC is responsible for funding and grants."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-13",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which classroom management model, developed by Richard Curwin and Allen Mendler, emphasizes turning discipline issues into life lessons by teaching students responsibility, establishing clear consequences instead of punishments, and maintaining mutual respect?",
+      "options": [
+        "Assertive Discipline",
+        "Discipline with Dignity",
+        "Positive Classroom Discipline",
+        "Cooperative Discipline"
+      ],
+      "answer": 1,
+      "explanation": "Richard Curwin and Allen Mendler developed the 'Discipline with Dignity' framework, which advocates for treating students with respect while setting firm, clear boundaries, focusing on teaching students self-control rather than enforcing external compliance."
+    },
+    {
+      "id": "odisha-ssb-edu-1783599596444-14",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In cognitive psychology, what is the term coined by Elizabeth Loftus to describe the phenomenon where a person's recollection of an observed event becomes distorted or inaccurate after being exposed to post-event misleading details?",
+      "options": [
+        "Source Amnesia",
+        "Misinformation Effect",
+        "Anterograde Amnesia",
+        "Cryptomnesia"
+      ],
+      "answer": 1,
+      "explanation": "The 'Misinformation Effect' is a classic cognitive phenomenon researched extensively by Elizabeth Loftus, demonstrating that eyewitness testimony can be easily manipulated by planting subtle, misleading information during post-event questioning."
     }
   ]
 }
