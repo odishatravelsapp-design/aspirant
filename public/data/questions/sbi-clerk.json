@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2172,6 +2172,136 @@
       ],
       "answer": 2,
       "explanation": "According to Section 31(j) of the SARFAESI Act, 2002, the provisions of the Act do not apply to any case in which the amount due is less than 20 percent of the principal amount and interest thereon.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783596840298-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Two pipes A and B can fill a tank in 12 hours and 15 hours respectively. There is also an outlet pipe C. When all three pipes are opened together, the tank is filled in 10 hours. In how many hours can pipe C alone empty 60% of the full tank?",
+      "options": [
+        "8 hours",
+        "10 hours",
+        "12 hours",
+        "15 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let the capacity of the tank be the LCM of 12, 15, and 10, which is 60 units. Efficiency of pipe A = 60 / 12 = +5 units/hour. Efficiency of pipe B = 60 / 15 = +4 units/hour. Efficiency of A + B + C together = 60 / 10 = +6 units/hour. Let the efficiency of the outlet pipe C be -c. Thus, 5 + 4 - c = 6 => c = 3 units/hour. To empty 60% of the tank (60% of 60 = 36 units), the time taken by C alone = 36 / 3 = 12 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1783596840298-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 5 : 3. When 16 liters of this mixture is replaced with 16 liters of milk, the ratio of milk to water becomes 3 : 1. If 'x' liters of water is further added to this new mixture to make the final ratio of milk to water 2 : 1, find the value of 'x'.",
+      "options": [
+        "4 liters",
+        "6 liters",
+        "8 liters",
+        "10 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial volume of the mixture be V. After replacing 16 liters of the mixture with 16 liters of milk: Milk = (5/8)*(V - 16) + 16, Water = (3/8)*(V - 16). The ratio is 3 : 1. So, [(5/8)*(V - 16) + 16] / [(3/8)*(V - 16)] = 3 / 1 => (5/8)*(V - 16) + 16 = (9/8)*(V - 16) => 16 = (4/8)*(V - 16) => V - 16 = 32 => V = 48 liters. At this point, Milk = 36 liters and Water = 12 liters. Now, 'x' liters of water is added to make the ratio 2 : 1. So, 36 / (12 + x) = 2 / 1 => 36 = 24 + 2x => 2x = 12 => x = 6 liters."
+    },
+    {
+      "id": "sbi-clerk-ai-1783596878153-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Directions: In the following question, some statements are given followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\n1. Only a few Rivers are Lakes.\n2. All Lakes are Oceans.\n3. No Ocean is a Pond.\n\nConclusions:\nI. Some Rivers are not Oceans.\nII. Some Rivers are not Ponds.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Rivers are Lakes' implies 'Some Rivers are Lakes' and 'Some Rivers are not Lakes'. Since 'All Lakes are Oceans', the common part of Rivers and Lakes is inside Oceans. However, it is possible for all Rivers to be inside Oceans (with the part of Rivers outside Lakes still staying within Oceans). Since 'All Rivers being Oceans' is possible, the definite conclusion 'Some Rivers are not Oceans' does not logically follow.\n2. Since 'All Lakes are Oceans' and 'No Ocean is a Pond', there is no intersection between Lakes and Ponds. Since 'Some Rivers are Lakes' (from only a few), those Rivers that are Lakes are also Oceans and therefore can never be Ponds. Hence, 'Some Rivers are not Ponds' definitely follows.\nThus, only conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1783596878153-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the given information carefully and answer the question that follows.\n\nIn a family of seven members – P, Q, R, S, T, U, and V – there are three generations and two married couples.\n- R is the mother-in-law of V.\n- P is the father of U, who is the sibling of T.\n- S is the only daughter of Q.\n- T is unmarried and is the maternal uncle of S.\n- V is male and is married to Q.\n\nHow is V related to P?",
+      "options": [
+        "Son",
+        "Son-in-law",
+        "Brother-in-law",
+        "Father-in-law"
+      ],
+      "answer": 1,
+      "explanation": "Let's trace the family tree step-by-step:\n1. V is male and is married to Q, making Q female. (Couple 1)\n2. S is the daughter of Q. Since V is married to Q, S is the daughter of both V and Q.\n3. T is the maternal uncle of S, meaning T is the brother of S's mother (Q).\n4. P is the father of U, who is the sibling of T. Since T and Q are siblings, U is also their sibling. Thus, P is the father of Q, T, and U.\n5. R is the mother-in-law of V. Since V is married to Q, R must be Q's mother. Therefore, P (father) and R (mother) are married. (Couple 2)\n6. Since Q is the daughter of P, and V is married to Q, V is the son-in-law of P."
+    },
+    {
+      "id": "sbi-clerk-ai-1783596900870-0",
+      "section": "English",
+      "topic": "Sentence Exclusion",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Four sentences are given below. Three of them, when arranged, form a coherent paragraph about Central Bank Digital Currencies (CBDCs), while one does not fit. Choose the sentence that is the ODD ONE OUT.",
+      "options": [
+        "A. Many central banks are actively exploring the feasibility of digital currencies to improve cross-border payment efficiency.",
+        "B. Unlike decentralized cryptocurrencies, CBDCs are fully regulated and backed by the sovereign authority of a nation's central bank.",
+        "C. Retail merchants are increasingly adopting third-party mobile wallet applications to offer contactless payment options to consumers.",
+        "D. The introduction of such a digital fiat currency aims to significantly reduce the physical cost associated with printing and managing paper money."
+      ],
+      "answer": 2,
+      "explanation": "Sentences A, B, and D focus specifically on Central Bank Digital Currencies (CBDCs), their regulation, and their cost benefits. Sentence C, however, discusses general retail adoption of third-party mobile wallets, which does not fit into the specific structural and regulatory discussion of CBDCs."
+    },
+    {
+      "id": "sbi-clerk-ai-1783596900870-1",
+      "section": "English",
+      "topic": "Match the Columns",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the question below, two columns are given containing three clauses each. Match the clauses of Column 1 with those of Column 2 to form grammatically correct and contextually meaningful sentences.\n\nColumn 1:\n(A) The regulatory body has warned that any financial institution failing to comply with the new norms\n(B) Proponents of the new labor law argue that it will foster economic flexibility\n(C) Although the initial capital investment required for solar power installation is high\n\nColumn 2:\n(D) while critics fear it could lead to increased job insecurity for contractual workers.\n(E) will face severe penalties, including the suspension of its operating license.\n(F) it yields substantial long-term savings on utility bills and reduces carbon footprint.",
+      "options": [
+        "A-E and B-D",
+        "B-D and C-F",
+        "A-E, B-D and C-F",
+        "A-F and B-E"
+      ],
+      "answer": 2,
+      "explanation": "Clause A connects perfectly with Clause E to form a grammatically correct sentence explaining the consequences of non-compliance. Clause B connects with Clause D to present contrasting views on the labor law. Clause C connects with Clause F to explain the long-term benefit of solar installations despite high initial costs. Thus, the correct combination is A-E, B-D, and C-F."
+    },
+    {
+      "id": "sbi-clerk-ai-1783596942813-0",
+      "section": "General Awareness",
+      "topic": "Digital Payments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In December 2023, the Reserve Bank of India (RBI) enhanced the transaction limit for Unified Payments Interface (UPI) payments to which of the following sectors/categories to ₹5 lakh per transaction?",
+      "options": [
+        "E-commerce and retail shopping",
+        "Mutual fund investments and insurance premium payments",
+        "Hospitals and educational institutions",
+        "Real estate purchases and home loan repayments"
+      ],
+      "answer": 2,
+      "explanation": "During the Monetary Policy Committee (MPC) meeting in December 2023, the RBI announced an increase in the UPI transaction limit from ₹1 lakh to ₹5 lakh per transaction for payments made to hospitals and educational institutions to facilitate easier high-value digital payments in these critical sectors.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783596942813-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Basel III capital regulations implemented by the Reserve Bank of India (RBI) for scheduled commercial banks in India, what is the minimum Common Equity Tier 1 (CET1) capital ratio required to be maintained by banks (excluding the Capital Conservation Buffer)?",
+      "options": [
+        "4.5%",
+        "5.5%",
+        "7.0%",
+        "9.0%"
+      ],
+      "answer": 1,
+      "explanation": "While the global Basel III guidelines prescribe a minimum CET1 ratio of 4.5%, the Reserve Bank of India (RBI) has mandated a stricter requirement of 5.5% of Risk-Weighted Assets (RWAs) for Indian scheduled commercial banks, excluding the Capital Conservation Buffer (CCB) of 2.5%.",
       "status": "pending"
     }
   ]

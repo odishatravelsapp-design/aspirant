@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -2511,6 +2511,205 @@
             "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ"
           ],
           "explanation": "ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବଙ୍କ ୧୪୩୬ ଖ୍ରୀଷ୍ଟାବ୍ଦର ପୁରୀ ଜଗନ୍ନାଥ ମନ୍ଦିର କାନ୍ଥରେ ଥିବା ଶିଳାଲେଖରୁ 'ଓଡ଼ିଶା ରାଜ୍ୟ' ଶବ୍ଦର ସର୍ବପ୍ରଥମ ଶିଳାଲେଖ ପ୍ରମାଣ ମିଳିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597018995-0",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Three partners X, Y, and Z invest in a business. X's investment is twice Y's investment, and Y's investment is thrice Z's investment. The ratio of the time period of their investments is 2 : 5 : 3 respectively. If the total profit at the end of the year is Rs. 1,48,000, find the share of Y.",
+      "options": [
+        "Rs. 59,200",
+        "Rs. 74,000",
+        "Rs. 44,400",
+        "Rs. 88,800"
+      ],
+      "answer": 1,
+      "explanation": "Let Z's investment be P. Then, Y's investment = 3P, and X's investment = 2 * 3P = 6P. The ratio of their investments (X : Y : Z) is 6 : 3 : 1. The ratio of their time periods is 2 : 5 : 3. The ratio of their profit shares is (Investment * Time): X's share : Y's share : Z's share = (6 * 2) : (3 * 5) : (1 * 3) = 12 : 15 : 3 = 4 : 5 : 1. The total parts of profit = 4 + 5 + 1 = 10. Y's share of profit = (5/10) * Rs. 1,48,000 = Rs. 74,000.",
+      "translations": {
+        "or": {
+          "question": "ତିନିଜଣ ଅଂଶୀଦାର X, Y ଏବଂ Z ଏକ ବ୍ୟବସାୟରେ ପୁଞ୍ଜି ବିନିଯୋଗ କରନ୍ତି। X ର ପୁଞ୍ଜି Y ର ପୁଞ୍ଜିର ଦୁଇଗୁଣ ଏବଂ Y ର ପୁଞ୍ଜି Z ର ପୁଞ୍ଜିର ତିନିଗୁଣ ଅଟେ। ସେମାନଙ୍କ ପୁଞ୍ଜି ବିନିଯୋଗର ସମୟ ଅବଧିର ଅନୁପାତ ଯଥାକ୍ରମେ 2 : 5 : 3 ଅଟେ। ଯଦି ବର୍ଷ ଶେଷରେ ମୋଟ ଲାଭ ଟ 1,48,000 ହୁଏ, ତେବେ Y ର ଭାଗ କେତେ?",
+          "options": [
+            "ଟ. 59,200",
+            "ଟ. 74,000",
+            "ଟ. 44,400",
+            "ଟ. 88,800"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ Z ର ପୁଞ୍ଜି = P। ତେଣୁ, Y ର ପୁଞ୍ଜି = 3P ଏବଂ X ର ପୁଞ୍ଜି = 2 * 3P = 6P। ସେମାନଙ୍କର ପୁଞ୍ଜିର ଅନୁପାତ (X : Y : Z) ହେଉଛି 6 : 3 : 1। ସେମାନଙ୍କର ସମୟ ଅବଧିର ଅନୁପାତ ହେଉଛି 2 : 5 : 3। ସେମାନଙ୍କର ଲାଭର ଅନୁପାତ ହେବ (ପୁଞ୍ଜି * ସମୟ): X ର ଭାଗ : Y ର ଭାଗ : Z ର ଭାଗ = (6 * 2) : (3 * 5) : (1 * 3) = 12 : 15 : 3 = 4 : 5 : 1। ମୋଟ ଭାଗ = 4 + 5 + 1 = 10। ତେଣୁ Y ର ଲାଭର ଭାଗ = (5/10) * ଟ. 1,48,000 = ଟ. 74,000।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597018995-1",
+      "section": "Arithmetic",
+      "topic": "HCF and LCM",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A rectangular courtyard 15 meters 17 cm long and 9 meters 2 cm broad is to be paved with square tiles of the same size. Find the least number of such tiles required.",
+      "options": [
+        "734",
+        "814",
+        "820",
+        "902"
+      ],
+      "answer": 1,
+      "explanation": "Length of the courtyard = 15 m 17 cm = 1517 cm. Breadth of the courtyard = 9 m 2 cm = 902 cm. To find the least number of square tiles, we need the largest possible size of each tile, which is the HCF of 1517 and 902. HCF(1517, 902) = 41 cm. Area of one tile = 41 cm * 41 cm. Least number of tiles required = (Area of courtyard) / (Area of one tile) = (1517 * 902) / (41 * 41) = 37 * 22 = 814.",
+      "translations": {
+        "or": {
+          "question": "15 ମିଟର 17 ସେମି ଲମ୍ବ ଏବଂ 9 ମିଟର 2 ସେମି ଚଉଡ଼ା ବିଶିଷ୍ଟ ଏକ ଆୟତାକାର ଅଗଣାରେ ସମାନ ଆକାରର ବର୍ଗାକାର ଟାଇଲ୍ ବିଛାଇବାକୁ ହେବ। ଏଥିପାଇଁ ସର୍ବନିମ୍ନ କେତୋଟି ଟାଇଲ୍ ଆବଶ୍ୟକ ହେବ?",
+          "options": [
+            "734",
+            "814",
+            "820",
+            "902"
+          ],
+          "explanation": "ଅଗଣାର ଲମ୍ବ = 15 ମିଟର 17 ସେମି = 1517 ସେମି। ଅଗଣାର ଚଉଡ଼ା = 9 ମିଟର 2 ସେମି = 902 ସେମି। ସର୍ବନିମ୍ନ ସଂଖ୍ୟକ ବର୍ଗାକାର ଟାଇଲ୍ ପାଇଁ, ଆମକୁ ଟାଇଲର ସର୍ବବୃହତ ଆକାର ଖୋଜିବାକୁ ହେବ ଯାହା ହେଉଛି 1517 ଏବଂ 902 ର ଗରିଷ୍ଠ ସାଧାରଣ ଗୁଣନୀୟକ (HCF)। HCF(1517, 902) = 41 ସେମି। ଗୋଟିଏ ଟାଇଲର କ୍ଷେତ୍ରଫଳ = 41 ସେମି * 41 ସେମି। ଆବଶ୍ୟକ ସର୍ବନିମ୍ନ ଟାଇଲ୍ ସଂଖ୍ୟା = (ଅଗଣାର କ୍ଷେତ୍ରଫଳ) / (ଗୋଟିଏ ଟାଇଲର କ୍ଷେତ୍ରଫଳ) = (1517 * 902) / (41 * 41) = 37 * 22 = 814।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597033929-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the next number in the given series: 6, 13, 28, 59, 122, ?",
+      "options": [
+        "244",
+        "249",
+        "251",
+        "254"
+      ],
+      "answer": 1,
+      "explanation": "The pattern followed in the series is: (Previous number * 2) + consecutive integers starting from 1. \n6 * 2 + 1 = 13 \n13 * 2 + 2 = 28 \n28 * 2 + 3 = 59 \n59 * 2 + 4 = 122 \n122 * 2 + 5 = 249. Therefore, the next number is 249.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ ସଂଖ୍ୟା ଶୃଙ୍ଖଳାରେ ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ନିର୍ଣ୍ଣୟ କରନ୍ତୁ: 6, 13, 28, 59, 122, ?",
+          "options": [
+            "244",
+            "249",
+            "251",
+            "254"
+          ],
+          "explanation": "ଏହି ଶୃଙ୍ଖଳାରେ ଅନୁସରଣ କରାଯାଇଥିବା ଶୈଳୀଟି ହେଉଛି: (ପୂର୍ବ ସଂଖ୍ୟା * 2) + 1 ରୁ ଆରମ୍ଭ ହେଉଥିବା କ୍ରମାଗତ ସଂଖ୍ୟା। \n6 * 2 + 1 = 13 \n13 * 2 + 2 = 28 \n28 * 2 + 3 = 59 \n59 * 2 + 4 = 122 \n122 * 2 + 5 = 249। ତେଣୁ, ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ହେଉଛି 249।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597033929-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person is facing South-West. He turns 270 degrees clockwise, then 90 degrees anti-clockwise, and finally 135 degrees clockwise. Which direction is he facing now?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "answer": 1,
+      "explanation": "Let's calculate the net movement: Total clockwise (CW) turn = 270° + 135° = 405°. Total anti-clockwise (ACW) turn = 90°. Net turn = 405° - 90° = 315° CW. Starting from South-West (which is at 225° if North is 0°/360°): 225° + 315° = 540°. Subtracting a full rotation of 360°: 540° - 360° = 180°, which points directly to the South direction.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି ଦକ୍ଷିଣ-ପଶ୍ଚିମ (South-West) ଦିଗକୁ ମୁହଁ କରି ଠିଆ ହୋଇଛନ୍ତି। ସେ ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ (clockwise) 270 ଡିଗ୍ରୀ ବୁଲନ୍ତି, ତା’ପରେ ଘଣ୍ଟା କଣ୍ଟାର ବିପରୀତ ଦିଗରେ (anti-clockwise) 90 ଡିଗ୍ରୀ ବୁଲନ୍ତି ଏବଂ ଶେଷରେ ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ 135 ଡିଗ୍ରୀ ବୁଲନ୍ତି। ବର୍ତ୍ତମାନ ସେ କେଉଁ ଦିଗକୁ ମୁହଁ କରିଛନ୍ତି?",
+          "options": [
+            "ଉତ୍ତର",
+            "ଦକ୍ଷିଣ",
+            "ପୂର୍ବ",
+            "ପଶ୍ଚିମ"
+          ],
+          "explanation": "ଆସନ୍ତୁ ମୋଟ ପରିବର୍ତ୍ତନର ହିସାବ କରିବା: ମୋଟ ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ (CW) ବୁଲିବା = 270° + 135° = 405°। ମୋଟ ଘଣ୍ଟା କଣ୍ଟାର ବିପରୀତ ଦିଗରେ (ACW) ବୁଲିବା = 90°। ନେଟ୍ ବୁଲିବା = 405° - 90° = 315° ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ। ଦକ୍ଷିଣ-ପଶ୍ଚିମ (ଯାହା ଉତ୍ତରକୁ 0°/360° ଧରିଲେ 225° ରେ ଅଛି) ଦିଗରୁ ଆରମ୍ଭ କରି: 225° + 315° = 540°। ଏଥିରୁ ଗୋଟିଏ ପୂର୍ଣ୍ଣ ଚକ୍ର 360° ବିୟୋଗ କଲେ: 540° - 360° = 180°, ଯାହା ସିଧାସଳଖ ଦକ୍ଷିଣ (South) ଦିଗକୁ ସୂଚାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597045165-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following was the chief leader of the Ghumsur Uprising of 1835-1836 against the British East India Company?",
+      "options": [
+        "Chakra Bisoyi",
+        "Dora Bisoyi",
+        "Baxi Jagabandhu",
+        "Surendra Sai"
+      ],
+      "answer": 1,
+      "explanation": "Dora Bisoyi was the chief leader of the Ghumsur Uprising (1835–1836) against the British. Following his arrest and imprisonment, his nephew Chakra Bisoyi took over the leadership of the Kondh rebellion.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରିଟିଶ୍ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୁଦ୍ଧରେ ୧୮୩୫-୧୮୩୬ ର ଘୁମୁସୁର ବିଦ୍ରୋହର ମୁଖ୍ୟ ନେତା ନିମ୍ନଲିଖିତମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ଚକ୍ର ବିଷୋୟୀ",
+            "ଦୋରା ବିଷୋୟୀ",
+            "ବକ୍ସି ଜଗବନ୍ଧୁ",
+            "ସୁରେନ୍ଦ୍ର ସାଏ"
+          ],
+          "explanation": "ଦୋରା ବିଷୋୟୀ ବ୍ରିଟିଶ୍ ବିରୋଧୀ ଘୁମୁସୁର ବିଦ୍ରୋହ (୧୮୩୫-୧୮୩୬) ର ମୁଖ୍ୟ ନେତା ଥିଲେ। ତାଙ୍କ ଗିରଫଦାରୀ ପରେ ତାଙ୍କ ପୁତୁରା ଚକ୍ର ବିଷୋୟୀ କନ୍ଧ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597045165-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In which year was the British Political Agent, Major R.L. Bazalgette, assassinated by an angry mob during the Prajamandal Movement in the princely state of Ranpur?",
+      "options": [
+        "1936",
+        "1938",
+        "1939",
+        "1942"
+      ],
+      "answer": 2,
+      "explanation": "On January 5, 1939, Major R.L. Bazalgette, the British Political Agent for the Orissa Feudatory States, was assassinated by an agitated crowd during the Prajamandal Movement in the princely state of Ranpur.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରଣପୁର ଗଡ଼ଜାତ ରାଜ୍ୟରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ବ୍ରିଟିଶ୍ ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ମେଜର ଆର୍.ଏଲ୍. ବାଜାଲଗେଟ୍ କେଉଁ ବର୍ଷ ଏକ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା ନିହତ ହୋଇଥିଲେ?",
+          "options": [
+            "୧୯୩୬",
+            "୧୯୩୮",
+            "୧୯୩୯",
+            "୧୯୪୨"
+          ],
+          "explanation": "୫ ଜାନୁଆରୀ ୧୯୩୯ ରେ, ଓଡ଼ିଶା ଗଡ଼ଜାତ ରାଜ୍ୟଗୁଡ଼ିକର ବ୍ରିଟିଶ ପଲିଟିକାଲ ଏଜେଣ୍ଟ ମେଜର ଆର୍.ଏଲ୍. ବାଜାଲଗେଟ୍ ରଣପୁରଠାରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନର ଏକ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା ନିହତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783597062655-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The historic Treaty of Deogaon (1803), which led to the British conquest of Odisha, was signed between the British East India Company and which Maratha ruler?",
+      "options": [
+        "Madhoji Bhonsle",
+        "Raghuji Bhonsle II",
+        "Janoji Bhonsle",
+        "Chimnaji Bapu"
+      ],
+      "answer": 1,
+      "explanation": "The Treaty of Deogaon was signed on December 17, 1803, between Raghuji Bhonsle II of Nagpur and the British East India Company after the Battle of Argaon, ceding Cuttack and other parts of Odisha to the British.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ ଶାସନ ପ୍ରତିଷ୍ଠା ପାଇଁ ପଥ ପରିଷ୍କାର କରିଥିବା ଐତିହାସିକ ଦେଓଗାଁ ଚୁକ୍ତି (୧୮୦୩), ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ଏବଂ କେଉଁ ମରାଠା ଶାସକଙ୍କ ମଧ୍ୟରେ ସ୍ୱାକ୍ଷରିତ ହୋଇଥିଲା?",
+          "options": [
+            "ମାଧୋଜୀ ଭୋଂସଲା",
+            "ଦ୍ୱିତୀୟ ରଘୁଜୀ ଭୋଂସଲା",
+            "ଜାନୋଜୀ ଭୋଂସଲା",
+            "ଚିମନାଜୀ ବାପୁ"
+          ],
+          "explanation": "୧୮୦୩ ମସିହା ଡିସେମ୍ବର ୧୭ ରେ, ଅରଗାଓଁ ଯୁଦ୍ଧ ପରେ ନାଗପୁରର ଦ୍ୱିତୀୟ ରଘୁଜୀ ଭୋଂସଲା ଏବଂ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ମଧ୍ୟରେ ଦେଓଗାଁ ଚୁକ୍ତି ସ୍ୱାକ୍ଷରିତ ହୋଇଥିଲା, ଯାହାଦ୍ୱାରା କଟକ ଏବଂ ଓଡ଼ିଶାର ଅନ୍ୟାନ୍ୟ ଅଞ୍ଚଳ ବ୍ରିଟିଶମାନଙ୍କ ଅଧୀନକୁ ଯାଇଥିଲା।"
         }
       }
     }

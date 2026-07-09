@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -679,6 +679,62 @@
             "କ୍ରିୟାତ୍ମକ (Enactive), ସାଙ୍କେତିକ (Symbolic), ଚିତ୍ରାତ୍ମକ (Iconic)"
           ],
           "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍ ଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି ପର୍ଯ୍ୟାୟ ପ୍ରସ୍ତାବ କରିଥିଲେ: କ୍ରିୟାତ୍ମକ (Enactive - କାର୍ଯ୍ୟ-ଆଧାରିତ, ଶୈଶବ ସମୟ), ଚିତ୍ରାତ୍ମକ (Iconic - ଚିତ୍ର-ଆଧାରିତ, ବାଲ୍ୟାବସ୍ଥା), ଏବଂ ସାଙ୍କେତିକ (Symbolic - ଭାଷା/ସଙ୍କେତ-ଆଧାରିତ, ପରବର୍ତ୍ତୀ ବାଲ୍ୟାବସ୍ଥା ଏବଂ ପ୍ରୌଢ଼ାବସ୍ଥା)। ଏଗୁଡ଼ିକ ଏହି କ୍ରମରେ ବିକଶିତ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783598315001-0",
+      "section": "Teaching Aptitude",
+      "topic": "Methods of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Edgar Dale's 'Cone of Experience', which of the following learning experiences is situated at the base of the cone, representing the most direct and concrete form of learning?",
+      "options": [
+        "Verbal Symbols",
+        "Direct, Purposeful Experiences",
+        "Visual Symbols",
+        "Field Trips"
+      ],
+      "answer": 1,
+      "explanation": "According to Edgar Dale's Cone of Experience, 'Direct, Purposeful Experiences' (hands-on, real-life experiences) lie at the very base of the cone, representing the most concrete and effective level of learning, whereas verbal symbols lie at the pinnacle, representing the most abstract form.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗର ଡେଲଙ୍କ 'ଅଭିଜ୍ଞତା ଶଙ୍କୁ' (Cone of Experience) ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶିକ୍ଷଣ ଅଭିଜ୍ଞତା ଶଙ୍କୁର ପାଦଦେଶରେ ଅବସ୍ଥିତ, ଯାହା ସବୁଠାରୁ ପ୍ରତ୍ୟକ୍ଷ ଏବଂ ବାସ୍ତବ ଶିକ୍ଷଣକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ମୌଖିକ ସଙ୍କେତ (Verbal Symbols)",
+            "ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା (Direct, Purposeful Experiences)",
+            "ଦୃଶ୍ୟମାନ ସଙ୍କେତ (Visual Symbols)",
+            "ଶିକ୍ଷାଗତ ଭ୍ରମଣ (Field Trips)"
+          ],
+          "explanation": "ଏଡଗର ଡେଲଙ୍କ ଅଭିଜ୍ଞତା ଶଙ୍କୁ ଅନୁଯାୟୀ, 'ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା' (ବାସ୍ତବ ଜୀବନର ପ୍ରତ୍ୟକ୍ଷ ଅଭିଜ୍ଞତା) ଶଙ୍କୁର ପାଦଦେଶରେ ଅବସ୍ଥିତ, ଯାହା ସବୁଠାରୁ ବାସ୍ତବ ଏବଂ ପ୍ରଭାବଶାଳୀ ଶିକ୍ଷଣ ସ୍ତରକୁ ଦର୍ଶାଏ, ଏବଂ ମୌଖିକ ସଙ୍କେତ ସବୁଠାରୁ ଶୀର୍ଷରେ ଥାଏ ଯାହା ସବୁଠାରୁ ବିମୂର୍ତ୍ତ (abstract) ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783598315001-1",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Interaction Analysis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS) used for analyzing classroom communication, how many categories are specifically dedicated to 'Teacher Talk'?",
+      "options": [
+        "5",
+        "7",
+        "2",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "Flanders' Interaction Analysis Category System (FIACS) consists of 10 categories in total. Out of these, 7 categories (Categories 1 to 7) are dedicated to 'Teacher Talk' (further divided into indirect and direct influence), 2 categories (8 and 9) are for 'Pupil Talk', and 1 category (10) is for 'Silence or Confusion'.",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହ ଯୋଗାଯୋଗ ଏବଂ ପାରସ୍ପରିକ କ୍ରିୟା ଆକଳନ ପାଇଁ ବ୍ୟବହୃତ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, କେତୋଟି ବର୍ଗ ସ୍ୱତନ୍ତ୍ର ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (Teacher Talk) ପାଇଁ ଉଦ୍ଦିଷ୍ଟ?",
+          "options": [
+            "୫",
+            "୭",
+            "୨",
+            "୧୦"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ଅଛି। ଏଥିମଧ୍ୟରୁ ୭ଟି ବର୍ଗ (ବର୍ଗ ୧ ରୁ ୭) ସ୍ୱତନ୍ତ୍ର ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (ପ୍ରତ୍ୟକ୍ଷ ଏବଂ ପରୋକ୍ଷ ପ୍ରଭାବରେ ବିଭକ୍ତ) ପାଇଁ ଉଦ୍ଦିଷ୍ଟ, ୨ଟି ବର୍ଗ (୮ ଏବଂ ୯) 'ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା' ପାଇଁ ଏବଂ ୧ଟି ବର୍ଗ (୧୦) 'ନୀରବତା କିମ୍ବା ବିଭ୍ରାଟ' ପାଇଁ ନିର୍ଦ୍ଧାରିତ।"
         }
       }
     }

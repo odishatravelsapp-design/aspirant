@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2076,6 +2076,136 @@
       ],
       "answer": 2,
       "explanation": "According to the revised PSL guidelines of the RBI, the sub-target for Weaker Sections for Domestic Scheduled Commercial Banks was increased in a phased manner, reaching its final target of 12% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, starting from the financial year 2023-24.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783596957265-0",
+      "section": "Quant",
+      "topic": "Profit, Loss and Discount",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks up his goods by x% above the cost price and then offers two successive discounts of 10% and 20% on the marked price. If he still makes a profit of 8% on the transaction, what is the value of x?",
+      "options": [
+        "40%",
+        "50%",
+        "45%",
+        "60%"
+      ],
+      "answer": 1,
+      "explanation": "Let the Cost Price (CP) of the goods be Rs. 100.\nSince the markup is x%, the Marked Price (MP) = 100 + x.\nThe shopkeeper offers two successive discounts of 10% and 20%.\nEffective discount rate = 10 + 20 - (10 * 20)/100 = 28%.\nSo, the Selling Price (SP) = 72% of MP = 0.72 * (100 + x).\nGiven that the profit is 8%, the SP must be Rs. 108.\nTherefore, 0.72 * (100 + x) = 108\n100 + x = 108 / 0.72\n100 + x = 150\nx = 50%."
+    },
+    {
+      "id": "ibps-po-ai-1783596957265-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A is twice as efficient as B. B and C together can complete a piece of work in 24 days. A started the work and worked for 10 days, after which B worked for 16 days, and the remaining work was completed by C in 15 days. In how many days can C alone complete the entire work?",
+      "options": [
+        "36 days",
+        "40 days",
+        "42 days",
+        "45 days"
+      ],
+      "answer": 2,
+      "explanation": "Let the daily work done (efficiency) by B and C be 'b' and 'c' units respectively.\nSince A is twice as efficient as B, A's daily work = 2b units.\nGiven that B and C together can complete the work in 24 days, the total work (W) = 24(b + c).\nAccording to the problem, the work done in parts is:\n10(2b) + 16b + 15c = W\n20b + 16b + 15c = 24(b + c)\n36b + 15c = 24b + 24c\n12b = 9c \n4b = 3c => b = 0.75c.\nNow, substitute the value of b in the total work equation:\nW = 24(0.75c + c) = 24(1.75c) = 42c.\nTherefore, the number of days C alone will take to complete the work = W / c = 42c / c = 42 days."
+    },
+    {
+      "id": "ibps-po-ai-1783596972614-0",
+      "section": "Reasoning",
+      "topic": "Statement and Course of Action",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statement: Due to a sudden spike in cyber-attacks on public sector banks, several customers have lost their savings, leading to widespread panic and a drop in digital transactions.\n\nCourses of Action:\nI. The Reserve Bank of India should temporarily suspend all digital banking operations across the nation until a completely secure firewall is developed.\nII. Banks should immediately conduct comprehensive security audits of their digital platforms and launch public awareness campaigns on safe digital practices.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "Course of Action I is extreme and impractical, as suspending all digital transactions nationwide would severely disrupt the country's economy. Course of Action II is a balanced, logical, and constructive measure that addresses both technical vulnerabilities and customer awareness."
+    },
+    {
+      "id": "ibps-po-ai-1783596972614-1",
+      "section": "Reasoning",
+      "topic": "Floor/Box Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six boxes - A, B, C, D, E, and F - are stacked one above another from bottom (1) to top (6). Each box contains a different number of books among 12, 15, 18, 21, 24, and 27. Box E is kept immediately above the box containing 18 books. Only two boxes are kept between the box containing 18 books and Box A. The box containing 12 books is kept immediately below Box A. Box D is kept immediately above Box F, which contains 27 books. The difference between the number of books in Box D and Box C is 3. Box B is kept below Box C. If Box A contains 24 books and Box E contains more books than Box D, how many books does Box E contain?",
+      "options": [
+        "15",
+        "21",
+        "18",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "Let's analyze the clues step-by-step:\n1. Box E is immediately above [18].\n2. Two boxes are between [18] and Box A.\n3. [12] is immediately below Box A.\nIf we place Box A at 2, then [12] is at 1. The box with 18 books must be at 5, meaning Box E is at 6 (immediately above 5). This leaves positions 3 and 4 empty. \n4. Box D is immediately above Box F (which has 27 books). Thus, D must be at 4 and F must be at 3 with 27 books.\n5. Box B is below Box C. Since positions 5 and 1 are remaining, Box C must be at 5 (so Box C has 18 books) and Box B must be at 1 (so Box B has 12 books).\n6. Remaining boxes to match with remaining book quantities (15, 21, 24):\nWe are given Box A (at position 2) has 24 books. \n7. The difference between D and C (18) is 3, so D must have either 15 or 21 books.\n8. Since Box E contains more books than Box D, Box E must have 21 books and Box D must have 15 books."
+    },
+    {
+      "id": "ibps-po-ai-1783596990398-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Fill in the blanks with the most appropriate set of words to make the sentence contextually meaningful and grammatically correct:\n\nThe regulator's _________ intervention in the telecom merger was intended to protect consumer interests, but it ultimately _________ investor anxiety.",
+      "options": [
+        "belated, exacerbated",
+        "proactive, pacified",
+        "sporadic, assuaged",
+        "sluggish, quelled"
+      ],
+      "answer": 0,
+      "explanation": "The conjunction 'but' introduces a contrast between the intended positive outcome ('to protect consumer interests') and the actual negative outcome. 'Belated' (delayed) fits the first blank, and 'exacerbated' (worsened/intensified) fits the second blank, perfectly capturing this contrast. The other options contain positive words for the second blank ('pacified', 'assuaged', 'quelled') which fail to create the required contrast."
+    },
+    {
+      "id": "ibps-po-ai-1783596990398-1",
+      "section": "English",
+      "topic": "Sentence Synthesis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following options logically and grammatically combines the two given statements into a single sentence without changing their original meaning?\n\nStatements:\n1. The government implemented strict environmental regulations on local factories.\n2. Several small-scale industries were forced to shut down due to compliance costs.",
+      "options": [
+        "Implementing strict environmental regulations on local factories, the government forced several small-scale industries to shut down due to compliance costs.",
+        "Having implemented strict environmental regulations on local factories, compliance costs forced several small-scale industries to shut down by the government.",
+        "Despite the government implementing strict environmental regulations on local factories, several small-scale industries were forced to shut down due to compliance costs.",
+        "Strict environmental regulations were implemented on local factories by the government, forcing several small-scale industries to shut down, which was because of compliance costs."
+      ],
+      "answer": 0,
+      "explanation": "Option A correctly uses a participle clause ('Implementing...') modifying the subject 'the government', maintaining flawless grammatical syntax and logical cause-and-effect relationship. Option B contains a dangling modifier ('Having implemented...' incorrectly modifies 'compliance costs'). Option C uses 'Despite', which incorrectly implies a concession/contrast. Option D is wordy, passive, and structurally awkward."
+    },
+    {
+      "id": "ibps-po-ai-1783597001379-0",
+      "section": "General Awareness",
+      "topic": "Banking Technology & Credit",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What does the acronym 'ULI' stand for in the context of the technology platform proposed by the Reserve Bank of India (RBI) in 2024 to enable frictionless, consent-based credit delivery to borrowers?",
+      "options": [
+        "Unified Lending Interface",
+        "Universal Lending Institution",
+        "Unified Liquidity Initiative",
+        "Universal Ledger Interface"
+      ],
+      "answer": 0,
+      "explanation": "In August 2024, the RBI announced the 'Unified Lending Interface' (ULI), a platform designed to facilitate seamless, consent-based flow of digital information (including land records, satellite data, and credit histories) from various data providers to lenders, drastically reducing the time required for credit appraisal, especially for rural and MSME borrowers.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783597001379-1",
+      "section": "General Awareness",
+      "topic": "Prudential Regulations & D-SIBs",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the revised Domestic Systemically Important Banks (D-SIBs) framework issued by the RBI in December 2023, State Bank of India (SBI) was shifted from Bucket 3 to Bucket 4. What is the additional Common Equity Tier 1 (CET1) requirement (as a percentage of Risk Weighted Assets) prescribed for SBI under Bucket 4, effective from April 1, 2025?",
+      "options": [
+        "0.40%",
+        "0.60%",
+        "0.80%",
+        "1.00%"
+      ],
+      "answer": 2,
+      "explanation": "Under the D-SIB framework, banks in Bucket 4 are required to maintain an additional CET1 surcharge of 0.80% of their Risk Weighted Assets. In the December 2023 update, SBI was moved to Bucket 4 (0.80% surcharge) and HDFC Bank to Bucket 2 (0.40% surcharge), with the changes taking effect from April 1, 2025.",
       "status": "pending"
     }
   ]

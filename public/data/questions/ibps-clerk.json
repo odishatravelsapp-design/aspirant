@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2383,6 +2383,104 @@
       ],
       "answer": 1,
       "explanation": "Under the PM Vishwakarma Scheme, beneficiaries are eligible for collateral-free enterprise development loans of up to ₹3,00,000 in total. This is split into two tranches: the first tranche is up to ₹1,00,000 (with an 18-month repayment period) and the second tranche is up to ₹2,00,000 (with a 30-month repayment period) at a concessional interest rate of 5%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783596794637-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'MONKEY' is written as 'LPMLDZ'. How will 'STRIKE' be written in that language?",
+      "options": [
+        "RUQIKF",
+        "RUQJJF",
+        "RTQJJF",
+        "SVQJKF"
+      ],
+      "answer": 1,
+      "explanation": "The pattern followed in the coding is alternative subtraction and addition of 1: M - 1 = L, O + 1 = P, N - 1 = M, K + 1 = L, E - 1 = D, Y + 1 = Z. Applying the same logic to 'STRIKE': S - 1 = R, T + 1 = U, R - 1 = Q, I + 1 = J, K - 1 = J, E + 1 = F. Therefore, 'STRIKE' is coded as 'RUQJJF'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783596794637-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Among six friends - A, B, C, D, E, and F - each has a different height. A is taller than only two people. E is taller than D but shorter than F. C is taller than B, who is not the shortest. F is not the tallest person, and E is the third tallest person. Who is the third shortest person?",
+      "options": [
+        "B",
+        "A",
+        "E",
+        "F"
+      ],
+      "answer": 1,
+      "explanation": "Let us arrange the six friends from tallest (1) to shortest (6). A is taller than only two people, so A is 4th. E is the third tallest, so E is 3rd. Since F > E > D and F is not the tallest, F must be 2nd. C is taller than B, and B is not the shortest. Thus, C must be 1st, B must be 5th, and D must be 6th (shortest). The final order is C > F > E > A > B > D. Counting from the shortest (D, then B, then A), the third shortest person is A."
+    },
+    {
+      "id": "ibps-clerk-ai-1783596806270-0",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the sentence that is grammatically CORRECT.",
+      "options": [
+        "Neither the manager nor the employees was aware of the change in the policy.",
+        "Each of the candidates have to bring their original documents for verification.",
+        "The jury were divided in their opinions regarding the final verdict of the case.",
+        "Not only the students but also the teacher are attending the educational seminar today."
+      ],
+      "answer": 2,
+      "explanation": "Option C is correct because when a collective noun like 'jury' refers to the members acting individually (indicated by 'divided in their opinions'), it takes a plural verb ('were') and a plural pronoun ('their'). Option A is incorrect because the verb should agree with the nearer subject 'employees' (should be 'were'). Option B is incorrect because 'Each' is singular and requires 'has'. Option D is incorrect because the verb must agree with the nearer subject 'teacher' (should be 'is')."
+    },
+    {
+      "id": "ibps-clerk-ai-1783596806270-1",
+      "section": "English",
+      "topic": "Vocabulary (Double Fillers)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the given sentence:\n\n'Despite the ________ climate of the region, the nomadic tribe managed to find a ________ source of water that sustained them for months.'",
+      "options": [
+        "arid, ephemeral",
+        "temperate, intermittent",
+        "torrid, perennial",
+        "desolate, sporadic"
+      ],
+      "answer": 2,
+      "explanation": "'Torrid' means extremely hot and dry, which fits the contrasting concession introduced by 'Despite'. 'Perennial' means lasting or active through the year or continuously, which explains how the source of water successfully 'sustained them for months'. Other options like 'ephemeral' (short-lived) or 'sporadic' (irregular) contradict the fact that they were sustained for months."
+    },
+    {
+      "id": "ibps-clerk-ai-1783596813962-0",
+      "section": "General Awareness",
+      "topic": "Sovereign Gold Bond Scheme",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme, what is the maximum limit of subscription permitted for an individual investor in a fiscal year (April–March)?",
+      "options": [
+        "1 kg",
+        "2 kg",
+        "4 kg",
+        "20 kg"
+      ],
+      "answer": 2,
+      "explanation": "Under the Sovereign Gold Bond (SGB) scheme, the maximum limit of subscription is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for trusts and similar entities per fiscal year (April-March).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783596813962-1",
+      "section": "General Awareness",
+      "topic": "UPI Transaction Limits",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In December 2023, the Reserve Bank of India (RBI) enhanced the transaction limit for UPI payments to hospitals and educational institutions from Rs 1 lakh per transaction to how much?",
+      "options": [
+        "Rs 2 lakh",
+        "Rs 3 lakh",
+        "Rs 5 lakh",
+        "Rs 10 lakh"
+      ],
+      "answer": 2,
+      "explanation": "During the Monetary Policy Committee (MPC) meeting in December 2023, the Reserve Bank of India raised the transaction limit for UPI payments to hospitals and educational institutions from Rs 1 lakh to Rs 5 lakh per transaction to facilitate larger payments in the health and education sectors.",
       "status": "pending"
     }
   ]

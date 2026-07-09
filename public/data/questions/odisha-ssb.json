@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -3013,6 +3013,176 @@
             "ଜନ୍ ସାଇମନ୍"
           ],
           "explanation": "ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି, ଯାହା ଓ'ଡୋନେଲ କମିଟି ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା, ପ୍ରସ୍ତାବିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ୧୯୩୧ ମସିହାରେ ସାର୍ ସାମୁଏଲ ଓ'ଡୋନେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ନିଯୁକ୍ତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783597074753-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The 'In Memoriam stanza', popularized by Alfred Lord Tennyson in his elegy 'In Memoriam A.H.H.', consists of four lines of iambic tetrameter rhyming in which of the following schemes?",
+      "options": [
+        "abab",
+        "abba",
+        "aabb",
+        "abca"
+      ],
+      "answer": 1,
+      "explanation": "The In Memoriam stanza is a traditional English poetic form consisting of a quatrain in iambic tetrameter with an envelope rhyme scheme of abba.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଆଲଫ୍ରେଡ୍ ଲର୍ଡ୍ ଟେନିସନ୍‌ଙ୍କ ଦ୍ଵାରା ତାଙ୍କର ପ୍ରସିଦ୍ଧ ଶୋକଗୀତି 'In Memoriam A.H.H.' ରେ ବ୍ୟବହୃତ ହୋଇ ଲୋକପ୍ରିୟ ହୋଇଥିବା 'In Memoriam stanza', ଆଇଆମ୍ବିକ୍ ଟେଟ୍ରାମିଟରର ଚାରୋଟି ଧାଡ଼ିକୁ ନେଇ ଗଠିତ, ଯାହା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପ୍ରାସ (rhyme scheme) କୁ ଅନୁସରଣ କରେ?",
+          "options": [
+            "abab",
+            "abba",
+            "aabb",
+            "abca"
+          ],
+          "explanation": "In Memoriam stanza ହେଉଛି ଏକ ପାରମ୍ପରିକ ଇଂରାଜୀ କାବ୍ୟ ରୂପ ଯାହା ଆଇଆମ୍ବିକ୍ ଟେଟ୍ରାମିଟରରେ ଲିଖିତ ଚାରୋଟି ଧାଡ଼ିର ଏକ ଚତୁଷ୍ପଦୀ (quatrain) ଏବଂ ଏହାର ପ୍ରାସ ଶୈଳୀ 'abba' ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783597074753-1",
+      "section": "Subject Knowledge",
+      "topic": "Postcolonial Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Edward Said's seminal work 'Orientalism' (1978), his analysis of the discourse of Western power over the Orient heavily draws upon the concepts of power and knowledge formulated by which French philosopher?",
+      "options": [
+        "Jacques Derrida",
+        "Michel Foucault",
+        "Jean-François Lyotard",
+        "Louis Althusser"
+      ],
+      "answer": 1,
+      "explanation": "Edward Said utilizes Michel Foucault's concepts of discourse and the complicity of power and knowledge (pouvoir/savoir) to explain how European culture was able to manage, define, and produce the 'Orient' politically and sociologically.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏଡୱାର୍ଡ ସୈଦ୍ (Edward Said) ତାଙ୍କର ପ୍ରଭାବଶାଳୀ ଗ୍ରନ୍ଥ 'Orientalism' (୧୯୭୮) ରେ, ପ୍ରାଚ୍ୟ ଉପରେ ପାଶ୍ଚାତ୍ୟ ଶକ୍ତିର ପ୍ରବଚନ (discourse) ବିଶ୍ଳେଷଣ କରିବା ପାଇଁ କେଉଁ ଫରାସୀ ଦାର୍ଶନିକଙ୍କ ଦ୍ଵାରା ପ୍ରଣିତ ଶକ୍ତି ଏବଂ ଜ୍ଞାନ (power and knowledge) ର ଅବଧାରଣା ଉପରେ ବହୁଳ ଭାବରେ ନିର୍ଭର କରିଛନ୍ତି?",
+          "options": [
+            "ଜାକ୍ ଡେରିଡା (Jacques Derrida)",
+            "ମିଶେଲ ଫୁକୋ (Michel Foucault)",
+            "ଜିନ୍-ଫ୍ରାନ୍ସୁଆ ଲିଓଟାର୍ଡ (Jean-François Lyotard)",
+            "ଲୁଇ ଆଲଥୁସର (Louis Althusser)"
+          ],
+          "explanation": "ଏଡୱାର୍ଡ ସୈଦ୍ ମିଶେଲ ଫୁକୋଙ୍କ ପ୍ରବଚନ (discourse) ଏବଂ ଶକ୍ତି ଓ ଜ୍ଞାନର ପାରସ୍ପରିକ ସମ୍ପର୍କର ଅବଧାରଣାକୁ ବ୍ୟବହାର କରି ୟୁରୋପୀୟ ସଂସ୍କୃତି କିପରି ପ୍ରାଚ୍ୟ ଜଗତକୁ ରାଜନୈତିକ ଏବଂ ସାମାଜିକ ସ୍ତରରେ ନିୟନ୍ତ୍ରିତ ଓ ଉପସ୍ଥାପିତ କରିଥିଲା ତାହା ବ୍ୟାଖ୍ୟା କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783597100203-0",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders' Interaction Analysis",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS), which of the following categories represents 'Teacher Talk - Direct Influence'?",
+      "options": [
+        "Category 1, 2, and 3",
+        "Category 4, 5, and 6",
+        "Category 5, 6, and 7",
+        "Category 8 and 9"
+      ],
+      "answer": 2,
+      "explanation": "Flanders' Interaction Analysis Category System (FIACS) consists of 10 categories. Categories 1 through 7 represent Teacher Talk. Within Teacher Talk, Categories 1, 2, 3, and 4 are categorized as 'Indirect Influence' (accepting feelings, praising/encouraging, accepting/using ideas, and asking questions). Categories 5, 6, and 7 are categorized as 'Direct Influence' (lecturing, giving directions, and criticizing or justifying authority). Categories 8 and 9 represent Pupil Talk, and Category 10 is Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ବର୍ଗଗୁଡିକ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା - ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ' କୁ ପ୍ରତିନିଧିତ୍ଵ କରେ?",
+          "options": [
+            "ବର୍ଗ ୧, ୨, ଏବଂ ୩",
+            "ବର୍ଗ ୪, ୫, ଏବଂ ୬",
+            "ବର୍ଗ ୫, ୬, ଏବଂ ୭",
+            "ବର୍ଗ ୮ ଏବଂ ୯"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ ୧୦ଟି ବର୍ଗ ରହିଛି। ବର୍ଗ ୧ ରୁ ୭ ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତାକୁ ପ୍ରତିନିଧିତ୍ଵ କରେ। ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା ମଧ୍ୟରେ, ବର୍ଗ ୧, ୨, ୩ ଏବଂ ୪ କୁ 'ପରୋକ୍ଷ ପ୍ରଭାବ' (Indirect Influence) ଭାବରେ ଶ୍ରେଣୀଭୁକ୍ତ କରାଯାଇଛି। ବର୍ଗ ୫, ୬ ଏବଂ ୭ କୁ 'ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ' (Direct Influence) ଭାବରେ ଶ୍ରେଣୀଭୁକ୍ତ କରାଯାଇଛି (ଭାଷଣ ଦେବା, ନିର୍ଦ୍ଦେଶ ଦେବା ଏବଂ ସମାଲୋଚନା କରିବା କିମ୍ବା କର୍ତ୍ତୃତ୍ଵ ପ୍ରତିପାଦନ କରିବା)। ବର୍ଗ ୮ ଏବଂ ୯ ହେଉଛି ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା ଏବଂ ବର୍ଗ ୧୦ ହେଉଛି ନୀରବତା କିମ୍ବା ବିଭ୍ରାନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783597100203-1",
+      "section": "Teaching Aptitude",
+      "topic": "Concept Attainment Model",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the 'Concept Attainment Model' (Reception Model) developed by Jerome Bruner, which of the following activities specifically occurs during Phase 3 (Analysis of Thinking Strategies)?",
+      "options": [
+        "The teacher presents labeled examples (positive and negative) to the students.",
+        "Students describe their thoughts and analyze the pattern of hypotheses they used to identify the concept.",
+        "Students generate new examples and identify them as positive or negative.",
+        "The teacher introduces the name of the concept and defines it."
+      ],
+      "answer": 1,
+      "explanation": "In Bruner's Concept Attainment Model (Reception Model), Phase 3 is the 'Analysis of Thinking Strategies'. In this phase, students analyze their cognitive processes by describing their thoughts, discussing how they developed their hypotheses, and evaluating whether they used a focus-gambling or simultaneous scanning strategy to arrive at the concept.",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ୍ ବ୍ରୁନର୍‌ଙ୍କ ଦ୍ଵାରା ବିକଶିତ 'କନସେପ୍ଟ ଆଟେନମେଣ୍ଟ ମଡେଲ' (ରିସେପ୍ସନ୍ ମଡେଲ) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ କାର୍ଯ୍ୟକଳାପ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ ପର୍ଯ୍ୟାୟ ୩ (ଚିନ୍ତାଧାରା କୌଶଳର ବିଶ୍ଳେଷଣ) ସମୟରେ ଘଟିଥାଏ?",
+          "options": [
+            "ଶିକ୍ଷକ ଛାତ୍ରମାନଙ୍କୁ ଚିହ୍ନିତ ଉଦାହରଣ (ସକାରାତ୍ମକ ଏବଂ ନକାରାତ୍ମକ) ପ୍ରଦାନ କରନ୍ତି।",
+            "ଛାତ୍ରମାନେ ସେମାନଙ୍କର ଚିନ୍ତାଧାରା ବର୍ଣ୍ଣନା କରନ୍ତି ଏବଂ ଧାରଣା ଚିହ୍ନଟ କରିବା ପାଇଁ ବ୍ୟବହାର କରିଥିବା ଅନୁମାନର ଶୈଳୀକୁ ବିଶ୍ଳେଷଣ କରନ୍ତି।",
+            "ଛାତ୍ରମାନେ ନୂତନ ଉଦାହରଣ ସୃଷ୍ଟି କରନ୍ତି ଏବଂ ସେଗୁଡିକୁ ସକାରାତ୍ମକ କିମ୍ବା ନକାରାତ୍ମକ ଭାବରେ ଚିହ୍ନଟ କରନ୍ତି।",
+            "ଶିକ୍ଷକ ଧାରଣାର ନାମ ଉପସ୍ଥାପନ କରନ୍ତି ଏବଂ ଏହାକୁ ସଂଜ୍ଞାବଦ୍ଧ କରନ୍ତି।"
+          ],
+          "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍‌ଙ୍କ କନସେପ୍ଟ ଆଟେନମେଣ୍ଟ ମଡେଲ୍ (ରିସେପ୍ସନ୍ ମଡେଲ୍) ରେ ତିନୋଟି ପର୍ଯ୍ୟାୟ ରହିଛି। ପର୍ଯ୍ୟାୟ ୧ ରେ ତଥ୍ୟର ଉପସ୍ଥାପନ ଏବଂ ଧାରଣାର ଚିହ୍ନଟୀକରଣ ହୁଏ। ପର୍ଯ୍ୟାୟ ୨ ରେ ଧାରଣା ପ୍ରାପ୍ତିର ପରୀକ୍ଷଣ ହୁଏ (ଛାତ୍ରମାନେ ନୂତନ ଉଦାହରଣ ଚିହ୍ନଟ କରନ୍ତି)। ପର୍ଯ୍ୟାୟ ୩ ରେ ଚିନ୍ତାଧାରା କୌଶଳର ବିଶ୍ଳେଷଣ ହୁଏ, ଯେଉଁଠାରେ ଛାତ୍ରମାନେ ସେମାନଙ୍କର ଚିନ୍ତାଧାରାକୁ ବର୍ଣ୍ଣନା କରନ୍ତି, ସେମାନେ ବ୍ୟବହାର କରିଥିବା ଅନୁମାନର ଶୈଳୀ ଏବଂ ଗୁଣଗୁଡିକୁ ବିଶ୍ଳେଷଣ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783597113271-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the Chairman of the Odisha Boundary Committee appointed in 1931 to demarcate the boundary of the proposed new province of Odisha?",
+      "options": [
+        "Sir Samuel O'Donnell",
+        "Sir John Austen Hubback",
+        "Philip Richard",
+        "C. L. Philip"
+      ],
+      "answer": 0,
+      "explanation": "The Odisha Boundary Committee (also known as the O'Donnell Committee) was appointed by the Government of India in 1931, with Sir Samuel O'Donnell as its Chairman, to examine and demarcate the boundaries of the proposed separate Odisha province.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରସ୍ତାବିତ ନୂତନ ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ ପାଇଁ ୧୯୩୧ ମସିହାରେ ଗଠିତ ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି (Odisha Boundary Committee) ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସାର୍ ସାମୁଏଲ୍ ଓ'ଡୋନେଲ୍",
+            "ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବ୍ୟାକ୍",
+            "ଫିଲିପ୍ ରିଚାର୍ଡ",
+            "ସି. ଏଲ୍. ଫିଲିପ୍"
+          ],
+          "explanation": "୧୯୩୧ ମସିହାରେ ଭାରତ ସରକାରଙ୍କ ଦ୍ୱାରା ଓଡ଼ିଶା ସୀମା କମିଟି (ଯାହା ଓ'ଡୋନେଲ୍ କମିଟି ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା) ଗଠିତ ହୋଇଥିଲା, ଯାହାର ଅଧ୍ୟକ୍ଷ ସାର୍ ସାମୁଏଲ୍ ଓ'ଡୋନେଲ୍ ଥିଲେ। ଏହି କମିଟି ପ୍ରସ୍ତାବିତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ ପାଇଁ କାର୍ଯ୍ୟ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783597113271-1",
+      "section": "General Studies",
+      "topic": "Medieval Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Treaty of Deogaon signed in December 1803, which Maratha ruler ceded the province of Cuttack (including Puri and Balasore) to the British East India Company?",
+      "options": [
+        "Raghoji Bhonsle II",
+        "Madhoji Bhonsle",
+        "Daulat Rao Scindia",
+        "Yashwant Rao Holkar"
+      ],
+      "answer": 0,
+      "explanation": "Following the defeat in the Second Anglo-Maratha War, Raghoji Bhonsle II of Nagpur signed the Treaty of Deogaon on December 17, 1803, ceding the province of Cuttack (which included coastal Odisha districts like Puri and Balasore) to the British East India Company.",
+      "translations": {
+        "or": {
+          "question": "ଡିସେମ୍ବର ୧୮୦୩ ରେ ସ୍ୱାକ୍ଷରିତ ଦେଓଗାଁ ଚୁକ୍ତି (Treaty of Deogaon) ଅନୁଯାୟୀ, କେଉଁ ମରାଠା ଶାସକ କଟକ ପ୍ରଦେଶ (ପୁରୀ ଏବଂ ବାଲେଶ୍ୱର ସମେତ) କୁ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀକୁ ହସ୍ତାନ୍ତର କରିଥିଲେ?",
+          "options": [
+            "ଦ୍ୱିତୀୟ ରଘୁଜୀ ଭୋଂସଲା",
+            "ମାଧୋଜୀ ଭୋଂସଲା",
+            "ଦୌଲତ ରାଓ ସିନ୍ଧିଆ",
+            "ଯଶବନ୍ତ ରାଓ ହୋଲକର"
+          ],
+          "explanation": "ଦ୍ୱିତୀୟ ଆଙ୍ଗ୍ଲୋ-ମରାଠା ଯୁଦ୍ଧରେ ପରାଜୟ ପରେ, ନାଗପୁରର ଦ୍ୱିତୀୟ ରଘୁଜୀ ଭୋଂସଲା ୧୭ ଡିସେମ୍ବର ୧୮୦୩ ରେ ଦେଓଗାଁ ଚୁକ୍ତି ସ୍ୱାକ୍ଷର କରିଥିଲେ, ଯାହା ଦ୍ୱାରା ସେ କଟକ ପ୍ରଦେଶକୁ (ଯେଉଁଥିରେ ପୁରୀ ଏବଂ ବାଲେଶ୍ୱର ସମେତ ସମୁଦ୍ର ଉପକୂଳବର୍ତ୍ତୀ ଓଡ଼ିଶା ଅନ୍ତର୍ଭୁକ୍ତ ଥିଲା) ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀକୁ ହସ୍ତାନ୍ତର କରିଥିଲେ।"
         }
       }
     }
