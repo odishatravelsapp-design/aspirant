@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2377,6 +2377,70 @@
       ],
       "answer": 1,
       "explanation": "The Liquidity Coverage Ratio (LCR) is a key Basel III metric that requires banks to hold sufficient high-quality liquid assets to survive a significant 30-day liquidity stress scenario. Net Stable Funding Ratio (NSFR), on the other hand, operates over a one-year horizon."
+    },
+    {
+      "id": "ibps-po-ai-1783684347793-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Train A of length L meters crosses a platform of length 1.5L meters in 25 seconds. Train B of length 1.2L meters crosses a pole in 12 seconds. If the speed of Train A is 72 km/h, in how many seconds will they cross each other while running in opposite directions?",
+      "options": [
+        "10 seconds",
+        "11 seconds",
+        "12 seconds",
+        "15 seconds"
+      ],
+      "answer": 1,
+      "explanation": "Speed of Train A = 72 km/h = 72 * (5/18) = 20 m/s. Train A crosses a platform of length 1.5L, so total distance covered = L + 1.5L = 2.5L. Distance = Speed * Time => 2.5L = 20 * 25 => 2.5L = 500 => L = 200 meters. Length of Train B = 1.2L = 1.2 * 200 = 240 meters. Train B crosses a pole in 12 seconds, so Speed of Train B = 240 / 12 = 20 m/s. When running in opposite directions, relative speed = Speed of A + Speed of B = 20 + 20 = 40 m/s. Total distance to cross each other = Length of A + Length of B = 200 + 240 = 440 meters. Time taken = 440 / 40 = 11 seconds."
+    },
+    {
+      "id": "ibps-po-ai-1783684347793-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper mixes two varieties of rice, Variety A costing Rs. 60/kg and Variety B costing Rs. X/kg in the ratio 3 : 2. He sells the mixture at Rs. 77/kg, thereby making a profit of 10%. If he had mixed them in the ratio 2 : 3 and sold the mixture at Rs. 72/kg, what would be his profit or loss percentage?",
+      "options": [
+        "4% profit",
+        "5% loss",
+        "4% loss",
+        "6% profit"
+      ],
+      "answer": 2,
+      "explanation": "Let the cost price of the first mixture be CP1. Since selling it at Rs. 77/kg yields a 10% profit, CP1 = 77 / 1.1 = Rs. 70/kg. Weighted average of the mixture: (3 * 60 + 2 * X) / 5 = 70 => 180 + 2X = 350 => 2X = 170 => X = 85. So, the cost price of Variety B is Rs. 85/kg. Now, in the second case, the ratio is 2 : 3. The cost price of this new mixture (CP2) = (2 * 60 + 3 * 85) / 5 = (120 + 255) / 5 = 375 / 5 = Rs. 75/kg. The new selling price is Rs. 72/kg. Since SP < CP, it is a loss. Loss percentage = [(75 - 72) / 75] * 100 = (3 / 75) * 100 = 4% loss."
+    },
+    {
+      "id": "ibps-po-ai-1783684451293-0",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Five persons - P, Q, R, S, and T - are sitting in a straight line facing North, each having a different age: 15, 20, 25, 30, and 35 years (not necessarily in the same order).\n\n1. Q sits at one of the extreme ends of the line.\n2. Two people sit between Q and the one whose age is 25 years.\n3. R sits second to the left of the one whose age is 25 years.\n4. S sits to the immediate right of the one whose age is 15 years.\n5. P sits in the middle of the row.\n6. The sum of the ages of Q and R is 55 years, and Q is older than R.\n\nWhat is the position of T with respect to the person whose age is 15 years?",
+      "options": [
+        "Second to the right",
+        "Immediate right",
+        "Third to the right",
+        "Second to the left"
+      ],
+      "answer": 0,
+      "explanation": "Let the positions from left to right be 1 to 5. Q sits at an extreme end. If Q is at position 5 (right end), the 25-year-old must be at position 3 (since two people sit between them). R sits second to the left of the 25-year-old, which puts R at position 1. P sits in the middle (position 3), which contradicts the 25-year-old being at position 3. Thus, Q must be at position 1. Since Q is at position 1, the 25-year-old is at position 4. R (second to the left of 25) is at position 2. P sits in the middle (position 3). S is to the immediate right of the 15-year-old, meaning the 15-year-old must be at position 3 (P) and S is at position 4 (age 25). The remaining position 5 is occupied by T. Since P (age 15) is at position 3 and T is at position 5, T is sitting second to the right of the person whose age is 15 years."
+    },
+    {
+      "id": "ibps-po-ai-1783684451293-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statement: To prevent the spread of a highly contagious water-borne disease, the state health department has issued an advisory to all citizens to drink only boiled water and avoid eating raw vegetables or street food for the next two months.\n\nAssumptions:\nI. Boiled water is safe from the pathogens causing this particular water-borne disease.\nII. Most citizens have the resources and capability to boil drinking water.\nIII. Street food and raw vegetables are potential carriers of the pathogens of this disease.\n\nWhich of the given assumptions is/are implicit in the statement?",
+      "options": [
+        "Only I and III are implicit",
+        "Only II and III are implicit",
+        "Only I and II are implicit",
+        "All I, II and III are implicit"
+      ],
+      "answer": 3,
+      "explanation": "Assumption I is implicit because advising citizens to drink boiled water to prevent the disease assumes that boiling effectively neutralizes the pathogen. Assumption II is implicit because a public health advisory assumes that the majority of the population has the capacity and means to follow the given directives. Assumption III is implicit because the warning specifically targets street food and raw vegetables to prevent transmission, implying they are potential vectors of the pathogen."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2473,6 +2473,70 @@
       ],
       "answer": 1,
       "explanation": "The Liquidity Coverage Ratio (LCR) is a key Basel III metric that requires banks to hold sufficient high-quality liquid assets to survive a significant 30-day liquidity stress scenario. Net Stable Funding Ratio (NSFR), on the other hand, operates over a one-year horizon."
+    },
+    {
+      "id": "sbi-clerk-ai-1783683901571-0",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and simple interest on a certain sum of money at 15% per annum for 2 years is Rs. 180. Find the simple interest on the same sum of money at 12% per annum for 3 years.",
+      "options": [
+        "Rs. 2,400",
+        "Rs. 2,560",
+        "Rs. 2,880",
+        "Rs. 3,240"
+      ],
+      "answer": 2,
+      "explanation": "For 2 years, the difference between compound interest and simple interest is given by the formula: Diff = P(r/100)^2, where P is the principal and r is the rate of interest. Given, Diff = Rs. 180 and r = 15%. Thus, 180 = P * (15/100)^2 => 180 = P * (3/20)^2 => 180 = P * (9/400) => P = (180 * 400) / 9 = Rs. 8,000. Now, we need to find the simple interest on Rs. 8,000 at 12% per annum for 3 years. SI = (P * R * T) / 100 = (8000 * 12 * 3) / 100 = 80 * 36 = Rs. 2,880."
+    },
+    {
+      "id": "sbi-clerk-ai-1783683901571-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two inlet pipes P and Q can fill a tank in 15 hours and 20 hours respectively, while an outlet pipe R can empty the completely filled tank in 12 hours. If pipe P is opened at 8:00 AM, Q is opened at 9:00 AM, and R is opened at 11:00 AM, at what time will the tank be completely filled?",
+      "options": [
+        "6:00 AM next day",
+        "10:00 AM next day",
+        "12:00 PM next day",
+        "8:00 AM next day"
+      ],
+      "answer": 3,
+      "explanation": "Let the total capacity of the tank be LCM(15, 20, 12) = 60 units. Efficiency of P = +4 units/hr, Efficiency of Q = +3 units/hr, Efficiency of R = -5 units/hr. From 8:00 AM to 9:00 AM (1 hour), only P is open. Water filled = 4 * 1 = 4 units. From 9:00 AM to 11:00 AM (2 hours), P and Q are open. Water filled = (4 + 3) * 2 = 14 units. Total water filled by 11:00 AM = 4 + 14 = 18 units. Remaining capacity to be filled = 60 - 18 = 42 units. After 11:00 AM, P, Q, and R are all open. Net efficiency = 4 + 3 - 5 = +2 units/hr. Time required to fill the remaining 42 units = 42 / 2 = 21 hours. 21 hours from 11:00 AM is 8:00 AM the next day."
+    },
+    {
+      "id": "sbi-clerk-ai-1783684042880-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Study the following alphanumeric sequence carefully and answer the question: \n\nB 5 $ E 2 # K 8 * I 9 @ U 6 & P 3 %\n\nHow many such numbers are there in the given arrangement, each of which is immediately preceded by a consonant and immediately followed by a symbol?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "More than three"
+      ],
+      "answer": 2,
+      "explanation": "We need to find the pattern: Consonant -> Number -> Symbol.\nLet's analyze each number in the sequence:\n1. '5' is preceded by 'B' (consonant) and followed by '$' (symbol). [Match 1]\n2. '2' is preceded by 'E' (vowel) and followed by '#'. [No]\n3. '8' is preceded by 'K' (consonant) and followed by '*'. [Match 2]\n4. '9' is preceded by 'I' (vowel) and followed by '@'. [No]\n5. '6' is preceded by 'U' (vowel) and followed by '&'. [No]\n6. '3' is preceded by 'P' (consonant) and followed by '%'. [Match 3]\n\nThere are exactly three such numbers (5, 8, and 3)."
+    },
+    {
+      "id": "sbi-clerk-ai-1783684042880-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A certain number of persons sit in a linear row facing North. P sits fourth to the left of Q. Three persons sit between Q and R. S sits third to the right of R. S sits to the left of Q. The number of persons sitting between P and S is the same as the number of persons sitting to the right of S. Only two persons sit to the left of P. How many persons are sitting in the row?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "Let's represent the positions from left to right starting from position 1:\n1. 'Only two persons sit to the left of P' means P is at position 3.\n2. 'P sits fourth to the left of Q' means Q is at position 3 + 4 = 7.\n3. 'Three persons sit between Q and R' means R can be at position 3 (left of Q) or position 11 (right of Q).\n4. 'S sits third to the right of R'. If R is at 11, S is at 14 (which places S to the right of Q). But we are given 'S sits to the left of Q'. Thus, R must be at position 3 (same position as P), making S sit at position 3 + 3 = 6.\n5. 'The number of persons sitting between P (pos 3) and S (pos 6) is the same as the number of persons sitting to the right of S'. There are 2 persons (at positions 4 and 5) between P and S. Therefore, there must be exactly 2 persons to the right of S (at positions 7 and 8).\nThus, the total number of persons in the row is 8."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2652,6 +2652,38 @@
       ],
       "answer": 1,
       "explanation": "The Liquidity Coverage Ratio (LCR) is a key Basel III metric that requires banks to hold sufficient high-quality liquid assets to survive a significant 30-day liquidity stress scenario. Net Stable Funding Ratio (NSFR), on the other hand, operates over a one-year horizon."
+    },
+    {
+      "id": "ibps-clerk-ai-1783683862293-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the given sentence:\n\n'The central bank's decision to ________ interest rates was met with ________ from retail investors who were hoping for higher returns on their savings.'",
+      "options": [
+        "slash, dismay",
+        "elevate, chagrin",
+        "freeze, jubilation",
+        "hike, disappointment"
+      ],
+      "answer": 0,
+      "explanation": "The sentence indicates that retail investors were hoping for 'higher returns'. Therefore, a decision to lower (slash) interest rates would result in distress or disappointment (dismay). 'Elevate' and 'hike' would please investors seeking higher returns, making 'chagrin' and 'disappointment' contextually incorrect. 'Freeze' (keeping rates the same) would not cause 'jubilation' for those hoping for higher returns."
+    },
+    {
+      "id": "ibps-clerk-ai-1783683862294-1",
+      "section": "English",
+      "topic": "Grammar (Subjunctive Mood)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blank with the grammatically correct option:\n\n'The board of directors insisted that the CEO __________ his resignation immediately to restore public trust.'",
+      "options": [
+        "tender",
+        "tenders",
+        "will tender",
+        "tendered"
+      ],
+      "answer": 0,
+      "explanation": "The verb 'insist' is a demand/recommendation verb that triggers the subjunctive mood in the subsequent 'that'-clause. In the subjunctive mood, the base form of the verb ('tender') is used for all subjects, including third-person singular subjects like 'the CEO'. Therefore, 'tender' is correct, not 'tenders'."
     }
   ]
 }
