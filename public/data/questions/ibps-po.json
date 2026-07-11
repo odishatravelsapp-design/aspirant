@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2441,6 +2441,136 @@
       ],
       "answer": 3,
       "explanation": "Assumption I is implicit because advising citizens to drink boiled water to prevent the disease assumes that boiling effectively neutralizes the pathogen. Assumption II is implicit because a public health advisory assumes that the majority of the population has the capacity and means to follow the given directives. Assumption III is implicit because the warning specifically targets street food and raw vegetables to prevent transmission, implying they are potential vectors of the pathogen."
+    },
+    {
+      "id": "ibps-po-ai-1783754973702-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership. A invests Rs. 12,000 for 8 months, B invests Rs. 16,000 for 9 months and C invests Rs. 15,000 for x months. If the ratio of C's profit share to the total profit is 5 : 13, find the value of x.",
+      "options": [
+        "6 months",
+        "8 months",
+        "10 months",
+        "12 months"
+      ],
+      "answer": 2,
+      "explanation": "Equivalent investment of A = 12000 * 8 = Rs. 96,000. Equivalent investment of B = 16000 * 9 = Rs. 1,44,000. Equivalent investment of C = 15000 * x. Total equivalent investment = 96000 + 144000 + 15000x = 240000 + 15000x. The ratio of C's profit to total profit is given as: 15000x / (240000 + 15000x) = 5/13. Dividing the numerator and denominator of the left-hand side by 15000 gives: x / (16 + x) = 5/13. Solving for x: 13x = 80 + 5x => 8x = 80 => x = 10."
+    },
+    {
+      "id": "ibps-po-ai-1783754973702-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains A and B start simultaneously from stations P and Q respectively towards each other. After crossing each other, they take 4 hours 48 minutes and 3 hours 20 minutes to reach Q and P respectively. If train A is running at a speed of 45 km/h, find the distance between stations P and Q.",
+      "options": [
+        "360 km",
+        "396 km",
+        "412 km",
+        "432 km"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of train A be S_A and train B be S_B. The time taken by A after meeting to reach Q is T_A = 4 hours 48 minutes = 24/5 hours. The time taken by B after meeting to reach P is T_B = 3 hours 20 minutes = 10/3 hours. The ratio of their speeds is S_A / S_B = sqrt(T_B / T_A) = sqrt((10/3) / (24/5)) = sqrt(25/36) = 5/6. Since S_A = 45 km/h, we get S_B = (6/5) * 45 = 54 km/h. The meeting time (t) is given by t = sqrt(T_A * T_B) = sqrt((24/5) * (10/3)) = sqrt(16) = 4 hours. Distance between P and Q = (S_A * t) + (S_B * t) = (45 * 4) + (54 * 4) = 180 + 216 = 396 km."
+    },
+    {
+      "id": "ibps-po-ai-1783754994785-0",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning - Course of Action",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statement: During the peak festive season, a leading public sector bank's mobile banking application crashed multiple times, leading to severe customer dissatisfaction and a surge in negative reviews on social media.\n\nCourses of Action:\nI. The bank should immediately set up a dedicated technical team to identify the server capacity issues and deploy temporary patches to handle the heavy traffic.\nII. The bank should suspend all mobile banking services until the festive season is over to avoid further technical glitches.\nIII. The bank's public relations team should issue an official statement acknowledging the issue, apologizing to customers, and providing updates on the restoration process.",
+      "options": [
+        "Only I follows",
+        "Only I and III follow",
+        "Only II and III follow",
+        "All I, II, and III follow"
+      ],
+      "answer": 1,
+      "explanation": "Course of Action I is an immediate and necessary technical response to mitigate the ongoing system crash. Course of Action II is extreme, as suspending all mobile banking services during the peak festive season would cause even greater financial loss and severely damage customer trust. Course of Action III is a vital communication strategy to manage reputation and keep customers informed. Therefore, only I and III follow."
+    },
+    {
+      "id": "ibps-po-ai-1783754994785-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, the symbols @, $, *, % and # are used with the following meanings:\n'P @ Q' means 'P is not smaller than Q'\n'P $ Q' means 'P is neither smaller than nor equal to Q'\n'P * Q' means 'P is neither smaller than nor greater than Q'\n'P % Q' means 'P is neither greater than nor equal to Q'\n'P # Q' means 'P is not greater than Q'\n\nNow, assuming the given statements to be true, find which of the conclusions I, II and III is/are definitely true.\n\nStatements: P @ Q, Q $ R, R * S, T % S\n\nConclusions:\nI. P $ S\nII. Q $ T\nIII. P * R",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All I, II and III follow"
+      ],
+      "answer": 0,
+      "explanation": "Let's decode the symbols:\n@ means '>='\n$ means '>'\n* means '='\n% means '<'\n# means '<='\n\nStatements decode to:\nP >= Q\nQ > R\nR = S\nT < S (which means S > T)\n\nCombining these: P >= Q > R = S > T\n\nChecking Conclusions:\nI. P $ S => P > S. Since P >= Q > R = S, we get P > S. This is true.\nII. Q $ T => Q > T. Since Q > R = S > T, we get Q > T. This is true.\nIII. P * R => P = R. Since P >= Q > R, P must be strictly greater than R, so P = R is false.\n\nThus, only I and II follow."
+    },
+    {
+      "id": "ibps-po-ai-1783755015949-0",
+      "section": "English",
+      "topic": "Match the Columns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are given containing three clauses each. A clause from Column 1 may or may not connect with a clause from Column 2 to form a grammatically correct and contextually meaningful sentence. Choose the option that represents the correct combinations.\n\nColumn 1:\nA. The central bank's decision to slash interest rates was aimed at stimulating economic growth,\nB. Despite the severe backlash from the local community regarding environmental hazards,\nC. Economists argue that structural reforms in the labor market are essential\n\nColumn 2:\nD. the municipal corporation went ahead with the waste incineration plant.\nE. but it may also run the risk of stoking inflationary pressures in the medium term.\nF. to foster long-term competitiveness and attract foreign direct investment.",
+      "options": [
+        "A-E and B-D",
+        "B-F and C-E",
+        "A-E, B-D and C-F",
+        "A-F and B-D"
+      ],
+      "answer": 2,
+      "explanation": "Let us evaluate the connections:\n1. Clause A ends with a comma and introduces a measure ('decision to slash interest rates') aimed at growth. Clause E starts with the conjunction 'but' and highlights a contrasting risk ('stoking inflationary pressures'). 'it' in clause E correctly refers back to the 'decision' in clause A. Thus, A-E is grammatically and contextually correct.\n2. Clause B is an introductory concessive phrase ('Despite the severe backlash...'). It naturally resolves into the main clause in D ('the municipal corporation went ahead...'), showing contrast. Thus, B-D is correct.\n3. Clause C states 'structural reforms ... are essential'. This is grammatically completed by the infinitive purpose clause in F ('to foster long-term competitiveness...'). Thus, C-F is correct.\nSince all three pairs (A-E, B-D, and C-F) are correct, Option C is the right answer."
+    },
+    {
+      "id": "ibps-po-ai-1783755015949-1",
+      "section": "English",
+      "topic": "Paragraph Coherence",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, four sentences are given. Three of them, when arranged, form a coherent paragraph on a specific theme, while one does not fit. Identify the sentence that is the ODD ONE OUT.",
+      "options": [
+        "The integration of artificial intelligence in healthcare has revolutionized diagnostic accuracy, enabling early detection of life-threatening anomalies.",
+        "AI algorithms can process vast amounts of patient data, including imaging and genetic sequences, far quicker than human radiologists.",
+        "This technological leap, however, raises critical concerns regarding patient data privacy and the ethical implications of algorithmic bias.",
+        "In contrast, the implementation of electronic health records has significantly reduced the administrative burden on nursing staff over the past decade."
+      ],
+      "answer": 3,
+      "explanation": "The sentences are analyzed as follows:\n- Sentence A introduces the revolution in clinical diagnostics through AI.\n- Sentence B elaborates on how these AI algorithms function (processing clinical patient data).\n- Sentence C addresses the ethical and privacy concerns of this specific 'technological leap' (AI in diagnostic healthcare).\nTogether, A, B, and C form a coherent sequence focusing strictly on the benefits and challenges of clinical AI diagnostics. Sentence D, however, shifts the topic to the administrative benefits of Electronic Health Records (EHRs) for nurses. Although broadly healthcare-related, it deviates from the specific theme of clinical diagnostic AI, making it the odd one out."
+    },
+    {
+      "id": "ibps-po-ai-1783755031838-0",
+      "section": "General Awareness",
+      "topic": "Sovereign Gold Bond Scheme",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme, what is the maximum limit of subscription per fiscal year (April-March) for an individual investor?",
+      "options": [
+        "1 kg",
+        "2 kg",
+        "4 kg",
+        "20 kg"
+      ],
+      "answer": 2,
+      "explanation": "Under the Sovereign Gold Bond (SGB) Scheme guidelines issued by the Government of India and the RBI, the maximum limit of subscription is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities per fiscal year.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783755031838-1",
+      "section": "General Awareness",
+      "topic": "NBFC Prompt Corrective Action Framework",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Prompt Corrective Action (PCA) Framework for Non-Banking Financial Companies (NBFCs) issued by the Reserve Bank of India, which of the following is NOT one of the primary financial indicators used to monitor and trigger corrective action?",
+      "options": [
+        "Capital to Risk Weighted Assets Ratio (CRAR)",
+        "Tier I Capital Ratio",
+        "Net Non-Performing Assets (Net NPA) ratio",
+        "Debt Service Coverage Ratio (DSCR)"
+      ],
+      "answer": 3,
+      "explanation": "The RBI's PCA framework for NBFCs focuses on capital adequacy (CRAR and Tier I Capital Ratio) and asset quality (Net NPA ratio) as key indicators. Debt Service Coverage Ratio (DSCR) is not a parameter under the PCA framework for NBFCs.",
+      "status": "pending"
     }
   ]
 }

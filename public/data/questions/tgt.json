@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -992,6 +992,62 @@
       ],
       "answer": 1,
       "explanation": "The 'Misinformation Effect' is a classic cognitive phenomenon researched extensively by Elizabeth Loftus, demonstrating that eyewitness testimony can be easily manipulated by planting subtle, misleading information during post-event questioning."
+    },
+    {
+      "id": "tgt-ai-1783756288747-0",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Kuno National Park, which was in the news for the Cheetah Reintroduction Project, is located in which of the following Indian states?",
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "Kuno National Park is located in the Sheopur and Morena districts of Madhya Pradesh. It was selected for the Cheetah Reintroduction Project, where cheetahs brought from Namibia and South Africa were released into the wild.",
+      "translations": {
+        "or": {
+          "question": "ଚିତାବାଘ ପୁନର୍ବିନ୍ୟାସ ପ୍ରକଳ୍ପ (Cheetah Reintroduction Project) ପାଇଁ ଚର୍ଚ୍ଚାରେ ଥିବା କୁନୋ ଜାତୀୟ ଉଦ୍ୟାନ (Kuno National Park) ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଭାରତୀୟ ରାଜ୍ୟରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ରାଜସ୍ଥାନ",
+            "ମଧ୍ୟପ୍ରଦେଶ",
+            "ଗୁଜରାଟ",
+            "ଉତ୍ତରପ୍ରଦେଶ"
+          ],
+          "explanation": "କୁନୋ ଜାତୀୟ ଉଦ୍ୟାନ ମଧ୍ୟପ୍ରଦେଶର ଶିଓପୁର ଏବଂ ମୋରେନା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଚିତା ପୁନର୍ବିନ୍ୟାସ ପ୍ରକଳ୍ପ ପାଇଁ ଏହାକୁ ଚୟନ କରାଯାଇଥିଲା, ଯେଉଁଠାରେ ନାମିବିଆ ଏବଂ ଦକ୍ଷିଣ ଆଫ୍ରିକାରୁ ଅଣାଯାଇଥିବା ଚିତାବାଘଗୁଡ଼ିକୁ ଜଙ୍ଗଲରେ ଛଡ଼ାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783756288747-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following established the 'Atmiya Sabha' in Calcutta in the year 1815?",
+      "options": [
+        "Raja Ram Mohan Roy",
+        "Debendranath Tagore",
+        "Keshab Chandra Sen",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "answer": 0,
+      "explanation": "Raja Ram Mohan Roy established the Atmiya Sabha (Society of Friends) in Calcutta in 1815 to conduct philosophical discussions on monotheistic ideals and to campaign against social evils and orthodox rituals.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ବ୍ୟକ୍ତିମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ୧୮୧୫ ମସିହାରେ କଲିକତାରେ 'ଆତ୍ମୀୟ ସଭା' ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ରାଜା ରାମମୋହନ ରାୟ",
+            "ଦେବେନ୍ଦ୍ରନାଥ ଠାକୁର",
+            "କେଶବ ଚନ୍ଦ୍ର ସେନ",
+            "ଈଶ୍ୱର ଚନ୍ଦ୍ର ବିଦ୍ୟାସାଗର"
+          ],
+          "explanation": "ରାଜା ରାମମୋହନ ରାୟ ୧୮୧୫ ମସିହାରେ କଲିକତାରେ ଆତ୍ମୀୟ ସଭା ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ଏହାର ଉଦ୍ଦେଶ୍ୟ ଥିଲା ଏକେଶ୍ୱରବାଦୀ ଆଦର୍ଶ ଉପରେ ଦାର୍ଶନିକ ଆଲୋଚନା କରିବା ଏବଂ ସାମାଜିକ କୁସଂସ୍କାର ତଥା ରକ୍ଷଣଶୀଳ ରୀତିନୀତି ବିରୁଦ୍ଧରେ ସ୍ୱର ଉତ୍ତୋଳନ କରିବା।"
+        }
+      }
     }
   ]
 }

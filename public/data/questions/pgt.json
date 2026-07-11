@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -2176,6 +2176,118 @@
       ],
       "answer": 1,
       "explanation": "The 'Misinformation Effect' is a classic cognitive phenomenon researched extensively by Elizabeth Loftus, demonstrating that eyewitness testimony can be easily manipulated by planting subtle, misleading information during post-event questioning."
+    },
+    {
+      "id": "pgt-ai-1783755259671-0",
+      "section": "Teaching Aptitude",
+      "topic": "Gagne's Conditions of Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Robert Gagne's Hierarchy of Learning, which of the following is considered the highest level of learning?",
+      "options": [
+        "Rule Learning",
+        "Concept Learning",
+        "Problem Solving",
+        "Verbal Association"
+      ],
+      "answer": 2,
+      "explanation": "According to Robert Gagne's cumulative learning theory, there are eight hierarchical levels of learning. 'Problem Solving' is the eighth and highest level, which involves using previously learned rules to solve novel problems.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗନେଙ୍କ ଶିକ୍ଷଣ ଶ୍ରେଣୀବିଭାଗରେ (Hierarchy of Learning), ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ସର୍ବୋଚ୍ଚ ସ୍ତରର ଶିକ୍ଷଣ ଭାବରେ ବିବେଚନା କରାଯାଏ?",
+          "options": [
+            "ନିୟମ ଶିକ୍ଷଣ",
+            "ଧାରଣା ଶିକ୍ଷଣ",
+            "ସମସ୍ୟା ସମାଧାନ",
+            "ଶାବ୍ଦିକ ସାହଚର୍ଯ୍ୟ"
+          ],
+          "explanation": "ରବର୍ଟ ଗାଗନେଙ୍କ କ୍ରମବର୍ଦ୍ଧିଷ୍ଣୁ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ଶିକ୍ଷଣର ଆଠଟି ଶ୍ରେଣୀଗତ ସ୍ତର ରହିଛି। 'ସମସ୍ୟା ସମାଧାନ' ହେଉଛି ଅଷ୍ଟମ ଏବଂ ସର୍ବୋଚ୍ଚ ସ୍ତର, ଯେଉଁଥିରେ ନୂତନ ସମସ୍ୟାର ସମାଧାନ ପାଇଁ ପୂର୍ବରୁ ଶିଖିଥିବା ନିୟମଗୁଡ଼ିକର ପ୍ରୟୋଗ ଅନ୍ତର୍ଭୁକ୍ତ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783755259671-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders' Interaction Analysis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS), which of the following categories represents 'Teacher Talk' that is indirect in nature?",
+      "options": [
+        "Giving directions",
+        "Criticizing or justifying authority",
+        "Accepting or using ideas of pupils",
+        "Lecturing"
+      ],
+      "answer": 2,
+      "explanation": "In Flanders' 10-category system, Teacher Talk is divided into Indirect Influence (Categories 1-4) and Direct Influence (Categories 5-7). Category 3, 'Accepting or using ideas of pupils', is a form of indirect teacher talk. Lecturing (5), giving directions (6), and criticizing (7) are classified as direct influence.",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ବର୍ଗୀକରଣ ପ୍ରଣାଳୀ (FIACS) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ବର୍ଗଟି ପରୋକ୍ଷ ପ୍ରକୃତିର 'ଶିକ୍ଷକ ଆଳାପ' (Teacher Talk) କୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ନିର୍ଦ୍ଦେଶ ଦେବା",
+            "ସମାଲୋଚନା କରିବା କିମ୍ବା କର୍ତ୍ତୃତ୍ୱ ଜାହିର କରିବା",
+            "ଛାତ୍ରମାନଙ୍କ ଚିନ୍ତାଧାରାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା",
+            "ବକ୍ତୃତା ଦେବା"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ୧୦-ବର୍ଗ ପ୍ରଣାଳୀରେ, ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତାକୁ ପରୋକ୍ଷ ପ୍ରଭାବ (ବର୍ଗ ୧-୪) ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ (ବର୍ଗ ୫-୭) ରେ ବିଭକ୍ତ କରାଯାଇଛି। ବର୍ଗ ୩, 'ଛାତ୍ରମାନଙ୍କ ଚିନ୍ତାଧାରାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା', ହେଉଛି ପରୋକ୍ଷ ଶିକ୍ଷକ କଥାବାର୍ତ୍ତାର ଏକ ରୂପ। ବକ୍ତୃତା ଦେବା (୫), ନିର୍ଦ୍ଦେଶ ଦେବା (୬) ଏବଂ ସମାଲୋଚନା କରିବା (୭) ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ ଅଧୀନରେ ଆସିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783755339913-0",
+      "section": "Child Development",
+      "topic": "Social Cognitive Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Albert Bandura's Social Cognitive Theory, which three factors interact continuously in a triadic reciprocal causation model to influence human behavior?",
+      "options": [
+        "Behavior, personal factors (including cognitive/biological), and environmental influences",
+        "Heredity, environment, and developmental milestones",
+        "Ego, superego, and id",
+        "Schema, assimilation, and accommodation"
+      ],
+      "answer": 0,
+      "explanation": "Albert Bandura's model of triadic reciprocal causation proposes that human behavior is influenced by the continuous, bidirectional interaction of three factors: behavior, internal personal factors (including cognitive, affective, and biological events), and environmental influences.",
+      "translations": {
+        "or": {
+          "question": "ଆଲବର୍ଟ ବାନ୍ଦୁରାଙ୍କ ସାମାଜିକ ଜ୍ଞାନାତ୍ମକ ସିଦ୍ଧାନ୍ତ (Social Cognitive Theory) ଅନୁଯାୟୀ, ମାନବ ଆଚରଣକୁ ପ୍ରଭାବିତ କରିବା ପାଇଁ କେଉଁ ତିନୋଟି କାରକ ଏକ ତ୍ରିପାକ୍ଷିକ ପାରସ୍ପରିକ କାରଣ ମଡେଲରେ କ୍ରମାଗତ ଭାବରେ ପ୍ରତିକ୍ରିୟା କରନ୍ତି?",
+          "options": [
+            "ଆଚରଣ, ବ୍ୟକ୍ତିଗତ କାରକ (ଜ୍ଞାନାତ୍ମକ/ଜୈବିକ ସହିତ), ଏବଂ ପରିବେଶ ପ୍ରଭାବ",
+            "ବଂଶାନୁକ୍ରମ, ପରିବେଶ, ଏବଂ ବିକାଶମୂଳକ ମାଇଲଖୁଣ୍ଟ",
+            "ଅହଂ (Ego), ପରମହଂ (Superego), ଏବଂ ଅବଚେତନ (Id)",
+            "ସ୍କିମା, ଆତ୍ମୀକରଣ (Assimilation), ଏବଂ ସମାୟୋଜନ (Accommodation)"
+          ],
+          "explanation": "ବାନ୍ଦୁରାଙ୍କ ତ୍ରିପାକ୍ଷିକ ପାରସ୍ପରିକ କାରଣ ମଡେଲ ଦର୍ଶାଏ ଯେ ଆଚରଣ, ବ୍ୟକ୍ତିଗତ କାରକ (ଜ୍ଞାନାତ୍ମକ ଏବଂ ଜୈବିକ ଘଟଣା ସହିତ) ଏବଂ ପରିବେଶ ପ୍ରଭାବ ପରସ୍ପରକୁ ଦ୍ୱିମୁଖୀ ଭାବରେ ପ୍ରଭାବିତ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783755339913-1",
+      "section": "Child Development",
+      "topic": "Piaget's Cognitive Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Jean Piaget's theory of cognitive development, the term 'horizontal décalage' refers to which of the following phenomena?",
+      "options": [
+        "A child's ability to transfer learning from one cultural context to another.",
+        "The developmental lag in applying a specific cognitive operation to different tasks or concepts requiring the same logical structure.",
+        "The progression from sensorimotor coordination to symbolic representation.",
+        "The synchronization of cognitive growth across different domains like language and spatial reasoning."
+      ],
+      "answer": 1,
+      "explanation": "Horizontal décalage is a concept in Piaget's theory representing the phenomenon where a child can master a certain logical task (like conservation of mass) but cannot immediately apply the same logical operation to a different domain (like conservation of volume), despite both requiring the same concrete operational structures.",
+      "translations": {
+        "or": {
+          "question": "ଜିନ୍ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତରେ, 'ହରିଜଣ୍ଟାଲ୍ ଡେକାଲେଜ୍' (horizontal décalage) ଶବ୍ଦଟି ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପ୍ରକ୍ରିୟାକୁ ବୁଝାଏ?",
+          "options": [
+            "ଗୋଟିଏ ସାଂସ୍କୃତିକ ପ୍ରସଙ୍ଗରୁ ଅନ୍ୟ ଏକ ପ୍ରସଙ୍ଗକୁ ଶିକ୍ଷଣ ସ୍ଥାନାନ୍ତର କରିବାରେ ଏକ ଶିଶୁର ଦକ୍ଷତା।",
+            "ସମାନ ଯୌକ୍ତିକ ଗଠନ ଆବଶ୍ୟକ କରୁଥିବା ବିଭିନ୍ନ କାର୍ଯ୍ୟ ବା ଧାରଣାଗୁଡ଼ିକରେ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ଜ୍ଞାନାତ୍ମକ କାର୍ଯ୍ୟ ପ୍ରୟୋଗ କରିବାରେ ବିକାଶମୂଳକ ବିଳମ୍ବ।",
+            "ସେନ୍ସରିମୋଟର ସମନ୍ୱୟରୁ ପ୍ରତୀକାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ ଆଡକୁ ଅଗ୍ରଗତି।",
+            "ଭାଷା ଏବଂ ସ୍ଥାନିକ ଚିନ୍ତନ ଭଳି ବିଭିନ୍ନ କ୍ଷେତ୍ରରେ ଜ୍ଞାନାତ୍ମକ ବିକାଶର ସମକାଳୀନତା।"
+          ],
+          "explanation": "ହରିଜଣ୍ଟାଲ୍ ଡେକାଲେଜ୍ ହେଉଛି ପିଆଜେଙ୍କ ସିଦ୍ଧାନ୍ତର ଏକ ଧାରଣା ଯାହା ଦର୍ଶାଏ ଯେ ଶିଶୁମାନେ ସମାନ ଯୌକ୍ତିକ ଗଠନ (ଯେପରିକି ସଂରକ୍ଷଣ/conservation) ଥିବା କାର୍ଯ୍ୟଗୁଡ଼ିକୁ ସମାନ ସମୟରେ ହାସଲ କରିପାରନ୍ତି ନାହିଁ; ଉଦାହରଣ ସ୍ୱରୂପ, ସେମାନେ ଓଜନ ସଂରକ୍ଷଣ ପୂର୍ବରୁ ବସ୍ତୁତ୍ୱ ସଂରକ୍ଷଣ ଶିଖନ୍ତି।"
+        }
+      }
     }
   ]
 }

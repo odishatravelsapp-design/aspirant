@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2684,6 +2684,136 @@
       ],
       "answer": 0,
       "explanation": "The verb 'insist' is a demand/recommendation verb that triggers the subjunctive mood in the subsequent 'that'-clause. In the subjunctive mood, the base form of the verb ('tender') is used for all subjects, including third-person singular subjects like 'the CEO'. Therefore, 'tender' is correct, not 'tenders'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754768479-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership. A invests a certain amount. B invests double the amount of A after 4 months. C invests thrice the amount of A after 8 months from the start. If the annual profit is Rs. 27,000, what is C's share of the profit?",
+      "options": [
+        "Rs. 8,100",
+        "Rs. 9,000",
+        "Rs. 10,800",
+        "Rs. 7,200"
+      ],
+      "answer": 0,
+      "explanation": "Let A's investment be x for 12 months. Equivalent investment of A = 12x. B invests 2x for 8 months (12 - 4 months). Equivalent investment of B = 16x. C invests 3x for 4 months (12 - 8 months). Equivalent investment of C = 12x. The ratio of their profit shares is A : B : C = 12x : 16x : 12x = 3 : 4 : 3. Total parts = 3 + 4 + 3 = 10. C's share = (3/10) * Rs. 27,000 = Rs. 8,100."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754768479-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio of 7 : 5. If 9 liters of this mixture is drawn off and replaced with 9 liters of water, the ratio of milk to water becomes 7 : 9. How many liters of milk was contained in the vessel initially?",
+      "options": [
+        "18 liters",
+        "21 liters",
+        "24 liters",
+        "28 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial quantities of milk and water be 7x and 5x respectively. Total initial volume is 12x. When 9 liters of mixture is removed, the remaining volume is (12x - 9). In this remaining mixture, the ratio of milk to water remains 7 : 5. Milk left = 7/12 * (12x - 9) = 7x - 5.25. Water left = 5/12 * (12x - 9) = 5x - 3.75. After adding 9 liters of water, the new water quantity is (5x - 3.75 + 9) = 5x + 5.25. The new ratio is (7x - 5.25) / (5x + 5.25) = 7/9. Cross-multiplying gives 9(7x - 5.25) = 7(5x + 5.25) => 63x - 47.25 = 35x + 36.75 => 28x = 84 => x = 3. Therefore, the initial quantity of milk was 7x = 7 * 3 = 21 liters."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754787539-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'GUIDE' is written as 'ISGFC'. How will 'SHINE' be written in that same code language?",
+      "options": [
+        "UJGPC",
+        "TIHOD",
+        "UJFPC",
+        "VKGQD"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed here is: Consonants are shifted by +2 positions in the alphabetical order, while vowels are shifted by -2 positions. Let's apply this to 'GUIDE': G(consonant, +2) = I; U(vowel, -2) = S; I(vowel, -2) = G; D(consonant, +2) = F; E(vowel, -2) = C. Thus, GUIDE becomes ISGFC. Applying the same logic to 'SHINE': S(consonant, +2) = U; H(consonant, +2) = J; I(vowel, -2) = G; N(consonant, +2) = P; E(vowel, -2) = C. Therefore, 'SHINE' is coded as 'UJGPC'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754787539-1",
+      "section": "Reasoning",
+      "topic": "Distance and Direction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Karan starts walking from Point P towards the East. After walking 15 meters, he reaches Point Q. From Q, he turns left and walks 10 meters to reach Point R. From R, he turns right and walks 5 meters to reach Point S. From S, he turns right and walks 18 meters to reach Point T. From T, he walks 20 meters towards the West and stops at Point U. What is the shortest distance between Point P and Point U, and in which direction is Point U with respect to Point P?",
+      "options": [
+        "8 meters, South",
+        "10 meters, South-West",
+        "8 meters, North",
+        "12 meters, South"
+      ],
+      "answer": 0,
+      "explanation": "Let us trace Karan's path starting from P at coordinate (0, 0):\n1. P to Q: 15 m East -> Q is at (15, 0).\n2. Q to R: 10 m North -> R is at (15, 10).\n3. R to S: 5 m East -> S is at (20, 10).\n4. S to T: 18 m South -> T is at (20, -8).\n5. T to U: 20 m West -> U is at (0, -8).\nPoint U is at (0, -8) relative to Point P (0, 0). Thus, the shortest distance is 8 meters, and Point U is directly South of Point P."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754804100-0",
+      "section": "English",
+      "topic": "Grammar & Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the grammatically correct sentence from the options given below.",
+      "options": [
+        "Neither of the candidates who was interviewed yesterday are qualified for the job.",
+        "The jury were divided in their opinions regarding the verdict of the high-profile case.",
+        "Two-thirds of the book have been read by the student before the exams commenced.",
+        "The administrator, along with his assistants, have completed the audit of the branches."
+      ],
+      "answer": 1,
+      "explanation": "In option B, the collective noun 'jury' refers to the members acting individually (as indicated by 'divided' and 'their opinions'), which correctly takes a plural verb 'were' and plural pronoun 'their'. In A, it should be 'candidates who were' and 'is qualified'. In C, 'Two-thirds of the book' is a singular quantity and should take 'has'. In D, 'along with his assistants' is parenthetical, so the singular subject 'administrator' requires 'has'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754804100-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blanks with the most appropriate pair of words from the options given below to make the sentence contextually and grammatically meaningful:\n\n'The bank's decision to ________ interest rates was met with resistance from retail borrowers, who argued that it would further ________ their financial burden.'",
+      "options": [
+        "slash, alleviate",
+        "hike, exacerbate",
+        "reduce, compound",
+        "raise, mitigate"
+      ],
+      "answer": 1,
+      "explanation": "The context indicates that the bank's action met with resistance from borrowers because it would increase their financial stress. Therefore, the first blank must mean 'increase' and the second must mean 'worsen'. 'Hike' (to increase) and 'exacerbate' (to make a bad situation worse) fit these requirements perfectly. Other options either present contradictory pairs (like slash/alleviate) or do not fit the logical flow of the sentence."
+    },
+    {
+      "id": "ibps-clerk-ai-1783754818902-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) scheme, what is the current rate of premium per annum payable by insured banks on their total assessable deposits?",
+      "options": [
+        "10 paise per ₹100",
+        "12 paise per ₹100",
+        "15 paise per ₹100",
+        "20 paise per ₹100"
+      ],
+      "answer": 1,
+      "explanation": "With effect from April 1, 2020, the DICGC raised the premium rate from 10 paise to 12 paise per ₹100 of assessable deposits per annum to strengthen the deposit insurance fund. The premium is entirely borne by the insured banks and is not passed on to the depositors.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783754818902-1",
+      "section": "General Awareness",
+      "topic": "Currency Management",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (Note Refund) Rules, what is the minimum area of the single largest undivided piece of a mutilated currency note of ₹50 or higher denomination required to receive a full refund?",
+      "options": [
+        "More than 50%",
+        "More than 65%",
+        "More than 75%",
+        "More than 80%"
+      ],
+      "answer": 3,
+      "explanation": "According to the RBI (Note Refund) Rules, for notes of denomination of ₹50 and above, a full refund is payable if the area of the single largest undivided piece of the presented note is more than 80% of the area of a normal note. If the area is between 40% and 80%, half value is refunded.",
+      "status": "pending"
     }
   ]
 }

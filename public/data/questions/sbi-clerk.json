@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2537,6 +2537,102 @@
       ],
       "answer": 0,
       "explanation": "Let's represent the positions from left to right starting from position 1:\n1. 'Only two persons sit to the left of P' means P is at position 3.\n2. 'P sits fourth to the left of Q' means Q is at position 3 + 4 = 7.\n3. 'Three persons sit between Q and R' means R can be at position 3 (left of Q) or position 11 (right of Q).\n4. 'S sits third to the right of R'. If R is at 11, S is at 14 (which places S to the right of Q). But we are given 'S sits to the left of Q'. Thus, R must be at position 3 (same position as P), making S sit at position 3 + 3 = 6.\n5. 'The number of persons sitting between P (pos 3) and S (pos 6) is the same as the number of persons sitting to the right of S'. There are 2 persons (at positions 4 and 5) between P and S. Therefore, there must be exactly 2 persons to the right of S (at positions 7 and 8).\nThus, the total number of persons in the row is 8."
+    },
+    {
+      "id": "sbi-clerk-ai-1783754874674-0",
+      "section": "Quant",
+      "topic": "Ages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The ratio of the ages of A and B, 4 years ago, was 4 : 5. Eight years hence, the ratio of the ages of A and B will be 11 : 13. What is the sum of their present ages?",
+      "options": [
+        "72 years",
+        "80 years",
+        "76 years",
+        "84 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the ages of A and B, 4 years ago, be 4x and 5x respectively.\nPresent age of A = 4x + 4\nPresent age of B = 5x + 4\nAges 8 years hence will be:\nA = 4x + 12\nB = 5x + 12\nGiven, (4x + 12) / (5x + 12) = 11 / 13\n=> 13(4x + 12) = 11(5x + 12)\n=> 52x + 156 = 55x + 132\n=> 3x = 24 => x = 8.\nPresent age of A = 4(8) + 4 = 36 years.\nPresent age of B = 5(8) + 4 = 44 years.\nSum of their present ages = 36 + 44 = 80 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1783754874674-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A rectangular lawn of dimensions 60 m by 40 m has two roads of width 4 m running through its center, one parallel to its length and the other parallel to its breadth. Find the cost of gravelling these roads at the rate of Rs. 2.50 per square meter.",
+      "options": [
+        "Rs. 920",
+        "Rs. 950",
+        "Rs. 960",
+        "Rs. 980"
+      ],
+      "answer": 2,
+      "explanation": "Area of the road parallel to length = 60 m * 4 m = 240 sq m.\nArea of the road parallel to breadth = 40 m * 4 m = 160 sq m.\nArea of the common intersection of the two roads = 4 m * 4 m = 16 sq m.\nTotal area of the roads = 240 + 160 - 16 = 384 sq m.\nCost of gravelling = 384 * Rs. 2.50 = Rs. 960."
+    },
+    {
+      "id": "sbi-clerk-ai-1783754902178-0",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Given the statements: A > B ≥ C = D; E ≤ C > F. Which of the following conclusions is/are definitely true?\nI. A > F\nII. D ≥ E",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusions I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 2,
+      "explanation": "For conclusion I: Combining the path from A to F, we get A > B ≥ C > F. This simplifies to A > F, so conclusion I is definitely true. For conclusion II: Combining the path from D to E, we get D = C ≥ E, which simplifies to D ≥ E. Thus, conclusion II is also definitely true."
+    },
+    {
+      "id": "sbi-clerk-ai-1783754902178-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a family of seven members—A, B, C, D, E, F, and G—D is married to C. C is the mother of G. A is the father-in-law of C. B is the brother of D. F is the mother of B. E is the only daughter of D. How is G related to F?",
+      "options": [
+        "Granddaughter",
+        "Grandson",
+        "Son",
+        "Daughter-in-law"
+      ],
+      "answer": 1,
+      "explanation": "C is the mother of G, so C is female. Since D is married to C, D is male. E and G are children of C and D. Since E is the 'only' daughter of D, G must be the son of D. F is the mother of B, and B is the brother of D, meaning F is the mother of D. Since G is the son of D and F is the mother of D, G is the grandson of F."
+    },
+    {
+      "id": "sbi-clerk-ai-1783754936671-0",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, a word is given followed by three sentences. Choose the option that represents the sentence(s) in which the word has been used correctly (both grammatically and contextually).\n\nSUBJECT\nI. The research subjects were monitored closely for any adverse side effects during the clinical trial.\nII. The small kingdom was subject to the harsh and tyrannical rule of the neighboring empire.\nIII. Prolonged exposure to high decibel sounds can subject your ears to permanent damage.",
+      "options": [
+        "Only I and II",
+        "Only II and III",
+        "Only I and III",
+        "All I, II, and III"
+      ],
+      "answer": 3,
+      "explanation": "In Sentence I, 'subjects' is correctly used as a noun referring to the participants in an experiment. In Sentence II, 'subject to' acts as an adjective meaning under the domination or control of another. In Sentence III, 'subject' is used as a transitive verb meaning to expose to some process or treatment (usually negative). All three usages are grammatically correct and contextually appropriate."
+    },
+    {
+      "id": "sbi-clerk-ai-1783754936671-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence below to find out if there is any grammatical error in it. The error, if any, will be in one of the highlighted parts of the sentence. Choose the option that represents the incorrect part.\n\n\"If the management would have (A) / acted more swiftly, (B) / they would have prevented (C) / the strike from happening. (D)\"",
+      "options": [
+        "If the management would have",
+        "acted more swiftly,",
+        "they would have prevented",
+        "the strike from happening."
+      ],
+      "answer": 0,
+      "explanation": "This sentence uses the third conditional structure, which describes a hypothetical situation in the past and its imaginary result. The correct grammatical structure for the third conditional is: 'If + subject + past perfect (had + V3), subject + would have + V3'. Therefore, 'If the management would have' must be replaced with 'If the management had' to make the sentence grammatically correct."
     }
   ]
 }

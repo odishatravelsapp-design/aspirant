@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -2710,6 +2710,234 @@
             "ଚିମନାଜୀ ବାପୁ"
           ],
           "explanation": "୧୮୦୩ ମସିହା ଡିସେମ୍ବର ୧୭ ରେ, ଅରଗାଓଁ ଯୁଦ୍ଧ ପରେ ନାଗପୁରର ଦ୍ୱିତୀୟ ରଘୁଜୀ ଭୋଂସଲା ଏବଂ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ମଧ୍ୟରେ ଦେଓଗାଁ ଚୁକ୍ତି ସ୍ୱାକ୍ଷରିତ ହୋଇଥିଲା, ଯାହାଦ୍ୱାରା କଟକ ଏବଂ ଓଡ଼ିଶାର ଅନ୍ୟାନ୍ୟ ଅଞ୍ଚଳ ବ୍ରିଟିଶମାନଙ୍କ ଅଧୀନକୁ ଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755057189-0",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C can complete a work in 24, 30 and 40 days respectively. They began the work together but B left 10 days before the completion of the work and A left 4 days before the completion of the work. In how many days was the work completed?",
+      "options": [
+        "11 days",
+        "13 days",
+        "15 days",
+        "18 days"
+      ],
+      "answer": 2,
+      "explanation": "Let the total time to complete the work be x days. Total work = LCM of (24, 30, 40) = 120 units. Efficiency of A = 120/24 = 5 units/day, B = 120/30 = 4 units/day, C = 120/40 = 3 units/day. Since B left 10 days before and A left 4 days before completion, A worked for (x - 4) days, B worked for (x - 10) days, and C worked for x days. Therefore, 5(x - 4) + 4(x - 10) + 3x = 120 => 5x - 20 + 4x - 40 + 3x = 120 => 12x - 60 = 120 => 12x = 180 => x = 15 days.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଗୋଟିଏ କାର୍ଯ୍ୟକୁ ଯଥାକ୍ରମେ 24, 30 ଏବଂ 40 ଦିନରେ ସମାପ୍ତ କରିପାରିବେ। ସେମାନେ ଏକାଠି କାର୍ଯ୍ୟ ଆରମ୍ଭ କଲେ କିନ୍ତୁ B କାର୍ଯ୍ୟ ଶେଷ ହେବାର 10 ଦିନ ପୂର୍ବରୁ ଏବଂ A କାର୍ଯ୍ୟ ଶେଷ ହେବାର 4 ଦିନ ପୂର୍ବରୁ କାର୍ଯ୍ୟ ଛାଡିଦେଲେ। କାର୍ଯ୍ୟଟି କେତେ ଦିନରେ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା?",
+          "options": [
+            "11 ଦିନ",
+            "13 ଦିନ",
+            "15 ଦିନ",
+            "18 ଦିନ"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ କାର୍ଯ୍ୟ ସମାପ୍ତ ହେବା ପାଇଁ ମୋଟ ସମୟ x ଦିନ। ମୋଟ କାର୍ଯ୍ୟ = (24, 30, 40) ର ଲ.ସା.ଗୁ. = 120 ୟୁନିଟ୍। A ର ଦକ୍ଷତା = 120/24 = 5 ୟୁନିଟ୍/ଦିନ, B ର ଦକ୍ଷତା = 120/30 = 4 ୟୁନିଟ୍/ଦିନ, C ର ଦକ୍ଷତା = 120/40 = 3 ୟୁନିଟ୍/ଦିନ। ଯେହେତୁ B କାର୍ଯ୍ୟ ଶେଷ ହେବାର 10 ଦିନ ପୂର୍ବରୁ ଏବଂ A 4 ଦିନ ପୂର୍ବରୁ ଛାଡି ଚାଲିଗଲେ, ତେଣୁ A (x - 4) ଦିନ କାର୍ଯ୍ୟ କଲା, B (x - 10) ଦିନ କାର୍ଯ୍ୟ କଲା ଏବଂ C x ଦିନ କାର୍ଯ୍ୟ କଲା। ଅତଏବ, 5(x - 4) + 4(x - 10) + 3x = 120 => 5x - 20 + 4x - 40 + 3x = 120 => 12x - 60 = 120 => 12x = 180 => x = 15 ଦିନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755057189-1",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three partners A, B, and C invest in a business. A invests Rs. 4000 for 12 months, B invests Rs. 6000 for a certain number of months, and C invests Rs. 8000 for 9 months. If the total annual profit is Rs. 12000 and B's share of profit is Rs. 4000, for how many months did B invest his money?",
+      "options": [
+        "6 months",
+        "8 months",
+        "10 months",
+        "12 months"
+      ],
+      "answer": 2,
+      "explanation": "The ratio of profit sharing is equal to the ratio of (Investment × Time). Equivalent investment of A = 4000 × 12 = 48000. Let B invest for t months, so B's equivalent investment = 6000 × t = 6000t. Equivalent investment of C = 8000 × 9 = 72000. Ratio of profit share of A : B : C = 48000 : 6000t : 72000 = 8 : t : 12. B's share of profit = [t / (8 + t + 12)] × Total Profit => 4000 = [t / (20 + t)] × 12000 => 1/3 = t / (20 + t) => 20 + t = 3t => 2t = 20 => t = 10 months.",
+      "translations": {
+        "or": {
+          "question": "ତିନିଜଣ ଭାଗୀଦାର A, B ଏବଂ C ଏକ ବ୍ୟବସାୟରେ ପୁଞ୍ଜି ବିନିଯୋଗ କରନ୍ତି। A 12 ମାସ ପାଇଁ 4000 ଟଙ୍କା, B କିଛି ମାସ ପାଇଁ 6000 ଟଙ୍କା ଏବଂ C 9 ମାସ ପାଇଁ 8000 ଟଙ୍କା ବିନିଯୋଗ କରନ୍ତି। ଯଦି ମୋଟ ବାର୍ଷିକ ଲାଭ 12000 ଟଙ୍କା ହୁଏ ଏବଂ B ର ଲାଭର ଅଂଶ 4000 ଟଙ୍କା ହୁଏ, ତେବେ B କେତେ ମାସ ପାଇଁ ନିଜର ଟଙ୍କା ବିନିଯୋଗ କରିଥିଲେ?",
+          "options": [
+            "6 ମାସ",
+            "8 ମାସ",
+            "10 ମାସ",
+            "12 ମାସ"
+          ],
+          "explanation": "ଲାଭ ବଣ୍ଟନର ଅନୁପାତ (ପୁଞ୍ଜି ନିବେଶ × ସମୟ) ର ଅନୁପାତ ସହିତ ସମାନ ଅଟେ। A ର ସମାନ ପୁଞ୍ଜି ବିନିଯୋଗ = 4000 × 12 = 48000। ମନେକରନ୍ତୁ B t ମାସ ପାଇଁ ବିନିଯୋଗ କଲା, ତେଣୁ B ର ସମାନ ପୁଞ୍ଜି ବିନିଯୋଗ = 6000 × t = 6000t। C ର ସମାନ ପୁଞ୍ଜି ବିନିଯୋଗ = 8000 × 9 = 72000। A : B : C ର ଲାଭ ଅଂଶର ଅନୁପାତ = 48000 : 6000t : 72000 = 8 : t : 12। B ର ଲାଭର ଅଂଶ = [t / (8 + t + 12)] × ମୋଟ ଲାଭ => 4000 = [t / (20 + t)] × 12000 => 1/3 = t / (20 + t) => 20 + t = 3t => 2t = 20 => t = 10 ମାସ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755083282-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'CUTTACK' is coded as 'FPNNBFV'. How will 'BHADRAK' be coded in that language?",
+      "options": [
+        "DPBHJBV",
+        "CPBGHBV",
+        "DQCHKBW",
+        "EPBIJCV"
+      ],
+      "answer": 0,
+      "explanation": "Each letter's alphabetical position (A=1, B=2, ..., Z=26) is multiplied by 2. If the product exceeds 26, subtract 26 from it to find the coded letter's position. For example, C(3)*2 = 6 (F), U(21)*2 = 42 -> 42-26 = 16 (P). Similarly, BHADRAK is coded as: B(2)*2=4(D), H(8)*2=16(P), A(1)*2=2(B), D(4)*2=8(H), R(18)*2=36 -> 36-26=10(J), A(1)*2=2(B), K(11)*2=22(V). Hence, 'BHADRAK' becomes 'DPBHJBV'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'CUTTACK' କୁ 'FPNNBFV' ଭାବରେ କୋଡ୍ କରାଯାଇଛି | ସେହି ଭାଷାରେ 'BHADRAK' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "DPBHJBV",
+            "CPBGHBV",
+            "DQCHKBW",
+            "EPBIJCV"
+          ],
+          "explanation": "ପ୍ରତ୍ୟେକ ଅକ୍ଷରର ବର୍ଣ୍ଣମାଳା ସ୍ଥାନ (A=1, B=2, ..., Z=26) କୁ 2 ଗୁଣ କରାଯାଇଛି | ଯଦି ଗୁଣଫଳ 26 ରୁ ଅଧିକ ହୁଏ, ତେବେ ସେଥିରୁ 26 ବିୟୋଗ କରାଯାଏ | ଉଦାହରଣ ସ୍ୱରୂପ, C(3)*2 = 6 (F), U(21)*2 = 42 -> 42-26 = 16 (P) | ସେହିପରି, BHADRAK ପାଇଁ: B(2)*2=4(D), H(8)*2=16(P), A(1)*2=2(B), D(4)*2=8(H), R(18)*2=36 -> 36-26=10(J), A(1)*2=2(B), K(11)*2=22(V) | ତେଣୁ, ସଠିକ୍ କୋଡ୍ ହେଉଛି DPBHJBV |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755083282-1",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Ananya starts walking from her office towards North. After walking 15 m, she turns 90 degrees right and walks 10 m. Then she turns 45 degrees left and walks 10√2 m. Finally, she turns 135 degrees left and walks 20 m. How far and in which direction is she now with respect to her starting point?",
+      "options": [
+        "25 m, North",
+        "15 m, North-East",
+        "20 m, North",
+        "25 m, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Let starting point be (0,0). 1. Walks North 15m -> reaches (0,15). 2. Turns 90° right (East) and walks 10m -> reaches (10,15). 3. Turns 45° left (facing North-East) and walks 10√2 m. Change in x = 10√2 * cos(45°) = 10m, change in y = 10√2 * sin(45°) = 10m. New position = (10+10, 15+10) = (20,25). 4. Turns 135° left from North-East direction, which points directly West. Walks 20m West -> reaches (20-20, 25) = (0,25). Her distance from (0,0) is 25m in the North direction.",
+      "translations": {
+        "or": {
+          "question": "ଅନନ୍ୟା ନିଜ ଅଫିସରୁ ଉତ୍ତର ଦିଗକୁ ଚାଲିବା ଆରମ୍ଭ କରନ୍ତି। 15 ମିଟର ଚାଲିବା ପରେ, ସେ 90 ଡିଗ୍ରୀ ଡାହାଣକୁ ବୁଲି 10 ମିଟର ଚାଲନ୍ତି। ତା’ପରେ ସେ 45 ଡିଗ୍ରୀ ବାମକୁ ବୁଲି 10√2 ମିଟର ଚାଲନ୍ତି। ଶେଷରେ, ସେ 135 ଡିଗ୍ରୀ ବାମକୁ ବୁଲି 20 ମିଟର ଚାଲନ୍ତି। ବର୍ତ୍ତମାନ ସେ ନିଜର ଆରମ୍ଭ ବିନ୍ଦୁଠାରୁ କେତେ ଦୂରରେ ଏବଂ କେଉଁ ଦିଗରେ ଅଛନ୍ତି?",
+          "options": [
+            "25 ମିଟର, ଉତ୍ତର",
+            "15 ମିଟର, ଉତ୍ତର-ପୂର୍ବ",
+            "20 ମିଟର, ଉତ୍ତର",
+            "25 ମିଟର, ଉତ୍ତର-ପଶ୍ଚିମ"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ଆରମ୍ଭ ବିନ୍ଦୁ (0,0) ଅଟେ। 1. ଉତ୍ତର ଦିଗକୁ 15 ମିଟର ଯାଆନ୍ତୁ -> (0, 15) | 2. 90° ଡାହାଣକୁ (ପୂର୍ବ ଦିଗ) ବୁଲି 10 ମିଟର ଚାଲନ୍ତୁ -> (10, 15) | 3. 45° ବାମକୁ (ଉତ୍ତର-ପୂର୍ବ ଦିଗ) ବୁଲି 10√2 ମିଟର ଚାଲନ୍ତୁ। x-ଅକ୍ଷରେ ପରିବର୍ତ୍ତନ = 10√2 * cos(45°) = 10 ମିଟର, y-ଅକ୍ଷରେ ପରିବର୍ତ୍ତନ = 10√2 * sin(45°) = 10 ମିଟର | ନୂତନ ସ୍ଥିତି = (10+10, 15+10) = (20, 25) | 4. ଉତ୍ତର-ପୂର୍ବ ଦିଗରୁ 135° ବାମକୁ ବୁଲିଲେ ତାହା ସିଧାସଳଖ ପଶ୍ଚିମ ଦିଗକୁ ଦର୍ଶାଏ | ପଶ୍ଚିମ ଦିଗକୁ 20 ମିଟର ଚାଲନ୍ତୁ -> (20-20, 25) = (0, 25) | ସେ ଆରମ୍ଭ ବିନ୍ଦୁଠାରୁ ଉତ୍ତର ଦିଗରେ 25 ମିଟର ଦୂରରେ ଅଛନ୍ତି |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755107204-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following temples in Bhubaneswar was built by Kolavati Devi, the mother of Somavamshi ruler Udyotakesari?",
+      "options": [
+        "Lingaraj Temple",
+        "Brahmeswara Temple",
+        "Mukteswar Temple",
+        "Rajarani Temple"
+      ],
+      "answer": 1,
+      "explanation": "The Brahmeswara Temple in Bhubaneswar was built by Queen Kolavati Devi, the mother of Somavamshi King Udyotakesari, around the mid-11th century AD (specifically in the 18th regnal year of Udyotakesari).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ନିମ୍ନଲିଖିତ ମନ୍ଦିରଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ସୋମବଂଶୀ ଶାସକ ଉଦ୍ୟୋତକେଶରୀଙ୍କ ମାତା କୋଳାବତୀ ଦେବୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଲିଙ୍ଗରାଜ ମନ୍ଦିର",
+            "ବ୍ରହ୍ମେଶ୍ୱର ମନ୍ଦିର",
+            "ମୁକ୍ତେଶ୍ୱର ମନ୍ଦିର",
+            "ରାଜାରାଣୀ ମନ୍ଦିର"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରର ବ୍ରହ୍ମେଶ୍ୱର ମନ୍ଦିର ଏକାଦଶ ଶତାବ୍ଦୀର ମଧ୍ୟଭାଗରେ (ବିଶେଷ କରି ଉଦ୍ୟୋତକେଶରୀଙ୍କ ଶାସନର ୧୮ତମ ବର୍ଷରେ) ସୋମବଂଶୀ ରାଜା ଉଦ୍ୟୋତକେଶରୀଙ୍କ ମାତା ରାଣୀ କୋଳାବତୀ ଦେବୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755107204-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first Governor of Odisha after India attained independence in 1947?",
+      "options": [
+        "Kailas Nath Katju",
+        "Chandulal Madhavlal Trivedi",
+        "Asaf Ali",
+        "Bhim Sen Sachar"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Kailas Nath Katju was the first Governor of Odisha after India's independence, serving from 15 August 1947 to 20 June 1948. Sir Chandulal Madhavlal Trivedi served as the Governor of the Odisha Province prior to independence (from 1946 to 1947).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୭ ମସିହାରେ ଭାରତ ସ୍ୱାଧୀନତା ପାଇବା ପରେ ଓଡ଼ିଶାର ପ୍ରଥମ ରାଜ୍ୟପାଳ କିଏ ଥିଲେ?",
+          "options": [
+            "କୈଳାସ ନାଥ କାଟଜୁ",
+            "ଚନ୍ଦୁଲାଲ ମାଧବଲାଲ ତ୍ରିବେଦୀ",
+            "ଆସଫ ଅଲ୍ଲୀ",
+            "ଭୀମ ସେନ ସଚାର"
+          ],
+          "explanation": "ଡକ୍ଟର କୈଳାସ ନାଥ କାଟଜୁ ସ୍ୱାଧୀନତା ପରବର୍ତ୍ତୀ ଓଡ଼ିଶାର ପ୍ରଥମ ରାଜ୍ୟପାଳ ଥିଲେ, ଯିଏକି ୧୫ ଅଗଷ୍ଟ ୧୯୪୭ ରୁ ୨୦ ଜୁନ୍ ୧୯୪୮ ପର୍ଯ୍ୟନ୍ତ କାର୍ଯ୍ୟ କରିଥିଲେ। ସାର୍ ଚନ୍ଦୁଲାଲ ମାଧବଲାଲ ତ୍ରିବେଦୀ ସ୍ୱାଧୀନତା ପୂର୍ବରୁ (୧୯୪୬ ରୁ ୧୯୪୭ ପର୍ଯ୍ୟନ୍ତ) ଓଡ଼ିଶା ପ୍ରଦେଶର ରାଜ୍ୟପାଳ ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755124487-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the Prime Minister (Premier) of Odisha when the Utkal University was established in 1943?",
+      "options": [
+        "Maharaja Krushna Chandra Gajapati",
+        "Biswanath Das",
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 0,
+      "explanation": "Utkal University was established on 27 November 1943 during the second premiership of Maharaja Krushna Chandra Gajapati Dev.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୩ ମସିହାରେ ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟ ପ୍ରତିଷ୍ଠା ହେବା ସମୟରେ ଓଡ଼ିଶାର ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) କିଏ ଥିଲେ?",
+          "options": [
+            "මହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "୧୯୪୩ ମସିହା ନଭେମ୍ବର ୨୭ ରେ ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ଦେବଙ୍କ ଦ୍ୱିତୀୟ ପ୍ରଧାନମନ୍ତ୍ରୀତ୍ୱ (ପ୍ରିମିୟରସିପ୍) ସମୟରେ ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783755124487-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Medieval History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga Dynasty shifted his capital from Kalinganagara to Abhinava Varanasi Kataka (modern Cuttack)?",
+      "options": [
+        "Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimha Deva I",
+        "Bhanu Deva I"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III shifted the capital of the Ganga Empire from Kalinganagara to Abhinava Varanasi Kataka (modern Cuttack) in 1230 AD.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ନିଜର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ?",
+          "options": [
+            "ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ",
+            "ନରସିଂହ ଦେବ ପ୍ରଥମ",
+            "ଭାନୁ ଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ ୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଗଙ୍ଗ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -3440,6 +3440,234 @@
       ],
       "answer": 1,
       "explanation": "The 'Misinformation Effect' is a classic cognitive phenomenon researched extensively by Elizabeth Loftus, demonstrating that eyewitness testimony can be easily manipulated by planting subtle, misleading information during post-event questioning."
+    },
+    {
+      "id": "odisha-ssb-ai-1783755142728-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory and Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In his landmark essay \"Art as Device\" (1917), Viktor Shklovsky introduces the concept of defamiliarization (ostranenie). Which of the following literary works by Leo Tolstoy does he primarily use as an example to show how Tolstoy defamiliarizes the institution of private property by narrating from the perspective of a horse?",
+      "options": [
+        "\"Kholstomer\"",
+        "\"The Death of Ivan Ilyich\"",
+        "\"The Kreutzer Sonata\"",
+        "\"Hadji Murat\""
+      ],
+      "answer": 0,
+      "explanation": "In \"Art as Device\", Viktor Shklovsky extensively cites Leo Tolstoy's short story \"Kholstomer\" (also known as \"Strider\"), which is narrated by a piebald horse. Through this equine narrator, Tolstoy defamiliarizes human conventions such as private property, making them seem strange and unnatural.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ବିକ୍ଟର ଶ୍କଲୋଭସ୍କି (Viktor Shklovsky) ତାଙ୍କର ପ୍ରସିଦ୍ଧ ପ୍ରବନ୍ଧ \"Art as Device\" (୧୯୧୭) ରେ ବିମୁଗ୍ଧତା ବା ଅପରିଚିତକରଣ (defamiliarization/ostranenie) ର ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଛନ୍ତି। ଟଲଷ୍ଟୟ ଏକ ଘୋଡ଼ାର ଦୃଷ୍ଟିକୋଣରୁ ବର୍ଣ୍ଣନା କରି ବ୍ୟକ୍ତିଗତ ସମ୍ପତ୍ତିର ଅନୁଷ୍ଠାନକୁ କିପରି ଅପରିଚିତ କରାଉଛନ୍ତି, ତାହା ଦେଖାଇବା ପାଇଁ ସେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ ଲିଓ ଟଲଷ୍ଟୟଙ୍କ କେଉଁ ସାହିତ୍ୟିକ କୃତିକୁ ମୁଖ୍ୟ ଉଦାହରଣ ଭାବରେ ବ୍ୟବହାର କରିଛନ୍ତି?",
+          "options": [
+            "\"ଖୋଲଷ୍ଟୋମର୍\" (Kholstomer)",
+            "\"ଦି ଡେଥ୍ ଅଫ୍ ଇଭାନ୍ ଇଲିଚ୍\" (The Death of Ivan Ilyich)",
+            "\"ଦି କ୍ରୁଇଜର୍ ସୋନାଟା\" (The Kreutzer Sonata)",
+            "\"ହାଜି ମୁରାଦ୍\" (Hadji Murat)"
+          ],
+          "explanation": "ଶ୍କଲୋଭସ୍କି ତାଙ୍କର ପ୍ରବନ୍ଧ \"Art as Device\" ରେ ଲିଓ ଟଲଷ୍ଟୟଙ୍କ କ୍ଷୁଦ୍ରଗଳ୍ପ \"ଖୋଲଷ୍ଟୋମର୍\" (Kholstomer / Strider) ର ବହୁଳ ବ୍ୟବହାର କରିଛନ୍ତି, ଯେଉଁଠାରେ ବର୍ଣ୍ଣନାକାରୀ ହେଉଛି ଏକ ଘୋଡ଼ା। ଏହା ଦ୍ୱାରା ମାନବୀୟ ପ୍ରଥା ଯେପରିକି ବ୍ୟକ୍ତିଗତ ସମ୍ପତ୍ତିକୁ ଏକ ଅପରିଚିତ ଦୃଷ୍ଟିକୋଣରୁ ଉପସ୍ଥାପନ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755142728-1",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Matthew Arnold's famous poem \"The Scholar-Gipsy\" (1853) is based on an account found in which 17th-century prose work by Joseph Glanvill?",
+      "options": [
+        "The Vanity of Dogmatizing",
+        "Saducismus Triumphatus",
+        "Lux Orientalis",
+        "Plus Ultra"
+      ],
+      "answer": 0,
+      "explanation": "Matthew Arnold's \"The Scholar-Gipsy\" is based on a story from Joseph Glanvill's book 'The Vanity of Dogmatizing' (1661), which tells the tale of an impoverished Oxford student who left his studies to join a band of gypsies and learn their traditional lore.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡଙ୍କ ପ୍ରସିଦ୍ଧ କବିତା \"The Scholar-Gipsy\" (୧୮୫୩) ଜୋସେଫ୍ ଗ୍ଲାନଭିଲ୍‌ଙ୍କ ଦ୍ୱାରା ଲିଖିତ କେଉଁ ୧୭ଶ ଶତାବ୍ଦୀର ଗଦ୍ୟ ରଚନା ଉପରେ ଆଧାରିତ?",
+          "options": [
+            "ଦି ଭ୍ୟାନିଟି ଅଫ୍ ଡଗ୍ମାଟାଇଜିଙ୍ଗ୍ (The Vanity of Dogmatizing)",
+            "ସାଡୁସିସମସ ଟ୍ରାୟମ୍ଫାଟସ (Saducismus Triumphatus)",
+            "ଲକ୍ସ ଓରିଏଣ୍ଟାଲିସ (Lux Orientalis)",
+            "ପ୍ଲସ ଅଲଟ୍ରା (Plus Ultra)"
+          ],
+          "explanation": "ମାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡଙ୍କ \"The Scholar-Gipsy\" କବିତାର କାହାଣୀ ଜୋସେଫ୍ ଗ୍ଲାନଭିଲ୍‌ଙ୍କ 'ଦି ଭ୍ୟାନିଟି ଅଫ୍ ଡଗ୍ମାଟାଇଜିଙ୍ଗ୍' (୧୬୬୧) ପୁସ୍ତକରୁ ନିଆଯାଇଛି, ଯେଉଁଥିରେ ଜଣେ ଦରିଦ୍ର ଅକ୍ସଫୋର୍ଡ ଛାତ୍ର ପାଠପଢା ଛାଡି ଜିପ୍ସୀମାନଙ୍କ ଦଳରେ ସାମିଲ ହେବା ଏବଂ ସେମାନଙ୍କ ପାରମ୍ପରିକ ଜ୍ଞାନ ଶିଖିବା କଥା ବର୍ଣ୍ଣନା କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755166422-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In William J.J. Gordon's Synectics Model of teaching, which type of analogy involves comparing a scientific or technical concept to a personal feeling or human experience, often asking the student to 'become' the physical object or element?",
+      "options": [
+        "Direct Analogy",
+        "Personal Analogy",
+        "Symbolic Analogy",
+        "Compressed Conflict"
+      ],
+      "answer": 1,
+      "explanation": "In William Gordon's Synectics Model, 'Personal Analogy' requires students to empathize and identify with the ideas, physical objects, or non-human elements under study (e.g., asking a student to imagine being a water molecule undergoing evaporation). This helps in making the strange familiar and generating creative insights.",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ଜେ.ଜେ. ଗର୍ଡନ୍‌ଙ୍କ ସିନେକ୍ଟିକ୍ସ ଶିକ୍ଷାଦାନ ମଡେଲ୍‌ରେ (Synectics Model of teaching), କେଉଁ ପ୍ରକାରର ସାଦୃଶ୍ୟ (analogy) ଏକ ବୈଜ୍ଞାନିକ କିମ୍ବା ବୈଷୟିକ ଧାରଣାକୁ ବ୍ୟକ୍ତିଗତ ଅନୁଭୂତି କିମ୍ବା ମାନବୀୟ ଅନୁଭବ ସହିତ ତୁଳନା କରେ, ଯେଉଁଥିରେ ପ୍ରାୟତଃ ଛାତ୍ରଙ୍କୁ ସେହି ଭୌତିକ ବସ୍ତୁ କିମ୍ବା ଉପାଦାନରେ 'ପରିଣତ ହେବାକୁ' କୁହାଯାଇଥାଏ?",
+          "options": [
+            "ପ୍ରତ୍ୟକ୍ଷ ସାଦୃଶ୍ୟ (Direct Analogy)",
+            "ବ୍ୟକ୍ତିଗତ ସାଦୃଶ୍ୟ (Personal Analogy)",
+            "ପ୍ରତୀକାତ୍ମକ ସାଦୃଶ୍ୟ (Symbolic Analogy)",
+            "ସଂକ୍ଷିପ୍ତ ଦ୍ୱନ୍ଦ୍ୱ (Compressed Conflict)"
+          ],
+          "explanation": "ୱିଲିୟମ୍ ଗର୍ଡନ୍‌ଙ୍କ ସିନେକ୍ଟିକ୍ସ ମଡେଲ୍‌ରେ, 'ବ୍ୟକ୍ତିଗତ ସାଦୃଶ୍ୟ' (Personal Analogy) ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ବିଷୟବସ୍ତୁ କିମ୍ବା ଅଜୀବ ବସ୍ତୁ ସହିତ ନିଜକୁ ଯୋଡ଼ିବାକୁ ଏବଂ ସେହି ସ୍ଥିତିକୁ ଅନୁଭବ କରିବାକୁ (ଯେପରିକି ବାଷ୍ପୀଭୂତ ହେଉଥିବା ଜଳ ଅଣୁ ହେବା) ପ୍ରୋତ୍ସାହିତ କରିଥାଏ, ଯାହା ସୃଜନଶୀଳ ଚିନ୍ତାଧାରାର ବିକାଶ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755166422-1",
+      "section": "Teaching Aptitude",
+      "topic": "Gagne's Nine Events of Instruction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Robert Gagné's Nine Events of Instruction, which of the following events immediately follows the presentation of the stimulus material (Presenting the content)?",
+      "options": [
+        "Providing learning guidance",
+        "Eliciting performance",
+        "Gaining attention",
+        "Stimulating recall of prior learning"
+      ],
+      "answer": 0,
+      "explanation": "In Robert Gagné's 9-step instructional model, the fifth event is 'Providing learning guidance' (which involves semantic encoding, hints, or scaffolds), and it immediately follows the fourth event, which is 'Presenting the stimulus/content'.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେଙ୍କ ଶିକ୍ଷାଦାନର ନଅଟି ପର୍ଯ୍ୟାୟ (Nine Events of Instruction) ଅନୁଯାୟୀ, 'ଉଦ୍ଦୀପକ ବିଷୟବସ୍ତୁ ଉପସ୍ଥାପନ କରିବା' (Presenting the content) ପରେ ତୁରନ୍ତ କେଉଁ ପର୍ଯ୍ୟାୟଟି ଆସିଥାଏ?",
+          "options": [
+            "ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା (Providing learning guidance)",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରକାଶ କରିବା (Eliciting performance)",
+            "ମନୋଯୋଗ ଆକର୍ଷଣ କରିବା (Gaining attention)",
+            "ପୂର୍ବ ଶିକ୍ଷଣର ସ୍ମରଣକୁ ପ୍ରୋତ୍ସାହିତ କରିବା (Stimulating recall of prior learning)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେଙ୍କ ନଅଟି ଶିକ୍ଷଣ ପର୍ଯ୍ୟାୟ ମଡେଲ୍‌ରେ, ପଞ୍ଚମ ପର୍ଯ୍ୟାୟଟି ହେଉଛି 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା' (ଯେଉଁଥିରେ ସୂଚନାଗୁଡ଼ିକୁ ସହଜରେ ଗ୍ରହଣ କରିବା ପାଇଁ ସହାୟତା ଦିଆଯାଏ), ଏବଂ ଏହା ଚତୁର୍ଥ ପର୍ଯ୍ୟାୟ 'ଉଦ୍ଦୀପକ ବିଷୟବସ୍ତୁ ଉପସ୍ଥାପନ କରିବା' ପରେ ତୁରନ୍ତ ଆସିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755184379-0",
+      "section": "General Studies",
+      "topic": "History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who presided over the first session of the Orissa States People's Conference (All Orissa Garhjat Praja Sammilani) held at Cuttack in 1931?",
+      "options": [
+        "Bhubananda Das",
+        "Sarangadhar Das",
+        "Radhanath Rath",
+        "Harekrushna Mahatab"
+      ],
+      "answer": 0,
+      "explanation": "The first session of the Orissa States People's Conference (Garhjat Praja Sammilani) was held at Cuttack in June 1931 under the presidency of Bhubananda Das, with Radhanath Rath serving as its secretary. It aimed to address the socio-political grievances of the people living under the autocratic rule of the princely states.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୧ ମସିହାରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିବା 'ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀ' (Orissa States People's Conference) ର ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ସଭାପତିତ୍ୱ କରିଥିଲେ?",
+          "options": [
+            "ଭୁବନାନନ୍ଦ ଦାସ",
+            "ସାରଙ୍ଗଧର ଦାସ",
+            "ରାଧାନାଥ ରଥ",
+            "ହରେକୃଷ୍ଣ ମହତାବ"
+          ],
+          "explanation": "୧୯୩୧ ଜୁନ୍ ମସିହାରେ କଟକଠାରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ଭୁବନାନନ୍ଦ ଦାସଙ୍କ ସଭାପତିତ୍ୱରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା, ଯେଉଁଥିରେ ରାଧାନାଥ ରଥ ସମ୍ପାଦକ ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ। ଏହାର ଉଦ୍ଦେଶ୍ୟ ଥିଲା ଓଡ଼ିଶାର ଗଡ଼ଜାତ ରାଜ୍ୟଗୁଡ଼ିକର ପ୍ରଜାମାନଙ୍କର ସାମାଜିକ-ରାଜନୈତିକ ସମସ୍ୟାଗୁଡ଼ିକର ସମାଧାନ କରିବା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755184379-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was the Similipal Biosphere Reserve of Odisha included in the UNESCO World Network of Biosphere Reserves?",
+      "options": [
+        "2001",
+        "2005",
+        "2009",
+        "2014"
+      ],
+      "answer": 2,
+      "explanation": "Similipal Biosphere Reserve, located in the Mayurbhanj district of Odisha, was officially included in the UNESCO World Network of Biosphere Reserves in May 2009.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ (Similipal Biosphere Reserve) କେଉଁ ବର୍ଷ ୟୁନେସ୍କୋ (UNESCO) ର ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ନେଟୱାର୍କରେ ସାମିଲ ହୋଇଥିଲା?",
+          "options": [
+            "୨୦୦୧",
+            "୨୦୦୫",
+            "୨୦୦୯",
+            "୨୦୧୪"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳକୁ ୨୦୦୯ ମସିହାରେ ୟୁନେସ୍କୋର ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ନେଟୱାର୍କରେ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755202716-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History (Somavamshi Dynasty)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Brahmeswara Temple in Bhubaneswar, which marks a significant transition in Kalinga architecture, was built by Kolavati Devi. What was her relationship to the ruling Somavamshi king Udyotakesari?",
+      "options": [
+        "She was his mother",
+        "She was his chief queen",
+        "She was his daughter",
+        "She was his sister"
+      ],
+      "answer": 0,
+      "explanation": "The Brahmeswara Temple in Bhubaneswar was built by Kolavati Devi, the mother of the Somavamshi king Udyotakesari, in the mid-11th century CE (around 1058 CE, during his 18th regnal year).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ବ୍ରହ୍ମେଶ୍ୱର ମନ୍ଦିର, ଯାହା କଳିଙ୍ଗ ସ୍ଥାପତ୍ୟ କଳାରେ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପରିବର୍ତ୍ତନକୁ ଦର୍ଶାଏ, ତାହା କୋଳାବତୀ ଦେବୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା। ଶାସକ ସୋମବଂଶୀ ରାଜା ଉଦ୍ୟୋତକେଶରୀଙ୍କ ସହ ତାଙ୍କର ସମ୍ପର୍କ କଣ ଥିଲା?",
+          "options": [
+            "ସେ ତାଙ୍କର ମାତା ଥିଲେ",
+            "ସେ ତାଙ୍କର ମୁଖ୍ୟ ରାଣୀ ଥିଲେ",
+            "ସେ ତାଙ୍କର କନ୍ୟା ଥିଲେ",
+            "ସେ ତାଙ୍କର ଭଗିନୀ ଥିଲେ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରର ବ୍ରହ୍ମେଶ୍ୱର ମନ୍ଦିର ଏକାଦଶ ଶତାବ୍ଦୀର ମଧ୍ୟଭାଗରେ (ପ୍ରାୟ ୧୦୫୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ, ଉଦ୍ୟୋତକେଶରୀଙ୍କ ୧୮ତମ ରାଜତ୍ୱ ବର୍ଷରେ) ସୋମବଂଶୀ ରାଜା ଉଦ୍ୟୋତକେଶରୀଙ୍କ ମାତା କୋଳାବତୀ ଦେବୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783755202716-1",
+      "section": "Odisha GK",
+      "topic": "Modern Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following princely states (Garhjat) was the first to sign the merger agreement with the province of Orissa in November 1947, leading the way for the integration of other princely states?",
+      "options": [
+        "Mayurbhanj",
+        "Ranpur",
+        "Nilgiri",
+        "Dhenkanal"
+      ],
+      "answer": 2,
+      "explanation": "Nilgiri was the first princely state in Odisha to merge with the province of Orissa. Due to severe law and order issues arising from the Prajamandal movement, the Government of India intervened, and its administration was taken over on 14th November 1947.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଗଡ଼ଜାତ ରାଜ୍ୟଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ନଭେମ୍ବର ୧୯୪୭ ରେ ଓଡ଼ିଶା ପ୍ରଦେଶ ସହିତ ମିଶ୍ରଣ ଚୁକ୍ତି ସ୍ୱାକ୍ଷର କରିବାରେ ପ୍ରଥମ ଥିଲା, ଯାହା ଅନ୍ୟ ଗଡ଼ଜାତଗୁଡ଼ିକର ମିଶ୍ରଣ ପାଇଁ ପଥ ପ୍ରଶସ୍ତ କରିଥିଲା?",
+          "options": [
+            "ମୟୂରଭଞ୍ଜ",
+            "ରଣପୁର",
+            "ନୀଳଗିରି",
+            "ଢେଙ୍କାନାଳ"
+          ],
+          "explanation": "ନୀଳଗିରି ହେଉଛି ଓଡ଼ିଶାର ପ୍ରଥମ ଗଡ଼ଜାତ ରାଜ୍ୟ ଯାହା ଓଡ଼ିଶା ପ୍ରଦେଶ ସହିତ ମିଶିଥିଲା। ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ଯୋଗୁଁ ସୃଷ୍ଟି ହୋଇଥିବା ଗୁରୁତର ଆଇନ ଶୃଙ୍ଖଳା ପରିସ୍ଥିତି କାରଣରୁ ଭାରତ ସରକାର ହସ୍ତକ୍ଷେପ କରିଥିଲେ ଏବଂ ୧୪ ନଭେମ୍ବର ୧୯୪୭ ରେ ଏହାର ପ୍ରଶାସନ ହାତକୁ ନେଇଥିଲେ।"
+        }
+      }
     }
   ]
 }
