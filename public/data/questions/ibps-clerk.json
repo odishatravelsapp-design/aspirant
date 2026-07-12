@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2813,6 +2813,104 @@
       ],
       "answer": 3,
       "explanation": "According to the RBI (Note Refund) Rules, for notes of denomination of ₹50 and above, a full refund is payable if the area of the single largest undivided piece of the presented note is more than 80% of the area of a normal note. If the area is between 40% and 80%, half value is refunded.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783845657952-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The cost price of an article is Rs. 1200. A merchant marks up the price of the article by 50% above its cost price and then offers two successive discounts of 20% and x% on the marked price. If the profit earned by the merchant is Rs. 96, find the value of x.",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "15%"
+      ],
+      "answer": 1,
+      "explanation": "Cost Price (CP) = Rs. 1200. Marked Price (MP) = 1200 + 50% of 1200 = Rs. 1800. Selling Price (SP) = CP + Profit = 1200 + 96 = Rs. 1296. Price after the first discount of 20% = 1800 * (1 - 0.20) = Rs. 1440. Let the second discount be x%. So, 1440 * (1 - x/100) = 1296 => 1 - x/100 = 1296 / 1440 = 0.90 => x/100 = 0.10 => x = 10."
+    },
+    {
+      "id": "ibps-clerk-ai-1783845657952-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat covers 36 km upstream and 54 km downstream in a total of 6 hours. If the ratio of the speed of the boat in still water to the speed of the stream is 5 : 1, find the speed of the boat in still water.",
+      "options": [
+        "10 km/h",
+        "12 km/h",
+        "15 km/h",
+        "18 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Let the speed of the boat in still water be 5y km/h and the speed of the stream be y km/h. Upstream speed (U) = 5y - y = 4y km/h. Downstream speed (D) = 5y + y = 6y km/h. Total time taken = (Upstream distance / U) + (Downstream distance / D) => 36 / 4y + 54 / 6y = 6 => 9/y + 9/y = 6 => 18/y = 6 => y = 3. Therefore, the speed of the boat in still water = 5y = 5 * 3 = 15 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1783845687926-0",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Fill in the blanks with the correct pair of words to make the sentence grammatically correct:\n\n'She is one of the few employees who _______ always on time, which _______ her a favorite of the manager.'",
+      "options": [
+        "are, makes",
+        "is, makes",
+        "are, make",
+        "is, make"
+      ],
+      "answer": 0,
+      "explanation": "In this sentence, the relative pronoun 'who' refers to the plural antecedent 'employees', so it requires the plural verb 'are'. The relative pronoun 'which' refers to the entire preceding clause/fact ('being one of the few employees who are always on time'), which acts as a singular concept, thus requiring the singular verb 'makes'."
+    },
+    {
+      "id": "ibps-clerk-ai-1783845687926-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the given sentence:\n\n'The manager's __________ attitude towards his subordinates only served to __________ the already tense atmosphere in the office.'",
+      "options": [
+        "considerate, intensify",
+        "supercilious, exacerbate",
+        "patronizing, alleviate",
+        "indifferent, pacify"
+      ],
+      "answer": 1,
+      "explanation": "'Supercilious' means behaving or looking as though one thinks one is superior to others (arrogant/disdainful). 'Exacerbate' means to make a problem or bad situation worse. An arrogant attitude would naturally worsen (exacerbate) an already tense atmosphere, making this pair logically and grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1783845705586-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Operations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Marginal Standing Facility (MSF) of the Reserve Bank of India, what is the minimum bidding amount required for banks to borrow funds?",
+      "options": [
+        "₹1 crore",
+        "₹5 crore",
+        "₹10 lakh",
+        "₹50 lakh"
+      ],
+      "answer": 0,
+      "explanation": "Under the Marginal Standing Facility (MSF) scheme, banks can borrow overnight funds from the Reserve Bank of India against their excess SLR securities. The minimum bidding amount for MSF is ₹1 crore and in multiples of ₹1 crore thereafter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783845705586-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India's Priority Sector Lending (PSL) guidelines, what is the specific sub-target for lending to Micro Enterprises by Domestic Scheduled Commercial Banks?",
+      "options": [
+        "5.0% of ANBC",
+        "7.5% of ANBC",
+        "10.0% of ANBC",
+        "12.0% of ANBC"
+      ],
+      "answer": 1,
+      "explanation": "Under the Priority Sector Lending guidelines of the RBI, domestic scheduled commercial banks are required to allocate 7.5% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBSE), whichever is higher, to Micro Enterprises.",
       "status": "pending"
     }
   ]

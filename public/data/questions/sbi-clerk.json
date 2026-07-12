@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2633,6 +2633,136 @@
       ],
       "answer": 0,
       "explanation": "This sentence uses the third conditional structure, which describes a hypothetical situation in the past and its imaginary result. The correct grammatical structure for the third conditional is: 'If + subject + past perfect (had + V3), subject + would have + V3'. Therefore, 'If the management would have' must be replaced with 'If the management had' to make the sentence grammatically correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845732092-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B started a business with investments of Rs. 24,000 and Rs. 30,000 respectively. A is a working partner and receives 20% of the total profit as his salary, while the remaining profit is divided in the ratio of their investments. If A receives a total of Rs. 6,500, find B's share in the profit.",
+      "options": [
+        "Rs. 5,200",
+        "Rs. 4,800",
+        "Rs. 5,400",
+        "Rs. 6,000"
+      ],
+      "answer": 0,
+      "explanation": "Let the total profit be T. A's salary is 20% of T, which is 0.2T. The remaining profit is 80% of T, which is 0.8T. The investment ratio of A to B is 24,000 : 30,000 = 4 : 5. A's share from the remaining profit is (4/9) * 0.8T = 3.2T/9. Thus, A's total share is 0.2T + 3.2T/9 = 5T/9. We are given A's total share is Rs. 6,500, so 5T/9 = 6500, which gives T = 11,700. B's share of the profit is (5/9) * 0.8T = 4T/9. Substituting T = 11,700, B's share = (4 * 11,700)/9 = Rs. 5,200."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845732092-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A train passes a 150 m long platform in 15 seconds and a man standing on the platform in 9 seconds. Another train of the same length running in the opposite direction crosses the first train in 10 seconds. Find the speed of the second train (in km/h).",
+      "options": [
+        "64 km/h",
+        "72 km/h",
+        "80 km/h",
+        "54 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let the length of the first train be L and its speed be v1. The train crosses the man in 9 seconds: L = 9 * v1 => v1 = L/9. It crosses the 150 m platform in 15 seconds: L + 150 = 15 * v1. Substituting v1 = L/9 into this equation gives L + 150 = 15 * (L/9) => L + 150 = (5/3)L => (2/3)L = 150 => L = 225 meters. The speed of the first train is v1 = 225 / 9 = 25 m/s. The second train has the same length L2 = 225 m. When moving in opposite directions, the relative speed is v1 + v2. They cross each other in 10 seconds, so (L1 + L2) / (v1 + v2) = 10 => (225 + 225) / (25 + v2) = 10 => 450 / (25 + v2) = 10 => 25 + v2 = 45 => v2 = 20 m/s. Converting 20 m/s to km/h: 20 * (18/5) = 72 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845758849-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If 'A + B' means 'A is the mother of B'; 'A - B' means 'A is the brother of B'; 'A * B' means 'A is the sister of B'; and 'A / B' means 'A is the father of B'. Which of the following expressions indicates that 'M is the maternal uncle of N'?",
+      "options": [
+        "M * K / N",
+        "M - K + N",
+        "N - K + M",
+        "K - M + N"
+      ],
+      "answer": 1,
+      "explanation": "In expression 'M - K + N': 'M - K' means M is the brother of K. 'K + N' means K is the mother of N. Since M is the brother of N's mother K, M is the maternal uncle of N."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845758849-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Directions: In the following question, three statements are given followed by two conclusions. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\n1. Only a few Pen are Pencil.\n2. All Pencil are Eraser.\n3. No Eraser is Sharpener.\n\nConclusions:\nI. All Pen can never be Sharpener.\nII. Some Pencil being Sharpener is a possibility.",
+      "options": [
+        "Only conclusion II follows",
+        "Only conclusion I follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "From the statements, 'Only a few Pen are Pencil' implies some Pens are Pencils. Since 'All Pencil are Eraser', the common part of Pen and Pencil is also part of Eraser. Since 'No Eraser is Sharpener', that common part of Pen can never be Sharpener. Thus, 'All Pen can never be Sharpener' (which means 'Some Pens are definitely not Sharpener') is true. For conclusion II, since all Pencils are Erasers and no Eraser is Sharpener, no Pencil can ever be a Sharpener. Thus, this possibility is false. Hence, only conclusion I follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845776326-0",
+      "section": "English",
+      "topic": "Grammar (Inversion)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the part of the sentence that contains a grammatical error. If there is no error, choose the option that corresponds to the error-free part (or mark the erroneous part). \n\n'Rarely we have witnessed (A) / such an extraordinary performance (B) / by a debutant in the (C) / domestic cricket tournament. (D)'",
+      "options": [
+        "Rarely we have witnessed",
+        "such an extraordinary performance",
+        "by a debutant in the",
+        "domestic cricket tournament."
+      ],
+      "answer": 0,
+      "explanation": "When a sentence begins with a negative or restrictive adverb like 'rarely', 'seldom', or 'hardly', subject-auxiliary inversion must be used. Therefore, 'Rarely we have witnessed' should be corrected to 'Rarely have we witnessed'."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845776326-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the pair of words that best fits the blanks to make the sentence grammatically correct and contextually meaningful:\n\nThe manager's ___________ demeanor during the high-stakes negotiations helped to ___________ the tense atmosphere in the conference room.",
+      "options": [
+        "truculent, exacerbate",
+        "placid, defuse",
+        "mercurial, alleviate",
+        "combative, assuage"
+      ],
+      "answer": 1,
+      "explanation": "'Placid' means calm and peaceful, and 'defuse' means to reduce the danger or tension in a difficult situation. Together, they perfectly fit the context of calming a tense atmosphere during negotiations. The other options contain conflicting or contextually inappropriate words (e.g., 'truculent' means aggressive, 'mercurial' means unpredictable)."
+    },
+    {
+      "id": "sbi-clerk-ai-1783845792755-0",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the overall Priority Sector Lending (PSL) target for Regional Rural Banks (RRBs) as a percentage of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher?",
+      "options": [
+        "40%",
+        "75%",
+        "60%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) are mandated to allocate 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, to the priority sector, compared to 40% for domestic scheduled commercial banks.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783845792755-1",
+      "section": "General Awareness",
+      "topic": "Sovereign Gold Bond Scheme",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme, what is the maximum limit of gold subscription permitted per fiscal year (April-March) for Trusts and similar entities notified by the government?",
+      "options": [
+        "4 kg",
+        "10 kg",
+        "20 kg",
+        "50 kg"
+      ],
+      "answer": 2,
+      "explanation": "Under the Sovereign Gold Bond (SGB) scheme guidelines issued by the RBI, the maximum limit of subscription is 4 kg for individuals, 4 kg for HUFs, and 20 kg for trusts and similar entities per fiscal year (April-March).",
+      "status": "pending"
     }
   ]
 }

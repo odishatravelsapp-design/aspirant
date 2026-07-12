@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -3666,6 +3666,234 @@
             "ଢେଙ୍କାନାଳ"
           ],
           "explanation": "ନୀଳଗିରି ହେଉଛି ଓଡ଼ିଶାର ପ୍ରଥମ ଗଡ଼ଜାତ ରାଜ୍ୟ ଯାହା ଓଡ଼ିଶା ପ୍ରଦେଶ ସହିତ ମିଶିଥିଲା। ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ଯୋଗୁଁ ସୃଷ୍ଟି ହୋଇଥିବା ଗୁରୁତର ଆଇନ ଶୃଙ୍ଖଳା ପରିସ୍ଥିତି କାରଣରୁ ଭାରତ ସରକାର ହସ୍ତକ୍ଷେପ କରିଥିଲେ ଏବଂ ୧୪ ନଭେମ୍ବର ୧୯୪୭ ରେ ଏହାର ପ୍ରଶାସନ ହାତକୁ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846037208-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Gerard Manley Hopkins's poetic theory, which term refers to the unique, dynamic, and essential inner pattern or identity of a thing, which makes it distinctively itself?",
+      "options": [
+        "Inscape",
+        "Instress",
+        "Sprung Rhythm",
+        "Outscape"
+      ],
+      "answer": 0,
+      "explanation": "Inscape is the term coined by Gerard Manley Hopkins to denote the unique, essential, and unifying design or identity of a natural object or person, a concept influenced by the philosophy of Duns Scotus.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେରାର୍ଡ ମ୍ୟାନଲି ହପକିନ୍ସଙ୍କ କାବ୍ୟିକ ତତ୍ତ୍ୱରେ, କେଉଁ ଶବ୍ଦଟି ଏକ ବସ୍ତୁର ଅନନ୍ୟ, ଗତିଶୀଳ ଏବଂ ଅନ୍ତର୍ନିହିତ ଆଭ୍ୟନ୍ତରୀଣ ଢାଞ୍ଚା ବା ପରିଚୟକୁ ସୂଚିତ କରେ, ଯାହା ଏହାକୁ ଅନ୍ୟମାନଙ୍କଠାରୁ ସ୍ୱତନ୍ତ୍ର କରିଥାଏ?",
+          "options": [
+            "ଇନସ୍କେପ୍ (Inscape)",
+            "ଇନଷ୍ଟ୍ରେସ୍ (Instress)",
+            "ସ୍ପ୍ରଙ୍ଗ୍ ରିଦିମ୍ (Sprung Rhythm)",
+            "ଆଉଟସ୍କେପ୍ (Outscape)"
+          ],
+          "explanation": "ଇନସ୍କେପ୍ (Inscape) ହେଉଛି କୌଣସି ବସ୍ତୁର ଅନନ୍ୟ ଆଭ୍ୟନ୍ତରୀଣ ସ୍ୱରୂପ ବା ଅନ୍ତର୍ନିହିତ ପରିଚୟ, ଯାହାକୁ ହପକିନ୍ସ ଡନ୍ସ ସ୍କୋଟସଙ୍କ ଦର୍ଶନରୁ ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846037208-1",
+      "section": "Subject Knowledge",
+      "topic": "18th Century English Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Alexander Pope's satirical mock-epic *The Rape of the Lock*, who is the chief of the Sylphs who attempts to protect Belinda and her hair from the impending danger?",
+      "options": [
+        "Ariel",
+        "Umbriel",
+        "Crispissa",
+        "Brillante"
+      ],
+      "answer": 0,
+      "explanation": "In Pope's *The Rape of the Lock*, Ariel is the chief sylph (spirit of the air) who acts as Belinda's guardian. Umbriel is a gnome, while Crispissa and Brillante are other sylphs assigned to guard her lock and earrings respectively.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଆଲେକଜାଣ୍ଡାର ପୋପଙ୍କ ବ୍ୟଙ୍ଗାତ୍ମକ ମହାକାବ୍ୟ *ଦି ରେପ୍ ଅଫ୍ ଦି ଲକ୍* (The Rape of the Lock) ରେ, ସିଲ୍ଫ (Sylphs) ମାନଙ୍କର ପ୍ରମୁଖ କିଏ, ଯିଏ ବେଲିଣ୍ଡା ଏବଂ ତାଙ୍କ କେଶକୁ ଆସନ୍ନ ବିପଦରୁ ରକ୍ଷା କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତି?",
+          "options": [
+            "ଏରିଏଲ୍ (Ariel)",
+            "ଅମ୍ବ୍ରିଏଲ୍ (Umbriel)",
+            "କ୍ରିସପିସା (Crispissa)",
+            "ବ୍ରିଲାଣ୍ଟେ (Brillante)"
+          ],
+          "explanation": "ପୋପଙ୍କ *ଦି ରେପ୍ ଅଫ୍ ଦି ଲକ୍* ରେ, ଏରିଏଲ୍ ହେଉଛନ୍ତି ସିଲ୍ଫମାନଙ୍କର ପ୍ରମୁଖ ଯିଏ ବେଲିଣ୍ଡାଙ୍କ ସୁରକ୍ଷା ଦାୟିତ୍ୱରେ ଥାଆନ୍ତି। ଅମ୍ବ୍ରିଏଲ୍ ହେଉଛନ୍ତି ଏକ ଗ୍ନୋମ (gnome), ଏବଂ କ୍ରିସପିସା ଓ ବ୍ରିଲାଣ୍ଟେ ହେଉଛନ୍ତି ଅନ୍ୟତମ ସିଲ୍ଫ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846064566-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Henry Morrison's Unit Method of teaching, which of the following is the correct sequential order of the steps involved in the mastery of a unit?",
+      "options": [
+        "Exploration, Presentation, Assimilation, Organization, Recitation",
+        "Presentation, Exploration, Assimilation, Recitation, Organization",
+        "Exploration, Assimilation, Presentation, Organization, Recitation",
+        "Presentation, Assimilation, Exploration, Recitation, Organization"
+      ],
+      "answer": 0,
+      "explanation": "Henry Morrison proposed five sequential steps for his unit teaching model to ensure mastery: 1. Exploration (testing previous knowledge), 2. Presentation (introducing new content), 3. Assimilation (individual study and internalization), 4. Organization (systematic arrangement of learned material), and 5. Recitation (oral presentation or revision).",
+      "translations": {
+        "or": {
+          "question": "ହେନେରୀ ମରିସନଙ୍କ (Henry Morrison) ଶିକ୍ଷାଦାନର ୟୁନିଟ୍ ପଦ୍ଧତି (Unit Method) ରେ, ଏକ ୟୁନିଟ୍‌ର ଦକ୍ଷତା ହାସଲ କରିବା ପାଇଁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ସଠିକ୍ କ୍ରମିକ ପର୍ଯ୍ୟାୟ ଅଟେ?",
+          "options": [
+            "ଅନୁସନ୍ଧାନ (Exploration), ଉପସ୍ଥାପନ (Presentation), ଆତ୍ମୀକରଣ (Assimilation), ସଂଗଠନ (Organization), ଆବୃତ୍ତି (Recitation)",
+            "ଉପସ୍ଥାପନ, ଅନୁସନ୍ଧାନ, ଆତ୍ମୀକରଣ, ଆବୃତ୍ତି, ସଂଗଠନ",
+            "ଅନୁସନ୍ଧାନ, ଆତ୍ମୀକରଣ, ଉପସ୍ଥାପନ, ସଂଗଠନ, ଆବୃତ୍ତି",
+            "ଉପସ୍ଥାପନ, ଆତ୍ମୀକରଣ, ଅନୁସନ୍ଧାନ, ଆବୃତ୍ତି, ସଂଗଠନ"
+          ],
+          "explanation": "ହେନେରୀ ମରିସନ ଦକ୍ଷତା ହାସଲ ପାଇଁ ପାଞ୍ଚଟି କ୍ରମିକ ପର୍ଯ୍ୟାୟ ପ୍ରସ୍ତାବ ଦେଇଥିଲେ: ୧. ଅନୁସନ୍ଧାନ (ପୂର୍ବ ଜ୍ଞାନର ପରୀକ୍ଷା), ୨. ଉପସ୍ଥାପନ (ନୂତନ ବିଷୟବସ୍ତୁର ଉପସ୍ଥାପନ), ୩. ଆତ୍ମୀକରଣ (ବ୍ୟକ୍ତିଗତ ଅଧ୍ୟୟନ ଓ ଆତ୍ମୀକରଣ), ୪. ସଂଗଠନ (ଶିକ୍ଷା କରିଥିବା ବିଷୟର ବ୍ୟବସ୍ଥିତ ସଂଗଠନ) ଏବଂ ୫. ଆବୃତ୍ତି (ମୌଖିକ ଉପସ୍ଥାପନ ବା ପୁନରାବୃତ୍ତି)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846064567-1",
+      "section": "Teaching Aptitude",
+      "topic": "Instructional Aids",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Edgar Dale's 'Cone of Experience', which of the following instructional activities represents the most concrete level of learning experience?",
+      "options": [
+        "Designing or performing in a dramatic participation",
+        "Viewing a motion picture or educational television",
+        "Analyzing a diagram or visual symbol",
+        "Engaging in a direct, purposeful experience"
+      ],
+      "answer": 3,
+      "explanation": "At the base of Edgar Dale's Cone of Experience lies 'Direct, Purposeful Experiences', which involve firsthand sensory experiences and are considered the most concrete level of learning, while verbal and visual symbols are at the pinnacle (most abstract).",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର୍ ଡେଲ୍‌ଙ୍କ 'ଅଭିଜ୍ଞତା ଶଙ୍କୁ' (Cone of Experience) ରେ, ନିମ୍ନଲିଖିତ ଶିକ୍ଷଣ କାର୍ଯ୍ୟକଳାପଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ସବୁଠାରୁ ବାସ୍ତବ ବା ମୂର୍ତ୍ତ (concrete) ସ୍ତରର ଶିକ୍ଷଣ ଅଭିଜ୍ଞତାକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ନାଟକୀୟ ଅଂଶଗ୍ରହଣରେ ଡିଜାଇନ୍ କରିବା ବା ଅଭିନୟ କରିବା",
+            "ଚଳଚ୍ଚିତ୍ର ବା ଶିକ୍ଷାଭିତ୍ତିକ ଟେଲିଭିଜନ ଦେଖିବା",
+            "ଏକ ଚିତ୍ର ବା ଦୃଶ୍ୟ ସଙ୍କେତର ବିଶ୍ଳେଷଣ କରିବା",
+            "ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତାରେ ଜଡ଼ିତ ହେବା"
+          ],
+          "explanation": "ଏଡଗାର୍ ଡେଲ୍‌ଙ୍କ ଅଭିଜ୍ଞତା ଶଙ୍କୁର ଆଧାର ବା ନିମ୍ନଭାଗରେ 'ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା' ରହିଛି, ଯାହା ପ୍ରତ୍ୟକ୍ଷ ଜ୍ଞାନେନ୍ଦ୍ରିୟ ଅଭିଜ୍ଞତା ସହିତ ଜଡ଼ିତ ଏବଂ ଏହାକୁ ସବୁଠାରୁ ବାସ୍ତବ ବା ମୂର୍ତ୍ତ ଶିକ୍ଷଣ ସ୍ତର ବୋଲି ବିବେଚନା କରାଯାଏ, ଅନ୍ୟପକ୍ଷରେ ମୌଖିକ ଏବଂ ଦୃଶ୍ୟ ସଙ୍କେତଗୁଡ଼ିକ ଶୀର୍ଷରେ (ସବୁଠାରୁ ବିମୂର୍ତ୍ତ) ଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846178629-0",
+      "section": "General Studies",
+      "topic": "History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first female ruler of the Bhauma-Kara dynasty of Odisha?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Gauri Mahadevi",
+        "Vakula Mahadevi"
+      ],
+      "answer": 0,
+      "explanation": "Tribhuvana Mahadevi I was the first female ruler of the Bhauma-Kara dynasty. She ascended the throne in the 9th century AD after the death of her husband's nephew, Subhakara III. She was a devout follower of Vaishnavism and is known for her administrative skills.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ କିଏ ଥିଲେ?",
+          "options": [
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ",
+            "ପୃଥ୍ବୀ ମହାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ",
+            "ବକୁଳ ମହାଦେବୀ"
+          ],
+          "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ ଥିଲେ। ନବମ ଶତାବ୍ଦୀରେ ନିଜ ସ୍ୱାମୀଙ୍କ ଭ୍ରାତୃଷ୍ପୁତ୍ର ଶୁଭାକର ତୃତୀୟଙ୍କ ମୃତ୍ୟୁ ପରେ ସେ ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ। ସେ ଜଣେ ପରମ ବୈଷ୍ଣବୀ ଥିଲେ ଏବଂ ନିଜର ଦକ୍ଷ ଶାସନ ପାଇଁ ପରିଚିତ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846178629-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following wildlife sanctuaries in Odisha is also popularly known as 'Ushakothi Wildlife Sanctuary'?",
+      "options": [
+        "Khalasuni Wildlife Sanctuary",
+        "Badrama Wildlife Sanctuary",
+        "Debrigarh Wildlife Sanctuary",
+        "Hadagarh Wildlife Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Badrama Wildlife Sanctuary, located in the Sambalpur district of Odisha, is popularly known as Ushakothi Wildlife Sanctuary. Established in 1962, it is famous for its rich biodiversity including elephants, tigers, leopards, and gaur.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ 'ଉଷାକୋଠୀ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ' ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା?",
+          "options": [
+            "ଖଲାସୁନି ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ବଦ୍ରାମା ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ଦେବ୍ରୀଗଡ଼ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ହଦଗଡ଼ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ସମ୍ବଲପୁର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ବଦ୍ରାମା ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ ସାଧାରଣତଃ ଉଷାକୋଠୀ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ ଭାବରେ ଜଣାଶୁଣା। ୧୯୬୨ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ ଏହି ଅଭୟାରଣ୍ୟ ହାତୀ, ବାଘ, ଚିତାବାଘ ଏବଂ ଗୟଳ ଆଦି ଜୀବଜନ୍ତୁଙ୍କ ପାଇଁ ପ୍ରସିଦ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846335777-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History and Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the court poet of Gajapati Prataparudra Deva and composed the famous Sanskrit work 'Bhakti Bhagavata Mahakavyam'?",
+      "options": [
+        "Jivadevacharya",
+        "Kavichandra Raya Divakara Mishra",
+        "Ramananda Raya",
+        "Markandeya Dash"
+      ],
+      "answer": 0,
+      "explanation": "Kavi Dindima Jivadevacharya was the court poet and preceptor of Gajapati Prataparudra Deva. He composed 'Bhakti Bhagavata Mahakavyam' in 1510 AD, which provides invaluable historical information about the Gajapati dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ସଭାକବି ଥିଲେ ଏବଂ ପ୍ରସିଦ୍ଧ ସଂସ୍କୃତ ଗ୍ରନ୍ଥ 'ଭକ୍ତି ଭାଗବତ ମହାକାବ୍ୟମ୍' ରଚନା କରିଥିଲେ?",
+          "options": [
+            "ଜୀବଦେବାଚାର୍ଯ୍ୟ",
+            "କବିଚନ୍ଦ୍ର ରାୟ ଦିବାକର ମିଶ୍ର",
+            "ରାମାନନ୍ଦ ରାୟ",
+            "ମାର୍କଣ୍ଡେୟ ଦାଶ"
+          ],
+          "explanation": "କବି ଡିଣ୍ଡିମ ଜୀବଦେବାଚାର୍ଯ୍ୟ ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ସଭାକବି ଏବଂ ଗୁରୁ ଥିଲେ। ସେ ୧୫୧୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ 'ଭକ୍ତି ଭାଗବତ ମହାକାବ୍ୟମ୍' ରଚନା କରିଥିଲେ, ଯାହା ଗଜପତି ଶାସକମାନଙ୍କର ଇତିହାସ ବିଷୟରେ ବହୁମୂଲ୍ୟ ସୂଚନା ପ୍ରଦାନ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783846335778-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the British Political Agent of the Orissa States Agency who was assassinated during the Prajamandal Movement in Ranpur State in January 1939?",
+      "options": [
+        "Major R. L. Bazalgette",
+        "Captain C. W. S. Macgregor",
+        "H. Saint Clair Freese",
+        "J. H. Ravenshaw"
+      ],
+      "answer": 0,
+      "explanation": "Major R. L. Bazalgette, the Political Agent of the Orissa States, was killed by an agitated mob at Ranpur on 5th January 1939 during the Prajamandal Movement against the tyrannical ruler of Ranpur.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୯ ଜାନୁଆରୀରେ ରଣପୁର ରାଜ୍ୟରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ହତ୍ୟା କରାଯାଇଥିବା ଓଡ଼ିଶା ଗଡ଼ଜାତ ଏଜେନ୍ସିର ବ୍ରିଟିଶ୍ ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ କିଏ ଥିଲେ?",
+          "options": [
+            "ମେଜର ଆର. ଏଲ. ବାଜେଲଗେଟ୍",
+            "କ୍ୟାପଟେନ ସି. ଡବ୍ଲୁ. ଏସ. ମ୍ୟାକଗ୍ରେଗର",
+            "ଏଚ. ସେଣ୍ଟ କ୍ଲେୟାର ଫ୍ରିଜ୍",
+            "ଜେ. ଏଚ. ରେଭେନ୍ସା"
+          ],
+          "explanation": "ଓଡ଼ିଶା ଗଡ଼ଜାତର ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ମେଜର ଆର. ଏଲ. ବାଜେଲଗେଟ୍‌ଙ୍କୁ ୫ ଜାନୁଆରୀ ୧୯୩୯ରେ ରଣପୁରର ଅତ୍ୟାଚାରୀ ଶାସକଙ୍କ ବିରୋଧରେ ଚାଲିଥିବା ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ଏକ ଉତ୍ତ୍ୟକ୍ତ ଜନତା ହତ୍ୟା କରିଥିଲେ।"
         }
       }
     }

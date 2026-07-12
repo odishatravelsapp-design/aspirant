@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -2286,6 +2286,120 @@
             "ଭାଷା ଏବଂ ସ୍ଥାନିକ ଚିନ୍ତନ ଭଳି ବିଭିନ୍ନ କ୍ଷେତ୍ରରେ ଜ୍ଞାନାତ୍ମକ ବିକାଶର ସମକାଳୀନତା।"
           ],
           "explanation": "ହରିଜଣ୍ଟାଲ୍ ଡେକାଲେଜ୍ ହେଉଛି ପିଆଜେଙ୍କ ସିଦ୍ଧାନ୍ତର ଏକ ଧାରଣା ଯାହା ଦର୍ଶାଏ ଯେ ଶିଶୁମାନେ ସମାନ ଯୌକ୍ତିକ ଗଠନ (ଯେପରିକି ସଂରକ୍ଷଣ/conservation) ଥିବା କାର୍ଯ୍ୟଗୁଡ଼ିକୁ ସମାନ ସମୟରେ ହାସଲ କରିପାରନ୍ତି ନାହିଁ; ଉଦାହରଣ ସ୍ୱରୂପ, ସେମାନେ ଓଜନ ସଂରକ୍ଷଣ ପୂର୍ବରୁ ବସ୍ତୁତ୍ୱ ସଂରକ୍ଷଣ ଶିଖନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783846524687-0",
+      "section": "Teaching Aptitude",
+      "topic": "Methods of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to William Heard Kilpatrick, what is the correct chronological sequence of the four basic steps involved in the 'Project Method' of teaching?",
+      "options": [
+        "Purposing, Planning, Executing, Judging",
+        "Planning, Purposing, Executing, Evaluating",
+        "Selecting, Executing, Planning, Judging",
+        "Purposing, Executing, Planning, Evaluating"
+      ],
+      "answer": 0,
+      "explanation": "William Heard Kilpatrick outlined four essential steps for his Project Method: Purposing (setting a goal/objective), Planning (devising a plan of action), Executing (carrying out the plan), and Judging (evaluating the results).",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ହାର୍ଡ କିଲପାଟ୍ରିକ୍‌ଙ୍କ ଅନୁଯାୟୀ, ଶିକ୍ଷାଦାନର 'ପ୍ରକଳ୍ପ ପଦ୍ଧତି' (Project Method) ରେ ଜଡ଼ିତ ଚାରୋଟି ମୂଳ ପଦକ୍ଷେପର ସଠିକ୍ କ୍ରମ କ’ଣ?",
+          "options": [
+            "ଉଦ୍ଦେଶ୍ୟ ରଖିବା (Purposing), ଯୋଜନା କରିବା (Planning), ସମ୍ପାଦନ କରିବା (Executing), ବିଚାର କରିବା (Judging)",
+            "ଯୋଜନା କରିବା (Planning), ଉଦ୍ଦେଶ୍ୟ ରଖିବା (Purposing), ସମ୍ପାଦନ କରିବା (Executing), ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluating)",
+            "ଚୟନ କରିବା (Selecting), ସମ୍ପାଦନ କରିବା (Executing), ଯୋଜନା କରିବା (Planning), ବିଚାର କରିବା (Judging)",
+            "ଉଦ୍ଦେଶ୍ୟ ରଖିବା (Purposing), ସମ୍ପାଦନ କରିବା (Executing), ଯୋଜନା କରିବା (Planning), ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluating)"
+          ],
+          "explanation": "ୱିଲିୟମ୍ ହାର୍ଡ କିଲପାଟ୍ରିକ୍ ତାଙ୍କ ପ୍ରକଳ୍ପ ପଦ୍ଧତି ପାଇଁ ଚାରୋଟି ଅପରିହାର୍ଯ୍ୟ ପଦକ୍ଷେପ ଦର୍ଶାଇଛନ୍ତି: ଉଦ୍ଦେଶ୍ୟ ରଖିବା (ଲକ୍ଷ୍ୟ ସ୍ଥିର କରିବା), ଯୋଜନା କରିବା (କାର୍ଯ୍ୟପନ୍ଥା ପ୍ରସ୍ତୁତ କରିବା), ସମ୍ପାଦନ କରିବା (ଯୋଜନାକୁ କାର୍ଯ୍ୟକାରୀ କରିବା) ଏବଂ ବିଚାର କରିବା (ଫଳାଫଳର ମୂଲ୍ୟାଙ୍କନ କରିବା)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783846524687-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Kolb's Experiential Learning Theory, which of the following represents the correct chronological sequence of the four stages in the learning cycle?",
+      "options": [
+        "Concrete Experience, Reflective Observation, Abstract Conceptualization, Active Experimentation",
+        "Concrete Experience, Active Experimentation, Reflective Observation, Abstract Conceptualization",
+        "Reflective Observation, Abstract Conceptualization, Active Experimentation, Concrete Experience",
+        "Abstract Conceptualization, Concrete Experience, Reflective Observation, Active Experimentation"
+      ],
+      "answer": 0,
+      "explanation": "David Kolb's Experiential Learning Model (ELM) posits a four-stage cycle: Concrete Experience (having an experience), Reflective Observation (reflecting on the experience), Abstract Conceptualization (learning from the experience/concluding), and Active Experimentation (trying out what you have learned).",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କୋଲବଙ୍କ ଅଭିଜ୍ଞତାଭିତ୍ତିକ ଶିକ୍ଷଣ ସିଦ୍ଧାନ୍ତ (Experiential Learning Theory) ରେ, ଶିକ୍ଷଣ ଚକ୍ରର ଚାରୋଟି ପର୍ଯ୍ୟାୟର ସଠିକ୍ କ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଦର୍ଶାଏ?",
+          "options": [
+            "ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation)",
+            "ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization)",
+            "ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation), ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience)",
+            "ବିମୂର୍ତ୍ତ ଅବଧାରଣା (Abstract Conceptualization), ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (Reflective Observation), ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation)"
+          ],
+          "explanation": "ଡେଭିଡ୍ କୋଲବଙ୍କ ଅଭିଜ୍ଞତାଭିତ୍ତିକ ଶିକ୍ଷଣ ମଡେଲ୍ (ELM) ଏକ ଚାରି-ପର୍ଯ୍ୟାୟ ଚକ୍ରକୁ ଉପସ୍ଥାପନ କରେ: ବାସ୍ତବ ଅଭିଜ୍ଞତା (ଅନୁଭୂତି ହାସଲ କରିବା), ପ୍ରତିଫଳିତ ପର୍ଯ୍ୟବେକ୍ଷଣ (ଅନୁଭୂତି ଉପରେ ଚିନ୍ତା କରିବା), ବିମୂର୍ତ୍ତ ଅବଧାରଣା (ଅନୁଭୂତିରୁ ଶିଖିବା/ଉପସଂହାର କରିବା) ଏବଂ ସକ୍ରିୟ ପରୀକ୍ଷଣ (ଶିଖିଥିବା ବିଷୟକୁ ପ୍ରୟୋଗ କରିବା)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783846648251-0",
+      "section": "Subject Knowledge",
+      "topic": "Organic Chemistry - Pericyclic Reactions",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The thermal electrocyclic ring-opening of trans-3,4-dimethylcyclobutene yields which of the following major products?",
+      "options": [
+        "(2E, 4E)-hexadiene via a conrotatory pathway",
+        "(2E, 4Z)-hexadiene via a conrotatory pathway",
+        "(2E, 4E)-hexadiene via a disrotatory pathway",
+        "(2E, 4Z)-hexadiene via a disrotatory pathway"
+      ],
+      "answer": 0,
+      "explanation": "According to the Woodward-Hoffmann rules, thermal electrocyclic reactions of 4n pi-electron systems (here, n=1 for cyclobutene) proceed via a conrotatory pathway. For trans-3,4-dimethylcyclobutene, the conrotatory rotation of the two methyl groups outwards minimizes steric hindrance, yielding (2E, 4E)-hexadiene as the major product.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ତାପୀୟ ଇଲେକ୍ଟ୍ରୋସାଇକ୍ଲିକ ବଳୟ-ଉନ୍ମୁକ୍ତ (thermal electrocyclic ring-opening) ପ୍ରକ୍ରିୟାରେ trans-3,4-dimethylcyclobutene ରୁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ମୁଖ୍ୟ ଉତ୍ପାଦ ମିଳିଥାଏ?",
+          "options": [
+            "କନରୋଟେଟୋରୀ (conrotatory) ପଥ ଦ୍ଵାରା (2E, 4E)-hexadiene",
+            "କନରୋଟେଟୋରୀ (conrotatory) ପଥ ଦ୍ଵାରା (2E, 4Z)-hexadiene",
+            "ଡିସରୋଟେଟୋରୀ (disrotatory) ପଥ ଦ୍ଵାରା (2E, 4E)-hexadiene",
+            "ଡିସରୋଟେଟୋରୀ (disrotatory) ପଥ ଦ୍ଵାରା (2E, 4Z)-hexadiene"
+          ],
+          "explanation": "ଉଡୱାର୍ଡ-ହଫମ୍ୟାନ୍ ନିୟମ ଅନୁଯାୟୀ, 4n pi-ଇଲେକ୍ଟ୍ରନ୍ ସିଷ୍ଟମ୍ (ଏଠାରେ, ସାଇକ୍ଲୋବ୍ୟୁଟିନ୍ ପାଇଁ n=1) ର ତାପୀୟ ଇଲେକ୍ଟ୍ରୋସାଇକ୍ଲିକ ପ୍ରତିକ୍ରିୟା ଏକ କନରୋଟେଟୋରୀ (conrotatory) ପଥ ଦ୍ଵାରା ସଂଘଟିତ ହୁଏ | trans-3,4-dimethylcyclobutene ପାଇଁ, ଦୁଇଟି ମିଥାଇଲ୍ ଗ୍ରୁପ୍ ବାହାର ଆଡକୁ କନରୋଟେଟୋରୀ ଘୂର୍ଣ୍ଣନ ଦ୍ଵାରା ଷ୍ଟେରିକ୍ ବାଧା ହ୍ରାସ ପାଇଥାଏ, ଯାହା ଫଳରେ (2E, 4E)-hexadiene ମୁଖ୍ୟ ଉତ୍ପାଦ ଭାବରେ ମିଳିଥାଏ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783846648251-1",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry - Magnetism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "For the high-spin Co2+ complex [Co(H2O)6]2+, the experimental magnetic moment is typically around 4.8 - 5.2 BM, which is significantly higher than the spin-only value. This deviation is primarily due to:",
+      "options": [
+        "Quenching of orbital angular momentum",
+        "Significant spin-orbit coupling from the 4T1g ground state",
+        "Jahn-Teller distortion reducing the symmetry",
+        "Metal-to-ligand charge transfer (MLCT) transitions"
+      ],
+      "answer": 1,
+      "explanation": "The high-spin Co2+ ion (d7) in an octahedral field has a 4T1g ground state. Because of the triple degeneracy of the T ground term, there is an unquenched orbital angular momentum. This orbital contribution, coupled with the spin angular momentum via spin-orbit coupling, significantly increases the magnetic moment beyond the spin-only value (~3.87 BM) to about 4.8 - 5.2 BM.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଉଚ୍ଚ-ସ୍ପିନ (high-spin) Co2+ ଜଟିଳ ଯୌଗିକ [Co(H2O)6]2+ ପାଇଁ, ପରୀକ୍ଷାମୂଳକ ଚୁମ୍ବକୀୟ ଆଘୂର୍ଣ୍ଣ (magnetic moment) ସାଧାରଣତଃ 4.8 - 5.2 BM ହୋଇଥାଏ, ଯାହାକି କେବଳ-ସ୍ପିନ (spin-only) ମୂଲ୍ୟଠାରୁ ଯଥେଷ୍ଟ ଅଧିକ | ଏହି ପରିବର୍ତ୍ତନର ମୁଖ୍ୟ କାରଣ ହେଉଛି:",
+          "options": [
+            "କକ୍ଷୀୟ କୋଣୀୟ ସଂବେଗର ପ୍ରଶମନ (Quenching of orbital angular momentum)",
+            "4T1g ଭୂମି ଅବସ୍ଥା (ground state) ରୁ ଗୁରୁତ୍ଵପୂର୍ଣ୍ଣ ସ୍ପିନ-କକ୍ଷୀୟ ଯୁଗ୍ମନ (spin-orbit coupling)",
+            "ଜାନ୍-ଟେଲର୍ ବିକୃତି (Jahn-Teller distortion) ଯାହା ସମମିତିକୁ ହ୍ରାସ କରେ",
+            "ଧାତୁ-ରୁ-ଲିଗାଣ୍ଡ ଚାର୍ଜ ସ୍ଥାନାନ୍ତରଣ (MLCT) ସଂକ୍ରମଣ"
+          ],
+          "explanation": "ଅଷ୍ଟଫଳକୀୟ (octahedral) କ୍ଷେତ୍ରରେ ଉଚ୍ଚ-ସ୍ପିନ Co2+ ଆୟନ (d7) ର ଏକ 4T1g ଭୂମି ଅବସ୍ଥା ଥାଏ | T ଭୂମି ଅବସ୍ଥାର ତ୍ରି-କ୍ଷୟୀୟ (triple degeneracy) ଗୁଣ ଯୋଗୁଁ, ଏହାର କକ୍ଷୀୟ କୋଣୀୟ ସଂବେଗ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ପ୍ରଶମିତ ହୋଇନଥାଏ | ଏହି କକ୍ଷୀୟ ଅବଦାନ, ସ୍ପିନ-କକ୍ଷୀୟ ଯୁଗ୍ମନ (spin-orbit coupling) ମାଧ୍ୟମରେ ସ୍ପିନ କୋଣୀୟ ସଂବେଗ ସହିତ ଯୁକ୍ତ ହୋଇ ଚୁମ୍ବକୀୟ ଆଘୂର୍ଣ୍ଣକୁ କେବଳ-ସ୍ପିନ ମୂଲ୍ୟ (~3.87 BM) ଠାରୁ ଯଥେଷ୍ଟ ବୃଦ୍ଧି କରି ପ୍ରାୟ 4.8 - 5.2 BM କରିଥାଏ |"
         }
       }
     }

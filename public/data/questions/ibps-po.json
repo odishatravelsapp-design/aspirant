@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2571,6 +2571,102 @@
       "answer": 3,
       "explanation": "The RBI's PCA framework for NBFCs focuses on capital adequacy (CRAR and Tier I Capital Ratio) and asset quality (Net NPA ratio) as key indicators. Debt Service Coverage Ratio (DSCR) is not a parameter under the PCA framework for NBFCs.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783845820319-0",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A committee of 5 members is to be formed from 6 men and 5 women. What is the probability that the committee contains at least 3 women?",
+      "options": [
+        "181/462",
+        "91/231",
+        "19/42",
+        "83/231"
+      ],
+      "answer": 0,
+      "explanation": "To find the probability, we first calculate the total number of ways to form a committee of 5 from 11 people (6 men + 5 women):\nTotal ways = 11C5 = (11 * 10 * 9 * 8 * 7) / (5 * 4 * 3 * 2 * 1) = 462.\n\nNext, we find the favorable cases for 'at least 3 women':\nCase 1: 3 women and 2 men\nWays = 5C3 * 6C2 = 10 * 15 = 150\n\nCase 2: 4 women and 1 man\nWays = 5C4 * 6C1 = 5 * 6 = 30\n\nCase 3: 5 women and 0 men\nWays = 5C5 * 6C0 = 1 * 1 = 1\n\nTotal favorable ways = 150 + 30 + 1 = 181.\n\nRequired Probability = 181/462."
+    },
+    {
+      "id": "ibps-po-ai-1783845820319-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C enter into a partnership. A invests Rs. X, B invests Rs. (X + 4000), and C invests Rs. (X + 8000). After 6 months, A increases his investment by Rs. 2000, B increases his investment by Rs. 4000, and C withdraws Rs. 2000 from his investment. If the ratio of the profit shares of A, B, and C at the end of one year is 15 : 25 : 27 respectively, find the value of X.",
+      "options": [
+        "Rs. 6000",
+        "Rs. 6500",
+        "Rs. 7000",
+        "Rs. 7500"
+      ],
+      "answer": 1,
+      "explanation": "Let's calculate the equivalent investment for 1 month for each partner:\n\nA's equivalent investment = (X * 6) + ((X + 2000) * 6) = 12X + 12000\nB's equivalent investment = ((X + 4000) * 6) + ((X + 8000) * 6) = 12X + 72000\nC's equivalent investment = ((X + 8000) * 6) + ((X + 6000) * 6) = 12X + 84000\n\nRatio of profit shares of A : B : C = (12X + 12000) : (12X + 72000) : (12X + 84000)\nDividing all terms by 12, the ratio becomes:\n(X + 1000) : (X + 6000) : (X + 7000)\n\nGiven this ratio is 15 : 25 : 27, we can write:\n(X + 1000) / (X + 6000) = 15 / 25 = 3 / 5\n\nSolving for X:\n5(X + 1000) = 3(X + 6000)\n5X + 5000 = 3X + 18000\n2X = 13000\nX = 6500.\n\nChecking with C's ratio: (6500 + 6000) / (6500 + 7000) = 12500 / 13500 = 25 / 27, which is correct."
+    },
+    {
+      "id": "ibps-po-ai-1783845844995-0",
+      "section": "Reasoning",
+      "topic": "Course of Action",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statement: In metropolitan cities, there has been a significant rise in cases of respiratory illnesses among children below the age of 10 over the last two years. Air quality index (AQI) levels in these cities have consistently remained in the 'poor' to 'severe' categories during winters.\n\nCourses of Action:\nI. The government should immediately shut down all primary schools in metropolitan cities permanently to avoid health hazards.\nII. The government should implement strict regulations on vehicular emissions and construction activities, especially during the winter months, while promoting virtual classes for young children on high-pollution days.",
+      "options": [
+        "Only course of action I follows",
+        "Only course of action II follows",
+        "Either course of action I or II follows",
+        "Neither course of action I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "Course of Action I is an extreme and impractical measure because permanently closing schools is not a viable solution to air pollution and severely disrupts education. Course of Action II is a balanced, logical, and practical mitigation strategy that addresses the source of the pollution (emissions and construction) while protecting vulnerable children through temporary virtual classes on severe days. Thus, only II follows."
+    },
+    {
+      "id": "ibps-po-ai-1783845844995-1",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.\n\nQuestion: Five people – A, B, C, D, and E – sit around a circular table facing the center. Who sits to the immediate left of C?\n\nStatements:\nI. B sits second to the right of C. D is an immediate neighbor of B.\nII. E sits second to the left of D. A is not an immediate neighbor of C.",
+      "options": [
+        "The data in statement I alone is sufficient to answer the question, while the data in statement II alone is not sufficient.",
+        "The data in statement II alone is sufficient to answer the question, while the data in statement I alone is not sufficient.",
+        "The data either in statement I alone or in statement II alone is sufficient to answer the question.",
+        "The data in both statements I and II together are necessary to answer the question."
+      ],
+      "answer": 3,
+      "explanation": "Let the five circular positions be 0, 1, 2, 3, and 4 in a counter-clockwise direction (rightwards). Let C be at 0. From Statement I: B sits second to the right of C, so B is at 2. Since D is an immediate neighbor of B, D can be at 1 or 3. Statement I alone is not sufficient. Statement II alone has no reference to C or B and is not sufficient. Combining I and II: Case A (D is at 1): E sits second to the left of D (clockwise), placing E at 4. The remaining spot 3 is for A. Here, A is at 3, which is not adjacent to C (at 0). This satisfies the condition 'A is not an immediate neighbor of C'. In this arrangement, E is to the immediate left of C (position 4). Case B (D is at 3): E sits second to the left of D, placing E at 1. The remaining spot 4 is for A. Here, A is at 4, which is adjacent to C (at 0). This violates the condition 'A is not an immediate neighbor of C', so Case B is eliminated. Thus, we get a unique arrangement using both statements. Therefore, both statements together are necessary."
+    },
+    {
+      "id": "ibps-po-ai-1783845868969-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence given below, what is the precise meaning of the highlighted phrasal verb?\n\n'The government is trying to claw back some of the subsidies granted to the oil sector during the fiscal surplus.'",
+      "options": [
+        "To gradually retrieve or win back money or power that was previously given away",
+        "To completely abolish all future financial assistance with immediate effect",
+        "To distribute additional emergency funds to cover unexpected losses",
+        "To audit the financial records of an organization to detect fraudulent activities"
+      ],
+      "answer": 0,
+      "explanation": "The phrasal verb 'claw back' means to recover or take back money, power, or a performance advantage that has been previously surrendered or allocated. In this context, it refers to recovering subsidies."
+    },
+    {
+      "id": "ibps-po-ai-1783845868969-1",
+      "section": "English",
+      "topic": "Contextual Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, a word has been bolded. Identify the option that represents the most suitable antonym for this word in the given context.\n\n'The diplomat's trenchant analysis of the geopolitical crisis left no room for ambiguity, forcing both nations to reconsider their aggressive stances.'",
+      "options": [
+        "Flaccid and ambiguous",
+        "Incisive and penetrating",
+        "Caustic and vitriolic",
+        "Spontaneous and erratic"
+      ],
+      "answer": 0,
+      "explanation": "'Trenchant' means vigorous, incisive, sharp, and clear-cut in expression or style. Its antonym must denote a lack of force, sharpness, or clarity. 'Flaccid' (lacking vigor or effectiveness) and 'ambiguous' (unclear or double-meaning) serve as the perfect antonyms. Option B contains synonyms, Option C contains related but distinct terms, and Option D is irrelevant."
     }
   ]
 }

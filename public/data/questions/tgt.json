@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -1046,6 +1046,64 @@
             "ଈଶ୍ୱର ଚନ୍ଦ୍ର ବିଦ୍ୟାସାଗର"
           ],
           "explanation": "ରାଜା ରାମମୋହନ ରାୟ ୧୮୧୫ ମସିହାରେ କଲିକତାରେ ଆତ୍ମୀୟ ସଭା ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ଏହାର ଉଦ୍ଦେଶ୍ୟ ଥିଲା ଏକେଶ୍ୱରବାଦୀ ଆଦର୍ଶ ଉପରେ ଦାର୍ଶନିକ ଆଲୋଚନା କରିବା ଏବଂ ସାମାଜିକ କୁସଂସ୍କାର ତଥା ରକ୍ଷଣଶୀଳ ରୀତିନୀତି ବିରୁଦ୍ଧରେ ସ୍ୱର ଉତ୍ତୋଳନ କରିବା।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783847611748-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the VSEPR theory, which of the following molecules/ions has a linear shape?",
+      "options": [
+        "H2O",
+        "SO2",
+        "XeF2",
+        "OF2"
+      ],
+      "answer": 2,
+      "explanation": "XeF2 (Xenon difluoride) has 5 electron pairs around the central Xenon atom (2 bonding pairs and 3 lone pairs). According to VSEPR theory, these arrange in a trigonal bipyramidal geometry with the three lone pairs occupying the equatorial positions to minimize repulsion, resulting in a linear molecular shape.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "VSEPR ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଅଣୁ/ଆୟନର ଆକୃତି ରୈଖିକ (linear) ଅଟେ?",
+          "options": [
+            "H2O",
+            "SO2",
+            "XeF2",
+            "OF2"
+          ],
+          "explanation": "XeF2 (ଜେନନ୍ ଡାଇଫ୍ଲୋରାଇଡ୍) ର କେନ୍ଦ୍ରୀୟ ଜେନନ୍ ପରମାଣୁ ଚାରିପାଖରେ ୫ଟି ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗ୍ମ (୨ଟି ବନ୍ଧ ଯୁଗ୍ମ ଏବଂ ୩ଟି ଏକକ ଯୁଗ୍ମ) ଥାଏ। VSEPR ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ବିକର୍ଷଣକୁ ହ୍ରାସ କରିବା ପାଇଁ ୩ଟି ଯାକ ଏକକ ଯୁଗ୍ମ ବିଷୁବରେଖୀୟ (equatorial) ସ୍ଥାନ ଗ୍ରହଣ କରନ୍ତି, ଯାହାଫଳରେ ଏହାର ଆକୃତି ରୈଖିକ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1783847611748-1",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Age Poetry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "William Wordsworth's autobiographical masterpiece 'The Prelude' was published posthumously in 1850. By what name did Wordsworth himself generally refer to this poem during his lifetime?",
+      "options": [
+        "The Excursion",
+        "Poem to Coleridge",
+        "The Growth of a Poet's Mind",
+        "Lyrical Ballads"
+      ],
+      "answer": 1,
+      "explanation": "During his lifetime, Wordsworth did not give a formal title to his autobiographical poem, usually referring to it as the 'poem to Coleridge'. It was named 'The Prelude' by his widow, Mary Wordsworth, when it was published shortly after his death in 1850.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ ୱାର୍ଡ଼ସୱର୍ଥଙ୍କ ଆତ୍ମଜୀବନୀମୂଳକ କାବ୍ୟ 'ଦି ପ୍ରିଲ୍ୟୁଡ୍' (The Prelude) ତାଙ୍କ ମୃତ୍ୟୁ ପରେ ୧୮୫୦ ମସିହାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା। ନିଜ ଜୀବନକାଳ ମଧ୍ୟରେ ୱାର୍ଡ଼ସୱର୍ଥ ସାଧାରଣତଃ ଏହି କବିତାକୁ କେଉଁ ନାମରେ ସମ୍ବୋଧନ କରୁଥିଲେ?",
+          "options": [
+            "ଦି ଏକ୍ସକର୍ସନ୍ (The Excursion)",
+            "ପୋଏମ୍ ଟୁ କୋଲେରିଜ୍ (Poem to Coleridge)",
+            "ଦି ଗ୍ରୋଥ୍ ଅଫ୍ ଏ ପୋଏଟ୍ସ ମାଇଣ୍ଡ୍ (The Growth of a Poet's Mind)",
+            "ଲିରିକାଲ୍ ବାଲାଡ୍ସ (Lyrical Ballads)"
+          ],
+          "explanation": "ତାଙ୍କ ଜୀବନକାଳ ମଧ୍ୟରେ, ୱାର୍ଡ଼ସୱର୍ଥ ତାଙ୍କର ଏହି ଆତ୍ମଜୀବନୀମୂଳକ କବିତାକୁ କୌଣସି ଆନୁଷ୍ଠାନିକ ଶୀର୍ଷକ ଦେଇନଥିଲେ ଏବଂ ସାଧାରଣତଃ ଏହାକୁ 'ପୋଏମ୍ ଟୁ କୋଲେରିଜ୍' (କୋଲେରିଜ୍‌ଙ୍କୁ ଉଦ୍ଦିଷ୍ଟ କବିତା) ବୋଲି କହୁଥିଲେ। ୧୮୫୦ ମସିହାରେ ତାଙ୍କ ମୃତ୍ୟୁର କିଛି ସମୟ ପରେ ଯେତେବେଳେ ଏହା ପ୍ରକାଶିତ ହେଲା, ତାଙ୍କ ବିଧବା ପତ୍ନୀ ମେରି ୱାର୍ଡ଼ସୱର୍ଥ ଏହାର ନାମ 'ଦି ପ୍ରିଲ୍ୟୁଡ୍' ରଖିଥିଲେ।"
         }
       }
     }
