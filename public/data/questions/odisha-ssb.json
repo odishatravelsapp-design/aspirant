@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -3894,6 +3894,122 @@
             "ଜେ. ଏଚ. ରେଭେନ୍ସା"
           ],
           "explanation": "ଓଡ଼ିଶା ଗଡ଼ଜାତର ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ମେଜର ଆର. ଏଲ. ବାଜେଲଗେଟ୍‌ଙ୍କୁ ୫ ଜାନୁଆରୀ ୧୯୩୯ରେ ରଣପୁରର ଅତ୍ୟାଚାରୀ ଶାସକଙ୍କ ବିରୋଧରେ ଚାଲିଥିବା ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ଏକ ଉତ୍ତ୍ୟକ୍ତ ଜନତା ହତ୍ୟା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783943827144-0",
+      "section": "Subject Knowledge",
+      "topic": "Narratology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Gérard Genette’s 'Narrative Discourse' (1980), which term refers to the temporal relationship of speed or tempo between the story (histoire) and the narrative (récit), encompassing ellipses, pauses, scenes, and summaries?",
+      "options": [
+        "Order",
+        "Duration",
+        "Frequency",
+        "Voice"
+      ],
+      "answer": 1,
+      "explanation": "According to Gérard Genette's structuralist narratology, 'Duration' (durée) refers to the speed or pace of the narrative, which is determined by the relationship between the duration of the story events (in minutes, hours, days, or years) and the length of the text dedicated to them (in lines or pages). This is categorized into four main movements: ellipsis, pause, scene, and summary.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେରାର୍ଡ ଜେନେଟ୍‌ଙ୍କ ‘ନାରେଟିଭ୍ ଡିସ୍କୋର୍ସ’ (୧୯୮୦) ରେ, କାହାଣୀର ପ୍ରକୃତ ସମୟ (histoire) ଏବଂ ବର୍ଣ୍ଣନାତ୍ମକ ସମୟ (récit) ମଧ୍ୟରେ ଥିବା ଗତି ବା ବେଗର ସମ୍ପର୍କକୁ କେଉଁ ଶବ୍ଦ ଦ୍ୱାରା ସୂଚିତ କରାଯାଏ, ଯେଉଁଥିରେ ଏଲିପସିସ୍, ବିରତି, ଦୃଶ୍ୟ ଏବଂ ସାରାଂଶ ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "କ୍ରମ (Order)",
+            "ଅବଧି (Duration)",
+            "ଆବୃତ୍ତି (Frequency)",
+            "ସ୍ୱର (Voice)"
+          ],
+          "explanation": "ଜେରାର୍ଡ ଜେନେଟ୍‌ଙ୍କ ସଂରଚନାବାଦୀ ବର୍ଣ୍ଣନା ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, 'Duration' (ଅବଧି) ହେଉଛି କାହାଣୀର ଘଟଣାବଳୀର ସମୟ ଏବଂ ପାଠ୍ୟରେ ସେଗୁଡ଼ିକୁ ପ୍ରକାଶ କରିବା ପାଇଁ ନିଆଯାଇଥିବା ସମୟ ବା ଦୈର୍ଘ୍ୟ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କ । ଏହାକୁ ଚାରୋଟି ମୁଖ୍ୟ ଭାଗରେ ବିଭକ୍ତ କରାଯାଇଛି: ଏଲିପସିସ୍ (ellipsis), ବିରତି (pause), ଦୃଶ୍ୟ (scene) ଏବଂ ସାରାଂଶ (summary) ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783943827144-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian English Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Nissim Ezekiel's famous autobiographical poem 'Background, Casually', the poet reflects on his identity as a member of which specific community in India?",
+      "options": [
+        "Bene Israel Jewish community",
+        "Anglo-Indian community",
+        "Parsi Zoroastrian community",
+        "Syrian Christian community"
+      ],
+      "answer": 0,
+      "explanation": "Nissim Ezekiel was born into the Bene Israel Jewish community, a historic Jewish community in Maharashtra, India. His poem 'Background, Casually' poignantly explores his experiences of alienation, marginalization, and ultimate belonging in India through this specific cultural lens.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିସିମ୍ ଏଜିକିଏଲ୍‌ଙ୍କ ପ୍ରସିଦ୍ଧ ଆତ୍ମଜୀବନୀମୂଳକ କବିତା 'ବ୍ୟାକଗ୍ରାଉଣ୍ଡ, କାଜୁଆଲି' (Background, Casually) ରେ, କବି ଭାରତର କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ସମ୍ପ୍ରଦାୟର ସଦସ୍ୟ ଭାବରେ ନିଜର ପରିଚୟ ପ୍ରତିଫଳିତ କରିଛନ୍ତି?",
+          "options": [
+            "ବେନେ ଇସ୍ରାଏଲ୍ ଯିହୁଦୀ ସମ୍ପ୍ରଦାୟ (Bene Israel Jewish community)",
+            "ଆଙ୍ଗ୍ଲୋ-ଇଣ୍ଡିଆନ୍ ସମ୍ପ୍ରଦାୟ (Anglo-Indian community)",
+            "ପାର୍ସୀ ଜୋରାଷ୍ଟ୍ରିଆନ୍ ସମ୍ପ୍ରଦାୟ (Parsi Zoroastrian community)",
+            "ସିରିଆନ୍ ଖ୍ରୀଷ୍ଟିଆନ ସମ୍ପ୍ରଦାୟ (Syrian Christian community)"
+          ],
+          "explanation": "ନିସିମ୍ ଏଜିକିଏଲ୍ ଭାରତର ମହାରାଷ୍ଟ୍ରରେ ଥିବା ଏକ ପ୍ରାଚୀନ ଯିହୁଦୀ ସମ୍ପ୍ରଦାୟ 'ବେନେ ଇସ୍ରାଏଲ୍' ରେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ । ତାଙ୍କର କବିତା 'Background, Casually' ରେ ସେ ଏହି ସାଂସ୍କୃତିକ ପୃଷ୍ଠଭୂମିକୁ ନେଇ ଭାରତୀୟ ସମାଜରେ ନିଜର ବିଚ୍ଛିନ୍ନତା ଏବଂ ପରିଚୟର ଅନୁଭୂତିକୁ ଦର୍ଶାଇଛନ୍ତି ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783944475946-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History & Archaeology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Asanpat stone inscription, which depicts the Tandava dance of Lord Shiva and provides valuable historical information about the king Satrubhanja, is preserved in which museum?",
+      "options": [
+        "Odisha State Museum, Bhubaneswar",
+        "Khiching Museum, Mayurbhanj",
+        "Puri District Museum",
+        "Sambalpur University Museum"
+      ],
+      "answer": 0,
+      "explanation": "The Asanpat stone inscription of the 3rd-4th century AD was found in Keonjhar district. It depicts an eight-armed Lord Shiva performing the Tandava dance and records the achievements of the Bhanja ruler Satrubhanja. It is preserved in the Odisha State Museum, Bhubaneswar.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭଗବାନ ଶିବଙ୍କ ତାଣ୍ଡବ ନୃତ୍ୟ ଚିତ୍ରଣ କରୁଥିବା ଏବଂ ରାଜା ଶତ୍ରୁଭଞ୍ଜଙ୍କ ବିଷୟରେ ମୂଲ୍ୟବାନ ଐତିହାସିକ ସୂଚନା ପ୍ରଦାନ କରୁଥିବା ପ୍ରସିଦ୍ଧ 'ଆସନପାଟ' ଶିଳାଲେଖ ବର୍ତ୍ତମାନ କେଉଁ ସଂଗ୍ରହାଳୟରେ ସଂରକ୍ଷିତ ଅଛି?",
+          "options": [
+            "ଓଡ଼ିଶା ରାଜ୍ୟ ସଂଗ୍ରହାଳୟ, ଭୁବନେଶ୍ୱର",
+            "ଖିଚିଙ୍ଗ୍ ସଂଗ୍ରହାଳୟ, ମୟୂରଭଞ୍ଜ",
+            "ପୁରୀ ଜିଲ୍ଲା ସଂଗ୍ରହାଳୟ",
+            "ସମ୍ବଲପୁର ବିଶ୍ୱବିଦ୍ୟାଳୟ ସଂଗ୍ରହାଳୟ"
+          ],
+          "explanation": "ତୃତୀୟ-ଚତୁର୍ଥ ଶତାବ୍ଦୀର କେନ୍ଦୁଝର ଜିଲ୍ଲାରୁ ମିଳିଥିବା ଆସନପାଟ ଶିଳାଲେଖରେ ଆଠ ହାତ ବିଶିଷ୍ଟ ଭଗବାନ ଶିବଙ୍କ ତାଣ୍ଡବ ନୃତ୍ୟ ଚିତ୍ରିତ ହୋଇଛି ଏବଂ ଭଞ୍ଜ ଶାସକ ଶତ୍ରୁଭଞ୍ଜଙ୍କ କୀର୍ତ୍ତି ବର୍ଣ୍ଣନା କରାଯାଇଛି। ଏହା ଓଡ଼ିଶା ରାଜ୍ୟ ସଂଗ୍ରହାଳୟ, ଭୁବନେଶ୍ୱରରେ ସଂରକ୍ଷିତ ଅଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1783944475946-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Modern History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first woman to be elected to the Odisha Legislative Assembly in the year 1937?",
+      "options": [
+        "Sarala Devi",
+        "Rama Devi",
+        "Malati Choudhury",
+        "Kokila Devi"
+      ],
+      "answer": 0,
+      "explanation": "Sarala Devi was a prominent freedom fighter, feminist, and social reformer who became the first woman elected to the Odisha Legislative Assembly in 1937 from the Cuttack town constituency.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ମସିହାରେ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା କିଏ ଥିଲେ?",
+          "options": [
+            "ସରଳା ଦେବୀ",
+            "ରମା ଦେବୀ",
+            "ମାଳତୀ ଚୌଧୁରୀ",
+            "କୋକିଳା ଦେବୀ"
+          ],
+          "explanation": "ସରଳା ଦେବୀ ଜଣେ ପ୍ରମୁଖ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ, ନାରୀବାଦୀ ଏବଂ ସମାଜ ସଂସ୍କାରକ ଥିଲେ ଯିଏ ୧୯୩୭ ମସିହାରେ କଟକ ସହର ନିର୍ବାଚନ ମଣ୍ଡଳୀରୁ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ହୋଇଥିଲେ।"
         }
       }
     }

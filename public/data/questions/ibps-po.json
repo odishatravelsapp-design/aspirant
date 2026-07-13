@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2667,6 +2667,136 @@
       ],
       "answer": 0,
       "explanation": "'Trenchant' means vigorous, incisive, sharp, and clear-cut in expression or style. Its antonym must denote a lack of force, sharpness, or clarity. 'Flaccid' (lacking vigor or effectiveness) and 'ambiguous' (unclear or double-meaning) serve as the perfect antonyms. Option B contains synonyms, Option C contains related but distinct terms, and Option D is irrelevant."
+    },
+    {
+      "id": "ibps-po-ai-1783943467863-0",
+      "section": "Quant",
+      "topic": "Mixture & Alligation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio of 7 : 5. If 9 liters of this mixture is drawn off and the vessel is filled with water, the ratio of milk and water becomes 7 : 9. How many liters of milk was contained by the vessel initially?",
+      "options": [
+        "21 liters",
+        "24 liters",
+        "18 liters",
+        "27 liters"
+      ],
+      "answer": 0,
+      "explanation": "Let the initial quantity of milk and water be 7x and 5x respectively. Total initial mixture = 12x liters. When 9 liters of mixture is drawn off, the ratio of milk and water in the remaining mixture remains 7 : 5. Remaining mixture = 12x - 9. After adding 9 liters of water, the new ratio of milk to water becomes 7 : 9. Since the quantity of milk remains unchanged in the remaining mixture, we can write: Remaining Milk / (Remaining Water + 9) = 7/9. Let the remaining mixture components be 7k and 5k. Since water is added, 7k / (5k + 9) = 7/9 => 9k = 5k + 9 => 4k = 9 => k = 2.25. Remaining mixture = 12k = 12 * 2.25 = 27 liters. Thus, initial mixture = 27 + 9 = 36 liters. Initial quantity of milk = (7/12) * 36 = 21 liters."
+    },
+    {
+      "id": "ibps-po-ai-1783943467863-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A box contains 4 red balls, 5 black balls, and 6 white balls. If 4 balls are drawn at random, what is the probability that at least one ball of each color is drawn?",
+      "options": [
+        "36/91",
+        "48/91",
+        "24/91",
+        "52/91"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 4 + 5 + 6 = 15 balls. Number of ways to draw 4 balls from 15 is 15C4 = (15 * 14 * 13 * 12) / (4 * 3 * 2 * 1) = 1365. To get at least one ball of each color when drawing 4 balls, the distribution of colors must be either (2 Red, 1 Black, 1 White), (1 Red, 2 Black, 1 White), or (1 Red, 1 Black, 2 White). Case 1: 2 Red, 1 Black, 1 White = 4C2 * 5C1 * 6C1 = 6 * 5 * 6 = 180 ways. Case 2: 1 Red, 2 Black, 1 White = 4C1 * 5C2 * 6C1 = 4 * 10 * 6 = 240 ways. Case 3: 1 Red, 1 Black, 2 White = 4C1 * 5C1 * 6C2 = 4 * 5 * 15 = 300 ways. Total favorable ways = 180 + 240 + 300 = 720 ways. Required Probability = 720 / 1365 = 48/91."
+    },
+    {
+      "id": "ibps-po-ai-1783943486034-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Papers are Books.\nAll Books are Pens.\nNo Pen is a Pencil.\n\nConclusions:\nI. All Papers can never be Pencils.\nII. All Pens being Papers is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few Papers are Books' means 'Some Papers are Books' and 'Some Papers are not Books'. Since 'All Books are Pens', the Papers which are Books are also Pens. Since 'No Pen is a Pencil', these Papers can never be Pencils. Thus, 'All Papers can never be Pencils' is definitely true.\n2. For Conclusion II, we can draw a possibility diagram where all Pens are inside Papers, and only a part of Papers is Books. This satisfies all statements. Thus, 'All Pens being Papers is a possibility' is also true."
+    },
+    {
+      "id": "ibps-po-ai-1783943486034-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statement: To curtail the rising attrition rate among its top-performing middle-management employees, XYZ Corp has decided to introduce employee stock options (ESOPs) with a three-year vesting period starting this fiscal year.\n\nAssumptions:\nI. Offering stock options with a vesting period is likely to incentivize employees to remain with the organization for at least the vesting period.\nII. Attrition among lower-management and entry-level employees is not a significant concern for XYZ Corp.\nIII. Middle-management employees value equity-based compensation as a significant benefit.",
+      "options": [
+        "Only I is implicit",
+        "Only I and III are implicit",
+        "Only II and III are implicit",
+        "All I, II, and III are implicit"
+      ],
+      "answer": 1,
+      "explanation": "Assumption I is implicit because the core logic of introducing a 3-year vesting period is to retain employees for at least that duration. Assumption II is not implicit because addressing middle-management attrition does not automatically mean that entry-level or lower-management attrition is not a concern. Assumption III is implicit because any incentive strategy assumes that the target group values the benefit being offered; otherwise, the initiative would be futile."
+    },
+    {
+      "id": "ibps-po-ai-1783943522642-0",
+      "section": "English",
+      "topic": "Grammar - Dangling Modifiers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Correct the dangling modifier in the given sentence: 'Having lived in Mumbai for ten years, the local trains no longer bother me.'",
+      "options": [
+        "Having lived in Mumbai for ten years, I am no longer bothered by the local trains.",
+        "Having lived in Mumbai for ten years, the local trains do not bother me anymore.",
+        "As I lived in Mumbai for ten years, the local trains no longer bother me.",
+        "Lived in Mumbai for ten years, the local trains no longer bother me."
+      ],
+      "answer": 0,
+      "explanation": "In the original sentence, the introductory participle phrase 'Having lived in Mumbai for ten years' danglingly modifies 'the local trains' (making it sound as if the trains lived in Mumbai). To correct this, the subject of the main clause must be the person who lived in Mumbai, which is 'I'. Option A correctly restructures the main clause to resolve this modifier error."
+    },
+    {
+      "id": "ibps-po-ai-1783943522642-1",
+      "section": "English",
+      "topic": "Grammar - Subjunctive Inversion",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Complete the conditional inversion in the following sentence: 'Were the company ___________ bankruptcy, the employees would still receive their severance packages under the new policy.'",
+      "options": [
+        "to file for",
+        "filed for",
+        "filing for",
+        "to have filed"
+      ],
+      "answer": 0,
+      "explanation": "This sentence uses an inverted second conditional structure. The standard conditional 'If the company were to file for...' is inverted by placing 'Were' at the beginning, followed by the subject and the 'to-infinitive'. Thus, 'Were the company to file for...' is grammatically precise and contextually correct."
+    },
+    {
+      "id": "ibps-po-ai-1783943577552-0",
+      "section": "General Awareness",
+      "topic": "Development Financial Institutions",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the National Bank for Financing Infrastructure and Development (NaBFID) Act, 2021, what is the authorized share capital of NaBFID?",
+      "options": [
+        "₹50,000 crore",
+        "₹1,00,000 crore",
+        "₹1,50,000 crore",
+        "₹2,00,000 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the National Bank for Financing Infrastructure and Development (NaBFID) Act, 2021, the authorized share capital of NaBFID is ₹1,00,000 crore (one lakh crore rupees).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1783943577552-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Instruments",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following is a key distinguishing feature of the Standing Deposit Facility (SDF), introduced by the Reserve Bank of India (RBI) in April 2022, compared to the traditional Fixed Rate Reverse Repo?",
+      "options": [
+        "SDF requires the RBI to collateralize the deposits with Government Securities.",
+        "SDF is a collateral-free mechanism where the RBI is not required to provide government securities to banks.",
+        "SDF is exclusively available to cooperative banks and regional rural banks.",
+        "The interest rate on the SDF is fixed at 50 basis points above the Marginal Standing Facility (MSF) rate."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) is an inflation-control tool that allows the RBI to absorb excess liquidity from the commercial banking system without providing government securities as collateral. This distinguishes it from the Reverse Repo, which requires collateral backing.",
+      "status": "pending"
     }
   ]
 }

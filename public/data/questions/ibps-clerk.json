@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -2912,6 +2912,102 @@
       "answer": 1,
       "explanation": "Under the Priority Sector Lending guidelines of the RBI, domestic scheduled commercial banks are required to allocate 7.5% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBSE), whichever is higher, to Micro Enterprises.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1783943111775-0",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A sum of money invested at compound interest (compounded annually) amounts to Rs. 4,624 in 2 years and Rs. 4,913 in 3 years. Find the sum.",
+      "options": [
+        "Rs. 4,000",
+        "Rs. 4,096",
+        "Rs. 4,200",
+        "Rs. 3,840"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal be P and the rate of interest be R% per annum. Amount after 2 years, A2 = P(1 + R/100)^2 = 4624. Amount after 3 years, A3 = P(1 + R/100)^3 = 4913. Dividing A3 by A2, we get: (1 + R/100) = 4913 / 4624. Since 4913 = 17^3 and 4624 = 17^2 * 16, the ratio simplifies to 17/16. Substituting (1 + R/100) = 17/16 into the A2 equation: P * (17/16)^2 = 4624 => P * (289/256) = 4624 => P = (4624 * 256) / 289. Since 4624 / 289 = 16, we have P = 16 * 256 = Rs. 4,096."
+    },
+    {
+      "id": "ibps-clerk-ai-1783943111775-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio of 5 : 3. If 24 liters of this mixture is taken out and replaced with 16 liters of water, the ratio of milk to water in the final mixture becomes 3 : 2. What was the initial quantity of the mixture in the vessel?",
+      "options": [
+        "360 liters",
+        "408 liters",
+        "424 liters",
+        "480 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial quantity of the mixture be 8x liters. Milk = 5x and Water = 3x. When 24 liters of mixture is removed, milk removed = 24 * (5/8) = 15 liters, and water removed = 24 * (3/8) = 9 liters. Remaining milk = 5x - 15, and remaining water = 3x - 9. After adding 16 liters of water, new water quantity = 3x - 9 + 16 = 3x + 7. The new ratio of milk to water is 3 : 2. Therefore, (5x - 15) / (3x + 7) = 3 / 2 => 2(5x - 15) = 3(3x + 7) => 10x - 30 = 9x + 21 => x = 51. The initial quantity of the mixture was 8x = 8 * 51 = 408 liters."
+    },
+    {
+      "id": "ibps-clerk-ai-1783943134922-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, if 'BEYOND' is written as 'AFXPMC' and 'PRINTS' is written as 'OQJMSR', how will 'GOLDEN' be written in that code language?",
+      "options": [
+        "FPKCFM",
+        "FPKBEM",
+        "GPKCFM",
+        "FPLCGM"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed is: Vowels are shifted to their next letter (+1) and Consonants are shifted to their previous letter (-1) in the alphabetical order. For GOLDEN: G (consonant - 1) = F, O (vowel + 1) = P, L (consonant - 1) = K, D (consonant - 1) = C, E (vowel + 1) = F, N (consonant - 1) = M. Thus, GOLDEN is coded as FPKCFM."
+    },
+    {
+      "id": "ibps-clerk-ai-1783943134922-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Five friends A, B, C, D, and E are sitting around a circular table facing the center. A is second to the left of C. B is the immediate neighbor of both C and D. E is to the immediate right of A. Who is sitting to the immediate left of D?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Let us place the friends around the circle facing the center (where clockwise represents left and counter-clockwise represents right). Place C at a position. A is second to the left (clockwise) of C. B is the neighbor of both C and D, meaning B is between C and D. Since A is already two places clockwise from C, B must be placed to the counter-clockwise side of C, and D next to B. This leaves the remaining spot for E, which is to the immediate right (counter-clockwise) of A, satisfying all conditions. The final clockwise arrangement is C -> E -> A -> D -> B. Therefore, the person sitting to the immediate left (clockwise) of D is B."
+    },
+    {
+      "id": "ibps-clerk-ai-1783943175186-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence below to find if there is any grammatical error in it. The error, if any, will be in one part of the sentence. Choose the part that contains the error.\n\n\"He is one of those (A) / ambitious employees who (B) / always strives to exceed (C) / the quarterly targets. (D)\"",
+      "options": [
+        "He is one of those",
+        "ambitious employees who",
+        "always strives to exceed",
+        "the quarterly targets."
+      ],
+      "answer": 2,
+      "explanation": "The relative pronoun 'who' refers to the plural noun 'employees'. Therefore, the verb that follows must agree with this plural antecedent. 'Strives' (singular) must be replaced with 'strive' (plural) to make the sentence grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1783943175186-1",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blank with the most appropriate phrasal verb to make the sentence grammatically and contextually correct.\n\n\"The physical evidence collected from the crime scene does not ________ the suspect's alibi.\"",
+      "options": [
+        "bear out",
+        "bear with",
+        "bear up",
+        "bear down"
+      ],
+      "answer": 0,
+      "explanation": "'Bear out' means to corroborate, support, or confirm. In this context, the physical evidence does not corroborate (bear out) the suspect's alibi. 'Bear with' means to be patient with someone, 'bear up' means to remain cheerful or strong under adversity, and 'bear down' means to exert pressure or approach in a threatening manner."
     }
   ]
 }

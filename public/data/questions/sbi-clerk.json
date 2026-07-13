@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2762,6 +2762,136 @@
       ],
       "answer": 2,
       "explanation": "Under the Sovereign Gold Bond (SGB) scheme guidelines issued by the RBI, the maximum limit of subscription is 4 kg for individuals, 4 kg for HUFs, and 20 kg for trusts and similar entities per fiscal year (April-March).",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783943251445-0",
+      "section": "Quant",
+      "topic": "Profit, Loss and Discount",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper sells an article at a discount of 20% on the marked price and still earns a profit of 12%. If the marked price of the article is Rs. 2800, find the cost price of the article.",
+      "options": [
+        "Rs. 1800",
+        "Rs. 2000",
+        "Rs. 2100",
+        "Rs. 2200"
+      ],
+      "answer": 1,
+      "explanation": "Marked Price (MP) = Rs. 2800. Selling Price (SP) after a 20% discount = 2800 * (1 - 0.20) = Rs. 2240. Since the shopkeeper makes a profit of 12%, we have CP * (1 + 0.12) = SP. Therefore, Cost Price (CP) = 2240 / 1.12 = Rs. 2000."
+    },
+    {
+      "id": "sbi-clerk-ai-1783943251445-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat can travel 48 km upstream and 72 km downstream in a total of 12 hours. If the speed of the boat in still water is 400% more than the speed of the stream, find the time taken by the boat to cover 120 km in still water.",
+      "options": [
+        "10 hours",
+        "12 hours",
+        "15 hours",
+        "8 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of the stream be x km/h. The speed of the boat in still water is 400% more than the speed of the stream, which means it is x + 4x = 5x km/h. Thus, Upstream speed (U) = 5x - x = 4x km/h, and Downstream speed (D) = 5x + x = 6x km/h. According to the question, 48/U + 72/D = 12. Substituting U and D, we get 48/(4x) + 72/(6x) = 12 => 12/x + 12/x = 12 => 24/x = 12 => x = 2 km/h. Therefore, the speed of the boat in still water is 5x = 10 km/h. The time taken to cover 120 km in still water is 120 / 10 = 12 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1783943286163-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point A is 8m north of Point B. Point C is 12m east of Point B. Point D is 5m south of Point C. Point E is 6m west of Point D. Point F is 13m north of Point E. What is the shortest distance between Point A and Point F?",
+      "options": [
+        "6m",
+        "8m",
+        "10m",
+        "12m"
+      ],
+      "answer": 0,
+      "explanation": "Let Point B be the origin (0, 0). Point A is at (0, 8). Point C is at (12, 0). Point D is 5m south of C, so it is at (12, -5). Point E is 6m west of D, so it is at (6, -5). Point F is 13m north of E, so it is at (6, 8). The shortest distance between Point A (0, 8) and Point F (6, 8) is |6 - 0| = 6m."
+    },
+    {
+      "id": "sbi-clerk-ai-1783943286163-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons - P, Q, R, S, T, U, and V - have different heights. R is taller than only three persons. Q is taller than U but shorter than P. S is taller than P. V is shorter than R but taller than T. T is not the shortest person. Who is the third tallest person?",
+      "options": [
+        "P",
+        "Q",
+        "S",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": "Since R is taller than only three persons, R is at the 4th position from the top (S/P/Q/R/V/T/U). V is shorter than R but taller than T, and T is not the shortest, so V must be 5th, T must be 6th, and the remaining shortest person must be U (7th). S is taller than P, and P is taller than Q, who is taller than U. This gives the final descending height order: S > P > Q > R > V > T > U. Thus, Q is the third tallest person."
+    },
+    {
+      "id": "sbi-clerk-ai-1783943307844-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the correct meaning of the idiom highlighted in bold in the following sentence:\n\n'Instead of waiting for the market to recover, the entrepreneur decided to **take the bull by the horns** and pivot her business model immediately.'",
+      "options": [
+        "To avoid dealing with a problem directly by shifting focus to minor issues.",
+        "To deal with a difficult or dangerous situation in a very direct and decisive way.",
+        "To take an unnecessary risk that leads to financial losses.",
+        "To seek advice from experienced mentors before making a decision."
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'take the bull by the horns' means to face a difficult situation directly and with courage. Option B correctly expresses this meaning."
+    },
+    {
+      "id": "sbi-clerk-ai-1783943307844-1",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, select the word that is most similar in meaning to the highlighted word 'ARBITRARY'.\n\n'The board's selection process was criticized for being completely **arbitrary**, as it did not follow any pre-established guidelines or objective metrics.'",
+      "options": [
+        "Methodical",
+        "Capricious",
+        "Deliberate",
+        "Objective"
+      ],
+      "answer": 1,
+      "explanation": "'Arbitrary' means based on random choice or personal whim rather than any reason or system. 'Capricious' is the closest synonym, meaning given to sudden and unaccountable changes of mood or behavior (acting on whim). 'Methodical', 'Deliberate', and 'Objective' are antonyms in this context."
+    },
+    {
+      "id": "sbi-clerk-ai-1783943457211-0",
+      "section": "General Awareness",
+      "topic": "Banking Ombudsman",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS), who is designated as the Appellate Authority to hear appeals against the decisions or awards passed by the Ombudsman?",
+      "options": [
+        "Governor of the Reserve Bank of India",
+        "Deputy Governor in-charge of the Consumer Education and Protection Department of RBI",
+        "Executive Director-in-Charge of the department of the RBI administering the Scheme",
+        "Finance Secretary, Ministry of Finance, Government of India"
+      ],
+      "answer": 2,
+      "explanation": "According to the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Appellate Authority is the Executive Director-in-Charge of the Department of the RBI administering the Scheme.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1783943457211-1",
+      "section": "General Awareness",
+      "topic": "Foreign Exchange and Tax Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Liberalised Remittance Scheme (LRS), what is the rate of Tax Collected at Source (TCS) applicable on remittances exceeding Rs 7 lakh in a financial year for the purpose of education, if the remittance is funded through a loan obtained from a financial institution defined under Section 80E of the Income Tax Act?",
+      "options": [
+        "0.5%",
+        "1.0%",
+        "5.0%",
+        "20.0%"
+      ],
+      "answer": 0,
+      "explanation": "As per the prevailing LRS provisions, if the remittance for education is funded by a loan from an authorized financial institution under Section 80E of the Income Tax Act, a concessional TCS rate of 0.5% is applicable on amounts exceeding Rs 7 lakh.",
       "status": "pending"
     }
   ]

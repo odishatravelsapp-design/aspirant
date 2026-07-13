@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -3108,6 +3108,178 @@
             "ରାମଚନ୍ଦ୍ର ଦେବ ପ୍ରଥମ"
           ],
           "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ମନ୍ତ୍ରୀ ଥିବା ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଆରୋହଣ କରି ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783943659421-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'ODISHA' is written as 'PCKQKX'. How will 'JAJPUR' be written in that code language?",
+      "options": [
+        "KZLNXO",
+        "KZLNYO",
+        "KYLNXO",
+        "JZLMXO"
+      ],
+      "answer": 0,
+      "explanation": "The pattern is: +1, -1, +2, -2, +3, -3 applied to the letters of the word. Applying this to 'JAJPUR': J+1=K, A-1=Z, J+2=L, P-2=N, U+3=X, R-3=O. Hence, 'KZLNXO'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'ODISHA' କୁ 'PCKQKX' ଭାବରେ ଲେଖାଯାଏ | ସେହି କୋଡ୍ ଭାଷାରେ 'JAJPUR' କୁ କିପରି ଲେଖାଯିବ?",
+          "options": [
+            "KZLNXO",
+            "KZLNYO",
+            "KYLNXO",
+            "JZLMXO"
+          ],
+          "explanation": "ଏଠାରେ ପ୍ୟାଟର୍ଣ୍ଣ ହେଉଛି: ଅକ୍ଷରଗୁଡ଼ିକରେ କ୍ରମାନ୍ୱୟରେ +1, -1, +2, -2, +3, -3 ଯୋଗ/비ୟୋଗ କରାଯାଉଛି | 'JAJPUR' ପାଇଁ ଏହାକୁ ପ୍ରୟୋଗ କଲେ: J+1=K, A-1=Z, J+2=L, P-2=N, U+3=X, R-3=O ହେବ | ତେଣୁ, ସଠିକ୍ ଉତ୍ତର ହେଉଛି 'KZLNXO' |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783943659422-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person walks 12 m South from point P. He then turns left and walks 5 m. He then turns left and walks 12 m. Finally, he turns 45 degrees left and walks 5√2 m. How far and in which direction is he now from the starting point P?",
+      "options": [
+        "5 m, North",
+        "5√2 m, North-West",
+        "7 m, North-East",
+        "12 m, South"
+      ],
+      "answer": 0,
+      "explanation": "After walking 12 m South, 5 m East, and 12 m North, the person reaches the coordinate (5, 0) relative to P(0,0) and is facing North. Then, turning 45 degrees left means facing North-West. Walking 5√2 m in this direction gives a horizontal displacement of 5 m West and vertical displacement of 5 m North. Final position is (5 - 5, 0 + 5) = (0, 5), which is 5 m North of P.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି ବିନ୍ଦୁ P ରୁ ଦକ୍ଷିଣ ଦିଗକୁ ୧୨ ମିଟର ଚାଲନ୍ତି | ଏହାପରେ ସେ ବାମକୁ ବୁଲି ୫ ମିଟର ଚାଲନ୍ତି | ସେ ପୁଣିଥରେ ବାମକୁ ବୁଲି ୧୨ ମିଟର ଚାଲନ୍ତି | ଶେଷରେ, ସେ ୪୫ ଡିଗ୍ରୀ ବାମକୁ ବୁଲି ୫√୨ ମିଟର ଚାଲନ୍ତି | ବର୍ତ୍ତମାନ ସେ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ P ରୁ କେତେ ଦୂରରେ ଏବଂ କେଉଁ ଦିଗରେ ଅଛନ୍ତି?",
+          "options": [
+            "୫ ମିଟର, ଉତ୍ତର",
+            "୫√୨ ମିଟର, ଉତ୍ତର-ପଶ୍ଚିମ",
+            "୭ ମିଟର, ଉତ୍ତର-ପୂର୍ବ",
+            "୧୨ ମିଟର, ଦକ୍ଷିଣ"
+          ],
+          "explanation": "ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ P(0,0) ରୁ ଦକ୍ଷିଣକୁ ୧୨ ମିଟର, ପରେ ପୂର୍ବକୁ ୫ ମିଟର ଏବଂ ପୁଣି ଉତ୍ତରକୁ ୧୨ ମିଟର ଚାଲିବା ପରେ ବ୍ୟକ୍ତିଜଣକ (୫, ୦) ବିନ୍ଦୁରେ ପହଞ୍ଚିବେ ଏବଂ ତାଙ୍କ ମୁହଁ ଉତ୍ତର ଦିଗକୁ ରହିବ | ଏହାପରେ, ୪୫ ଡିଗ୍ରୀ ବାମକୁ ବୁଲିବା ଅର୍ଥ ସେ ଉତ୍ତର-ପଶ୍ଚିମ ଦିଗକୁ ମୁହଁ କରିବେ | ଏହି ଦିଗରେ ୫√୨ ମିଟର ଚାଲିଲେ ତାଙ୍କର ପଶ୍ଚିମ ଦିଗକୁ ସ୍ଥାନାନ୍ତର ୫ ମିଟର ଏବଂ ଉତ୍ତର ଦିଗକୁ ସ୍ଥାନାନ୍ତର ୫ ମିଟର ହେବ | ଚୂଡ଼ାନ୍ତ ସ୍ଥିତି = (୫ - ୫, ୦ + ୫) = (୦, ୫) | ତେଣୁ, ସେ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ P ରୁ ୫ ମିଟର ଦୂରରେ ଉତ୍ତର ଦିଗରେ ଅଛନ୍ତି |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783943684299-0",
+      "section": "General Knowledge",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following waterfalls in Odisha is located in the Deogarh district and is famous for its scenic beauty?",
+      "options": [
+        "Khandadhar Waterfall",
+        "Pradhanpat Waterfall",
+        "Barehipani Waterfall",
+        "Harishankar Waterfall"
+      ],
+      "answer": 1,
+      "explanation": "The Pradhanpat Waterfall is a historic and scenic waterfall located in the Deogarh district of Odisha, surrounded by lush green forests and hills.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ଜଳପ୍ରପାତଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଦେବଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଏବଂ ଏହାର ପ୍ରାକୃତିକ ସୌନ୍ଦର୍ଯ୍ୟ ପାଇଁ ପ୍ରସିଦ୍ଧ?",
+          "options": [
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ପ୍ରଧାନପାଟ ଜଳପ୍ରପାତ",
+            "ବରେହିପାଣି ଜଳପ୍ରପାତ",
+            "ହରିଶଙ୍କର ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "ପ୍ରଧାନପାଟ ଜଳପ୍ରପାତ ଓଡ଼ିଶାର ଦେବଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଏହା ଏକ ପ୍ରସିଦ୍ଧ ପର୍ଯ୍ୟଟନ ସ୍ଥଳୀ ଏବଂ ଏହାର ପ୍ରାକୃତିକ ସୌନ୍ଦର୍ଯ୍ୟ ପାଇଁ ଜଣାଶୁଣା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783943684299-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first Speaker of the Odisha Legislative Assembly in post-independence India (elected in 1952)?",
+      "options": [
+        "Mukunda Prasad Das",
+        "Nandakishore Das",
+        "Nilakantha Das",
+        "Satyapriya Mohanty"
+      ],
+      "answer": 1,
+      "explanation": "Nandakishore Das was the first Speaker of the Odisha Legislative Assembly after India's independence, serving from March 1952 to May 1957. Mukunda Prasad Das was the first Speaker during the pre-independence era (1937).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସ୍ୱାଧୀନତା ପରବର୍ତ୍ତୀ ଭାରତରେ (୧୯୫୨ ମସିହାରେ ନିର୍ବାଚିତ) ଓଡ଼ିଶା ବିଧାନସଭାର ପ୍ରଥମ ବାଚସ୍ପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ମୁକୁନ୍ଦ ପ୍ରସାଦ ଦାସ",
+            "ନନ୍ଦକିଶୋର ଦାସ",
+            "ନୀଳକଣ୍ଠ ଦାସ",
+            "ସତ୍ୟପ୍ରିୟ ମହାନ୍ତି"
+          ],
+          "explanation": "ନନ୍ଦକିଶୋର ଦାସ ସ୍ୱାଧୀନତା ପରବର୍ତ୍ତୀ ଓଡ଼ିଶାର ପ୍ରଥମ ବିଧାନସଭାରେ (୧୯୫୨ ରୁ ୧୯୫୭) ବାଚସ୍ପତି ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ। ମୁକୁନ୍ଦ ପ୍ରସାଦ ଦାସ ସ୍ୱାଧୀନତା ପୂର୍ବ ସମୟରେ (୧୯୩୭) ପ୍ରଥମ ବାଚସ୍ପତି ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783943751909-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The construction of the famous Lingaraj Temple at Bhubaneswar was started by King Yayati II and completed during the reign of which Somavamsi king?",
+      "options": [
+        "Janamejaya I",
+        "Udyotakesari",
+        "Dharmaratha",
+        "Indraratha"
+      ],
+      "answer": 1,
+      "explanation": "The construction of the Lingaraj Temple in Bhubaneswar was initiated by Somavamsi King Yayati II (Yayati Keshari) and completed during the reign of his son, Udyotakesari, in the 11th century.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ କାର୍ଯ୍ୟ ରାଜା ଯଯାତି ଦ୍ଵିତୀୟଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ ହୋଇ କେଉଁ ସୋମବଂଶୀ ରାଜାଙ୍କ ଶାସନ କାଳରେ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା?",
+          "options": [
+            "ଜନ୍ମେଜୟ ପ୍ରଥମ",
+            "ଉଦ୍ୟୋତକେଶରୀ",
+            "ଧର୍ମରଥ",
+            "ଇନ୍ଦ୍ରରଥ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରର ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ ସୋମବଂଶୀ ରାଜା ଯଯାତି ଦ୍ଵିତୀୟ (ଯଯାତି କେଶରୀ)ଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ ହୋଇଥିଲା ଏବଂ ଏକାଦଶ ଶତାବ୍ଦୀରେ ତାଙ୍କ ପୁତ୍ର ଉଦ୍ୟୋତକେଶରୀଙ୍କ ଶାସନ କାଳରେ ଏହା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1783943751909-1",
+      "section": "Odisha GK",
+      "topic": "Colonial Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the Commissioner of the Odisha (Orissa) Division during the devastating Great Orissa Famine (Na'Anka Durbhiksha) of 1866?",
+      "options": [
+        "Thomas Edward Ravenshaw",
+        "George Campbell",
+        "John Beames",
+        "Henry Ricketts"
+      ],
+      "answer": 0,
+      "explanation": "Thomas Edward Ravenshaw was the Officiating Commissioner of the Orissa Division during the Great Famine of 1866. His administrative failure to assess the food grain shortage is widely cited as a major reason for the severity of the famine.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାର ଭୟାବହ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଓଡ଼ିଶା ବିଭାଗର କମିଶନର କିଏ ଥିଲେ?",
+          "options": [
+            "ଥମାସ ଏଡୱାର୍ଡ ରେଭେନ୍ସା",
+            "ଜର୍ଜ କ୍ୟାମ୍ପବେଲ",
+            "ଜନ୍ ବିମ୍ସ",
+            "ହେନେରୀ ରିକେଟ୍ସ"
+          ],
+          "explanation": "୧୮୬୬ ମସିହାର ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଥମାସ ଏଡୱାର୍ଡ ରେଭେନ୍ସା ଓଡ଼ିଶା ବିଭାଗର କାର୍ଯ୍ୟକାରୀ କମିଶନର ଥିଲେ। ଖାଦ୍ୟଶସ୍ୟ ଅଭାବର ଆକଳନ କରିବାରେ ତାଙ୍କର ପ୍ରଶାସନିକ ବିଫଳତାକୁ ଦୁର୍ଭିକ୍ଷର ଭୟାବହତାର ଏକ ମୁଖ୍ୟ କାରଣ ବୋଲି ଦର୍ଶାଯାଏ।"
         }
       }
     }

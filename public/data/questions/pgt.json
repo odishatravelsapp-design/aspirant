@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -2400,6 +2400,62 @@
             "ଧାତୁ-ରୁ-ଲିଗାଣ୍ଡ ଚାର୍ଜ ସ୍ଥାନାନ୍ତରଣ (MLCT) ସଂକ୍ରମଣ"
           ],
           "explanation": "ଅଷ୍ଟଫଳକୀୟ (octahedral) କ୍ଷେତ୍ରରେ ଉଚ୍ଚ-ସ୍ପିନ Co2+ ଆୟନ (d7) ର ଏକ 4T1g ଭୂମି ଅବସ୍ଥା ଥାଏ | T ଭୂମି ଅବସ୍ଥାର ତ୍ରି-କ୍ଷୟୀୟ (triple degeneracy) ଗୁଣ ଯୋଗୁଁ, ଏହାର କକ୍ଷୀୟ କୋଣୀୟ ସଂବେଗ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ପ୍ରଶମିତ ହୋଇନଥାଏ | ଏହି କକ୍ଷୀୟ ଅବଦାନ, ସ୍ପିନ-କକ୍ଷୀୟ ଯୁଗ୍ମନ (spin-orbit coupling) ମାଧ୍ୟମରେ ସ୍ପିନ କୋଣୀୟ ସଂବେଗ ସହିତ ଯୁକ୍ତ ହୋଇ ଚୁମ୍ବକୀୟ ଆଘୂର୍ଣ୍ଣକୁ କେବଳ-ସ୍ପିନ ମୂଲ୍ୟ (~3.87 BM) ଠାରୁ ଯଥେଷ୍ଟ ବୃଦ୍ଧି କରି ପ୍ରାୟ 4.8 - 5.2 BM କରିଥାଏ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783944489157-0",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Jerome Bruner's theory of cognitive development, what is the correct chronological sequence in which a child develops the modes of representation?",
+      "options": [
+        "Enactive, Iconic, Symbolic",
+        "Iconic, Enactive, Symbolic",
+        "Enactive, Symbolic, Iconic",
+        "Symbolic, Iconic, Enactive"
+      ],
+      "answer": 0,
+      "explanation": "According to Jerome Bruner, cognitive representation develops sequentially through three distinct stages: Enactive stage (action-based representation), Iconic stage (image-based representation), and Symbolic stage (language/symbol-based representation).",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ୍ ବ୍ରୁନର୍‌ଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ (cognitive development) ସିଦ୍ଧାନ୍ତରେ, ଜଣେ ଶିଶୁ ପ୍ରତିନିଧିତ୍ୱର ଶୈଳୀଗୁଡ଼ିକୁ (modes of representation) ବିକଶିତ କରିବାର ସଠିକ୍ କ୍ରମାନୁସାରୀ ପର୍ଯ୍ୟାୟ କେଉଁଟି?",
+          "options": [
+            "ସକ୍ରିୟ (Enactive), ପ୍ରତିମାତ୍ମକ (Iconic), ସାଙ୍କେତିକ (Symbolic)",
+            "પ્રତିମାତ୍ମକ (Iconic), ସକ୍ରିୟ (Enactive), ସାଙ୍କେତିକ (Symbolic)",
+            "ସକ୍ରିୟ (Enactive), ସାଙ୍କେତିକ (Symbolic), ପ୍ରତିମାତ୍ମକ (Iconic)",
+            "ସାଙ୍କେତିକ (Symbolic), ପ୍ରତିମାତ୍ମକ (Iconic), ସକ୍ରିୟ (Enactive)"
+          ],
+          "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍‌ଙ୍କ ଅନୁଯାୟୀ, ଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ ତିନୋଟି ଭିନ୍ନ ପର୍ଯ୍ୟାୟ ଦେଇ ବିକଶିତ ହୁଏ: ପ୍ରଥମେ ସକ୍ରିୟ (କାର୍ଯ୍ୟ-ଆଧାରିତ ପ୍ରତିନିଧିତ୍ୱ), ତା’ପରେ ପ୍ରତିମାତ୍ମକ (ଛବି-ଆଧାରିତ ପ୍ରତିନିଧିତ୍ୱ) ଏବଂ ଶେଷରେ ସାଙ୍କେତିକ (ଭାଷା ଏବଂ ସଙ୍କେତ-ଆଧାରିତ ପ୍ରତିନିଧିତ୍ୱ)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1783944489157-1",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Evaluation",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Daniel Stufflebeam's CIPP evaluation model, which specific type of evaluation is primarily concerned with identifying the strengths and weaknesses of resources, alternative strategies, and procedural designs to meet the targeted goals?",
+      "options": [
+        "Context Evaluation",
+        "Input Evaluation",
+        "Process Evaluation",
+        "Product Evaluation"
+      ],
+      "answer": 1,
+      "explanation": "In the CIPP (Context, Input, Process, Product) model, Input Evaluation is designed to assess the resources, competing strategies, budgets, and procedural designs to determine how best to achieve the goals identified during context evaluation.",
+      "translations": {
+        "or": {
+          "question": "ଡାନିଏଲ୍ ଷ୍ଟଫଲ୍‌ବିମ୍‌ଙ୍କ CIPP ମୂଲ୍ୟାଙ୍କନ ମଡେଲ୍‌ରେ, ନିର୍ଦ୍ଧାରିତ ଲକ୍ଷ୍ୟ ହାସଲ କରିବା ପାଇଁ ସମ୍ବଳ, ବିକଳ୍ପ ରଣନୀତି ଏବଂ ପ୍ରକ୍ରିୟାଗତ ନକ୍ସାର ଶକ୍ତି ଓ ଦୁର୍ବଳତାଗୁଡ଼ିକୁ ଚିହ୍ନଟ କରିବା ସହିତ କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ ମୁଖ୍ୟତଃ ଜଡ଼ିତ?",
+          "options": [
+            "ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ (Context Evaluation)",
+            "ନିବେଶ ମୂଲ୍ୟାଙ୍କନ (Input Evaluation)",
+            "ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାଙ୍କନ (Process Evaluation)",
+            "ଉତ୍ପାଦ ମୂଲ୍ୟାଙ୍କନ (Product Evaluation)"
+          ],
+          "explanation": "CIPP (Context, Input, Process, Product) ମଡେଲ୍‌ରେ, ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ ସମୟରେ ଚିହ୍ନଟ ହୋଇଥିବା ଲକ୍ଷ୍ୟଗୁଡ଼ିକୁ କିପରି ସର୍ବୋତ୍ତମ ଭାବରେ ହାସଲ କରାଯାଇପାରିବ ତାହା ସ୍ଥିର କରିବା ପାଇଁ ସମ୍ବଳ, ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱୀ ରଣନୀତି, ବଜେଟ୍ ଏବଂ ପ୍ରକ୍ରିୟାଗତ ନକ୍ସାଗୁଡ଼ିକର ମୂଲ୍ୟାଙ୍କନ କରିବା ପାଇଁ 'ନିବେଶ ମୂଲ୍ୟାଙ୍କନ' (Input Evaluation) ପ୍ରସ୍ତୁତ କରାଯାଇଛି।"
         }
       }
     }
