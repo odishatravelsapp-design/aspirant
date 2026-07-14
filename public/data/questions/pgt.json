@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -2456,6 +2456,62 @@
             "ଉତ୍ପାଦ ମୂଲ୍ୟାଙ୍କନ (Product Evaluation)"
           ],
           "explanation": "CIPP (Context, Input, Process, Product) ମଡେଲ୍‌ରେ, ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ ସମୟରେ ଚିହ୍ନଟ ହୋଇଥିବା ଲକ୍ଷ୍ୟଗୁଡ଼ିକୁ କିପରି ସର୍ବୋତ୍ତମ ଭାବରେ ହାସଲ କରାଯାଇପାରିବ ତାହା ସ୍ଥିର କରିବା ପାଇଁ ସମ୍ବଳ, ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱୀ ରଣନୀତି, ବଜେଟ୍ ଏବଂ ପ୍ରକ୍ରିୟାଗତ ନକ୍ସାଗୁଡ଼ିକର ମୂଲ୍ୟାଙ୍କନ କରିବା ପାଇଁ 'ନିବେଶ ମୂଲ୍ୟାଙ୍କନ' (Input Evaluation) ପ୍ରସ୍ତୁତ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784014589270-0",
+      "section": "Teaching Aptitude",
+      "topic": "Constructive Alignment",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Constructive alignment, a principle devised by John Biggs, posits that for effective learning to take place, there must be a deliberate coherence between which three key components of the curriculum?",
+      "options": [
+        "Learning outcomes, teaching methods, and assessment tasks",
+        "Lesson planning, classroom management, and teacher evaluation",
+        "Student motivation, cognitive development, and summative feedback",
+        "Institutional resources, pedagogical content knowledge, and peer assessment"
+      ],
+      "answer": 0,
+      "explanation": "John Biggs' theory of Constructive Alignment states that learners construct meaning through relevant learning activities. To maximize this, there must be absolute alignment between the intended learning outcomes (what students should learn), the teaching/learning activities (how they learn), and the assessment tasks (how their achievement is verified).",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ବିଗ୍ସ (John Biggs)ଙ୍କ ଦ୍ୱାରା ପ୍ରଣୀତ କନଷ୍ଟ୍ରକ୍ଟିଭ୍ ଆଲାଇନମେଣ୍ଟ (Constructive alignment) ନିୟମ ଅନୁଯାୟୀ, ପ୍ରଭାବଶାଳୀ ଶିକ୍ଷଣ ପାଇଁ ପାଠ୍ୟକ୍ରମର କେଉଁ ତିନୋଟି ମୁଖ୍ୟ ଉପାଦାନ ମଧ୍ୟରେ ସୁଚିନ୍ତିତ ସମନ୍ୱୟ ରହିବା ଆବଶ୍ୟକ?",
+          "options": [
+            "ଶିକ୍ଷଣ ଫଳାଫଳ, ଶିକ୍ଷାଦାନ ପଦ୍ଧତି ଏବଂ ମୂଲ୍ୟାଙ୍କନ କାର୍ଯ୍ୟ",
+            "ପାଠ୍ୟ ଯୋଜନା, ଶ୍ରେଣୀ ଗୃହ ପରିଚାଳନା ଏବଂ ଶିକ୍ଷକ ମୂଲ୍ୟାଙ୍କନ",
+            "ଛାତ୍ର ପ୍ରେରଣା, ଜ୍ଞାନାତ୍ମକ ବିକାଶ ଏବଂ ସମେଟିଭ୍ ଫିଡବ୍ୟାକ୍",
+            "ଆନୁଷ୍ଠାନିକ ସମ୍ପତ୍ତି, ଶିକ୍ଷାଦାନ ବିଷୟବସ୍ତୁ ଜ୍ଞାନ ଏବଂ ସହପାଠୀ ମୂଲ୍ୟାଙ୍କନ"
+          ],
+          "explanation": "ଜନ୍ ବିଗ୍ସଙ୍କ କନଷ୍ଟ୍ରକ୍ଟିଭ୍ ଆଲାଇନମେଣ୍ଟ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଶିକ୍ଷଣ ଫଳାଫଳ (Learning outcomes), ଶିକ୍ଷାଦାନ କାର୍ଯ୍ୟକଳାପ (teaching methods) ଏବଂ ମୂଲ୍ୟାଙ୍କନ (assessment) ମଧ୍ୟରେ ସଠିକ୍ ସମନ୍ୱୟ ରହିଲେ ହିଁ ଶିକ୍ଷଣ ସଫଳ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784014589270-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Glaser's Basic Teaching Model (1962), which component is primarily concerned with assessing the learner's initial knowledge, intellectual status, and motivational state before the instruction begins?",
+      "options": [
+        "Instructional Objectives",
+        "Entering Behavior",
+        "Instructional Procedure",
+        "Performance Assessment"
+      ],
+      "answer": 1,
+      "explanation": "Robert Glaser's Basic Teaching Model consists of four components: Instructional Objectives, Entering Behavior, Instructional Procedure, and Performance Assessment. 'Entering Behavior' refers to the learner's existing knowledge, skills, intellectual development, and motivational state prior to starting the new instruction.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ଲେସର (Robert Glaser)ଙ୍କ ବେସିକ୍ ଟିଚିଂ ମଡେଲ୍ (1962) ରେ, ଶିକ୍ଷାଦାନ ଆରମ୍ଭ ହେବା ପୂର୍ବରୁ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପ୍ରାରମ୍ଭିକ ଜ୍ଞାନ, ବୌଦ୍ଧିକ ସ୍ଥିତି ଏବଂ ପ୍ରେରଣାଦାୟକ ସ୍ଥିତିର ମୂଲ୍ୟାଙ୍କନ ସହିତ ମୁଖ୍ୟତଃ କେଉଁ ଉପାଦାନଟି ଜଡ଼ିତ?",
+          "options": [
+            "ଶିକ୍ଷଣ ଉଦ୍ଦେଶ୍ୟ (Instructional Objectives)",
+            "ପ୍ରବେଶ ଆଚରଣ (Entering Behavior)",
+            "ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା (Instructional Procedure)",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ମୂଲ୍ୟାଙ୍କନ (Performance Assessment)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ଲେସରଙ୍କ ମଡେଲ୍‌ରେ 'ପ୍ରବେଶ ଆଚରଣ' (Entering Behavior) ଶିକ୍ଷାର୍ଥୀଙ୍କ ପୂର୍ବ ଜ୍ଞାନ, ଦକ୍ଷତା ଏବଂ ଶିକ୍ଷାଦାନ ପୂର୍ବରୁ ଥିବା ଆଗ୍ରହକୁ ବୁଝାଇଥାଏ, ଯାହା ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟାକୁ ପ୍ରଭାବିତ କରିଥାଏ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -1104,6 +1104,64 @@
             "ଲିରିକାଲ୍ ବାଲାଡ୍ସ (Lyrical Ballads)"
           ],
           "explanation": "ତାଙ୍କ ଜୀବନକାଳ ମଧ୍ୟରେ, ୱାର୍ଡ଼ସୱର୍ଥ ତାଙ୍କର ଏହି ଆତ୍ମଜୀବନୀମୂଳକ କବିତାକୁ କୌଣସି ଆନୁଷ୍ଠାନିକ ଶୀର୍ଷକ ଦେଇନଥିଲେ ଏବଂ ସାଧାରଣତଃ ଏହାକୁ 'ପୋଏମ୍ ଟୁ କୋଲେରିଜ୍' (କୋଲେରିଜ୍‌ଙ୍କୁ ଉଦ୍ଦିଷ୍ଟ କବିତା) ବୋଲି କହୁଥିଲେ। ୧୮୫୦ ମସିହାରେ ତାଙ୍କ ମୃତ୍ୟୁର କିଛି ସମୟ ପରେ ଯେତେବେଳେ ଏହା ପ୍ରକାଶିତ ହେଲା, ତାଙ୍କ ବିଧବା ପତ୍ନୀ ମେରି ୱାର୍ଡ଼ସୱର୍ଥ ଏହାର ନାମ 'ଦି ପ୍ରିଲ୍ୟୁଡ୍' ରଖିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1784015730035-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the hybridization of the central Xenon (Xe) atom in the Xenon oxytetrafluoride (XeOF4) molecule?",
+      "options": [
+        "sp^3d",
+        "sp^3d^2",
+        "sp^3d^3",
+        "dsp^2"
+      ],
+      "answer": 1,
+      "explanation": "In XeOF4, the central Xenon atom has 8 valence electrons. It forms one double bond with Oxygen (treated as one active bond pair) and four single bonds with Fluorine atoms, leaving one lone pair. The steric number is 5 (sigma bonds) + 1 (lone pair) = 6. Therefore, the hybridization is sp3d2, resulting in a square pyramidal geometry.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେନନ୍ ଅକ୍ସିଟେଟ୍ରାଫ୍ଲୋରାଇଡ୍ (XeOF4) ଅଣୁରେ କେନ୍ଦ୍ରୀୟ ଜେନନ୍ (Xe) ପରମାଣୁର ହାଇବ୍ରିଡାଇଜେସନ୍ (hybridization) କ’ଣ ଅଟେ?",
+          "options": [
+            "sp^3d",
+            "sp^3d^2",
+            "sp^3d^3",
+            "dsp^2"
+          ],
+          "explanation": "XeOF4 ରେ, କେନ୍ଦ୍ରୀୟ ଜେନନ୍ ପରମାଣୁର ୮ଟି ସଂଯୋଜକ ଇଲେକ୍ଟ୍ରନ୍ ଥାଏ। ଏହା ଅମ୍ଳଜାନ ସହିତ ଗୋଟିଏ ଦ୍ୱି-ବନ୍ଧ ଏବଂ ଚାରୋଟି ଫ୍ଲୋରିନ୍ ପରମାଣୁ ସହିତ ଏକକ-ବନ୍ଧ ଗଠନ କରେ, ଯାହା ଦ୍ୱାରା ଗୋଟିଏ ଏକକାକୀ ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗଳ (lone pair) ରହିଯାଏ। ଷ୍ଟେରିକ୍ ସଂଖ୍ୟା ହେଉଛି ୫ (ସିଗ୍ମା ବନ୍ଧ) + ୧ (ଏକକାକୀ ଯୁଗଳ) = ୬। ତେଣୁ, ଏହାର ହାଇବ୍ରିଡାଇଜେସନ୍ sp3d2 ଅଟେ ଏବଂ ଏହାର ଜ୍ୟାମିତି ବର୍ଗ ପିରାମିଡାଲ୍ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1784015730035-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Indian English poet is the author of the three-part poem collection 'Rough Passage' (1977), which deals with the search for identity and cultural roots?",
+      "options": [
+        "Nissim Ezekiel",
+        "A. K. Ramanujan",
+        "R. Parthasarathy",
+        "Keki N. Daruwalla"
+      ],
+      "answer": 2,
+      "explanation": "'Rough Passage' is a highly acclaimed three-part poem ('Exile', 'Trial', and 'Homecoming') written by R. Parthasarathy, published by Oxford University Press in 1977. It explores the poet's search for identity, his initiation into English culture, and his ultimate return to his linguistic and cultural roots in India.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ଭାରତୀୟ ଇଂରାଜୀ କବି ତିନି-ଭାଗ ବିଶିଷ୍ଟ କବିତା ସଂଗ୍ରହ 'Rough Passage' (୧୯୭୭) ର ରଚୟିତା ଅଟନ୍ତି, ଯାହା ପରିଚୟ ଏବଂ ସାଂସ୍କୃତିକ ଚେରର ସନ୍ଧାନ ବିଷୟରେ ଆଲୋଚନା କରେ?",
+          "options": [
+            "ନିସିମ୍ ଇଜେକିଏଲ୍",
+            "ଏ. କେ. ରାମାନୁଜନ୍",
+            "ଆର୍. ପାର୍ଥସାରଥୀ",
+            "କେକି ଏନ୍. ଦାରୁୱାଲା"
+          ],
+          "explanation": "'Rough Passage' ହେଉଛି ଆର୍. ପାର୍ଥସାରଥୀଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏକ ଉଚ୍ଚ ପ୍ରଶଂସିତ ତିନି-ଭାଗ ବିଶିଷ୍ଟ କବିତା ସଂଗ୍ରହ ('Exile', 'Trial', ଏବଂ 'Homecoming'), ଯାହା ୧୯୭୭ ମସିହାରେ ଅକ୍ସଫୋର୍ଡ ୟୁନିଭର୍ସିଟି ପ୍ରେସ୍ ଦ୍ୱାରା ପ୍ରକାଶିତ ହୋଇଥିଲା। ଏହା କବିଙ୍କର ପରିଚୟ ସନ୍ଧାନ, ଇଂରାଜୀ ସଂସ୍କୃତି ପ୍ରତି ତାଙ୍କର ଆକର୍ଷଣ ଏବଂ ଶେଷରେ ଭାରତରେ ତାଙ୍କର ଭାଷାଗତ ଓ ସାଂସ୍କୃତିକ ଚେରକୁ ପ୍ରତ୍ୟାବର୍ତ୍ତନ ବିଷୟରେ ବର୍ଣ୍ଣନା କରେ।"
         }
       }
     }

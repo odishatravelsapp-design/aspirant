@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -3008,6 +3008,102 @@
       ],
       "answer": 0,
       "explanation": "'Bear out' means to corroborate, support, or confirm. In this context, the physical evidence does not corroborate (bear out) the suspect's alibi. 'Bear with' means to be patient with someone, 'bear up' means to remain cheerful or strong under adversity, and 'bear down' means to exert pressure or approach in a threatening manner."
+    },
+    {
+      "id": "ibps-clerk-ai-1784014029626-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership. A invests Rs. 12,000 for the whole year. B joins A after 3 months with an investment of Rs. 16,000. C joins them after another 3 months with an investment of Rs. 20,000. If the total profit at the end of the year is Rs. 10,200, find the share of B in the profit.",
+      "options": [
+        "Rs. 3,200",
+        "Rs. 3,600",
+        "Rs. 4,000",
+        "Rs. 3,000"
+      ],
+      "answer": 1,
+      "explanation": "To find the profit-sharing ratio, we calculate the equivalent investment for 1 month for each partner:\nA's equivalent investment = 12,000 * 12 = 144,000\nB joins after 3 months, so B's investment period = 12 - 3 = 9 months.\nB's equivalent investment = 16,000 * 9 = 144,000\nC joins after another 3 months (i.e., 6 months from the start), so C's investment period = 12 - 6 = 6 months.\nC's equivalent investment = 20,000 * 6 = 120,000\n\nProfit ratio A : B : C = 144,000 : 144,000 : 120,000 = 6 : 6 : 5.\nTotal parts = 6 + 6 + 5 = 17.\nB's share of profit = (6 / 17) * 10,200 = 6 * 600 = Rs. 3,600."
+    },
+    {
+      "id": "ibps-clerk-ai-1784014029626-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Train P of length 200 meters crosses a standing pole in 10 seconds. It crosses another train Q of length 250 meters running in the opposite direction in 9 seconds. Find the speed of train Q (in km/h).",
+      "options": [
+        "90 km/h",
+        "100 km/h",
+        "108 km/h",
+        "120 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Speed of train P = Length of P / Time to cross pole = 200 / 10 = 20 m/s.\nWhen crossing each other in opposite directions, the total distance covered is the sum of their lengths: 200 + 250 = 450 meters.\nRelative speed = Total distance / Crossing time = 450 / 9 = 50 m/s.\nSince they run in opposite directions, Relative Speed = Speed of P + Speed of Q.\n50 m/s = 20 m/s + Speed of Q => Speed of Q = 30 m/s.\nTo convert to km/h: 30 * (18 / 5) = 108 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1784014080339-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point Q is 8 meters to the West of Point P. Point R is 4 meters to the South of Point Q. Point S is 5 meters to the East of Point R. Point T is 8 meters to the North of Point S. What is the shortest distance between Point P and Point T, and in which direction is Point T with respect to Point P?",
+      "options": [
+        "5 meters, North-West",
+        "5 meters, North-East",
+        "10 meters, North-West",
+        "10 meters, South-West"
+      ],
+      "answer": 0,
+      "explanation": "Let Point P be the origin (0, 0). Point Q is 8m West of P, so Q = (-8, 0). Point R is 4m South of Q, so R = (-8, -4). Point S is 5m East of R, so S = (-3, -4). Point T is 8m North of S, so T = (-3, 4). The shortest distance between P(0,0) and T(-3,4) is calculated using the Pythagorean theorem: $\\sqrt{(-3 - 0)^2 + (4 - 0)^2} = \\sqrt{9 + 16} = 5$ meters. Since T is at (-3, 4) relative to P, its direction is North-West."
+    },
+    {
+      "id": "ibps-clerk-ai-1784014080339-1",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight friends - A, B, C, D, E, F, G, and H - are sitting around a circular table facing the center. F sits opposite to C. E sits second to the left of F. D sits adjacent to E. H sits to the immediate right of C. Only three people sit between G and D. B sits to the immediate right of A. Who sits third to the right of B?",
+      "options": [
+        "G",
+        "H",
+        "C",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Let the 8 positions on the circular table be 1 to 8 in clockwise order. Facing the center means Clockwise (CW) is Left and Counter-Clockwise (CCW) is Right. Place F at 8 and C opposite at 4. E sits second to the left (CW) of F, so E is at 2. D is adjacent to E, so D can be at 1 or 3. H sits to the immediate right (CCW) of C, which is 3. Since 3 is occupied by H, D must be at 1. Only three people sit between G and D, so G is opposite D at 5. B sits to the immediate right (CCW) of A; the remaining adjacent spots are 6 and 7. Thus A is at 7 and B is at 6 (since CCW from 7 is 6). Third to the right (CCW) of B (6) is 5 (G) -> 4 (C) -> 3 (H). Therefore, H sits third to the right of B."
+    },
+    {
+      "id": "ibps-clerk-ai-1784014099704-0",
+      "section": "English",
+      "topic": "Spotting Errors",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence below to find if there is any grammatical error in it. The error, if any, will be in one of the parts. Mark the part containing the error as your answer.\n\n'Neither the branch manager (A) / nor the clerical staff members (B) / was present at the office (C) / during the audit yesterday. (D)'",
+      "options": [
+        "Neither the branch manager",
+        "nor the clerical staff members",
+        "was present at the office",
+        "during the audit yesterday"
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree in number with the closer subject. Here, the closer subject is 'clerical staff members' (plural), so the singular verb 'was' must be replaced with the plural verb 'were'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784014099704-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the given sentence:\n\n'The continuous ___________ of heavy rain throughout the week completely ___________ our plans for an outdoor campaign.'",
+      "options": [
+        "deluge, thwarted",
+        "dearth, ruined",
+        "scarcity, disrupted",
+        "drizzle, facilitated"
+      ],
+      "answer": 0,
+      "explanation": "'Deluge' means a severe flood or heavy fall of rain, which fits the context of 'heavy rain'. 'Thwarted' means to prevent someone from accomplishing something or to oppose successfully, which perfectly completes the logic of plans being ruined by the rain. Other options are either contradictory in meaning ('dearth/scarcity' means lack, 'facilitated' means made easier) or grammatically incorrect."
     }
   ]
 }

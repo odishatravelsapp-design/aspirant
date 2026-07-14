@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -4010,6 +4010,234 @@
             "କୋକିଳା ଦେବୀ"
           ],
           "explanation": "ସରଳା ଦେବୀ ଜଣେ ପ୍ରମୁଖ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ, ନାରୀବାଦୀ ଏବଂ ସମାଜ ସଂସ୍କାରକ ଥିଲେ ଯିଏ ୧୯୩୭ ମସିହାରେ କଟକ ସହର ନିର୍ବାଚନ ମଣ୍ଡଳୀରୁ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014470791-0",
+      "section": "Subject Knowledge",
+      "topic": "Indian Writing in English",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Raja Rao's novel 'Kanthapura' (1938), which character acts as the narrator, recounting the nationalist struggle of the village through the style of a traditional 'Sthala-Purana'?",
+      "options": [
+        "Achakka",
+        "Rangamma",
+        "Ratna",
+        "Kenchamma"
+      ],
+      "answer": 0,
+      "explanation": "Achakka is the narrator of the novel. She is an elderly Brahmin widow who tells the story of how the remote village of Kanthapura got caught up in the whirlwind of the Gandhian nationalist movement.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରାଜା ରାଓଙ୍କ ପ୍ରସିଦ୍ଧ ଉପନ୍ୟାସ 'କାନ୍ଥପୁରା' (୧୯୩୮) ରେ, କେଉଁ ଚରିତ୍ରଟି କଥକ (narrator) ଭାବରେ କାର୍ଯ୍ୟ କରେ, ଯିଏ ଏକ ପାରମ୍ପରିକ 'ସ୍ଥଳ-ପୁରାଣ' ଶୈଳୀରେ ଗ୍ରାମର ଜାତୀୟତାବାଦୀ ସଂଗ୍ରାମର ବର୍ଣ୍ଣନା କରିଥାଏ?",
+          "options": [
+            "ଅଚକ୍କା",
+            "ରଙ୍ଗମ୍ମା",
+            "ରତ୍ନା",
+            "କେଞ୍ଚମ୍ମା"
+          ],
+          "explanation": "ଅଚକ୍କା ହେଉଛନ୍ତି ଏହି ଉପନ୍ୟାସର କଥକ। ସେ ଜଣେ ବୃଦ୍ଧା ବ୍ରାହ୍ମଣ ବିଧବା ଯିଏ କାନ୍ଥପୁରା ଗ୍ରାମଟି କିପରି ଗାନ୍ଧୀବାଦୀ ଜାତୀୟତାବାଦୀ ଆନ୍ଦୋଳନ ସହିତ ଜଡ଼ିତ ହେଲା ସେହି ବିଷୟରେ କାହାଣୀ ବର୍ଣ୍ଣନା କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014470791-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory and Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Jacques Derrida's seminal paper 'Structure, Sign, and Play in the Discourse of the Human Sciences', which heralded the advent of post-structuralism, was first presented in 1966 at an international colloquium hosted by which university?",
+      "options": [
+        "Johns Hopkins University",
+        "Yale University",
+        "Harvard University",
+        "Sorbonne University"
+      ],
+      "answer": 0,
+      "explanation": "Jacques Derrida first delivered his landmark paper at an international symposium titled 'The Languages of Criticism and the Sciences of Man', held at Johns Hopkins University in October 1966.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜାକ୍ ଡେରିଡାଙ୍କ ପ୍ରସିଦ୍ଧ ପ୍ରବନ୍ଧ 'Structure, Sign, and Play in the Discourse of the Human Sciences', ଯାହା ଉତ୍ତର-ସଂରଚନାବାଦ (post-structuralism) ର ଆଗମନକୁ ସୂଚିତ କରିଥିଲା, ତାହା ୧୯୬୬ ମସିହାରେ କେଉଁ ବିଶ୍ୱବିଦ୍ୟାଳୟ ଦ୍ୱାରା ଆୟୋଜିତ ଏକ ଆନ୍ତର୍ଜାତୀୟ ଆଲୋଚନାଚକ୍ରରେ ପ୍ରଥମେ ଉପସ୍ଥାପିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଜନ୍ସ ହପକିନ୍ସ ବିଶ୍ୱବିଦ୍ୟାଳୟ",
+            "ୟେଲ୍ ବିଶ୍ୱବିଦ୍ୟାଳୟ",
+            "ହାର୍ଭାର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟ",
+            "ସୋରବୋନ୍ ବିଶ୍ୱବିଦ୍ୟାଳୟ"
+          ],
+          "explanation": "ଜାକ୍ ଡେରିଡା ଅକ୍ଟୋବର ୧୯୬୬ ରେ ଜନ୍ସ ହପକିନ୍ସ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ ଆୟୋଜିତ 'The Languages of Criticism and the Sciences of Man' ଶୀର୍ଷକ ଏକ ଆନ୍ତର୍ଜାତୀୟ ସମ୍ମିଳନୀରେ ପ୍ରଥମେ ଏହି ଐତିହାସିକ ପ୍ରବନ୍ଧ ପାଠ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014498140-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching & Classroom Interaction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS), which category corresponds specifically to 'Accepting or using ideas of pupils'?",
+      "options": [
+        "Category 1",
+        "Category 2",
+        "Category 3",
+        "Category 4"
+      ],
+      "answer": 2,
+      "explanation": "In Flanders' 10-category system, Category 3 represents 'Accepting or using ideas of pupils', which falls under the Teacher Talk (Indirect Influence) dimension.",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ବିଭାଗଟି 'ଛାତ୍ରମାନଙ୍କର ବିଚାର ବା ଚିନ୍ତାଧାରାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା' (Accepting or using ideas of pupils) କୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ବିଭାଗ ୧ (Category 1)",
+            "ବିଭାଗ ୨ (Category 2)",
+            "ବିଭାଗ ୩ (Category 3)",
+            "ବିଭାଗ ୪ (Category 4)"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ FIACS ରେ, ପ୍ରଥମ ୪ଟି ବିଭାଗ ଶିକ୍ଷକଙ୍କ ପରୋକ୍ଷ ପ୍ରଭାବ (Indirect Influence) କୁ ଦର୍ଶାଏ | ଏଥିମଧ୍ୟରୁ ବିଭାଗ ୩ ହେଉଛି ଛାତ୍ରମାନଙ୍କର ବିଚାର ବା ଚିନ୍ତାଧାରାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା |"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014498140-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to David Ausubel's Assimilation Theory of Meaningful Verbal Learning, what type of subsumption occurs when a learner acquires new information that is an extension, elaboration, modification, or qualification of a previously learned concept?",
+      "options": [
+        "Derivative Subsumption",
+        "Correlative Subsumption",
+        "Superordinate Learning",
+        "Combinatorial Learning"
+      ],
+      "answer": 1,
+      "explanation": "Correlative subsumption occurs when the new material is an extension, elaboration, modification, or qualification of previously learned information, rather than a direct illustration of it (which would be derivative subsumption).",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲ୍ (David Ausubel) ଙ୍କ ସାର୍ଥକ ମୌଖିକ ଶିକ୍ଷଣର ଆତ୍ମୀକରଣ ସିଦ୍ଧାନ୍ତ (Assimilation Theory of Meaningful Verbal Learning) ଅନୁଯାୟୀ, ଯେତେବେଳେ ଜଣେ ଶିକ୍ଷାର୍ଥୀ ନୂତନ ସୂଚନା ହାସଲ କରେ ଯାହା ପୂର୍ବରୁ ଶିଖିଥିବା ଧାରଣାର ଏକ ସମ୍ପ୍ରସାରଣ, ବିସ୍ତାର, ସଂଶୋଧନ ବା ଯୋଗ୍ୟତା ଅଟେ, ସେତେବେଳେ କେଉଁ ପ୍ରକାରର ସବ୍‌ସମ୍ପସନ୍ (Subsumption) ଘଟିଥାଏ?",
+          "options": [
+            "ଡେରିଭେଟିଭ୍ ସବ୍‌ସମ୍ପସନ୍ (Derivative Subsumption)",
+            "କୋରେଲେଟିଭ୍ ସବ୍‌ସମ୍ପସନ୍ (Correlative Subsumption)",
+            "ସୁପରଅର୍ଡିନେଟ୍ ଲର୍ଣ୍ଣିଂ (Superordinate Learning)",
+            "କମ୍ବିନେଟୋରିଆଲ୍ ଲର୍ଣ୍ଣିଂ (Combinatorial Learning)"
+          ],
+          "explanation": "କୋରେଲେଟିଭ୍ ସବ୍‌ସମ୍ପସନ୍ (Correlative Subsumption) ରେ, ନୂତନ ସୂଚନା ପୂର୍ବରୁ ବିଦ୍ୟମାନ ଥିବା ଜ୍ଞାନର ଏକ ସମ୍ପ୍ରସାରଣ, ସଂଶୋଧନ କିମ୍ବା ବିସ୍ତାର ଅଟେ, ଯାହା ପୂର୍ବ ଧାରଣାକୁ ଅଧିକ ସ୍ପଷ୍ଟ କରେ |"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014523881-0",
+      "section": "General Studies",
+      "topic": "History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Somavamsi ruler is credited with initiating the construction of the famous Lingaraja Temple at Bhubaneswar, which was later completed by his successor?",
+      "options": [
+        "Janmejaya I",
+        "Yayati II",
+        "Udyotakeshari",
+        "Dharmaratha"
+      ],
+      "answer": 1,
+      "explanation": "The construction of the majestic Lingaraja Temple at Bhubaneswar was initiated by the Somavamsi king Yayati II (also known as Yayati Keshari) in the 11th century, and it was completed during the reign of his son and successor, Udyotakeshari.",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ କାର୍ଯ୍ୟ କେଉଁ ସୋମବଂଶୀ ରାଜାଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିଲା, ଯାହାକି ପରବର୍ତ୍ତୀ ସମୟରେ ତାଙ୍କ ଉତ୍ତରାଧିକାରୀଙ୍କ ଦ୍ୱାରା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା?",
+          "options": [
+            "ଜନ୍ମେଜୟ ପ୍ରଥମ",
+            "ଯଯାତି ଦ୍ୱିତୀୟ",
+            "ଉଦ୍ୟୋତକେଶରୀ",
+            "ଧର୍ମରଥ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ କାର୍ଯ୍ୟ ଏକାଦଶ ଶତାବ୍ଦୀରେ ସୋମବଂଶୀ ରାଜା ଯଯାତି ଦ୍ୱିତୀୟଙ୍କ (ଯଯାତି କେଶରୀ) ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିଲା ଏବଂ ଏହା ତାଙ୍କ ପୁତ୍ର ତଥା ଉତ୍ତରାଧିକାରୀ ଉଦ୍ୟୋତକେଶରୀଙ୍କ ଶାସନ କାଳରେ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014523881-1",
+      "section": "General Studies",
+      "topic": "Polity of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who was the first Governor of the newly created Odisha Province when it was separated from Bihar on 1st April 1936?",
+      "options": [
+        "Sir John Austen Hubback",
+        "Sir Hawthorne Lewis",
+        "Sir George Townsend Boag",
+        "Sir Howelyn Evans"
+      ],
+      "answer": 0,
+      "explanation": "Sir John Austen Hubback was appointed as the first Governor of the newly created Odisha Province on April 1, 1936, and served in this position until 1941.",
+      "translations": {
+        "or": {
+          "question": "୧ ଏପ୍ରିଲ ୧୯୩୬ ରେ ଓଡ଼ିଶା ବିହାରରୁ ପୃଥକ ହୋଇ ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଭାବରେ ଗଠିତ ହେବା ପରେ ଏହାର ପ୍ରଥମ ରାଜ୍ୟପାଳ କିଏ ହୋଇଥିଲେ?",
+          "options": [
+            "ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍",
+            "ସାର୍ ହଥର୍ଣ୍ଣ ଲୁଇସ୍",
+            "ସାର୍ ଜର୍ଜ ଟାଉନସେଣ୍ଡ ବୋଗ୍",
+            "ସାର୍ ହାୱେଲିନ୍ ଇଭାନ୍ସ"
+          ],
+          "explanation": "ନୂତନ ଭାବେ ଗଠିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ରାଜ୍ୟପାଳ ଭାବରେ ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍ ୧ ଏପ୍ରିଲ ୧୯୩୬ ରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ ଏବଂ ସେ ୧୯୪୧ ପର୍ଯ୍ୟନ୍ତ ଏହି ପଦବୀରେ କାର୍ଯ୍ୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014550163-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first female ruler of the Bhauma-Kara dynasty of ancient Odisha?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Gauri Mahadevi",
+        "Vakula Mahadevi"
+      ],
+      "answer": 0,
+      "explanation": "Tribhuvana Mahadevi I was the first female ruler of the Bhauma-Kara dynasty of ancient Odisha. She ascended the throne in 845 AD after the death of her son Subhakaradeva III, with the backing of her father Rajamalla I of the Western Ganga dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରାଚୀନ ଓଡ଼ିଶାର ଭୌମକର ରାଜବଂଶର ପ୍ରଥମ ମହିଳା ଶାସିକା କିଏ ଥିଲେ?",
+          "options": [
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ I",
+            "ପୃଥ୍ୱୀ ମହାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ",
+            "ବକୁଳ ମହାଦେବୀ"
+          ],
+          "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ I ଓଡ଼ିଶାର ଭୌମକର ରାଜବଂଶର ପ୍ରଥମ ମହିଳା ଶାସିକା ଥିଲେ। ନିଜ ପୁତ୍ର ଶୁଭାକରଦେବ III ଙ୍କ ମୃତ୍ୟୁ ପରେ ସେ ପଶ୍ଚିମ ଗଙ୍ଗ ବଂଶର ରାଜା ରାଜମଲ୍ଲ ୧ମ ଙ୍କ ସହାୟତାରେ ୮୪୫ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784014550163-1",
+      "section": "Odisha GK",
+      "topic": "Modern Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first Prime Minister (Premier) of the newly formed Odisha Province in 1937?",
+      "options": [
+        "Biswanath Das",
+        "Krushna Chandra Gajapati",
+        "Nabakrushna Choudhury",
+        "Harekrushna Mahatab"
+      ],
+      "answer": 1,
+      "explanation": "Maharaja Krushna Chandra Gajapati of Parlakhemundi served as the first Prime Minister (Premier) of the separate Odisha province from April 1, 1937, to July 19, 1937.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ମସିହାରେ ନବଗଠିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) କିଏ ଥିଲେ?",
+          "options": [
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ",
+            "ହରେକୃଷ୍ଣ ମହତାବ"
+          ],
+          "explanation": "ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ୧ ଏପ୍ରିଲ ୧୯୩୭ ରୁ ୧୯ ଜୁଲାଇ ୧୯୩୭ ପର୍ଯ୍ୟନ୍ତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ।"
         }
       }
     }

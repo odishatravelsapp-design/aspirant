@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -3280,6 +3280,178 @@
             "ହେନେରୀ ରିକେଟ୍ସ"
           ],
           "explanation": "୧୮୬୬ ମସିହାର ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଥମାସ ଏଡୱାର୍ଡ ରେଭେନ୍ସା ଓଡ଼ିଶା ବିଭାଗର କାର୍ଯ୍ୟକାରୀ କମିଶନର ଥିଲେ। ଖାଦ୍ୟଶସ୍ୟ ଅଭାବର ଆକଳନ କରିବାରେ ତାଙ୍କର ପ୍ରଶାସନିକ ବିଫଳତାକୁ ଦୁର୍ଭିକ୍ଷର ଭୟାବହତାର ଏକ ମୁଖ୍ୟ କାରଣ ବୋଲି ଦର୍ଶାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784014387467-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. All rivers are oceans.\n2. Some oceans are lakes.\n3. No lake is a pond.\n\nConclusions:\nI. Some rivers are lakes.\nII. No pond is an ocean.\nIII. Some oceans are not ponds.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion III follows",
+        "Both conclusions I and III follow",
+        "None of the conclusions follow"
+      ],
+      "answer": 1,
+      "explanation": "From the statements, 'Some oceans are lakes' and 'No lake is a pond'. This means that the portion of oceans which are lakes can never be ponds. Therefore, 'Some oceans are not ponds' (Conclusion III) definitely follows. There is no direct relationship given between rivers and lakes, so Conclusion I does not definitely follow. Similarly, there is no definite negative relationship between all ponds and oceans, so Conclusion II does not follow.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ କଥନ ଏବଂ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହ ପଢନ୍ତୁ। କଥନରେ ଦିଆଯାଇଥିବା ସୂଚନାକୁ ସତ୍ୟ ବୋଲି ଗ୍ରହଣ କରି (ଯଦିଓ ଏହା ସାଧାରଣ ସତ୍ୟରୁ ଭିନ୍ନ ମନେହୁଏ), ପ୍ରଦତ୍ତ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଯୌକ୍ତିକ ଭାବେ ଅନୁସରଣ କରୁଛି ତାହା ସ୍ଥିର କରନ୍ତୁ।\n\nକଥନ:\n1. ସମସ୍ତ ନଦୀ ହେଉଛି ମହାସାଗର।\n2. କେତେକ ମହାସาଗର ହେଉଛି ହ୍ରଦ।\n3. କୌଣସି ହ୍ରଦ ପୋଖରୀ ନୁହେଁ।\n\nସିଦ୍ଧାନ୍ତ:\nI. କେତେକ ନଦୀ ହେଉଛି ହ୍ରଦ।\nII. କୌଣସି ପୋଖରୀ ମହାସାଗର ନୁହେଁ।\nIII. କେତେକ ମହାସାଗର ପୋଖରୀ ନୁହନ୍ତି।",
+          "options": [
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ III ଅନୁସରଣ କରେ",
+            "ଉଭୟ ସିଦ୍ଧାନ୍ତ I ଏବଂ III ଅନୁସରଣ କରନ୍ତି",
+            "କୌଣସି ସିଦ୍ଧାନ୍ତ ଅନୁସରଣ କରେ ନାହିଁ"
+          ],
+          "explanation": "କଥନ ଅନୁଯାୟୀ, 'କେତେକ ମହାସାଗର ହେଉଛି ହ୍ରଦ' ଏବଂ 'କୌଣସି ହ୍ରଦ ପୋଖରୀ ନୁହେଁ'। ଏହାର ଅର୍ଥ ମହାସାଗରର ଯେଉଁ ଅଂଶ ହ୍ରଦ ଅଟେ, ତାହା କେବେହେଲେ ପୋଖରୀ ହୋଇପାରିବ ନାହିଁ। ତେଣୁ, 'କେତେକ ମହାସାଗର ପୋଖରୀ ନୁହନ୍ତି' (ସିଦ୍ଧାନ୍ତ III) ନିଶ୍ଚିତ ଭାବେ ଅନୁସରଣ କରେ। ନଦୀ ଏବଂ ହ୍ରଦ ମଧ୍ୟରେ କୌଣସି ପ୍ରତ୍ୟକ୍ଷ ସମ୍ପର୍କ ଦିଆଯାଇନଥିବାରୁ ସିଦ୍ଧାନ୍ତ I ଅନୁସରଣ କରେ ନାହିଁ। ସେହିପରି ପୋଖରୀ ଏବଂ ମହାସାଗର ମଧ୍ୟରେ କୌଣସି ନିଶ୍ଚିତ ନକାରାତ୍ମକ ସମ୍ପର୍କ ନଥିବାରୁ ସିଦ୍ଧାନ୍ତ II ମଧ୍ୟ ଅନୁସରଣ କରେ ନାହିଁ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784014387467-1",
+      "section": "Reasoning",
+      "topic": "Calendar",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 12th February 2011 was a Saturday, what was the day of the week on 18th November 2015?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "answer": 1,
+      "explanation": "Step 1: Find the number of odd days between 12th Feb 2011 and 12th Feb 2015.\nThere are 4 years, where 2012 is a leap year. \nNumber of odd days = 3 (ordinary years) + 2 (leap year) = 5 odd days.\n\nStep 2: Find the number of odd days from 12th Feb 2015 to 18th Nov 2015.\n- Feb remaining days: 28 - 12 = 16 days (2 odd days)\n- Mar: 31 days (3 odd days)\n- Apr: 30 days (2 odd days)\n- May: 31 days (3 odd days)\n- Jun: 30 days (2 odd days)\n- Jul: 31 days (3 odd days)\n- Aug: 31 days (3 odd days)\n- Sep: 30 days (2 odd days)\n- Oct: 31 days (3 odd days)\n- Nov: 18 days (4 odd days)\nTotal odd days in 2015 = 2+3+2+3+2+3+3+2+3+4 = 27 days = 6 odd days (remainder of 27/7).\n\nStep 3: Total odd days = 5 + 6 = 11 days = 4 odd days (remainder of 11/7).\nSaturday + 4 days = Wednesday.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ୧୨ ଫେବୃଆରୀ ୨୦୧୧ ଶନିବାର ଥିଲା, ତେବେ ୧୮ ନଭେମ୍ବର ୨୦୧୫ କେଉଁ ବାର ଥିଲା?",
+          "options": [
+            "मଙ୍ଗଳବାର",
+            "ବୁଧବାର",
+            "ଗୁରୁବାର",
+            "ଶୁକ୍ରବାର"
+          ],
+          "explanation": "ସୋପାନ ୧: ୧୨ ଫେବୃଆରୀ ୨୦୧୧ ରୁ ୧୨ ଫେବୃଆରୀ ୨୦୧୫ ମଧ୍ୟରେ ଅତିରିକ୍ତ ଦିନ (odd days) ସଂଖ୍ୟା ଗଣନା କରନ୍ତୁ।\nଏଠାରେ ୪ ବର୍ଷ ଅଛି, ଯେଉଁଥିରେ ୨୦୧୨ ଏକ ଅଧିବର୍ଷ (leap year) ଅଟେ।\nଅତିରିକ୍ତ ଦିନ ସଂଖ୍ୟା = ୩ (ସାଧାରଣ ବର୍ଷ) + ୨ (ଅଧିବର୍ଷ) = ୫ ଅତିରିକ୍ତ ଦିନ।\n\nସୋପାନ ୨: ୧୨ ଫେବୃଆରୀ ୨୦୧୫ ରୁ ୧୮ ନଭେମ୍ବର ୨୦୧୫ ପର୍ଯ୍ୟନ୍ତ ଅତିରିକ୍ତ ଦିନ ଗଣନା କରନ୍ତୁ।\n- ଫେବୃଆରୀ ଅବଶିଷ୍ଟ ଦିନ: ୨୮ - ୧୨ = ୧୬ ଦିନ (୨ ଅତିରିକ୍ତ ଦିନ)\n- ମାର୍ଚ୍ଚ: ୩୧ ଦିନ (୩ ଅତିରିକ୍ତ ଦିନ)\n- ଅପ୍ରେଲ: ୩୦ ଦିନ (୨ ଅତିରିକ୍ତ ଦିନ)\n- ମଇ: ୩୧ ଦିନ (୩ ଅତିରିକ୍ତ ଦିନ)\n- ଜୁନ୍: ୩୦ ଦିନ (୨ ଅତିରିକ୍ତ ଦିନ)\n- ଜୁଲାଇ: ୩୧ ଦିନ (୩ ଅତିରିକ୍ତ ଦିନ)\n- ଅଗଷ୍ଟ: ୩୧ ଦିନ (୩ ଅତିରିକ୍ତ ଦିନ)\n- ସେପ୍ଟେମ୍ବର: ୩୦ ଦିନ (୨ ଅତିରିକ୍ତ ଦିନ)\n- ଅକ୍ଟୋବର: ୩୧ ଦିନ (୩ ଅତିରିକ୍ତ ଦିନ)\n- ନଭେମ୍ବର: ୧୮ ଦିନ (୪ ଅତିରିକ୍ତ ଦିନ)\nମୋଟ ୨୦୧୫ ର ଅତିରିକ୍ତ ଦିନ = ୨+୩+୨+୩+୨+୩+୩+୨+୩+୪ = ୨୭ ଦିନ = ୬ ଅତିରିକ୍ତ ଦିନ (୨୭/୭ ର ଭାଗଶେଷ)।\n\nସୋପାନ ୩: ସର୍ବମୋଟ ଅତିରିକ୍ତ ଦିନ = ୫ + ୬ = ୧୧ ଦିନ = ୪ ଅତିରିକ୍ତ ଦିନ (୧୧/୭ ର ଭାଗଶେଷ)।\nଶନିବାର + ୪ ଦିନ = ବୁଧବାର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784014424562-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Art and Architecture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous Kichakeswari Temple at Khiching in Mayurbhanj district, built entirely of chlorite, was constructed during the reign of which dynasty?",
+      "options": [
+        "Ganga Dynasty",
+        "Bhanja Dynasty",
+        "Somavamshi Dynasty",
+        "Sailodbhava Dynasty"
+      ],
+      "answer": 1,
+      "explanation": "The Kichakeswari Temple at Khiching was built by the Bhanja rulers of Khijjinga Kotta (modern-day Khiching) in the Mayurbhanj district during the 10th-11th century AD. The temple is made entirely of blue chlorite stone.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାର ଖିଚିଙ୍ଗ୍‌ଠାରେ ଅବସ୍ଥିତ, ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ମୁଗୁନି ପଥର (chlorite) ରେ ନିର୍ମିତ ପ୍ରସିଦ୍ଧ କିଚକେଶ୍ୱରୀ ମନ୍ଦିର କେଉଁ ରାଜବଂଶର ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଗଙ୍ଗ ବଂଶ",
+            "ଭଞ୍ଜ ବଂଶ",
+            "ସୋମବଂଶୀ ବଂଶ",
+            "ଶୈଳୋଦ୍ଭବ ବଂଶ"
+          ],
+          "explanation": "ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାର ଖିଚିଙ୍ଗ୍‌ଠାରେ ଥିବା କିଚକେଶ୍ୱରୀ ମନ୍ଦିର ଦଶମ-ଏକାଦଶ ଶତାବ୍ଦୀରେ ଖିଜିଙ୍ଗ କୋଟ୍ଟର ଭଞ୍ଜ ଶାସକମାନଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା। ଏହି ମନ୍ଦିରଟି ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ନୀଳ ମୁଗୁନି ପଥରରେ ତିଆରି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784014424562-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the chief leader of the historic Kanika Peasant Movement (Praja Meli) of 1922 against the oppressive tax system of the local Raja?",
+      "options": [
+        "Chakradhar Behera",
+        "Gopabandhu Choudhury",
+        "Bhagirathi Pattnaik",
+        "Sarangadhar Das"
+      ],
+      "answer": 0,
+      "explanation": "Chakradhar Behera (often called 'Biplabi') led the historic peasant uprising in the Kanika Raj estate in 1922 against the illegal taxes and land revenue hike imposed by Raja Rajendra Narayan Bhanja Deo.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସ୍ଥାନୀୟ ରାଜାଙ୍କ ଅତ୍ୟାଚାରୀ କର ବ୍ୟବସ୍ଥା ବିରୁଦ୍ଧରେ ୧୯୨୨ ମସିହାରେ ହୋଇଥିବା ଐତିହାସିକ କନିକା ପ୍ରଜା ଆନ୍ଦୋଳନର ମୁଖ୍ୟ ନେତା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ଚକ୍ରଧର ବେହେରା",
+            "ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ",
+            "ଭାଗୀରଥି ପଟ୍ଟନାୟକ",
+            "ସାରଙ୍ଗଧର ଦାସ"
+          ],
+          "explanation": "ଚକ୍ରଧର ବେହେରା (ଯାହାଙ୍କୁ 'ବିପ୍ଳବୀ' କୁହାଯାଏ) ରାଜା ରାଜେନ୍ଦ୍ର ନାରାୟଣ ଭଞ୍ଜଦେଓଙ୍କ ଦ୍ୱାରା ଧାର୍ଯ୍ୟ କରାଯାଇଥିବା ବେଆଇନ କର ଏବଂ ଜମି ଜମା ରାଜସ୍ୱ ବୃଦ୍ଧି ବିରୁଦ୍ଧରେ ୧୯୨୨ ମସିହାରେ କନିକା ପ୍ରଜା ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784014447871-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was the famous 'Satyabadi Bana Vidyalaya' at Sakshigopal in Puri established by Pandit Gopabandhu Das?",
+      "options": [
+        "1905",
+        "1909",
+        "1912",
+        "1919"
+      ],
+      "answer": 1,
+      "explanation": "Satyabadi Bana Vidyalaya was established on 12 August 1909 at Sakshigopal, Puri by Pandit Gopabandhu Das as an open-air school on the model of Gurukul education.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସଙ୍କ ଦ୍ୱାରା ପୁରୀର ସାକ୍ଷୀଗୋପାଳଠାରେ ପ୍ରସିଦ୍ଧ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' କେଉଁ ବର୍ଷ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା?",
+          "options": [
+            "1905",
+            "1909",
+            "1912",
+            "1919"
+          ],
+          "explanation": "ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ ୧୨ ଅଗଷ୍ଟ ୧୯୦୯ ମସିହାରେ ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସଙ୍କ ଦ୍ୱାରା ପୁରୀର ସାକ୍ଷୀଗୋପାଳଠାରେ ଏକ ମୁକ୍ତାକାଶ ବିଦ୍ୟାଳୟ (ଗୁରୁକୁଳ ଶିକ୍ଷା ଶୈଳୀ) ଭାବରେ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784014447871-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the last independent Hindu ruler of medieval Odisha, who died in 1568 in a battle against the forces of the Bengal Sultanate?",
+      "options": [
+        "Prataparudra Deva",
+        "Mukunda Deva",
+        "Ramachandra Deva I",
+        "Govinda Vidyadhara"
+      ],
+      "answer": 1,
+      "explanation": "Gajapati Mukunda Deva (Mukundaharichandan) was the last independent king of medieval Odisha. He ruled from 1559 to 1568 and died in 1568 during the battle of Gohiratikiri against the invading forces of Suleiman Karrani, the Sultan of Bengal.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ କିଏ ଥିଲେ, ଯିଏ ୧୫୬୮ ମସିହାରେ ବଙ୍ଗଳା ସୁଲତାନଙ୍କ ସେନା ବିରୁଦ୍ଧରେ ଯୁଦ୍ଧ କରି ପ୍ରାଣ ହରାଇଥିଲେ?",
+          "options": [
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "ପ୍ରଥମ ରାମଚନ୍ଦ୍ର ଦେବ",
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
+          ],
+          "explanation": "ଗଜପତି ମୁକୁନ୍ଦ ଦେବ (ମୁକୁନ୍ଦହରିଚନ୍ଦନ) ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ରାଜା ଥିଲେ। ସେ ୧୫୫୯ ରୁ ୧୫୬୮ ପର୍ଯ୍ୟନ୍ତ ଶାସନ କରିଥିଲେ ଏବଂ ବଙ୍ଗଳାର ସୁଲତାନ ସୁଲେମାନ କରାନୀଙ୍କ ଆକ୍ରମଣକାରୀ ସେନା ବିରୁଦ୍ଧରେ ଗୋହିରାଟିକିରି ଯୁଦ୍ଧରେ ପ୍ରାଣ ହରାଇଥିଲେ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2796,6 +2796,136 @@
       ],
       "answer": 1,
       "explanation": "The Standing Deposit Facility (SDF) is an inflation-control tool that allows the RBI to absorb excess liquidity from the commercial banking system without providing government securities as collateral. This distinguishes it from the Reverse Repo, which requires collateral backing.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784014256025-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B, and C started a business with investments in the ratio 3 : 5 : 8. After 6 months, A invested 50% more than his initial investment, B withdrew 20% of his investment, and C withdrew 25% of his investment. If the total annual profit was Rs. 1,22,000, what is C's share in the profit?",
+      "options": [
+        "Rs. 48,000",
+        "Rs. 54,000",
+        "Rs. 56,000",
+        "Rs. 60,000"
+      ],
+      "answer": 2,
+      "explanation": "Let the initial investments of A, B, and C be 30x, 50x, and 80x respectively.\n\nFor the first 6 months:\n- A's investment equivalent = 30x * 6 = 180x\n- B's investment equivalent = 50x * 6 = 300x\n- C's investment equivalent = 80x * 6 = 480x\n\nFor the next 6 months:\n- A increases investment by 50%: New investment = 30x * 1.5 = 45x. Equivalent for 6 months = 45x * 6 = 270x\n- B withdraws 20%: New investment = 50x * 0.8 = 40x. Equivalent for 6 months = 40x * 6 = 240x\n- C withdraws 25%: New investment = 80x * 0.75 = 60x. Equivalent for 6 months = 60x * 6 = 360x\n\nTotal investment equivalent for 12 months:\n- A = 180x + 270x = 450x\n- B = 300x + 240x = 540x\n- C = 480x + 360x = 840x\n\nRatio of profit sharing A : B : C = 450 : 540 : 840 = 15 : 18 : 28.\nSum of ratio parts = 15 + 18 + 28 = 61.\nC's share of profit = (28 / 61) * 1,22,000 = 28 * 2000 = Rs. 56,000."
+    },
+    {
+      "id": "ibps-po-ai-1784014256025-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two places P and Q are 360 km apart. A car starts from P towards Q at a constant speed of U km/h. At the same time, another car starts from Q towards P at a constant speed of V km/h (where V > U). They meet after 4 hours. If the car starting from Q had started 2.5 hours after the car from P, they would have met 3 hours after the car from Q started. Find the speed of the slower car (in km/h).",
+      "options": [
+        "30 km/h",
+        "36 km/h",
+        "40 km/h",
+        "45 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of the car starting from P be U km/h, and the car from Q be V km/h.\n\nCase 1: When they start at the same time, they meet in 4 hours.\nRelative Speed = U + V\nDistance = (U + V) * 4 = 360\n=> U + V = 90  --- (Equation 1)\n\nCase 2: The car from Q starts 2.5 hours after the car from P, and they meet 3 hours after the car from Q starts.\nThis means the car from P travels for (2.5 + 3) = 5.5 hours, and the car from Q travels for 3 hours.\nTotal distance covered = 5.5 * U + 3 * V = 360  --- (Equation 2)\n\nFrom Equation 1, we have V = 90 - U. Substituting this into Equation 2:\n5.5U + 3(90 - U) = 360\n5.5U + 270 - 3U = 360\n2.5U = 90\nU = 36 km/h.\n\nSince V = 90 - 36 = 54 km/h and V > U, the speed of the slower car (U) is indeed 36 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1784014275952-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Laptops are Desktops.\nAll Desktops are Tablets.\nNo Tablet is a Mobile.\n\nConclusions:\nI. Some Laptops are not Mobiles.\nII. All Tablets being Laptops is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and conclusion II follow",
+        "Neither conclusion I nor conclusion II follows"
+      ],
+      "answer": 2,
+      "explanation": "Since 'All Desktops are Tablets' and 'No Tablet is a Mobile', it means 'No Desktop is a Mobile'. Since 'Only a few Laptops are Desktops', there is a common part between Laptops and Desktops (Some Laptops are Desktops). This common part cannot be Mobiles, so 'Some Laptops are not Mobiles' is definitely true (Conclusion I follows). For Conclusion II, we can place the entire circle of Tablets inside Laptops without violating the condition 'Only a few Laptops are Desktops' (as some part of Laptops can still remain outside Desktops). Thus, Conclusion II also follows."
+    },
+    {
+      "id": "ibps-po-ai-1784014275952-1",
+      "section": "Reasoning",
+      "topic": "Course of Action",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statement: A severe dust storm in the northern plains of India has led to near-zero visibility, causing multiple major pile-ups of vehicles on the national highways and disrupting flight operations at the regional airports.\n\nCourses of Action:\nI. The highway authority should immediately divert vehicular traffic to safer alternative routes and deploy emergency services to clear the accident sites.\nII. The civil aviation ministry should suspend all flight operations at the affected regional airports indefinitely until the arrival of the monsoon season.",
+      "options": [
+        "Only Course of Action I follows",
+        "Only Course of Action II follows",
+        "Both Course of Action I and II follow",
+        "Neither Course of Action I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Course of Action I is a direct, practical, and immediate corrective measure to prevent further accidents and manage the current crisis on the highways. Course of Action II is extremely harsh, disproportionate, and impractical, as suspending flight operations indefinitely until the monsoon (which may be months away) is an overreaction to a temporary weather phenomenon like a dust storm."
+    },
+    {
+      "id": "ibps-po-ai-1784014302812-0",
+      "section": "English",
+      "topic": "Grammar - Tense Consistency",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Analyze the following sentence and identify the specific grammatical error present in it:\n\n'No sooner had the central bank announced the policy rate cut than the commercial banks have immediately reduced their lending rates.'",
+      "options": [
+        "Incorrect correlative conjunction pairing of 'No sooner... than'",
+        "Inconsistent tense sequence in the subordinate clause introduced by 'than'",
+        "Incorrect subject-verb agreement between 'commercial banks' and 'have'",
+        "Misplacement of the adverb 'immediately' after the auxiliary verb"
+      ],
+      "answer": 1,
+      "explanation": "The correlative conjunction 'No sooner... than' is used to show that one event happens immediately after another. When 'No sooner' is followed by the past perfect tense ('had the central bank announced'), the subsequent clause introduced by 'than' must be in the simple past tense ('reduced') to maintain tense consistency. The use of the present perfect tense ('have... reduced') is grammatically incorrect in this sequence of tenses."
+    },
+    {
+      "id": "ibps-po-ai-1784014302812-1",
+      "section": "English",
+      "topic": "Grammar - Subjunctive Mood",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Read the sentence below and determine which correction is grammatically necessary to satisfy the rules of the subjunctive mood and parallel structure:\n\n'The board of directors recommended that the CFO not only presents the revised budget but also addresses the audit queries personally.'",
+      "options": [
+        "Change 'recommended' to 'recommends' to match the present tense in the subordinate clause.",
+        "Change 'presents' to 'present' and 'addresses' to 'address' to use the subjunctive base form.",
+        "Change 'not only presents' to 'presents not only' to correct the coordinate conjunction placement.",
+        "Replace 'that the CFO' with 'the CFO' and change 'addresses' to 'addressing'."
+      ],
+      "answer": 1,
+      "explanation": "The verb 'recommended' is a verb of recommendation, which triggers the subjunctive mood in the following 'that' clause. In the subjunctive mood, the base form of the verb (bare infinitive) must be used regardless of the subject's number or person. Therefore, 'presents' must be changed to 'present' and 'addresses' to 'address' to satisfy both the subjunctive mood requirement and the parallel structure under 'not only... but also'."
+    },
+    {
+      "id": "ibps-po-ai-1784014325412-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's 'Internal Ombudsman Scheme for Non-Banking Financial Companies (NBFCs), 2021', what is the minimum asset size threshold above which non-deposit taking NBFCs (NBFCs-ND) with public customer interface are required to appoint an Internal Ombudsman?",
+      "options": [
+        "₹1,000 crore",
+        "₹2,500 crore",
+        "₹5,000 crore",
+        "₹10,000 crore"
+      ],
+      "answer": 2,
+      "explanation": "As per the RBI guidelines on the Internal Ombudsman Scheme for NBFCs issued in 2021, deposit-taking NBFCs (NBFCs-D) with 10 or more branches and non-deposit taking NBFCs (NBFCs-ND) with asset size of ₹5,000 crore and above (having public customer interface) are required to appoint an Internal Ombudsman.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784014325412-1",
+      "section": "General Awareness",
+      "topic": "Banking Laws",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 26 of the Banking Regulation Act, 1949, commercial banks are required to submit a return of all accounts in India which have not been operated upon for 10 years to the Reserve Bank of India within how many days after the close of each calendar year?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "answer": 1,
+      "explanation": "Section 26 of the Banking Regulation Act, 1949 mandates that every banking company must submit a return to the RBI of all accounts in India which have not been operated upon for 10 years, within 30 days after the close of each calendar year.",
       "status": "pending"
     }
   ]

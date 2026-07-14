@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -2892,6 +2892,136 @@
       ],
       "answer": 0,
       "explanation": "As per the prevailing LRS provisions, if the remittance for education is funded by a loan from an authorized financial institution under Section 80E of the Income Tax Act, a concessional TCS rate of 0.5% is applicable on amounts exceeding Rs 7 lakh.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784014143066-0",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person invests a certain sum of money in Scheme A which offers Simple Interest at 12% p.a. for 3 years. He invests an equal sum of money in Scheme B which offers Compound Interest (compounded annually) at 10% p.a. for 2 years. If the difference between the interest earned from Scheme A and Scheme B is Rs. 1,350, find the sum invested in each scheme.",
+      "options": [
+        "Rs. 8,000",
+        "Rs. 9,000",
+        "Rs. 10,000",
+        "Rs. 12,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal invested in each scheme be P. Interest from Scheme A (Simple Interest) = (P * R * T) / 100 = (P * 12 * 3) / 100 = 0.36P. Interest from Scheme B (Compound Interest) = P * [(1 + R/100)^2 - 1] = P * [(1 + 10/100)^2 - 1] = P * [1.21 - 1] = 0.21P. Given that the difference between the interest earned is Rs. 1,350: 0.36P - 0.21P = 1,350 => 0.15P = 1,350 => P = 1,350 / 0.15 = 9,000. Therefore, the sum invested in each scheme is Rs. 9,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1784014143066-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red balls, 4 green balls, and 3 blue balls. If three balls are drawn at random from the bag, what is the probability that at least two of the drawn balls are red?",
+      "options": [
+        "5/11",
+        "4/11",
+        "3/11",
+        "7/22"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls in the bag = 5 (red) + 4 (green) + 3 (blue) = 12 balls. Total ways of drawing 3 balls from 12 = 12C3 = (12 * 11 * 10) / (3 * 2 * 1) = 220. We need the probability of drawing at least 2 red balls. This can happen in two mutually exclusive cases: Case 1: Exactly 2 red balls and 1 non-red ball. Ways = 5C2 * 7C1 = 10 * 7 = 70. Case 2: Exactly 3 red balls. Ways = 5C3 = 10. Total favorable ways = 70 + 10 = 80. Probability = Favorable ways / Total ways = 80 / 220 = 4/11."
+    },
+    {
+      "id": "sbi-clerk-ai-1784014181981-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person starts walking from Point X towards the North. After walking 5 meters, he turns right and walks 12 meters. Then, he turns right and walks 8 meters. He then turns left and walks 3 meters. Finally, he turns left and walks 11 meters to reach Point Y. What is the shortest distance between Point X and Point Y, and in which direction is Point Y with respect to Point X?",
+      "options": [
+        "17 meters, North-East",
+        "15 meters, East",
+        "17 meters, South-East",
+        "13 meters, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Starting at X (0,0):\n1. Moves North 5m -> (0, 5)\n2. Turns right (East) 12m -> (12, 5)\n3. Turns right (South) 8m -> (12, -3)\n4. Turns left (East) 3m -> (15, -3)\n5. Turns left (North) 11m -> (15, 8)\nPoint Y is at (15, 8).\nShortest distance XY = sqrt(15^2 + 8^2) = sqrt(225 + 64) = sqrt(289) = 17 meters.\nSince Y is at (15, 8) relative to (0,0), it is in the North-East direction."
+    },
+    {
+      "id": "sbi-clerk-ai-1784014181981-1",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight people - A, B, C, D, E, F, G, and H - are sitting around a circular table facing the center. B sits third to the right of G. Only one person sits between B and F. D sits second to the left of F. H sits to the immediate left of C. C is not an immediate neighbor of B. E sits second to the right of A. Who among the following sits third to the left of H?",
+      "options": [
+        "A",
+        "B",
+        "E",
+        "G"
+      ],
+      "answer": 0,
+      "explanation": "By placing G at position 1 and moving counter-clockwise (rightwards):\n- B is at position 4 (third to the right of G).\n- F is at position 2 (since D sits second to the left of F, if F was at 6, D would be at 4 which is occupied by B).\n- D is at position 8.\n- C is at position 7 and H is at position 6 (since H is to the immediate left of C, and C cannot be adjacent to B at 4).\n- A is at position 3 and E is at position 5 (since E is second to the right of A).\nThe final circular order (counter-clockwise) is: G(1) - F(2) - A(3) - B(4) - E(5) - H(6) - C(7) - D(8).\nThird to the left (clockwise) of H(6) is A(3)."
+    },
+    {
+      "id": "sbi-clerk-ai-1784014208328-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence below, four words highlighted in bold are labeled (A), (B), (C), and (D). One or more pairs of these words need to be interchanged to make the sentence grammatically correct and contextually meaningful. Choose the correct option.\n\n\"The **strike** (A) of the management to **address** (B) the grievances of the employees **led** (C) to a widespread **reluctance** (D).\"",
+      "options": [
+        "A-C",
+        "B-D",
+        "A-D",
+        "No exchange required"
+      ],
+      "answer": 2,
+      "explanation": "The word 'strike' does not fit contextually with 'of the management to address...'. Management displays 'reluctance' to address grievances, which in turn leads to a 'strike' by the employees. Swapping A and D restores the correct meaning: 'The reluctance (A) of the management to address (B) the grievances of the employees led (C) to a widespread strike (D).'"
+    },
+    {
+      "id": "sbi-clerk-ai-1784014208328-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Rearrange the given five fragments (A, B, C, D, and E) to form a coherent and grammatically correct sentence.\n\nA) had been operating under a temporary license\nB) for over a decade before it finally\nC) the prestigious research institute\nD) secured permanent accreditation from the council\nE) of higher education last month",
+      "options": [
+        "CABDE",
+        "ACDBE",
+        "CBADE",
+        "BDACE"
+      ],
+      "answer": 0,
+      "explanation": "The correct logical sequence is CABDE. 'The prestigious research institute' (C) is the subject, followed by the past perfect continuous verb phrase 'had been operating under a temporary license' (A), the duration 'for over a decade before it finally' (B), the main action 'secured permanent accreditation from the council' (D), and the qualifying prepositional phrase 'of higher education last month' (E)."
+    },
+    {
+      "id": "sbi-clerk-ai-1784014230504-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the minimum bidding amount for Scheduled Commercial Banks under the Marginal Standing Facility (MSF) scheme of the Reserve Bank of India?",
+      "options": [
+        "₹10 Lakh",
+        "₹50 Lakh",
+        "₹1 Crore",
+        "₹5 Crore"
+      ],
+      "answer": 2,
+      "explanation": "Under the Marginal Standing Facility (MSF) scheme introduced by the RBI, banks can borrow overnight funds. The minimum bidding amount for MSF is ₹1 crore, and subsequent bids must be in multiples of ₹1 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784014230504-1",
+      "section": "General Awareness",
+      "topic": "Government Savings Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "With effect from April 1, 2023, what is the revised maximum deposit limit allowed under the Senior Citizens Savings Scheme (SCSS)?",
+      "options": [
+        "₹15 Lakh",
+        "₹20 Lakh",
+        "₹25 Lakh",
+        "₹30 Lakh"
+      ],
+      "answer": 3,
+      "explanation": "In the Union Budget 2023-24, the Central Government enhanced the maximum investment limit for the Senior Citizens Savings Scheme (SCSS) from ₹15 lakh to ₹30 lakh, effective from April 1, 2023.",
       "status": "pending"
     }
   ]
