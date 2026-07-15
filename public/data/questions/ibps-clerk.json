@@ -3234,6 +3234,176 @@
       "answer": 1,
       "explanation": "In April 2022, the RBI introduced the Standing Deposit Facility (SDF) at 25 basis points (bps) below the policy Repo Rate, making it the floor of the LAF corridor, while the Marginal Standing Facility (MSF) remains at 25 bps above the Repo Rate.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-0",
+      "section": "General Awareness",
+      "topic": "Fundamental Rights & Duties",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following Articles of the Constitution of India guarantees the 'Right to Education' as a Fundamental Right?",
+      "options": [
+        "Article 21A",
+        "Article 19",
+        "Article 45",
+        "Article 51A(k)"
+      ],
+      "answer": 0,
+      "explanation": "Article 21A of the Constitution of India, inserted via the 86th Constitutional Amendment Act of 2002, provides free and compulsory education for all children in the age group of six to fourteen years as a Fundamental Right."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-1",
+      "section": "General Awareness",
+      "topic": "Parliament & Judiciary",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following holds the office of the ex-officio Chairman of the Rajya Sabha (Council of States) in India?",
+      "options": [
+        "The President of India",
+        "The Vice-President of India",
+        "The Prime Minister of India",
+        "The Speaker of Lok Sabha"
+      ],
+      "answer": 1,
+      "explanation": "Article 64 of the Indian Constitution stipulates that the Vice-President of India shall be the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-2",
+      "section": "General Awareness",
+      "topic": "Constitutional Amendments",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "By which Constitutional Amendment Act was the 'Ninth Schedule' added to the Constitution of India to protect land reform laws from judicial review?",
+      "options": [
+        "1st Amendment Act, 1951",
+        "7th Amendment Act, 1956",
+        "24th Amendment Act, 1971",
+        "44th Amendment Act, 1978"
+      ],
+      "answer": 0,
+      "explanation": "The First Amendment Act of 1951 introduced the Ninth Schedule to protect agricultural and land reform laws from being challenged in courts on the grounds of violating fundamental rights."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-3",
+      "section": "General Awareness",
+      "topic": "Ancient Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Gupta Emperor is explicitly referred to as 'Lichchhavi-dauhitra' (the grandson of Lichchhavis) in the famous Prayaga Prasasti (Allahabad Pillar inscription)?",
+      "options": [
+        "Chandragupta I",
+        "Samudragupta",
+        "Chandragupta II",
+        "Skandagupta"
+      ],
+      "answer": 1,
+      "explanation": "Samudragupta, the son of Chandragupta I and the Lichchhavi princess Kumaradevi, proudly styled himself as 'Lichchhavi-dauhitra' in the Prayaga Prasasti composed by his court poet Harishena."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-4",
+      "section": "General Awareness",
+      "topic": "Medieval Indian History",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Delhi Sultan was the first to introduce a purely Arabic coinage system in India, comprising the silver 'Tanka' and the copper 'Jital'?",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Iltutmish",
+        "Ghiyasuddin Balban",
+        "Alauddin Khalji"
+      ],
+      "answer": 1,
+      "explanation": "Shams-ud-din Iltutmish (reigned 1211–1236) introduced the silver Tanka (weighing 175 grains) and the copper Jital, establishing a standardized monetary system for the Delhi Sultanate."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-5",
+      "section": "General Awareness",
+      "topic": "Modern India & Freedom Struggle",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following founded the 'East India Association' in London in the year 1866 to promote Indian welfare and raise awareness among the British public?",
+      "options": [
+        "Dadabhai Naoroji",
+        "Surendranath Banerjee",
+        "Gopal Krishna Gokhale",
+        "Womesh Chandra Bonnerjee"
+      ],
+      "answer": 0,
+      "explanation": "Dadabhai Naoroji, popularly known as the 'Grand Old Man of India', founded the East India Association in London in 1866 to discuss Indian grievances and influence British public opinion."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-6",
+      "section": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following rivers originates from the Amarkantak Plateau in Madhya Pradesh and flows westwards into the Gulf of Khambhat (Arabian Sea)?",
+      "options": [
+        "Tapi River",
+        "Narmada River",
+        "Mahi River",
+        "Luni River"
+      ],
+      "answer": 1,
+      "explanation": "The Narmada River rises near the Amarkantak Hill in Madhya Pradesh and flows westwards through a rift valley between the Vindhya and Satpura ranges to discharge into the Arabian Sea."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-7",
+      "section": "General Awareness",
+      "topic": "World Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which narrow waterway connects the Sea of Azov with the Black Sea, separating the Crimean Peninsula from the Taman Peninsula of Russia?",
+      "options": [
+        "Kerch Strait",
+        "Bosporus Strait",
+        "Dardanelles Strait",
+        "Gibraltar Strait"
+      ],
+      "answer": 0,
+      "explanation": "The Kerch Strait is a strategic waterway that links the Sea of Azov with the Black Sea and geographically separates Crimea from the Russian mainland's Taman Peninsula."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-8",
+      "section": "General Awareness",
+      "topic": "Ancient Indian History",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The famous Kailasanatha Temple at Ellora, carved out of a single massive rock monolith, was constructed during the reign of which Rashtrakuta king?",
+      "options": [
+        "Dantidurga",
+        "Krishna I",
+        "Dhruva",
+        "Amoghavarsha I"
+      ],
+      "answer": 1,
+      "explanation": "The rock-cut Kailasanatha Temple (Cave 16) at Ellora was built in the 8th century CE under the patronage of the Rashtrakuta ruler Krishna I."
+    },
+    {
+      "id": "ibps-clerk-gk-1784107343291-9",
+      "section": "General Awareness",
+      "topic": "World Geography",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following deep-ocean trenches is located in the Atlantic Ocean?",
+      "options": [
+        "Mariana Trench",
+        "Puerto Rico Trench",
+        "Java Trench",
+        "Kermadec Trench"
+      ],
+      "answer": 1,
+      "explanation": "The Puerto Rico Trench, with a maximum depth of over 8,300 meters, is the deepest trench located in the Atlantic Ocean. Mariana and Kermadec are in the Pacific, and Java is in the Indian Ocean."
     }
   ]
 }
