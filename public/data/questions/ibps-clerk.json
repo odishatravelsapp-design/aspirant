@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -3104,6 +3104,136 @@
       ],
       "answer": 0,
       "explanation": "'Deluge' means a severe flood or heavy fall of rain, which fits the context of 'heavy rain'. 'Thwarted' means to prevent someone from accomplishing something or to oppose successfully, which perfectly completes the logic of plans being ruined by the rain. Other options are either contradictory in meaning ('dearth/scarcity' means lack, 'facilitated' means made easier) or grammatically incorrect."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100686818-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership. A invests Rs. X, B invests Rs. (X + 2000), and C invests Rs. (X - 1000). A, B and C invested for 8 months, 6 months and 12 months respectively. If C's share in the total annual profit of Rs. 13,000 is Rs. 5,000, find the value of X.",
+      "options": [
+        "Rs. 5000",
+        "Rs. 6000",
+        "Rs. 7500",
+        "Rs. 8000"
+      ],
+      "answer": 1,
+      "explanation": "Let the investments of A, B and C be Rs. X, Rs. (X + 2000), and Rs. (X - 1000) respectively. Ratio of profits = (X * 8) : ((X + 2000) * 6) : ((X - 1000) * 12) = 8X : (6X + 12000) : (12X - 12000). Sum of ratio terms = 8X + 6X + 12000 + 12X - 12000 = 26X. Since C's share of profit is Rs. 5,000 out of Rs. 13,000: (12X - 12000) / 26X = 5000 / 13000 = 5/13. Solving for X: 13 * (12X - 12000) = 5 * 26X => 156X - 156000 = 130X => 26X = 156000 => X = 6000."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100686819-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A man covers a certain distance at a uniform speed. If he had travelled 10 km/h faster, he would have taken 2 hours less than the scheduled time. If he had travelled 5 km/h slower, he would have taken 2 hours more than the scheduled time. Find the distance covered by him.",
+      "options": [
+        "100 km",
+        "150 km",
+        "180 km",
+        "120 km"
+      ],
+      "answer": 3,
+      "explanation": "Let the original speed be 's' km/h and original time be 't' hours. Distance (d) = s * t. From the first condition: (s + 10)(t - 2) = s * t => st - 2s + 10t - 20 = st => 10t - 2s = 20 => 5t - s = 10 => s = 5t - 10. From the second condition: (s - 5)(t + 2) = s * t => st + 2s - 5t - 10 = st => 2s - 5t = 10. Substituting the value of s from the first equation into the second: 2(5t - 10) - 5t = 10 => 10t - 20 - 5t = 10 => 5t = 30 => t = 6 hours. Hence, s = 5(6) - 10 = 20 km/h. Distance (d) = s * t = 20 * 6 = 120 km."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100708808-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some statements are given followed by two conclusions. Read the statements and decide which of the given conclusions logically follows.\n\nStatements:\nP ≤ Q < R = S; T > S ≥ U\n\nConclusions:\nI. T > P\nII. Q < U",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Combining the statements, we get: P ≤ Q < R = S < T and P ≤ Q < R = S ≥ U. For conclusion I: P < T which means T > P is definitely true. For conclusion II: Q < S ≥ U, which has opposite signs, so no definite relationship can be established between Q and U. Hence, only conclusion I follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100708808-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six colleagues - P, Q, R, S, T, and U - have different monthly salaries. S earns more than only T and U. T earns more than U. P earns more than R, who in turn earns more than Q. The one who earns the second highest salary earns ₹40,000, and the one who earns the second lowest salary earns ₹18,000. If P's salary is ₹52,000 and S's salary is ₹28,000, what is the possible salary of Q?",
+      "options": [
+        "₹42,000",
+        "₹34,000",
+        "₹24,000",
+        "₹15,000"
+      ],
+      "answer": 1,
+      "explanation": "Based on the given conditions, S earns more than only T and U, which means S is 4th, T is 5th (earning ₹18,000), and U is 6th (lowest). The remaining positions 1st, 2nd, and 3rd must be filled by P, R, and Q respectively since P > R > Q. Therefore, the order is P (1st) > R (2nd, earning ₹40,000) > Q (3rd) > S (4th, earning ₹28,000) > T (5th) > U (6th). Since Q's salary is between R (₹40,000) and S (₹28,000), the only possible value from the options is ₹34,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100772433-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, find the part that contains a grammatical error. If the sentence is correct, select 'No error' (not applicable here as one part is incorrect).\n\n'She is one of those (A) / mothers who always (B) / worries about her (C) / children's future. (D)'",
+      "options": [
+        "She is one of those",
+        "mothers who always",
+        "worries about her",
+        "children's future."
+      ],
+      "answer": 2,
+      "explanation": "In 'one of those + plural noun + who' construction, the relative pronoun 'who' refers to the plural noun ('mothers'). Therefore, the verb must be plural ('worry' instead of 'worries') and the subsequent pronoun must also be plural ('their' instead of 'her'). Hence, part C contains the error."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100772433-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the given sentence:\n\n'The committee's decision to ________ the construction project was met with ________ from the local community, who feared irreversible environmental degradation.'",
+      "options": [
+        "abandon ... commendation",
+        "endorse ... vehement opposition",
+        "suspend ... widespread acclaim",
+        "inaugurate ... total indifference"
+      ],
+      "answer": 1,
+      "explanation": "The second clause mentions that the community 'feared irreversible environmental degradation,' which means they would react negatively to the project being approved. 'Endorse' (to approve) and 'vehement opposition' (strong disapproval) fit this logical flow perfectly."
+    },
+    {
+      "id": "ibps-clerk-ai-1784100781392-0",
+      "section": "General Awareness",
+      "topic": "Small Finance Banks Guidelines",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI) for 'on-tap' licensing of Small Finance Banks (SFBs) in the private sector, what is the minimum paid-up voting equity capital required?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's guidelines for 'on-tap' licensing of Small Finance Banks, the minimum paid-up voting equity capital required is ₹200 crore (increased from the earlier requirement of ₹100 crore).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784100781392-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Instruments",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. The SDF rate is set at how many basis points below the policy Repo Rate?",
+      "options": [
+        "15 basis points",
+        "25 basis points",
+        "40 basis points",
+        "50 basis points"
+      ],
+      "answer": 1,
+      "explanation": "In April 2022, the RBI introduced the Standing Deposit Facility (SDF) at 25 basis points (bps) below the policy Repo Rate, making it the floor of the LAF corridor, while the Marginal Standing Facility (MSF) remains at 25 bps above the Repo Rate.",
+      "status": "pending"
     }
   ]
 }

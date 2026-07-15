@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -2926,6 +2926,72 @@
       ],
       "answer": 1,
       "explanation": "Section 26 of the Banking Regulation Act, 1949 mandates that every banking company must submit a return to the RBI of all accounts in India which have not been operated upon for 10 years, within 30 days after the close of each calendar year.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784101017821-0",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the part of the sentence that contains a grammatical error. If there is no error, select the option representing the part that needs correction.\n\n'The majority of the committee members, (A) / despite having diverse backgrounds (B) / in corporate law and public administration, (C) / has decided to veto the proposed merger. (D)'",
+      "options": [
+        "The majority of the committee members,",
+        "despite having diverse backgrounds",
+        "in corporate law and public administration,",
+        "has decided to veto the proposed merger."
+      ],
+      "answer": 3,
+      "explanation": "The subject of the verb is 'The majority of the committee members'. When 'the majority of' is followed by a plural countable noun (members), it takes a plural verb. Therefore, 'has decided' must be replaced with 'have decided' to maintain grammatical correctness."
+    },
+    {
+      "id": "ibps-po-ai-1784101017821-1",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following words is both a synonym of 'docile' and an antonym of 'refractory'?",
+      "options": [
+        "Intransigent",
+        "Compliant",
+        "Restive",
+        "Wayward"
+      ],
+      "answer": 1,
+      "explanation": "'Docile' means submissive or easily managed, and 'refractory' means stubborn, unmanageable, or resistant to authority. 'Compliant' means meeting or disposed to meet the wishes of others, making it a synonym of 'docile' and a direct antonym of 'refractory'. The other options ('intransigent', 'restive', and 'wayward') are synonyms of 'refractory'."
+    },
+    {
+      "id": "ibps-po-ai-1784101028277-0",
+      "section": "General Awareness",
+      "topic": "RBI Retail Direct Scheme",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the RBI Retail Direct Scheme, what is the minimum investment amount required for retail investors to bid for Government Securities (G-Secs) and Treasury Bills (T-Bills)?",
+      "options": [
+        "₹5,000",
+        "₹10,000",
+        "₹15,000",
+        "₹20,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the RBI Retail Direct Scheme, the minimum investment amount for Government Securities (G-Secs), State Development Loans (SDLs), and Treasury Bills (T-Bills) is ₹10,000, and in multiples of ₹10,000 thereafter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784101028277-1",
+      "section": "General Awareness",
+      "topic": "Compromise Settlements Framework",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the RBI's 'Framework for Compromise Settlements and Technical Write-offs' issued in June 2023, what is the minimum cooling period prescribed for borrowers (other than for farm credit and retail loans) before they can become eligible for fresh exposure from any Regulated Entity?",
+      "options": [
+        "6 months",
+        "12 months",
+        "18 months",
+        "24 months"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines on Compromise Settlements, the cooling period for farm credit and retail loans is determined by the Regulated Entities (REs) as per their Board-approved policies. However, for exposures other than farm credit and retail loans, a minimum cooling period of 12 months is prescribed before REs can assume fresh exposure on such borrowers.",
       "status": "pending"
     }
   ]

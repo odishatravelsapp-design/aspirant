@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -3022,6 +3022,136 @@
       ],
       "answer": 3,
       "explanation": "In the Union Budget 2023-24, the Central Government enhanced the maximum investment limit for the Senior Citizens Savings Scheme (SCSS) from ₹15 lakh to ₹30 lakh, effective from April 1, 2023.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784100804955-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A started a business with an investment of Rs. X. After 4 months, B joined him with an investment of Rs. (X + 4000), and after another 2 months, C joined with an investment of Rs. 2X. If at the end of the year, the total profit earned was Rs. 22,000 and B's share of profit was Rs. 6,000, then find the value of X.",
+      "options": [
+        "Rs. 28,000",
+        "Rs. 30,000",
+        "Rs. 32,000",
+        "Rs. 36,000"
+      ],
+      "answer": 2,
+      "explanation": "Let the investment of A be Rs. X for 12 months. B's investment is Rs. (X + 4000) for 8 months. C's investment is Rs. 2X for 6 months (since C joined 6 months after the start). Profit ratio of A : B : C = (X * 12) : ((X + 4000) * 8) : (2X * 6) = 12X : 8X + 32000 : 12X. Dividing by 4, the simplified ratio is 3X : (2X + 8000) : 3X. The sum of ratios is 3X + 2X + 8000 + 3X = 8X + 8000. B's share of profit = [(2X + 8000) / (8X + 8000)] * 22000 = 6000. Solving this: (2X + 8000) / (8X + 8000) = 6/22 = 3/11 => 11(2X + 8000) = 3(8X + 8000) => 22X + 88000 = 24X + 24000 => 2X = 64000 => X = 32,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1784100804955-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two persons, A and B, start walking towards each other from points P and Q respectively, which are 67 km apart. A starts at 8:00 AM with a speed of 6 km/h. B starts at 8:30 AM with a speed of 8 km/h. A increases his speed by 1 km/h at the end of every hour (i.e., at 9:00 AM, 10:00 AM, etc.), while B's speed remains constant. At what time will they meet?",
+      "options": [
+        "12:15 PM",
+        "12:30 PM",
+        "1:00 PM",
+        "1:15 PM"
+      ],
+      "answer": 1,
+      "explanation": "Let us trace the distance covered step-by-step: 1) From 8:00 AM to 8:30 AM, only A is moving at 6 km/h. Distance covered = 6 * 0.5 = 3 km. Remaining distance = 64 km. 2) From 8:30 AM to 9:00 AM, A moves at 6 km/h and B moves at 8 km/h. Combined distance covered = (6 * 0.5) + (8 * 0.5) = 3 + 4 = 7 km. Remaining distance = 57 km. 3) From 9:00 AM to 10:00 AM, A's speed is 7 km/h, and B's speed is 8 km/h. Combined speed = 15 km/h. Distance covered = 15 km. Remaining distance = 42 km. 4) From 10:00 AM to 11:00 AM, A's speed is 8 km/h, B's speed is 8 km/h. Combined speed = 16 km/h. Distance covered = 16 km. Remaining distance = 26 km. 5) From 11:00 AM to 12:00 PM, A's speed is 9 km/h, B's speed is 8 km/h. Combined speed = 17 km/h. Distance covered = 17 km. Remaining distance = 9 km. 6) From 12:00 PM onwards, A's speed is 10 km/h, B's speed is 8 km/h. Combined speed = 18 km/h. To cover the remaining 9 km: Time = 9 / 18 = 0.5 hours = 30 minutes. Thus, they meet at 12:00 PM + 30 minutes = 12:30 PM."
+    },
+    {
+      "id": "sbi-clerk-ai-1784100837960-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain system, letters are coded according to the given table and conditions:\n\nLetters: E, A, I, O, U, T, R, S, P, M\nCodes: 5, $, 8, %, 2, #, 7, @, 9, &\n\nConditions:\n1. If the first letter is a vowel and the last letter is a consonant, their codes are to be interchanged.\n2. If both the first and the last letters are consonants, both are to be coded as '*'.\n3. If there are more than two vowels in the word, all vowels are to be coded as '1'.\n\nWhat will be the code for the word 'EPTRIS'?",
+      "options": [
+        "@ 9 # 7 8 5",
+        "5 9 # 7 8 @",
+        "* 9 # 7 8 *",
+        "@ 9 # 7 1 5"
+      ],
+      "answer": 0,
+      "explanation": "Let's analyze 'EPTRIS'. The first letter 'E' is a vowel and the last letter 'S' is a consonant, so Condition 1 applies. The codes of E (5) and S (@) are interchanged. Thus, the code starts with '@' and ends with '5'. There are only two vowels ('E' and 'I') in the word, so Condition 3 does not apply. The remaining letters are coded normally: P as 9, T as #, R as 7, and I as 8. Combining these, we get '@ 9 # 7 8 5'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784100837960-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Directions: In the following question, three statements are given followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\n1. Only a few Apples are Bananas.\n2. No Banana is Cherry.\n3. All Cherries are Dates.\n\nConclusions:\nI. Some Dates are not Bananas.\nII. All Apples can never be Cherries.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "For Conclusion I: Since 'All Cherries are Dates' and 'No Banana is Cherry', the part of Dates which is Cherries can never be Bananas. Thus, Some Dates are definitely not Bananas. Conclusion I follows.\nFor Conclusion II: 'Only a few Apples are Bananas' implies 'Some Apples are Bananas'. Since 'No Banana is Cherry', those Apples which are Bananas can never be Cherries. Therefore, the entire set of Apples can never fit inside Cherries. Thus, 'All Apples can never be Cherries' is true. Conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1784100930015-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Replace the bracketed phrase in the sentence below with the grammatically correct option:\n\nIf the management [would have anticipated] the market crash, they could have saved millions of dollars.",
+      "options": [
+        "had anticipated",
+        "would anticipate",
+        "have anticipated",
+        "should have anticipated"
+      ],
+      "answer": 0,
+      "explanation": "This sentence represents a third conditional structure, which describes an unreal past situation and its hypothetical past result. The correct grammatical structure for the conditional clause (the 'if-clause') is 'If + Subject + Past Perfect (had + V3)', while the main clause uses 'would/could/might + have + V3'. Therefore, 'would have anticipated' should be replaced with 'had anticipated'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784100930015-1",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Find the most suitable word to complete the following sentence contextually:\n\nThe diplomat's _______ behavior during the negotiations helped defuse a highly volatile situation between the two warring nations.",
+      "options": [
+        "belligerent",
+        "conciliatory",
+        "capricious",
+        "apathetic"
+      ],
+      "answer": 1,
+      "explanation": "The context of the sentence involves defusing a highly volatile situation between warring nations, which requires an attitude aimed at peace and pacification. 'Conciliatory' means intended or likely to placate or pacify, which perfectly fits the context. 'Belligerent' (hostile/aggressive), 'capricious' (unpredictable/whimsical), and 'apathetic' (indifferent) do not fit the constructive tone of the action."
+    },
+    {
+      "id": "sbi-clerk-ai-1784100952257-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) Act, 1961, what is the maximum limit of premium that the Corporation can charge on deposits, with the prior approval of the Reserve Bank of India (RBI)?",
+      "options": [
+        "15 paise per ₹100 per annum",
+        "20 paise per ₹100 per annum",
+        "10 paise per ₹100 per annum",
+        "25 paise per ₹100 per annum"
+      ],
+      "answer": 0,
+      "explanation": "According to Section 15 of the DICGC Act, 1961, the Corporation is empowered to charge a premium on deposits, which cannot exceed 15 paise per ₹100 per annum. Currently, the premium rate is fixed at 12 paise per ₹100 per annum.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784100952257-1",
+      "section": "General Awareness",
+      "topic": "Digital Banking Initiatives",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In August 2024, the Reserve Bank of India (RBI) announced the nationwide rollout of a technology platform called 'Unified Lending Interface' (ULI). What was this platform previously known as during its pilot phase launched in August 2023?",
+      "options": [
+        "Unified Digital Credit Gateway (UDCG)",
+        "Public Tech Platform for Frictionless Credit (PTPFC)",
+        "Centralised Frictionless Lending System (CFLS)",
+        "National Digital Credit Infrastructure (NDCI)"
+      ],
+      "answer": 1,
+      "explanation": "During his speech in August 2024, the RBI Governor announced that the pilot platform 'Public Tech Platform for Frictionless Credit' (PTPFC) is being renamed as the 'Unified Lending Interface' (ULI) to facilitate consent-based, seamless credit delivery particularly to agricultural and MSME borrowers.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -3452,6 +3452,234 @@
             "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
           ],
           "explanation": "ଗଜପତି ମୁକୁନ୍ଦ ଦେବ (ମୁକୁନ୍ଦହରିଚନ୍ଦନ) ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ରାଜା ଥିଲେ। ସେ ୧୫୫୯ ରୁ ୧୫୬୮ ପର୍ଯ୍ୟନ୍ତ ଶାସନ କରିଥିଲେ ଏବଂ ବଙ୍ଗଳାର ସୁଲତାନ ସୁଲେମାନ କରାନୀଙ୍କ ଆକ୍ରମଣକାରୀ ସେନା ବିରୁଦ୍ଧରେ ଗୋହିରାଟିକିରି ଯୁଦ୍ଧରେ ପ୍ରାଣ ହରାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101057695-0",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B and C can do a piece of work in 10, 12 and 15 days respectively. They begin the work together, but A leaves 5 days before the completion of the work and B leaves 3 days before the completion of the work. In how many days is the work completed?",
+      "options": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "answer": 2,
+      "explanation": "LCM of 10, 12, 15 = 60 (Total Work). Efficiencies: A = 6, B = 5, C = 4 units/day. Let the work be completed in x days. A worked for (x-5) days, B worked for (x-3) days, and C worked for x days. Equation: 6(x-5) + 5(x-3) + 4x = 60 => 6x - 30 + 5x - 15 + 4x = 60 => 15x - 45 = 60 => 15x = 105 => x = 7 days.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଗୋଟିଏ କାର୍ଯ୍ୟକୁ ଯଥାକ୍ରମେ 10, 12 ଏବଂ 15 ଦିନରେ ଶେଷ କରିପାରିବେ। ସେମାନେ ଏକାଠି କାର୍ଯ୍ୟ ଆରମ୍ଭ କରନ୍ତି, କିନ୍ତୁ କାର୍ଯ୍ୟ ସମାପ୍ତ ହେବାର 5 ଦିନ ପୂର୍ବରୁ A ଏବଂ କାର୍ଯ୍ୟ ସମାପ୍ତ ହେବାର 3 ଦିନ ପୂର୍ବରୁ B କାର୍ଯ୍ୟ ଛାଡିଦିଏ। କାର୍ଯ୍ୟଟି କେତେ ଦିନରେ ସମ୍ପୂର୍ଣ୍ଣ ହେବ?",
+          "options": [
+            "5 ଦିନ",
+            "6 ଦିନ",
+            "7 ଦିନ",
+            "8 ଦିନ"
+          ],
+          "explanation": "10, 12, 15 ର ଲ.ସା.ଗୁ (LCM) = 60 (ମୋଟ କାର୍ଯ୍ୟ)। ଦକ୍ଷତା: A = 6, B = 5, C = 4 ୟୁନିଟ୍/ଦିନ। ମନେକରନ୍ତୁ କାର୍ଯ୍ୟଟି x ଦିନରେ ସମାପ୍ତ ହୁଏ। A କାର୍ଯ୍ୟ କଲା (x-5) ଦିନ, B କାର୍ଯ୍ୟ କଲା (x-3) ଦିନ ଏବଂ C ସମ୍ପୂର୍ଣ୍ଣ x ଦିନ କାର୍ଯ୍ୟ କଲା। ସମୀକରଣ: 6(x-5) + 5(x-3) + 4x = 60 => 15x - 45 = 60 => 15x = 105 => x = 7 ଦିନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101057695-1",
+      "section": "Arithmetic",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The cost of carpeting a room 18 m long with a carpet 75 cm wide at Rs. 4.50 per meter is Rs. 810. Find the breadth of the room.",
+      "options": [
+        "6 m",
+        "7.5 m",
+        "8 m",
+        "9 m"
+      ],
+      "answer": 1,
+      "explanation": "Total cost of carpeting = Rs. 810. Rate of carpeting = Rs. 4.50 per meter. Length of the carpet required = Total Cost / Rate = 810 / 4.50 = 180 meters. Width of the carpet = 75 cm = 0.75 m. Area of the carpet = Length * Width = 180 * 0.75 = 135 sq. m. Area of the room = Area of the carpet = 135 sq. m. Breadth of the room = Area / Length of room = 135 / 18 = 7.5 meters.",
+      "translations": {
+        "or": {
+          "question": "18 ମିଟର ଲମ୍ବ ବିଶିଷ୍ଟ ଏକ କୋଠରୀର ଚଟାଣରେ 75 ସେମି ଚଉଡା ଗାଲିଚା ପାରିବା ପାଇଁ ମିଟର ପିଛା 4.50 ଟଙ୍କା ହିସାବରେ ମୋଟ 810 ଟଙ୍କା ଖର୍ଚ୍ଚ ହୁଏ। କୋଠରୀର ପ୍ରସ୍ଥ ନିର୍ଣ୍ଣୟ କରନ୍ତୁ।",
+          "options": [
+            "6 ମିଟର",
+            "7.5 ମିଟର",
+            "8 ମିଟର",
+            "9 ମିଟର"
+          ],
+          "explanation": "ଗାଲିଚା ପାରିବାର ମୋଟ ଖର୍ଚ୍ଚ = 810 ଟଙ୍କା। ମିଟର ପିଛା ଦର = 4.50 ଟଙ୍କା। ଗାଲିଚାର ଆବଶ୍ୟକ ଲମ୍ବ = 810 / 4.50 = 180 ମିଟର। ଗାଲିଚାର ଚଉଡା = 75 ସେମି = 0.75 ମିଟର। ଗାଲିଚାର କ୍ଷେତ୍ରଫଳ = ଲମ୍ବ * ଚଉଡା = 180 * 0.75 = 135 ବର୍ଗ ମିଟର। କୋଠରୀର କ୍ଷେତ୍ରଫଳ = ଗାଲିଚାର କ୍ଷେତ୍ରଫଳ = 135 ବର୍ଗ ମିଟର। କୋଠରୀର ପ୍ରସ୍ଥ = କ୍ଷେତ୍ରଫଳ / କୋଠରୀର ଲମ୍ବ = 135 / 18 = 7.5 ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101085850-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. All rivers are oceans.\n2. No ocean is a lake.\n3. Some lakes are ponds.\n\nConclusions:\nI. No river is a lake.\nII. Some ponds are not oceans.\nIII. Some rivers are ponds.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusions I and II follow",
+        "Only conclusions II and III follow",
+        "All conclusions I, II and III follow"
+      ],
+      "answer": 1,
+      "explanation": "Since all rivers are oceans and no ocean is a lake, it implies that no river can be a lake. Hence, Conclusion I follows. Also, some lakes are ponds, and since no lake can be an ocean, the portion of ponds that overlaps with lakes can never be oceans. Hence, Conclusion II (Some ponds are not oceans) also follows. There is no direct relationship defined between rivers and ponds, so Conclusion III does not necessarily follow. Thus, only conclusions I and II follow.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତି ଏବଂ ନିଷ୍କର୍ଷଗୁଡିକୁ ଧ୍ୟାନର ସହ ପଢନ୍ତୁ। ବିବୃତିରେ ଦିଆଯାଇଥିବା ସୂଚନାକୁ ସତ୍ୟ ବୋଲି ଗ୍ରହଣ କରି (ଯଦିଓ ଏହା ସାଧାରଣ ଜ୍ଞାତ ତଥ୍ୟଠାରୁ ଭିନ୍ନ ଜଣାଯାଏ), ନିର୍ଣ୍ଣୟ କରନ୍ତୁ କେଉଁ ନିଷ୍କର୍ଷଗୁଡ଼ିକ ବିବୃତିକୁ ଯୌକ୍ତିକ ଭାବରେ ଅନୁସରଣ କରୁଛି।\n\nବିବୃତି:\n1. ସବୁ ନଦୀ ହେଉଛି ମହାସାଗର।\n2. କୌଣସି ମହାସାଗର ହ୍ରଦ ନୁହେଁ।\n3. କିଛି ହ୍ରଦ ହେଉଛି ପୋଖରୀ।\n\nନିଷ୍କର୍ଷ:\nI. କୌଣସି ନଦୀ ହ୍ରଦ ନୁହେଁ।\nII. କିଛି ପୋଖରୀ ମହାସାଗର ନୁହେଁ।\nIII. କିଛି ନଦୀ ପୋଖରୀ ଅଟେ।",
+          "options": [
+            "କେବଳ ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ",
+            "କେବଳ ନିଷ୍କର୍ଷ I ଏବଂ II ଅନୁସରଣ କରନ୍ତି",
+            "କେବଳ ନିଷ୍କର୍ଷ II ଏବଂ III ଅନୁସରଣ କରନ୍ତି",
+            "ସମସ୍ତ ନିଷ୍କର୍ଷ I, II ଏବଂ III ଅନୁସରଣ କରନ୍ତି"
+          ],
+          "explanation": "ଯେହେତୁ ସବୁ ନଦୀ ମହାସାଗର ଅଟନ୍ତି ଏବଂ କୌଣସି ମହାସାଗର ହ୍ରଦ ନୁହେଁ, ଏହାର ଅର୍ଥ ହେଉଛି କୌଣସି ନଦୀ ହ୍ରଦ ହୋଇପାରିବ ନାହିଁ। ତେଣୁ, ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ। ଏହା ସହିତ, କିଛି ହ୍ରଦ ପୋଖରୀ ଅଟନ୍ତି, ଏବଂ ଯେହେତୁ କୌଣସି ହ୍ରଦ ମହାସାଗର ନୁହେଁ, ପୋଖରୀର ଯେଉଁ ଅଂଶ ହ୍ରଦ ମଧ୍ୟରେ ଅଛି ତାହା କଦାପି ମହାସାଗର ହୋଇପାରିବ ନାହିଁ। ତେଣୁ, ନିଷ୍କର୍ଷ II (କିଛି ପୋଖରୀ ମହାସାଗର ନୁହେଁ) ମଧ୍ୟ ଅନୁସରଣ କରେ। ନଦୀ ଏବଂ ପୋଖରୀ ମଧ୍ୟରେ କୌଣସି ସିଧାସଳଖ ସମ୍ପର୍କ ସୂଚିତ ହୋଇନାହିଁ, ତେଣୁ ନିଷ୍କର୍ଷ III ଅନୁସରଣ କରେ ନାହିଁ। ଅତଏବ, କେବଳ ନିଷ୍କର୍ଷ I ଏବଂ II ଅନୁସରଣ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101085850-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language, 'PENCIL' is coded as '59' and 'ERASER' is coded as '66'. How will 'SHARPENER' be coded in that language?",
+      "options": [
+        "98",
+        "102",
+        "104",
+        "112"
+      ],
+      "answer": 2,
+      "explanation": "The logic used is the sum of the positional values of the letters in the alphabetical series.\n- PENCIL: P(16) + E(5) + N(14) + C(3) + I(9) + L(12) = 59.\n- ERASER: E(5) + R(18) + A(1) + S(19) + E(5) + R(18) = 66.\nApplying the same logic to SHARPENER:\nS(19) + H(8) + A(1) + R(18) + P(16) + E(5) + N(14) + E(5) + R(18) = 104.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'PENCIL' କୁ '59' ଏବଂ 'ERASER' କୁ '66' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି ଭାଷାରେ 'SHARPENER' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "98",
+            "102",
+            "104",
+            "112"
+          ],
+          "explanation": "ଏଠାରେ ବ୍ୟବହୃତ ଯୁକ୍ତି ହେଉଛି ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳା କ୍ରମରେ ଅକ୍ଷରଗୁଡ଼ିକର ସ୍ଥାନ ମୂଲ୍ୟର ସମଷ୍ଟି।\n- PENCIL: P(16) + E(5) + N(14) + C(3) + I(9) + L(12) = 59.\n- ERASER: E(5) + R(18) + A(1) + S(19) + E(5) + R(18) = 66.\nଏହି ସମାନ ନିୟମକୁ 'SHARPENER' ପାଇଁ ପ୍ରୟୋଗ କଲେ:\nS(19) + H(8) + A(1) + R(18) + P(16) + E(5) + N(14) + E(5) + R(18) = 104 ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101219517-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The historic Eram massacre, often referred to as the 'Rakta Tirtha' (Pilgrim of Blood) of Odisha, took place in which present-day district of Odisha?",
+      "options": [
+        "Bhadrak",
+        "Balasore",
+        "Mayurbhanj",
+        "Jagatsinghpur"
+      ],
+      "answer": 0,
+      "explanation": "The Eram massacre occurred on September 28, 1942, at Eram in the Basudevpur block of present-day Bhadrak district (which was part of Balasore district at that time). It is known as the Jallianwala Bagh of Odisha, where 29 freedom fighters were killed in British police firing.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଐତିହାସିକ ଏରମ ଗଣହତ୍ୟା, ଯାହାକୁ ଓଡ଼ିଶାର 'ରକ୍ତ ତୀର୍ଥ' କୁହାଯାଏ, ତାହା ଓଡ଼ିଶାର କେଉଁ ବର୍ତ୍ତମାନର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଭଦ୍ରକ",
+            "ବାଲେଶ୍ୱର",
+            "ମୟୂରଭଞ୍ଜ",
+            "ଜଗତସିଂହପୁର"
+          ],
+          "explanation": "୧୯୪୨ ମସିହା ସେପ୍ଟେମ୍ବର ୨୮ ରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ବର୍ତ୍ତମାନର ଭଦ୍ରକ ଜିଲ୍ଲା (ତତ୍କାଳୀନ ବାଲେଶ୍ୱର ଜିଲ୍ଲା) ର ବାସୁଦେବପୁର ବ୍ଲକର ଏରମଠାରେ ଏହି ଗଣହତ୍ୟା ଘଟିଥିଲା। ଏହାକୁ ଓଡ଼ିଶାର 'ଜାଲିଆନାୱାଲା ବାଗ୍' ବୋଲି ମଧ୍ୟ କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101219518-1",
+      "section": "General Knowledge",
+      "topic": "Medieval History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Ganga dynasty ruler is credited with shifting the capital of the kingdom from Kalinganagara to Abhinava Varanasi Katak (modern-day Cuttack)?",
+      "options": [
+        "Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimha Deva I",
+        "Bhanu Deva IV"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III (1211–1238 AD) shifted the capital of the Eastern Ganga Empire from Kalinganagara (in modern Andhra Pradesh) to Abhinava Varanasi Katak (modern Cuttack) around 1230 AD for strategic and administrative reasons.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ନିଜ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ?",
+          "options": [
+            "ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ",
+            "ନରସିଂହ ଦେବ ପ୍ରଥମ",
+            "ଭାନୁ ଦେବ ଚତୁର୍ଥ"
+          ],
+          "explanation": "ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବ ପ୍ରାୟ ୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ପୂର୍ବ ଗଙ୍ଗ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101344406-0",
+      "section": "Odisha GK",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous 'Separate Kalinga Edicts' of Emperor Ashoka, which contain the majestic declaration 'All men are my children' (Sabe Munisa Paja Mama), are located at which two places in Odisha?",
+      "options": [
+        "Dhauli and Lalitgiri",
+        "Dhauli and Jaugada",
+        "Jaugada and Sisupalgarh",
+        "Udayagiri and Khandagiri"
+      ],
+      "answer": 1,
+      "explanation": "Emperor Ashoka's rock edicts are found at Dhauli (near Bhubaneswar in Khordha district) and Jaugada (in Ganjam district). The two 'Separate Kalinga Edicts' replace the Major Rock Edicts XI, XII, and XIII at these sites, and contain the famous paternal declaration 'All men are my children'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସମ୍ରାଟ ଅଶୋକଙ୍କ ପ୍ରସିଦ୍ଧ 'ସ୍ୱତନ୍ତ୍ର କଳିଙ୍ଗ ଅନୁଶାସନ' (Separate Kalinga Edicts), ଯେଉଁଥିରେ 'ସବେ ମୁନିସେ ପଜା ମମା' (ସବୁ ମଣିଷ ମୋର ସନ୍ତାନ) ର ମହାନ ଘୋଷଣା ରହିଛି, ତାହା ଓଡ଼ିଶାର କେଉଁ ଦୁଇଟି ସ୍ଥାନରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଧଉଳି ଏବଂ ଲଳିତଗିରି",
+            "ଧଉଳି ଏବଂ ଜଉଗଡ଼",
+            "ଜଉଗଡ଼ ଏବଂ ଶିଶୁପାଳଗଡ଼",
+            "ଉଦୟଗିରି ଏବଂ ଖଣ୍ଡଗିରି"
+          ],
+          "explanation": "ସମ୍ରାଟ ଅଶୋକଙ୍କ ଶିଳାଲେଖ ଓଡ଼ିଶାର ଧଉଳି (ଖୋର୍ଦ୍ଧା ଜିଲ୍ଲାର ଭୁବନେଶ୍ୱର ନିକଟ) ଏବଂ ଜଉଗଡ଼ (ଗଞ୍ଜାମ ଜିଲ୍ଲା) ଠାରେ ମିଳିଥାଏ। ଏହି ଦୁଇଟି ସ୍ଥାନରେ ଥିବା ସ୍ୱତନ୍ତ୍ର କଳିଙ୍ଗ ଅନୁଶାସନରେ ସେ 'ସବୁ ମଣିଷ ମୋର ସନ୍ତାନ' ବୋଲି ଉଲ୍ଲେଖ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784101344406-1",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In November 1941, a coalition government was formed in Odisha under Maharaja Krushna Chandra Gajapati. Who among the following served as the Education and Finance Minister in this ministry?",
+      "options": [
+        "Pandit Nilakantha Das",
+        "Pandit Godabarish Mishra",
+        "Radhanath Rath",
+        "Nityanand Kanungo"
+      ],
+      "answer": 1,
+      "explanation": "On November 24, 1941, Maharaja Krushna Chandra Gajapati of Parlakhemundi formed a coalition ministry with the support of a breakaway Congress group and the Muslim League. In this ministry, Pandit Godabarish Mishra served as the Minister of Finance and Education, during whose tenure the Utkal University was established in 1943.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୧ ମସିହା ନଭେମ୍ବରରେ ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତିଙ୍କ ନେତୃତ୍ୱରେ ଓଡ଼ିଶାରେ ଏକ ମିଳିତ ସରକାର ଗଠନ କରାଯାଇଥିଲା। ଏହି ମନ୍ତ୍ରୀମଣ୍ଡଳରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଶିକ୍ଷା ଓ ଅର୍ଥ ମନ୍ତ୍ରୀ ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ?",
+          "options": [
+            "ପଣ୍ଡିତ ନୀଳକଣ୍ଠ ଦାସ",
+            "ପଣ୍ଡିତ ଗୋଦାବରୀଶ ମିଶ୍ର",
+            "ରାଧାନାଥ ରଥ",
+            "ନିତ୍ୟାନନ୍ଦ କାନୁନଗୋ"
+          ],
+          "explanation": "୧୯୪୧ ନଭେମ୍ବର ୨୪ ରେ ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି କଂଗ୍ରେସର ଏକ ଭିନ୍ନ ଗୋଷ୍ଠୀ ଏବଂ ମୁସଲିମ ଲିଗ୍‌ର ସମର୍ଥନରେ ଏକ ମିଳିତ ମନ୍ତ୍ରୀମଣ୍ଡଳ ଗଠନ କରିଥିଲେ। ଏହି ମନ୍ତ୍ରୀମଣ୍ଡଳରେ ପଣ୍ଡିତ ଗୋଦାବରୀଶ ମିଶ୍ର ଅର୍ଥ ଓ ଶିକ୍ଷା ମନ୍ତ୍ରୀ ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ, ଯାହାଙ୍କ କାର୍ଯ୍ୟକାଳ ମଧ୍ୟରେ ୧୯ Rott୩ ମସିହାରେ ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟ ପ୍ରତିଷ୍ଠା ହୋଇଥିଲା।"
         }
       }
     }

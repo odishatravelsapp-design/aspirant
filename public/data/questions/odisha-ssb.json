@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -4238,6 +4238,120 @@
             "ହରେକୃଷ୍ଣ ମହତାବ"
           ],
           "explanation": "ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ୧ ଏପ୍ରିଲ ୧୯୩୭ ରୁ ୧୯ ଜୁଲାଇ ୧୯୩୭ ପର୍ଯ୍ୟନ୍ତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784101391795-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Browning's dramatic monologue \"Bishop Blougram's Apology\" (1855), who is the young, skeptical literary journalist with whom the Bishop is conversing over wine?",
+      "options": [
+        "Gigadibs",
+        "Cleon",
+        "Karshish",
+        "Andrea"
+      ],
+      "answer": 0,
+      "explanation": "In Browning's dramatic monologue \"Bishop Blougram's Apology\", the Bishop defends his faith and church career to a young, skeptical literary journalist named Gigadibs over dinner and wine.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ ନାଟକୀୟ ଏକକୋକ୍ତି (dramatic monologue) \"Bishop Blougram's Apology\" (୧୮୫୫) ରେ, ବିଶପ୍ ମଦ୍ୟପାନ ସମୟରେ କେଉଁ ଯୁବ, ସନ୍ଦେହୀ ସାହିତ୍ୟିକ ସାମ୍ବାଦିକଙ୍କ ସହ କଥାବାର୍ତ୍ତା କରୁଛନ୍ତି?",
+          "options": [
+            "ଗିଗାଡିବ୍ସ (Gigadibs)",
+            "କ୍ଲିଅନ୍ (Cleon)",
+            "କାର୍ଶିଶ୍ (Karshish)",
+            "ଆଣ୍ଡ୍ରିଆ (Andrea)"
+          ],
+          "explanation": "ବ୍ରାଉନିଂଙ୍କ ନାଟକୀୟ ଏକକୋକ୍ତି \"Bishop Blougram's Apology\" ରେ, ବିଶପ୍ ବ୍ଲୋଗ୍ରାମ ରାତ୍ରିଭୋଜନ ଏବଂ ମଦ୍ୟପାନ ସମୟରେ ଗିଗାଡିବ୍ସ ନାମକ ଜଣେ ଯୁବ, ସନ୍ଦେହୀ ସାହିତ୍ୟିକ ସାମ୍ବାଦିକଙ୍କ ନିକଟରେ ନିଜର ବିଶ୍ୱାସ ଏବଂ ଚର୍ଚ୍ଚ କ୍ୟାରିୟରକୁ ରକ୍ଷା କରି ଯୁକ୍ତି ବାଢ଼ିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784101391795-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In his 1970 work 'S/Z', Roland Barthes performs a detailed structural analysis of a short story by Honoré de Balzac. What is the title of this Balzac novella?",
+      "options": [
+        "Sarrasine",
+        "Eugénie Grandet",
+        "Le Père Goriot",
+        "La Peau de chagrin"
+      ],
+      "answer": 0,
+      "explanation": "Roland Barthes's 'S/Z' (1970) is a landmark text in post-structuralism that provides a meticulous, line-by-line reading of Honoré de Balzac's novella 'Sarrasine' (1830), dividing it into 561 lexias analyzed through five semiotic codes.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରୋଲାଣ୍ଡ ବାର୍ଥେସ୍ (Roland Barthes) ତାଙ୍କର ୧୯୭୦ ମସିହାର କୃତି 'S/Z' ରେ ଓନୋରେ ଡି ବାଲଜାକ୍ (Honoré de Balzac) ଙ୍କର ଏକ କ୍ଷୁଦ୍ର ଗଳ୍ପର ଗଠନମୂଳକ ବିଶ୍ଳେଷଣ କରିଛନ୍ତି। ବାଲଜାକଙ୍କ ଏହି ଉପନ୍ୟାସିକା (novella) ର ଶୀର୍ଷକ କ’ଣ?",
+          "options": [
+            "ସାରାସିନ୍ (Sarrasine)",
+            "ୟୁଜେନି ଗ୍ରାଣ୍ଡେଟ୍ (Eugénie Grandet)",
+            "ଲେ ପେରେ ଗୋରିଓଟ୍ (Le Père Goriot)",
+            "ଲା ପେଉ ଡି ଚାଗ୍ରିନ୍ (La Peau de chagrin)"
+          ],
+          "explanation": "ରୋଲାଣ୍ଡ ବାର୍ଥେସଙ୍କ 'S/Z' (୧୯୭୦) ହେଉଛି ଉତ୍ତର-ଗଠନମୂଳକବାଦ (post-structuralism) ର ଏକ ମାଇଲଖୁଣ୍ଟ ଗ୍ରନ୍ଥ, ଯେଉଁଥିରେ ସେ ଓନୋରେ ଡି ବାଲଜାକଙ୍କ ଉପନ୍ୟାସିକା 'Sarrasine' (୧୮୩୦) ର ଏକ ସୂକ୍ଷ୍ମ, ଧାଡ଼ି-ବି-ଧାଡ଼ି ପଠନ ପ୍ରଦାନ କରିଛନ୍ତି ଏବଂ ଏହାକୁ ପାଞ୍ଚଟି ସେମିଓଟିକ୍ କୋଡ୍ ମାଧ୍ୟମରେ ବିଶ୍ଳେଷଣ କରାଯାଇଥିବା ୫୬୧ ଟି 'lexias' ରେ ବିଭକ୍ତ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784101698206-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Gajapati ruler of Odisha assumed the title of 'Gajapati Gaudesvara Navakoti Karnata Kalavargesvara'?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 0,
+      "explanation": "Kapilendra Deva, the founder of the Suryavamsi Gajapati dynasty, assumed this grand title to commemorate his military victories over Bengal (Gauda), Vijayanagara (Karnata), and Bahmani (Kalavarga) kingdoms.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଗଜପତି ଶାସକ 'ଗଜପତି ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଳବର୍ଗେଶ୍ୱର' ଉପାଧି ଗ୍ରହଣ କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜବଂଶର ପ୍ରତିଷ୍ଠାତା କପିଳେନ୍ଦ୍ର ଦେବ, ବଙ୍ଗଳା (ଗୌଡ଼), ବିଜୟନଗର (କର୍ଣ୍ଣାଟ) ଏବଂ ବାହମନୀ (କଳବର୍ଗ) ସାମ୍ରାଜ୍ୟ ଉପରେ ନିଜର ସାମରିକ ବିଜୟର ସ୍ମୃତିସ୍ୱରୂପ ଏହି ଭବ୍ୟ ଉପାଧି ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784101698206-1",
+      "section": "General Studies",
+      "topic": "Modern Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The historic 'Eram Massacre', also referred to as the Jallianwala Bagh of Odisha, took place during the Quit India Movement on which of the following dates?",
+      "options": [
+        "August 15, 1942",
+        "September 28, 1942",
+        "October 2, 1942",
+        "November 17, 1942"
+      ],
+      "answer": 1,
+      "explanation": "On September 28, 1942, British police opened fire on a peaceful gathering at Eram in Bhadrak district, leading to the death of 29 freedom fighters. This tragic event is known as the Jallianwala Bagh of Odisha.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍ ଭାବରେ ପରିଚିତ ଐତିହାସିକ 'ଇରମ ଗଣହତ୍ୟା' ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ନିମ୍ନଲିଖିତ କେଉଁ ତାରିଖରେ ସଂଘଟିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଅଗଷ୍ଟ ୧୫, ୧୯୪୨",
+            "ସେପ୍ଟେମ୍ବର ୨୮, ୧୯୪୨",
+            "ଅକ୍ଟୋବର ୨, ୧୯୪୨",
+            "ନଭେମ୍ବର ୧୭, ୧୯୪୨"
+          ],
+          "explanation": "୨୮ ସେପ୍ଟେମ୍ବର ୧୯୪୨ ରେ, ଭଦ୍ରକ ଜିଲ୍ଲାର ଇରମଠାରେ ଏକ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସଭା ଉପରେ ବ୍ରିଟିଶ ପୋଲିସ ଗୁଳି ଚଳାଇଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ ପ୍ରାଣ ହରାଇଥିଲେ। ଏହି ଦୁଃଖଦ ଘଟଣା ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍ ଭାବରେ ଜଣାଶୁଣା।"
         }
       }
     }
