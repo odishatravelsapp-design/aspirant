@@ -3293,6 +3293,176 @@
       "answer": 1,
       "explanation": "According to Section 45 of the Banking Regulation Act, 1949, the Central Government, on the application of the RBI, may make an order of moratorium for a specified period. The proviso states that the period of moratorium may be extended from time to time, but the total period of moratorium shall not exceed six months.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-0",
+      "section": "General Awareness",
+      "topic": "Physical Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following cold ocean currents flows along the western coast of South America?",
+      "options": [
+        "Benguela Current",
+        "California Current",
+        "Humboldt Current",
+        "Canary Current"
+      ],
+      "answer": 2,
+      "explanation": "The Humboldt Current, also known as the Peru Current, is a cold, low-salinity ocean current that flows north along the western coast of South America from the southern tip of Chile to northern Peru."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-1",
+      "section": "General Awareness",
+      "topic": "Physics (basics)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which optical phenomenon is primarily responsible for the brilliant sparkle of a well-cut diamond?",
+      "options": [
+        "Double Refraction",
+        "Total Internal Reflection",
+        "Polarization",
+        "Interference of Light"
+      ],
+      "answer": 1,
+      "explanation": "A diamond's brilliance is largely due to Total Internal Reflection. Because diamonds have a very high refractive index, light entering the diamond is reflected internally multiple times before exiting, creating a sparkling effect."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-2",
+      "section": "General Awareness",
+      "topic": "Chemistry (basics)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following mixtures is the primary constituent of 'Bordeaux mixture', a widely used fungicide in agriculture?",
+      "options": [
+        "Zinc sulfate and Sodium carbonate",
+        "Iron sulfate and Ammonium hydroxide",
+        "Copper sulfate and Calcium hydroxide",
+        "Manganese sulfate and Potassium chloride"
+      ],
+      "answer": 2,
+      "explanation": "Bordeaux mixture is an effective fungicide and algicide used in vineyards and fruit orchards. It is a combination of copper(II) sulfate (CuSO4) and slaked lime (calcium hydroxide, Ca(OH)2)."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-3",
+      "section": "General Awareness",
+      "topic": "Biology & Human Body",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which hormone, produced by the pineal gland of the brain, is responsible for regulating the sleep-wake cycle (circadian rhythm) in humans?",
+      "options": [
+        "Melatonin",
+        "Calcitonin",
+        "Somatotropin",
+        "Cortisol"
+      ],
+      "answer": 0,
+      "explanation": "Melatonin is synthesized and secreted by the pineal gland. Its levels rise in darkness to promote sleep, helping to regulate the body's internal circadian clock."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-4",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "The 'Aichi Biodiversity Targets', a set of 20 ambitious global targets to halt biodiversity loss, were adopted under which international treaty?",
+      "options": [
+        "CITES",
+        "Ramsar Convention",
+        "Convention on Biological Diversity (CBD)",
+        "Bonn Convention"
+      ],
+      "answer": 2,
+      "explanation": "The Aichi Biodiversity Targets were adopted during the 10th Conference of Parties (COP10) to the Convention on Biological Diversity (CBD) held in Nagoya, Aichi Prefecture, Japan, in 2010."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-5",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following is India’s first dedicated multi-wavelength space observatory, launched by ISRO in 2015?",
+      "options": [
+        "Cartosat-1",
+        "AstroSat",
+        "Aditya-L1",
+        "EOS-01"
+      ],
+      "answer": 1,
+      "explanation": "AstroSat is India's first dedicated multi-wavelength space telescope. It was launched by ISRO aboard a PSLV-C30 rocket on September 28, 2015, to study celestial sources in X-ray, optical, and UV spectral bands simultaneously."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-6",
+      "section": "General Awareness",
+      "topic": "Sports & Tournaments",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "With which of the following sports is the prestigious 'Thomas Cup' associated?",
+      "options": [
+        "Table Tennis",
+        "Lawn Tennis",
+        "Golf",
+        "Badminton"
+      ],
+      "answer": 3,
+      "explanation": "The Thomas Cup, sometimes called the World Men's Team Championships, is an international badminton competition among teams representing member nations of the Badminton World Federation (BWF)."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-7",
+      "section": "General Awareness",
+      "topic": "Awards & Honours",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The prestigious 'Abel Prize', often referred to as the Nobel Prize of its field, is awarded annually for outstanding contributions to which discipline?",
+      "options": [
+        "Architecture",
+        "Mathematics",
+        "Economics",
+        "Music"
+      ],
+      "answer": 1,
+      "explanation": "The Abel Prize is an international award presented annually by the King of Norway to one or more outstanding mathematicians. It is modeled after the Nobel Prizes, which do not include a category for mathematics."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-8",
+      "section": "General Awareness",
+      "topic": "Physical Geography",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "What name is given to the deep, steep-sided, U-shaped valleys carved out by glacial erosion that have been partially submerged by the sea?",
+      "options": [
+        "Rias",
+        "Canyons",
+        "Fjords",
+        "Karsts"
+      ],
+      "answer": 2,
+      "explanation": "Fjords are long, narrow inlets with steep cliffs, created by glaciers cutting deep U-shaped valleys into the bedrock. As the glaciers melted, the sea flooded these valleys. Rias, conversely, are submerged river valleys."
+    },
+    {
+      "id": "ibps-po-gk-1784194432056-9",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Lichens, which are symbiotic associations of algae and fungi, are highly sensitive to air pollution and serve as excellent natural bio-indicators for the presence of which pollutant?",
+      "options": [
+        "Carbon Monoxide (CO)",
+        "Sulfur Dioxide (SO2)",
+        "Methane (CH4)",
+        "Lead particulates"
+      ],
+      "answer": 1,
+      "explanation": "Lichens absorb water and nutrients directly from the air rather than through roots. Because they are highly sensitive to sulfur dioxide (SO2), their presence, health, or absence serves as a reliable bio-indicator of local air quality."
     }
   ]
 }

@@ -4468,6 +4468,261 @@
           "explanation": "ହିଲ୍ଡା ଟାବାଙ୍କ ଆଗମନାତ୍ମକ ଚିନ୍ତାଧାରା ମଡେଲରେ ତିନୋଟି ଜ୍ଞାନାତ୍ମକ କାର୍ଯ୍ୟ ରହିଛି। ପ୍ରଥମ ଜ୍ଞାନାତ୍ମକ କାର୍ଯ୍ୟ ହେଉଛି 'ଧାରଣା ଗଠନ' (Concept Formation), ଯାହା ତିନୋଟି କ୍ରମିକ ସୋପାନକୁ ନେଇ ଗଠିତ: (୧) ତଥ୍ୟର ତାଲିକା ପ୍ରସ୍ତୁତ କରିବା, (୨) ସାଧାରଣ ଗୁଣ ଆଧାରରେ ତଥ୍ୟକୁ ଗୋଷ୍ଠୀଭୁକ୍ତ କରିବା, ଏବଂ (୩) ଗୋଷ୍ଠୀଗୁଡ଼ିକୁ ଲେବେଲ୍ ବା ବର୍ଗୀକରଣ କରିବା।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Gandhiji's 'Nai Talim' (Basic Education) scheme of 1937 was first systematically formulated by a committee under the chairmanship of which of the following educationists?",
+      "options": [
+        "Dr. Zakir Husain",
+        "Dr. S. Radhakrishnan",
+        "Acharya Kripalani",
+        "Kaka Kalelkar"
+      ],
+      "answer": 0,
+      "explanation": "The scheme of Basic Education (popularly known as the Wardha Scheme) was prepared by a committee of educationists headed by Dr. Zakir Husain in 1937."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Rabindranath Tagore's educational philosophy, what is the primary significance of the concept of 'Tapovan' (Forest Hermitage)?",
+      "options": [
+        "A site for strict physical asceticism and yoga",
+        "A natural setting conducive to the harmonious development of the soul in communion with nature",
+        "A vocational training center for rural handicrafts",
+        "A scientific laboratory for agricultural experiments"
+      ],
+      "answer": 1,
+      "explanation": "Tagore highly valued the ancient Indian 'Tapovan' ideal of education, emphasizing that learning should happen in close proximity to nature to foster spiritual, emotional, and intellectual harmony."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-2",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to John Dewey's pragmatic philosophy, how is 'education' best defined?",
+      "options": [
+        "Preparation for a future adult life",
+        "A process of acquiring pre-determined external knowledge",
+        "Reconstruction or reorganization of experience",
+        "Development of innate spiritual capacities"
+      ],
+      "answer": 2,
+      "explanation": "Dewey defined education as the continuous reconstruction or reorganization of experience which adds to the meaning of experience and increases the ability to direct the course of subsequent experience."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-3",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Friedrich Froebel coined the term 'Kindergarten'. What is the literal meaning of this German word?",
+      "options": [
+        "Children's home",
+        "Children's garden",
+        "Children's school",
+        "Children's playhouse"
+      ],
+      "answer": 1,
+      "explanation": "'Kindergarten' literally translates from German to 'Children's garden' (Kinder = children, Garten = garden), reflecting Froebel's belief that children are like plants and teachers are like gardeners."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-4",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Montessori Method, what does the term 'Absorbent Mind' specifically refer to?",
+      "options": [
+        "The mental state of an adult during deep meditation",
+        "The child's innate capacity to effortlessly and unconsciously soak up knowledge from their environment",
+        "A structured teaching technique used to memorize mathematical tables",
+        "The process of evaluation through rigorous examination"
+      ],
+      "answer": 1,
+      "explanation": "Maria Montessori used the term 'Absorbent Mind' to describe the unique mental capacity of young children (from birth to age 6) to absorb sensory details and knowledge from their surroundings naturally, without conscious effort."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-5",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "A student who consistently struggles with handwriting, spacing of letters, and fine motor coordination in writing is most likely exhibiting symptoms of which learning disability?",
+      "options": [
+        "Dyscalculia",
+        "Dysgraphia",
+        "Dyspraxia",
+        "Dysphasia"
+      ],
+      "answer": 1,
+      "explanation": "Dysgraphia is a specific learning disability that affects writing abilities, manifested as difficulties with spelling, poor handwriting, and trouble putting thoughts on paper."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-6",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which neurodevelopmental condition is characterized by persistent patterns of inattention, hyperactivity, and impulsivity that interfere with functioning or development, requiring instructional accommodations like frequent breaks and visual schedules?",
+      "options": [
+        "Autism Spectrum Disorder",
+        "Attention Deficit Hyperactivity Disorder (ADHD)",
+        "Dyscalculia",
+        "Sensory Processing Disorder"
+      ],
+      "answer": 1,
+      "explanation": "ADHD is a neurodevelopmental disorder characterized by persistent inattention, hyperactivity, and impulsivity that affects executive functioning and academic performance in school settings."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-7",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, the number of specified benchmark disabilities was increased from 7 (as per the 1995 Act) to how many?",
+      "options": [
+        "15",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act, 2016 increased the number of recognized disabilities from 7 to 21, including conditions like mental illness, autism spectrum disorder, cerebral palsy, muscular dystrophy, chronic neurological conditions, and learning disabilities."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-8",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which educational setting is characterized by placing children with special needs in regular classrooms alongside their typically developing peers, while providing necessary support and adapting the curriculum to suit all learners?",
+      "options": [
+        "Segregated Education",
+        "Integrated Education",
+        "Inclusive Education",
+        "Special Schooling"
+      ],
+      "answer": 2,
+      "explanation": "Inclusive education is a model where all students, regardless of their challenges or differences, are integrated into general education classrooms, with curriculum modifications, physical adaptations, and support systems tailored to diverse needs."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-9",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What does the acronym 'DIKSHA', the national portal for school education in India launched in 2017, stand for?",
+      "options": [
+        "Digital Infrastructure for Knowledge Sharing",
+        "Direct Interactive Knowledge Sharing Hub for Academics",
+        "Digital Information for Knowledge and Skill Harnessing",
+        "Digital Initiative for Knowledge and Smart High-tech Classrooms"
+      ],
+      "answer": 0,
+      "explanation": "DIKSHA stands for 'Digital Infrastructure for Knowledge Sharing'. It is a national platform for school education initiated by the Ministry of Education, Government of India, to provide digital learning resources for teachers and students."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the TPACK framework of educational technology integration, which component represents the intersection where teachers understand how technology can change the way concepts are taught and learned?",
+      "options": [
+        "Technological Content Knowledge (TCK)",
+        "Technological Pedagogical Knowledge (TPK)",
+        "Pedagogical Content Knowledge (PCK)",
+        "Technological Pedagogical Content Knowledge (TPACK)"
+      ],
+      "answer": 1,
+      "explanation": "Technological Pedagogical Knowledge (TPK) describes an understanding of how teaching and learning can change when particular technologies are used in particular ways, independent of subject-matter content."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-11",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the SAMR model of technology integration developed by Ruben Puentedura, what do the letters 'S' and 'R' stand for?",
+      "options": [
+        "Software and Re-evaluation",
+        "Substitution and Redefinition",
+        "Systematization and Replication",
+        "Simplification and Restructuring"
+      ],
+      "answer": 1,
+      "explanation": "The SAMR model stands for Substitution, Augmentation, Modification, and Redefinition, representing different levels of technology integration in the classroom."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-12",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which curriculum model rejects fixed, pre-determined behavioral objectives, arguing instead that education should focus on the quality of learning processes, teacher judgment, and student inquiry as pioneered by Lawrence Stenhouse?",
+      "options": [
+        "The Product Model",
+        "The Process Model",
+        "The Grassroots Model",
+        "The Systemic Model"
+      ],
+      "answer": 1,
+      "explanation": "Lawrence Stenhouse proposed the Process Model of curriculum development, which emphasizes the process of learning, teacher research, and student inquiry rather than pre-specified product outcomes or strict behavioral objectives."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-13",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which approach to counselling, primarily associated with Carl Rogers, places the client at the center of the therapeutic process, emphasizing unconditional positive regard, empathy, and congruence?",
+      "options": [
+        "Directive Counselling",
+        "Non-Directive Counselling",
+        "Eclectic Counselling",
+        "Behavioral Counselling"
+      ],
+      "answer": 1,
+      "explanation": "Carl Rogers developed Client-Centered or Non-Directive Counselling, where the counselor provides a supportive environment with empathy and unconditional positive regard, allowing the client to take the lead in self-actualization."
+    },
+    {
+      "id": "odisha-ssb-edu-1784194395991-14",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of guidance is specifically directed towards helping individuals choose a career path, prepare for it, enter it, and progress within it?",
+      "options": [
+        "Personal Guidance",
+        "Educational Guidance",
+        "Vocational Guidance",
+        "Social Guidance"
+      ],
+      "answer": 2,
+      "explanation": "Vocational guidance is the process of assisting an individual to choose an occupation, prepare for it, enter upon it, and progress in it, aligning personal abilities and interests with occupational opportunities."
     }
   ]
 }
