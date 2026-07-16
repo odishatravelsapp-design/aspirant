@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -3404,6 +3404,104 @@
       ],
       "answer": 1,
       "explanation": "The Puerto Rico Trench, with a maximum depth of over 8,300 meters, is the deepest trench located in the Atlantic Ocean. Mariana and Kermadec are in the Pacific, and Java is in the Indian Ocean."
+    },
+    {
+      "id": "ibps-clerk-ai-1784188113612-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 12 hours, Pipe B can fill it in 15 hours, and Pipe C can empty the full tank in 20 hours. If Pipe A is opened at 7:00 AM, Pipe B is opened at 8:00 AM, and Pipe C is opened at 9:00 AM, at what time will the tank be completely full?",
+      "options": [
+        "4:20 PM",
+        "4:40 PM",
+        "5:00 PM",
+        "5:20 PM"
+      ],
+      "answer": 1,
+      "explanation": "Let the total capacity of the tank be the LCM of 12, 15, and 20, which is 60 units. Efficiency of Pipe A = 60 / 12 = 5 units/hour. Efficiency of Pipe B = 60 / 15 = 4 units/hour. Efficiency of Pipe C = - (60 / 20) = -3 units/hour. From 7:00 AM to 8:00 AM (only A is open), work done = 5 units. From 8:00 AM to 9:00 AM (A and B are open), work done = 5 + 4 = 9 units. Total work done by 9:00 AM = 5 + 9 = 14 units. Remaining work = 60 - 14 = 46 units. From 9:00 AM onwards, all three pipes are open. Combined efficiency = 5 + 4 - 3 = 6 units/hour. Time required to fill the remaining 46 units = 46 / 6 = 7 hours 40 minutes. Therefore, the tank will be full at 9:00 AM + 7 hours 40 minutes = 4:40 PM."
+    },
+    {
+      "id": "ibps-clerk-ai-1784188113612-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper marks an article x% above its cost price. He sells it after offering two successive discounts of 20% and 10% on the marked price. If he earns an overall profit of 8% and the difference between the marked price and the cost price is Rs. 750, find the selling price of the article.",
+      "options": [
+        "Rs. 1500",
+        "Rs. 1620",
+        "Rs. 1800",
+        "Rs. 2250"
+      ],
+      "answer": 1,
+      "explanation": "Let the Cost Price (CP) of the article be C. Selling Price (SP) = CP * 1.08. The shopkeeper offers two successive discounts of 20% and 10%, which means SP = Marked Price (MP) * 0.8 * 0.9 = MP * 0.72. Therefore, CP * 1.08 = MP * 0.72, which gives MP / CP = 1.08 / 0.72 = 1.5. Thus, MP = 1.5 * CP. Given that the difference between MP and CP is Rs. 750, we have 1.5 * CP - CP = 750 => 0.5 * CP = 750 => CP = Rs. 1500. The selling price (SP) is CP * 1.08 = 1500 * 1.08 = Rs. 1620."
+    },
+    {
+      "id": "ibps-clerk-ai-1784188140800-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If 'A + B' means 'A is the sister of B', 'A - B' means 'A is the mother of B', 'A * B' means 'A is the brother of B', and 'A / B' means 'A is the father of B', then which of the following expressions represents that 'M is the maternal uncle of T'?",
+      "options": [
+        "M * R - T",
+        "M - R * T",
+        "M * R / T",
+        "M + R - T"
+      ],
+      "answer": 0,
+      "explanation": "In option A (M * R - T):\n- 'M * R' means M is the brother of R.\n- 'R - T' means R is the mother of T.\nSince R is the mother of T and M is the brother of R, M is the maternal uncle of T. Hence, option A is correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1784188140800-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons J, K, L, M, N, O, P, and Q are sitting in a straight line facing North, but not necessarily in the same order. L sits third from the left end of the line. J sits second to the right of L. Only two people sit between J and P. Q sits third to the left of K. K is not an immediate neighbor of J. O sits to the immediate left of N. How many people sit between N and K?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "Based on the given clues, we can determine the positions of the eight persons from left to right (1 to 8):\n1. L is third from the left end (Position 3).\n2. J is second to the right of L (Position 5).\n3. Only two people sit between J and P. If P is at Position 2, we cannot place O and N adjacent to each other later. Thus, P must be at Position 8.\n4. Q is third to the left of K. Since K cannot be adjacent to J (Positions 4 and 6), K must be at Position 7, which places Q at Position 4.\n5. O is to the immediate left of N, so O must be at Position 1 and N at Position 2.\n6. The remaining person M sits at Position 6.\n\nThe final arrangement from left to right is: O(1), N(2), L(3), Q(4), J(5), M(6), K(7), P(8).\nBetween N (Position 2) and K (Position 7), there are 4 people (L, Q, J, M)."
+    },
+    {
+      "id": "ibps-clerk-ai-1784188276941-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the guidelines issued by the Reserve Bank of India (RBI) for licensing of Payments Banks, what is the minimum Capital Adequacy Ratio (CAR) that a Payments Bank is required to maintain on a continuous basis?",
+      "options": [
+        "9%",
+        "12%",
+        "15%",
+        "18%"
+      ],
+      "answer": 2,
+      "explanation": "According to the RBI guidelines for licensing of Payments Banks, they are required to maintain a minimum Capital Adequacy Ratio (CAR) of 15% of their risk-weighted assets (RWA) on a continuous basis.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784188276941-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy & Central Banking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Ways and Means Advances (WMA) provided by the Reserve Bank of India to the government to tide over temporary mismatches in cash flows must be repayable within a maximum period of how many days from the date of the advance?",
+      "options": [
+        "14 days",
+        "30 days",
+        "90 days",
+        "180 days"
+      ],
+      "answer": 2,
+      "explanation": "Ways and Means Advances (WMA) are temporary loan facilities provided by the RBI to the government. Under Section 17(5) of the RBI Act, 1934, these advances must be repaid not later than three months (90 days) from the date of the advance.",
+      "status": "pending"
     }
   ]
 }

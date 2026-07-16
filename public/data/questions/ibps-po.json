@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -3163,6 +3163,136 @@
       ],
       "answer": 1,
       "explanation": "The Puerto Rico Trench, with a maximum depth of over 8,300 meters, is the deepest trench located in the Atlantic Ocean. Mariana and Kermadec are in the Pacific, and Java is in the Indian Ocean."
+    },
+    {
+      "id": "ibps-po-ai-1784188463415-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 16 hours, and Pipe B can fill it in 24 hours. Both pipes are opened together, but 4 hours before the tank is full, Pipe A is closed. What is the total time taken (in hours) to fill the tank?",
+      "options": [
+        "10 hours",
+        "12 hours",
+        "14 hours",
+        "15 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let the total capacity of the tank be the LCM of 16 and 24, which is 48 units. The efficiency of Pipe A is 48 / 16 = 3 units/hour, and the efficiency of Pipe B is 48 / 24 = 2 units/hour. Let the total time taken to fill the tank be t hours. Pipe A worked for (t - 4) hours, and Pipe B worked for all t hours. Thus, the work equation is: 3(t - 4) + 2(t) = 48 => 3t - 12 + 2t = 48 => 5t = 60 => t = 12 hours."
+    },
+    {
+      "id": "ibps-po-ai-1784188463415-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 3 red balls, 4 green balls, and some blue balls. If two balls are drawn at random from the bag, the probability that both are blue is 5/33. Find the total number of balls in the bag.",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "15"
+      ],
+      "answer": 1,
+      "explanation": "Let the number of blue balls be x. The total number of balls in the bag is 3 + 4 + x = 7 + x. The probability of drawing two blue balls is given by: [x * (x - 1)] / [(7 + x) * (6 + x)] = 5/33. Cross-multiplying gives: 33(x^2 - x) = 5(x^2 + 13x + 42) => 33x^2 - 33x = 5x^2 + 65x + 210 => 28x^2 - 98x - 210 = 0. Dividing the entire equation by 14 yields: 2x^2 - 7x - 15 = 0. Factoring this quadratic equation gives: (2x + 3)(x - 5) = 0. Since the number of balls must be a positive integer, x = 5. Therefore, the total number of balls is 7 + 5 = 12."
+    },
+    {
+      "id": "ibps-po-ai-1784188487289-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Chairs are Tables.\nSome Tables are Desks.\nNo Desk is a Bench.\n\nConclusions:\nI. All Chairs can never be Tables.\nII. Some Tables are definitely not Benches.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few Chairs are Tables' means 'Some Chairs are Tables' and 'Some Chairs are not Tables'. Because there is always a part of Chairs that is not Tables, it is impossible for all Chairs to be Tables. Thus, 'All Chairs can never be Tables' is true.\n2. 'Some Tables are Desks' and 'No Desk is a Bench' means the portion of Tables that overlaps with Desks can never be Benches. Thus, 'Some Tables are definitely not Benches' is also true. Therefore, both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1784188487289-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statement: To reduce the carbon footprint and traffic congestion in the central business district (CBD), the municipal corporation has decided to levy a 'congestion tax' on all private vehicles entering the CBD during peak hours (8 AM to 11 AM and 5 PM to 8 PM) on weekdays.\n\nAssumptions:\nI. The congestion tax will deter at least some private vehicle owners from driving into the CBD during peak hours.\nII. The public transport infrastructure has the capacity to accommodate the commuters who might shift from private vehicles.",
+      "options": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Both I and II are implicit",
+        "Neither I nor II is implicit"
+      ],
+      "answer": 2,
+      "explanation": "Assumption I is implicit because any penalty or tax-based policy is introduced under the assumption that it will serve as a deterrent to some extent. Assumption II is also implicit because when authorities actively discourage private vehicle usage to reduce traffic in a major commercial district, they must assume that alternative public transit systems have the capacity to handle the resulting shift in commuters without causing a total economic standstill."
+    },
+    {
+      "id": "ibps-po-ai-1784188576040-0",
+      "section": "English",
+      "topic": "Subjunctive Mood",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the grammatically correct option to replace the underlined phrase in the given sentence:\n\n'The regulatory authority mandated that the multinational corporation *complies with the updated environmental norms* by the end of the fiscal year.'",
+      "options": [
+        "complies with the updated environmental norms",
+        "comply with the updated environmental norms",
+        "is complying with the updated environmental norms",
+        "has complied with the updated environmental norms"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'mandated' belongs to a class of verbs (like demand, insist, recommend, mandate) that require the subjunctive mood in the succeeding 'that' clause. In the subjunctive mood, the bare/base form of the verb ('comply') is used, regardless of whether the subject is singular or plural. Thus, 'comply' is grammatically correct."
+    },
+    {
+      "id": "ibps-po-ai-1784188576040-1",
+      "section": "English",
+      "topic": "Syntactical Accuracy",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Choose the sentence that is grammatically correct and free of any syntactical or structural errors.",
+      "options": [
+        "Being an alumnus of the prestigious institute, the board of directors expected him to lead the challenging project.",
+        "Had the committee members been more receptive to feedback, the crisis could have been averted easily.",
+        "The criteria for selecting the candidates for the fellowship is extremely stringent, leaving no room for subjectivity.",
+        "Each of the project coordinators were required to submit their progress reports by the end of the week."
+      ],
+      "answer": 1,
+      "explanation": "Option B is grammatically correct, utilizing a perfect conditional inversion ('Had the committee members been...'). Option A contains a dangling modifier because 'Being an alumnus...' incorrectly modifies 'the board of directors'. Option C is incorrect because 'criteria' is a plural noun and requires the plural verb 'are'. Option D is incorrect because the subject pronoun 'Each' is singular and requires the singular verb 'was'."
+    },
+    {
+      "id": "ibps-po-ai-1784188608149-0",
+      "section": "General Awareness",
+      "topic": "Payment Systems Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (RBI) guidelines, what is the threshold limit of transaction value above which non-individual entities must quote the 20-digit Legal Entity Identifier (LEI) for fund transfers through RTGS and NEFT?",
+      "options": [
+        "₹10 crore and above",
+        "₹25 crore and above",
+        "₹50 crore and above",
+        "₹100 crore and above"
+      ],
+      "answer": 2,
+      "explanation": "The Reserve Bank of India (RBI) mandated that non-individual entities undertaking high-value transactions of ₹50 crore and above through RTGS and NEFT must obtain and quote the 20-digit Legal Entity Identifier (LEI) code, effective from April 1, 2021.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784188608149-1",
+      "section": "General Awareness",
+      "topic": "Banking Laws",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 45 of the Banking Regulation Act, 1949, when the Reserve Bank of India applies to the Central Government for an order of moratorium in respect of a banking company, what is the maximum total period of moratorium that can be granted?",
+      "options": [
+        "Three months",
+        "Six months",
+        "Nine months",
+        "One year"
+      ],
+      "answer": 1,
+      "explanation": "According to Section 45 of the Banking Regulation Act, 1949, the Central Government, on the application of the RBI, may make an order of moratorium for a specified period. The proviso states that the period of moratorium may be extended from time to time, but the total period of moratorium shall not exceed six months.",
+      "status": "pending"
     }
   ]
 }

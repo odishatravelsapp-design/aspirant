@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -4352,6 +4352,120 @@
             "ନଭେମ୍ବର ୧୭, ୧୯୪୨"
           ],
           "explanation": "୨୮ ସେପ୍ଟେମ୍ବର ୧୯୪୨ ରେ, ଭଦ୍ରକ ଜିଲ୍ଲାର ଇରମଠାରେ ଏକ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସଭା ଉପରେ ବ୍ରିଟିଶ ପୋଲିସ ଗୁଳି ଚଳାଇଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ ପ୍ରାଣ ହରାଇଥିଲେ। ଏହି ଦୁଃଖଦ ଘଟଣା ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍ ଭାବରେ ଜଣାଶୁଣା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784189018093-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Matthew Arnold's pastoral elegy 'Thyrsis', written to commemorate his friend Arthur Hugh Clough, which specific landmark of the Oxford countryside symbolizes the persistence of hope and the quest for truth?",
+      "options": [
+        "The River Isis",
+        "The Bablock-hythe ferry",
+        "The Signal-elm on the hill",
+        "The Fyfield tree"
+      ],
+      "answer": 2,
+      "explanation": "In 'Thyrsis', Matthew Arnold uses the 'signal-elm' on the hill-top as a central symbol of resilience, hope, and the continuing quest for intellectual and spiritual truth, indicating that as long as the tree stands, the ideal of the Scholar-Gipsy still lives.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡଙ୍କ ପାଷ୍ଟୋରାଲ୍ ଏଲିଜି 'ଥାଇର୍ସିସ୍' (Thyrsis) ରେ, ଯାହା ତାଙ୍କ ବନ୍ଧୁ ଆର୍ଥର ହ୍ୟୁ କ୍ଲଫ୍‌ଙ୍କ ସ୍ମୃତିରେ ଲିଖିତ, ଅକ୍ସଫୋର୍ଡ ଗ୍ରାମାଞ୍ଚଳର କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ପ୍ରାକୃତିକ ଚିହ୍ନଟି ଆଶା ଏବଂ ସତ୍ୟର ଅନ୍ୱେଷଣର ସ୍ଥାୟୀତ୍ୱକୁ ପ୍ରତିପାଦିତ କରେ?",
+          "options": [
+            "ଆଇସିସ୍ ନଦୀ (The River Isis)",
+            "ବାବ୍‌ଲକ୍-ହାଇଥ୍ ଫେରି (The Bablock-hythe ferry)",
+            "ପାହାଡ଼ ଉପରେ ଥିବା ସିଗନାଲ୍-ଏଲ୍ମ୍ ଗଛ (The Signal-elm on the hill)",
+            "ଫାଇଫିଲ୍ଡ ଗଛ (The Fyfield tree)"
+          ],
+          "explanation": "ମାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡଙ୍କ 'ଥାଇର୍ସିସ୍' କବିତାରେ, ପାହାଡ଼ ଉପରେ ଥିବା ସିଗନାଲ୍-ଏଲ୍ମ୍ (Signal-elm) ଗଛଟି ଆଶା ଏବଂ ସତ୍ୟର ଅନ୍ୱେଷଣର ପ୍ରତୀକ ଅଟେ। ଯେପର୍ଯ୍ୟନ୍ତ ଏହି ଗଛଟି ଅଛି, ସେପର୍ଯ୍ୟନ୍ତ ସ୍କଲାର-ଜିପ୍ସି ଏବଂ ତାଙ୍କର ଆଦର୍ଶ ଜୀବିତ ଅଛି ବୋଲି କବି ବିଶ୍ୱାସ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784189018093-1",
+      "section": "Subject Knowledge",
+      "topic": "Modernist Poetry",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the opening section of 'Burnt Norton', the first of T. S. Eliot's 'Four Quartets', which bird guides the narrator into the rose-garden, urging them to find the 'echoes'?",
+      "options": [
+        "The Nightingale",
+        "The Thrush",
+        "The Swallow",
+        "The Blackbird"
+      ],
+      "answer": 1,
+      "explanation": "In the opening lines of 'Burnt Norton', it is the 'thrush' that invites and guides the narrator into the rose-garden with the words: 'Quick, said the bird, find them, find them / Round the corner.'",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଟି. ଏସ୍. ଏଲିଅଟ୍‌ଙ୍କ 'ଫୋର୍ କ୍ୱାର୍ଟେଟ୍ସ' (Four Quartets) ର ପ୍ରଥମ କବିତା 'ବର୍ଣ୍ଟ ନର୍ଟନ' (Burnt Norton) ର ପ୍ରାରମ୍ଭିକ ଭାଗରେ, କେଉଁ ପକ୍ଷୀ କଥକଙ୍କୁ ଗୋଲାପ ବଗିଚା (rose-garden) ଭିତରକୁ ବାଟ କଢ଼ାଇ ନେଇଥାଏ ଏବଂ ସେମାନଙ୍କୁ 'ପ୍ରତିଧ୍ୱନି' (echoes) ଖୋଜିବାକୁ ପ୍ରବର୍ତ୍ତାଇ ଥାଏ?",
+          "options": [
+            "ବୁଲ୍‌ବୁଲ୍ ପକ୍ଷୀ (The Nightingale)",
+            "ଥ୍ରଶ୍ ପକ୍ଷୀ (The Thrush)",
+            "ସ୍ୱାଲୋ ପକ୍ଷୀ (The Swallow)",
+            "ବ୍ଲାକ୍‌ବାର୍ଡ (The Blackbird)"
+          ],
+          "explanation": "ଟି. ଏସ୍. ଏଲିଅଟ୍‌ଙ୍କ 'ବର୍ଣ୍ଟ ନର୍ଟନ' କବିତାରେ, ଥ୍ରଶ୍ (Thrush) ପକ୍ଷୀଟି ହିଁ କଥକଙ୍କୁ ଗୋଲାପ ବଗିଚା ଭିତରକୁ ପ୍ରବେଶ କରିବାକୁ ଏବଂ 'ପ୍ରତିଧ୍ୱନି' ଗୁଡ଼ିକୁ ଖୋଜିବାକୁ ଡାକିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784189067250-0",
+      "section": "Teaching Aptitude",
+      "topic": "Evaluation and Assessment Models",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Daniel Stufflebeam's CIPP evaluation model, which of the following components is primarily concerned with identifying the strengths and weaknesses of the system, determining target audience needs, and defining the objectives of a program?",
+      "options": [
+        "Input Evaluation",
+        "Process Evaluation",
+        "Context Evaluation",
+        "Product Evaluation"
+      ],
+      "answer": 2,
+      "explanation": "In Stufflebeam's CIPP (Context, Input, Process, Product) model, Context Evaluation is used to assess needs, assets, and problems within a given environment to identify opportunities and define the goals/objectives of a program.",
+      "translations": {
+        "or": {
+          "question": "ଡାନିଏଲ୍ ଷ୍ଟଫଲ୍‌ବିମ୍‌ଙ୍କ CIPP ମୂଲ୍ୟାଙ୍କନ ମଡେଲରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଉପାଦାନଟି ମୁଖ୍ୟତଃ ବ୍ୟବସ୍ଥାର ସବଳତା ଓ ଦୁର୍ବଳତା ଚିହ୍ନଟ କରିବା, ଲକ୍ଷ୍ୟଭିତ୍ତିକ ଶ୍ରୋତାଙ୍କ ଆବଶ୍ୟକତା ନିର୍ଦ୍ଧାରଣ କରିବା ଏବଂ ଏକ କାର୍ଯ୍ୟକ୍ରମର ଉଦ୍ଦେଶ୍ୟ ସ୍ଥିର କରିବା ସହିତ ଜଡ଼ିତ?",
+          "options": [
+            "ନିବେଶ ମୂଲ୍ୟାଙ୍କନ (Input Evaluation)",
+            "ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାଙ୍କନ (Process Evaluation)",
+            "ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ (Context Evaluation)",
+            "ଉତ୍ପାଦ ମୂଲ୍ୟାଙ୍କନ (Product Evaluation)"
+          ],
+          "explanation": "ଷ୍ଟଫଲ୍‌ବିମ୍‌ଙ୍କ CIPP (Context, Input, Process, Product) ମଡେଲରେ, ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ (Context Evaluation) ବ୍ୟବହାର କରି କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ପରିବେଶ ମଧ୍ୟରେ ଆବଶ୍ୟକତା, ସମ୍ପତ୍ତି ଏବଂ ସମସ୍ୟାଗୁଡ଼ିକର ଆକଳନ କରାଯାଏ ଯାହାଦ୍ୱାରା କାର୍ଯ୍ୟକ୍ରମର ଲକ୍ଷ୍ୟ ଏବଂ ଉଦ୍ଦେଶ୍ୟଗୁଡ଼ିକୁ ସ୍ଥିର କରାଯାଇପାରିବ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784189067250-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Hilda Taba's Inductive Thinking Model of teaching, which of the following is the correct sequence of steps involved in the first cognitive task, 'Concept Formation'?",
+      "options": [
+        "Listing items, Grouping items, Categorizing/Labeling categories",
+        "Identifying relationships, Explaining relationships, Drawing inferences",
+        "Predicting consequences, Explaining predictions, Verifying predictions",
+        "Analyzing data, Formulating hypotheses, Testing hypotheses"
+      ],
+      "answer": 0,
+      "explanation": "Hilda Taba's Inductive Thinking Model consists of three cognitive tasks. The first cognitive task is 'Concept Formation', which comprises three sequential steps: (1) Enumeration or listing of data, (2) Grouping of data based on common attributes, and (3) Labeling or categorizing the groups.",
+      "translations": {
+        "or": {
+          "question": "ହିଲ୍ଡା ଟାବାଙ୍କ ଶିକ୍ଷାଦାନର 'ଆଗମନାତ୍ମକ ଚିନ୍ତାଧାରା ମଡେଲ' (Inductive Thinking Model) ଅନୁଯାୟୀ, ପ୍ରଥମ ଜ୍ଞାନାତ୍ମକ କାର୍ଯ୍ୟ 'ଧାରଣା ଗଠନ' (Concept Formation) ରେ ଜଡ଼ିତ ସୋପାନଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି?",
+          "options": [
+            "ଆଇଟମଗୁଡିକର ତାଲିକା ପ୍ରସ୍ତୁତ କରିବା, ଆଇଟମଗୁଡିକୁ ଗୋଷ୍ଠୀଭୁକ୍ତ କରିବା, ବର୍ଗୀକରଣ/ଲେବେଲିଂ କରିବା",
+            "ସମ୍ପର୍କ ଚିହ୍ନଟ କରିବା, ସମ୍ପର୍କ ବ୍ୟାଖ୍ୟା କରିବା, ଅନୁମାନ କରିବା",
+            "ପରିଣାମ ପୂର୍ବାନୁମାନ କରିବା, ପୂର୍ବାନୁମାନ ବ୍ୟାଖ୍ୟା କରିବା, ପୂର୍ବାନୁମାନ ଯାଞ୍ଚ କରିବା",
+            "ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା, ଅନୁକଳ୍ପନା ଗଠନ କରିବା, ଅନୁକଳ୍ପନା ପରୀକ୍ଷା କରିବା"
+          ],
+          "explanation": "ହିଲ୍ଡା ଟାବାଙ୍କ ଆଗମନାତ୍ମକ ଚିନ୍ତାଧାରା ମଡେଲରେ ତିନୋଟି ଜ୍ଞାନାତ୍ମକ କାର୍ଯ୍ୟ ରହିଛି। ପ୍ରଥମ ଜ୍ଞାନାତ୍ମକ କାର୍ଯ୍ୟ ହେଉଛି 'ଧାରଣା ଗଠନ' (Concept Formation), ଯାହା ତିନୋଟି କ୍ରମିକ ସୋପାନକୁ ନେଇ ଗଠିତ: (୧) ତଥ୍ୟର ତାଲିକା ପ୍ରସ୍ତୁତ କରିବା, (୨) ସାଧାରଣ ଗୁଣ ଆଧାରରେ ତଥ୍ୟକୁ ଗୋଷ୍ଠୀଭୁକ୍ତ କରିବା, ଏବଂ (୩) ଗୋଷ୍ଠୀଗୁଡ଼ିକୁ ଲେବେଲ୍ ବା ବର୍ଗୀକରଣ କରିବା।"
         }
       }
     }

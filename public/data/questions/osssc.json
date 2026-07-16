@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -3680,6 +3680,120 @@
             "ନିତ୍ୟାନନ୍ଦ କାନୁନଗୋ"
           ],
           "explanation": "୧୯୪୧ ନଭେମ୍ବର ୨୪ ରେ ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି କଂଗ୍ରେସର ଏକ ଭିନ୍ନ ଗୋଷ୍ଠୀ ଏବଂ ମୁସଲିମ ଲିଗ୍‌ର ସମର୍ଥନରେ ଏକ ମିଳିତ ମନ୍ତ୍ରୀମଣ୍ଡଳ ଗଠନ କରିଥିଲେ। ଏହି ମନ୍ତ୍ରୀମଣ୍ଡଳରେ ପଣ୍ଡିତ ଗୋଦାବରୀଶ ମିଶ୍ର ଅର୍ଥ ଓ ଶିକ୍ଷା ମନ୍ତ୍ରୀ ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ, ଯାହାଙ୍କ କାର୍ଯ୍ୟକାଳ ମଧ୍ୟରେ ୧୯ Rott୩ ମସିହାରେ ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟ ପ୍ରତିଷ୍ଠା ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784188633515-0",
+      "section": "Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The difference between compound interest and simple interest on a certain sum for 3 years at 10% per annum is Rs. 155. Find the sum.",
+      "options": [
+        "Rs. 4,000",
+        "Rs. 5,000",
+        "Rs. 6,000",
+        "Rs. 5,500"
+      ],
+      "answer": 1,
+      "explanation": "The formula for the difference (D) between compound interest and simple interest for 3 years is D = P * (R/100)^2 * (300 + R)/100. Substituting the given values: 155 = P * (10/100)^2 * (300 + 10)/100 => 155 = P * (1/100) * (310/100) => 155 = P * 31 / 1000 => P = (155 * 1000) / 31 = 5,000. Hence, the sum is Rs. 5,000.",
+      "translations": {
+        "or": {
+          "question": "ବାର୍ଷିକ 10% ହାରରେ 3 ବର୍ଷ ପାଇଁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ମୂଳଧନ ଉପରେ ଚକ୍ରବୃଦ୍ଧି ସୁଧ ଏବଂ ସରଳ ସୁଧର ପାର୍ଥକ୍ୟ ହେଉଛି 155 ଟଙ୍କା | ମୂଳଧନଟି ସ୍ଥିର କରନ୍ତୁ |",
+          "options": [
+            "ଟ. 4,000",
+            "ଟ. 5,000",
+            "ଟ. 6,000",
+            "ଟ. 5,500"
+          ],
+          "explanation": "୩ ବର୍ଷ ପାଇଁ ପାର୍ଥକ୍ୟ (D) ର ସୂତ୍ର ହେଉଛି D = P * (R/100)^2 * (300 + R)/100 | ମୂଲ୍ୟଗୁଡ଼ିକୁ ସ୍ଥାପନ କଲେ: 155 = P * (10/100)^2 * (300 + 10)/100 => 155 = P * (1/100) * (310/100) => 155 = P * 31/1000 => P = (155 * 1000) / 31 = 5,000 | ଅତଏବ, ମୂଳଧନ ହେଉଛି 5,000 ଟଙ୍କା |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784188633515-1",
+      "section": "Arithmetic",
+      "topic": "Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains A and B start at the same time from Delhi and Patna towards each other. After crossing each other, they take 4 hours 48 minutes and 3 hours 20 minutes respectively to reach Patna and Delhi. If train A is running at 45 km/h, find the speed of train B.",
+      "options": [
+        "50 km/h",
+        "54 km/h",
+        "60 km/h",
+        "48 km/h"
+      ],
+      "answer": 1,
+      "explanation": "The formula relating the speeds of two objects and the times taken to reach their destinations after crossing each other is Speed_A / Speed_B = sqrt(Time_B / Time_A). Here, Time_A = 4 hours 48 minutes = 24/5 hours, and Time_B = 3 hours 20 minutes = 10/3 hours. Speed_A / Speed_B = sqrt((10/3) / (24/5)) = sqrt((10/3) * (5/24)) = sqrt(50/72) = sqrt(25/36) = 5/6. Since Speed_A = 45 km/h, we have 45 / Speed_B = 5/6 => Speed_B = (45 * 6) / 5 = 54 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ଟ୍ରେନ୍ A ଏବଂ B ଏକା ସମୟରେ ଯଥାକ୍ରମେ ଦିଲ୍ଲୀ ଏବଂ ପାଟନାରୁ ପରସ୍ପର ଆଡ଼କୁ ଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତି | ପରସ୍ପରକୁ ଅତିକ୍ରମ କରିବା ପରେ, ସେମାନେ ପାଟନା ଏବଂ ଦିଲ୍ଲୀରେ ପହଞ୍ଚିବା ପାଇଁ ଯଥାକ୍ରମେ 4 ଘଣ୍ଟା 48 ମିନିଟ୍ ଏବଂ 3 ଘଣ୍ଟା 20 ମିନିଟ୍ ସମୟ ନିଅନ୍ତି | ଯଦି ଟ୍ରେନ୍ A ର ବେଗ 45 କିମି/ଘଣ୍ଟା ହୁଏ, ତେବେ ଟ୍ରେନ୍ B ର ବେଗ କେତେ?",
+          "options": [
+            "50 କିମି/ଘଣ୍ଟା",
+            "54 କିମି/ଘଣ୍ଟା",
+            "60 କିମି/ଘଣ୍ଟା",
+            "48 କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ପରସ୍ପରକୁ ଅତିକ୍ରମ କରିବା ପରେ ଗତି ଏବଂ ସମୟ ମଧ୍ୟରେ ସମ୍ପର୍କ ହେଉଛି Speed_A / Speed_B = sqrt(Time_B / Time_A) | ଏଠାରେ, Time_A = 4 ଘଣ୍ଟା 48 ମିନିଟ୍ = 24/5 ଘଣ୍ଟା, ଏବଂ Time_B = 3 ଘଣ୍ଟା 20 ମିନିଟ୍ = 10/3 ଘଣ୍ଟା | ବେଗର ଅନୁପାତ = sqrt((10/3) / (24/5)) = sqrt(50/72) = sqrt(25/36) = 5/6 | ଯେହେତୁ Speed_A = 45 କିମି/ଘଣ୍ଟା, ତେଣୁ 45 / Speed_B = 5/6 => Speed_B = (45 * 6) / 5 = 54 କିମି/ଘଣ୍ଟା |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784188769577-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first Chief Justice of the Orissa High Court when it was established in the year 1948?",
+      "options": [
+        "Justice Bira Kishore Ray",
+        "Justice Jagannadhadas",
+        "Justice Lingaraj Panigrahi",
+        "Justice R. Lakshman Narasimham"
+      ],
+      "answer": 0,
+      "explanation": "The Orissa High Court was formally established on July 26, 1948. Justice Bira Kishore Ray was appointed as its first Chief Justice, serving from 1948 to 1951.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୮ ମସିହାରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ (ହାଇକୋର୍ଟ) ପ୍ରତିଷ୍ଠା ହେବା ସମୟରେ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ",
+            "ଜଷ୍ଟିସ୍ ଜଗନ୍ନାଥ ଦାସ",
+            "ଜଷ୍ଟିସ୍ ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ",
+            "ଜଷ୍ଟିସ୍ ଆର୍. ଲକ୍ଷ୍ମଣ ନରସିଂହମ"
+          ],
+          "explanation": "୨୬ ଜୁଲାଇ ୧୯୪୮ ରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ପ୍ରତିଷ୍ଠା ହୋଇଥିଲା। ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି ଭାବରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ ଏବଂ ସେ ୧୯୪୮ ରୁ ୧୯୫୧ ପର୍ଯ୍ୟନ୍ତ କାର୍ଯ୍ୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784188769577-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Literary History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The weekly newspaper 'Sambalpur Hitaisini', which played a crucial role in the Odia language movement in Western Odisha, was first published in 1889 under the patronage of which princely state's ruler?",
+      "options": [
+        "Bamra",
+        "Mayurbhanj",
+        "Patna (Balangir)",
+        "Kalahandi"
+      ],
+      "answer": 0,
+      "explanation": "The weekly newspaper 'Sambalpur Hitaisini' was first published on May 30, 1889, under the patronage of Raja Basudev Sudhal Dev of Bamra (Bamanda) princely state, with Pandit Nilamani Vidyaratna as its editor.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପଶ୍ଚିମ ଓଡ଼ିଶାରେ ଓଡ଼ିଆ ଭାଷା ଆନ୍ଦୋଳନରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଭୂମିକା ଗ୍ରହଣ କରିଥିବା ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ସମ୍ବଲପୁର ହିତୈଷିଣୀ', ୧୮୮୯ ମସିହାରେ କେଉଁ ଗଡ଼ଜାତ ରାଜ୍ୟର ଶାସକଙ୍କ ପୃଷ୍ଠପୋଷକତାରେ ପ୍ରଥମେ ପ୍ରକାଶିତ ହୋଇଥିଲା?",
+          "options": [
+            "ବାମଣ୍ଡା (ବାମରା)",
+            "ମୟୂରଭଞ୍ଜ",
+            "ପାଟଣା (ବଲାଙ୍ଗୀର)",
+            "କଳାହାଣ୍ଡି"
+          ],
+          "explanation": "ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ସମ୍ବଲପୁର ହିତୈଷିଣୀ' ୩୦ ମେ ୧୮୮୯ ରେ ବାମଣ୍ଡା ଗଡ଼ଜାତ ରାଜ୍ୟର ରାଜା ବାସୁଦେବ ସୁଢ଼ଳ ଦେବଙ୍କ ରାଜକୀୟ ପୃଷ୍ଠପୋଷକତାରେ ଏବଂ ପଣ୍ଡିତ ନୀଳମଣି ବିଦ୍ୟାରତ୍ନଙ୍କ ସମ୍ପାଦକତ୍ୱରେ ପ୍ରଥମେ ପ୍ରକାଶିତ ହୋଇଥିଲା।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -3323,6 +3323,86 @@
       ],
       "answer": 1,
       "explanation": "The Puerto Rico Trench, with a maximum depth of over 8,300 meters, is the deepest trench located in the Atlantic Ocean. Mariana and Kermadec are in the Pacific, and Java is in the Indian Ocean."
+    },
+    {
+      "id": "sbi-clerk-ai-1784188297799-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B and C enter into a partnership. A invests Rs. 5,000 for the whole year. B joins with Rs. 8,000 after 3 months, and C joins with Rs. 12,000 after 6 months. If the total annual profit is Rs. 34,000, find the difference between the shares of profit of B and A.",
+      "options": [
+        "Rs. 1,500",
+        "Rs. 2,000",
+        "Rs. 2,500",
+        "Rs. 3,000"
+      ],
+      "answer": 1,
+      "explanation": "To find the profit-sharing ratio, calculate the product of capital and investment duration for each partner: A's equivalent investment = 5,000 * 12 = 60,000; B's equivalent investment = 8,000 * (12 - 3) = 8,000 * 9 = 72,000; C's equivalent investment = 12,000 * (12 - 6) = 12,000 * 6 = 72,000. Ratio of profit sharing A : B : C = 60,000 : 72,000 : 72,000 = 5 : 6 : 6. Total units = 5 + 6 + 6 = 17 units. Given total profit is Rs. 34,000, so 17 units = 34,000 => 1 unit = Rs. 2,000. The difference between B's and A's share of profit is (6 - 5) units = 1 unit = Rs. 2,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1784188297799-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the length and breadth of a rectangular field is 5 : 4. A path of uniform width 2.5 m runs all around the outside of the field. If the area of the path is 325 sq m, what is the perimeter of the rectangular field?",
+      "options": [
+        "108 m",
+        "115 m",
+        "120 m",
+        "132 m"
+      ],
+      "answer": 2,
+      "explanation": "Let length L = 5x and breadth B = 4x. The outer length L' = 5x + 2 * 2.5 = 5x + 5. The outer breadth B' = 4x + 2 * 2.5 = 4x + 5. Area of the path = (Outer Area) - (Inner Area) => 325 = (5x + 5)(4x + 5) - (5x * 4x) => 325 = 20x^2 + 25x + 20x + 25 - 20x^2 => 325 = 45x + 25 => 45x = 300 => x = 20/3. The perimeter of the rectangular field = 2(L + B) = 2(5x + 4x) = 18x. Substituting the value of x, Perimeter = 18 * (20/3) = 120 m."
+    },
+    {
+      "id": "sbi-clerk-ai-1784188321578-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person starts walking from Point A towards the East. After walking 12 meters, he reaches Point B. From Point B, he takes a left turn and walks 8 meters to reach Point C. Then, he takes a left turn and walks 6 meters to reach Point D. Finally, he takes a left turn and walks 16 meters to reach Point E. What is the shortest distance between Point A and Point E, and in which direction is Point E with respect to Point A?",
+      "options": [
+        "10 m, South-East",
+        "10 m, South-West",
+        "14 m, South-East",
+        "8 m, South"
+      ],
+      "answer": 0,
+      "explanation": "Let Point A be at the origin (0, 0). Walking 12 m East reaches B at (12, 0). Turning left (North) and walking 8 m reaches C at (12, 8). Turning left (West) and walking 6 m reaches D at (6, 8). Turning left (South) and walking 16 m reaches E at (6, -8). The shortest distance between A(0,0) and E(6,-8) is calculated using Pythagoras' theorem: sqrt(6^2 + (-8)^2) = sqrt(36 + 64) = sqrt(100) = 10 meters. Since E is at (6, -8), it lies in the South-East direction relative to A."
+    },
+    {
+      "id": "sbi-clerk-ai-1784188321578-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Directions: In the following question, three statements are given followed by two conclusions. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\n1. Only a few Pens are Pencils.\n2. All Pencils are Erasers.\n3. No Eraser is a Ruler.\n\nConclusions:\nI. Some Pens can never be Rulers.\nII. All Pencils being Pens is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From Statement 1, 'Only a few Pens are Pencils' means 'Some Pens are Pencils' and 'Some Pens are not Pencils'. Since all Pencils are Erasers (Statement 2), the common part between Pens and Pencils (which consists of some Pens) is also part of Erasers. Since no Eraser is a Ruler (Statement 3), those Pens that are Erasers can never be Rulers. Hence, Conclusion I definitely follows. For Conclusion II, 'All Pencils being Pens is a possibility' is true because while 'All Pens being Pencils' is restricted by 'Only a few', there is no restriction preventing all Pencils from being inside the Pen group. Thus, both conclusions follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1784188377142-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the four sentences given below and identify the sentence that contains a grammatical error.",
+      "options": [
+        "Hardly had the delegation arrived at the venue when the unscheduled power outage disrupted the presentation.",
+        "The board of directors was unanimous in its decision to divest the loss-making subsidiary.",
+        "If the regulatory authority would have intervened on time, the financial crisis could have been averted.",
+        "Not only did the startup secure substantial funding, but it also expanded its operations overseas."
+      ],
+      "answer": 2,
+      "explanation": "Option C contains a grammatical error. In third conditional clauses (expressing hypothetical past situations and their results), the condition ('if-clause') must be in the past perfect tense ('had + past participle'), not 'would have'. The correct construction is: 'If the regulatory authority had intervened on time, the financial crisis could have been averted.'"
     }
   ]
 }
