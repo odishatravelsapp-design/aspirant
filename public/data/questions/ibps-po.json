@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -3463,6 +3463,104 @@
       ],
       "answer": 1,
       "explanation": "Lichens absorb water and nutrients directly from the air rather than through roots. Because they are highly sensitive to sulfur dioxide (SO2), their presence, health, or absence serves as a reliable bio-indicator of local air quality."
+    },
+    {
+      "id": "ibps-po-ai-1784274496057-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A sum of Rs. P is invested at r% per annum simple interest for 3 years, and another sum of Rs. (P + 2000) is invested at (r + 2)% per annum simple interest for 3 years. The difference between the interests earned from the two investments is Rs. 1,200, and the sum of the interests earned from both is Rs. 6,000. If r < 9%, find the value of P.",
+      "options": [
+        "Rs. 8,000",
+        "Rs. 10,000",
+        "Rs. 12,000",
+        "Rs. 15,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the two interests be I1 and I2. \nI1 = (P * r * 3) / 100 \nI2 = ((P + 2000) * (r + 2) * 3) / 100 \n\nGiven, I2 - I1 = 1200\n=> (3 / 100) * [(P + 2000)(r + 2) - Pr] = 1200\n=> Pr + 2P + 2000r + 4000 - Pr = 40000\n=> 2P + 2000r = 36000\n=> P + 1000r = 18000  --- (Equation 1)\n\nAlso, I2 + I1 = 6000\n=> (3 / 100) * [Pr + (P + 2000)(r + 2)] = 6000\n=> 2Pr + 2P + 2000r + 4000 = 200000\nSubstitute (2P + 2000r + 4000) = 40000 into the equation:\n=> 2Pr + 40000 = 200000\n=> 2Pr = 160000\n=> Pr = 80000  --- (Equation 2)\n\nFrom Equation 1, r = (18000 - P) / 1000. Substitute this into Equation 2:\n=> P * [(18000 - P) / 1000] = 80000\n=> 18000P - P^2 = 80,000,000\n=> P^2 - 18000P + 80,000,000 = 0\n=> (P - 10000)(P - 8000) = 0\n=> P = 10000 or P = 8000.\n\nIf P = 10000, then r = 8%.\nIf P = 8000, then r = 10%.\nSince r < 9%, P must be Rs. 10,000."
+    },
+    {
+      "id": "ibps-po-ai-1784274496057-1",
+      "section": "Quant",
+      "topic": "Mixture & Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 5 : x. When 36 liters of the mixture is taken out and replaced with 21 liters of water, the ratio of milk to water becomes 2 : 5. If the initial quantity of the mixture in the vessel was 120 liters, find the value of x.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 3,
+      "explanation": "Initial volume of mixture = 120 liters.\nQuantity of mixture taken out = 36 liters.\nRemaining mixture in the vessel = 120 - 36 = 84 liters.\n\nSince the ratio of milk to water in the remaining mixture remains 5 : x:\nMilk remaining = 84 * [5 / (5 + x)]\nWater remaining = 84 * [x / (5 + x)]\n\nNow, 21 liters of water is added:\nNew Water quantity = 84 * [x / (5 + x)] + 21\n\nThe new ratio of milk to water is 2 : 5:\n=> { 84 * [5 / (5 + x)] } / { 84 * [x / (5 + x)] + 21 } = 2 / 5\nMultiplying numerator and denominator by (5 + x):\n=> 420 / [84x + 21(5 + x)] = 2 / 5\n=> 420 / [105x + 105] = 2 / 5\n=> 4 / (x + 1) = 2 / 5\n=> 2(x + 1) = 20\n=> x + 1 = 10\n=> x = 9."
+    },
+    {
+      "id": "ibps-po-ai-1784274507497-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nOnly a few Gold are Platinum.\nSome Platinum are Diamond.\nNo Diamond is Ruby.\n\nConclusions:\nI. Some Gold are not Platinum is a possibility.\nII. All Platinum can never be Ruby.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Gold are Platinum' implies two definite facts: 'Some Gold are Platinum' and 'Some Gold are not Platinum'. Since 'Some Gold are not Platinum' is already a definite fact, its possibility is false. Hence, Conclusion I does not follow. 2. Since 'Some Platinum are Diamond' and 'No Diamond is Ruby', the part of Platinum that is Diamond can never be Ruby. This means it is impossible for all Platinum to be Ruby. Hence, 'All Platinum can never be Ruby' (which means some Platinum are definitely not Ruby) is true and follows."
+    },
+    {
+      "id": "ibps-po-ai-1784274507497-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning - Statement and Assumptions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, a statement is given followed by three assumptions numbered I, II, and III. An assumption is something supposed or taken for granted. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.\n\nStatement:\n'To boost rural tourism and promote local handicrafts, the Ministry of Tourism has decided to partner with leading e-commerce platforms to digitize and sell products made by rural artisans directly to urban consumers.'\n\nAssumptions:\nI. Urban consumers are interested in purchasing authentic rural handicrafts if they are made easily accessible online.\nII. Leading e-commerce platforms have the logistical capability and reach to deliver products from remote rural areas to urban locations.\nIII. Rural artisans do not currently have any other means of livelihood apart from selling handicrafts.",
+      "options": [
+        "Only I and III are implicit",
+        "Only I and II are implicit",
+        "Only II and III are implicit",
+        "All I, II and III are implicit"
+      ],
+      "answer": 1,
+      "explanation": "Assumption I is implicit because the initiative of selling online to urban consumers assumes there is a viable market and demand among urban consumers for these products. Assumption II is implicit because partnering with e-commerce platforms to deliver products from rural to urban areas assumes that these platforms possess the necessary logistical network to do so. Assumption III is not implicit because the statement aims to 'boost' and 'promote' handicrafts; it does not assume that artisans have absolutely no other source of livelihood."
+    },
+    {
+      "id": "ibps-po-ai-1784274529892-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework issued by the Reserve Bank of India (RBI) for Scheduled Commercial Banks, which of the following is NOT one of the key parameters monitored for invoking PCA?",
+      "options": [
+        "Capital to Risk-Weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (NNPA) Ratio",
+        "Tier 1 Leverage Ratio",
+        "Credit-to-Deposit (CD) Ratio"
+      ],
+      "answer": 3,
+      "explanation": "Under the revised PCA framework of the RBI (effective from January 1, 2022), the three key areas monitored are Capital (CRAR/Common Equity Tier 1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Tier 1 Leverage Ratio). Credit-to-Deposit (CD) Ratio is not a trigger parameter under this framework.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784274529892-1",
+      "section": "General Awareness",
+      "topic": "Financial Markets",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the 'RBI Retail Direct' scheme launched to facilitate investment in government securities by individual investors, which of the following instruments CANNOT be purchased or traded through the Retail Direct Gilt (RDG) Account?",
+      "options": [
+        "Sovereign Gold Bonds (SGBs)",
+        "State Development Loans (SDLs)",
+        "Commercial Papers issued by Private Corporates",
+        "Treasury Bills (T-Bills)"
+      ],
+      "answer": 2,
+      "explanation": "The RBI Retail Direct Scheme allows retail investors to open a Retail Direct Gilt (RDG) Account to invest in Government Securities (G-Secs) such as Government of India Treasury Bills (T-Bills), Dated Securities, State Development Loans (SDLs), and Sovereign Gold Bonds (SGBs). Commercial Papers issued by private corporates are corporate debt instruments and cannot be traded through this portal.",
+      "status": "pending"
     }
   ]
 }

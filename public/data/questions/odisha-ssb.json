@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -4723,6 +4723,234 @@
       ],
       "answer": 2,
       "explanation": "Vocational guidance is the process of assisting an individual to choose an occupation, prepare for it, enter upon it, and progress in it, aligning personal abilities and interests with occupational opportunities."
+    },
+    {
+      "id": "odisha-ssb-ai-1784274607147-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Robert Browning's dramatic monologue \"Fra Lippo Lippi\", who is the Florentine patron that the speaker mentions having worked for, who ultimately protects him from the guards?",
+      "options": [
+        "Cosimo de' Medici",
+        "Lorenzo de' Medici",
+        "Francesco de' Medici",
+        "Giuliano de' Medici"
+      ],
+      "answer": 0,
+      "explanation": "In Robert Browning's poem \"Fra Lippo Lippi\", the monk-painter Lippo is caught by the Florentine night watch. He secures his release by revealing that he is in the employ of the powerful Cosimo de' Medici (\"Cosimo of the Medici\").",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ ନାଟ୍ୟ ଏକକୋକ୍ତି (dramatic monologue) \"ଫ୍ରା ଲିପ୍ପୋ ଲିପ୍ପି\" (Fra Lippo Lippi) ରେ, ବକ୍ତା କେଉଁ ଫ୍ଲୋରେଣ୍ଟାଇନ୍ ପୃଷ୍ଠପୋଷକଙ୍କ ପାଇଁ କାମ କରିଥିବା କଥା ଉଲ୍ଲେଖ କରିଛନ୍ତି, ଯିଏ ଶେଷରେ ତାଙ୍କୁ ଜଗୁଆଳିମାନଙ୍କଠାରୁ ରକ୍ଷା କରନ୍ତି?",
+          "options": [
+            "କୋସିମୋ ଡେ ମେଡିସି (Cosimo de' Medici)",
+            "ଲୋରେଞ୍ଜୋ ଡେ ମେଡିସି (Lorenzo de' Medici)",
+            "ଫ୍ରାନ୍ସେସ୍କୋ ଡେ ମେଡିସି (Francesco de' Medici)",
+            "ଜିଉଲିଆନୋ ଡେ ମେଡିସି (Giuliano de' Medici)"
+          ],
+          "explanation": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ କବିତା \"ଫ୍ରା ଲିପ୍ପୋ ଲିପ୍ପି\" ରେ, ସନ୍ନ୍ୟାସୀ-ଚିତ୍ରକାର ଲିପ୍ପିଙ୍କୁ ଫ୍ଲୋରେନ୍ସର ରାତ୍ରି ଜଗୁଆଳିମାନେ ଧରିଥିଲେ। ସେ ପ୍ରଭାବଶାଳୀ କୋସିମୋ ଡେ ମେଡିସିଙ୍କ ଅଧୀନରେ କାମ କରୁଛନ୍ତି ବୋଲି ପ୍ରକାଶ କରି ନିଜକୁ ମୁକ୍ତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274607147-1",
+      "section": "Subject Knowledge",
+      "topic": "Postcolonialism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In her influential 1988 essay \"Can the Subaltern Speak?\", Gayatri Chakravorty Spivak criticizes which two French intellectuals for neglecting the international division of labor and recreating the colonial subject?",
+      "options": [
+        "Jacques Derrida and Jean-François Lyotard",
+        "Michel Foucault and Gilles Deleuze",
+        "Roland Barthes and Jacques Lacan",
+        "Louis Althusser and Pierre Bourdieu"
+      ],
+      "answer": 1,
+      "explanation": "In \"Can the Subaltern Speak?\", Spivak begins with a critique of a conversation between Michel Foucault and Gilles Deleuze, arguing that their theories of power and representation fail to account for the subaltern in the international division of labor, thereby inadvertently reinstating a sovereign Western subject.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗାୟତ୍ରୀ ଚକ୍ରବର୍ତ୍ତୀ ସ୍ପିଭାକ୍ ତାଙ୍କର ପ୍ରଭାବଶାଳୀ ୧୯୮୮ ପ୍ରବନ୍ଧ \"କ୍ୟାନ୍ ଦି ସବ୍‌ଅଲ୍ଟର୍ଣ୍ଣ ସ୍ପିକ୍?\" (Can the Subaltern Speak?) ରେ ଆନ୍ତର୍ଜାତୀୟ ଶ୍ରମ ବିଭାଜନକୁ ଅବହେଳା କରିବା ଏବଂ ଔପନିବେଶିକ ବିଷୟକୁ ପୁନର୍ବାର ସୃଷ୍ଟି କରିବା ପାଇଁ କେଉଁ ଦୁଇଜଣ ଫରାସୀ ବୁଦ୍ଧିଜୀବୀଙ୍କୁ ସମାଲୋଚନା କରିଛନ୍ତି?",
+          "options": [
+            "ଜାକ୍ ଡେରିଡା ଏବଂ ଜିନ୍-ଫ୍ରାନ୍ସୱା ଲିଓଟାର୍ଡ (Jacques Derrida and Jean-François Lyotard)",
+            "ମିଶେଲ ଫୁକୋ ଏବଂ ଗିଲ୍ସ ଡେଲ୍ୟୁଜ୍ (Michel Foucault and Gilles Deleuze)",
+            "ରୋଲାଣ୍ଡ ବାର୍ଥେସ ଏବଂ ଜାକ୍ ଲାକାନ୍ (Roland Barthes and Jacques Lacan)",
+            "ଲୁଇସ ଅଲଥୁସର ଏବଂ ପିଏର ବୋର୍ଡିଉ (Louis Althusser and Pierre Bourdieu)"
+          ],
+          "explanation": "\"କ୍ୟାନ୍ ଦି ସବ୍‌ଅଲ୍ଟର୍ଣ୍ଣ ସ୍ପିକ୍?\" ପ୍ରବନ୍ଧରେ, ସ୍ପିଭାକ୍ ମିଶେଲ ଫୁକୋ ଏବଂ ଗିଲ୍ସ ଡେଲ୍ୟୁଜ୍‌ଙ୍କ ମଧ୍ୟରେ ହୋଇଥିବା ଏକ ଆଲୋଚନାର ସମାଲୋଚନାରୁ ଆରମ୍ଭ କରିଛନ୍ତି। ସେ ଯୁକ୍ତି ବାଢ଼ିଛନ୍ତି ଯେ ସେମାନଙ୍କର କ୍ଷମତା ଏବଂ ପ୍ରତିନିଧିତ୍ୱର ସିଦ୍ଧାନ୍ତ ଆନ୍ତର୍ଜାତୀୟ ଶ୍ରମ ବିଭାଜନରେ ସବ୍‌ଅଲ୍ଟର୍ଣ୍ଣଙ୍କୁ ଅନ୍ତର୍ଭୁକ୍ତ କରିବାରେ ବିଫଳ ହୋଇଥାଏ, ଯାହାଫଳରେ ଅଜାଣତରେ ଏକ ସାର୍ବଭୌମ ପାଶ୍ଚାତ୍ୟ ବିଷୟବସ୍ତୁକୁ ପୁନର୍ବାର ପ୍ରତିଷ୍ଠା କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274617347-0",
+      "section": "Teaching Aptitude",
+      "topic": "Gagne's Conditions of Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Robert Gagne proposed a hierarchy of eight levels of learning. Which of the following represents the lowest level of learning in Gagne's hierarchy?",
+      "options": [
+        "Signal learning",
+        "Stimulus-response learning",
+        "Chain learning",
+        "Concept learning"
+      ],
+      "answer": 0,
+      "explanation": "In Robert Gagne's hierarchy of learning, the lowest level (Level 1) is 'Signal learning' (which corresponds to classical conditioning), while the highest level (Level 8) is 'Problem-solving'.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେ (Robert Gagne) ଶିକ୍ଷଣର ଆଠଟି ସ୍ତରର ଏକ କ୍ରମିକ ସୋପାନ ପ୍ରସ୍ତାବ କରିଥିଲେ। ଗ୍ୟାଗ୍ନେଙ୍କ ସୋପାନରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଶିକ୍ଷଣର ସର୍ବନିମ୍ନ ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ବ କରେ?",
+          "options": [
+            "ସାଙ୍କେତିକ ଶିକ୍ଷଣ (Signal learning)",
+            "ଉଦ୍ଦୀପକ-ଅନୁକ୍ରିୟା ଶିକ୍ଷଣ (Stimulus-response learning)",
+            "ଶୃଙ୍ଖଳା ଶିକ୍ଷଣ (Chain learning)",
+            "ଧାରଣା ଶିକ୍ଷଣ (Concept learning)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେଙ୍କ ଶିକ୍ଷଣର କ୍ରମିକ ସୋପାନରେ, ସର୍ବନିମ୍ନ ସ୍ତର (ସ୍ତର ୧) ହେଉଛି 'ସାଙ୍କେତିକ ଶିକ୍ଷଣ' (Signal learning), ଯାହା ପାଭଲଭ୍‌ଙ୍କ କ୍ଲାସିକାଲ୍ କଣ୍ଡିସନିଂ ଉପରେ ଆଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274617347-1",
+      "section": "Teaching Aptitude",
+      "topic": "Teacher Education Commissions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Justice Verma Commission (JVC) on Teacher Education was constituted by the Supreme Court of India in 2011. Which of the following was a major recommendation of this commission?",
+      "options": [
+        "Reducing the duration of B.Ed. and M.Ed. programmes to one year to meet teacher demand",
+        "Enhancing the duration of B.Ed. and M.Ed. programmes to two years and establishing a teacher education registry",
+        "Entrusting the entire teacher education regulation to the state universities instead of NCTE",
+        "Replacing all physical teacher training institutes with open and distance learning modes"
+      ],
+      "answer": 1,
+      "explanation": "The Justice Verma Commission (2012 report) recommended increasing the duration of B.Ed. and M.Ed. programmes to two years to improve the quality of teacher education in India, and emphasized strict regulatory oversight.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷକ ଶିକ୍ଷା ଉପରେ ଜଷ୍ଟିସ ବର୍ମା କମିଶନ (JVC) ୨୦୧୧ ମସିହାରେ ଭାରତର ସର୍ବୋଚ୍ଚ ନ୍ୟାୟାଳୟଙ୍କ ଦ୍ୱାରା ଗଠିତ ହୋଇଥିଲା। ଏହି କମିଶନଙ୍କର ଏକ ପ୍ରମୁଖ ସୁପାରିଶ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଥିଲା?",
+          "options": [
+            "ଶିକ୍ଷକ ଚାହିଦା ପୂରଣ ପାଇଁ ବି.ଇଡି. ଏବଂ ଏମ.ଇଡି. ପାଠ୍ୟକ୍ରମର ଅବଧିକୁ ଏକ ବର୍ଷକୁ ହ୍ରାସ କରିବା",
+            "ବି.ଇଡି. ଏବଂ ଏମ.ଇଡି. ପାଠ୍ୟକ୍ରମର ଅବଧିକୁ ଦୁଇ ବର୍ଷକୁ ବୃଦ୍ଧି କରିବା ଏବଂ ଏକ ଶିକ୍ଷକ ଶିକ୍ଷା ପଞ୍ଜିକରଣ ପ୍ରତିଷ୍ଠା କରିବା",
+            "ଏନସିଟିଇ (NCTE) ବଦଳରେ ସମଗ୍ର ଶିକ୍ଷକ ଶିକ୍ଷା ନିୟନ୍ତ୍ରଣକୁ ରାଜ୍ୟ ବିଶ୍ୱବିଦ୍ୟାଳୟଗୁଡ଼ିକୁ ହସ୍ତାନ୍ତର କରିବା",
+            "ସମସ୍ତ ଭୌତିକ ଶିକ୍ଷକ ପ୍ରଶିକ୍ଷଣ ପ୍ରତିଷ୍ଠାନକୁ ମୁକ୍ତ ଏବଂ ଦୂର ଶିକ୍ଷା ମାଧ୍ୟମ ଦ୍ୱାରା ବଦଳାଇବା"
+          ],
+          "explanation": "ଜଷ୍ଟିସ ବର୍ମା କମିଶନ (୨୦୧୨ ରିପୋର୍ଟ) ଶିକ୍ଷକ ଶିକ୍ଷାର ଗୁଣବତ୍ତା ବୃଦ୍ଧି ପାଇଁ ବି.ଇଡି. ଏବଂ ଏମ.ଇଡି. ପାଠ୍ୟକ୍ରମର ଅବଧିକୁ ଦୁଇ ବର୍ଷ କରିବାକୁ ସୁପାରିଶ କରିଥିଲେ ଏବଂ ଏହାର ନିୟାମକ ବ୍ୟବସ୍ଥାକୁ କଡ଼ାକଡ଼ି କରିବା ଉପରେ ଗୁରୁତ୍ୱ ଦେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274633128-0",
+      "section": "General Studies",
+      "topic": "Modern Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the editor of 'Utkal Deepika', the first weekly Odia newspaper, which started publication in 1866?",
+      "options": [
+        "Gopabandhu Das",
+        "Gouri Shankar Ray",
+        "Madhusudan Rao",
+        "Fakir Mohan Senapati"
+      ],
+      "answer": 1,
+      "explanation": "'Utkal Deepika', first published on August 4, 1866, was the first Odia weekly newspaper. It was edited by Gouri Shankar Ray and printed at the Cuttack Printing Company. It played a pivotal role during the Na'Anka Famine and the Odia language movement.",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାରେ ପ୍ରକାଶିତ ହୋଇଥିବା ପ୍ରଥମ ଓଡ଼ିଆ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା'ର ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋପabandhu ଦାସ",
+            "ଗୌରୀଶଙ୍କର ରାୟ",
+            "ମଧୁସୂଦନ ରାଓ",
+            "ଫକୀର ମୋହନ ସେନାପତି"
+          ],
+          "explanation": "୧୮୬୬ ମସିହା ଅଗଷ୍ଟ ୪ ତାରିଖରେ ପ୍ରଥମ କରି ପ୍ରକାଶିତ 'ଉତ୍କଳ ଦୀପିକା' ଥିଲା ଓଡ଼ିଶାର ପ୍ରଥମ ଓଡ଼ିଆ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର। ଏହାର ସମ୍ପାଦକ ଗୌରୀଶଙ୍କର ରାୟ ଥିଲେ ଏବଂ ଏହା କଟକ ପ୍ରିଣ୍ଟିଂ କମ୍ପାନୀରୁ ମୁଦ୍ରିତ ହେଉଥିଲା। ଏହା ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ଏବଂ ଓଡ଼ିଆ ଭାଷା ଆନ୍ଦୋଳନ ସମୟରେ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274633128-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which famous waterfall in Odisha, formed by the Machhkund River, is also known as 'Matsya Tirtha'?",
+      "options": [
+        "Barehipani Waterfall",
+        "Khandadhar Waterfall",
+        "Duduma Waterfall",
+        "Joranda Waterfall"
+      ],
+      "answer": 2,
+      "explanation": "The Duduma Waterfall, located in the Koraput district of Odisha, is formed by the Machhkund River. It is a major source of hydroelectric power and is also traditionally known as 'Matsya Tirtha'.",
+      "translations": {
+        "or": {
+          "question": "ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା ଓଡ଼ିଶାର କେଉଁ ପ୍ରସିଦ୍ଧ ଜଳପ୍ରପାତ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା?",
+          "options": [
+            "ବରେହିପାଣି ଜଳପ୍ରପାତ",
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ଡୁଡୁମା ଜଳପ୍ରପାତ",
+            "ଯୋରନ୍ଦା ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଡୁଡୁମା ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି। ଏହା ଜଳବିଦ୍ୟୁତ ଶକ୍ତିର ଏକ ପ୍ରମୁଖ ଉତ୍ସ ଏବଂ ପାରମ୍ପରିକ ଭାବରେ ଏହା 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ଭାବରେ ମଧ୍ୟ ପରିଚିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274647359-0",
+      "section": "Odisha GK",
+      "topic": "History of Ancient and Medieval Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga dynasty shifted the capital of his kingdom from Kalinganagara to Abhinava Varanasi Kataka (modern Cuttack)?",
+      "options": [
+        "Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimha Deva I",
+        "Bhanu Deva I"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III (reign 1211–1238 AD) founded the city of Abhinava Varanasi Kataka (modern Cuttack) and shifted his capital there from Kalinganagara for better strategic and administrative control.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ନିଜ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବ",
+            "ପ୍ରଥମ ନରସିଂହ ଦେବ",
+            "ପ୍ରଥମ ଭାନୁ ଦେବ"
+          ],
+          "explanation": "ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବ (୧୨୧୧-୧୨୩୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ଉତ୍ତମ ରଣନୀତିକ ଏବଂ ପ୍ରଶାସନିକ ନିୟନ୍ତ୍ରଣ ପାଇଁ ନିଜର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784274647359-1",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was appointed as the first Commissioner of Orissa (Cuttack Division) when the office of the Commissioner was created in 1818?",
+      "options": [
+        "Robert Ker",
+        "William Trower",
+        "John Beames",
+        "Thomas Edward Ravenshaw"
+      ],
+      "answer": 0,
+      "explanation": "Following the Paika Rebellion and subsequent administrative restructuring by the British East India Company, the office of the Commissioner of Cuttack (Orissa Division) was created in 1818, and Robert Ker was appointed as its first Commissioner.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୧୮ ମସିହାରେ ଯେତେବେଳେ କମିଶନରଙ୍କ କାର୍ଯ୍ୟାଳୟ ସୃଷ୍ଟି କରାଯାଇଥିଲା, ଓଡ଼ିଶା (କଟକ ବିଭାଗ) ର ପ୍ରଥମ କମିଶନର ଭାବରେ କାହାକୁ ନିଯୁକ୍ତ କରାଯାଇଥିଲା?",
+          "options": [
+            "ରବର୍ଟ କେର୍",
+            "ୱିଲିୟମ ଟ୍ରୋୱର",
+            "ଜନ୍ ବିମ୍ସ",
+            "ଥୋମାସ ଏଡୱାର୍ଡ ରେଭେନ୍ସା"
+          ],
+          "explanation": "ପାଇକ ବିଦ୍ରୋହ ଏବଂ ପରବର୍ତ୍ତୀ ସମୟରେ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ଦ୍ୱାରା ପ୍ରଶାସନିକ ପୁନର୍ଗଠନ ପରେ, ୧୮୧୮ ମସିହାରେ କଟକ (ଓଡ଼ିଶା ବିଭାଗ) ର କମିଶନରଙ୍କ କାର୍ଯ୍ୟାଳୟ ସୃଷ୍ଟି କରାଯାଇଥିଲା ଏବଂ ରବର୍ଟ କେର୍‌ଙ୍କୁ ଏହାର ପ୍ରଥମ କମିଶନର ଭାବରେ ନିଯୁକ୍ତ କରାଯାଇଥିଲା।"
+        }
+      }
     }
   ]
 }

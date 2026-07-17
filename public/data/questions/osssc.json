@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -3794,6 +3794,120 @@
             "କଳାହାଣ୍ଡି"
           ],
           "explanation": "ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ସମ୍ବଲପୁର ହିତୈଷିଣୀ' ୩୦ ମେ ୧୮୮୯ ରେ ବାମଣ୍ଡା ଗଡ଼ଜାତ ରାଜ୍ୟର ରାଜା ବାସୁଦେବ ସୁଢ଼ଳ ଦେବଙ୍କ ରାଜକୀୟ ପୃଷ୍ଠପୋଷକତାରେ ଏବଂ ପଣ୍ଡିତ ନୀଳମଣି ବିଦ୍ୟାରତ୍ନଙ୍କ ସମ୍ପାଦକତ୍ୱରେ ପ୍ରଥମେ ପ୍ରକାଶିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784274548104-0",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B, and C start a business with their investments in the ratio 3 : 4 : 5. After 4 months, A withdraws 1/3rd of his investment, while B increases his investment by 25%. After 8 months, C withdraws 20% of his investment. If the total annual profit is Rs. 1,68,000, find C's share of the profit.",
+      "options": [
+        "Rs. 67,200",
+        "Rs. 56,000",
+        "Rs. 72,000",
+        "Rs. 64,800"
+      ],
+      "answer": 0,
+      "explanation": "Let initial investments be 3x, 4x, and 5x. Total investment value for 12 months: A = (3x * 4) + (2x * 8) = 28x. B = (4x * 4) + (5x * 8) = 56x. C = (5x * 8) + (4x * 4) = 56x. The profit sharing ratio of A : B : C = 28 : 56 : 56 = 1 : 2 : 2. C's share = (2/5) * Rs. 1,68,000 = Rs. 67,200.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଯଥାକ୍ରମେ 3 : 4 : 5 ଅନୁପାତରେ ନିବେଶ କରି ଏକ ବ୍ୟବସାୟ ଆରମ୍ଭ କରନ୍ତି। 4 ମାସ ପରେ, A ତାଙ୍କ ନିବେଶର 1/3 ଭାଗ ପ୍ରତ୍ୟାହାର କରନ୍ତି, ଏବଂ B ତାଙ୍କ ନିବେଶକୁ 25% ବୃଦ୍ଧି କରନ୍ତି। 8 ମାସ ପରେ, C ତାଙ୍କ ନିବେଶର 20% ପ୍ରତ୍ୟାହାର କରନ୍ତି। ଯଦି ବାର୍ଷିକ ମୋଟ ଲାଭ ଟ. 1,68,000 ହୁଏ, ତେବେ ଲାଭରେ C ର ଅଂଶ କେତେ?",
+          "options": [
+            "ଟ. 67,200",
+            "ଟ. 56,000",
+            "ଟ. 72,000",
+            "ଟ. 64,800"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ପ୍ରାରମ୍ଭିକ ନିବେଶ 3x, 4x, ଏବଂ 5x ଅଟେ। 12 ମାସ ପାଇଁ ମୋଟ ନିବେଶ ମୂଲ୍ୟ: A = (3x * 4) + (2x * 8) = 28x. B = (4x * 4) + (5x * 8) = 56x. C = (5x * 8) + (4x * 4) = 56x। ଲାଭ ବଣ୍ଟନ ଅନୁପାତ A : B : C = 28 : 56 : 56 = 1 : 2 : 2। C ର ଅଂଶ = (2/5) * ଟ. 1,68,000 = ଟ. 67,200।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784274548104-1",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A train starts from Station P at 8:00 AM towards Station Q at a speed of 60 km/h. Another train starts from Station Q at 9:00 AM towards Station P at a speed of 75 km/h. If the distance between Station P and Station Q is 330 km, at what time will they meet each other?",
+      "options": [
+        "11:30 AM",
+        "11:00 AM",
+        "10:45 AM",
+        "12:00 PM"
+      ],
+      "answer": 1,
+      "explanation": "By 9:00 AM, the first train has traveled for 1 hour at 60 km/h, covering 60 km. The remaining distance between P and Q is 330 - 60 = 270 km. Since they are moving in opposite directions, their relative speed is 60 + 75 = 135 km/h. Time taken to meet = 270 / 135 = 2 hours. Meeting time is 9:00 AM + 2 hours = 11:00 AM.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ଟ୍ରେନ୍ ଷ୍ଟେସନ P ରୁ ସକାଳ 8:00 ଟାରେ ଘଣ୍ଟା ପ୍ରତି 60 କିମି ବେଗରେ ଷ୍ଟେସନ Q ଆଡକୁ ଯାତ୍ରା ଆରମ୍ଭ କରେ। ଅନ୍ୟ ଏକ ଟ୍ରେନ୍ ଷ୍ଟେସନ Q ରୁ ସକାଳ 9:00 ଟାରେ ଘଣ୍ଟା ପ୍ରତି 75 କିମି ବେଗରେ ଷ୍ଟେସନ P ଆଡକୁ ଯାତ୍ରା ଆରମ୍ଭ କରେ। ଯଦି ଷ୍ଟେସନ P ଏବଂ ଷ୍ଟେସନ Q ମଧ୍ୟରେ ଦୂରତା 330 କିମି ହୁଏ, ତେବେ ସେମାନେ କେଉଁ ସମୟରେ ପରସ୍ପରକୁ ଭେଟିବେ?",
+          "options": [
+            "ସକାଳ 11:30",
+            "ସକାଳ 11:00",
+            "ସକାଳ 10:45",
+            "ମଧ୍ୟାହ୍ନ 12:00"
+          ],
+          "explanation": "ସକାଳ 9:00 ସୁଦ୍ଧା, ପ୍ରଥମ ଟ୍ରେନ୍ 60 କିମି/ଘଣ୍ଟା ବେଗରେ 1 ଘଣ୍ଟା ଯାତ୍ରା କରି 60 କିମି ଅତିକ୍ରମ କରିସାରିଛି। P ଏବଂ Q ମଧ୍ୟରେ ଅବଶିଷ୍ଟ ଦୂରତା = 330 - 60 = 270 କିମି। ସେମାନେ ପରସ୍ପରର ବିପରୀତ ଦିଗରେ ଗତି କରୁଥିବାରୁ, ସେମାନଙ୍କର ଆପେକ୍ଷିକ ବେଗ = 60 + 75 = 135 କିମି/ଘଣ୍ଟା। ସାକ୍ଷାତ ହେବା ପାଇଁ ସମୟ = 270 / 135 = 2 ଘଣ୍ଟା। ସାକ୍ଷାତ ସମୟ ହେଉଛି ସକାଳ 9:00 + 2 ଘଣ୍ଟା = ସକାଳ 11:00।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784274575481-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Baitarani River, one of the major rivers of Odisha, originates from which of the following hills?",
+      "options": [
+        "Devgiri Hills",
+        "Gonasika Hills",
+        "Mahendragiri Hills",
+        "Malayagiri Hills"
+      ],
+      "answer": 1,
+      "explanation": "The Baitarani River originates from the Gonasika (also known as Guptaganga) hills in the Keonjhar district of Odisha at an elevation of about 900 meters.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଅନ୍ୟତମ ପ୍ରମୁଖ ନଦୀ ବୈତରଣୀ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି?",
+          "options": [
+            "ଦେବଗିରି ପାହାଡ଼",
+            "ଗୋନାସିକା ପାହାଡ଼",
+            "ମହେନ୍ଦ୍ରଗିରି ପାହାଡ଼",
+            "ମଳୟଗିରି ପାହାଡ଼"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା (ଗୁପ୍ତଗଙ୍ଗା ଭାବେ ମଧ୍ୟ ଜଣାଶୁଣା) ପାହାଡ଼ରୁ ପ୍ରାୟ ୯୦୦ ମିଟର ଉଚ୍ଚତାରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784274575481-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who presided over the historic first session of the Utkal Union Conference (Utkal Sammilani) held at Cuttack in December 1903?",
+      "options": [
+        "Madhusudan Das",
+        "Maharaja Sriram Chandra Bhanj Deo",
+        "Maharaja Krushna Chandra Gajapati",
+        "Radhanath Ray"
+      ],
+      "answer": 1,
+      "explanation": "The historic first session of the Utkal Union Conference (Utkal Sammilani) was held on 30-31 December 1903 at Cuttack. It was presided over by Maharaja Sriram Chandra Bhanj Deo of Mayurbhanj, while Madhusudan Das was the primary organizer.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୩ ମସିହା ଡିସେମ୍ବରରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ଉତ୍କଳ ସମ୍ମିଳନୀର ଐତିହାସିକ ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ସଭାପତିତ୍ୱ କରିଥିଲେ?",
+          "options": [
+            "ମଧୁସୂଦନ ଦାସ",
+            "ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ରାଧାନାଥ ରାୟ"
+          ],
+          "explanation": "ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଐତିହାସିକ ଅଧିବେଶନ ୩୦-୩୧ ଡିସେମ୍ବର ୧୯୦୩ ରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା। ଏଥିରେ ମୟୂରଭଞ୍ଜର ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ ସଭାପତିତ୍ୱ କରିଥିବାବେଳେ ମଧୁସୂଦନ ଦାସ ଏହାର ମୁଖ୍ୟ ଆୟୋଜକ ଥିଲେ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -2769,6 +2769,176 @@
       ],
       "answer": 2,
       "explanation": "Vocational guidance is the process of assisting an individual to choose an occupation, prepare for it, enter upon it, and progress in it, aligning personal abilities and interests with occupational opportunities."
+    },
+    {
+      "id": "pgt-ai-1784274734483-0",
+      "section": "Teaching Aptitude",
+      "topic": "Ausubel's Subsumption Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to David Ausubel's theory of meaningful reception learning, what process occurs when new learning material is an extension, elaboration, modification, or qualification of previously learned ideas?",
+      "options": [
+        "Derivative Subsumption",
+        "Correlative Subsumption",
+        "Superordinate Learning",
+        "Combinatorial Learning"
+      ],
+      "answer": 1,
+      "explanation": "In David Ausubel's Subsumption Theory, 'Correlative Subsumption' occurs when the new information is an extension, elaboration, modification, or qualification of previously learned concepts. In contrast, 'Derivative Subsumption' occurs when the new material is a direct, predictable example of an already established concept.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ ଅର୍ଥପୂର୍ଣ୍ଣ ଗ୍ରହଣ ଶିକ୍ଷଣ ସିଦ୍ଧାନ୍ତ (meaningful reception learning) ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ଶିକ୍ଷଣ ସାମଗ୍ରୀ ପୂର୍ବରୁ ଶିଖିଥିବା ଧାରଣାର ଏକ ସମ୍ପ୍ରସାରଣ, ବିସ୍ତାରୀକରଣ, ରୂପାନ୍ତର କିମ୍ବା ଯୋଗ୍ୟତା ଅଟେ, ସେତେବେଳେ କେଉଁ ପ୍ରକ୍ରିୟା ସଂଗଠିତ ହୁଏ?",
+          "options": [
+            "ବ୍ୟୁତପନ୍ନ ସମାବେଶ (Derivative Subsumption)",
+            "ସହସମ୍ବନ୍ଧୀୟ ସମାବେଶ (Correlative Subsumption)",
+            "ଉଚ୍ଚକୋଟୀର ଶିକ୍ଷଣ (Superordinate Learning)",
+            "ସଂଯୋଜକ ଶିକ୍ଷଣ (Combinatorial Learning)"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ ସମାବେଶ ସିଦ୍ଧାନ୍ତରେ, 'ସହସମ୍ବନ୍ଧୀୟ ସମାବେଶ' (Correlative Subsumption) ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ନୂତନ ସୂଚନା ପୂର୍ବରୁ ଶିଖିଥିବା ଧାରଣାଗୁଡ଼ିକର ଏକ ସମ୍ପ୍ରସାରଣ, ବିସ୍ତାରୀକରଣ, ରୂପାନ୍ତର କିମ୍ବା ସଂଶୋଧନ ଅଟେ। ଅନ୍ୟପକ୍ଷରେ, 'ବ୍ୟୁତପନ୍ନ ସମାବେଶ' (Derivative Subsumption) ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ନୂତନ ବିଷୟଟି ପୂର୍ବରୁ ସ୍ଥାପିତ ଏକ ଧାରଣାର ସରଳ କିମ୍ବା ପ୍ରତ୍ୟକ୍ଷ ଉଦାହରଣ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784274734483-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders Interaction Analysis",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS) for analyzing classroom interaction, which categories represent 'Indirect Teacher Influence'?",
+      "options": [
+        "Categories 1, 2, 3, and 4",
+        "Categories 5, 6, and 7",
+        "Categories 8 and 9",
+        "Categories 1, 3, 5, and 7"
+      ],
+      "answer": 0,
+      "explanation": "In FIACS, Categories 1 to 4 (Accepts feeling, Praises or encourages, Accepts or uses ideas of pupils, Asks questions) constitute 'Indirect Teacher Influence'. Categories 5 to 7 constitute 'Direct Teacher Influence', Categories 8 and 9 represent 'Pupil Talk', and Category 10 represents 'Silence or Confusion'.",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ପାଇଁ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ବର୍ଗୀକରଣ ପ୍ରଣାଳୀ (FIACS) ରେ, କେଉଁ ବର୍ଗଗୁଡ଼ିକ 'ପରୋକ୍ଷ ଶିକ୍ଷକ ପ୍ରଭାବ' (Indirect Teacher Influence) କୁ ପ୍ରତିନିଧିତ୍ୱ କରନ୍ତି?",
+          "options": [
+            "ବର୍ଗ ୧, ୨, ୩ ଏବଂ ୪",
+            "ବର୍ଗ ୫, ୬ ଏବଂ ୭",
+            "ବର୍ଗ ୮ ଏବଂ ୯",
+            "ବର୍ଗ ୧, ୩, ୫ ଏବଂ ୭"
+          ],
+          "explanation": "FIACS ରେ, ବର୍ଗ ୧ ରୁ ୪ (ଭାବନାକୁ ଗ୍ରହଣ କରିବା, ପ୍ରଶଂସା କିମ୍ବା ଉତ୍ସାହିତ କରିବା, ଛାତ୍ରମାନଙ୍କର ଧାରଣାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା, ପ୍ରଶ୍ନ ପଚାରିବା) 'ପରୋକ୍ଷ ଶିକ୍ଷକ ପ୍ରଭାବ' ଗଠନ କରେ। ବର୍ଗ ୫ ରୁ ୭ 'ପ୍ରତ୍ୟକ୍ଷ ଶିକ୍ଷକ ପ୍ରଭାବ' ଗଠନ କରେ, ବର୍ଗ ୮ ଏବଂ ୯ 'ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା' ଏବଂ ବର୍ଗ ୧୦ 'ନୀରବତା କିମ୍ବା ବିଭ୍ରାନ୍ତି' କୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784274795861-0",
+      "section": "Subject Knowledge",
+      "topic": "Main Group Chemistry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Wade's rules, what is the classification of the borane cluster [B11H11]4-?",
+      "options": [
+        "Closo",
+        "Nido",
+        "Arachno",
+        "Hypho"
+      ],
+      "answer": 1,
+      "explanation": "According to Wade's rules, the number of skeletal electron pairs (SEP) determines the cluster geometry. For [B11H11]4-, there are 11 B-H units contributing 22 skeletal electrons, and the 4- charge contributes 4 more electrons, giving a total of 26 skeletal electrons (13 pairs). Since the number of boron atoms (n) is 11, the number of skeletal electron pairs is n + 2 (13 pairs), which corresponds to a nido-borane.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱେଡ୍‌ଙ୍କ ନିୟମ (Wade's rules) ଅନୁସାରେ, ବୋରେନ୍ କ୍ଲଷ୍ଟର [B11H11]4- ର ଶ୍ରେଣୀଭୁକ୍ତ କରଣ କ’ଣ ଅଟେ?",
+          "options": [
+            "କ୍ଲୋସୋ (Closo)",
+            "ନିଡୋ (Nido)",
+            "ଆରାକନୋ (Arachno)",
+            "ହାଇଫୋ (Hypho)"
+          ],
+          "explanation": "ୱେଡ୍‌ଙ୍କ ନିୟମ ଅନୁଯାୟୀ, କଙ୍କାଳ ଇଲେକ୍ଟ୍ରନ୍ ଯୋଡ଼ି (skeletal electron pairs - SEP) ସଂଖ୍ୟା କ୍ଲଷ୍ଟରର ଜ୍ୟାମିତି ନିର୍ଦ୍ଧାରଣ କରେ | [B11H11]4- ରେ 11 ଟି B-H ୟୁନିଟ୍ ଅଛି ଯାହା 22 ଟି କଙ୍କାଳ ଇଲେକ୍ଟ୍ରନ୍ ପ୍ରଦାନ କରେ ଏବଂ 4- ଚାର୍ଜ ଆଉ 4 ଟି ଇଲେକ୍ଟ୍ରନ୍ ଯୋଗ କରେ | ଏହିପରି ମୋଟ 26 ଟି କଙ୍କାଳ ଇଲେକ୍ଟ୍ରନ୍ (13 ଯୋଡ଼ି) ମିଳିଥାଏ | ଯେହେତୁ ବୋରନ୍ ପରମାଣୁ ସଂଖ୍ୟା (n) = 11, କଙ୍କାଳ ଇଲେକ୍ଟ୍ରନ୍ ଯୋଡ଼ି ସଂଖ୍ୟା ହେଉଛି n + 2 (13 ଯୋଡ଼ି), ଯାହା ଏକ ନିଡୋ-ବୋରେନ୍ (nido-borane) କୁ ସୂଚିତ କରେ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784274795861-1",
+      "section": "Subject Knowledge",
+      "topic": "Statistical Thermodynamics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "When the zero of energy is taken as the bottom of the potential well, the vibrational partition function (qvib) of a diatomic molecule modeled as a harmonic oscillator is given by which of the following expressions?",
+      "options": [
+        "1 / (1 - e^(-hν/kBT))",
+        "e^(-hν/2kBT) / (1 - e^(-hν/kBT))",
+        "e^(-hν/kBT) / (1 - e^(-hν/2kBT))",
+        "1 / (1 + e^(-hν/kBT))"
+      ],
+      "answer": 1,
+      "explanation": "The energy levels of a harmonic oscillator are given by Ev = (v + 1/2)hν, where v = 0, 1, 2, ... When the zero of energy is defined at the bottom of the potential well, the zero-point energy (1/2 hν) must be included. The partition function is qvib = Σ exp(-Ev/kBT) = Σ exp(-(v+1/2)hν/kBT) = e^(-hν/2kBT) * Σ exp(-vhν/kBT) = e^(-hν/2kBT) / (1 - e^(-hν/kBT)).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଯେତେବେଳେ ଶକ୍ତିର ଶୂନ୍ୟ ବିନ୍ଦୁକୁ ପୋଟେନସିଆଲ୍ ୱେଲ୍ (potential well) ର ନିମ୍ନ ଭାଗ ଭାବରେ ନିଆଯାଏ, ସେତେବେଳେ ହାର୍ମୋନିକ୍ ଅସିଲେଟର (harmonic oscillator) ଭାବରେ ମଡେଲ୍ କରାଯାଇଥିବା ଏକ ଦ୍ୱି-ପରମାଣୁକ ଅଣୁ (diatomic molecule) ର କମ୍ପନ ବିଭାଜନ କାର୍ଯ୍ୟକାରିଣୀ (vibrational partition function - qvib) କେଉଁ ସୂତ୍ର ଦ୍ୱାରା ଦର୍ଶାଯାଏ?",
+          "options": [
+            "1 / (1 - e^(-hν/kBT))",
+            "e^(-hν/2kBT) / (1 - e^(-hν/kBT))",
+            "e^(-hν/kBT) / (1 - e^(-hν/2kBT))",
+            "1 / (1 + e^(-hν/kBT))"
+          ],
+          "explanation": "ଏକ ହାର୍ମୋନିକ୍ ଅସିଲେଟର ପାଇଁ ଶକ୍ତି ସ୍ତରଗୁଡ଼ିକ ହେଉଛି Ev = (v + 1/2)hν, ଯେଉଁଠାରେ v = 0, 1, 2, ... | ଯେତେବେଳେ ଶକ୍ତିର ଶୂନ୍ୟ ବିନ୍ଦୁକୁ ପୋଟେନସିଆଲ୍ ୱେଲ୍‌ର ନିମ୍ନ ଭାଗ ଭାବରେ ନିଆଯାଏ, ସେତେବେଳେ ଶୂନ୍ୟ-ବିନ୍ଦୁ ଶକ୍ତି (1/2 hν) କୁ ମଧ୍ୟ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଏ | ତେଣୁ ବିଭାଜନ କାର୍ଯ୍ୟକାରିଣୀ qvib = Σ exp(-Ev/kBT) = Σ exp(-(v+1/2)hν/kBT) = e^(-hν/2kBT) / (1 - e^(-hν/kBT)) ହୋଇଥାଏ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784274809148-0",
+      "section": "Child Development",
+      "topic": "Adolescent Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "G. Stanley Hall characterized adolescence as a period of 'Storm and Stress' (Sturm und Drang). Which of the following three key components did he identify as characterizing this stage?",
+      "options": [
+        "Conflict with parents, mood disruptions, and risky behavior",
+        "Identity crisis, peer conformity, and cognitive egocentrism",
+        "Role confusion, authority rebellion, and emotional instability",
+        "Moral dilemma, physical growth spurts, and social withdrawal"
+      ],
+      "answer": 0,
+      "explanation": "G. Stanley Hall, often referred to as the father of adolescent psychology, identified three key areas of 'storm and stress' during adolescence: conflict with parents, mood disruptions, and a tendency to engage in risky behaviors.",
+      "translations": {
+        "or": {
+          "question": "ଜି. ଷ୍ଟାନଲି ହଲ୍ କିଶୋର ଅବସ୍ଥାକୁ 'ଝଡ଼ ଏବଂ ଚାପ' (Storm and Stress) ର ସମୟ ଭାବରେ ବର୍ଣ୍ଣନା କରିଛନ୍ତି। ଏହି ପର୍ଯ୍ୟାୟକୁ ବୈଶିଷ୍ଟ୍ୟ ପ୍ରଦାନ କରୁଥିବା ନିମ୍ନଲିଖିତ କେଉଁ ତିନୋଟି ପ୍ରମୁଖ ଉପାଦାନକୁ ସେ ଚିହ୍ନଟ କରିଛନ୍ତି?",
+          "options": [
+            "ପିତାମାତାଙ୍କ ସହ ଦ୍ୱନ୍ଦ୍ୱ, ମନୋଦଶା ବିଗିଡ଼ିବା (mood disruptions) ଏବଂ ବିପଦପୂର୍ଣ୍ଣ ଆଚରଣ",
+            "ପରିଚୟ ସଙ୍କଟ, ସାଥୀମାନଙ୍କ ସହ ସହମତି ଏବଂ ଜ୍ଞାନାତ୍ମକ ଅହଂକେନ୍ଦ୍ରିକତା",
+            "ଭୂମିକା ଦ୍ୱନ୍ଦ୍ୱ, କର୍ତ୍ତୃପକ୍ଷଙ୍କ ବିରୋଧରେ ବିଦ୍ରୋହ ଏବଂ ଭାବପ୍ରବଣ ଅସ୍ଥିରତା",
+            "ନୈତିକ ଦ୍ୱନ୍ଦ୍ୱ, ଶାରୀରିକ ଦ୍ରୁତ ବିକାଶ ଏବଂ ସାମାଜିକ ଦୂରତା"
+          ],
+          "explanation": "ଜି. ଷ୍ଟାନଲି ହଲ୍‌ଙ୍କ 'ଝଡ଼ ଏବଂ ଚାପ' ଧାରଣା ତିନୋଟି ପ୍ରମୁଖ କ୍ଷେତ୍ରକୁ ଚିହ୍ନଟ କରେ: ପିତାମାତାଙ୍କ ସହ ଦ୍ୱନ୍ଦ୍ୱ, ମନୋଦଶା ବିଗିଡ଼ିବା ଏବଂ ବିପଦପୂର୍ଣ୍ଣ ଆଚରଣ, ଯାହା କିଶୋର ଅବସ୍ଥାରେ ହେଉଥିବା ଅଶାନ୍ତିର କ୍ଲାସିକାଲ୍ ବୈଶିଷ୍ଟ୍ୟ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784274809148-1",
+      "section": "Child Development",
+      "topic": "Principles of Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Heinz Werner's orthogenetic principle of development, how does psychological development progress?",
+      "options": [
+        "From a state of relative globality and lack of differentiation to a state of increasing differentiation, articulation, and hierarchic integration",
+        "From individual isolated sensory experiences to a globally unified holistic cognitive schema",
+        "From outer-directed social interactions to inner-directed self-regulated cognitive structures",
+        "From rigid, hierarchically integrated motor responses to flexible, undifferentiated sensory actions"
+      ],
+      "answer": 0,
+      "explanation": "Heinz Werner's orthogenetic principle states that developmental change proceeds from a state of relative globality and lack of differentiation to a state of increasing differentiation, articulation, and hierarchic integration.",
+      "translations": {
+        "or": {
+          "question": "ହେଞ୍ଜ୍ ୱର୍ଣ୍ଣର୍‌ଙ୍କ ବିକାଶର 'ଅର୍ଥୋଜେନେଟିକ୍ ନିୟମ' (orthogenetic principle) ଅନୁଯାୟୀ, ମନୋବୈଜ୍ଞାନିକ ବିକାଶ କିପରି ଅଗ୍ରଗତି କରେ?",
+          "options": [
+            "ଏկ ଆପେକ୍ଷିକ ସାମଗ୍ରିକତା ଏବଂ ଭିନ୍ନତାର ଅଭାବରୁ ବୃଦ୍ଧି ପାଉଥିବା ଭିନ୍ନତା, ସ୍ପଷ୍ଟତା ଏବଂ ଶ୍ରେଣୀବଦ୍ଧ ଏକୀକରଣର ଅବସ୍ଥାକୁ",
+            "ବ୍ୟକ୍ତିଗତ ପୃଥକ ସାଂବେଦିକ ଅନୁଭୂତିରୁ ଏକ ବିଶ୍ୱସ୍ତରୀୟ ଏକୀକୃତ ସାମଗ୍ରିକ ଜ୍ଞାନାତ୍ମକ ସ୍କିମାକୁ",
+            "ବାହ୍ୟ-ନିର୍ଦ୍ଦେଶିତ ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟାରୁ ଆଭ୍ୟନ୍ତରୀଣ-ନିର୍ଦ୍ଦେଶିତ ସ୍ୱ-ନିୟନ୍ତ୍ରିତ ଜ୍ଞାନାତ୍ମକ ସଂରଚନାକୁ",
+            "ଦୃଢ଼, ଶ୍ରେଣୀବଦ୍ଧ ଭାବେ ଏକୀକୃତ ମୋଟର ପ୍ରତିକ୍ରିୟାରୁ ନମନୀୟ, ଅବିଭକ୍ତ ସାଂବେଦିକ କାର୍ଯ୍ୟକୁ"
+          ],
+          "explanation": "ହେଞ୍ଜ୍ ୱର୍ଣ୍ଣର୍‌ଙ୍କ ଅର୍ଥୋଜେନେଟିକ୍ ନିୟମ ଦର୍ଶାଏ ଯେ ବିକାଶ ଏକ ଆପେକ୍ଷିକ ସାମଗ୍ରିକତା ଏବଂ ଭିନ୍ନତାର ଅଭାବରୁ ବୃଦ୍ଧି ପାଉଥିବା ଭିନ୍ନତା, ସ୍ପଷ୍ଟତା ଏବଂ ଶ୍ରେଣୀବଦ୍ଧ ଏକୀକରଣ ଆଡକୁ ଗତି କରିଥାଏ।"
+        }
+      }
     }
   ]
 }

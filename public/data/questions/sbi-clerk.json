@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -3573,6 +3573,136 @@
       ],
       "answer": 1,
       "explanation": "Lichens absorb water and nutrients directly from the air rather than through roots. Because they are highly sensitive to sulfur dioxide (SO2), their presence, health, or absence serves as a reliable bio-indicator of local air quality."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274429095-0",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper mixes two varieties of rice, Variety A costing Rs. 40 per kg and Variety B costing Rs. 60 per kg, in the ratio of 3 : 2. If he sells the mixed variety of rice at Rs. 54 per kg, what is his profit percentage?",
+      "options": [
+        "10% profit",
+        "12% profit",
+        "12.5% profit",
+        "15% profit"
+      ],
+      "answer": 2,
+      "explanation": "Let the quantity of Variety A be 3 kg and Variety B be 2 kg. Total cost price (CP) of 5 kg of the mixture = (3 * 40) + (2 * 60) = 120 + 120 = Rs. 240. The cost price per kg of the mixture = 240 / 5 = Rs. 48. The selling price (SP) is Rs. 54 per kg. Profit per kg = SP - CP = 54 - 48 = Rs. 6. Profit percentage = (Profit / CP) * 100 = (6 / 48) * 100 = 12.5%."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274429095-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A certain sum of money is invested in Scheme A which offers simple interest at 15% p.a. for 4 years. The same sum is invested in Scheme B which offers compound interest (compounded annually) at 10% p.a. for 2 years. If the difference between the interest earned from Scheme A and Scheme B is Rs. 1,560, find the sum invested.",
+      "options": [
+        "Rs. 3,600",
+        "Rs. 4,000",
+        "Rs. 4,500",
+        "Rs. 5,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal sum be P. Interest from Scheme A (Simple Interest) = (P * 15 * 4) / 100 = 0.60P. Interest from Scheme B (Compound Interest) for 2 years at 10% = P * [(1 + 10/100)^2 - 1] = P * [1.21 - 1] = 0.21P. According to the question, Difference = 0.60P - 0.21P = 1,560 => 0.39P = 1,560 => P = 1,560 / 0.39 = Rs. 4,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274446327-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain coded language, 'P & Q' means 'P is the mother of Q', 'P % Q' means 'P is the brother of Q', and 'P $ Q' means 'P is the daughter of Q'. If the expression 'A & B % C $ D % E' is true, then how is B related to E?",
+      "options": [
+        "Uncle",
+        "Nephew",
+        "Niece",
+        "Son"
+      ],
+      "answer": 1,
+      "explanation": "From the expression 'A & B % C $ D % E':\n1. 'A & B' means A is the mother of B (Female).\n2. 'B % C' means B is the brother of C (B is Male).\n3. 'C $ D' means C is the daughter of D (C is Female). Since A is the mother of B and B is C's brother, A is also the mother of C. Thus, D must be the father of C (and B), making D a male married to A.\n4. 'D % E' means D is the brother of E.\nSince D is the father of B and D is the brother of E, B is the nephew of E."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274446327-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the statements and decide which of the given conclusions logically follow(s) from the statements, disregarding commonly known facts.\n\nStatements:\n1. Only a few markers are pens.\n2. No pen is an eraser.\n3. All erasers are pencils.\n\nConclusions:\nI. Some markers are not erasers.\nII. All markers being erasers is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few markers are pens' implies some markers are pens and some markers are not pens.\n2. 'No pen is an eraser' means there is no overlap between pens and erasers.\n3. Since some markers are pens, those markers can never be erasers (as no pen is an eraser). Therefore, 'Some markers are not erasers' (Conclusion I) is definitely true and follows.\n4. Since some markers are pens, and no pen is an eraser, those markers can never be erasers. Thus, all markers can never be erasers, which means 'All markers being erasers is a possibility' (Conclusion II) is false and does not follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274460868-0",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the grammatically correct sentence from the options below.",
+      "options": [
+        "Every one of the survivors of the shipwreck were rescued by the coast guard.",
+        "Not only the students but also their instructor was pleased with the results of the final exam.",
+        "A number of applicants has increased significantly compared to last year's cycle.",
+        "The committee has differed in their opinions regarding the new policy changes."
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct. In a 'not only... but also' structure, the verb agrees with the closer subject ('their instructor', which is singular, hence 'was'). Option A is incorrect because 'Every one' is singular and requires 'was'. Option C is incorrect because 'A number of' takes a plural verb, whereas 'The number of' takes a singular verb; it should be 'The number of applicants has...' or 'A number of applicants have...'. Option D is incorrect because when members of a collective noun ('committee') differ or are divided, the noun takes a plural verb ('have differed in their opinions')."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274460868-1",
+      "section": "English",
+      "topic": "Subjunctive Mood",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Select the sentence that demonstrates the correct use of the subjunctive mood and parallel structure.",
+      "options": [
+        "The board recommended that the CEO steps down and a new strategy is implemented immediately.",
+        "The board recommended that the CEO step down and a new strategy be implemented immediately.",
+        "The board recommended that the CEO step down and a new strategy is implemented immediately.",
+        "The board recommended that the CEO steps down and a new strategy be implemented immediately."
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct. Verbs of demand, recommendation, or request (like 'recommended') require the subjunctive mood in the subsequent 'that' clause. The subjunctive mood uses the bare infinitive form of the verb ('step' instead of 'steps' or 'stepped', and 'be' instead of 'is' or 'was') regardless of the subject's number or tense. To maintain parallel structure, both clauses ('the CEO step down' and 'a new strategy be implemented') must use the subjunctive form."
+    },
+    {
+      "id": "sbi-clerk-ai-1784274467087-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following financial metrics is NOT one of the key areas monitored under the Reserve Bank of India's (RBI) revised Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks?",
+      "options": [
+        "Capital to Risk-weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (Net NPA) ratio",
+        "Leverage Ratio",
+        "Credit-to-Deposit (CD) Ratio"
+      ],
+      "answer": 3,
+      "explanation": "The RBI's revised PCA framework monitors three key areas: Capital (CRAR and Common Equity Tier 1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Leverage Ratio). The Credit-to-Deposit (CD) Ratio is not a monitoring metric under the PCA framework.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784274467087-1",
+      "section": "General Awareness",
+      "topic": "Financial Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme issued by the Reserve Bank of India on behalf of the Government of India, what is the maximum limit of subscription permitted per fiscal year for Trusts and similar entities?",
+      "options": [
+        "4 kg",
+        "8 kg",
+        "20 kg",
+        "50 kg"
+      ],
+      "answer": 2,
+      "explanation": "Under the Sovereign Gold Bond (SGB) scheme, the maximum limit of subscription is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities per fiscal year.",
+      "status": "pending"
     }
   ]
 }

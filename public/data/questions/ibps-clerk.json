@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -3672,6 +3672,136 @@
       ],
       "answer": 1,
       "explanation": "Lichens absorb water and nutrients directly from the air rather than through roots. Because they are highly sensitive to sulfur dioxide (SO2), their presence, health, or absence serves as a reliable bio-indicator of local air quality."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274375062-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's present age?",
+      "options": [
+        "16 years",
+        "18 years",
+        "20 years",
+        "22 years"
+      ],
+      "answer": 0,
+      "explanation": "Let the ages of Kunal and Sagar 6 years ago be 6x and 5x respectively. Present age of Kunal = 6x + 6, and Sagar = 5x + 6. Four years hence, their ages will be (6x + 10) and (5x + 10). According to the problem, (6x + 10) / (5x + 10) = 11 / 10. Solving this: 10(6x + 10) = 11(5x + 10) => 60x + 100 = 55x + 110 => 5x = 10 => x = 2. Therefore, Sagar's present age = 5x + 6 = 5(2) + 6 = 16 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274375062-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A is 40% more efficient than B. Working together, they can complete a certain work in 15 days. In how many days can A alone complete 70% of the same work?",
+      "options": [
+        "15 days",
+        "18 days",
+        "21 days",
+        "24 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the efficiency of B be 5 units/day. Since A is 40% more efficient than B, A's efficiency = 5 + (40% of 5) = 7 units/day. Combined efficiency of A and B = 7 + 5 = 12 units/day. Total work = Combined efficiency * Number of days = 12 * 15 = 180 units. 70% of the total work = 180 * 0.70 = 126 units. Time taken by A alone to complete 70% of the work = 126 / 7 = 18 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274387024-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point A is 6 meters to the North of Point B. Point C is 8 meters to the East of Point B. Point D is 4 meters to the South of Point C. Point E is 12 meters to the West of Point D. Point F is 10 meters to the North of Point E. What is the shortest distance between Point A and Point F?",
+      "options": [
+        "4 meters",
+        "5 meters",
+        "6 meters",
+        "8 meters"
+      ],
+      "answer": 0,
+      "explanation": "Let us represent the positions on a coordinate plane with B at the origin (0,0).\n- Point B is at (0, 0).\n- Point A is 6m North of B, so A is at (0, 6).\n- Point C is 8m East of B, so C is at (8, 0).\n- Point D is 4m South of C, so D is at (8, -4).\n- Point E is 12m West of D, so E is at (8 - 12, -4) = (-4, -4).\n- Point F is 10m North of E, so F is at (-4, -4 + 10) = (-4, 6).\n\nNow, comparing Point A (0, 6) and Point F (-4, 6), they lie on the same horizontal line (y = 6). The distance between them is |0 - (-4)| = 4 meters."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274387024-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, some statements are given followed by two conclusions. Read the statements and decide which of the given conclusions logically follows.\n\nStatements:\n1. Only a few Rivers are Oceans.\n2. All Oceans are Seas.\n3. No Sea is a Lake.\n\nConclusions:\nI. All Rivers being Oceans is a possibility.\nII. Some Rivers are not Lakes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Rivers are Oceans' means 'Some Rivers are Oceans' and 'Some Rivers are not Oceans'. Therefore, all Rivers can never be Oceans, making Conclusion I ('All Rivers being Oceans is a possibility') incorrect.\n2. Since 'Some Rivers are Oceans' and 'All Oceans are Seas', it implies that those Rivers which are Oceans are also Seas. Since 'No Sea is a Lake', those Rivers which are Seas (and Oceans) can never be Lakes. Hence, Conclusion II ('Some Rivers are not Lakes') is definitely true. Thus, only conclusion II follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274400233-0",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the given sentence, identify the segment that contains a grammatical error.\n\n'Neither the manager nor his subordinates was able to explain the sudden drop in sales during the last quarter.'",
+      "options": [
+        "Neither the manager nor his subordinates",
+        "was able to explain",
+        "the sudden drop in sales",
+        "during the last quarter"
+      ],
+      "answer": 1,
+      "explanation": "According to the rule of proximity, when two subjects are joined by 'neither... nor', the verb agrees with the subject closest to it. Here, the closer subject 'subordinates' is plural, so the plural verb 'were' should be used instead of the singular verb 'was'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274400233-1",
+      "section": "English",
+      "topic": "Vocabulary Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the most appropriate word to fill in the blank and make the sentence grammatically and contextually correct.\n\n'The rising costs of raw materials may __________ against the company's plans to expand its operations this fiscal year.'",
+      "options": [
+        "mitigate",
+        "militate",
+        "oscillate",
+        "moderate"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'militate' (usually followed by 'against') means to have a substantial force or influence in preventing or acting against something. 'Mitigate' means to make less severe and does not take the preposition 'against' in this manner."
+    },
+    {
+      "id": "ibps-clerk-ai-1784274412618-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Liberalised Remittance Scheme (LRS) of the Reserve Bank of India, resident individuals are allowed to freely remit up to what maximum limit per financial year for any permitted current or capital account transaction?",
+      "options": [
+        "USD 100,000",
+        "USD 150,000",
+        "USD 250,000",
+        "USD 500,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the Liberalised Remittance Scheme (LRS), the Reserve Bank of India allows resident individuals to remit up to USD 250,000 per financial year (April-March) for any permitted current or capital account transaction or a combination of both.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784274412618-1",
+      "section": "General Awareness",
+      "topic": "Financial Institutions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The establishment of the National Bank for Agriculture and Rural Development (NABARD) in 1982 was based on the recommendations of which of the following committees?",
+      "options": [
+        "Hilton Young Commission",
+        "B. Sivaraman Committee",
+        "Narasimham Committee",
+        "M. J. Joseph Committee"
+      ],
+      "answer": 1,
+      "explanation": "NABARD was established on 12 July 1982 by transferring the agricultural credit functions of RBI and refinance functions of the then Agricultural Refinance and Development Corporation (ARDC). It was set up on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), which was chaired by Shri B. Sivaraman.",
+      "status": "pending"
     }
   ]
 }
