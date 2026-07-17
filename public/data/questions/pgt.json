@@ -2939,6 +2939,261 @@
           "explanation": "ହେଞ୍ଜ୍ ୱର୍ଣ୍ଣର୍‌ଙ୍କ ଅର୍ଥୋଜେନେଟିକ୍ ନିୟମ ଦର୍ଶାଏ ଯେ ବିକାଶ ଏକ ଆପେକ୍ଷିକ ସାମଗ୍ରିକତା ଏବଂ ଭିନ୍ନତାର ଅଭାବରୁ ବୃଦ୍ଧି ପାଉଥିବା ଭିନ୍ନତା, ସ୍ପଷ୍ଟତା ଏବଂ ଶ୍ରେଣୀବଦ୍ଧ ଏକୀକରଣ ଆଡକୁ ଗତି କରିଥାଏ।"
         }
       }
+    },
+    {
+      "id": "pgt-edu-1784280142620-0",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the acronym 'PARAKH', the National Assessment Centre proposed under the National Education Policy (NEP) 2020, what does the second letter 'A' stand for?",
+      "options": [
+        "Achievement",
+        "Assessment",
+        "Analysis",
+        "Aptitude"
+      ],
+      "answer": 2,
+      "explanation": "PARAKH stands for Performance Assessment, Review, and Analysis of Knowledge for Holistic Development. The first 'A' stands for Assessment, and the second 'A' stands for Analysis."
+    },
+    {
+      "id": "pgt-edu-1784280142620-1",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the cyclical model of Action Research proposed by Stephen Kemmis and Robin McTaggart, which of the following represents the correct sequential order of phases?",
+      "options": [
+        "Plan, Act, Observe, Reflect",
+        "Observe, Plan, Act, Reflect",
+        "Plan, Observe, Act, Reflect",
+        "Act, Observe, Plan, Reflect"
+      ],
+      "answer": 0,
+      "explanation": "The classic action research cycle formulated by Kemmis and McTaggart consists of four steps in order: Plan, Act, Observe, and Reflect."
+    },
+    {
+      "id": "pgt-edu-1784280142620-2",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Section 12(1)(c) of the Right of Children to Free and Compulsory Education (RTE) Act, 2009, what is the mandatory minimum percentage of reservation for children belonging to weaker sections and disadvantaged groups in private unaided schools at the entry-level class?",
+      "options": [
+        "10%",
+        "15%",
+        "25%",
+        "33%"
+      ],
+      "answer": 2,
+      "explanation": "Section 12(1)(c) of the RTE Act mandates that private unaided schools must reserve at least 25% of their entry-level seats for children from economically weaker sections and disadvantaged groups."
+    },
+    {
+      "id": "pgt-edu-1784280142620-3",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "If a distribution of standardized test scores has a mean of 60 and a standard deviation of 8, what will be the corresponding T-score for a student who obtains a raw score of 76?",
+      "options": [
+        "70",
+        "60",
+        "80",
+        "76"
+      ],
+      "answer": 0,
+      "explanation": "First, find the z-score: z = (Raw Score - Mean) / SD = (76 - 60) / 8 = 16 / 8 = 2. Then, convert to T-score using the formula: T = 50 + 10(z) = 50 + 10(2) = 70."
+    },
+    {
+      "id": "pgt-edu-1784280142620-4",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Jacob Kounin identified several dimensions of effective classroom management. Which term describes a teacher's ability to correct misbehavior in one student in a way that positively influences the behavior of other nearby students?",
+      "options": [
+        "Withitness",
+        "Overlapping",
+        "Ripple Effect",
+        "Momentum"
+      ],
+      "answer": 2,
+      "explanation": "The 'Ripple Effect' is Kounin's term for the phenomenon where a teacher's handling of misbehavior by one student influences the behavior of other students who are observing the interaction."
+    },
+    {
+      "id": "pgt-edu-1784280142620-5",
+      "section": "Teaching Aptitude",
+      "topic": "National Curriculum Framework (NCF)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The National Curriculum Framework (NCF) 2005 was formulated based on the recommendations of which famous committee report?",
+      "options": [
+        "Yash Pal Committee Report (Learning Without Burden)",
+        "Kothari Commission",
+        "Mudaliar Commission",
+        "Ramamurti Committee"
+      ],
+      "answer": 0,
+      "explanation": "The formulation of NCF 2005 was highly guided by the recommendations of the Yash Pal Committee Report (1993) titled 'Learning Without Burden'."
+    },
+    {
+      "id": "pgt-edu-1784280142620-6",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the context of language acquisition theories, which scholar proposed the 'Critical Period Hypothesis' (CPH), suggesting that there is a biologically determined window of time during which human beings can acquire a first language natively?",
+      "options": [
+        "Noam Chomsky",
+        "B.F. Skinner",
+        "Eric Lenneberg",
+        "Jean Piaget"
+      ],
+      "answer": 2,
+      "explanation": "The Critical Period Hypothesis was popularised by linguist and neurologist Eric Lenneberg in 1967 in his book 'Biological Foundations of Language'."
+    },
+    {
+      "id": "pgt-edu-1784280142620-7",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the cognitive psychology of memory, what is the term used when newly learned information interferes with the retrieval of previously learned information?",
+      "options": [
+        "Proactive interference",
+        "Retroactive interference",
+        "Anterograde amnesia",
+        "Decay theory"
+      ],
+      "answer": 1,
+      "explanation": "Retroactive interference occurs when newly acquired information disrupts or inhibits the recall of older, previously learned information."
+    },
+    {
+      "id": "pgt-edu-1784280142620-8",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which level of measurement (scale) is characterized by having an absolute or true zero point, allowing for meaningful ratio comparisons?",
+      "options": [
+        "Nominal scale",
+        "Ordinal scale",
+        "Interval scale",
+        "Ratio scale"
+      ],
+      "answer": 3,
+      "explanation": "A ratio scale possesses all the properties of nominal, ordinal, and interval scales, along with an absolute (true) zero point."
+    },
+    {
+      "id": "pgt-edu-1784280142620-9",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the multi-store model of memory proposed by Atkinson and Shiffrin, what is the estimated capacity and duration of the sensory register for visual information (iconic memory)?",
+      "options": [
+        "Limited capacity, duration of about 15 to 30 seconds",
+        "Large capacity, duration of less than a second (about 0.5 seconds)",
+        "Unlimited capacity, permanent duration",
+        "Large capacity, duration of 3 to 4 seconds"
+      ],
+      "answer": 1,
+      "explanation": "Iconic memory (visual sensory register) has a large capacity but a very brief duration, lasting only about 0.5 seconds before decaying."
+    },
+    {
+      "id": "pgt-edu-1784280142620-10",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which leadership style in classroom management is characterized by a 'hands-off' approach, where the teacher provides little to no direction, leaving students to make all decisions?",
+      "options": [
+        "Authoritarian",
+        "Authoritative",
+        "Laissez-faire",
+        "Democratic"
+      ],
+      "answer": 2,
+      "explanation": "A laissez-faire classroom management style is passive and non-directive, permitting students to do as they please with minimal adult intervention."
+    },
+    {
+      "id": "pgt-edu-1784280142620-11",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "NEP 2020 proposes the establishment of a 'National Educational Technology Forum' (NETF) to provide a platform for the free exchange of ideas on the use of technology. What is the designated structural status of NETF?",
+      "options": [
+        "An autonomous body",
+        "A department under UGC",
+        "A statutory body under AICTE",
+        "A division within NCERT"
+      ],
+      "answer": 0,
+      "explanation": "NEP 2020 states that the National Educational Technology Forum (NETF) will be created as an autonomous body to facilitate decision-making on technology deployment."
+    },
+    {
+      "id": "pgt-edu-1784280142620-12",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Section 21 of the RTE Act 2009, a School Management Committee (SMC) must be constituted in every government school. What percentage of the SMC members must be parents or guardians of the children?",
+      "options": [
+        "50%",
+        "75%",
+        "25%",
+        "60%"
+      ],
+      "answer": 1,
+      "explanation": "The RTE Act mandates that at least three-fourths (75%) of the members of the School Management Committee (SMC) must be parents or guardians of the pupils."
+    },
+    {
+      "id": "pgt-edu-1784280142620-13",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Stephen Krashen's Monitor Model of second language acquisition, which hypothesis states that comprehensible input is most effective when it is one step beyond the learner's current stage of linguistic competence?",
+      "options": [
+        "The Acquisition-Learning Hypothesis",
+        "The Monitor Hypothesis",
+        "The Natural Order Hypothesis",
+        "The Input Hypothesis"
+      ],
+      "answer": 3,
+      "explanation": "The Input Hypothesis (i+1) states that language acquisition occurs when learners receive comprehensible input that is slightly above their current level of competence."
+    },
+    {
+      "id": "pgt-edu-1784280142620-14",
+      "section": "Teaching Aptitude",
+      "topic": "National Curriculum Framework (NCF)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the National Curriculum Framework for School Education (NCF-SE) 2023, the 'Pancha Kosha' concept from Indian tradition is utilized to define holistic development. Which of the following components of Pancha Kosha represents the 'intellectual/cognitive' domain?",
+      "options": [
+        "Annamaya Kosha",
+        "Pranamaya Kosha",
+        "Vijnanamaya Kosha",
+        "Manomaya Kosha"
+      ],
+      "answer": 2,
+      "explanation": "According to the Pancha Kosha framework adopted in NCF-SE 2023, Vijnanamaya Kosha represents the intellect/wisdom layer (cognitive domain). Annamaya represents physical, Pranamaya represents life force, and Manomaya represents mind/emotions."
     }
   ]
 }
