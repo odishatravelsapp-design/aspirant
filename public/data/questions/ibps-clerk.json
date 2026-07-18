@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -3801,6 +3801,136 @@
       ],
       "answer": 1,
       "explanation": "NABARD was established on 12 July 1982 by transferring the agricultural credit functions of RBI and refinance functions of the then Agricultural Refinance and Development Corporation (ARDC). It was set up on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), which was chaired by Shri B. Sivaraman.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784358826781-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following equation?\n45% of 160 + ?% of 150 = 120",
+      "options": [
+        "32",
+        "28",
+        "36",
+        "40"
+      ],
+      "answer": 0,
+      "explanation": "First, calculate 45% of 160:\n0.45 * 160 = 72.\nNow, substitute this back into the equation:\n72 + ?% of 150 = 120\n?% of 150 = 120 - 72\n?% of 150 = 48\n(? / 100) * 150 = 48\n1.5 * ? = 48\n? = 48 / 1.5 = 32."
+    },
+    {
+      "id": "ibps-clerk-ai-1784358826782-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio of 7 : 3. From this vessel, 30 liters of mixture is taken out and replaced with 12 liters of water. If the ratio of milk to water now becomes 2 : 1, what was the initial quantity of the mixture in the vessel?",
+      "options": [
+        "240 liters",
+        "270 liters",
+        "300 liters",
+        "180 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial quantity of milk and water be 7k and 3k respectively, so the initial total volume is 10k.\nWhen 30 liters of mixture is removed:\nMilk removed = (7/10) * 30 = 21 liters.\nWater removed = (3/10) * 30 = 9 liters.\nRemaining Milk = 7k - 21.\nRemaining Water = 3k - 9.\nNow, 12 liters of water is added to the mixture:\nNew Water quantity = 3k - 9 + 12 = 3k + 3.\nThe new ratio of milk to water is 2 : 1:\n(7k - 21) / (3k + 3) = 2 / 1\n7k - 21 = 6k + 6\nk = 27.\nInitial quantity of the mixture = 10k = 10 * 27 = 270 liters."
+    },
+    {
+      "id": "ibps-clerk-ai-1784358841904-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'FLASK' is written as '20-14-25-7-15' and 'CRISP' is written as '23-8-17-7-10'. How will 'BLUNT' be written in that code language?",
+      "options": [
+        "24-14-5-12-6",
+        "24-15-5-12-7",
+        "25-14-6-13-6",
+        "24-14-6-12-5"
+      ],
+      "answer": 0,
+      "explanation": "The pattern follows: (Opposite letter position value) - 1. For F, the opposite is U (21), so 21 - 1 = 20. For L, the opposite is O (15), so 15 - 1 = 14. Applying this to BLUNT: B -> Y (25-1=24), L -> O (15-1=14), U -> F (6-1=5), N -> M (13-1=12), T -> G (7-1=6). Thus, BLUNT is coded as 24-14-5-12-6."
+    },
+    {
+      "id": "ibps-clerk-ai-1784358841904-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a family of seven members - A, B, C, D, E, F, and G - there are two married couples and three generations. B is the son-in-law of C, who is the grandfather of G. D is the only sister of F. E is the mother of F. A is married to C. G is the son of E. F is a male. How is F related to A?",
+      "options": [
+        "Grandson",
+        "Son",
+        "Son-in-law",
+        "Grandfather"
+      ],
+      "answer": 0,
+      "explanation": "C is married to A (Generation 1). B is married to E, who is the daughter of C and A (Generation 2). Thus, B is the son-in-law of C. E and B's children are G, D, and F (Generation 3). Since F is a male and belongs to the third generation, F is the grandson of A."
+    },
+    {
+      "id": "ibps-clerk-ai-1784358857089-0",
+      "section": "English",
+      "topic": "Error Detection (Conditional Clauses)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the given sentence, a part of the sentence may contain an error. Identify the grammatically incorrect part.\n\n'If the police would have arrived (A) / a few minutes earlier, (B) / they could have caught (C) / the culprit red-handed. (D)'",
+      "options": [
+        "If the police would have arrived",
+        "a few minutes earlier,",
+        "they could have caught",
+        "the culprit red-handed."
+      ],
+      "answer": 0,
+      "explanation": "In third conditional sentences (expressing a hypothetical past situation and its result), the 'if-clause' uses the past perfect tense ('had + past participle') and the main clause uses 'would/could/might + have + past participle'. Therefore, 'would have arrived' should be replaced with 'had arrived'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784358857089-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence given below, three words printed in bold are marked as (A), (B), and (C). These words may be incorrectly placed. Choose the option that represents the correct rearrangement of these words to make the sentence grammatically and contextually correct.\n\n'The company has **capabilities** (A) a significant portion of its budget to **enhance** (B) its research and development **allocated** (C).'",
+      "options": [
+        "B-A-C",
+        "C-B-A",
+        "A-C-B",
+        "No rearrangement required"
+      ],
+      "answer": 1,
+      "explanation": "The auxiliary verb 'has' must be followed by a past participle verb, which is 'allocated' (C). The noun 'capabilities' (A) fits perfectly at the end of the sentence to complete the noun phrase 'research and development capabilities'. The verb 'enhance' (B) is grammatically correct in its position after the infinitive marker 'to'. Thus, the correct sequence is C-B-A."
+    },
+    {
+      "id": "ibps-clerk-ai-1784358862387-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the overall Priority Sector Lending (PSL) target for domestic commercial banks (excluding Regional Rural Banks and Small Finance Banks) in India?",
+      "options": [
+        "30% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher",
+        "40% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher",
+        "18% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher",
+        "75% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher"
+      ],
+      "answer": 1,
+      "explanation": "According to the Reserve Bank of India (RBI) guidelines, the overall Priority Sector Lending (PSL) target for domestic commercial banks (excluding RRBs and Small Finance Banks) and foreign banks with 20 branches and above is 40% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784358862387-1",
+      "section": "General Awareness",
+      "topic": "International Organizations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The New Development Bank (NDB), established by the BRICS countries, is headquartered in which of the following cities?",
+      "options": [
+        "Beijing, China",
+        "Shanghai, China",
+        "Manila, Philippines",
+        "Johannesburg, South Africa"
+      ],
+      "answer": 1,
+      "explanation": "The New Development Bank (NDB), formerly referred to as the BRICS Development Bank, is a multilateral development bank established by the BRICS states (Brazil, Russia, India, China, and South Africa). It is headquartered in Shanghai, China. (Note: Asian Infrastructure Investment Bank is headquartered in Beijing, and Asian Development Bank is in Manila).",
       "status": "pending"
     }
   ]

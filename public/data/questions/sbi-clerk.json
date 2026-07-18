@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -3703,6 +3703,70 @@
       "answer": 2,
       "explanation": "Under the Sovereign Gold Bond (SGB) scheme, the maximum limit of subscription is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities per fiscal year.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784358882080-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The ratio of the area of a square to that of a circle is 14 : 11. If the perimeter of the square is 42 cm more than the diameter of the circle, find the area of the circle.",
+      "options": [
+        "138.5 cm²",
+        "154 cm²",
+        "112 cm²",
+        "196 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Let the side of the square be 'a' and the radius of the circle be 'r'. Area of the square = a² and Area of the circle = πr² = (22/7)r². Given: a² / [(22/7)r²] = 14/11 => 7a² / 22r² = 14/11 => a² / 2r² = 2 => a² = 4r² => a = 2r. The perimeter of the square is 4a and the diameter of the circle is 2r. Given: 4a - 2r = 42. Substituting a = 2r: 4(2r) - 2r = 42 => 6r = 42 => r = 7 cm. Thus, the area of the circle = πr² = (22/7) * 7 * 7 = 154 cm²."
+    },
+    {
+      "id": "sbi-clerk-ai-1784358882080-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A box contains 6 black cards numbered 1 to 6 and 4 red cards numbered 1 to 4. Two cards are drawn at random one after another without replacement. Find the probability that the first card drawn is even-numbered and the second card drawn is red.",
+      "options": [
+        "1/5",
+        "2/9",
+        "4/15",
+        "3/10"
+      ],
+      "answer": 0,
+      "explanation": "Total cards = 10 (6 Black, 4 Red). Even-numbered cards: Black (2, 4, 6) and Red (2, 4). Case 1: First card is even and red. There are 2 such cards (R2, R4). Probability of choosing one is 2/10. Now, 9 cards are left, of which 3 are red. Probability of drawing a red card next is 3/9. Prob(Case 1) = (2/10) * (3/9) = 6/90. Case 2: First card is even and black. There are 3 such cards (B2, B4, B6). Probability is 3/10. Now, 9 cards are left, of which 4 are red. Probability of drawing a red card next is 4/9. Prob(Case 2) = (3/10) * (4/9) = 12/90. Total Probability = 6/90 + 12/90 = 18/90 = 1/5."
+    },
+    {
+      "id": "sbi-clerk-ai-1784358894164-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A delivery boy starts from his hub and rides 10 km towards the South. He then turns right and rides 6 km. Next, he turns left and rides 5 km. Finally, he turns left and rides 14 km to reach his destination. How far and in which direction is his destination with respect to the starting hub?",
+      "options": [
+        "17 km, South-East",
+        "15 km, South-West",
+        "17 km, North-East",
+        "13 km, South-East"
+      ],
+      "answer": 0,
+      "explanation": "Let the starting hub be at coordinates (0, 0). 1) Rides 10 km South: (0, -10). 2) Turns right (facing South, so right is West) and rides 6 km: (-6, -10). 3) Turns left (facing West, so left is South) and rides 5 km: (-6, -15). 4) Turns left (facing South, so left is East) and rides 14 km: (-6 + 14, -15) = (8, -15). The distance is sqrt(8^2 + (-15)^2) = sqrt(64 + 225) = sqrt(289) = 17 km. Since the coordinates are (8, -15), the direction with respect to the hub is South-East."
+    },
+    {
+      "id": "sbi-clerk-ai-1784358894164-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a symbolic representation of relationships, 'X # Y' indicates 'X is the brother of Y'; 'X @ Y' indicates 'X is the daughter of Y'; 'X % Y' indicates 'X is the husband of Y'; and 'X $ Y' indicates 'X is the sister of Y'. Based on this, in the expression 'A @ B % C $ D # E', what is the relationship of A with respect to E?",
+      "options": [
+        "Nephew",
+        "Daughter",
+        "Niece",
+        "Sister-in-law"
+      ],
+      "answer": 2,
+      "explanation": "Breaking down the expression: 1) 'A @ B' means A is the daughter of B (A is female). 2) 'B % C' means B is the husband of C (B is male, C is female, so C is A's mother). 3) 'C $ D' means C is the sister of D. 4) 'D # E' means D is the brother of E. Since C, D, and E are siblings and C is the mother of A, A is the niece of E."
     }
   ]
 }

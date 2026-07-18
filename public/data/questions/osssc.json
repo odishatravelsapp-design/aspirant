@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -3908,6 +3908,234 @@
             "ରାଧାନାଥ ରାୟ"
           ],
           "explanation": "ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଐତିହାସିକ ଅଧିବେଶନ ୩୦-୩୧ ଡିସେମ୍ବର ୧୯୦୩ ରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା। ଏଥିରେ ମୟୂରଭଞ୍ଜର ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ ସଭାପତିତ୍ୱ କରିଥିବାବେଳେ ମଧୁସୂଦନ ଦାସ ଏହାର ମୁଖ୍ୟ ଆୟୋଜକ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359001878-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 15% on the marked price. Additionally, he uses a faulty balance which reads 1000g for 900g. What is his overall profit percentage?",
+      "options": [
+        "32 2/9%",
+        "35%",
+        "30%",
+        "28 4/9%"
+      ],
+      "answer": 0,
+      "explanation": "Let the cost price of 1g of goods be Rs. 1. Thus, the cost price of 1000g is Rs. 1000. The marked price is 40% above CP, which is Rs. 1400. After a 15% discount, the selling price of 1000g is 1400 * 0.85 = Rs. 1190. Since the faulty balance reads 1000g for 900g, the shopkeeper actually sells 900g of goods (worth Rs. 900) for the price of 1000g (Rs. 1190). Therefore, Cost Price = Rs. 900, Selling Price = Rs. 1190. Profit = 1190 - 900 = Rs. 290. Profit percentage = (290 / 900) * 100 = 290/9 % = 32 2/9%.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଦୋକାନୀ ନିଜ ସାମଗ୍ରୀର ମୂଲ୍ୟ କ୍ରୟ ମୂଲ୍ୟଠାରୁ ୪୦% ଅଧିକ ଚିହ୍ନଟ (mark) କରନ୍ତି ଏବଂ ଚିହ୍ନିତ ମୂଲ୍ୟ ଉପରେ ୧୫% ରିହାତି ପ୍ରଦାନ କରନ୍ତି। ଏହା ବ୍ୟତୀତ, ସେ ଏକ ତ୍ରୁଟିପୂର୍ଣ୍ଣ ଓଜନ ମାପକ ବ୍ୟବହାର କରନ୍ତି ଯାହା ୯୦୦ ଗ୍ରାମ ପାଇଁ ୧୦୦୦ ଗ୍ରାମ ଦର୍ଶାଇଥାଏ। ତାଙ୍କର ସାମଗ୍ରିକ ଲାଭ ପ୍ରତିଶତ କେତେ?",
+          "options": [
+            "୩୨ ୨/୯%",
+            "୩୫%",
+            "୩୦%",
+            "୨୮ ୪/୯%"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ୧ ଗ୍ରାମ ସାମଗ୍ରୀର କ୍ରୟ ମୂଲ୍ୟ ୧ ଟଙ୍କା। ତେଣୁ, ୧୦୦୦ ଗ୍ରାମର କ୍ରୟ ମୂଲ୍ୟ ୧୦୦୦ ଟଙ୍କା। ଚିହ୍ନିତ ମୂଲ୍ୟ କ୍ରୟ ମୂଲ୍ୟଠାରୁ ୪୦% ଅଧିକ, ଯାହା ୧୪୦୦ ଟଙ୍କା ଅଟେ। ୧୫% ରିହାତି ପରେ, ୧୦୦୦ ଗ୍ରାମର ବିକ୍ରୟ ମୂଲ୍ୟ ହେଉଛି ୧୪୦୦ * ୦.୮୫ = ୧୧୯୦ ଟଙ୍କା। ଯେହେତୁ ତ୍ରୁଟିପୂର୍ଣ୍ଣ ଓଜନ ମାପକ ୯୦୦ ଗ୍ରାମ ପାଇଁ ୧୦୦୦ ଗ୍ରାମ ଦର୍ଶାଏ, ଦୋକାନୀ ପ୍ରକୃତରେ ୯୦୦ ଗ୍ରାମର ସାମଗ୍ରୀ (ଯାହାର ପ୍ରକୃତ ମୂଲ୍ୟ ୯୦୦ ଟଙ୍କା) କୁ ୧୦୦୦ ଗ୍ରାମର ମୂଲ୍ୟରେ (୧୧୯୦ ଟଙ୍କା) ବିକ୍ରି କରନ୍ତି। ତେଣୁ, ପ୍ରକୃତ କ୍ରୟ ମୂଲ୍ୟ = ୯୦୦ ଟଙ୍କା, ବିକ୍ରୟ ମୂଲ୍ୟ = ୧୧୯୦ ଟଙ୍କା। ଲାଭ = ୧୧୯୦ - ୯୦୦ = ୨୯୦ ଟଙ୍କା। ଲାଭ ପ୍ରତିଶତ = (୨୯୦ / ୯୦୦) * ୧୦୦ = ୨୯୦/୯ % = ୩୨ ୨/୯%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359001878-1",
+      "section": "Arithmetic",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Container A contains a mixture of milk and water in the ratio 4 : 3, and Container B contains a mixture of milk and water in the ratio 2 : 3. In what ratio should the mixtures from Container A and Container B be mixed to get a new mixture in Container C in which the ratio of milk and water is 1 : 1?",
+      "options": [
+        "7 : 5",
+        "5 : 7",
+        "5 : 3",
+        "3 : 5"
+      ],
+      "answer": 0,
+      "explanation": "Let us use the allegation method on the fraction of milk. In Container A, milk fraction is 4/(4+3) = 4/7. In Container B, milk fraction is 2/(2+3) = 2/5. In the final mixture C, milk fraction is 1/(1+1) = 1/2. By Alligation: Difference 1 (B and C) = |2/5 - 1/2| = 1/10. Difference 2 (A and C) = |4/7 - 1/2| = 1/14. Required ratio of A : B = (1/10) : (1/14) = 14 : 10 = 7 : 5.",
+      "translations": {
+        "or": {
+          "question": "ପାତ୍ର A ରେ କ୍ଷୀର ଏବଂ ଜଳର ମିଶ୍ରଣ ୪ : ୩ ଅନୁପାତରେ ଅଛି ଏବଂ ପାତ୍ର B ରେ କ୍ଷୀର ଏବଂ ଜଳର ମିଶ୍ରଣ ୨ : ୩ ଅନୁପାତରେ ଅଛି। ପାତ୍ର A ଏବଂ ପାତ୍ର B ର ମିଶ୍ରଣକୁ କେଉଁ ଅନୁପାତରେ ମିଶ୍ରିତ କଲେ ପାତ୍ର C ରେ ଏକ ନୂତନ ମିଶ୍ରଣ ମିଳିବ ଯେଉଁଥିରେ କ୍ଷୀର ଏବଂ ଜଳର ଅନୁପାତ ୧ : ୧ ହେବ?",
+          "options": [
+            "୭ : ୫",
+            "୫ : ୭",
+            "୫ : ୩",
+            "୩ : ୫"
+          ],
+          "explanation": "ଆସନ୍ତୁ କ୍ଷୀରର ଭଗ୍ନାଂଶ ଉପରେ ଏଲିଗେସନ୍ (alligation) ପଦ୍ଧତି ପ୍ରୟୋଗ କରିବା। ପାତ୍ର A ରେ କ୍ଷୀରର ଭଗ୍ନାଂଶ = ୪/(୪+୩) = ୪/୭। ପାତ୍ର B ରେ କ୍ଷୀରର ଭଗ୍ନାଂଶ = ୨/(୨+୩) = ୨/୫। ଚୂଡ଼ାନ୍ତ ମିଶ୍ରଣ C ରେ କ୍ଷୀରର ଭଗ୍ନାଂଶ = ୧/(୧+୧) = ୧/୨। ଏଲିଗେସନ୍ ଅନୁଯାୟୀ: ପାର୍ଥକ୍ୟ ୧ (B ଏବଂ C) = |୨/୫ - ୧/୨| = ୧/୧୦। ପାର୍ଥକ୍ୟ ୨ (A ଏବଂ C) = |୪/୭ - ୧/୨| = ୧/୧୪। ଆବଶ୍ୟକୀୟ ଅନୁପାତ A : B = (୧/୧୦) : (୧/୧୪) = ୧୪ : ୧୦ = ୭ : ୫।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359015810-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the next number in the given series: 7, 11, 20, 36, 61, ?",
+      "options": [
+        "85",
+        "97",
+        "102",
+        "110"
+      ],
+      "answer": 1,
+      "explanation": "The differences between consecutive terms are consecutive perfect squares: 11 - 7 = 4 (2²), 20 - 11 = 9 (3²), 36 - 20 = 16 (4²), 61 - 36 = 25 (5²). The next difference will be 6² = 36. Therefore, the next number is 61 + 36 = 97.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ ଶୃଙ୍ଖଳାରେ ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ଖୋଜନ୍ତୁ: 7, 11, 20, 36, 61, ?",
+          "options": [
+            "85",
+            "97",
+            "102",
+            "110"
+          ],
+          "explanation": "କ୍ରମାଗତ ସଂଖ୍ୟାଗୁଡ଼ିକ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ହେଉଛି କ୍ରମାଗତ ପୂର୍ଣ୍ଣ ବର୍ଗ ସଂଖ୍ୟା: 11 - 7 = 4 (2²), 20 - 11 = 9 (3²), 36 - 20 = 16 (4²), 61 - 36 = 25 (5²)। ପରବର୍ତ୍ତୀ ପାର୍ଥକ୍ୟ ହେବ 6² = 36। ତେଣୁ, ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ହେବ 61 + 36 = 97।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359015810-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a family of six members A, B, C, D, E, and F, there are two married couples. D is the grandmother of A and mother of B. C is the wife of B and mother of F. F is the granddaughter of E. How is E related to C?",
+      "options": [
+        "Father",
+        "Father-in-law",
+        "Uncle",
+        "Grandfather"
+      ],
+      "answer": 1,
+      "explanation": "Since D is the mother of B, and C is the wife of B, B and C form one married couple. D is the grandmother of A (mother of B). F is the granddaughter of E. Since there are two married couples, E must be the husband of D (and thus the father of B). Since B is married to C, E (husband's father) is the father-in-law of C.",
+      "translations": {
+        "or": {
+          "question": "A, B, C, D, E, ଏବଂ F ଛଅ ଜଣ ସଦସ୍ୟ ବିଶିଷ୍ଟ ଏକ ପରିବାରରେ ଦୁଇଟି ବିବାହିତ ଦମ୍ପତି ଅଛନ୍ତି। D ହେଉଛନ୍ତି A ର ଜେଜେମା ଏବଂ B ର ମା'। C ହେଉଛନ୍ତି B ର ପତ୍ନୀ ଏବଂ F ର ମା'। F ହେଉଛନ୍ତି E ର ନାତୁଣୀ। E, C ସହିତ କିପରି ସମ୍ପର୍କିତ?",
+          "options": [
+            "ବାପା (Father)",
+            "ଶ୍ୱଶୁର (Father-in-law)",
+            "ମାମୁଁ/ମଉସା/ଦାଦା (Uncle)",
+            "ଜେଜେବାପା/ଅଜା (Grandfather)"
+          ],
+          "explanation": "ଯେହେତୁ D ହେଉଛନ୍ତି B ର ମା', ଏବଂ C ହେଉଛନ୍ତି B ର ପତ୍ନୀ, B ଏବଂ C ହେଉଛନ୍ତି ଗୋଟିଏ ବିବାହିତ ଦମ୍ପତି। D ହେଉଛନ୍ତି A ର ଜେଜେମା ଏବଂ B ର ମା'। F ହେଉଛନ୍ତି E ର ନାତୁଣୀ। ଯେହେତୁ ପରିବାରରେ ଦୁଇଟି ବିବାହିତ ଦମ୍ପତି ଅଛନ୍ତି, E ନିଶ୍ଚିତ ଭାବରେ D ର ସ୍ୱାମୀ (ଏବଂ B ର ବାପା) ହେବେ। ଯେହେତୁ B, C ଙ୍କୁ ବିବାହ କରିଛନ୍ତି, ତେଣୁ E (ସ୍ୱାମୀଙ୍କ ବାପା) C ଙ୍କର ଶ୍ୱଶୁର ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359025143-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Chinese pilgrim visited Odisha (referred to as 'Wu-Tu') in the 7th century AD during the reign of Harshavardhana?",
+      "options": [
+        "Faxian",
+        "Xuanzang",
+        "Yijing",
+        "Song Yun"
+      ],
+      "answer": 1,
+      "explanation": "The famous Chinese Buddhist pilgrim Xuanzang (Hiuen Tsang) visited Odra (Wu-Tu) in 639 AD during the reign of Emperor Harshavardhana and wrote extensively about the Buddhist learning centers like Puspagiri.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସପ୍ତମ ଶତାବ୍ଦୀରେ ହର୍ଷବର୍ଦ୍ଧନଙ୍କ ଶାସନ କାଳରେ କେଉଁ ଚୀନ ପରିବ୍ରାଜକ ଓଡ଼ିଶା (ଯାହାକୁ 'ଉ-ଟୁ' କୁହାଯାଉଥିଲା) ପରିଦର୍ଶନ କରିଥିଲେ?",
+          "options": [
+            "ଫାହିଆନ୍",
+            "ହୁଏନ୍ ସାଂ",
+            "ଇ-ସିଙ୍ଗ୍",
+            "ସଙ୍ଗ୍ ୟୁନ୍"
+          ],
+          "explanation": "ପ୍ରସିଦ୍ଧ ଚୀନ ବୌଦ୍ଧ ପରିବ୍ରାଜକ ହୁଏନ୍ ସାଂ (Xuanzang) ୬୩୯ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସମ୍ରାଟ ହର୍ଷବର୍ଦ୍ଧନଙ୍କ ଶାସନ କାଳରେ ଓଡ୍ର (ଉ-ଟୁ) ପରିଦର୍ଶନ କରିଥିଲେ ଏବଂ ପୁଷ୍ପଗିରି ଭଳି ବୌଦ୍ଧ ଶିକ୍ଷା କେନ୍ଦ୍ର ବିଷୟରେ ବିସ୍ତୃତ ଭାବରେ ଲେଖିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359025143-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Indravati River, a major tributary of the Godavari River, originates from which of the following regions in Odisha?",
+      "options": [
+        "Keonjhar Plateau",
+        "Thuamul Rampur in Kalahandi",
+        "Mahendragiri Hills",
+        "Amarkantak Hills"
+      ],
+      "answer": 1,
+      "explanation": "The Indravati River originates from the Eastern Ghats in the Kalahandi district near Thuamul Rampur, Odisha, and flows westward to join the Godavari River.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗୋଦାବରୀ ନଦୀର ଏକ ପ୍ରମୁଖ ଉପନଦୀ ଇନ୍ଦ୍ରାବତୀ ନଦୀ ଓଡ଼ିଶାର କେଉଁ ଅଞ୍ଚଳରୁ ଉତ୍ପନ୍ନ ହୋଇଛି?",
+          "options": [
+            "କେନ୍ଦୁଝର ମାଳଭୂମି",
+            "କଳାହାଣ୍ଡିର ଥୁଆମୂଳ ରାମପୁର",
+            "ମହେନ୍ଦ୍ରଗିରି ପାହାଡ଼",
+            "ଅମରକଣ୍ଟକ ପାହାଡ଼"
+          ],
+          "explanation": "ଇନ୍ଦ୍ରାବତୀ ନଦୀ ଓଡ଼ିଶାର କଳାହାଣ୍ଡି ଜିଲ୍ଲାର ଥୁଆମୂଳ ରାମପୁର ନିକଟସ୍ଥ ପୂର୍ବଘାଟ ପର୍ବତମାଳାରୁ ଉତ୍ପନ୍ନ ହୋଇ ପଶ୍ଚିମ ଆଡ଼କୁ ପ୍ରବାହିତ ହୋଇ ଗୋଦାବରୀ ନଦୀ ସହିତ ମିଶିଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359043859-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History - Nationalist Movements",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who presided over the historic first session of the 'Utkal Sammilani' held at Cuttack in December 1903?",
+      "options": [
+        "Madhusudan Das",
+        "Maharaja Ramachandra Bhanja Deo",
+        "Maharaja Krushna Chandra Gajapati",
+        "Gopabandhu Das"
+      ],
+      "answer": 1,
+      "explanation": "The first session of the Utkal Sammilani (Utkal Union Conference) was held in Cuttack on December 30-31, 1903. It was presided over by Maharaja Ramachandra Bhanja Deo, the ruler of the princely state of Mayurbhanj.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୩ ମସିହା ଡିସେମ୍ବରରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ 'ଉତ୍କଳ ସମ୍ମିଳନୀ'ର ଐତିହାସିକ ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ସଭାପତିତ୍ୱ କରିଥିଲେ?",
+          "options": [
+            "ମଧୁସୂଦନ ଦାସ",
+            "ମହାରାଜା ରାମଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ଗୋପବନ୍ଧୁ ଦାସ"
+          ],
+          "explanation": "ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ୧୯୦୩ ମସିହା ଡିସେମ୍ବର ୩୦-୩୧ ରିଖରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା। ଏଥିରେ ମୟୂରଭଞ୍ଜର ମହାରାଜା ରାମଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ ସଭାପତିତ୍ୱ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784359043859-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History - Prajamandal Movement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who presided over the first session of the Orissa States People's Conference (Garhjat Praja Sammilani) held at Cuttack in 1931?",
+      "options": [
+        "Sarangadhar Das",
+        "Bhubanananda Das",
+        "Radhanath Rath",
+        "Harekrushna Mahtab"
+      ],
+      "answer": 1,
+      "explanation": "The first session of the Orissa States People's Conference (Garhjat Praja Sammilani) was held at Cuttack in 1931 under the presidency of Bhubanananda Das. This conference marked the organized beginning of the Prajamandal movement in the princely states of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୧ ମସିହାରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀ (Orissa States People's Conference)ର ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ସଭାପତିତ୍ୱ କରିଥିଲେ?",
+          "options": [
+            "ସାରଙ୍ଗଧର ଦାସ",
+            "ଭୁବନାନନ୍ଦ ଦାସ",
+            "ରାଧାନାଥ ରଥ",
+            "ହରେକୃଷ୍ଣ ମହତାବ"
+          ],
+          "explanation": "୧୯୩୧ ମସିହାରେ କଟକଠାରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ଭୁବନାନନ୍ଦ ଦାସଙ୍କ ସଭାପତିତ୍ୱରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା। ଏହି ସମ୍ମିଳନୀ ଓଡ଼ିଶାର ଗଡ଼ଜାତ ରାଜ୍ୟଗୁଡ଼ିକରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନର ସଂଗଠିତ ଆରମ୍ଭକୁ ଚିହ୍ନିତ କରିଥିଲା।"
         }
       }
     }

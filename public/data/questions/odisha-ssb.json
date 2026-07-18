@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -5206,6 +5206,234 @@
       ],
       "answer": 2,
       "explanation": "According to the Pancha Kosha framework adopted in NCF-SE 2023, Vijnanamaya Kosha represents the intellect/wisdom layer (cognitive domain). Annamaya represents physical, Pranamaya represents life force, and Manomaya represents mind/emotions."
+    },
+    {
+      "id": "odisha-ssb-ai-1784359056803-0",
+      "section": "Subject Knowledge",
+      "topic": "Middle English Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "At the beginning of William Langland's 14th-century allegorical poem *Piers Plowman*, where does the narrator, Will, fall asleep and have his first vision?",
+      "options": [
+        "Salisbury Plain",
+        "Sherwood Forest",
+        "Malvern Hills",
+        "Canterbury Downs"
+      ],
+      "answer": 2,
+      "explanation": "The prologue of *Piers Plowman* begins with the narrator wandering on the Malvern Hills ('on Malverne hulles'), where he falls asleep by a stream and experiences his first vision of a 'field full of folk'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ଲାଙ୍ଗଲ୍ୟାଣ୍ଡଙ୍କ ଚତୁର୍ଦ୍ଦଶ ଶତାବ୍ଦୀର ରୂପକ କାବ୍ୟ *Piers Plowman* ର ପ୍ରାରମ୍ଭରେ, ବର୍ଣ୍ଣନାକାରୀ 'ୱିଲ୍' କେଉଁ ସ୍ଥାନରେ ଶୋଇପଡନ୍ତି ଏବଂ ତାଙ୍କର ପ୍ରଥମ ସ୍ୱପ୍ନ ଦେଖନ୍ତି?",
+          "options": [
+            "ସାଲିସବରି ପ୍ଲେନ୍ (Salisbury Plain)",
+            "ଶେରଉଡ୍ ଫରେଷ୍ଟ (Sherwood Forest)",
+            "ମାଲଭର୍ଣ୍ଣ ହିଲ୍ସ (Malvern Hills)",
+            "କ୍ୟାଣ୍ଟରବରି ଡାଉନ୍ସ (Canterbury Downs)"
+          ],
+          "explanation": "*Piers Plowman* ର ପ୍ରାରମ୍ଭିକ ଭାଗରେ ବର୍ଣ୍ଣନାକାରୀ ମାଲଭର୍ଣ୍ଣ ହିଲ୍ସ (Malvern Hills) ରେ ଏକ ଝରଣା କୂଳରେ ଶୋଇପଡନ୍ତି, ଯେଉଁଠାରେ ସେ ଲୋକମାନଙ୍କ ଦ୍ୱାରା ପୂର୍ଣ୍ଣ ଏକ ସୁନ୍ଦର ପଡ଼ିଆର ('field full of folk') ପ୍ରଥମ ଦୃଶ୍ୟ ଦେଖନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359056803-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism and Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Northrop Frye's seminal work *Anatomy of Criticism* (1957), which season is mythically associated with the archetype/genre of Tragedy?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "answer": 2,
+      "explanation": "In Northrop Frye's 'Archetypal Criticism: Theory of Myths', he associates the four seasons with four distinct narrative categories (mythoi): Spring with Comedy, Summer with Romance, Autumn with Tragedy, and Winter with Irony and Satire.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନର୍ଥ୍ରୋପ୍ ଫ୍ରାଇଙ୍କ ପ୍ରସିଦ୍ଧ ପୁସ୍ତକ *Anatomy of Criticism* (1957) ରେ, କେଉଁ ଋତୁକୁ କାଳ୍ପନିକ ଭାବରେ ଟ୍ରାଜେଡି (Tragedy) ର ଆର୍କିଟାଇପ୍/ଶୈଳୀ ସହିତ ଜଡ଼ିତ କରାଯାଇଛି?",
+          "options": [
+            "ବସନ୍ତ (Spring)",
+            "ଗ୍ରୀଷ୍ମ (Summer)",
+            "ଶରତ (Autumn)",
+            "ଶୀତ (Winter)"
+          ],
+          "explanation": "ନର୍ଥ୍ରୋପ୍ ଫ୍ରାଇଙ୍କ 'Archetypal Criticism: Theory of Myths' ରେ, ସେ ଚାରୋଟି ଋତୁକୁ ଚାରୋଟି ଆର୍କିଟାଇପାଲ୍ ଶୈଳୀ (mythoi) ସହିତ ଯୋଡିଛନ୍ତି: ବସନ୍ତକୁ କମେଡି (Comedy), ଗ୍ରୀଷ୍ମକୁ ରୋମାନ୍ସ (Romance), ଶରତକୁ ଟ୍ରାଜେଡି (Tragedy), ଏବଂ ଶୀତକୁ ଆଇରନି ଓ ସାଟାୟାର୍ (Irony and Satire) ସହିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359069457-0",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Evaluation Models",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Stake's Countenance Model of curriculum evaluation, what are the three bodies of information (or phases) that must be analyzed?",
+      "options": [
+        "Antecedents, Transactions, and Outcomes",
+        "Input, Process, and Product",
+        "Context, Input, and Process",
+        "Objectives, Activities, and Evaluation"
+      ],
+      "answer": 0,
+      "explanation": "Robert Stake's Countenance Model of evaluation emphasizes three phases of data: Antecedents (conditions existing prior to instruction), Transactions (the successive interactions during the educational process), and Outcomes (the consequences or achievements of the program).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଷ୍ଟେକଙ୍କ ପାଠ୍ୟକ୍ରମ ମୂଲ୍ୟାଙ୍କନର 'କାଉଣ୍ଟେନାନ୍ସ ମଡେଲ' (Countenance Model) ରେ, ବିଶ୍ଳେଷଣ କରାଯିବାକୁ ଥିବା ତିନୋଟି ମୁଖ୍ୟ ତଥ୍ୟ ସମୂହ (ବା ପର୍ଯ୍ୟାୟ) କଣ ଅଟେ?",
+          "options": [
+            "ପୂର୍ବବର୍ତ୍ତୀ ଅବସ୍ଥା, କାର୍ଯ୍ୟକଳାପ ଏବଂ ପରିଣାମ (Antecedents, Transactions, and Outcomes)",
+            "ନିବେଶ, ପ୍ରକ୍ରିୟା ଏବଂ ଉତ୍ପାଦ (Input, Process, and Product)",
+            "ପ୍ରସଙ୍ଗ, ନିବେଶ ଏବଂ ପ୍ରକ୍ରିୟା (Context, Input, and Process)",
+            "ଉଦ୍ଦେଶ୍ୟ, କାର୍ଯ୍ୟକଳାପ ଏବଂ ମୂଲ୍ୟାଙ୍କନ (Objectives, Activities, and Evaluation)"
+          ],
+          "explanation": "ରବର୍ଟ ଷ୍ଟେକଙ୍କ କାଉଣ୍ଟେନାନ୍ସ ମଡେଲ୍ ପାଠ୍ୟକ୍ରମର ମୂଲ୍ୟାଙ୍କନ ପାଇଁ ତିନୋଟି ପର୍ଯ୍ୟାୟର ତଥ୍ୟକୁ ଗୁରୁତ୍ୱ ଦେଇଥାଏ: ପୂର୍ବବର୍ତ୍ତୀ ଅବସ୍ଥା (Antecedents - ଶିକ୍ଷାଦାନ ପୂର୍ବରୁ ଥିବା ସ୍ଥିତି), କାର୍ଯ୍ୟକଳାପ (Transactions - ଶିକ୍ଷାଦାନ ସମୟରେ ହେଉଥିବା ପାରସ୍ପରିକ କ୍ରିୟା), ଏବଂ ପରିଣାମ (Outcomes - କାର୍ଯ୍ୟକ୍ରମର ଶେଷ ଫଳାଫଳ)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359069457-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Learning",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to David Ausubel's theory of meaningful reception learning, when new information is an extension, elaboration, modification, or qualification of previously learned information, which type of subsumption occurs?",
+      "options": [
+        "Derivative Subsumption",
+        "Correlative Subsumption",
+        "Superordinate Learning",
+        "Combinatorial Learning"
+      ],
+      "answer": 1,
+      "explanation": "In Ausubel's theory, Correlative Subsumption occurs when new material is integrated into an existing cognitive structure as an extension, modification, or qualification of previously learned concepts. Derivative Subsumption, by contrast, is when the new material is just a direct example or illustration of an already established concept.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଅସୁବେଲଙ୍କ ଅର୍ଥପୂର୍ଣ୍ଣ ଗ୍ରହଣ ଶିକ୍ଷଣ (Meaningful Reception Learning) ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ସୂଚନା ପୂର୍ବରୁ ଶିଖିଥିବା ଜ୍ଞାନର ଏକ ସମ୍ପ୍ରସାରଣ, ବିସ୍ତାରଣ, ରୂପାନ୍ତରଣ କିମ୍ବା ସଂଶୋଧନ ଅଟେ, ସେତେବେଳେ କେଉଁ ପ୍ରକାରର ଅନ୍ତର୍ଭୁକ୍ତୀକରଣ (Subsumption) ଘଟିଥାଏ?",
+          "options": [
+            "ବ୍ୟୁତପନ୍ନ ଅନ୍ତର୍ଭୁକ୍ତୀକରଣ (Derivative Subsumption)",
+            "ସହସମ୍ବନ୍ଧୀୟ ଅନ୍ତର୍ଭୁକ୍ତୀକରଣ (Correlative Subsumption)",
+            "ଉଚ୍ଚକୋଟୀର ଶିକ୍ଷଣ (Superordinate Learning)",
+            "ସଂଯୋଜକ ଶିକ୍ଷଣ (Combinatorial Learning)"
+          ],
+          "explanation": "ଅସୁବେଲଙ୍କ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ସହସମ୍ବନ୍ଧୀୟ ଅନ୍ତର୍ଭୁକ୍ତୀକରଣ (Correlative Subsumption) ସେତେବେଳେ ହୋଇଥାଏ ଯେତେବେଳେ ନୂତନ ବିଷୟବସ୍ତୁ ପୂର୍ବରୁ ଥିବା ଜ୍ଞାନର ପରିମାର୍ଜନ କିମ୍ବା ସଂଶୋଧନ କରିଥାଏ। ଅନ୍ୟପକ୍ଷରେ, ବ୍ୟୁତପନ୍ନ ଅନ୍ତର୍ଭୁକ୍ତୀକରଣ (Derivative Subsumption) ରେ ନୂତନ ସୂଚନା କେବଳ ପୂର୍ବ ଧାରଣାର ଏକ ପ୍ରତ୍ୟକ୍ଷ ଉଦାହରଣ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359082036-0",
+      "section": "General Studies",
+      "topic": "Odisha Medieval History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Ganga Dynasty ruler is credited with shifting the capital of the empire from Kalinganagara to Abhinava Varanasi Kataka (modern Cuttack)?",
+      "options": [
+        "Anantavarman Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimhadeva I",
+        "Bhanudeva III"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III (1211–1238 CE) founded the city of Abhinava Varanasi Kataka at the bifurcation of the Mahanadi and Kathajodi rivers and shifted his capital there from Kalinganagara in the early 13th century.",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ଗଙ୍ଗବଂଶର ଶାସକ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ)କୁ ସ୍ଥାନାନ୍ତର କରିଥିବା ଶ୍ରେୟ ପାଆନ୍ତି?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ",
+            "ନରସିଂହ ଦେବ ପ୍ରଥମ",
+            "ଭାନୁଦେବ ତୃତୀୟ"
+          ],
+          "explanation": "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ (୧୨୧୧-୧୨୩୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ମହାନଦୀ ଏବଂ କାଠଯୋଡ଼ି ନଦୀର ଦ୍ୱିଭାଜନ ସ୍ଥଳରେ ଅଭିନବ ବାରାଣସୀ କଟକ ସହର ପ୍ରତିଷ୍ଠା କରିଥିଲେ ଏବଂ ୧୩ଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ ନିଜ ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ସେଠାକୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359082036-1",
+      "section": "General Studies",
+      "topic": "Modern Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was Sambalpur annexed by the British Empire under the provisions of the 'Doctrine of Lapse' formulated by Lord Dalhousie?",
+      "options": [
+        "1848",
+        "1849",
+        "1850",
+        "1852"
+      ],
+      "answer": 1,
+      "explanation": "Sambalpur was annexed by the British East India Company in 1849 under the Doctrine of Lapse after the ruler Raja Narayan Singh died without leaving a direct male heir.",
+      "translations": {
+        "or": {
+          "question": "ଲର୍ଡ ଡେଲହାଉସିଙ୍କ ଦ୍ୱାରା ପ୍ରଣୀତ 'ସ୍ୱତ୍ୱଲୋପ ନୀତି' (Doctrine of Lapse) ର ବ୍ୟବସ୍ଥା ଅନୁଯାୟୀ କେଉଁ ବର୍ଷ ବ୍ରିଟିଶ ସାମ୍ରାଜ୍ୟ ଦ୍ୱାରା ସମ୍ବଲପୁରକୁ ଅକ୍ତିଆର କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୮୪୮",
+            "୧୮୪୯",
+            "୧୮୫୦",
+            "୧୮୫୨"
+          ],
+          "explanation": "ରାଜା ନାରାୟଣ ସିଂହ କୌଣସି ପ୍ରତ୍ୟକ୍ଷ ପୁତ୍ର ଉତ୍ତରାଧିକାରୀ ନରଖି ମୃତ୍ୟୁବରଣ କରିବା ପରେ ୧୮୪୯ ମସିହାରେ ସ୍ୱତ୍ୱଲୋପ ନୀତି ଅଧୀନରେ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ଦ୍ୱାରା ସମ୍ବଲପୁରକୁ ସାମ୍ରାଜ୍ୟଭୁକ୍ତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359096013-0",
+      "section": "Odisha GK",
+      "topic": "Medieval History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The historic Battle of Gohiratikiri (1568 AD), which led to the downfall of the last independent Hindu kingdom of Odisha under Mukunda Deva, was fought in which of the following modern-day districts of Odisha?",
+      "options": [
+        "Balasore",
+        "Bhadrak",
+        "Cuttack",
+        "Jajpur"
+      ],
+      "answer": 1,
+      "explanation": "The Battle of Gohiratikiri was fought in 1568 AD between the forces of Mukunda Deva (the last independent ruler of Odisha) and the Bengal Sultanate led by Kalapahad. Gohiratikiri is located in the modern-day Bhadrak district of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ ମୁକୁନ୍ଦ ଦେବଙ୍କ ପତନର କାରଣ ସାଜିଥିବା ଐତିହାସିକ ଗୋହିରାଟିକିରି ଯୁଦ୍ଧ (୧୫୬୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ବର୍ତ୍ତମାନର କେଉଁ ଜିଲ୍ଲାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "ବାଲେଶ୍ୱର",
+            "ଭଦ୍ରକ",
+            "କଟକ",
+            "ଯାଜପୁର"
+          ],
+          "explanation": "ଗୋହିରାଟିକିରି ଯୁଦ୍ଧ ୧୫୬୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ଶାସକ ମୁକୁନ୍ଦ ଦେବ ଏବଂ କଳାପାହାଡ଼ଙ୍କ ନେତୃତ୍ୱରେ ବଙ୍ଗଳାର ସୁଲତାନଙ୍କ ସେନା ମଧ୍ୟରେ ହୋଇଥିଲା। ଗୋହିରାଟିକିରି ବର୍ତ୍ତମାନ ଓଡ଼ିଶାର ଭଦ୍ରକ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784359096013-1",
+      "section": "Odisha GK",
+      "topic": "Ancient and Medieval History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to historical traditions, which Somavamshi ruler performed the famous 'Dasaswamedha Yajna' on the banks of the Baitarani River in Jajpur and invited ten thousand Brahmins from Kannauj?",
+      "options": [
+        "Janmejaya I",
+        "Yayati I",
+        "Yayati II",
+        "Udyotakesari"
+      ],
+      "answer": 1,
+      "explanation": "King Yayati I (Yayati Kesari) of the Somavamshi dynasty is traditionally credited with performing the Dasaswamedha Yajna on the banks of the Baitarani River in Jajpur. To conduct this grand sacrifice, he invited ten thousand Vedic Brahmins from Kannauj, who subsequently settled in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଐତିହାସିକ ପରମ୍ପରା ଅନୁଯାୟୀ, କେଉଁ ସୋମବଂଶୀ ଶାସକ ଯାଜପୁରର ବୈତରଣୀ ନଦୀ କୂଳରେ ପ୍ରସିଦ୍ଧ 'ଦଶାଶ୍ୱମେଧ ଯଜ୍ଞ' ସମ୍ପାଦନ କରିଥିଲେ ଏବଂ କନୌଜରୁ ଦଶ ହଜାର ବ୍ରାହ୍ମଣଙ୍କୁ ନିମନ୍ତ୍ରଣ କରିଥିଲେ?",
+          "options": [
+            "ଜନ୍ମେଜୟ ପ୍ରଥମ",
+            "ଯଯାତି ପ୍ରଥମ",
+            "ଯଯାତି ଦ୍ୱିତୀୟ",
+            "ଉଦ୍ୟୋତକେଶରୀ"
+          ],
+          "explanation": "ସୋମବଂଶର ରାଜା ଯଯାତି ପ୍ରଥମ (ଯଯାତି କେଶରୀ) ଯାଜପୁରର ବୈତରଣୀ ନଦୀ କୂଳରେ ଦଶାଶ୍ୱମେଧ ଯଜ୍ଞ କରିଥିବା ଜଣାଯାଏ। ଏହି ମହାନ ଯଜ୍ଞ ପରିଚାଳନା ପାଇଁ ସେ କନୌଜରୁ ଦଶ ହଜାର ବୈଦିକ ବ୍ରାହ୍ମଣଙ୍କୁ ନିମନ୍ତ୍ରଣ କରିଥିଲେ, ଯେଉଁମାନେ ପରବର୍ତ୍ତୀ ସମୟରେ ଓଡ଼ିଶାରେ ବସବାସ କଲେ।"
+        }
+      }
     }
   ]
 }

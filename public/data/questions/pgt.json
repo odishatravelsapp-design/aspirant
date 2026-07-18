@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -3194,6 +3194,232 @@
       ],
       "answer": 2,
       "explanation": "According to the Pancha Kosha framework adopted in NCF-SE 2023, Vijnanamaya Kosha represents the intellect/wisdom layer (cognitive domain). Annamaya represents physical, Pranamaya represents life force, and Manomaya represents mind/emotions."
+    },
+    {
+      "id": "pgt-ai-1784359113462-0",
+      "section": "Teaching Aptitude",
+      "topic": "Committees and Commissions on Education",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The advisory committee appointed by the Ministry of Human Resource Development in 1992 under the chairmanship of Prof. Yash Pal, which submitted its report 'Learning Without Burden' in 1993, specifically recommended which of the following regarding school curriculum and textbooks?",
+      "options": [
+        "The introduction of a strict, nationwide common curriculum with mandatory daily homework for all classes.",
+        "Treating textbooks as school property to prevent children from carrying them home daily, and keeping primary education free of formal homework.",
+        "Establishing standardized board examinations at the elementary school levels (Class III and Class V).",
+        "Replacing all state board curricula with a single vocational training framework starting from Class I."
+      ],
+      "answer": 1,
+      "explanation": "The Yash Pal Committee (1993) report, titled 'Learning Without Burden', analyzed the academic stress on school children and recommended that textbooks should be treated as school property so children do not have to carry them home daily, and that no formal homework should be assigned at the primary stage to reduce physical and cognitive overload.",
+      "translations": {
+        "or": {
+          "question": "୧୯୯୨ ମସିହାରେ ମାନବ ସମ୍ବଳ ବିକାଶ ମନ୍ତ୍ରଣାଳୟ ଦ୍ଵାରା ପ୍ରଫେସର ଯଶପାଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଗଠିତ ଏବଂ ୧୯୯୩ ମସିହାରେ 'Learning Without Burden' (ବିନା ବୋଝରେ ଶିକ୍ଷା) ରିପୋର୍ଟ ପ୍ରଦାନ କରିଥିବା ପରାମର୍ଶଦାତା କମିଟି ବିଦ୍ୟାଳୟ ପାଠ୍ୟକ୍ରମ ଏବଂ ପାଠ୍ୟପୁସ୍ତକ ସମ୍ବନ୍ଧରେ ନିମ୍ନଲିଖିତ କେଉଁ ସୁପାରିଶ କରିଥିଲେ?",
+          "options": [
+            "ସମସ୍ତ ଶ୍ରେଣୀ ପାଇଁ ବାଧ୍ୟତାମୂଳକ ଦୈନିକ ଗୃହକାର୍ଯ୍ୟ ସହିତ ଏକ କଠୋର, ଦେଶବ୍ୟାପୀ ସାଧାରଣ ପାଠ୍ୟକ୍ରମ ପ୍ରଣୟନ କରିବା।",
+            "ପାଠ୍ୟପୁସ୍ତକଗୁଡ଼ିକୁ ବିଦ୍ୟାଳୟର ସମ୍ପତ୍ତି ଭାବରେ ବିବେଚନା କରିବା ଯଦ୍ଦ୍ୱାରା ପିଲାମାନଙ୍କୁ ପ୍ରତିଦିନ ସେଗୁଡ଼ିକୁ ଘରକୁ ବୋହିବାକୁ ପଡ଼ିବ ନାହିଁ, ଏବଂ ପ୍ରାଥମିକ ଶିକ୍ଷାକୁ ଆନୁଷ୍ଠାନିକ ଗୃହକାର୍ଯ୍ୟରୁ ମୁକ୍ତ ରଖିବା।",
+            "ପ୍ରାଥମିକ ବିଦ୍ୟାଳୟ ସ୍ତରରେ (ତୃତୀୟ ଏବଂ ପଞ୍ଚମ ଶ୍ରେଣୀ) ମାନକ ବୋର୍ଡ ପରୀକ୍ଷା ପ୍ରତିଷ୍ଠା କରିବା।",
+            "ପ୍ରଥମ ଶ୍ରେଣୀରୁ ସମସ୍ତ ରାଜ୍ୟ ବୋର୍ଡ ପାଠ୍ୟକ୍ରମକୁ ଏକମାତ୍ର ବୃତ୍ତିଗତ ଶିକ୍ଷା ଢାଞ୍ଚା ଦ୍ୱାରା ବଦଳାଇବା।"
+          ],
+          "explanation": "ଯଶପାଲ କମିଟି (୧୯୯୩) ର 'Learning Without Burden' ରିପୋର୍ଟ ବିଦ୍ୟାଳୟ ପିଲାମାନଙ୍କ ଉପରେ ଥିବା ଶିକ୍ଷାଗତ ଚାପକୁ ବିଶ୍ଳେଷଣ କରିଥିଲା ଏବଂ ସୁପାରିଶ କରିଥିଲା ଯେ ପାଠ୍ୟପୁସ୍ତକଗୁଡ଼ିକୁ ବିଦ୍ୟାଳୟର ସମ୍ପତ୍ତି ଭାବରେ ବିବେଚନା କରାଯିବା ଉଚିତ, ଯଦ୍ଦ୍ୱାରା ପିଲାମାନଙ୍କୁ ପ୍ରତିଦିନ ସେଗୁଡ଼ିକୁ ଘରକୁ ବୋହିବାକୁ ପଡ଼ିବ ନାହିଁ ଏବଂ ପିଲାମାନଙ୍କ ଉପରୁ ଶାରୀରିକ ଓ ମାନସିକ ବୋଝ ହ୍ରାସ କରିବା ପାଇଁ ପ୍ରାଥମିକ ସ୍ତରରେ କୌଣସି ଆନୁଷ୍ଠାନିକ ଗୃହକାର୍ଯ୍ୟ ଦିଆଯିବା ଉଚିତ ନୁହେଁ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359113462-1",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment and Evaluation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "When an educational test is designed to compare an individual student's performance against the performance of a predefined peer group or representative population, rather than a fixed set of mastery criteria, it is classified as a:",
+      "options": [
+        "Criterion-referenced assessment",
+        "Norm-referenced assessment",
+        "Ipsative assessment",
+        "Formative assessment"
+      ],
+      "answer": 1,
+      "explanation": "A norm-referenced assessment compares a student's score or performance to that of a norm group (a peer group or representative sample), helping to rank students or determine percentile scores. In contrast, a criterion-referenced assessment measures performance against fixed learning standards or criteria.",
+      "translations": {
+        "or": {
+          "question": "ଯେତେବେଳେ ଏକ ଶିକ୍ଷାଗତ ପରୀକ୍ଷା ଜଣେ ନିର୍ଦ୍ଦିଷ୍ଟ ଛାତ୍ରଙ୍କ ପ୍ରଦର୍ଶନକୁ କୌଣସି ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ ଶିକ୍ଷଣ ମାନଦଣ୍ଡ ପରିବର୍ତ୍ତେ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ସମକକ୍ଷ ଗୋଷ୍ଠୀ (peer group) କିମ୍ବା ପ୍ରତିନିଧିତ୍ୱମୂଳକ ଜନସଂଖ୍ୟାର ପ୍ରଦର୍ଶନ ସହିତ ତୁଳନା କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ କରାଯାଇଥାଏ, ସେତେବେଳେ ଏହାକୁ କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ ଭାବରେ ବର୍ଗୀକୃତ କରାଯାଏ?",
+          "options": [
+            "ଯୋଗ୍ୟତା-ଭିତ୍ତିକ ମୂଲ୍ୟାଙ୍କନ (Criterion-referenced assessment)",
+            "ମାନକ-ସନ୍ଦର୍ଭିତ ମୂଲ୍ୟାଙ୍କନ (Norm-referenced assessment)",
+            "ସ୍ୱ-ତୁଳନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Ipsative assessment)",
+            "ଗଠନମୂଳକ ମୂଲ୍ୟାଙ୍କନ (Formative assessment)"
+          ],
+          "explanation": "ମାନକ-ସନ୍ଦର୍ଭିତ ମୂଲ୍ୟାଙ୍କନ (Norm-referenced assessment) ଜଣେ ଛାତ୍ରଙ୍କ ସ୍କୋର କିମ୍ବା ପ୍ରଦର୍ଶନକୁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ମାନକ ଗୋଷ୍ଠୀ (ସମକକ୍ଷ ଗୋଷ୍ଠୀ) ସହିତ ତୁଳନା କରିଥାଏ, ଯାହା ଛାତ୍ରମାନଙ୍କର ମାନ୍ୟତା (rank) କିମ୍ବା ପରସେଣ୍ଟାଇଲ୍ ସ୍କୋର ନିର୍ଣ୍ଣୟ କରିବାରେ ସାହାଯ୍ୟ କରେ। ଅନ୍ୟପକ୍ଷରେ, ଯୋଗ୍ୟତା-ଭିତ୍ତିକ ମୂଲ୍ୟାଙ୍କନ ପ୍ରଦର୍ଶନକୁ ନିର୍ଦ୍ଦିଷ୍ଟ ମାନଦଣ୍ଡ କିମ୍ବା ଶିକ୍ଷଣ ମାନକ ସହିତ ତୁଳନା କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359157262-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Lindemann-Hinshelwood mechanism for unimolecular reactions, what is the effective order of the reaction at very low pressures of the reactant?",
+      "options": [
+        "First order",
+        "Second order",
+        "Zero order",
+        "Fractional order"
+      ],
+      "answer": 1,
+      "explanation": "According to the Lindemann-Hinshelwood mechanism, the rate law is given by r = (k1 * k2 * [A]^2) / (k-1 * [A] + k2). At very low pressures, the concentration [A] is extremely small, making k-1 * [A] much smaller than k2. Thus, the denominator simplifies to k2, and the rate equation becomes r = k1 * [A]^2, which represents a second-order reaction.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏକ-ଆଣବିକ ପ୍ରତିକ୍ରିୟା ପାଇଁ ଲିଣ୍ଡେମ୍ୟାନ୍-ହିନସେଲଉଡ୍ (Lindemann-Hinshelwood) କ୍ରିୟାବିଧି ଅନୁଯାୟୀ, ପ୍ରତିକାରକର ଅତି କମ୍ ଚାପରେ ପ୍ରତିକ୍ରିୟାର ପ୍ରଭାବଶାଳୀ କ୍ରମ (order) କ’ଣ ଅଟେ?",
+          "options": [
+            "ପ୍ରଥମ କ୍ରମ (First order)",
+            "ଦ୍ୱିତୀୟ କ୍ରମ (Second order)",
+            "ଶୂନ୍ୟ କ୍ରମ (Zero order)",
+            "ଭଗ୍ନାଂଶ କ୍ରମ (Fractional order)"
+          ],
+          "explanation": "ଲିଣ୍ଡେମ୍ୟାନ୍-ହିନସେଲଉଡ୍ କ୍ରିୟାବିଧି ଅନୁଯାୟୀ, ହାର ସମୀକରଣ ହେଉଛି r = (k1 * k2 * [A]^2) / (k-1 * [A] + k2) | ଅତି କମ୍ ଚାପରେ, [A] ର ସାନ୍ଦ୍ରତା ଅତି କମ୍ ଥାଏ, ଯାହାଫଳରେ k-1 * [A] ର ମୂଲ୍ୟ k2 ତୁଳନାରେ ବହୁତ କମ୍ ହୋଇଯାଏ | ତେଣୁ ହରଟି k2 ହୋଇଯାଏ ଏବଂ ହାର ସମୀକରଣ r = k1 * [A]^2 ହୋଇଯାଏ, ଯାହା ଏକ ଦ୍ୱିତୀୟ କ୍ରମର ପ୍ରତିକ୍ରିୟା ଅଟେ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359157262-1",
+      "section": "Subject Knowledge",
+      "topic": "Organometallic Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following transition metal carbonyl complexes obeys the 18-electron rule?",
+      "options": [
+        "[V(CO)6]-",
+        "Mn(CO)5",
+        "Fe(CO)4",
+        "Cr(CO)5"
+      ],
+      "answer": 0,
+      "explanation": "Using the neutral atom method, Vanadium (V) belongs to Group 5 and has 5 valence electrons. Six neutral CO ligands donate 2 electrons each (12 electrons total), and the overall negative charge adds 1 electron. This gives a total of 5 + 12 + 1 = 18 valence electrons, thereby obeying the 18-electron rule.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସଂକ୍ରମଣ ଧାତୁ କାର୍ବୋନିଲ୍ ଜଟିଳ ଯୌଗିକଟି (transition metal carbonyl complex) ୧୮-ଇଲେକ୍ଟ୍ରନ୍ ନିୟମ ପାଳନ କରେ?",
+          "options": [
+            "[V(CO)6]-",
+            "Mn(CO)5",
+            "Fe(CO)4",
+            "Cr(CO)5"
+          ],
+          "explanation": "ନିରପେକ୍ଷ ପରମାଣୁ ପଦ୍ଧତି (neutral atom method) ଅନୁଯାୟୀ, ଭାନାଡିୟମ୍ (V) ଗ୍ରୁପ୍ ୫ ର ଅନ୍ତର୍ଗତ ଏବଂ ଏହାର ୫ଟି ସଂଯୋଜକ ଇଲେକ୍ଟ୍ରନ୍ ଥାଏ | ଛଅଟି ନିରପେକ୍ଷ CO ଲିଗାଣ୍ଡ୍ ପ୍ରତ୍ୟେକ ୨ଟି ଲେଖାଏଁ ଇଲେକ୍ଟ୍ରନ୍ (ସମୁଦାୟ ୧୨ ଇଲେକ୍ଟ୍ରନ୍) ପ୍ରଦାନ କରନ୍ତି ଏବଂ ସାମଗ୍ରିକ ଋଣାତ୍ମକ ଚାର୍ଜ ୧ଟି ଇଲେକ୍ଟ୍ରନ୍ ଯୋଗ କରେ | ଏହା ସମୁଦାୟ ୫ + ୧୨ + ୧ = ୧୮ ସଂଯୋଜକ ଇଲେକ୍ଟ୍ରନ୍ ପ୍ରଦାନ କରେ, ଯାହାଦ୍ୱାରା ଏହା ୧୮-ଇଲେକ୍ଟ୍ରନ୍ ନିୟମ ପାଳନ କରେ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359215681-0",
+      "section": "Child Development",
+      "topic": "Arnold Gesell's Maturational Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Arnold Gesell's maturational theory of child development, the process by which two opposite tendencies (such as handedness or reaching with one hand vs. both hands) gradually reach an effective balance is known as:",
+      "options": [
+        "Functional asymmetry",
+        "Reciprocal interweaving",
+        "Self-regulation",
+        "Individuational progression"
+      ],
+      "answer": 1,
+      "explanation": "Gesell's principle of reciprocal interweaving describes how developmental processes alternate between two opposing tendencies (like using left or right hand, or one-handed vs. two-handed reaching) before achieving a mature, integrated, and balanced state of motor coordination.",
+      "translations": {
+        "or": {
+          "question": "ଆର୍ନୋଲ୍ଡ ଗେସେଲ୍ (Arnold Gesell)ଙ୍କ ଶିଶୁ ବିକାଶର ପରିପକ୍ୱତା ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଯେଉଁ ପ୍ରକ୍ରିୟା ଦ୍ୱାରା ଦୁଇଟି ପରସ୍ପର ବିରୋଧୀ ପ୍ରବୃତ୍ତି (ଯେପରିକି ଗୋଟିଏ ହାତ ବ୍ୟବହାର କରିବା ବନାମ ଦୁଇଟିଯାକ ହାତ ବ୍ୟବହାର କରିବା) ଧୀରେ ଧୀରେ ଏକ ପ୍ରଭାବଶାଳୀ ସନ୍ତୁଳନରେ ପହଞ୍ଚନ୍ତି, ତାହାକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "Functional asymmetry (କାର୍ଯ୍ୟାତ୍ମକ ଅସମୀକରଣ)",
+            "Reciprocal interweaving (ପାରସ୍ପରିକ ଅନ୍ତର୍ଗୁନ୍ଥନ)",
+            "Self-regulation (ସ୍ୱୟଂ-ନିୟନ୍ତ୍ରଣ)",
+            "Individuational progression (ବ୍ୟକ୍ତିଗତ ପ୍ରଗତି)"
+          ],
+          "explanation": "ଗେସେଲ୍‌ଙ୍କ ପାରସ୍ପରିକ ଅନ୍ତର୍ଗୁନ୍ଥନ (reciprocal interweaving) ର ସିଦ୍ଧାନ୍ତ ବର୍ଣ୍ଣନା କରେ ଯେ କିପରି ବିକାଶମୂଳକ ପ୍ରକ୍ରିୟାଗୁଡ଼ିକ ଏକ ପରିପକ୍ୱ ଏବଂ ସନ୍ତୁଳିତ ଶାରୀରିକ ସମନ୍ୱୟ ହାସଲ କରିବା ପୂର୍ବରୁ ଦୁଇଟି ପରସ୍ପର ବିରୋଧୀ ପ୍ରବୃତ୍ତି ମଧ୍ୟରେ ପରିବର୍ତ୍ତିତ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359215681-1",
+      "section": "Child Development",
+      "topic": "Vygotsky's Cultural-Historical Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Lev Vygotsky's cultural-historical theory, which term refers to the child's subjective, lived emotional experience of their environment, representing the unity of personality and environmental characteristics?",
+      "options": [
+        "Obuchenie",
+        "Perezhivanie",
+        "Deiatel’nost’",
+        "Zona Blizhaishego Razvitiia"
+      ],
+      "answer": 1,
+      "explanation": "'Perezhivanie' is a concept used by Vygotsky to describe the psychological unit of the personality and the environment, focusing on how a child emotionally experiences, interprets, and conceptualizes a particular developmental setting.",
+      "translations": {
+        "or": {
+          "question": "ଲେଭ୍ ଭାଇଗୋଟ୍ସ୍କି (Lev Vygotsky)ଙ୍କ ସାମାଜିକ-ସାଂସ୍କୃତିକ ସିଦ୍ଧାନ୍ତରେ, କେଉଁ ଶବ୍ଦଟି ଶିଶୁର ପରିବେଶ ପ୍ରତି ତା’ର ବ୍ୟକ୍ତିଗତ ଏବଂ ଅନୁଭୂତ ଆବେଗିକ ଅନୁଭୂତିକୁ ସୂଚିତ କରେ, ଯାହା ବ୍ୟକ୍ତିତ୍ୱ ଏବଂ ପରିବେଶର ବୈଶିଷ୍ଟ୍ୟର ଏକତାକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "Obuchenie (ଓବୁଚେନି)",
+            "Perezhivanie (ପେରେଝିଭାନିଏ)",
+            "Deiatel’nost’ (ଡେୟାଟେଲନୋଷ୍ଟ)",
+            "Zona Blizhaishego Razvitiia (ଜୋନା ବ୍ଲିଜାଇସେଗୋ ରଜଭିତିଆ)"
+          ],
+          "explanation": "‘ପେରେଝିଭାନିଏ’ (Perezhivanie) ହେଉଛି ଭାଇଗୋଟ୍ସ୍କିଙ୍କ ଦ୍ୱାରା ବ୍ୟବହୃତ ଏକ ଧାରଣା ଯାହା ବ୍ୟକ୍ତିତ୍ୱ ଏବଂ ପରିବେଶର ମନୋବୈଜ୍ଞାନିକ ଏକତାକୁ ବର୍ଣ୍ଣନା କରେ। ଏହା ଶିଶୁ କିପରି ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିବେଶକୁ ଆବେଗିକ ଭାବରେ ଅନୁଭବ କରେ ଏବଂ ବୁଝେ ତାହା ଉପରେ ଗୁରୁତ୍ୱ ଦିଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359330695-0",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following passes connects Srinagar to Leh?",
+      "options": [
+        "Shipki La",
+        "Zoji La",
+        "Bara-lacha La",
+        "Nathu La"
+      ],
+      "answer": 1,
+      "explanation": "Zoji La is a high mountain pass in the Himalayas, located on National Highway 1 between Srinagar and Leh. Shipki La connects Himachal Pradesh with Tibet, Bara-lacha La connects Himachal Pradesh to Ladakh, and Nathu La connects Sikkim with Tibet.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଗିରିପଥ ଶ୍ରୀନଗରକୁ ଲେହ ସହିତ ସଂଯୋଗ କରେ?",
+          "options": [
+            "ଶିପକି ଲା",
+            "ଜୋଜି ଲା",
+            "ବାରା-ଲାଚା ଲା",
+            "ନାଥୁ ଲା"
+          ],
+          "explanation": "ଜୋଜି ଲା ହିମାଳୟର ଏକ ଉଚ୍ଚ ଗିରିପଥ, ଯାହା ଶ୍ରୀନଗର ଏବଂ ଲେହ ମଧ୍ୟରେ ଜାତୀୟ ରାଜପଥ ୧ ରେ ଅବସ୍ଥିତ। ଶିପକି ଲା ହିମାଚଳ ପ୍ରଦେଶକୁ ତିବ୍ଦତ ସହିତ, ବାରା-ଲାଚା ଲା ହିମାଚଳ ପ୍ରଦେଶକୁ ଲଦାଖ ସହିତ ଏବଂ ନାଥୁ ଲା ସିକିମକୁ ତିବ୍ଦତ ସହିତ ସଂଯୋଗ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784359330695-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following founded the 'Depressed Classes Mission of India' in 1906?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Vitthal Ramji Shinde",
+        "Jyotirao Phule",
+        "Jagjivan Ram"
+      ],
+      "answer": 1,
+      "explanation": "The Depressed Classes Mission of India was founded by Maharshi Vitthal Ramji Shinde on October 16, 1906, in Bombay. The mission aimed to provide education, employment, and social rights to the depressed classes.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୬ ମସିହାରେ ଅସ୍ପୃଶ୍ୟମାନଙ୍କ କଲ୍ୟାଣ ପାଇଁ 'ଡିପ୍ରେସଡ୍ କ୍ଲାସେସ୍ ମିଶନ ଅଫ୍ ଇଣ୍ଡିଆ' (Depressed Classes Mission of India) କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଡକ୍ଟର ବି.ଆର. ଆମ୍ବେଦକର",
+            "ବିଠଲ ରାମଜୀ ଶିନ୍ଦେ",
+            "ଜ୍ୟୋତିରାଓ ଫୁଲେ",
+            "ଜଗଜୀବନ ରାମ"
+          ],
+          "explanation": "୧୬ ଅକ୍ଟୋବର ୧୯୦୬ ରେ ବମ୍ବେଠାରେ ମହର୍ଷି ବିଠଲ ରାମଜୀ ଶିନ୍ଦେଙ୍କ ଦ୍ଵାରା 'ଡିପ୍ରେସଡ୍ କ୍ଲାସେସ୍ ମିଶନ ଅଫ୍ ଇଣ୍ଡିଆ' ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା। ଏହି ମିଶନର ଉଦ୍ଦେଶ୍ୟ ଥିଲା ଅବହେଳିତ ଶ୍ରେଣୀର ଲୋକଙ୍କୁ ଶିକ୍ଷା, ନିଯୁକ୍ତି ଏବଂ ସାମାଜିକ ଅଧିକାର ପ୍ରଦାନ କରିବା।"
+        }
+      }
     }
   ]
 }

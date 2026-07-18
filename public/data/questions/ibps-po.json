@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -3560,6 +3560,136 @@
       ],
       "answer": 2,
       "explanation": "The RBI Retail Direct Scheme allows retail investors to open a Retail Direct Gilt (RDG) Account to invest in Government Securities (G-Secs) such as Government of India Treasury Bills (T-Bills), Dated Securities, State Development Loans (SDLs), and Sovereign Gold Bonds (SGBs). Commercial Papers issued by private corporates are corporate debt instruments and cannot be traded through this portal.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784358936736-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A retailer marks up the price of an item by 40% above its cost price. He then offers a discount of 15% on the marked price. After applying the discount, he charges a sales tax of 10% on the discounted selling price from the customer. If the customer pays Rs. 1309 for the item (including the sales tax), what was the cost price of the item for the retailer?",
+      "options": [
+        "Rs. 1000",
+        "Rs. 1100",
+        "Rs. 950",
+        "Rs. 1050"
+      ],
+      "answer": 0,
+      "explanation": "Let the cost price of the item be Rs. x. Marked Price (MP) = 1.40x. Selling price after a 15% discount = 1.40x * (1 - 0.15) = 1.40x * 0.85 = 1.19x. Final price paid by the customer after 10% sales tax = 1.19x * (1 + 0.10) = 1.19x * 1.1 = 1.309x. Given that the customer pays Rs. 1309, we set up the equation: 1.309x = 1309 => x = 1000. Therefore, the cost price of the item is Rs. 1000."
+    },
+    {
+      "id": "ibps-po-ai-1784358936736-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three workers A, B, and C can complete a piece of work individually in 10 days, 12 days, and 15 days respectively. They begin to work together, but A leaves after 2 days and B leaves 3 days before the completion of the work. For how many days did B work?",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "6 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the total work be the LCM of 10, 12, and 15, which is 60 units. Efficiency of A = 60/10 = 6 units/day. Efficiency of B = 60/12 = 5 units/day. Efficiency of C = 60/15 = 4 units/day. Let the total number of days the work lasted be D. A worked for 2 days, so A's contribution = 2 * 6 = 12 units. B worked for (D - 3) days, so B's contribution = 5 * (D - 3) units. C worked for all D days, so C's contribution = 4 * D units. Total work = 12 + 5(D - 3) + 4D = 60 => 12 + 5D - 15 + 4D = 60 => 9D - 3 = 60 => 9D = 63 => D = 7 days. Since B worked for D - 3 days, B worked for 7 - 3 = 4 days."
+    },
+    {
+      "id": "ibps-po-ai-1784358955703-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain coding system, letters are coded as follows:\nVowels: A = 1, E = 2, I = 3, O = 4, U = 5\nConsonants: B = @, C = *, D = #, F = $, G = %, H = &, K = 9, L = 8, M = 7\n\nRules for coding a word:\n1. If the first letter is a vowel and the last letter is a consonant, their codes are to be interchanged.\n2. If both the first and last letters are consonants, both are to be coded as '!'.\n3. If the word contains exactly two vowels, the second vowel is to be coded as '?'.\nNote: If more than one rule is applicable, all must be applied to find the final code.\n\nWhat is the code for the word \"ACID\"?",
+      "options": [
+        "#*31",
+        "#*?1",
+        "1*?#",
+        "!*?!"
+      ],
+      "answer": 1,
+      "explanation": "Applying Rule 1: Since 'ACID' starts with a vowel (A) and ends with a consonant (D), their codes are interchanged. 'A' gets the code of 'D' (#), and 'D' gets the code of 'A' (1). Applying Rule 3: The word contains exactly two vowels ('A' and 'I'). The second vowel ('I') is coded as '?'. The consonant 'C' remains '*'. Combining these, we get '#*?1'."
+    },
+    {
+      "id": "ibps-po-ai-1784358955703-1",
+      "section": "Reasoning",
+      "topic": "Statement and Assumptions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statement:\nThe Reserve Bank of India (RBI) has recently tightened the provisioning norms for unsecured retail loans and increased the risk weights on consumer credit exposure of commercial banks and NBFCs by 25 percentage points.\n\nAssumptions:\nI. The rapid growth in unsecured consumer loans could pose systemic risks to the financial stability of the banking sector if left unchecked.\nII. Commercial banks and NBFCs will completely stop lending unsecured consumer loans to individual borrowers to avoid higher capital requirements.\nIII. Increasing risk weights will make unsecured retail loans costlier for borrowers, thereby helping to moderate credit growth in this segment.\n\nWhich of the following assumptions is/are implicit in the statement?",
+      "options": [
+        "Only I is implicit",
+        "Only I and III are implicit",
+        "Only II and III are implicit",
+        "All I, II and III are implicit"
+      ],
+      "answer": 1,
+      "explanation": "Assumption I is implicit because the central bank proactively tightens norms to mitigate potential systemic threats from rapid, unchecked credit expansion. Assumption II is not implicit because it is too extreme; banks will not completely halt lending but will instead realign their risk appetite and pricing. Assumption III is implicit because the underlying economic mechanism of raising risk weights relies on lenders passing the increased cost of capital to borrowers, which moderates credit demand."
+    },
+    {
+      "id": "ibps-po-ai-1784358972519-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence below, four words printed in bold are labeled (A), (B), (C), and (D). One or more pairs of these words may need to be interchanged to make the sentence grammatically correct and contextually meaningful. Choose the correct pair(s) to interchange.\n\n'The government's decision to **subsidize** (A) fuel prices was met with widespread **criticism** (B) from economists who argued that it would **alleviate** (C) the fiscal deficit rather than **exacerbate** (D) it.'",
+      "options": [
+        "Only A-B",
+        "Only C-D",
+        "Both A-C and B-D",
+        "No exchange required"
+      ],
+      "answer": 1,
+      "explanation": "Subsidizing fuel prices increases government expenditure, which worsens (exacerbates) the fiscal deficit. Economists would criticize the move because it would exacerbate the deficit rather than alleviate (reduce/lessen) it. Therefore, words (C) 'alleviate' and (D) 'exacerbate' must be interchanged to make the sentence logical."
+    },
+    {
+      "id": "ibps-po-ai-1784358972519-1",
+      "section": "English",
+      "topic": "Homophones and Contextual Word Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, two homophones have been used in incorrect contexts, resulting in semantic errors. Identify the option that correctly modifies the words labeled (A) and (B) to restore the intended meaning of the sentence.\n\n'The research team divided the participants into five **discreet** (A) categories to ensure that the sensitive personal data of each individual was handled in a **discrete** (B) manner.'",
+      "options": [
+        "Replace (A) with 'discrete' and (B) with 'discreet'",
+        "Replace (A) with 'discretionary' and (B) with 'discretional'",
+        "Replace (A) with 'discrete' and keep (B) as 'discrete'",
+        "No correction is required as both words are used in their correct contexts"
+      ],
+      "answer": 0,
+      "explanation": "'Discrete' means individually separate, distinct, or discontinuous, which fits the context of dividing participants into separate categories (A). 'Discreet' means careful, circumspect, or showing prudent reserve, which fits the context of handling sensitive personal data confidentially (B). Swapping their positions corrects the semantic error."
+    },
+    {
+      "id": "ibps-po-ai-1784358979029-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations & Standards",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Priority Sector Lending (PSL) guidelines of the Reserve Bank of India, what is the specific sub-target for lending to 'Micro Enterprises' for domestic commercial banks (excluding Regional Rural Banks and Small Finance Banks)?",
+      "options": [
+        "7.5% of ANBC or CEOBE, whichever is higher",
+        "10.0% of ANBC or CEOBE, whichever is higher",
+        "12.0% of ANBC or CEOBE, whichever is higher",
+        "18.0% of ANBC or CEOBE, whichever is higher"
+      ],
+      "answer": 0,
+      "explanation": "As per the RBI guidelines on Priority Sector Lending (PSL), domestic commercial banks are required to allocate 7.5% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, specifically to Micro Enterprises.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784358979029-1",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which institution in India is responsible for administering the 'Depositor Education and Awareness Fund' (DEAF), which receives inoperative deposit accounts untouched for ten years or more?",
+      "options": [
+        "Securities and Exchange Board of India (SEBI)",
+        "Reserve Bank of India (RBI)",
+        "Deposit Insurance and Credit Guarantee Corporation (DICGC)",
+        "Ministry of Finance"
+      ],
+      "answer": 1,
+      "explanation": "The Depositor Education and Awareness Fund (DEAF) Scheme was established by the Reserve Bank of India (RBI) under Section 26A of the Banking Regulation Act, 1949. Banks are required to transfer balances of accounts that have not been operated for 10 years or more to this fund, which is managed and administered by the RBI.",
       "status": "pending"
     }
   ]
