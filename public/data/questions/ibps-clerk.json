@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -3931,6 +3931,104 @@
       ],
       "answer": 1,
       "explanation": "The New Development Bank (NDB), formerly referred to as the BRICS Development Bank, is a multilateral development bank established by the BRICS states (Brazil, Russia, India, China, and South Africa). It is headquartered in Shanghai, China. (Note: Asian Infrastructure Investment Bank is headquartered in Beijing, and Asian Development Bank is in Manila).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784433729990-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The ratio of the length and breadth of a rectangle is 5 : 3. If the length is increased by 4 meters and the breadth is decreased by 2 meters, the area of the rectangle remains the same. Find the perimeter of the rectangle.",
+      "options": [
+        "56 meters",
+        "64 meters",
+        "72 meters",
+        "80 meters"
+      ],
+      "answer": 1,
+      "explanation": "Let the length and breadth of the rectangle be 5x and 3x, respectively.\nOriginal Area = 5x * 3x = 15x^2\nAccording to the question, when the length is increased by 4 m and breadth is decreased by 2 m, the area remains unchanged:\n(5x + 4)(3x - 2) = 15x^2\n15x^2 - 10x + 12x - 8 = 15x^2\n2x - 8 = 0\n2x = 8 => x = 4\nSo, Length = 5 * 4 = 20 meters and Breadth = 3 * 4 = 12 meters.\nPerimeter of the rectangle = 2(Length + Breadth) = 2(20 + 12) = 2(32) = 64 meters."
+    },
+    {
+      "id": "ibps-clerk-ai-1784433729990-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person invests a certain sum of money at 12% per annum simple interest. After 3 years, he reinvests the entire amount (principal + interest) in another scheme offering 10% per annum compound interest (compounded annually) for 2 years. If the total compound interest earned after 2 years is Rs. 5,712, find the initial sum invested.",
+      "options": [
+        "Rs. 15,000",
+        "Rs. 18,000",
+        "Rs. 20,000",
+        "Rs. 24,000"
+      ],
+      "answer": 2,
+      "explanation": "Let the initial sum invested be P.\nSimple Interest (SI) earned in 3 years at 12% per annum = P * 12 * 3 / 100 = 0.36P.\nTotal amount after 3 years = P + 0.36P = 1.36P.\nThis amount (1.36P) is invested at 10% per annum compound interest for 2 years.\nThe effective compound interest rate for 2 years at 10% is 10 + 10 + (10*10)/100 = 21%.\nCompound Interest (CI) earned = 21% of 1.36P = 0.21 * 1.36P = 0.2856P.\nGiven that the compound interest earned is Rs. 5,712:\n0.2856P = 5712\nP = 5712 / 0.2856 = 20,000.\nTherefore, the initial sum invested was Rs. 20,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1784433750894-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'BEAUTY' is written as 'CGDYYE'. How will 'FLOWER' be written in that code language?",
+      "options": [
+        "GNRAJX",
+        "GMRZJX",
+        "GNQAIX",
+        "HNSAKY"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed in the coding is an increasing addition to the positional values of the letters: B (+1) -> C, E (+2) -> G, A (+3) -> D, U (+4) -> Y, T (+5) -> Y, Y (+6) -> E. Applying the same logic to 'FLOWER': F (+1) -> G, L (+2) -> N, O (+3) -> R, W (+4) -> A, E (+5) -> J, R (+6) -> X. Therefore, 'FLOWER' is coded as 'GNRAJX'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784433750894-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons - P, Q, R, S, T, and U - are sitting in a straight row facing North. P sits to the immediate right of R. S sits second to the right of P. Only one person sits between S and Q. T sits to the immediate left of Q. If U sits adjacent to both P and S, who sits third to the left of Q?",
+      "options": [
+        "P",
+        "U",
+        "S",
+        "R"
+      ],
+      "answer": 1,
+      "explanation": "Based on the clues: 1. U sits adjacent to both P and S, which gives the arrangement P - U - S. 2. P sits to the immediate right of R, extending the arrangement to R - P - U - S. 3. T sits to the immediate left of Q, forming the pair T - Q. 4. Only one person sits between S and Q, which positions T and Q right after S. Combining all clues, the final linear arrangement from left to right is: R - P - U - S - T - Q. Counting third to the left of Q (T is 1st left, S is 2nd left, U is 3rd left) gives U."
+    },
+    {
+      "id": "ibps-clerk-ai-1784433846725-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Legal Entity Identifier (LEI) is a unique global identifier code mandated by the Reserve Bank of India for non-individual entities undertaking high-value financial transactions. How many digits/characters does the LEI code consist of?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "The Legal Entity Identifier (LEI) is a 20-character unique alpha-numeric code based on the ISO 17442 standard. It is designed to uniquely identify distinct legal entities that participate in financial transactions globally.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784433846725-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the revised annual premium amount for the Pradhan Mantri Suraksha Bima Yojana (PMSBY), an accident insurance scheme in India, effective from June 1, 2022?",
+      "options": [
+        "Rs. 12",
+        "Rs. 20",
+        "Rs. 330",
+        "Rs. 436"
+      ],
+      "answer": 1,
+      "explanation": "Effective from June 1, 2022, the central government revised the annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY) from Rs. 12 to Rs. 20. The scheme provides accidental death and disability cover of up to Rs. 2 Lakh to people in the age group of 18 to 70 years.",
       "status": "pending"
     }
   ]
