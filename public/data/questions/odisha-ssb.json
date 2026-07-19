@@ -5434,6 +5434,261 @@
           "explanation": "ସୋମବଂଶର ରାଜା ଯଯାତି ପ୍ରଥମ (ଯଯାତି କେଶରୀ) ଯାଜପୁରର ବୈତରଣୀ ନଦୀ କୂଳରେ ଦଶାଶ୍ୱମେଧ ଯଜ୍ଞ କରିଥିବା ଜଣାଯାଏ। ଏହି ମହାନ ଯଜ୍ଞ ପରିଚାଳନା ପାଇଁ ସେ କନୌଜରୁ ଦଶ ହଜାର ବୈଦିକ ବ୍ରାହ୍ମଣଙ୍କୁ ନିମନ୍ତ୍ରଣ କରିଥିଲେ, ଯେଉଁମାନେ ପରବର୍ତ୍ତୀ ସମୟରେ ଓଡ଼ିଶାରେ ବସବାସ କଲେ।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-0",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence (Gardner, Spearman)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Charles Spearman's two-factor theory of intelligence, what does the 's' factor represent?",
+      "options": [
+        "Specific ability unique to a particular task",
+        "Social intelligence required for interpersonal relations",
+        "Spatial orientation ability",
+        "Sequential reasoning factor"
+      ],
+      "answer": 0,
+      "explanation": "Charles Spearman proposed the two-factor theory of intelligence, which posits that intellectual performance depends on a general cognitive factor ('g' factor) and specific factors ('s' factors) unique to individual tasks."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Motivation",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to David McClelland's Theory of Needs, individuals who are strongly motivated by the desire to influence, guide, or control others are said to have a high need for which of the following?",
+      "options": [
+        "Achievement (nAch)",
+        "Affiliation (nAff)",
+        "Power (nPower)",
+        "Autonomy (nAuto)"
+      ],
+      "answer": 2,
+      "explanation": "McClelland's Need Theory identifies three primary motivators: Achievement, Affiliation, and Power. The need for power (nPower) drives individuals to influence, control, and lead others."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-2",
+      "section": "Teaching Aptitude",
+      "topic": "Personality & its Assessment",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following personality assessment techniques utilizes 10 symmetrical inkblots to evaluate an individual's personality structure and emotional functioning?",
+      "options": [
+        "Thematic Apperception Test (TAT)",
+        "Rorschach Inkblot Test",
+        "Minnesota Multiphasic Personality Inventory (MMPI)",
+        "Children's Apperception Test (CAT)"
+      ],
+      "answer": 1,
+      "explanation": "The Rorschach Inkblot Test is a projective psychological assessment method consisting of 10 standardized symmetrical inkblots designed to evaluate personality characteristics and unconscious impulses."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-3",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the revised version of Bloom's Taxonomy (Anderson & Krathwohl, 2001), which cognitive process represents the highest level of complexity?",
+      "options": [
+        "Evaluating",
+        "Analyzing",
+        "Creating",
+        "Understanding"
+      ],
+      "answer": 2,
+      "explanation": "In the 2001 revision of Bloom's Taxonomy, the cognitive domain was updated with verb forms. The highest level of this hierarchy is 'Creating', surpassing 'Evaluating' which was previously the peak (Evaluation) in the 1956 version."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-4",
+      "section": "Teaching Aptitude",
+      "topic": "Formative vs Summative Assessment",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following best describes the primary purpose of a 'Formative Assessment' in the teaching-learning process?",
+      "options": [
+        "To assign final grades and certify student achievements at the end of a term",
+        "To provide ongoing feedback to monitor student learning and improve instruction",
+        "To rank students based on their standardized performance against a national norm",
+        "To evaluate the overall administrative effectiveness of the school curriculum"
+      ],
+      "answer": 1,
+      "explanation": "Formative assessment is an ongoing diagnostic and developmental tool. Its primary function is to collect continuous feedback to help teachers adapt their teaching and students improve their learning during the instructional process."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-5",
+      "section": "Teaching Aptitude",
+      "topic": "Lesson Planning & Microteaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the standard Indian model of microteaching developed by NCERT, what is the total designated time duration for a complete microteaching cycle?",
+      "options": [
+        "30 minutes",
+        "36 minutes",
+        "40 minutes",
+        "45 minutes"
+      ],
+      "answer": 1,
+      "explanation": "The NCERT model of microteaching consists of a 36-minute cycle split into: Teach (6 min), Feedback (6 min), Re-plan (12 min), Re-teach (6 min), and Re-feedback (6 min)."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-6",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the context of progressive methods of instruction, who developed the 'Project Method' based on John Dewey's pragmatic philosophy of education?",
+      "options": [
+        "William Heard Kilpatrick",
+        "William James",
+        "Helen Parkhurst",
+        "Maria Montessori"
+      ],
+      "answer": 0,
+      "explanation": "William Heard Kilpatrick, a student and colleague of John Dewey, formalized and popularized the Project Method of teaching, emphasizing purposeful activity conducted in a social environment."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-7",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence (Gardner, Spearman)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "An individual who possesses a high capacity to detect and respond appropriately to the moods, motivations, and desires of other people is demonstrating which of Howard Gardner's multiple intelligences?",
+      "options": [
+        "Intrapersonal Intelligence",
+        "Interpersonal Intelligence",
+        "Naturalistic Intelligence",
+        "Bodily-Kinesthetic Intelligence"
+      ],
+      "answer": 1,
+      "explanation": "According to Howard Gardner's Theory of Multiple Intelligences, interpersonal intelligence is the capacity to understand and interact effectively with other people, matching and responding to their emotions and motivations."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-8",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "When a test measures what it consistently purports to measure over repeated administrations, but does not actually align with the external curriculum standards it is supposed to evaluate, the test can be described as:",
+      "options": [
+        "Highly valid but not reliable",
+        "Highly reliable but not valid",
+        "Both highly reliable and highly valid",
+        "Neither reliable nor valid"
+      ],
+      "answer": 1,
+      "explanation": "Reliability refers to the consistency of a test's results. Validity refers to whether the test measures what it is intended to measure. A test can yield highly consistent results (reliable) while consistently measuring the wrong concept (invalid)."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-9",
+      "section": "Teaching Aptitude",
+      "topic": "Personality & its Assessment",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Raymond Cattell's 16 Personality Factor (16PF) questionnaire is constructed based on which statistical technique used to reduce large sets of variables to a smaller number of underlying dimensions?",
+      "options": [
+        "Regression Analysis",
+        "Factor Analysis",
+        "Analysis of Variance (ANOVA)",
+        "Cluster Analysis"
+      ],
+      "answer": 1,
+      "explanation": "Raymond Cattell applied the statistical method of factor analysis to condense a massive list of personality traits into 16 primary source traits, forming the structural basis of the 16PF Questionnaire."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-10",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Motivation",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Maslow's expanded eight-stage hierarchy of needs, which need represents the desire for symmetry, order, and beauty, situated directly below Self-Actualization?",
+      "options": [
+        "Cognitive Needs",
+        "Aesthetic Needs",
+        "Transcendence Needs",
+        "Esteem Needs"
+      ],
+      "answer": 1,
+      "explanation": "In Abraham Maslow's modified eight-stage hierarchy (introduced in the 1970s), Cognitive Needs (knowledge/meaning) and Aesthetic Needs (beauty, symmetry, balance) were added as cognitive growth needs below Self-Actualization."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-11",
+      "section": "Teaching Aptitude",
+      "topic": "Lesson Planning & Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Herbartian steps of lesson planning, which of the following is the first step that aims to prepare the minds of learners for receiving new knowledge?",
+      "options": [
+        "Presentation",
+        "Association",
+        "Preparation (or Introduction)",
+        "Generalization"
+      ],
+      "answer": 2,
+      "explanation": "The Herbartian five-step teaching model begins with Preparation (or Introduction), designed to link the students' prior knowledge with the new topic to prepare them for learning."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-12",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which type of evaluation is specifically designed to determine a student's entry-level performance and readiness to begin a course of study, helping to locate the student in the appropriate instructional starting point?",
+      "options": [
+        "Diagnostic Evaluation",
+        "Placement Evaluation",
+        "Summative Evaluation",
+        "Formative Evaluation"
+      ],
+      "answer": 1,
+      "explanation": "Placement evaluation is conducted before instruction begins to determine a student's prerequisite skills, entry behavior, and correct educational track or starting level."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-13",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which teaching strategy, heavily advocated by Jerome Bruner, encourages students to actively interact with their environment to manipulate objects, perform experiments, and struggle with questions to discover principles on their own?",
+      "options": [
+        "Expository Teaching",
+        "Discovery Learning",
+        "Direct Instruction",
+        "Programmed Learning"
+      ],
+      "answer": 1,
+      "explanation": "Jerome Bruner proposed Discovery Learning, an inquiry-based constructivist approach where learners build understanding and uncover facts and principles independently through exploration and problem-solving."
+    },
+    {
+      "id": "odisha-ssb-edu-1784439744827-14",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the affective domain of Bloom's Taxonomy (as developed by Krathwohl, Bloom, and Masia), which level represents the highest level of internalization where an individual acts consistently in accordance with their internalized values?",
+      "options": [
+        "Responding",
+        "Valuing",
+        "Organization",
+        "Characterization by a Value or Value Complex"
+      ],
+      "answer": 3,
+      "explanation": "The affective domain taxonomy consists of five levels: Receiving, Responding, Valuing, Organization, and Characterization by a value or value complex. Characterization is the highest level, representing a fully integrated and consistent lifestyle and philosophy based on those values."
     }
   ]
 }
