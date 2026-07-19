@@ -3691,6 +3691,40 @@
       "answer": 1,
       "explanation": "The Depositor Education and Awareness Fund (DEAF) Scheme was established by the Reserve Bank of India (RBI) under Section 26A of the Banking Regulation Act, 1949. Banks are required to transfer balances of accounts that have not been operated for 10 years or more to this fund, which is managed and administered by the RBI.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-pred-1784453586549-0",
+      "section": "Predicted",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence.\n\n\"Not only did the manager (A) / failed to address the grievances (B) / of the employees, but he also (C) / threatened to suspend them. (D)\"",
+      "options": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+      ],
+      "answer": 1,
+      "explanation": "In Part B, 'failed' is incorrect. After the auxiliary verb 'did' (used here for inversion), the base form of the verb (bare infinitive) must be used. Therefore, 'failed' should be replaced with 'fail'. The correct sentence is: 'Not only did the manager fail to...'"
+    },
+    {
+      "id": "ibps-po-pred-1784453586549-1",
+      "section": "Predicted",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence.\n\n\"Had the committee members (A) / been more receptive to the suggestions, (B) / the project would have completed (C) / on time without any budget overrun. (D)\"",
+      "options": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+      ],
+      "answer": 2,
+      "explanation": "In Part C, the active voice 'would have completed' is incorrect because the project does not perform the action of completing; it is completed by the team. The passive voice 'would have been completed' must be used instead. The correct sentence is: '...the project would have been completed on time...'"
     }
   ]
 }

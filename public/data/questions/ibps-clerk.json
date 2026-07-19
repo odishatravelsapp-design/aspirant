@@ -4030,6 +4030,176 @@
       "answer": 1,
       "explanation": "Effective from June 1, 2022, the central government revised the annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY) from Rs. 12 to Rs. 20. The scheme provides accidental death and disability cover of up to Rs. 2 Lakh to people in the age group of 18 to 70 years.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-0",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of the question mark (?) in the following equation?\n\n35% of 580 + 60% of ? = 329",
+      "options": [
+        "180",
+        "200",
+        "210",
+        "220"
+      ],
+      "answer": 2,
+      "explanation": "Step 1: Calculate 35% of 580.\n35% of 580 = (35/100) * 580 = 203.\n\nStep 2: Substitute this value back into the equation.\n203 + 60% of ? = 329\n\nStep 3: Solve for 60% of ?.\n60% of ? = 329 - 203 = 126\n\nStep 4: Find the value of ?.\n? = (126 * 100) / 60 = 210."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-1",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of the question mark (?) in the following equation?\n\n√(576) × 12 + 12² - 18 × 6 = ?²",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "22"
+      ],
+      "answer": 2,
+      "explanation": "Step 1: Evaluate the square root and exponent.\n√(576) = 24\n12² = 144\n\nStep 2: Substitute these values into the equation.\n24 × 12 + 144 - 18 × 6 = ?²\n\nStep 3: Perform multiplication according to BODMAS.\n24 × 12 = 288\n18 × 6 = 108\n\nStep 4: Solve the expression.\n288 + 144 - 108 = 324\n\nStep 5: Find the square root of 324 to get ?.\n?² = 324 => ? = 18."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-2",
+      "section": "Predicted",
+      "topic": "Average",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The average age of 15 students in a class is 18 years. When a new student joins, the average age of the class increases by 0.5 years. What is the age of the new student?",
+      "options": [
+        "24 years",
+        "25.5 years",
+        "26 years",
+        "27.5 years"
+      ],
+      "answer": 2,
+      "explanation": "Step 1: Find the total age of the initial 15 students.\nTotal age = 15 * 18 = 270 years.\n\nStep 2: Find the new number of students and the new average age.\nNew count of students = 16\nNew average age = 18 + 0.5 = 18.5 years.\n\nStep 3: Find the new total age of the 16 students.\nNew total age = 16 * 18.5 = 296 years.\n\nStep 4: Find the age of the new student.\nAge of the new student = New total age - Initial total age = 296 - 270 = 26 years."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-3",
+      "section": "Predicted",
+      "topic": "Average",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The average score of 40 students in an exam is 52. Later, it was discovered that two scores were misread as 68 and 24 instead of 56 and 46 respectively. What is the correct average score of the class?",
+      "options": [
+        "51.75",
+        "52.15",
+        "52.25",
+        "52.50"
+      ],
+      "answer": 2,
+      "explanation": "Step 1: Calculate the incorrect sum of scores.\nIncorrect sum = 40 * 52 = 2080.\n\nStep 2: Find the difference between the correct and incorrect scores.\nSum of incorrect scores = 68 + 24 = 92.\nSum of correct scores = 56 + 46 = 102.\nDifference = Correct - Incorrect = 102 - 92 = +10.\n\nStep 3: Calculate the correct sum.\nCorrect sum = 2080 + 10 = 2090.\n\nStep 4: Calculate the correct average.\nCorrect average = 2090 / 40 = 52.25."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-4",
+      "section": "Predicted",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a certain code language, 'ROBUST' is coded as 'QNATRS'. How will 'STABLE' be coded in that same language?",
+      "options": [
+        "RSZAKD",
+        "RSYAKD",
+        "QSZAKD",
+        "RTAAKD"
+      ],
+      "answer": 0,
+      "explanation": "The pattern involves shifting each letter backward by 1 position in the alphabetical order (-1 shift):\nR - 1 = Q\nO - 1 = N\nB - 1 = A\nU - 1 = T\nS - 1 = R\nT - 1 = S\n\nApplying the same logic to 'STABLE':\nS - 1 = R\nT - 1 = S\nA - 1 = Z\nB - 1 = A\nL - 1 = K\nE - 1 = D\nSo, 'STABLE' is coded as 'RSZAKD'."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-5",
+      "section": "Predicted",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a certain code language, 'PRIDE' is coded as '11-9-18-23-22' and 'CROWN' is coded as '24-9-12-4-13'. How will 'FAITH' be coded in that language?",
+      "options": [
+        "21-26-18-7-19",
+        "21-25-18-7-19",
+        "20-26-18-7-19",
+        "21-26-17-7-19"
+      ],
+      "answer": 0,
+      "explanation": "The coding pattern uses the positional values of the opposite (reverse) alphabet letters (A=26, B=25, ..., Z=1).\nFor PRIDE:\nP opposite is K (11)\nR opposite is I (9)\nI opposite is R (18)\nD opposite is W (23)\nE opposite is V (22)\nThis gives '11-9-18-23-22'.\n\nFor FAITH:\nF opposite is U (21)\nA opposite is Z (26)\nI opposite is R (18)\nT opposite is G (7)\nH opposite is S (19)\nSo, the code is '21-26-18-7-19'."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-6",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the missing number in the following number series:\n\n12, 13, 22, 47, 96, ?",
+      "options": [
+        "165",
+        "177",
+        "183",
+        "191"
+      ],
+      "answer": 1,
+      "explanation": "Let's find the difference between consecutive terms:\n13 - 12 = 1 (which is 1²)\n22 - 13 = 9 (which is 3²)\n47 - 22 = 25 (which is 5²)\n96 - 47 = 49 (which is 7²)\n\nThe differences are squares of consecutive odd numbers (1², 3², 5², 7²). \nThe next difference should be 9² = 81.\nTherefore, the missing number is 96 + 81 = 177."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-7",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the wrong number in the following number series:\n\n4, 6, 15, 48, 201, 1011, 6073",
+      "options": [
+        "6",
+        "15",
+        "48",
+        "201"
+      ],
+      "answer": 2,
+      "explanation": "The pattern of the series is:\n1st term * 1 + 2 = 2nd term => 4 * 1 + 2 = 6\n2nd term * 2 + 3 = 3rd term => 6 * 2 + 3 = 15\n3rd term * 3 + 4 = 4th term => 15 * 3 + 4 = 49 (Not 48)\n4th term * 4 + 5 = 5th term => 49 * 4 + 5 = 201\n5th term * 5 + 6 = 6th term => 201 * 5 + 6 = 1011\n6th term * 6 + 7 = 7th term => 1011 * 6 + 7 = 6073\n\nThus, 48 is the wrong number in the series; it should be 49."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-8",
+      "section": "Predicted",
+      "topic": "Synonyms",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In the following question, a word is given in bold. Select the option that is most nearly SIMILAR in meaning to the bold word.\n\nDespite the chaotic environment of the stock market, the seasoned trader remained **unperturbed** throughout the day.",
+      "options": [
+        "agitated",
+        "composed",
+        "anxious",
+        "bewildered"
+      ],
+      "answer": 1,
+      "explanation": "'Unperturbed' means not concerned, anxious, or excited; untroubled. Among the options, 'composed' (meaning calm and in control of oneself) is the closest synonym. 'Agitated', 'anxious', and 'bewildered' are antonyms or unrelated states of confusion/stress."
+    },
+    {
+      "id": "ibps-clerk-pred-1784453506166-9",
+      "section": "Predicted",
+      "topic": "Synonyms",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the word that is most nearly SIMILAR in meaning to the word: **OBDURATE**",
+      "options": [
+        "flexible",
+        "stubborn",
+        "transient",
+        "generous"
+      ],
+      "answer": 1,
+      "explanation": "'Obdurate' means stubbornly refusing to change one's opinion or course of action. Therefore, 'stubborn' is the correct synonym. 'Flexible' is an antonym, while 'transient' (temporary) and 'generous' (giving) have completely different meanings."
     }
   ]
 }

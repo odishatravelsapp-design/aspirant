@@ -4138,6 +4138,176 @@
           "explanation": "୧୯୩୧ ମସିହାରେ କଟକଠାରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ଭୁବନାନନ୍ଦ ଦାସଙ୍କ ସଭାପତିତ୍ୱରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା। ଏହି ସମ୍ମିଳନୀ ଓଡ଼ିଶାର ଗଡ଼ଜାତ ରାଜ୍ୟଗୁଡ଼ିକରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନର ସଂଗଠିତ ଆରମ୍ଭକୁ ଚିହ୍ନିତ କରିଥିଲା।"
         }
       }
+    },
+    {
+      "id": "osssc-pred-1784453619927-0",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The price of sugar rises by 20%. By how much percent should a household reduce its consumption of sugar so that the expenditure on it increases by only 8%?",
+      "options": [
+        "10%",
+        "12%",
+        "8%",
+        "15%"
+      ],
+      "answer": 0,
+      "explanation": "Let the original price be Rs. 100 and original consumption be 100 units. Original Expenditure = 100 * 100 = Rs. 10,000. New price = Rs. 120. Allowed new expenditure = Rs. 10,000 + 8% of 10,000 = Rs. 10,800. New consumption = 10,800 / 120 = 90 units. Reduction in consumption = 100 - 90 = 10 units. Percentage reduction = (10 / 100) * 100 = 10%."
+    },
+    {
+      "id": "osssc-pred-1784453619927-1",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In an election, 10% of the voters on the voters' list did not cast their votes and 10% of the votes cast were found invalid. The successful candidate got 54% of the valid votes and won by a majority of 1620 votes. Find the total number of voters enrolled on the voters' list.",
+      "options": [
+        "22000",
+        "25000",
+        "20000",
+        "28000"
+      ],
+      "answer": 1,
+      "explanation": "Let the total number of voters be x. Votes cast = 0.9x. Valid votes = 0.9x * 0.9 = 0.81x. The winner got 54% of valid votes, which means the loser got 46% of valid votes. Majority difference = 54% - 46% = 8% of valid votes. Therefore, 8% of 0.81x = 1620 => 0.08 * 0.81x = 1620 => 0.0648x = 1620 => x = 1620 / 0.0648 = 25,000."
+    },
+    {
+      "id": "osssc-pred-1784453619927-2",
+      "section": "Predicted",
+      "topic": "Analogy",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Identify the relationship in the first pair and find the missing term: Hirakud : Mahanadi :: Mandira : ?",
+      "options": [
+        "Brahmani",
+        "Baitarani",
+        "Sankh",
+        "Ib"
+      ],
+      "answer": 2,
+      "explanation": "The Hirakud Dam is built across the Mahanadi River in Odisha. Similarly, the Mandira Dam is built across the Sankh River near Rourkela, Odisha."
+    },
+    {
+      "id": "osssc-pred-1784453619927-3",
+      "section": "Predicted",
+      "topic": "Analogy",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "If 'NUMERICAL' is coded as 'LMUIREACN' under a specific positional arrangement, then 'FRACTION' will be coded as:",
+      "options": [
+        "NARTCOIF",
+        "NRATCIOF",
+        "NARCTOIF",
+        "NARTCIOF"
+      ],
+      "answer": 0,
+      "explanation": "In 'NUMERICAL' (9 letters), the letters are swapped in symmetric pairs from the outer ends inward: swap 1st & 9th (N and L become L and N), swap 2nd & 3rd (U and M become M and U), swap 4th & 6th (E and I become I and E), swap 7th & 8th (C and A become A and C), while the middle letter R (5th) remains unchanged. Applying the same rules to 'FRACTION' (8 letters): Swap 1st and 8th (F & N -> N ... F), swap 2nd and 3rd (R & A -> A R), swap 4th and 5th (C & T -> T C), swap 6th and 7th (I & O -> O I). This yields 'N A R T C O I F'."
+    },
+    {
+      "id": "osssc-pred-1784453619927-4",
+      "section": "Predicted",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which of the following mountain passes connects the Indian state of Sikkim with the Tibet Autonomous Region of China?",
+      "options": [
+        "Shipki La",
+        "Nathu La",
+        "Bomdi La",
+        "Lipulekh"
+      ],
+      "answer": 1,
+      "explanation": "Nathu La is a mountain pass in the Himalayas that connects Sikkim with Tibet. Shipki La is in Himachal Pradesh, Bomdi La is in Arunachal Pradesh, and Lipulekh is in Uttarakhand."
+    },
+    {
+      "id": "osssc-pred-1784453619927-5",
+      "section": "Predicted",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Consider the following statements regarding the Mahanadi River basin:\n1. It rises in the highlands of Chhattisgarh.\n2. Its basin area is shared by Maharashtra, Chhattisgarh, Jharkhand, and Odisha.\n3. The Hirakud Dam, one of the longest earthen dams in the world, is located on this river.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "explanation": "All three statements are correct. The Mahanadi rises near Sihawa in the Dhamtari district of Chhattisgarh. Its drainage basin is shared by Chhattisgarh, Odisha, Jharkhand, Maharashtra, and Madhya Pradesh. The historic Hirakud Dam is built across it in Sambalpur, Odisha."
+    },
+    {
+      "id": "osssc-pred-1784453619927-6",
+      "section": "Predicted",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The historic 'Na'Anka Durbhiksha' (The Great Orissa Famine) occurred during which of the following years?",
+      "options": [
+        "1866",
+        "1857",
+        "1876",
+        "1899"
+      ],
+      "answer": 0,
+      "explanation": "The Na'Anka Durbhiksha was a catastrophic famine that struck the East Coast of India, particularly the state of Odisha, in the year 1866, resulting in the loss of over a million lives."
+    },
+    {
+      "id": "osssc-pred-1784453619927-7",
+      "section": "Predicted",
+      "topic": "History",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Who among the following presided over the historic Karachi Session of the Indian National Congress in 1931, which adopted resolutions on Fundamental Rights and the National Economic Programme?",
+      "options": [
+        "Subhash Chandra Bose",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": 1,
+      "explanation": "The Karachi Session of the Indian National Congress in March 1931 was presided over by Sardar Vallabhbhai Patel. This session is highly significant as it drafted the resolution on Fundamental Rights and Economic Policy."
+    },
+    {
+      "id": "osssc-pred-1784453619927-8",
+      "section": "Predicted",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which Article of the Constitution of India deals with the 'Abolition of Untouchability' and forbids its practice in any form?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 18"
+      ],
+      "answer": 2,
+      "explanation": "Article 17 of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form. The enforcement of any disability arising out of 'Untouchability' is an offence punishable in accordance with law."
+    },
+    {
+      "id": "osssc-pred-1784453619927-9",
+      "section": "Predicted",
+      "topic": "Indian Polity",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Under which of the following circumstances can the Parliament of India legislate on subjects mentioned in the State List?\n1. When the Rajya Sabha passes a resolution supported by not less than two-thirds of members present and voting.\n2. During the operation of a National Emergency.\n3. To give effect to international agreements and treaties.\n4. When the legislatures of two or more states pass resolutions requesting Parliament to do so.\nSelect the correct answer using the codes below:",
+      "options": [
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 3,
+      "explanation": "The Constitution empowers the Parliament to make laws on State List subjects under five extraordinary circumstances: 1) Under Article 249 (Rajya Sabha resolution), 2) Under Article 250 (National Emergency), 3) Under Article 252 (Agreement between two or more states), 4) Under Article 253 (To implement international treaties), and 5) Under Article 356 (President's Rule). Hence, all four statements are correct."
     }
   ]
 }

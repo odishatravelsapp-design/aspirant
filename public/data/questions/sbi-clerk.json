@@ -3767,6 +3767,176 @@
       ],
       "answer": 2,
       "explanation": "Breaking down the expression: 1) 'A @ B' means A is the daughter of B (A is female). 2) 'B % C' means B is the husband of C (B is male, C is female, so C is A's mother). 3) 'C $ D' means C is the sister of D. 4) 'D # E' means D is the brother of E. Since C, D, and E are siblings and C is the mother of A, A is the niece of E."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-0",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of the question mark (?) in the following equation? \n\n√441 × 5 + 35% of 240 - 11² = ?",
+      "options": [
+        "68",
+        "74",
+        "58",
+        "82"
+      ],
+      "answer": 0,
+      "explanation": "Follow the BODMAS rule:\n1) √441 = 21.\n2) 21 × 5 = 105.\n3) 35% of 240 = (35/100) × 240 = 84.\n4) 11² = 121.\nNow, combine the values: 105 + 84 - 121 = 189 - 121 = 68."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-1",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of the question mark (?) in the following equation?\n\n(12.5% of 120) × (33(1/3)% of 48) ÷ (2.5% of 160) = ?² - 4",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "Convert percentages to fractions to simplify:\n1) 12.5% = 1/8. So, 1/8 of 120 = 15.\n2) 33(1/3)% = 1/3. So, 1/3 of 48 = 16.\n3) 2.5% = 1/40. So, 1/40 of 160 = 4.\nNow substitute these values back into the equation:\n(15 × 16) ÷ 4 = ?² - 4\n240 ÷ 4 = ?² - 4\n60 = ?² - 4\n?² = 64\n? = 8."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-2",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In an election between two candidates, 10% of the voters did not cast their votes. 10% of the votes polled were found invalid. The successful candidate got 54% of the valid votes and won by a majority of 1620 votes. Find the total number of voters enrolled in the voters' list.",
+      "options": [
+        "22000",
+        "24000",
+        "25000",
+        "30000"
+      ],
+      "answer": 2,
+      "explanation": "Let the total number of voters enrolled be x.\nVotes polled = 90% of x = 0.9x.\nValid votes = 90% of 0.9x = 0.81x.\nThe winner got 54% of valid votes, which means the loser got 46% of valid votes.\nDifference between winner and loser = 54% - 46% = 8% of valid votes.\nGiven, 8% of 0.81x = 1620\n0.08 × 0.81x = 1620\n0.0648x = 1620\nx = 1620 / 0.0648 = 25000."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-3",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A man spends 20% of his monthly income on food, 15% of the remaining on house rent, and 60% of the left-over amount on children's education and other expenses together. If he saves Rs. 9,792 per month, what is his monthly income?",
+      "options": [
+        "Rs. 32,000",
+        "Rs. 35,000",
+        "Rs. 36,000",
+        "Rs. 40,000"
+      ],
+      "answer": 2,
+      "explanation": "Let the monthly income be I.\nAmount left after spending on food = I × (100 - 20)% = 0.8I.\nAmount left after house rent = 0.8I × (100 - 15)% = 0.8I × 0.85 = 0.68I.\nAmount left after education and other expenses (Savings) = 0.68I × (100 - 60)% = 0.68I × 0.40 = 0.272I.\nGiven savings = Rs. 9,792\n0.272I = 9792\nI = 9792 / 0.272 = Rs. 36,000."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-4",
+      "section": "Predicted",
+      "topic": "Blood Relation",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A family consists of six members: P, Q, R, S, T, and U. There are two married couples. Q is a doctor and the father of T. U is the grandfather of R and is a contractor. S is the grandmother of T and is a housewife. There is one doctor, one contractor, one nurse, one housewife, and two students in the family. R is the brother of T. What is the profession of P?",
+      "options": [
+        "Housewife",
+        "Doctor",
+        "Nurse",
+        "Student"
+      ],
+      "answer": 2,
+      "explanation": "From the details:\n- U (grandfather, contractor) is married to S (grandmother, housewife).\n- Their son is Q (doctor), who is the father of T.\n- Since there are two married couples, Q must be married to P. Therefore, P is the mother of T and R.\n- R and T are siblings and are the two students in the family.\n- The remaining profession is Nurse, which must belong to P."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-5",
+      "section": "Predicted",
+      "topic": "Blood Relation",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "If 'A * B' means 'A is the mother of B'; 'A + B' means 'A is the sister of B'; 'A - B' means 'A is the father of B'; 'A / B' means 'A is the brother of B'. Which of the following expressions shows that 'P is the maternal uncle of Q'?",
+      "options": [
+        "P - M + Q",
+        "P / M * Q",
+        "P * M + Q",
+        "P + M / Q"
+      ],
+      "answer": 1,
+      "explanation": "To show 'P is the maternal uncle of Q', P must be the brother of Q's mother.\nLet's analyze option B: 'P / M * Q'\n- 'P / M' means P is the brother of M.\n- 'M * Q' means M is the mother of Q.\nSince P is the brother of Q's mother (M), P is the maternal uncle of Q. This satisfies the condition perfectly."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-6",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the missing number in the following series:\n4, 11, 30, 67, 128, ?",
+      "options": [
+        "219",
+        "222",
+        "197",
+        "215"
+      ],
+      "answer": 0,
+      "explanation": "The pattern of the series is:\n1³ + 3 = 4\n2³ + 3 = 11\n3³ + 3 = 30\n4³ + 3 = 67\n5³ + 3 = 128\nFollowing this pattern, the next term will be:\n6³ + 3 = 216 + 3 = 219."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-7",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the wrong number in the following series:\n6, 13, 32, 71, 130, 221",
+      "options": [
+        "13",
+        "32",
+        "71",
+        "130"
+      ],
+      "answer": 2,
+      "explanation": "The pattern of the series is n³ + 5:\n1³ + 5 = 6\n2³ + 5 = 13\n3³ + 5 = 32\n4³ + 5 = 69 (but given as 71)\n5³ + 5 = 130\n6³ + 5 = 221\nTherefore, 71 is the wrong number in the series; it should be 69."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-8",
+      "section": "Predicted",
+      "topic": "Antonyms",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Choose the word that is most nearly the OPPOSITE in meaning to the word 'FRUGAL'.",
+      "options": [
+        "Miserly",
+        "Extravagant",
+        "Prudent",
+        "Parsimonious"
+      ],
+      "answer": 1,
+      "explanation": "'Frugal' means sparing or economical with regard to money or food (thrifty). Its direct opposite is 'Extravagant', which means spending money or resources freely and wastefully."
+    },
+    {
+      "id": "sbi-clerk-pred-1784453541232-9",
+      "section": "Predicted",
+      "topic": "Antonyms",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Choose the word that is most nearly the OPPOSITE in meaning to the word 'EPHEMERAL'.",
+      "options": [
+        "Evanescent",
+        "Perpetual",
+        "Transient",
+        "Flitting"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time (transient/fleeting). Its antonym is 'Perpetual', which means occurring repeatedly or lasting forever."
     }
   ]
 }
