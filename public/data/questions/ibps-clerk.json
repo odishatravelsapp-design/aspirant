@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -4200,6 +4200,136 @@
       ],
       "answer": 1,
       "explanation": "'Obdurate' means stubbornly refusing to change one's opinion or course of action. Therefore, 'stubborn' is the correct synonym. 'Flexible' is an antonym, while 'transient' (temporary) and 'generous' (giving) have completely different meanings."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520728498-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A train running at 72 km/h crosses a platform of length 250 m in 26 seconds. How much time (in seconds) will it take to cross a man running at 9 km/h in the opposite direction?",
+      "options": [
+        "10 seconds",
+        "12 seconds",
+        "15 seconds",
+        "18 seconds"
+      ],
+      "answer": 1,
+      "explanation": "First, convert the speed of the train into m/s: 72 * (5/18) = 20 m/s. The distance covered to cross the platform is the sum of the length of the train (L) and the platform: L + 250 = Speed * Time = 20 * 26 = 520 m. Thus, the length of the train L = 520 - 250 = 270 m. Now, convert the speed of the man into m/s: 9 * (5/18) = 2.5 m/s. Since they are running in opposite directions, the relative speed is the sum of their speeds: 20 + 2.5 = 22.5 m/s. The time taken to cross the man is: Length of train / Relative speed = 270 / 22.5 = 12 seconds."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520728498-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The radius of a cylinder is equal to the side of a square whose area is 196 cm². If the height of the cylinder is 5 cm more than its radius, what is the total surface area of the cylinder?",
+      "options": [
+        "2548 cm²",
+        "2728 cm²",
+        "2904 cm²",
+        "3168 cm²"
+      ],
+      "answer": 2,
+      "explanation": "The area of the square is 196 cm², so its side is √196 = 14 cm. This means the radius (r) of the cylinder is 14 cm. The height (h) of the cylinder is 14 + 5 = 19 cm. The formula for the total surface area (TSA) of a cylinder is 2 * π * r * (r + h). Substituting the values: TSA = 2 * (22/7) * 14 * (14 + 19) = 88 * 33 = 2904 cm²."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520744408-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Study the following five three-digit numbers and answer the question: 519, 368, 724, 483, 657. If the positions of the first and the third digits in each of the numbers are interchanged, which of the following will be the second digit of the lowest number thus formed?",
+      "options": [
+        "1",
+        "8",
+        "2",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "When the first and third digits of each number are interchanged, the numbers become: 519 -> 915, 368 -> 863, 724 -> 427, 483 -> 384, 657 -> 756. The lowest number among these is 384, and its second digit is 8."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520744408-1",
+      "section": "Reasoning",
+      "topic": "Box Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven boxes - A, B, C, D, E, F, and G - are kept one above another but not necessarily in the same order. Only three boxes are kept between Box A and Box G. Box A is kept above Box G. Only one box is kept between Box G and Box B. Box E is kept immediately below Box B. Box C is kept above Box D but below Box F. Box F is not kept at the topmost position. How many boxes are kept between Box F and Box C?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "Based on the given clues, the only valid arrangement from top (7) to bottom (1) is: 7-A, 6-F, 5-B, 4-E, 3-G, 2-C, 1-D. Box F is at position 6 and Box C is at position 2. The boxes between them are B, E, and G. Thus, there are exactly three boxes between F and C."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520757917-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence below, three words have been printed in bold and marked as (A), (B), and (C). Find the correct exchange of words to make the sentence grammatically and contextually correct.\n\n\"The government's decision to **investment** (A) taxes was aimed at attracting foreign **reduce** (B) and boosting the manufacturing **sector** (C).\"",
+      "options": [
+        "Only A-B",
+        "Only B-C",
+        "Both A-C and B-C",
+        "No exchange required"
+      ],
+      "answer": 0,
+      "explanation": "The word 'investment' is a noun and is incorrectly placed after the infinitive 'to'. It should be replaced by the verb 'reduce' (B). Conversely, 'reduce' is incorrectly placed before 'and boosting'; it should be replaced by the noun 'investment' (A) to form the phrase 'foreign investment'. Thus, exchanging A and B makes the sentence correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520757917-1",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the part of the sentence that contains a grammatical error.",
+      "options": [
+        "If the treasury department",
+        "would have acted on time,",
+        "the financial crisis",
+        "could have been easily avoided."
+      ],
+      "answer": 1,
+      "explanation": "In conditional sentences referring to past hypothetical situations (Third Conditional), the 'if-clause' must use the Past Perfect tense ('had + past participle') rather than 'would have'. Therefore, 'would have acted' should be corrected to 'had acted'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784520766003-0",
+      "section": "General Awareness",
+      "topic": "Sovereign Gold Bond Scheme",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme of the Government of India, what is the maximum limit of subscription permitted for a Hindu Undivided Family (HUF) per fiscal year?",
+      "options": [
+        "2 kg",
+        "4 kg",
+        "10 kg",
+        "20 kg"
+      ],
+      "answer": 1,
+      "explanation": "Under the Sovereign Gold Bond (SGB) scheme, the minimum investment limit is 1 gram of gold, while the maximum limit of subscription per fiscal year (April-March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784520766003-1",
+      "section": "General Awareness",
+      "topic": "RBI Prompt Corrective Action Framework",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework issued by the Reserve Bank of India (RBI) for Scheduled Commercial Banks, which of the following is NOT one of the key supervisory areas monitored?",
+      "options": [
+        "Capital Adequacy",
+        "Asset Quality",
+        "Profitability (Return on Assets)",
+        "Leverage"
+      ],
+      "answer": 2,
+      "explanation": "In the revised PCA framework effective from January 1, 2022, the RBI monitors Capital, Asset Quality, and Leverage. Profitability (Return on Assets) was excluded from the revised framework as a trigger parameter.",
+      "status": "pending"
     }
   ]
 }

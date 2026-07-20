@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -5689,6 +5689,120 @@
       ],
       "answer": 3,
       "explanation": "The affective domain taxonomy consists of five levels: Receiving, Responding, Valuing, Organization, and Characterization by a value or value complex. Characterization is the highest level, representing a fully integrated and consistent lifestyle and philosophy based on those values."
+    },
+    {
+      "id": "odisha-ssb-ai-1784520956952-0",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In John Keats's \"Ode on a Grecian Urn\", which of the following scenes is NOT depicted on the urn?",
+      "options": [
+        "A piper playing songs under trees that never lose their leaves",
+        "A bold lover perpetually on the verge of kissing his beloved",
+        "A priest leading a heifer decorated with garlands to a green altar",
+        "A solitary reaper singing a melancholy strain in a field"
+      ],
+      "answer": 3,
+      "explanation": "The scene of a solitary reaper singing a melancholy strain is from William Wordsworth's poem 'The Solitary Reaper', not John Keats's 'Ode on a Grecian Urn'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ କିଟ୍ସଙ୍କ ପ୍ରସିଦ୍ଧ କବିତା \"ଓଡ୍ ଅନ୍ ଏ ଗ୍ରେସିଆନ୍ ଅର୍ଣ୍ଣ\" (Ode on a Grecian Urn) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଦୃଶ୍ୟଟି ପାତ୍ର (urn) ଉପରେ ଚିତ୍ରିତ ହୋଇନାହିଁ?",
+          "options": [
+            "ଗଛ ତଳେ ସଙ୍ଗୀତ ବଜାଉଥିବା ଜଣେ ବଂଶୀବାଦକ, ଯାହାର ପତ୍ର କେବେ ଝଡ଼େ ନାହିଁ",
+            "ଜଣେ ସାହସୀ ପ୍ରେମୀ ଯିଏ ନିଜ ପ୍ରେମିକାକୁ ଚୁମ୍ବନ ଦେବାକୁ ସର୍ବଦା ପ୍ରସ୍ତୁତ",
+            "ଜଣେ ପୂଜାରୀ ଯିଏ ଫୁଲମାଳରେ ସଜ୍ଜିତ ଏକ ଗାଈ ବାଛୁରୀକୁ ସବୁଜ ବେଦୀ ଆଡ଼କୁ ନେଇଯାଉଛନ୍ତି",
+            "ବିଲରେ ଏକାକୀ ଦୁଃଖଭରା ଗୀତ ଗାଉଥିବା ଜଣେ କ୍ଷେତ୍ରର କୃଷକ ରମଣୀ"
+          ],
+          "explanation": "ଏକାକୀ କ୍ଷେତ୍ର ରମଣୀର (solitary reaper) ଦୁଃଖଭରା ଗୀତ ଗାଇବାର ଦୃଶ୍ୟଟି ୱିଲିୟମ୍ ୱର୍ଡ଼ସୱର୍ଥଙ୍କ କବିତା 'ଦି ସଲିଟାରୀ ରୀପର୍' ରୁ ଆସିଛି, ଜନ୍ କିଟ୍ସଙ୍କ 'ଓଡ୍ ଅନ୍ ଏ ଗ୍ରେସିଆନ୍ ଅର୍ଣ୍ଣ' ରୁ ନୁହେଁ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784520956952-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to T. S. Eliot in his essay \"The Metaphysical Poets\" (1921), the \"dissociation of sensibility\" set in due to the influence of which two major seventeenth-century poets?",
+      "options": [
+        "William Shakespeare and John Donne",
+        "John Milton and John Dryden",
+        "Alexander Pope and Jonathan Swift",
+        "George Herbert and Henry Vaughan"
+      ],
+      "answer": 1,
+      "explanation": "In 'The Metaphysical Poets', T. S. Eliot explicitly states that the dissociation of sensibility, from which we have never recovered, was due to the influence of the two most powerful poets of the seventeenth century: John Milton and John Dryden.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଟି. ଏସ୍. ଏଲିଅଟ୍‌ଙ୍କ ପ୍ରବନ୍ଧ \"ଦି ମେଟାଫିଜିକାଲ୍ ପୋଏଟ୍ସ\" (The Metaphysical Poets - 1921) ଅନୁଯାୟୀ, କେଉଁ ଦୁଇଜଣ ପ୍ରମୁଖ ସପ୍ତଦଶ ଶତାବ୍ଦୀର କବିଙ୍କ ପ୍ରଭାବ ହେତୁ \"ସଂବେଦନଶୀଳତାର ବିଚ୍ଛିନ୍ନତା\" (dissociation of sensibility) ଆରମ୍ଭ ହୋଇଥିଲା?",
+          "options": [
+            "ୱିଲିୟମ୍ ସେକ୍ସପିୟର ଏବଂ ଜନ୍ ଡନ୍",
+            "ଜନ୍ ମିଲଟନ୍ ଏବଂ ଜନ୍ ଡ୍ରାଇଡେନ୍",
+            "ଆଲେକ୍ସଜାଣ୍ଡାର୍ ପୋପ୍ ଏବଂ ଜୋନାଥନ୍ ସ୍ୱିଫ୍ଟ",
+            "ଜର୍ଜ ହର୍ବର୍ଟ ଏବଂ ହେନ୍ରୀ ଭନ୍"
+          ],
+          "explanation": "ଟି. ଏସ୍. ଏଲିଅଟ୍‌ ତାଙ୍କ ପ୍ରବନ୍ଧରେ ସ୍ପଷ୍ଟ ଭାବରେ ଉଲ୍ଲେଖ କରିଛନ୍ତି ଯେ ସପ୍ତଦଶ ଶତାବ୍ଦୀର ଦୁଇ ପ୍ରଭାବଶାଳୀ କବି ଜନ୍ ମିଲଟନ୍ ଏବଂ ଜନ୍ ଡ୍ରାଇଡେନ୍‌ଙ୍କ ପ୍ରଭାବ ଯୋଗୁଁ ସଂବେଦନଶୀଳତାର ବିଚ୍ଛିନ୍ନତା (dissociation of sensibility) ଆରମ୍ଭ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784521032424-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Bruce Joyce and Marsha Weil's classification of Models of Teaching, the 'Synectics' model developed by William J.J. Gordon belongs to which of the following families?",
+      "options": [
+        "Social Interaction Family",
+        "Information Processing Family",
+        "Personal Family",
+        "Behavioral Systems Family"
+      ],
+      "answer": 2,
+      "explanation": "The Synectics model, designed by William J.J. Gordon to stimulate creative problem-solving and personal creativity, is classified under the 'Personal Family' of teaching models in Joyce and Weil's taxonomy, which focuses on the individual and their development of unique capabilities.",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରୁସ୍ ଜଏସ୍ (Bruce Joyce) ଏବଂ ମାର୍ଶା ୱେଲ୍ (Marsha Weil) ଙ୍କ ଶିକ୍ଷାଦାନ ମଡେଲ୍‌ଗୁଡ଼ିକର ବର୍ଗୀକରଣ ଅନୁଯାୟୀ, ୱିଲିୟମ୍ ଜେ.ଜେ. ଗର୍ଡନ୍ (William J.J. Gordon) ଙ୍କ ଦ୍ୱାରା ବିକଶିତ 'ସାଇନେକ୍ଟିକ୍ସ' (Synectics) ମଡେଲ୍ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପରିବାର (family) ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା ପରିବାର (Social Interaction Family)",
+            "ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ ପରିବାର (Information Processing Family)",
+            "ବ୍ୟକ୍ତିଗତ ପରିବାର (Personal Family)",
+            "ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ ପରିବାର (Behavioral Systems Family)"
+          ],
+          "explanation": "ୱିଲିୟମ୍ ଜେ.ଜେ. ଗର୍ଡନ୍‌ଙ୍କ ଦ୍ୱାରା ସୃଜନଶୀଳ ସମସ୍ୟା ସମାଧାନ ଏବଂ ବ୍ୟକ୍ତିଗତ ସୃଜନଶୀଳତାକୁ ଉତ୍ସାହିତ କରିବା ପାଇଁ ବିକଶିତ ହୋଇଥିବା ସାଇନେକ୍ଟିକ୍ସ ମଡେଲ୍‌ଟି ଜଏସ୍ ଏବଂ ୱେଲ୍‌ଙ୍କ ଶ୍ରେଣୀବିଭାଗରେ 'ବ୍ୟକ୍ତିଗତ ପରିବାର' (Personal Family) ଅଧୀନରେ ଆସିଥାଏ, ଯାହା ବ୍ୟକ୍ତିର ସ୍ୱତନ୍ତ୍ର ସାମର୍ଥ୍ୟର ବିକାଶ ଉପରେ ଧ୍ୟାନ ଦେଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784521032424-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Sri Aurobindo’s philosophy of Integral Education, the instrument of the mind (Antahkarana) consists of four layers. Which of these layers is responsible for the active processing of sensory images into thought-forms and is known as the mind proper?",
+      "options": [
+        "Chitta",
+        "Manas",
+        "Buddhi",
+        "Intuition"
+      ],
+      "answer": 1,
+      "explanation": "In Sri Aurobindo's system of Integral Education, the Antahkarana (mind) has four layers: Chitta (the passive memory/storehouse), Manas (the sensory mind or 'mind proper' which translates sensory inputs into thought-forms), Buddhi (intellect/reasoning), and Intuition (direct vision of truth).",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରୀ ଅରବିନ୍ଦଙ୍କ ସମନ୍ୱିତ ଶିକ୍ଷା (Integral Education) ଦର୍ଶନ ଅନୁଯାୟୀ, ଅନ୍ତଃକରଣ (ମନର ଯନ୍ତ୍ର) ଚାରୋଟି ସ୍ତରକୁ ନେଇ ଗଠିତ। ଏହି ସ୍ତରଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଇନ୍ଦ୍ରିୟଗତ ଚିତ୍ରଗୁଡ଼ିକୁ ବିଚାର-ରୂପରେ ସକ୍ରିୟ ଭାବରେ ରୂପାନ୍ତରିତ କରିବା ପାଇଁ ଦାୟୀ ଏବଂ ଏହାକୁ ପ୍ରକୃତ ମନ (mind proper) ବୋଲି କୁହାଯାଏ?",
+          "options": [
+            "ଚିତ୍ତ (Chitta)",
+            "ମନସ (Manas)",
+            "ବୁଦ୍ଧି (Buddhi)",
+            "ଅନ୍ତର୍ଜ୍ଞାନ (Intuition)"
+          ],
+          "explanation": "ଶ୍ରୀ ଅରବିନ୍ଦଙ୍କ ସମନ୍ୱିତ ଶିକ୍ଷା ପ୍ରଣାଳୀରେ, ଅନ୍ତଃକରଣର ଚାରୋଟି ସ୍ତର ରହିଛି: ଚିତ୍ତ (ନିଷ୍କ୍ରିୟ ସ୍ମୃତି/ଭଣ୍ଡାର), ମନସ (ଇନ୍ଦ୍ରିୟଗତ ମନ ବା 'ପ୍ରକୃତ ମନ' ଯାହା ଇନ୍ଦ୍ରିୟଗତ ଅନୁଭୂତିକୁ ବିଚାରରେ ରୂପାନ୍ତରିତ କରେ), ବୁଦ୍ଧି (ବିଚାରଶକ୍ତି) ଏବଂ ଅନ୍ତର୍ଜ୍ଞାନ (ସତ୍ୟର ପ୍ରତ୍ୟକ୍ଷ ଦର୍ଶନ)।"
+        }
+      }
     }
   ]
 }

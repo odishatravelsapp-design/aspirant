@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -3937,6 +3937,136 @@
       ],
       "answer": 1,
       "explanation": "'Ephemeral' means lasting for a very short time (transient/fleeting). Its antonym is 'Perpetual', which means occurring repeatedly or lasting forever."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520779395-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A is 40% more efficient than B. Working together, they can complete a piece of work in 15 days. If A works on it alone for 5 days and then leaves, in how many days can B alone complete the remaining work?",
+      "options": [
+        "24 days",
+        "29 days",
+        "32 days",
+        "35 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the efficiency of B be 5 units/day. Since A is 40% more efficient than B, A's efficiency = 5 * 1.40 = 7 units/day.\nTogether, their combined efficiency = 7 + 5 = 12 units/day.\nTotal work = Combined efficiency * Number of days = 12 * 15 = 180 units.\nA works alone for 5 days, so work completed by A = 7 * 5 = 35 units.\nRemaining work = 180 - 35 = 145 units.\nTime taken by B alone to complete the remaining work = Remaining work / B's efficiency = 145 / 5 = 29 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520779395-1",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of ₹X is invested in Scheme A which offers 10% p.a. compound interest (compounded annually) for 2 years. The interest obtained from Scheme A is then reinvested in Scheme B which offers 15% p.a. simple interest for 3 years. If the interest earned from Scheme B is ₹1,890, find the value of X.",
+      "options": [
+        "₹15,000",
+        "₹18,000",
+        "₹20,000",
+        "₹25,000"
+      ],
+      "answer": 2,
+      "explanation": "Let the initial sum invested in Scheme A be X.\nEffective Compound Interest rate for 2 years at 10% p.a. = 10 + 10 + (10 * 10 / 100) = 21%.\nInterest obtained from Scheme A = 0.21X.\nThis interest (0.21X) is invested in Scheme B at 15% p.a. simple interest for 3 years.\nInterest from Scheme B = Principal * Rate * Time / 100 = 0.21X * 15 * 3 / 100 = 0.21X * 0.45 = 0.0945X.\nGiven, 0.0945X = 1890\nX = 1890 / 0.0945 = 20,000.\nThus, the value of X is ₹20,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520802260-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain coding system, some letters are coded as follows:\nLetters: A, E, I, O, U, B, D, M, R, T, P\nCodes: 5, 3, 8, 2, 4, @, #, %, &, $, ? respectively.\n\nRules for coding:\n1. If a word starts with a consonant and ends with a vowel, the codes for the first and last letters are interchanged.\n2. If a word starts with a vowel and ends with a consonant, both are coded as '©'.\n3. If both the first and last letters are consonants, both are coded as the code for the last letter.\n\nWhat is the code for the word 'TRAMP'?",
+      "options": [
+        "$&5%?",
+        "?&5%?",
+        "©&5%©",
+        "?&5%$"
+      ],
+      "answer": 1,
+      "explanation": "In the word 'TRAMP', the first letter 'T' and the last letter 'P' are both consonants. According to Rule 3, both must be coded as the code for the last letter, which is '?'. The remaining middle letters 'R', 'A', and 'M' are coded normally as '&', '5', and '%' respectively. Thus, the complete code is '?&5%?'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520802260-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Six friends—A, B, C, D, E, and F—have different weights. Only two people are heavier than E. F is heavier than A but lighter than D. F is heavier than E. B is not the heaviest, and A is not the lightest. C is lighter than E but heavier than A. Who among the following is the second lightest person?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "F"
+      ],
+      "answer": 1,
+      "explanation": "Let's analyze the given clues to arrange the six friends in descending order of weight:\n1. 'Only two people are heavier than E' implies E is in the 3rd position (_ > _ > E > _ > _ > _).\n2. 'F is heavier than E' and 'F is lighter than D' means D and F must be the top two heaviest people, giving: D > F > E > _ > _ > _.\n3. 'C is lighter than E but heavier than A' means C and A will occupy positions after E, in the order E > C > A.\n4. Since 'A is not the lightest', A cannot be in the 6th position. Thus, A must be in the 5th position, and C must be in the 4th position.\n5. The remaining person B must be in the 6th (lightest) position.\n\nThe final descending order is: D > F > E > C > A > B. The second lightest person is A."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520815097-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Despite the intense pressure from the board of directors, the CEO refused to ________ to the demands of the activist investors, knowing that any premature compromise would ________ his executive authority.",
+      "options": [
+        "capitulate, undermine",
+        "acquiesce, bolster",
+        "succumb, reinforce",
+        "defer, consolidate"
+      ],
+      "answer": 0,
+      "explanation": "The context of the sentence indicates a contrast set by 'Despite'. The CEO refused to yield ('capitulate') because he knew that making a compromise would weaken ('undermine') his authority. The other options contain second words ('bolster', 'reinforce', 'consolidate') that mean to strengthen, which is logically opposite to the negative impact of a premature compromise."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520815097-1",
+      "section": "English",
+      "topic": "Sentence Synthesis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Combine the two sentences given below into a single, grammatically correct and coherent sentence without altering their core meaning:\n\nI. The central bank decided to aggressively lower the repo rate to stimulate domestic consumption.\nII. The policymakers remained deeply apprehensive about the stubborn core inflation in the retail market.",
+      "options": [
+        "Although the policymakers remained deeply apprehensive about stubborn core inflation in the retail market, the central bank decided to aggressively lower the repo rate to stimulate domestic consumption.",
+        "The central bank decided to aggressively lower the repo rate to stimulate domestic consumption, thereby resolving their deep apprehension about stubborn core inflation in the retail market.",
+        "Since the policymakers were deeply apprehensive about stubborn core inflation in the retail market, the central bank decided to aggressively lower the repo rate to stimulate domestic consumption.",
+        "The central bank aggressively lowered the repo rate to stimulate domestic consumption while completely disregarding the stubborn core inflation in the retail market."
+      ],
+      "answer": 0,
+      "explanation": "The two original sentences present a contrast: lowering the interest rate (which can increase inflation) versus being worried about inflation. Option A correctly uses the concessive conjunction 'Although' to express this contrast. Option B incorrectly implies that lowering the rate solved their worries. Option C incorrectly establishes a cause-and-effect relationship ('Since'). Option D falsely states that they 'disregarded' the inflation, which contradicts 'remained deeply apprehensive'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784520822982-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is the key distinguishing feature of the Standing Deposit Facility (SDF), introduced by the Reserve Bank of India in April 2022, compared to the Reverse Repo Rate?",
+      "options": [
+        "It requires banks to provide government securities as collateral to borrow overnight funds.",
+        "It allows the RBI to absorb liquidity from commercial banks without providing government securities as collateral.",
+        "It is an emergency borrowing window for banks facing severe liquidity crises, similar to the Marginal Standing Facility.",
+        "It offers a fixed interest rate that is always set 50 basis points higher than the Repo Rate."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption tool. Unlike the Reverse Repo mechanism, where the RBI has to provide government securities (G-Secs) as collateral to commercial banks when absorbing excess liquidity, the SDF does not require any collateral placement by the RBI.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784520822982-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Following the premium revision effective from June 1, 2022, what are the revised annual premium rates for the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and the Pradhan Mantri Suraksha Bima Yojana (PMSBY) respectively?",
+      "options": [
+        "Rs. 330 and Rs. 12",
+        "Rs. 436 and Rs. 20",
+        "Rs. 411 and Rs. 32",
+        "Rs. 500 and Rs. 50"
+      ],
+      "answer": 1,
+      "explanation": "Effective from June 1, 2022, the Union Government revised the annual premium for PMJJBY from Rs. 330 to Rs. 436, and the annual premium for PMSBY was revised from Rs. 12 to Rs. 20. This was the first premium revision for these schemes since their launch in 2015.",
+      "status": "pending"
     }
   ]
 }

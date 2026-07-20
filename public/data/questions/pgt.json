@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -3675,6 +3675,64 @@
       ],
       "answer": 3,
       "explanation": "The affective domain taxonomy consists of five levels: Receiving, Responding, Valuing, Organization, and Characterization by a value or value complex. Characterization is the highest level, representing a fully integrated and consistent lifestyle and philosophy based on those values."
+    },
+    {
+      "id": "pgt-ai-1784521768792-0",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Chemistry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the value of the commutator [x, H] for a one-dimensional free particle of mass m, where H is the Hamiltonian operator and x is the position operator?",
+      "options": [
+        "0",
+        "(i * h-bar / m) * p_x",
+        "-(i * h-bar / m) * p_x",
+        "(i * h-bar / 2m) * p_x"
+      ],
+      "answer": 1,
+      "explanation": "For a free particle, the potential energy V(x) = 0, so the Hamiltonian is H = p_x^2 / 2m. The commutator [x, H] can be written as [x, p_x^2 / 2m] = (1 / 2m) * [x, p_x^2]. Using the identity [A, B^2] = [A, B]B + B[A, B], we get [x, p_x^2] = 2i * h-bar * p_x. Thus, [x, H] = (i * h-bar / m) * p_x.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ m ବସ୍ତୁତ୍ଵ ବିଶିଷ୍ଟ ଏକ-ବିମୀୟ ମୁକ୍ତ କଣିକା (one-dimensional free particle) ପାଇଁ କମ୍ୟୁଟେଟର [x, H] ର ମୂଲ୍ୟ କେତେ ହେବ, ଯେଉଁଠାରେ H ହେଉଛି ହାମିଲଟୋନିଆନ୍ ଅପରେଟର ଏବଂ x ହେଉଛି ସ୍ଥିତି ଅପରେଟର?",
+          "options": [
+            "0",
+            "(i * h-bar / m) * p_x",
+            "-(i * h-bar / m) * p_x",
+            "(i * h-bar / 2m) * p_x"
+          ],
+          "explanation": "ମୁକ୍ତ କଣିକା ପାଇଁ ବିଭବ ଶକ୍ତି V(x) = 0, ତେଣୁ ହାମିଲଟୋନିଆନ୍ H = p_x^2 / 2m ଅଟେ । କମ୍ୟୁଟେଟର [x, H] କୁ [x, p_x^2 / 2m] = (1 / 2m) * [x, p_x^2] ଭାବରେ ଲେଖାଯାଇପାରିବ । [A, B^2] = [A, B]B + B[A, B] ସୂତ୍ର ପ୍ରୟୋଗ କଲେ, [x, p_x^2] = 2i * h-bar * p_x ମିଳିଥାଏ । ତେଣୁ, [x, H] = (i * h-bar / m) * p_x ଅଟେ ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784521768792-1",
+      "section": "Subject Knowledge",
+      "topic": "Organometallic Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Arrange the following metal carbonyl complexes in the increasing order of their C-O stretching frequency (v_CO): [V(CO)_6]-, [Cr(CO)_6], [Mn(CO)_6]+",
+      "options": [
+        "[V(CO)_6]- < [Cr(CO)_6] < [Mn(CO)_6]+",
+        "[Mn(CO)_6]+ < [Cr(CO)_6] < [V(CO)_6]-",
+        "[Cr(CO)_6] < [V(CO)_6]- < [Mn(CO)_6]+",
+        "[V(CO)_6]- < [Mn(CO)_6]+ < [Cr(CO)_6]"
+      ],
+      "answer": 0,
+      "explanation": "The C-O stretching frequency (v_CO) depends on the extent of metal-to-ligand pi back-bonding. As the negative charge on the metal increases, the extent of back-donation into the antibonding pi* orbital of CO increases, which weakens the C-O bond and decreases the stretching frequency. Thus, [V(CO)_6]- with a negative charge has the lowest frequency, and [Mn(CO)_6]+ with a positive charge has the highest frequency.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମେଟାଲ୍ କାର୍ବୋନିଲ୍ ଜଟିଳ ଯୌଗିକଗୁଡ଼ିକୁ ସେମାନଙ୍କର C-O ପ୍ରସାରଣ ଆବୃତ୍ତି (stretching frequency, v_CO) ର ବୃଦ୍ଧି କ୍ରମରେ ସଜାନ୍ତୁ: [V(CO)_6]-, [Cr(CO)_6], [Mn(CO)_6]+",
+          "options": [
+            "[V(CO)_6]- < [Cr(CO)_6] < [Mn(CO)_6]+",
+            "[Mn(CO)_6]+ < [Cr(CO)_6] < [V(CO)_6]-",
+            "[Cr(CO)_6] < [V(CO)_6]- < [Mn(CO)_6]+",
+            "[V(CO)_6]- < [Mn(CO)_6]+ < [Cr(CO)_6]"
+          ],
+          "explanation": "C-O ପ୍ରସାରଣ ଆବୃତ୍ତି (v_CO) ଧାତୁରୁ ଲିଗାଣ୍ଡକୁ ହେଉଥିବା pi ବ୍ୟାକ୍-ଡୋନେସନ୍ (back-bonding) ଉପରେ ନିର୍ଭର କରେ । ଧାତୁ ଉପରେ ଋଣାତ୍ମକ ଚାର୍ଜ ବଢିଲେ, CO ର ଆଣ୍ଟିବଣ୍ଡିଂ pi* କକ୍ଷପଥକୁ ବ୍ୟାକ୍-ଡୋନେସନ୍ ବୃଦ୍ଧି ପାଏ, ଯାହା C-O ବନ୍ଧକୁ ଦୁର୍ବଳ କରିଥାଏ ଏବଂ ପ୍ରସାରଣ ଆବୃତ୍ତି ହ୍ରାସ କରେ । ତେଣୁ, ଋଣାତ୍ମକ ଚାର୍ଜ ବିଶିଷ୍ଟ [V(CO)_6]- ର ଆବୃତ୍ତି ସବୁଠାରୁ କମ୍ ଏବଂ ଧନାତ୍ମକ ଚାର୍ଜ ବିଶିଷ୍ଟ [Mn(CO)_6]+ ର ଆବୃତ୍ତି ସବୁଠାରୁ ଅଧିକ ଅଟେ ।"
+        }
+      }
     }
   ]
 }

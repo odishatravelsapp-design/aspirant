@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -4308,6 +4308,234 @@
       ],
       "answer": 3,
       "explanation": "The Constitution empowers the Parliament to make laws on State List subjects under five extraordinary circumstances: 1) Under Article 249 (Rajya Sabha resolution), 2) Under Article 250 (National Emergency), 3) Under Article 252 (Agreement between two or more states), 4) Under Article 253 (To implement international treaties), and 5) Under Article 356 (President's Rule). Hence, all four statements are correct."
+    },
+    {
+      "id": "osssc-ai-1784520894835-0",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Two pipes A and B can fill a tank in 18 hours and 24 hours respectively. Both pipes are opened together, but 3 hours before the tank is full, pipe A is closed. Find the total time taken to fill the tank.",
+      "options": [
+        "11 hours",
+        "12 hours",
+        "10.5 hours",
+        "13 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let the total capacity of the tank be LCM(18, 24) = 72 units. Efficiency of pipe A = 72 / 18 = 4 units/hour. Efficiency of pipe B = 72 / 24 = 3 units/hour. Let the total time taken to fill the tank be t hours. Pipe A worked for (t - 3) hours and pipe B worked for t hours. Therefore, 4(t - 3) + 3t = 72 => 7t - 12 = 72 => 7t = 84 => t = 12 hours.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ପାଇପ୍ A ଏବଂ B ଗୋଟିଏ ଟାଙ୍କିକୁ ଯଥାକ୍ରମେ ୧୮ ଘଣ୍ଟା ଏବଂ ୨୪ ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରିବେ। ଉଭୟ ପାଇପ୍ ଏକାଠି ଖୋଲାଯାଏ, କିନ୍ତୁ ଟାଙ୍କିଟି ପୂର୍ଣ୍ଣ ହେବାର ୩ ଘଣ୍ଟା ପୂର୍ବରୁ ପାଇପ୍ A କୁ ବନ୍ଦ କରିଦିଆଯାଏ। ଟାଙ୍କିଟି ପୂର୍ଣ୍ଣ ହେବା ପାଇଁ ମୋଟ କେତେ ସମୟ ଲାଗିବ?",
+          "options": [
+            "୧୧ ଘଣ୍ଟା",
+            "୧୨ ଘଣ୍ଟା",
+            "୧୦.୫ ଘଣ୍ଟା",
+            "୧୩ ଘଣ୍ଟା"
+          ],
+          "explanation": "ଧରାଯାଉ ଟାଙ୍କିର ମୋଟ କ୍ଷମତା = LCM(18, 24) = 72 ୟୁନିଟ୍। ପାଇପ୍ A ର ଦକ୍ଷତା = 72 / 18 = 4 ୟୁନିଟ୍/ଘଣ୍ଟା ଏବଂ ପାଇପ୍ B ର ଦକ୍ଷତା = 72 / 24 = 3 ୟୁନିଟ୍/ଘଣ୍ଟା। ମନେକରନ୍ତୁ ଟାଙ୍କି ପୂର୍ଣ୍ଣ ହେବା ପାଇଁ ମୋଟ t ଘଣ୍ଟା ସମୟ ଲାଗେ। ପାଇପ୍ A (t - 3) ଘଣ୍ଟା ପାଇଁ କାର୍ଯ୍ୟ କରେ ଏବଂ ପାଇପ୍ B t ଘଣ୍ଟା ପାଇଁ କାର୍ଯ୍ୟ କରେ। ତେଣୁ, 4(t - 3) + 3t = 72 => 7t - 12 = 72 => 7t = 84 => t = 12 ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520894835-1",
+      "section": "Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of money amounts to Rs. 18,600 after 3 years and to Rs. 27,900 after 6 years at a certain rate percent per annum, when the interest is compounded annually. What is the sum?",
+      "options": [
+        "Rs. 11,800",
+        "Rs. 12,400",
+        "Rs. 13,200",
+        "Rs. 14,500"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal sum be P and the rate of interest be R% per annum. According to the formula for compound interest, P(1 + R/100)^3 = 18600 (Equation 1) and P(1 + R/100)^6 = 27900 (Equation 2). Dividing Equation 2 by Equation 1, we get (1 + R/100)^3 = 27900 / 18600 = 3/2. Substituting this value in Equation 1, we get P * (3/2) = 18600 => P = (18600 * 2) / 3 = Rs. 12,400.",
+      "translations": {
+        "or": {
+          "question": "ବାର୍ଷିକ ଚକ୍ରବୃଦ୍ଧି ସୁଧ ହାରରେ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିମାଣର ମୂଳଧନ ୩ ବର୍ଷ ପରେ ୧୮,୬୦୦ ଟଙ୍କା ଏବଂ ୬ ବର୍ଷ ପରେ ୨୭,୯୦୦ ଟଙ୍କା ହୋଇଯାଏ। ତେବେ ସେହି ମୂଳଧନର ପରିମାଣ କେତେ?",
+          "options": [
+            "୧୧,୮୦୦ ଟଙ୍କା",
+            "୧୨, ୪୦୦ ଟଙ୍କା",
+            "୧୩, ୨୦୦ ଟଙ୍କା",
+            "୧୪, ୫୦୦ ଟଙ୍କା"
+          ],
+          "explanation": "ଧରାଯାଉ ମୂଳଧନ P ଏବଂ ବାର୍ଷିକ ସୁଧ ହାର R%। ଚକ୍ରବୃଦ୍ଧି ସୁଧର ସୂତ୍ର ଅନୁଯାୟୀ, P(1 + R/100)^3 = 18600 (ସମୀକରଣ 1) ଏବଂ P(1 + R/100)^6 = 27900 (ସମୀକରଣ 2)। ସମୀକରଣ 2 କୁ ସମୀକରଣ 1 ଦ୍ୱାରା ଭାଗ କଲେ, ଆମେ ପାଇବା (1 + R/100)^3 = 27900 / 18600 = 3/2। ଏହି ମୂଲ୍ୟକୁ ସମୀକରଣ 1 ରେ ରଖିଲେ, P * (3/2) = 18600 => P = (18600 * 2) / 3 = 12,400 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520916742-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'GANJAM' is coded as '46' and 'KEONJHAR' is coded as '82'. How will 'BALASORE' be coded in that language?",
+      "options": [
+        "71",
+        "73",
+        "75",
+        "77"
+      ],
+      "answer": 1,
+      "explanation": "The code is the sum of the positional values of the letters in the English alphabet (A=1, B=2, ..., Z=26). For GANJAM: G(7) + A(1) + N(14) + J(10) + A(1) + M(13) = 46. For KEONJHAR: K(11) + E(5) + O(15) + N(14) + J(10) + H(8) + A(1) + R(18) = 82. Similarly, for BALASORE: B(2) + A(1) + L(12) + A(1) + S(19) + O(15) + R(18) + E(5) = 73.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'GANJAM' କୁ '46' ଏବଂ 'KEONJHAR' କୁ '82' ଭାବରେ କୋଡ୍ କରାଯାଏ, ତେବେ ସେହି ଭାଷାରେ 'BALASORE' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "71",
+            "73",
+            "75",
+            "77"
+          ],
+          "explanation": "ଏହି କୋଡ୍‌ଟି ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାରେ ଅକ୍ଷରଗୁଡ଼ିକର ସ୍ଥାନୀୟ ମାନର ସମଷ୍ଟି ଅଟେ (A=1, B=2, ..., Z=26)। GANJAM ପାଇଁ: G(7) + A(1) + N(14) + J(10) + A(1) + M(13) = 46। KEONJHAR ପାଇଁ: K(11) + E(5) + O(15) + N(14) + J(10) + H(8) + A(1) + R(18) = 82। ସେହିପରି, BALASORE ପାଇଁ: B(2) + A(1) + L(12) + A(1) + S(19) + O(15) + R(18) + E(5) = 73।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520916742-1",
+      "section": "Reasoning",
+      "topic": "Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six boxes - P, Q, R, S, T, and U - are kept one above another in a stack. Box S is kept immediately above Box T. There are two boxes between Box T and Box Q. Box R is kept immediately below Box Q. Box P is kept above Box U, but not immediately above. Which box is kept at the topmost position?",
+      "options": [
+        "Box P",
+        "Box Q",
+        "Box R",
+        "Box S"
+      ],
+      "answer": 0,
+      "explanation": "Let the positions from top to bottom be 6 to 1. Since S is immediately above T, and there are two boxes between T and Q, the pattern is either Q-R-S-T or S-T-x-y-Q-R. Since Box R is immediately below Q, we have the block Q-R-S-T. Placing this block in positions 5, 4, 3, 2 gives Q=5, R=4, S=3, T=2. The remaining positions are 6 and 1, which must be occupied by P and U. Since P is kept above U but not immediately above, P must be at 6 and U must be at 1. Thus, the topmost box at position 6 is Box P.",
+      "translations": {
+        "or": {
+          "question": "ଛଅଟି ବାକ୍ସ - P, Q, R, S, T, ଏବଂ U - ଏକ ସ୍ତରରେ ଗୋଟିଏ ଉପରେ ଆଉ ଗୋଟିଏ ରଖାଯାଇଛି। ବାକ୍ସ S କୁ ବାକ୍ସ T ର ଠିକ୍ ଉପରେ ରଖାଯାଇଛି। ବାକ୍ସ T ଏବଂ ବାକ୍ସ Q ମଧ୍ୟରେ ଦୁଇଟି ବାକ୍ସ ଅଛି। ବାକ୍ସ R କୁ ବାକ୍ସ Q ର ଠିକ୍ ତଳେ ରଖାଯାଇଛି। ବାକ୍ସ P କୁ ବାକ୍ସ U ର ଉପରେ ରଖାଯାଇଛି, କିନ୍ତୁ ଠିକ୍ ଉପରେ ନୁହେଁ। ସବୁଠାରୁ ଉପର ସ୍ଥାନରେ କେଉଁ ବାକ୍ସ ରଖାଯାଇଛି?",
+          "options": [
+            "ବାକ୍ସ P",
+            "ବାକ୍ସ Q",
+            "ବାକ୍ସ R",
+            "ବାକ୍ସ S"
+          ],
+          "explanation": "ଉପରୁ ତଳ ପର୍ଯ୍ୟନ୍ତ ସ୍ଥାନଗୁଡ଼ିକୁ 6 ରୁ 1 ଭାବରେ ନିଆଯାଉ। ଯେହେତୁ S, T ର ଠିକ୍ ଉପରେ ଅଛି ଏବଂ T ଓ Q ମଧ୍ୟରେ ଦୁଇଟି ବାକ୍ସ ଅଛି, ତେଣୁ ଏହି କ୍ରମଟି Q-R-S-T କିମ୍ବା S-T-x-y-Q-R ହେବ। ଯେହେତୁ ବାକ୍ସ R, Q ର ଠିକ୍ ତଳେ ଅଛି, ଆମେ Q-R-S-T ବ୍ଲକ୍ ପାଇବା। ଏହି ବ୍ଲକକୁ 5, 4, 3, 2 ସ୍ଥାନରେ ରଖିଲେ Q=5, R=4, S=3, T=2 ହେବ। ଅବଶିଷ୍ଟ ସ୍ଥାନ 6 ଏବଂ 1 ରେ P ଏବଂ U ରହିବେ। ଯେହେତୁ P କୁ U ର ଉପରେ ରଖାଯାଇଛି କିନ୍ତୁ ଠିକ୍ ଉପରେ ନୁହେଁ, ତେଣୁ P ସ୍ଥାନ 6 ରେ ଏବଂ U ସ୍ଥାନ 1 ରେ ରହିବ। ଏହିପରି, ସବୁଠାରୁ ଉପର ସ୍ଥାନ 6 ରେ ବାକ୍ସ P ରହିବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520930139-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Literature & Awards",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first recipient of the prestigious 'Atibadi Jagannath Das Award', the highest literary honor awarded by the Odisha Sahitya Akademi?",
+      "options": [
+        "Radha Mohan Gadanayak",
+        "Sachidananda Routray",
+        "Gopinath Mohanty",
+        "Surendra Mohanty"
+      ],
+      "answer": 0,
+      "explanation": "The Atibadi Jagannath Das Award is the highest literary award presented by the Odisha Sahitya Akademi. It was first conferred upon the eminent Odia poet Radha Mohan Gadanayak in the year 1993 for his outstanding contribution to Odia literature.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶା ସାହିତ୍ୟ ଏକାଡେମୀ ଦ୍ୱାରା ପ୍ରଦାନ କରାଯାଉଥିବା ସର୍ବୋଚ୍ଚ ସାହିତ୍ୟ ସମ୍ମାନ 'ଅତିବଡ଼ୀ ଜଗନ୍ନାଥ ଦାସ ପୁରସ୍କାର'ର ପ୍ରଥମ ପ୍ରାପ୍ତକର୍ତ୍ତା କିଏ ଥିଲେ?",
+          "options": [
+            "ରାଧାମୋହନ ଗଡ଼ନାୟକ",
+            "ସଚ୍ଚିଦାନନ୍ଦ ରାଉତରାୟ",
+            "ଗୋପୀନାଥ ମହାନ୍ତି",
+            "ସୁରେନ୍ଦ୍ର ମହାନ୍ତି"
+          ],
+          "explanation": "ଅତିବଡ଼ୀ ଜଗନ୍ନାଥ ଦାସ ପୁରସ୍କାର ଓଡ଼ିଶା ସାହିତ୍ୟ ଏକାଡେମୀ ଦ୍ୱାରା ପ୍ରଦାନ କରାଯାଉଥିବା ସର୍ବୋଚ୍ଚ ସାହିତ୍ୟ ସମ୍ମାନ ଅଟେ। ଓଡ଼ିଆ ସାହିତ୍ୟ ପ୍ରତି ତାଙ୍କର ଅତୁଳନୀୟ ଅବଦାନ ପାଇଁ ୧୯୯୩ ମସିହାରେ ପ୍ରଖ୍ୟାତ ଓଡ଼ିଆ କବି ରାଧାମୋହନ ଗଡ଼ନାୟକଙ୍କୁ ପ୍ରଥମେ ଏହି ପୁରସ୍କାର ପ୍ରଦାନ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520930139-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Tourism & Archaeology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The historic Buddhist site 'Langudi Hill', famous for its ancient rock-cut stupas and archaeological ruins, is located in which district of Odisha?",
+      "options": [
+        "Cuttack",
+        "Jajpur",
+        "Puri",
+        "Kendrapara"
+      ],
+      "answer": 1,
+      "explanation": "Langudi Hill is a famous Buddhist site located in the Dharmasala block of Jajpur district, Odisha. It features ancient rock-cut stupas, monolithic shrines, and images of Lord Buddha dating back to the Ashokan and post-Ashokan era, and is believed to be part of the ancient Pushpagiri Vihara.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରାଚୀନ ପଥର-ଖୋଦିତ ସ୍ତୂପ ଏବଂ ପ୍ରତ୍ନତାତ୍ତ୍ୱିକ ଭଗ୍ନାବଶେଷ ପାଇଁ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ବୌଦ୍ଧ କୀର୍ତ୍ତିସ୍ଥଳୀ 'ଲାଙ୍ଗୁଡ଼ି ପାହାଡ଼' ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "କଟକ",
+            "ଯାଜପୁର",
+            "ପୁରୀ",
+            "କେନ୍ଦ୍ରାପଡ଼ା"
+          ],
+          "explanation": "ଲାଙ୍ଗୁଡ଼ି ପାହାଡ଼ ଓଡ଼ିଶାର ଯାଜପୁର ଜିଲ୍ଲାର ଧର୍ମଶାଳା ବ୍ଲକରେ ଅବସ୍ଥିତ ଏକ ପ୍ରସିଦ୍ଧ ବୌଦ୍ଧ କୀର୍ତ୍ତିସ୍ଥଳୀ ଅଟେ। ଏଠାରେ ପ୍ରାଚୀନ ପଥର-ଖୋଦିତ ସ୍ତୂପ, ଏକକ ପଥରର ମନ୍ଦିର ଏବଂ ଭଗବାନ ବୁଦ୍ଧଙ୍କ ପ୍ରତିମା ରହିଛି, ଯାହା ସମ୍ରାଟ ଅଶୋକ ଏବଂ ତାଙ୍କ ପରବର୍ତ୍ତୀ ସମୟର ବୋଲି ଜଣାଯାଏ ଏବଂ ଏହା ପ୍ରାଚୀନ ପୁଷ୍ପଗିରି ବିହାରର ଅଂଶ ବୋଲି ବିଶ୍ୱାସ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520940484-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which river of Odisha is associated with the 'Guptaganga' temple at its place of origin in the Gonasika hills?",
+      "options": [
+        "Brahmani",
+        "Baitarani",
+        "Budhabalanga",
+        "Subarnarekha"
+      ],
+      "answer": 1,
+      "explanation": "The Baitarani River originates from the Gonasika hills in the Keonjhar district of Odisha. The place of its origin is also known as Guptaganga due to the river flowing underground for a short distance near its source.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଗୋନାସିକା ପାହାଡ଼ରେ ଥିବା ଏହାର ଉତ୍ପତ୍ତି ସ୍ଥଳ 'ଗୁପ୍ତଗଙ୍ଗା' ମନ୍ଦିର ସହିତ ଓଡ଼ିଶାର କେଉଁ ନଦୀ ଜଡ଼ିତ?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ",
+            "ବୈତରଣୀ",
+            "ବୁଢ଼ାବଳଙ୍ଗ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି। ଏହାର ଉତ୍ପତ୍ତି ସ୍ଥଳକୁ 'ଗୁପ୍ତଗଙ୍ଗା' ମଧ୍ୟ କୁହାଯାଏ କାରଣ ନଦୀଟି ଏହାର ଉତ୍ସ ନିକଟରେ କିଛି ବାଟ ଭୂତଳେ ପ୍ରବାହିତ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784520940484-1",
+      "section": "Odisha GK",
+      "topic": "History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first female ruler of the Bhauma-Kara Dynasty of medieval Odisha?",
+      "options": [
+        "Prithvi Mahadevi",
+        "Gauri Mahadevi",
+        "Tribhuvana Mahadevi I",
+        "Vakula Mahadevi"
+      ],
+      "answer": 2,
+      "explanation": "Tribhuvana Mahadevi I (also known as Paramavaishnavi) was the first female sovereign of the Bhauma-Kara Dynasty. She ascended the throne around 845 AD after the death of her husband, Santikara I, and his brother, Subhakara III.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ କିଏ ଥିଲେ?",
+          "options": [
+            "ପୃଥ୍ୱୀ ମହାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ",
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ",
+            "ବକୁଳ ମହାଦେବୀ"
+          ],
+          "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ (ପରମବୈଷ୍ଣବୀ ଭାବରେ ମଧ୍ୟ ପରିଚିତ) ଭୌମକର ବଂଶର ପ୍ରଥମ ସାର୍ବଭୌମ ମହିଳା ଶାସକ ଥିଲେ। ସେ ତାଙ୍କ ସ୍ୱାମୀ ଶାନ୍ତିକର ପ୍ରଥମ ଏବଂ ତାଙ୍କ ଭାଇ ଶୁଭାକର ତୃତୀୟଙ୍କ ମୃତ୍ୟୁ ପରେ ପ୍ରାୟ ଖ୍ରୀଷ୍ଟାବ୍ଦ ୮୪୫ ରେ ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ।"
+        }
+      }
     }
   ]
 }

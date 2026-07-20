@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -3725,6 +3725,136 @@
       ],
       "answer": 2,
       "explanation": "In Part C, the active voice 'would have completed' is incorrect because the project does not perform the action of completing; it is completed by the team. The passive voice 'would have been completed' must be used instead. The correct sentence is: '...the project would have been completed on time...'"
+    },
+    {
+      "id": "ibps-po-ai-1784520841730-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat covers a certain distance upstream in 6 hours and downstream in 4 hours. If the speed of the stream is increased by 2 km/h, the boat takes 3 hours to cover the same distance downstream. What is the speed of the boat in still water (in km/h)?",
+      "options": [
+        "4 km/h",
+        "5 km/h",
+        "6 km/h",
+        "8 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of the boat in still water be u km/h and the speed of the stream be v km/h. Distance D = 6(u - v) and D = 4(u + v). Equating them: 6(u - v) = 4(u + v) => 2u = 10v => u = 5v. Thus, D = 4(5v + v) = 24v. If the speed of the stream is increased by 2 km/h, the new speed of the stream is (v + 2) km/h. The new downstream speed is u + v + 2 = 6v + 2 km/h. Given that the boat takes 3 hours to cover the same distance downstream: D = 3(6v + 2) => 24v = 18v + 6 => 6v = 6 => v = 1 km/h. Therefore, the speed of the boat in still water, u = 5v = 5 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1784520841730-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 4 red, 5 blue, and some green balls. If two balls are drawn at random from the bag, the probability that both are green is 1/7. If three balls are drawn at random from the bag, what is the probability that at least one ball is red?",
+      "options": [
+        "33/91",
+        "58/91",
+        "43/91",
+        "48/91"
+      ],
+      "answer": 1,
+      "explanation": "Let the number of green balls be x. Total balls = 4 + 5 + x = 9 + x. Probability of drawing 2 green balls = [x * (x - 1)] / [(9 + x) * (8 + x)] = 1/7. Solving the equation 7(x^2 - x) = x^2 + 17x + 72 gives 6x^2 - 24x - 72 = 0 => x^2 - 4x - 12 = 0 => (x - 6)(x + 2) = 0 => x = 6. So, there are 6 green balls, making the total number of balls 15 (4 Red, 5 Blue, 6 Green). Total ways to draw 3 balls from 15 = 15C3 = 455. Number of non-red balls = 11. Ways to draw 3 non-red balls = 11C3 = 165. Probability of drawing no red ball = 165/455 = 33/91. Probability of drawing at least one red ball = 1 - 33/91 = 58/91."
+    },
+    {
+      "id": "ibps-po-ai-1784520852998-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Apples are Oranges.\nNo Orange is Banana.\nAll Bananas are Grapes.\n\nConclusions:\nI. Some Grapes are not Oranges.\nII. All Apples being Oranges is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few Apples are Oranges' implies both 'Some Apples are Oranges' and 'Some Apples are not Oranges'. Since some Apples are definitely not Oranges, it is impossible for all Apples to be Oranges. Thus, Conclusion II is false.\n2. 'No Orange is Banana' and 'All Bananas are Grapes' means that the portion of Grapes that consists of Bananas can never be Oranges. Therefore, 'Some Grapes are not Oranges' is definitely true. Thus, Conclusion I follows."
+    },
+    {
+      "id": "ibps-po-ai-1784520852998-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain coded relationship system:\n'A + B' means 'A is the father of B'\n'A - B' means 'A is the sister of B'\n'A * B' means 'A is the husband of B'\n'A / B' means 'A is the mother of B'\n'A $ B' means 'A is the brother of B'\n\nWhich of the following expressions definitely indicates that 'M is the maternal uncle of N'?",
+      "options": [
+        "M $ K / N",
+        "M * K / N",
+        "N / K $ M",
+        "M $ K + N"
+      ],
+      "answer": 0,
+      "explanation": "Let us decode Option A (M $ K / N):\n- 'M $ K' means M is the brother of K.\n- 'K / N' means K is the mother of N.\nSince M is the brother of K, and K is the mother of N, M is the brother of N's mother, which makes M the maternal uncle of N. Thus, Option A is correct. Option D makes M the paternal uncle because 'K + N' means K is the father of N."
+    },
+    {
+      "id": "ibps-po-ai-1784520862121-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that accurately defines the idiom 'to put a spoke in someone's wheel' as typically applied in corporate or business settings.",
+      "options": [
+        "To provide additional financial and structural support to accelerate a project's timeline",
+        "To deliberately hinder, obstruct, or prevent someone from carrying out their plans",
+        "To introduce an innovative and disruptive technological solution to a legacy system",
+        "To delegate routine operational tasks to subordinates to optimize executive workflow"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'to put a spoke in someone's wheel' means to put an obstacle in their way or to frustrate/thwart their plans. Thus, option B is the correct definition."
+    },
+    {
+      "id": "ibps-po-ai-1784520862121-1",
+      "section": "English",
+      "topic": "Subjunctive Mood Grammar",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following sentences exhibits an incorrect application of the subjunctive mood?",
+      "options": [
+        "The board recommended that the CFO resign from his position before the upcoming audit.",
+        "It is imperative that every team member be fully trained on the new compliance guidelines.",
+        "The supervisor insisted that the analyst submits the quarterly projections by Friday afternoon.",
+        "If the economy were to enter a sudden recession, the firm would rely on its liquid reserves."
+      ],
+      "answer": 2,
+      "explanation": "In option C, the verb 'insisted' triggers the mandative subjunctive mood for the following clause. Therefore, the bare infinitive 'submit' must be used instead of the indicative 'submits'."
+    },
+    {
+      "id": "ibps-po-ai-1784520877236-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Scale Based Regulation (SBR) framework for Non-Banking Financial Companies (NBFCs) introduced by the Reserve Bank of India, what is the minimum asset size threshold above which non-deposit-taking NBFCs are classified into the 'Middle Layer' (NBFC-ML)?",
+      "options": [
+        "₹100 crore",
+        "₹500 crore",
+        "₹1,000 crore",
+        "₹5,000 crore"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI's Scale Based Regulation (SBR) framework for NBFCs, the Middle Layer (NBFC-ML) comprises all deposit-taking NBFCs (irrespective of asset size) and non-deposit-taking NBFCs with an asset size of ₹1,000 crore and above.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784520877236-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. What is the primary distinguishing feature of the SDF compared to the Reverse Repo Rate?",
+      "options": [
+        "It requires the RBI to provide collateral in the form of Government Securities to the depositing banks.",
+        "It operates at a rate 25 basis points higher than the policy Repo Rate.",
+        "It does not require the RBI to provide collateral in the form of Government Securities to the depositing banks.",
+        "It is an overnight liquidity injection tool rather than a liquidity absorption tool."
+      ],
+      "answer": 2,
+      "explanation": "Unlike the Reverse Repo facility, which requires the RBI to provide Government Securities as collateral to banks when absorbing liquidity, the Standing Deposit Facility (SDF) allows the RBI to absorb overnight surplus liquidity from banks without providing any collateral.",
+      "status": "pending"
     }
   ]
 }
