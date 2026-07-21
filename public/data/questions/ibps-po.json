@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -3854,6 +3854,136 @@
       ],
       "answer": 2,
       "explanation": "Unlike the Reverse Repo facility, which requires the RBI to provide Government Securities as collateral to banks when absorbing liquidity, the Standing Deposit Facility (SDF) allows the RBI to absorb overnight surplus liquidity from banks without providing any collateral.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784606179905-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The average age of a family of 5 members is 35 years. A baby is born in the family. After 6 years, one of the members of the family who was 51 years old dies. What is the average age of the family now (just after the death)?",
+      "options": [
+        "30 years",
+        "32 years",
+        "28 years",
+        "34 years"
+      ],
+      "answer": 1,
+      "explanation": "1. Initial total age of the 5 members = 5 * 35 = 175 years.\n2. When the baby is born, the family size becomes 6, while the sum of their ages remains 175.\n3. After 6 years, each of the 6 members has aged by 6 years. Total sum of ages = 175 + (6 * 6) = 211 years.\n4. A member aged 51 years dies. The remaining number of members is 5.\n5. The new total sum of ages of the 5 members = 211 - 51 = 160 years.\n6. New average age = 160 / 5 = 32 years."
+    },
+    {
+      "id": "ibps-po-ai-1784606179905-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A can complete a piece of work in 30 days. B is 50% more efficient than A, and C is 50% more efficient than B. A and B started working together and worked for 6 days, after which A left and C joined B. In how many total days was the work completed?",
+      "options": [
+        "8 days",
+        "10 days",
+        "12 days",
+        "14 days"
+      ],
+      "answer": 1,
+      "explanation": "1. Let A's efficiency be 4 units/day. The total work = 30 days * 4 units/day = 120 units.\n2. B's efficiency is 50% more than A's, so B's efficiency = 4 * 1.5 = 6 units/day.\n3. C's efficiency is 50% more than B's, so C's efficiency = 6 * 1.5 = 9 units/day.\n4. Work done by A and B in 6 days = (4 + 6) * 6 = 60 units.\n5. Remaining work = 120 - 60 = 60 units.\n6. After A leaves, B and C work together. Combined efficiency of B and C = 6 + 9 = 15 units/day.\n7. Time taken by B and C to complete the remaining work = 60 / 15 = 4 days.\n8. Total time to complete the work = 6 days (initially) + 4 days = 10 days."
+    },
+    {
+      "id": "ibps-po-ai-1784606199667-0",
+      "section": "Reasoning",
+      "topic": "Course of Action",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statement: Despite the government's initiatives to promote digital transactions, a recent survey reveals that a significant percentage of rural retail merchants still prefer cash transactions over digital payment methods due to frequent network failures and high transaction fees.\n\nCourses of Action:\nI. The government should collaborate with telecom service providers to upgrade network infrastructure in rural areas to ensure seamless connectivity.\nII. The government should immediately ban all cash transactions in rural retail shops to force the adoption of digital payments.\nIII. Financial institutions should consider subsidizing or waiving transaction fees for low-value digital transactions in rural areas.",
+      "options": [
+        "Only I follows",
+        "Only I and III follow",
+        "Only II and III follow",
+        "All I, II, and III follow"
+      ],
+      "answer": 1,
+      "explanation": "Course of Action I directly addresses the root cause of frequent network failures by upgrading the infrastructure. Course of Action III is also logical as it addresses the obstacle of high transaction fees for small-scale rural merchants. Course II is too extreme, impractical, and would cause severe economic disruption in rural areas where digital infrastructure is not yet fully dependable."
+    },
+    {
+      "id": "ibps-po-ai-1784606199667-1",
+      "section": "Reasoning",
+      "topic": "Coded Direction Sense",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain coded language:\n'A & B' means 'A is 9m East of B'\n'A % B' means 'A is 5m West of B'\n'A * B' means 'A is 12m North of B'\n'A @ B' means 'A is 9m South of B'\n\nIf the expression 'P * Q % R @ S & T' is definitely true, what is the shortest distance between P and T, and in which direction is T with respect to P?",
+      "options": [
+        "5m, South-West",
+        "5m, North-East",
+        "13m, South-West",
+        "13m, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Let's plot the points with Q as the reference origin (0, 0):\n1. 'P * Q' means P is 12m North of Q -> P = (0, 12)\n2. 'Q % R' means Q is 5m West of R -> R = (5, 0)\n3. 'R @ S' means R is 9m South of S -> S = (5, 9)\n4. 'S & T' means S is 9m East of T -> T is 9m West of S -> T = (5 - 9, 9) = (-4, 9)\n\nNow, find the distance and direction of T with respect to P:\n- Horizontal distance (dx) between P(0, 12) and T(-4, 9) is 4m.\n- Vertical distance (dy) is (12 - 9) = 3m.\n- Shortest distance PT = sqrt(4^2 + 3^2) = sqrt(25) = 5m.\n- Relative to P(0, 12), T(-4, 9) is to the South (9 < 12) and West (-4 < 0). Hence, South-West."
+    },
+    {
+      "id": "ibps-po-ai-1784606242773-0",
+      "section": "English",
+      "topic": "Grammar & Syntax",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following sentences does NOT contain any grammatical error?",
+      "options": [
+        "Scarcely had the regulatory authorities approved the vaccine than the distribution logistics faced unprecedented disruptions.",
+        "Had the committee acted in accordance with the prescribed guidelines, the legal complications could have been easily averted.",
+        "The dynamic nature of the market requires that every analyst pays close attention to minor fluctuations in commodity prices.",
+        "Between the three major telecom players, the newest entrant has managed to capture the largest market share within a short span."
+      ],
+      "answer": 1,
+      "explanation": "Option B is grammatically correct as it correctly uses the past conditional inversion ('Had the committee acted... could have been...'). Option A is incorrect because 'scarcely' must be paired with 'when' or 'before', not 'than' (which is paired with 'no sooner'). Option C is incorrect because the verb 'require' demands the subjunctive mood in the subsequent 'that' clause, meaning the bare infinitive 'pay' should be used instead of 'pays'. Option D is incorrect because 'between' is used for two distinct entities, whereas 'among' should be used for three or more entities."
+    },
+    {
+      "id": "ibps-po-ai-1784606242773-1",
+      "section": "English",
+      "topic": "Vocabulary & Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the word that can fit grammatically and contextually in all the blanks in the sentences given below:\n\nI. The labor union threatened to go on a _______ if their demands for safer working conditions were not met.\nII. It did not _______ him as odd that the office was completely deserted at noon on a weekday.\nIII. The gold miners were hoping to _______ a rich vein of ore in the newly explored northern territory.",
+      "options": [
+        "press",
+        "strike",
+        "draft",
+        "venture"
+      ],
+      "answer": 1,
+      "explanation": "The word 'strike' fits perfectly in all three contexts. In sentence I, 'strike' acts as a noun meaning a temporary cessation of work. In sentence II, 'strike' is a verb meaning to occur to or register in the mind of someone (e.g., 'strike him as odd'). In sentence III, 'strike' is a verb meaning to discover or come upon (especially mineral or oil deposits). No other option fits all three sentences."
+    },
+    {
+      "id": "ibps-po-ai-1784606259030-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the RBI's 'Guidelines on Default Loss Guarantee (DLG) in Digital Lending' issued in June 2023, what is the maximum cap permitted for DLG arrangements on any outstanding loan portfolio?",
+      "options": [
+        "2 percent",
+        "5 percent",
+        "10 percent",
+        "15 percent"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines on Default Loss Guarantee (DLG) in Digital Lending issued on June 8, 2023, a Regulated Entity (RE) can enter into DLG arrangements provided the total DLG cover on any outstanding portfolio does not exceed 5% of the amount of that loan portfolio.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784606259030-1",
+      "section": "General Awareness",
+      "topic": "International Finance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following currencies is NOT a component of the International Monetary Fund's (IMF) Special Drawing Rights (SDR) valuation basket?",
+      "options": [
+        "Chinese Renminbi",
+        "Japanese Yen",
+        "Swiss Franc",
+        "British Pound Sterling"
+      ],
+      "answer": 2,
+      "explanation": "The SDR basket of currencies includes five major currencies: the US Dollar, Euro, Chinese Renminbi, Japanese Yen, and British Pound Sterling. The Swiss Franc is not a part of this basket.",
       "status": "pending"
     }
   ]

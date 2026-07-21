@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -4534,6 +4534,234 @@
             "ବକୁଳ ମହାଦେବୀ"
           ],
           "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ (ପରମବୈଷ୍ଣବୀ ଭାବରେ ମଧ୍ୟ ପରିଚିତ) ଭୌମକର ବଂଶର ପ୍ରଥମ ସାର୍ବଭୌମ ମହିଳା ଶାସକ ଥିଲେ। ସେ ତାଙ୍କ ସ୍ୱାମୀ ଶାନ୍ତିକର ପ୍ରଥମ ଏବଂ ତାଙ୍କ ଭାଇ ଶୁଭାକର ତୃତୀୟଙ୍କ ମୃତ୍ୟୁ ପରେ ପ୍ରାୟ ଖ୍ରୀଷ୍ଟାବ୍ଦ ୮୪୫ ରେ ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606282891-0",
+      "section": "Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of money is lent at compound interest for 2 years at 20% per annum. If the interest is compounded half-yearly instead of yearly, the interest increases by Rs. 482. Find the sum.",
+      "options": [
+        "Rs. 20,000",
+        "Rs. 18,000",
+        "Rs. 24,000",
+        "Rs. 15,000"
+      ],
+      "answer": 0,
+      "explanation": "For yearly compounding: Effective rate for 2 years at 20% per annum = 20 + 20 + (20 * 20)/100 = 44%. For half-yearly compounding: Rate = 10% per half-year, Time = 4 half-years. Effective rate = (1.1)^4 - 1 = 46.41%. Difference in effective rates = 46.41% - 44% = 2.41%. Let the sum be P. Therefore, 2.41% of P = Rs. 482 => P = (482 / 2.41) * 100 = Rs. 20,000.",
+      "translations": {
+        "or": {
+          "question": "ବାର୍ଷିକ 20% ହାରରେ 2 ବର୍ଷ ପାଇଁ ଚକ୍ରବୃଦ୍ଧି ସୁଧରେ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିମାଣର ଅର୍ଥ ଋଣ ଦିଆଯାଇଛି। ଯଦି ସୁଧ ବାର୍ଷିକ ବଦଳରେ ଅର୍ଦ୍ଧବାର୍ଷିକ ହିସାବ କରାଯାଏ, ତେବେ ସୁଧ 482 ଟଙ୍କା ବୃଦ୍ଧି ପାଏ। ମୂଳଧନ (ସମଷ୍ଟି) କେତେ ଥିଲା?",
+          "options": [
+            "ଟ 20,000",
+            "ଟ 18,000",
+            "ଟ 24,000",
+            "ଟ 15,000"
+          ],
+          "explanation": "ବାର୍ଷିକ ଚକ୍ରବୃଦ୍ଧି ସୁଧ ପାଇଁ: 2 ବର୍ଷ ପାଇଁ ପ୍ରଭାବଶାଳୀ ହାର = 20 + 20 + (20 * 20)/100 = 44%। ଅର୍ଦ୍ଧବାର୍ଷିକ ଚକ୍ରବୃଦ୍ଧି ସୁଧ ପାଇଁ: ହାର = ଅର୍ଦ୍ଧବାର୍ଷିକ 10%, ସମୟ = 4 ଅର୍ଦ୍ଧବାର୍ଷିକ। ପ୍ରଭାବଶାଳୀ ହାର = (1.1)^4 - 1 = 46.41%। ହାରର ପାର୍ଥକ୍ୟ = 46.41% - 44% = 2.41%। ମୂଳଧନ P ହେଲେ, P ର 2.41% = 482 ଟଙ୍କା => P = (482 / 2.41) * 100 = 20,000 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606282891-1",
+      "section": "Arithmetic",
+      "topic": "Average",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The average weight of 40 students in a class is 52 kg. If 5 new students with an average weight of 48 kg join the class, and 5 existing students with an average weight of 54 kg leave the class, what is the new average weight of the class?",
+      "options": [
+        "51.25 kg",
+        "51.50 kg",
+        "50.75 kg",
+        "52.25 kg"
+      ],
+      "answer": 0,
+      "explanation": "Initial total weight of 40 students = 40 * 52 = 2080 kg. Total weight of 5 new students joining = 5 * 48 = 240 kg. Total weight of 5 students leaving = 5 * 54 = 270 kg. New total weight of the class = 2080 + 240 - 270 = 2050 kg. The total number of students remains 40. Therefore, the new average weight = 2050 / 40 = 51.25 kg.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ଶ୍ରେଣୀର 40 ଜଣ ଛାତ୍ରଙ୍କ ହାରାହାରି ଓଜନ 52 କିଲୋଗ୍ରାମ। ଯଦି 48 କିଲୋଗ୍ରାମ ହାରାହାରି ଓଜନ ବିଶିଷ୍ଟ 5 ଜଣ ନୂଆ ଛାତ୍ର ଶ୍ରେଣୀରେ ଯୋଗ ଦିଅନ୍ତି ଏବଂ 54 କିଲୋଗ୍ରାମ ହାରାହାରି ଓଜନ ବିଶିଷ୍ଟ 5 ଜଣ ଛାତ୍ର ଶ୍ରେଣୀ ଛାଡି ଚାଲିଯାଆନ୍ତି, ତେବେ ଶ୍ରେଣୀର ନୂତନ ହାରାହାରି ଓଜନ କେତେ ହେବ?",
+          "options": [
+            "51.25 କିଲୋଗ୍ରାମ",
+            "51.50 କିଲୋଗ୍ରାମ",
+            "50.75 କିଲୋଗ୍ରାମ",
+            "52.25 କିଲୋଗ୍ରାମ"
+          ],
+          "explanation": "40 ଜଣ ଛାତ୍ରଙ୍କ ପ୍ରାରମ୍ଭିକ ମୋଟ ଓଜନ = 40 * 52 = 2080 କିଲୋଗ୍ରାମ। ଯୋଗ ଦେଇଥିବା 5 ଜଣ ନୂଆ ଛାତ୍ରଙ୍କ ମୋଟ ଓଜନ = 5 * 48 = 240 କିଲୋଗ୍ରାମ। ଶ୍ରେଣୀ ଛାଡିଥିବା 5 ଜଣ ଛାତ୍ରଙ୍କ ମୋଟ ଓଜନ = 5 * 54 = 270 କିଲୋଗ୍ରାମ। ଶ୍ରେଣୀର ନୂତନ ମୋଟ ଓଜନ = 2080 + 240 - 270 = 2050 କିଲୋଗ୍ରାମ। ମୋଟ ଛାତ୍ର ସଂଖ୍ୟା 40 ହିଁ ରହିବ। ତେଣୁ, ନୂତନ ହାରାହାରି ଓଜନ = 2050 / 40 = 51.25 କିଲୋଗ୍ରାମ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606305217-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'CHILIKA' is coded as 'XSROPRZ'. How will 'HIRAKUD' be coded in that language?",
+      "options": [
+        "SRIZPFW",
+        "SRIYOFW",
+        "SHIZPFW",
+        "SRIZPFV"
+      ],
+      "answer": 0,
+      "explanation": "The logic used here is opposite-letter coding. Each letter of the word is replaced by its corresponding opposite letter in the English alphabet (A↔Z, B↔Y, C↔X, etc., where the sum of their positions is 27). Applying this: H → S, I → R, R → I, A → Z, K → P, U → F, D → W. Therefore, 'HIRAKUD' is coded as 'SRIZPFW'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'CHILIKA' କୁ 'XSROPRZ' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି ଭାଷାରେ 'HIRAKUD' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "SRIZPFW",
+            "SRIYOFW",
+            "SHIZPFW",
+            "SRIZPFV"
+          ],
+          "explanation": "ଏଠାରେ ପ୍ରତ୍ୟେକ ଅକ୍ଷରକୁ ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାରେ ତାର ବିପରୀତ ଅକ୍ଷର (opposite letter) ସହିତ ବଦଳାଯାଇଛି (ଯେପରିକି A↔Z, B↔Y, C↔X, ଯେଉଁଠାରେ ସେମାନଙ୍କର ସ୍ଥାନର ସମଷ୍ଟି ୨୭)। ଏହି ନିୟମ ଅନୁଯାୟୀ: H → S, I → R, R → I, A → Z, K → P, U → F, D → W। ତେଣୁ 'HIRAKUD' ର କୋଡ୍ 'SRIZPFW' ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606305217-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'P # Q' means 'P is the father of Q'; 'P $ Q' means 'P is the mother of Q'; 'P % Q' means 'P is the sister of Q'; and 'P & Q' means 'P is the brother of Q', then which of the following expressions indicates that 'A is the maternal uncle of B'?",
+      "options": [
+        "A & C $ B",
+        "A & C # B",
+        "A % C $ B",
+        "C & A $ B"
+      ],
+      "answer": 0,
+      "explanation": "For A to be the maternal uncle of B, A must be the brother of B's mother. In option A: 'A & C' means A is the brother of C, and 'C $ B' means C is the mother of B. This implies A is the brother of B's mother, which means A is the maternal uncle of B.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି 'P # Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ପିତା'; 'P $ Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ମାତା'; 'P % Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ଭଉଣୀ'; ଏବଂ 'P & Q' ର ଅର୍ଥ 'P ହେଉଛି Q ର ଭାଇ', ତେବେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସମୀକରଣଟି ସୂଚାଏ ଯେ 'A ହେଉଛି B ର ମାମୁଁ (maternal uncle)'?",
+          "options": [
+            "A & C $ B",
+            "A & C # B",
+            "A % C $ B",
+            "C & A $ B"
+          ],
+          "explanation": "A ଯଦି B ର ମାମୁଁ ହେବ, ତେବେ A କୁ B ର ମା'ଙ୍କର ଭାଇ ହେବାକୁ ପଡ଼ିବ। ବିକଳ୍ପ A ରେ: 'A & C' ର ଅର୍ଥ A ହେଉଛି C ର ଭାଇ, ଏବଂ 'C $ B' ର ଅର୍ଥ C ହେଉଛି B ର ମାତା। ଏଥିରୁ ସ୍ପଷ୍ଟ ହେଉଛି ଯେ A ହେଉଛି B ର ମା'ଙ୍କର ଭାଇ, ଅର୍ଥାତ୍ A ହେଉଛି B ର ମାମୁଁ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606325642-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Art and Architecture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The circular Chausath Yogini Temple located at Hirapur, near Bhubaneswar, was built during the reign of which dynasty of Odisha?",
+      "options": [
+        "Ganga Dynasty",
+        "Bhauma-Kara Dynasty",
+        "Somavamsi Dynasty",
+        "Sailodbhava Dynasty"
+      ],
+      "answer": 1,
+      "explanation": "The Chausath Yogini Temple at Hirapur is believed to have been built in the 9th century during the reign of Queen Hiradevi of the Bhauma-Kara dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ହୀରାପୁରଠାରେ ଅବସ୍ଥିତ ଗୋଲାକାର ଚଉଷଠି ଯୋଗିନୀ ମନ୍ଦିର ଓଡ଼ିଶାର କେଉଁ ରାଜବଂଶର ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଗଙ୍ଗା ରାଜବଂଶ",
+            "ଭୌମକର ରାଜବଂଶ",
+            "ସୋମବଂଶୀ ରାଜବଂଶ",
+            "ଶୈଳୋଦ୍ଭବ ରାଜବଂଶ"
+          ],
+          "explanation": "ହୀରାପୁରର ଚଉଷଠି ଯୋଗିନୀ ମନ୍ଦିର ନବମ ଶତାବ୍ଦୀରେ ଭୌମକର ରାଜବଂଶର ରାଣୀ ହୀରାଦେବୀଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା ବୋଲି ବିଶ୍ୱାସ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606325642-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History (British Period)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The devastating 'Na'Anka Durbhiksha' (Orissa Famine) occurred in 1866. Who was the Commissioner of the Orissa Division during this tragic event?",
+      "options": [
+        "George Campbell",
+        "Thomas Edward Ravenshaw",
+        "John Beames",
+        "William Hunter"
+      ],
+      "answer": 1,
+      "explanation": "Thomas Edward Ravenshaw was the officiating Commissioner of the Orissa Division during the devastating Great Famine of 1866 (Na'Anka Durbhiksha). His administration faced severe criticism for failing to anticipate and manage the food grain shortage.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାରେ ଓଡ଼ିଶାରେ ଭୟାବହ 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ଦେଖାଦେଇଥିଲା। ଏହି ଦୁଃଖଦ ଘଟଣା ସମୟରେ ଓଡ଼ିଶା ବିଭାଗର କମିଶନର କିଏ ଥିଲେ?",
+          "options": [
+            "ଜର୍ଜ କ୍ୟାମ୍ପବେଲ୍",
+            "ଥୋମାସ ଏଡୱାର୍ଡ ରେଭେନ୍ସା",
+            "ଜନ୍ ବିମ୍ସ",
+            "ୱିଲିୟମ୍ ହଣ୍ଟର"
+          ],
+          "explanation": "୧୮୬୬ ମସିହାର ଭୟାବହ 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ସମୟରେ ଥୋମାସ ଏଡୱାର୍ଡ ରେଭେନ୍ସା ଓଡ଼ିଶା ବିଭାଗର କମିଶନର ଥିଲେ। ଖାଦ୍ୟଶସ୍ୟ ଅଭାବର ଆକଳନ ଏବଂ ପରିଚାଳନାରେ ବିଫଳ ହୋଇଥିବାରୁ ତାଙ୍କ ପ୍ରଶାସନ ତୀବ୍ର ସମାଲୋଚନାର ସମ୍ମୁଖୀନ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606343608-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the leader of the historic 'Ghumusar Rebellion' of 1835-36 against the British East India Company?",
+      "options": [
+        "Buxi Jagabandhu",
+        "Dora Bisoyi",
+        "Chakra Bisoyi",
+        "Madhav Singh"
+      ],
+      "answer": 1,
+      "explanation": "Dora Bisoyi was the leader of the Ghumusar Rebellion of 1835-36. Following his capture and arrest, his nephew Chakra Bisoyi took over the leadership of the Kondh uprisings in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୩୫-୩୬ ମସିହାରେ ବ୍ରିଟିଶ୍ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୁଦ୍ଧରେ ହୋଇଥିବା ପ୍ରସିଦ୍ଧ 'ଘୁମୁସର ବିଦ୍ରୋହ'ର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ବକ୍ସି ଜଗବନ୍ଧୁ",
+            "ଦୋରା ବିଷୋୟୀ",
+            "ଚକ୍ରା ବିଷୋୟୀ",
+            "ମାଧବ ସିଂହ"
+          ],
+          "explanation": "୧୮୩୫-୩୬ ମସିହାରେ ଘୁମୁସର ବିଦ୍ରୋହର ମୁଖ୍ୟ ନେତା ଦୋରା ବିଷୋୟୀ ଥିଲେ। ତାଙ୍କ ଗିରଫଦାରୀ ପରେ, ତାଙ୍କ ପୁତୁରା ଚକ୍ରା ବିଷୋୟୀ ଓଡ଼ିଶାରେ କନ୍ଧ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784606343608-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Dynasties & Architecture",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Sun Temple of Konark was built by King Narasimhadeva I of the Eastern Ganga Dynasty. What was his popular nickname as recorded in local chronicles like the Madala Panji?",
+      "options": [
+        "Langula Narasimha Deva",
+        "Kabi Chandra",
+        "Gajapati Prataparudra",
+        "Arkakshetra Raja"
+      ],
+      "answer": 0,
+      "explanation": "King Narasimhadeva I, who constructed the world-famous Konark Sun Temple in the 13th century, is popularly referred to as 'Langula Narasimha Deva' in local chronicles and traditional Odia literature.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ରାଜା ପ୍ରଥମ ନରସିଂହଦେବଙ୍କ ଦ୍ୱାରା କୋଣାର୍କର ପ୍ରସିଦ୍ଧ ସୂର୍ଯ୍ୟ ମନ୍ଦିର ନିର୍ମାଣ କରାଯାଇଥିଲା। ସ୍ଥାନୀୟ ମାଦଳା ପାଞ୍ଜି ଅନୁଯାୟୀ ତାଙ୍କର ପ୍ରସିଦ୍ଧ ନାମ କ’ଣ ଥିଲା?",
+          "options": [
+            "ଲାଙ୍ଗୁଳା ନରସିଂହ ଦେବ",
+            "କବି ଚନ୍ଦ୍ର",
+            "ଗଜପତି ପ୍ରତାପରୁଦ୍ର",
+            "ଅର୍କକ୍ଷେତ୍ର ରାଜା"
+          ],
+          "explanation": "୧୩ଶ ଶତାବ୍ଦୀରେ କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର ନିର୍ମାଣ କରିଥିବା ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ପ୍ରସିଦ୍ଧ ଶାସକ ପ୍ରଥମ ନରସିଂହଦେବ, ସ୍ଥାନୀୟ ଇତିହାସ ଓ ପାରମ୍ପରିକ ଓଡ଼ିଆ ସାହିତ୍ୟରେ 'ଲାଙ୍ଗୁଳା ନରସିଂହ ଦେବ' ଭାବେ ବେଶ୍ ଜଣାଶୁଣା।"
         }
       }
     }

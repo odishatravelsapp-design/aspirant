@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -5801,6 +5801,234 @@
             "ଅନ୍ତର୍ଜ୍ଞାନ (Intuition)"
           ],
           "explanation": "ଶ୍ରୀ ଅରବିନ୍ଦଙ୍କ ସମନ୍ୱିତ ଶିକ୍ଷା ପ୍ରଣାଳୀରେ, ଅନ୍ତଃକରଣର ଚାରୋଟି ସ୍ତର ରହିଛି: ଚିତ୍ତ (ନିଷ୍କ୍ରିୟ ସ୍ମୃତି/ଭଣ୍ଡାର), ମନସ (ଇନ୍ଦ୍ରିୟଗତ ମନ ବା 'ପ୍ରକୃତ ମନ' ଯାହା ଇନ୍ଦ୍ରିୟଗତ ଅନୁଭୂତିକୁ ବିଚାରରେ ରୂପାନ୍ତରିତ କରେ), ବୁଦ୍ଧି (ବିଚାରଶକ୍ତି) ଏବଂ ଅନ୍ତର୍ଜ୍ଞାନ (ସତ୍ୟର ପ୍ରତ୍ୟକ୍ଷ ଦର୍ଶନ)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606384574-0",
+      "section": "Subject Knowledge",
+      "topic": "Middle English Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the General Prologue of Geoffrey Chaucer's *The Canterbury Tales*, which of the pilgrims is described as having \"a fire-red cherubin's face\" due to a severe skin condition?",
+      "options": [
+        "The Summoner",
+        "The Pardoner",
+        "The Monk",
+        "The Friar"
+      ],
+      "answer": 0,
+      "explanation": "In Chaucer's *The Canterbury Tales*, the Summoner is described in the General Prologue as having a 'fyr-reed cherubynes face' because of his inflamed, acne-ridden face (carbuncles), which terrified children.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେଫ୍ରି ଚସରଙ୍କ 'ଦି କ୍ୟାଣ୍ଟରବରୀ ଟେଲ୍ସ' (The Canterbury Tales) ର ଜେନେରାଲ୍ ପ୍ରୋଲୋଗ୍‌ରେ, କେଉଁ ଯାତ୍ରୀଙ୍କ ଚର୍ମର ଗୁରୁତର ସମସ୍ୟା ଯୋଗୁଁ ତାଙ୍କ ମୁହଁକୁ \"ଏକ ନିଆଁ ଭଳି ନାଲି ଚେରୁବିନଙ୍କ ମୁହଁ\" (a fire-red cherubin's face) ବୋଲି ବର୍ଣ୍ଣନା କରାଯାଇଛି?",
+          "options": [
+            "ସମନର (The Summoner)",
+            "ପାର୍ଡନର (The Pardoner)",
+            "ମଙ୍କ (The Monk)",
+            "ଫ୍ରାୟର (The Friar)"
+          ],
+          "explanation": "ଚସରଙ୍କ *ଦି କ୍ୟାଣ୍ଟରବରୀ ଟେଲ୍ସ*ରେ, ସମନରଙ୍କୁ ଜେନେରାଲ୍ ପ୍ରୋଲୋଗ୍‌ରେ ତାଙ୍କର ପ୍ରଦାହ ଜନିତ, ବ୍ରଣଭରା ମୁହଁ ଯୋଗୁଁ 'fyr-reed cherubynes face' ବୋଲି ବର୍ଣ୍ଣନା କରାଯାଇଛି, ଯାହା ପିଲାମାନଙ୍କୁ ଭୟଭୀତ କରୁଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606384574-1",
+      "section": "Subject Knowledge",
+      "topic": "Modern British Poetry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In W. B. Yeats's poem \"Easter, 1916\", who is the woman described as spending her days in \"ignorant good-will\" and her nights in political argument until her voice grew shrill?",
+      "options": [
+        "Maud Gonne",
+        "Constance Markievicz",
+        "Lady Gregory",
+        "Olivia Shakespear"
+      ],
+      "answer": 1,
+      "explanation": "In \"Easter, 1916\", Yeats reflects on the participants of the Easter Rising. The lines 'That woman's days were spent / In ignorant good-will...' refer to Constance Markievicz (née Gore-Booth), whom he remembered as a beautiful young woman before she became politically radicalized.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଡବ୍ଲୁ. ବି. ୟେଟ୍ସଙ୍କ ପ୍ରସିଦ୍ଧ କବିତା \"ଇଷ୍ଟର, ୧୯୧୬\" (Easter, 1916) ରେ, କେଉଁ ମହିଳାଙ୍କ ଦିନଗୁଡ଼ିକ \"ଅଜ୍ଞ ମଙ୍ଗଳକାମନା\" (ignorant good-will) ଏବଂ ରାତିଗୁଡ଼ିକ ରାଜନୈତିକ ଯୁକ୍ତିତର୍କରେ କଟିଥିଲା ବୋଲି ବର୍ଣ୍ଣନା କରାଯାଇଛି, ଯେଉଁଥିପାଇଁ ତାଙ୍କ ସ୍ୱର କର୍କଶ ହୋଇଯାଇଥିଲା?",
+          "options": [
+            "ମଡ୍ ଗନ୍ (Maud Gonne)",
+            "କନଷ୍ଟାନ୍ସ ମାର୍କିଭିକ୍ସ (Constance Markievicz)",
+            "ଲେଡି ଗ୍ରେଗୋରୀ (Lady Gregory)",
+            "ଓଲିଭିଆ ଶେକ୍ସପିୟର (Olivia Shakespear)"
+          ],
+          "explanation": "\"ଇଷ୍ଟର, ୧୯୧୬\" ରେ, ୟେଟ୍ସ ଇଷ୍ଟର ବିଦ୍ରୋହର ଅଂଶଗ୍ରହଣକାରୀମାନଙ୍କୁ ମନେ ପକାଇଛନ୍ତି। 'That woman's days were spent / In ignorant good-will...' ଧାଡ଼ିଗୁଡ଼ିକ କନଷ୍ଟାନ୍ସ ମାର୍କିଭିକ୍ସ (ପୂର୍ବନାମ କନଷ୍ଟାନ୍ସ ଗୋର୍-ବୁଥ୍‌) ଙ୍କୁ ସୂଚିତ କରେ, ଯାହାଙ୍କୁ ସେ ରାଜନୈତିକ ଭାବେ ସକ୍ରିୟ ହେବା ପୂର୍ବରୁ ଜଣେ ସୁନ୍ଦରୀ ଯୁବତୀ ଭାବରେ ମନେ ରଖିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606407866-0",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders' Interaction Analysis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Category System (FIACS), which group of categories represents 'Indirect Teacher Influence'?",
+      "options": [
+        "Lecturing, Giving directions, Criticizing or justifying authority",
+        "Accepting feeling, Praising or encouraging, Accepting or using ideas of pupils, Asking questions",
+        "Student talk-response, Student talk-initiation, Silence or confusion",
+        "Lecturing, Asking questions, Giving directions, Student talk-initiation"
+      ],
+      "answer": 1,
+      "explanation": "In Flanders' Interaction Analysis Category System (FIACS), the 10 categories are divided into Teacher Talk, Pupil Talk, and Silence/Confusion. Teacher Talk is further divided into Indirect Influence (Categories 1-4: Accepting feeling, Praising or encouraging, Accepting or using ideas of pupils, and Asking questions) and Direct Influence (Categories 5-7: Lecturing, Giving directions, and Criticizing or justifying authority).",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ବର୍ଗୀକରଣ ପ୍ରଣାଳୀ (FIACS) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ବର୍ଗ ସମୂହ 'ପରୋକ୍ଷ ଶିକ୍ଷକ ପ୍ରଭାବ' (Indirect Teacher Influence) କୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ବ୍ୟାଖ୍ୟାନ ଦେବା, ନିର୍ଦ୍ଦେଶ ଦେବା, କର୍ତ୍ତୃତ୍ୱକୁ ସମାଲୋଚନା କରିବା ବა ଯଥାର୍ଥତା ପ୍ରତିପାଦନ କରିବା",
+            "ଅնୁଭୂତିକୁ ଗ୍ରହଣ କରିବା, ପ୍ରଶଂସା ବା ଉତ୍ସାହିତ କରିବା, ଛାତ୍ରମାନଙ୍କ ଚିନ୍ତାଧାରାକୁ ଗ୍ରହଣ କରିବା ବା ବ୍ୟବହାର କରିବା, ପ୍ରଶ୍ନ ପଚାରିବା",
+            "ଛାତ୍ର କଥାବାର୍ତ୍ତା-ପ୍ରତିକ୍ରିୟା, ଛାତ୍ର କଥାବାର୍ତ୍ତା-ଆରମ୍ଭ, ନୀରବତା ବା ବିଭ୍ରାନ୍ତି",
+            "ବ୍ୟାଖ୍ୟାନ ଦେବା, ପ୍ରଶ୍ନ ପଚାରିବା, ନିର୍ଦ୍ଦେଶ ଦେବା, ଛାତ୍ର କଥାବାର୍ତ୍ତା-ଆରମ୍ଭ"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ବର୍ଗୀକରଣ ପ୍ରଣାଳୀ (FIACS) ରେ, ୧୦ଟି ବର୍ଗକୁ ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା, ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା ଏବଂ ନୀରବତା/ବିଭ୍ରାନ୍ତିରେ ବିଭକ୍ତ କରାଯାଇଛି। ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତାକୁ ପୁନଶ୍ଚ ପରୋକ୍ଷ ପ୍ରଭାବ (ବର୍ଗ ୧-୪: ଅնୁଭୂତି ଗ୍ରହଣ, ପ୍ରଶଂସା ବା ଉତ୍ସାହ ପ୍ରଦାନ, ଛାତ୍ରଙ୍କ ଚିନ୍ତାଧାରା ଗ୍ରହଣ ଏବଂ ପ୍ରଶ୍ନ ପଚାରିବା) ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ (ବର୍ଗ ୫-୭: ବ୍ୟାଖ୍ୟାନ, ନିର୍ଦ୍ଦେଶ ଏବଂ ସମାଲୋଚନା ବା କର୍ତ୍ତୃତ୍ୱ ପ୍ରତିପାଦନ) ରେ ବିଭକ୍ତ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606407866-1",
+      "section": "Teaching Aptitude",
+      "topic": "Gagne's Conditions of Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Robert Gagné’s Hierarchy of Learning, which of the following represents the correct sequential order of the first four lower-level types of learning (from lowest to highest)?",
+      "options": [
+        "Signal learning -> Stimulus-Response learning -> Chaining -> Verbal association",
+        "Stimulus-Response learning -> Signal learning -> Chaining -> Verbal association",
+        "Signal learning -> Chaining -> Stimulus-Response learning -> Verbal association",
+        "Signal learning -> Stimulus-Response learning -> Verbal association -> Chaining"
+      ],
+      "answer": 0,
+      "explanation": "Robert Gagné proposed eight levels of learning in his hierarchy. The first four lower-level types of learning in ascending order are: 1. Signal learning, 2. Stimulus-Response learning, 3. Chaining, and 4. Verbal association.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେଙ୍କ ଶିକ୍ଷଣ କ୍ରମଶ୍ରେଣୀ (Hierarchy of Learning) ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ପ୍ରଥମ ଚାରୋଟି ନିମ୍ନ-ସ୍ତରୀୟ ଶିକ୍ଷଣ ପ୍ରକାରର ସଠିକ୍ କ୍ରମିକ ସଜ୍ଜାକୁ (ନିମ୍ନରୁ ଉଚ୍ଚ ସ୍ତରକୁ) ଦର୍ଶାଏ?",
+          "options": [
+            "ସଙ୍କେତ ଶିକ୍ଷଣ -> ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ -> ଶୃଙ୍ଖଳୀକରଣ -> ଶାବ୍ଦିକ ସହଚର୍ଯ୍ୟ ଶିକ୍ଷଣ",
+            "ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ -> ସଙ୍କେତ ଶିକ୍ଷଣ -> ଶୃଙ୍ଖଳୀକରଣ -> ଶାବ୍ଦିକ ସହଚର୍ଯ୍ୟ ଶିକ୍ଷଣ",
+            "ସଙ୍କେତ ଶିକ୍ଷଣ -> ଶୃଙ୍ଖଳୀକରଣ -> ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ -> ଶାବ୍ଦିକ ସହଚର୍ଯ୍ୟ ଶିକ୍ଷଣ",
+            "ସଙ୍କେତ ଶିକ୍ଷଣ -> ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ -> ଶାବ୍ଦିକ ସହଚର୍ଯ୍ୟ ଶିକ୍ଷଣ -> ଶୃଙ୍ଖଳୀକରଣ"
+          ],
+          "explanation": "ରବର୍ଟ ଗାଗ୍ନେ ଶିକ୍ଷଣର ଆଠଟି ସ୍ତର ପ୍ରସ୍ତାବ କରିଥିଲେ। ଆରୋହଣ କ୍ରମରେ ପ୍ରଥମ ଚାରୋଟି ନିମ୍ନ-ସ୍ତରୀୟ ଶିକ୍ଷଣ ହେଉଛି: ୧. ସଙ୍କେତ ଶିକ୍ଷଣ (Signal learning), ୨. ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ (Stimulus-Response learning), ୩. ଶୃଙ୍ଖଳୀକରଣ (Chaining) ଏବଂ ୪. ଶାବ୍ଦିକ ସହଚର୍ଯ୍ୟ ଶିକ୍ଷଣ (Verbal association)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606432906-0",
+      "section": "General Studies",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "During Mahatma Gandhi's first visit to Odisha in 1921, at which of the following places in Cuttack did he address a historic mass gathering on 23rd March 1921?",
+      "options": [
+        "Kathajodi River Bed",
+        "Qadam-i-Rasool Ground",
+        "Municipal High School Ground",
+        "Ravenshaw College Ground"
+      ],
+      "answer": 0,
+      "explanation": "On 23rd March 1921, during his first visit to Odisha to propagate the Non-Cooperation Movement, Mahatma Gandhi addressed a historic, massive public meeting at the Kathajodi River Bed in Cuttack.",
+      "translations": {
+        "or": {
+          "question": "୧୯୨୧ ମସିହାରେ ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ପ୍ରଥମ ଓଡ଼ିଶା ଗସ୍ତ ସମୟରେ, ୨୩ ମାର୍ଚ୍ଚ ୧୯୨୧ ରେ ସେ କଟକର କେଉଁ ସ୍ଥାନରେ ଏକ ଐତିହାସିକ ଜନସଭାକୁ ସମ୍ବୋଧିତ କରିଥିଲେ?",
+          "options": [
+            "କାଠଯୋଡ଼ି ନଦୀ ଶଯ୍ୟା",
+            "କଦମ-ଇ-ରସୁଲ ପଡ଼ିଆ",
+            "ମ୍ୟୁନିସିପାଲିଟି ହାଇସ୍କୁଲ ପଡ଼ିଆ",
+            "ରେଭେନ୍ସା କଲେଜ ପଡ଼ିଆ"
+          ],
+          "explanation": "ଅସହଯୋଗ ଆନ୍ଦୋଳନର ପ୍ରଚାର ପାଇଁ ଓଡ଼ିଶା ଗସ୍ତ ସମୟରେ, ୨୩ ମାର୍ଚ୍ଚ ୧୯୨୧ ରେ ମହାତ୍ମା ଗାନ୍ଧୀ କଟକର କାଠଯୋଡ଼ି ନଦୀ ଶଯ୍ୟାରେ ଏକ ବିଶାଳ ଐତିହାସିକ ଜନସଭାକୁ ସମ୍ବୋଧିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606432906-1",
+      "section": "General Studies",
+      "topic": "Art and Architecture of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Chausath Yogini Temple at Hirapur near Bhubaneswar is believed to have been constructed during the reign of which Bhauma-Kara queen?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Hiradevi",
+        "Vakula Mahadevi"
+      ],
+      "answer": 2,
+      "explanation": "The Chausath Yogini Temple located at Hirapur (near Bhubaneswar) is widely believed by historians to have been built during the 9th century AD under the patronage of Queen Hiradevi of the Bhauma-Kara dynasty.",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ହୀରାପୁରରେ ଅବସ୍ଥିତ ପ୍ରସିଦ୍ଧ ଚୌଷଠି ଯୋଗିନୀ ମନ୍ଦିର କେଉଁ ଭୌମକର ରାଣୀଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା ବୋଲି ବିଶ୍ୱାସ କରାଯାଏ?",
+          "options": [
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ",
+            "ପୃଥ୍ୱୀ ମହାଦେବୀ",
+            "ହୀରାଦେବୀ",
+            "ବକୁଳ ମହାଦେବୀ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱର ନିକଟ ହୀରାପୁରର ଚୌଷଠି ଯୋଗିନୀ ମନ୍ଦିର ୯ମ ଶତାବ୍ଦୀରେ ଭୌମକର ବଂଶର ରାଣୀ ହୀରାଦେବୀଙ୍କ ପୃଷ୍ଠପୋଷକତାରେ ନିର୍ମିତ ହୋଇଥିଲା ବୋଲି ଐତିହାସିକମାନେ ମତ ଦିଅନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606489036-0",
+      "section": "Odisha GK",
+      "topic": "Odisha GK - Art and Architecture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous hypaethral Chausath Yogini temple at Hirapur near Bhubaneswar was built during the reign of which queen of the Bhauma-Kara dynasty?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Hiradevi",
+        "Gauri Mahadevi"
+      ],
+      "answer": 2,
+      "explanation": "The Chausath Yogini temple at Hirapur, known for its unique circular hypaethral (roofless) architecture, is historically attributed to Queen Hiradevi (or Hira Mahadevi), the queen of Bhauma-Kara ruler Shantikaradeva II, during the 9th century AD.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ହୀରାପୁରଠାରେ ଅବସ୍ଥିତ ପ୍ରସିଦ୍ଧ ଚୌଷଠୀ ଯୋଗିନୀ ମନ୍ଦିର ଭୌମ-କର ବଂଶର କେଉଁ ରାଣୀଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ I",
+            "ପୃଥ୍ୱୀ ମହାଦେବୀ",
+            "ହୀରାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ"
+          ],
+          "explanation": "ହୀରାପୁରର ଚୌଷଠୀ ଯୋଗିନୀ ମନ୍ଦିର ଏହାର ଅନନ୍ୟ ଗୋଲାକାର ଛାତବିହୀନ ସ୍ଥାପତ୍ୟ ପାଇଁ ଜଣାଶୁଣା। ଏହା ନବମ ଶତାବ୍ଦୀରେ ଭୌମ-କର ଶାସକ ଶାନ୍ତିକରଦେବ II ଙ୍କ ରାଣୀ ହୀରାଦେବୀ (ବା ହୀରା ମହାଦେବୀ) ଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା ବୋଲି ଐତିହାସିକ ଭାବେ ଗ୍ରହଣ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784606489036-1",
+      "section": "Odisha GK",
+      "topic": "Odisha GK - Modern History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the Cuttack Mission Press, the first printing press of Odisha, established by the Christian Missionaries?",
+      "options": [
+        "1822",
+        "1837",
+        "1807",
+        "1843"
+      ],
+      "answer": 1,
+      "explanation": "The Cuttack Mission Press, which played a pioneering role in the growth of Odia literature and journalism, was established in 1837 by the Baptist Missionary Society.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଖ୍ରୀଷ୍ଟିଆନ ମିଶନାରୀମାନଙ୍କ ଦ୍ୱାରା ଓଡ଼ିଶାର ପ୍ରଥମ ମୁଦ୍ରଣାଳୟ 'କଟକ ମିଶନ ପ୍ରେସ' କେଉଁ ବର୍ଷ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୮୨୨",
+            "୧୮୩୭",
+            "୧୮୦୭",
+            "୧୮୪୩"
+          ],
+          "explanation": "ଓଡ଼ିଆ ସାହିତ୍ୟ ଏବଂ ସାମ୍ବାଦିକତାର ବିକାଶରେ ଅଗ୍ରଣୀ ଭୂମିକା ଗ୍ରହଣ କରିଥିବା କଟକ ମିଶନ ପ୍ରେସ, ୧୮୩୭ ମସିହାରେ ବାପ୍ଟିଷ୍ଟ ମିଶନାରୀ ସୋସਾਈଟି ଦ୍ୱାରା ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
         }
       }
     }

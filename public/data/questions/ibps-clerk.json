@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -4329,6 +4329,136 @@
       ],
       "answer": 2,
       "explanation": "In the revised PCA framework effective from January 1, 2022, the RBI monitors Capital, Asset Quality, and Leverage. Profitability (Return on Assets) was excluded from the revised framework as a trigger parameter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784606007552-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete the same work?",
+      "options": [
+        "35 days",
+        "40 days",
+        "45 days",
+        "50 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the daily work capacity of 1 man be M and 1 woman be W.\nTotal Work = 8 * (4M + 6W) = 10 * (3M + 7W)\n32M + 48W = 30M + 70W\n2M = 22W => 1M = 11W\nNow, substitute M = 11W in the first equation to find total work in terms of W:\nTotal Work = 8 * (4(11W) + 6W) = 8 * (44W + 6W) = 8 * 50W = 400W\nTime taken by 10 women to complete the work = Total Work / (10 * W) = 400W / 10W = 40 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1784606007552-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper marks up his goods by 40% above the cost price. He then allows a discount of 25% on the marked price of 3/5th of the goods and a discount of 10% on the marked price of the remaining goods. Find his overall profit percentage.",
+      "options": [
+        "11.2%",
+        "12.6%",
+        "13.4%",
+        "14.8%"
+      ],
+      "answer": 2,
+      "explanation": "Let the total number of goods be 5 units, and the cost price (CP) of each unit be Rs. 100. Total CP = Rs. 500.\nMarked Price (MP) of each unit = 140% of 100 = Rs. 140.\nCase 1: 3/5th of goods (3 units) sold at 25% discount.\nSelling Price (SP) of each of these 3 units = 140 * 0.75 = Rs. 105.\nTotal SP for 3 units = 3 * 105 = Rs. 315.\nCase 2: Remaining goods (2 units) sold at 10% discount.\nSP of each of these 2 units = 140 * 0.90 = Rs. 126.\nTotal SP for 2 units = 2 * 126 = Rs. 252.\nTotal SP = 315 + 252 = Rs. 567.\nOverall Profit = Total SP - Total CP = 567 - 500 = Rs. 67.\nOverall Profit Percentage = (67 / 500) * 100 = 13.4%."
+    },
+    {
+      "id": "ibps-clerk-ai-1784606024324-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some statements are given followed by two conclusions. Read the statements and decide which of the given conclusions logically follows.\n\nStatements:\nOnly a few Pen are Pencil.\nAll Pencil are Eraser.\nNo Eraser is Sharpener.\n\nConclusions:\nI. Some Pen are not Sharpener.\nII. Some Pencil being Sharpener is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Since 'Only a few Pen are Pencil', some Pens are Pencils. All Pencils are Erasers, which means the common part between Pen and Pencil is also inside Eraser. Since 'No Eraser is Sharpener', no part of Eraser (which includes all Pencils and some Pens) can ever be Sharpener. Thus, 'Some Pen are not Sharpener' is definitely true (Conclusion I follows). Also, since no Eraser is Sharpener, no Pencil can ever be Sharpener, making Conclusion II false."
+    },
+    {
+      "id": "ibps-clerk-ai-1784606024324-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'P # Q' means 'P is the father of Q', 'P @ Q' means 'P is the mother of Q', 'P % Q' means 'P is the brother of Q', and 'P $ Q' means 'P is the sister of Q', then how is B related to E in the expression 'A # B % C @ D $ E'?",
+      "options": [
+        "Paternal Uncle",
+        "Maternal Uncle",
+        "Brother",
+        "Nephew"
+      ],
+      "answer": 1,
+      "explanation": "Decoding the expression 'A # B % C @ D $ E':\n1. A # B -> A is the father of B.\n2. B % C -> B is the brother of C (B is male).\n3. C @ D -> C is the mother of D (C is female).\n4. D $ E -> D is the sister of E.\nFrom 3 and 4, C is the mother of both D and E. Since B is the brother of C, B is the maternal uncle of E."
+    },
+    {
+      "id": "ibps-clerk-ai-1784606052446-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, a part of the sentence is bolded. Choose the correct alternative from the options given to replace the bolded part and make the sentence grammatically correct.\n\nHardly had the economic recovery process started **than the country was hit with** another wave of inflation.",
+      "options": [
+        "when the country was hit by",
+        "then the country was hit by",
+        "when the country had hit by",
+        "No correction required"
+      ],
+      "answer": 0,
+      "explanation": "The correlative conjunction 'hardly' is always followed by 'when' (or 'before'), not 'than' (which pairs with 'no sooner'). Additionally, 'hit by' is the correct passive construction. Therefore, 'when the country was hit by' is the grammatically correct replacement."
+    },
+    {
+      "id": "ibps-clerk-ai-1784606052446-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, a sentence is divided into five parts marked as A, B, C, D, and E. Rearrange the parts to form a coherent and grammatically correct sentence.\n\n(A) has led to an unprecedented surge\n(B) the rapid acceleration of digital transformation\n(C) in cybersecurity threats across various sectors\n(D) prompting organizations to invest heavily\n(E) in robust defense mechanisms",
+      "options": [
+        "BACDE",
+        "BCAED",
+        "ACBDE",
+        "BADEC"
+      ],
+      "answer": 0,
+      "explanation": "The sentence begins with the subject 'the rapid acceleration of digital transformation' (B), which is followed by the singular verb phrase 'has led to an unprecedented surge' (A). This surge is specified by 'in cybersecurity threats across various sectors' (C). The present participle clause 'prompting organizations to invest heavily' (D) followed by 'in robust defense mechanisms' (E) concludes the sentence. Thus, the correct sequence is BACDE."
+    },
+    {
+      "id": "ibps-clerk-ai-1784606067731-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India (RBI) guidelines, what is the maximum number of withdrawals (including ATM withdrawals) allowed in a month free of charge under a Basic Savings Bank Deposit Account (BSBDA)?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "Under the RBI guidelines for Basic Savings Bank Deposit Accounts (BSBDA), banks must offer a minimum of four withdrawals in a month, including ATM withdrawals, free of charge.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784606067731-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), the upper age limit for availing the overdraft facility of up to ₹10,000 was revised from 60 years to how many years?",
+      "options": [
+        "62 years",
+        "65 years",
+        "68 years",
+        "70 years"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India revised the age limit for availing the overdraft facility under PMJDY from 18-60 years to 18-65 years, and also doubled the overdraft limit to ₹10,000.",
       "status": "pending"
     }
   ]

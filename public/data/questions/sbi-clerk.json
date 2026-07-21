@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -4066,6 +4066,136 @@
       ],
       "answer": 1,
       "explanation": "Effective from June 1, 2022, the Union Government revised the annual premium for PMJJBY from Rs. 330 to Rs. 436, and the annual premium for PMSBY was revised from Rs. 12 to Rs. 20. This was the first premium revision for these schemes since their launch in 2015.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784606087463-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Three partners A, B, and C invest in a business. A's investment is twice B's investment, and B's investment is thrice C's investment. If the ratio of the time periods of their investments is 2 : 3 : 4 respectively, and the total profit at the end of the year is Rs. 1,10,000, what is B's share in the profit?",
+      "options": [
+        "Rs. 39,600",
+        "Rs. 52,800",
+        "Rs. 17,600",
+        "Rs. 44,000"
+      ],
+      "answer": 0,
+      "explanation": "Let C's investment be x. Then B's investment is 3x, and A's investment is 6x. The ratio of investments of A, B, and C is 6 : 3 : 1. The ratio of their investment time periods is 2 : 3 : 4. Therefore, the ratio of their profit shares is (6 * 2) : (3 * 3) : (1 * 4) = 12 : 9 : 4. The sum of the ratios is 12 + 9 + 4 = 25. Given total profit is Rs. 1,10,000, B's share is (9 / 25) * 1,10,000 = 9 * 4,400 = Rs. 39,600."
+    },
+    {
+      "id": "sbi-clerk-ai-1784606087463-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains start at the same time from stations A and B towards each other at speeds of 75 km/h and 60 km/h respectively. When they meet, it is found that the first train has traveled 120 km more than the second train. Find the total distance between stations A and B.",
+      "options": [
+        "960 km",
+        "1,080 km",
+        "1,120 km",
+        "1,200 km"
+      ],
+      "answer": 1,
+      "explanation": "Let the two trains meet after 't' hours. The distance covered by the first train is 75t and the distance covered by the second train is 60t. According to the question, the difference in distance is 120 km. Thus, 75t - 60t = 120 => 15t = 120 => t = 8 hours. The total distance between stations A and B is the sum of the distances covered by both trains: 75t + 60t = 135t = 135 * 8 = 1,080 km."
+    },
+    {
+      "id": "sbi-clerk-ai-1784606112608-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language:\n'blue sky high' is written as 'ka pa mi'\n'high mountain steep' is written as 'mi ta jo'\n'sky mountain clear' is written as 'pa ta si'\n\nWhat is the code for 'steep' in this code language?",
+      "options": [
+        "jo",
+        "mi",
+        "ta",
+        "pa"
+      ],
+      "answer": 0,
+      "explanation": "Comparing the first and second statements, 'high' is the common word and 'mi' is the common code, so 'high' = 'mi'. Comparing the second and third statements, 'mountain' is common and 'ta' is the common code, so 'mountain' = 'ta'. In the second statement 'high mountain steep' is coded as 'mi ta jo'. Since 'high' is 'mi' and 'mountain' is 'ta', the remaining word 'steep' must be coded as 'jo'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784606112608-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—A, B, C, D, E, and F—are sitting in a straight line facing North.\n- Only two people sit to the left of C.\n- B sits second to the right of C.\n- A sits adjacent to B.\n- Only one person sits between A and D.\n- E is not an immediate neighbor of C.\n- F sits to the immediate left of D.\n\nWho sits at the extreme right end of the row?",
+      "options": [
+        "E",
+        "F",
+        "A",
+        "B"
+      ],
+      "answer": 0,
+      "explanation": "Based on the clues, let's place the six positions from left to right (1 to 6):\n1. 'Only two people sit to the left of C' means C is at position 3.\n2. 'B sits second to the right of C' places B at position 5.\n3. 'A sits adjacent to B' means A can be at position 4 or 6.\n4. 'F sits to the immediate left of D' means F and D are adjacent in the order FD.\n5. 'Only one person sits between A and D'. If A is at 4, D must be at 2 (since C is at 3). If D is at 2, then F (being to the immediate left of D) must be at 1. This gives us the sequence F (1), D (2), C (3), A (4), B (5).\n6. The remaining position 6 must be occupied by E. This satisfies the condition 'E is not an immediate neighbor of C' (since C is at 3, and E is at 6). Thus, the final arrangement from left to right is: F, D, C, A, B, E. E sits at the extreme right end."
+    },
+    {
+      "id": "sbi-clerk-ai-1784606131174-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The newly appointed manager was determined to ________ the declining sales figures by implementing robust marketing strategies, but his efforts were ________ by a sudden economic downturn.",
+      "options": [
+        "reverse, thwarted",
+        "bolster, accelerated",
+        "diminish, hindered",
+        "address, catalyzed"
+      ],
+      "answer": 0,
+      "explanation": "The first blank requires a verb that indicates an action to improve or change the 'declining sales figures'. 'Reverse' fits perfectly. The conjunction 'but' introduces a contrast, indicating that despite his efforts, something negative happened due to the economic downturn. 'Thwarted' (meaning prevented or foiled) fits the second blank contextually and grammatically."
+    },
+    {
+      "id": "sbi-clerk-ai-1784606131174-1",
+      "section": "English",
+      "topic": "Sentence Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The speaker's ________ arguments failed to convince the audience, who found his reasoning to be highly superficial and lacking in empirical evidence.",
+      "options": [
+        "specious",
+        "cogent",
+        "profound",
+        "lucid"
+      ],
+      "answer": 0,
+      "explanation": "'Specious' means superficially plausible, but actually wrong or incorrect. This perfectly matches the context of the sentence where the audience found the reasoning to be 'highly superficial and lacking in empirical evidence'. 'Cogent' (clear and convincing), 'profound' (very deep), and 'lucid' (easy to understand) do not fit the negative context of failing to convince due to superficiality."
+    },
+    {
+      "id": "sbi-clerk-ai-1784606149470-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the RBI Retail Direct Scheme, retail investors can open a Retail Direct Gilt (RDG) Account with the RBI. Which of the following securities is NOT eligible for investment under this scheme?",
+      "options": [
+        "Dated Government Securities",
+        "State Development Loans (SDLs)",
+        "Treasury Bills (T-Bills)",
+        "Commercial Papers (CPs) issued by corporate bodies"
+      ],
+      "answer": 3,
+      "explanation": "The RBI Retail Direct Scheme allows retail investors to invest in Government Securities (G-Secs) such as Dated Securities, T-Bills, State Development Loans (SDLs), and Sovereign Gold Bonds (SGBs). Commercial Papers are money market instruments issued by corporate entities and are not covered under this scheme.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784606149470-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, what is the total Priority Sector Lending (PSL) target for Regional Rural Banks (RRBs) in India?",
+      "options": [
+        "40% of Adjusted Net Bank Credit (ANBC) or CEOBE",
+        "75% of Adjusted Net Bank Credit (ANBC) or CEOBE",
+        "60% of Adjusted Net Bank Credit (ANBC) or CEOBE",
+        "50% of Adjusted Net Bank Credit (ANBC) or CEOBE"
+      ],
+      "answer": 1,
+      "explanation": "The Priority Sector Lending (PSL) target for Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) is 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, whereas for domestic commercial banks (excluding RRBs and SFBs) it is 40%.",
       "status": "pending"
     }
   ]
