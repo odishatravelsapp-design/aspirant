@@ -4197,6 +4197,176 @@
       "answer": 1,
       "explanation": "The Priority Sector Lending (PSL) target for Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) is 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, whereas for domestic commercial banks (excluding RRBs and SFBs) it is 40%.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-0",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which satellite was launched by ISRO on January 1, 2024, to study the polarization of cosmic X-rays in astronomical sources?",
+      "options": [
+        "Aditya-L1",
+        "XPoSat",
+        "Cartosat-3",
+        "INSAT-3DS"
+      ],
+      "answer": 1,
+      "explanation": "ISRO successfully launched the X-ray Polarimeter Satellite (XPoSat) on January 1, 2024, using the PSLV-C58 rocket, to study the polarization of cosmic X-rays."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-1",
+      "section": "General Awareness",
+      "topic": "National & International Organizations",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who is the current President of the New Development Bank (NDB), established by the BRICS countries?",
+      "options": [
+        "Dilma Rousseff",
+        "K. V. Kamath",
+        "Marcos Troyjo",
+        "Masatsugu Asakawa"
+      ],
+      "answer": 0,
+      "explanation": "Former Brazilian President Dilma Rousseff was elected as the President of the New Development Bank (NDB) in March 2023."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-2",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which two wetlands in India were first designated as Ramsar sites of international importance in October 1981?",
+      "options": [
+        "Chilika Lake and Keoladeo National Park",
+        "Wular Lake and Loktak Lake",
+        "Sambhar Lake and Harike Lake",
+        "Ashtamudi Wetland and Vembanad-Kol Wetland"
+      ],
+      "answer": 0,
+      "explanation": "Chilika Lake (Odisha) and Keoladeo National Park (Rajasthan) were the first two wetlands in India to be designated as Ramsar sites on October 1, 1981."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-3",
+      "section": "General Awareness",
+      "topic": "Awards & Honours",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who was awarded the 58th Jnanpith Award for the year 2023?",
+      "options": [
+        "Damodar Mauzo and Nilmani Phookan",
+        "Jagatguru Rambhadracharya and Gulzar",
+        "Akkitham Achuthan Namboothiri and Shankha Ghosh",
+        "Amitav Ghosh and Krishna Sobti"
+      ],
+      "answer": 1,
+      "explanation": "The 58th Jnanpith Award was jointly awarded to Sanskrit scholar Jagatguru Rambhadracharya and Urdu poet and lyricist Gulzar in February 2024."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-4",
+      "section": "General Awareness",
+      "topic": "Capitals & Currencies",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the capital and official currency of Vietnam?",
+      "options": [
+        "Hanoi and Dong",
+        "Ho Chi Minh City and Dong",
+        "Hanoi and Baht",
+        "Vientiane and Kip"
+      ],
+      "answer": 0,
+      "explanation": "Hanoi is the capital of Vietnam, and the Vietnamese Dong (VND) is its official currency."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-5",
+      "section": "General Awareness",
+      "topic": "Books & Authors",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who authored the book 'Madam Commissioner: The Extraordinary Life of an Indian Police Officer'?",
+      "options": [
+        "Kiran Bedi",
+        "Meeran Chadha Borwankar",
+        "Kanchan Chaudhary Bhattacharya",
+        "Archana Ramasundaram"
+      ],
+      "answer": 1,
+      "explanation": "'Madam Commissioner: The Extraordinary Life of an Indian Police Officer' is an autobiographical book written by retired IPS officer Meeran Chadha Borwankar."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-6",
+      "section": "General Awareness",
+      "topic": "Important Days & Themes",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What was the official theme for World Environment Day 2024, hosted by Saudi Arabia?",
+      "options": [
+        "Beat Plastic Pollution",
+        "Only One Earth",
+        "Land restoration, desertification and drought resilience",
+        "Ecosystem Restoration"
+      ],
+      "answer": 2,
+      "explanation": "The theme for World Environment Day on June 5, 2024, was 'Land restoration, desertification and drought resilience', with the host country being Saudi Arabia."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-7",
+      "section": "General Awareness",
+      "topic": "Sports & Tournaments",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which country won the Men's ICC T20 World Cup 2024 by defeating South Africa in the final?",
+      "options": [
+        "Australia",
+        "India",
+        "England",
+        "West Indies"
+      ],
+      "answer": 1,
+      "explanation": "India won the Men's ICC T20 World Cup 2024 by defeating South Africa by 7 runs in the final played at Kensington Oval in Barbados."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-8",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which heavyweight anti-submarine torpedo was successfully test-fired by the Indian Navy with a live warhead in June 2023?",
+      "options": [
+        "Varunastra",
+        "Maareech",
+        "Shyena",
+        "Takshak"
+      ],
+      "answer": 0,
+      "explanation": "Varunastra is an Indian advanced heavyweight anti-submarine torpedo, developed by the Naval Science and Technological Laboratory of DRDO. It was successfully test-fired with a live warhead by the Indian Navy in June 2023."
+    },
+    {
+      "id": "sbi-clerk-gk-1784608527515-9",
+      "section": "General Awareness",
+      "topic": "National & International Organizations",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Where is the headquarters of the International Solar Alliance (ISA) located?",
+      "options": [
+        "Geneva, Switzerland",
+        "Gurugram, India",
+        "Paris, France",
+        "Nairobi, Kenya"
+      ],
+      "answer": 1,
+      "explanation": "The International Solar Alliance (ISA) is headquartered in Gurugram, Haryana, India. It was launched jointly by India and France."
     }
   ]
 }
