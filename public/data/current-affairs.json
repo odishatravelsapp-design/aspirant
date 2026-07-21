@@ -1,254 +1,254 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-21",
   "items": [
     {
-      "id": "ca-1784103887748-0",
+      "id": "ca-1784608199704-0",
+      "category": "International",
+      "title": "India seeks modification of Indus Waters Treaty, plans 5,500 MW hydro projects in J&K",
+      "summary": "India has stated that the Indus Waters Treaty (IWT) can no longer function in its current form, and plans to construct 5,500 MW of new hydropower projects in Jammu & Kashmir.",
+      "source": "WION",
+      "translations": {
+        "or": {
+          "title": "ସିନ୍ଧୁ ଜଳ ଚୁକ୍ତିରେ ସଂଶୋଧନ ଚାହୁଁଛି ଭାରତ, ଜମ୍ମୁ-କାଶ୍ମୀରରେ ୫,୫୦୦ ମେଗାୱାଟର ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ଯୋଜନା",
+          "summary": "ଭାରତ କହିଛି ଯେ ସିନ୍ଧୁ ଜଳ ଚୁକ୍ତି (IWT) ବର୍ତ୍ତମାନର ରୂପରେ ଆଉ କାର୍ଯ୍ୟକ୍ଷମ ହୋଇପାରିବ ନାହିଁ ଏବଂ ଜମ୍ମୁ ଓ କାଶ୍ମୀରରେ ୫,୫୦୦ ମେଗାୱାଟର ନୂତନ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ନିର୍ମାଣ କରିବାକୁ ଯୋଜନା କରୁଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1784608199704-1",
+      "category": "National",
+      "title": "Bill to increase number of Supreme Court judges introduced in Lok Sabha",
+      "summary": "A new bill has been introduced in the Lok Sabha aiming to increase the sanctioned strength of Supreme Court judges to manage the growing caseload.",
+      "source": "Live Law",
+      "translations": {
+        "or": {
+          "title": "ସୁପ୍ରିମକୋର୍ଟ ବିଚାରପତିଙ୍କ ସଂଖ୍ୟା ବୃଦ୍ଧି ପାଇଁ ଲୋକସଭାରେ ବିଲ୍ ଆଗତ",
+          "summary": "ବଢୁଥିବା ମାମଲାଗୁଡ଼ିକର ପରିଚାଳନା ପାଇଁ ସୁପ୍ରିମକୋର୍ଟର ମଞ୍ଜୁରୀପ୍ରାପ୍ତ ବିଚାରପତିଙ୍କ ସଂଖ୍ୟା ବୃଦ୍ଧି କରିବା ଉଦ୍ଦେଶ୍ୟରେ ଲୋକସଭାରେ ଏକ ନୂତନ ବିଲ୍ ଆଗତ କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1784608199704-2",
       "category": "Banking",
-      "title": "RBI absorbs ₹1.10 lakh crore surplus liquidity",
-      "summary": "The Reserve Bank of India (RBI) absorbed ₹1.10 lakh crore of surplus liquidity from the banking system on July 9 to manage banking system liquidity.",
+      "title": "RBI absorbs net liquidity of ₹70,888 crore from banking system",
+      "summary": "The Reserve Bank of India (RBI) has absorbed a net liquidity of ₹70,888 crore from the banking system to manage surplus liquidity and align short-term interest rates.",
       "source": "News On AIR",
       "translations": {
         "or": {
-          "title": "ଆରବିଆଇ ବ୍ୟାଙ୍କିଙ୍ଗ ବ୍ୟବସ୍ଥାରୁ ₹୧.୧୦ ଲକ୍ଷ କୋଟିର ବଳକା ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି",
-          "summary": "ବ୍ୟାଙ୍କିଙ୍ଗ ବ୍ୟବସ୍ଥାରେ ତରଳତା ପରିଚାଳନା ପାଇଁ ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ଜୁଲାଇ ୯ ରେ ₹୧.୧୦ ଲକ୍ଷ କୋଟିର ବଳକା ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି।"
+          "title": "ବ୍ୟାଙ୍କିଙ୍ଗ୍ ବ୍ୟବସ୍ଥାରୁ ୭୦,୮୮୮ କୋଟି ଟଙ୍କାର ନେଟ୍ ତରଳତା ପ୍ରତ୍ୟାହାର କଲା ଆରବିଆଇ",
+          "summary": "ବଳକା ତରଳତା ପରିଚାଳନା ଏବଂ ସ୍ୱଳ୍ପ ମିଆଦି ସୁଧ ହାରକୁ ସନ୍ତୁଳିତ କରିବା ପାଇଁ ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (ଆରବିଆଇ) ବ୍ୟାଙ୍କିଙ୍ଗ୍ ବ୍ୟବସ୍ଥାରୁ ୭୦,୮୮୮ କୋଟି ଟଙ୍କାର ନେଟ୍ ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି।"
         }
       }
     },
     {
-      "id": "ca-1784103887748-1",
+      "id": "ca-1784608199704-3",
       "category": "Banking",
-      "title": "RBI overhauls board governance framework for banks",
-      "summary": "The Reserve Bank of India (RBI) has overhauled the board governance framework for banks, shifting the focus towards strategy and risk oversight.",
-      "source": "The Indian Express",
+      "title": "Over $20 billion mobilised through RBI's special swap facility",
+      "summary": "The Reserve Bank of India's special swap facility has successfully mobilised over $20 billion, helping to boost foreign exchange reserves and stabilise the rupee.",
+      "source": "The Hindu",
       "translations": {
         "or": {
-          "title": "ବ୍ୟାଙ୍କଗୁଡ଼ିକ ପାଇଁ ବୋର୍ଡ ଗଭର୍ଣ୍ଣାନ୍ସ ଢାଞ୍ଚାରେ ଆରବିଆଇର ବଡ଼ ପରିବର୍ତ୍ତନ",
-          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ବ୍ୟାଙ୍କଗୁଡ଼ିକର ବୋର୍ଡ ଗଭର୍ଣ୍ଣାନ୍ସ ଢାଞ୍ଚାରେ ସଂସ୍କାର ଆଣିଛି, ଯାହାଦ୍ୱାରା ରଣନୀତି ଏବଂ ବିପଦ ପରିଚାଳନା (risk oversight) ଉପରେ ଅଧିକ ଗୁରୁତ୍ୱ ଦିଆଯିବ।"
+          "title": "ଆରବିଆଇର ସ୍ପେଶାଲ ସ୍ୱାପ୍ ସୁବିଧା ଜରିଆରେ ୨୦ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ ସଂଗୃହିତ",
+          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କର ସ୍ପେଶାଲ ସ୍ୱାପ୍ ସୁବିଧା ସଫଳତାର ସହ ୨୦ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ ସଂଗ୍ରହ କରିଛି, ଯାହା ବୈଦେଶିକ ମୁଦ୍ରା ଭଣ୍ଡାର ବୃଦ୍ଧି ଏବଂ ଟଙ୍କାର ସ୍ଥିରତା ରକ୍ଷାରେ ସହାୟକ ହେବ।"
         }
       }
     },
     {
-      "id": "ca-1784103887748-2",
-      "category": "International",
-      "title": "US lowers Russian oil tariff threat to 100%",
-      "summary": "In a major relief to India and China, the United States has reduced its proposed tariff threat on Russian oil from 500% to 100%.",
-      "source": "NDTV",
-      "translations": {
-        "or": {
-          "title": "ରୁଷିଆରୁ ଆସୁଥିବା ତେଲ ଉପରେ ଶୁଳ୍କ ବିପଦକୁ ଆମେରିକା ୧୦୦% କୁ ହ୍ରାସ କରିଛି",
-          "summary": "ଭାରତ ଏବଂ ଚୀନ ପାଇଁ ଏକ ବଡ଼ ଆଶ୍ୱସ୍ତି ସ୍ୱରୂପ, ଆମେରିକା ରୁଷିଆରୁ ଆମଦାନୀ ହେଉଥିବା ତେଲ ଉପରେ ପ୍ରସ୍ତାବିତ ଶୁଳ୍କକୁ ୫୦୦% ରୁ ୧୦୦% କୁ ହ୍ରାସ କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1784103887748-3",
-      "category": "National",
-      "title": "India to track all seafarers after Hormuz incident",
-      "summary": "Following the death of an Indian sailor in a missile attack in the Strait of Hormuz, the Indian government announced it will account for every Indian seafarer regardless of the vessel's flag.",
-      "source": "Hindustan Times",
-      "translations": {
-        "or": {
-          "title": "ହରମୁଜ୍ ପ୍ରଣାଳୀ ଘଟଣା ପରେ ସମସ୍ତ ନାବିକଙ୍କ ହିସାବ ରଖିବ ଭାରତ",
-          "summary": "ହରମୁଜ୍ ପ୍ରଣାଳୀରେ କ୍ଷେପଣାସ୍ତ୍ର ଆକ୍ରମଣରେ ଜଣେ ଭାରତୀୟ ନାବିକଙ୍କ ମୃତ୍ୟୁ ପରେ, ଭାରତ ସରକାର ଘୋଷଣା କରିଛନ୍ତି ଯେ ଜାହାଜର ପତାକା ନିର୍ବିଶେଷରେ ପ୍ରତ୍ୟେକ ଭାରତୀୟ ନାବିକଙ୍କ ହିସାବ ରଖାଯିବ।"
-        }
-      }
-    },
-    {
-      "id": "ca-1784103887748-4",
+      "id": "ca-1784608199704-4",
       "category": "Odisha",
-      "title": "Odisha's KG-to-PG free education rules announced",
-      "summary": "The Odisha government has mandated a 75% attendance requirement for its KG-to-PG free education scheme, while exempting professional courses from this scheme.",
-      "source": "Hindustan Times",
+      "title": "Four winning candidates announced for Rajya Sabha elections in Odisha",
+      "summary": "The results for the Rajya Sabha elections in Odisha have been declared, with four candidates officially announced as winners.",
+      "source": "News On AIR",
       "translations": {
         "or": {
-          "title": "ଓଡ଼ିଶାର କେଜି-ରୁ-ପିଜି ମାଗଣା ଶିକ୍ଷା ନିୟମାବଳୀ ଘୋଷଣା",
-          "summary": "ଓଡ଼ିଶା ସରକାର ସେମାନଙ୍କ କେଜି-ରୁ-ପିଜି (KG-to-PG) ମାଗଣା ଶିକ୍ଷା ଯୋଜନା ପାଇଁ ୭୫% ଉପସ୍ଥାନ ବାଧ୍ୟତାମୂଳକ କରିଛନ୍ତି, ଏବଂ ବ୍ୟାବସାୟିକ ପାଠ୍ୟକ୍ରମ (professional courses) ଗୁଡ଼ିକୁ ଏହି ଯୋଜନାରୁ ବାଦ୍ ଦେଇଛନ୍ତି।"
+          "title": "ଓଡ଼ିଶାରେ ରାଜ୍ୟସଭା ନିର୍ବାଚନ ପାଇଁ ଚାରିଜଣ ବିଜୟୀ ପ୍ରାର୍ଥୀଙ୍କ ନାମ ଘୋଷଣା",
+          "summary": "ଓଡ଼ିଶାରେ ରାଜ୍ୟସଭା ନିର୍ବାଚନର ଫଳାଫଳ ପ୍ରକାଶ ପାଇଛି, ଯେଉଁଥିରେ ଚାରିଜଣ ପ୍ରାର୍ଥୀଙ୍କୁ ଆନୁଷ୍ଠାନିକ ଭାବେ ବିଜୟୀ ଘୋଷଣା କରାଯାଇଛି।"
         }
       }
     },
     {
-      "id": "ca-1784103887748-5",
-      "category": "Economy",
-      "title": "China's economic growth slows to weakest since 2022",
-      "summary": "China's economy has recorded its slowest growth rate since 2022, highlighting persistent domestic demand challenges and economic slowdown.",
-      "source": "WSJ",
-      "translations": {
-        "or": {
-          "title": "ଚୀନର ଅର୍ଥନୈତିକ ଅଭିବୃଦ୍ଧି ୨୦୨୨ ପରଠାରୁ ସବୁଠାରୁ ମନ୍ଥର ହୋଇଛି",
-          "summary": "ଚୀନର ଅର୍ଥନୀତି ୨୦୨୨ ମସିହା ପରଠାରୁ ସବୁଠାରୁ ମନ୍ଥର ଅଭିବୃଦ୍ଧି ହାର ରେକର୍ଡ କରିଛି, ଯାହା ଘରୋଇ ଚାହିଦା ଏବଂ ଆର୍ଥିକ ମନ୍ଥରତାକୁ ଦର୍ଶାଉଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1784103887748-6",
+      "id": "ca-1784608199704-5",
       "category": "Odisha",
-      "title": "SC directs Odisha to decide Graham Staines killer's remission",
-      "summary": "The Supreme Court has directed the Odisha government to decide on the remission plea of Dara Singh, convicted in the Graham Staines murder case, within 30 days (by August 15).",
-      "source": "Deccan Herald",
+      "title": "Study reveals over half of Odisha's PVTG adult women are anaemic",
+      "summary": "A study conducted by Utkal University has revealed that more than half of the adult women belonging to Particularly Vulnerable Tribal Groups (PVTGs) in Odisha are anaemic.",
+      "source": "The Hindu",
       "translations": {
         "or": {
-          "title": "ଗ୍ରାହମ ଷ୍ଟେନ୍ସ ହତ୍ୟାକାରୀର ମୁକ୍ତି ଆବେଦନ ଉପରେ ନିଷ୍ପତ୍ତି ନେବାକୁ ଓଡ଼ିଶାକୁ ସୁପ୍ରିମକୋର୍ଟଙ୍କ ନିର୍ଦ୍ଦେଶ",
-          "summary": "ଗ୍ରାହମ ଷ୍ଟେନ୍ସ ହତ୍ୟା ମାମଲାରେ ଦୋଷୀ ସାବ୍ୟସ୍ତ ଦାରା ସିଂଙ୍କ ମୁକ୍ତି (remission) ଆବେଦନ ଉପରେ ୩୦ ଦିନ ମଧ୍ୟରେ (ଅଗଷ୍ଟ ୧୫ ସୁଦ୍ଧା) ନିଷ୍ପତ୍ତି ନେବାକୁ ସୁପ୍ରିମକୋର୍ଟ ଓଡ଼ିଶା ସରକାରଙ୍କୁ ନିର୍ଦ୍ଦେଶ ଦେଇଛନ୍ତି।"
+          "title": "ଓଡ଼ିଶାର ଅଧାରୁ ଅଧିକ ପିଭିଟିଜି ବୟସ୍କ ମହିଳା ରକ୍ତହୀନତାର ଶିକାର: ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟର ଅଧ୍ୟୟନ",
+          "summary": "ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟ ଦ୍ୱାରା କରାଯାଇଥିବା ଏକ ଅଧ୍ୟୟନରୁ ଜଣାପଡିଛି ଯେ ଓଡ଼ିଶାର ବିଶେଷ ଭାବେ ଦୁର୍ବଳ ଜନଜାତି ଗୋଷ୍ଠୀ (PVTGs) ର ଅଧାରୁ ଅଧିକ ବୟସ୍କ ମହିଳା ରକ୍ତହୀନତା (ଆନିମିଆ) ର ଶିକାର ଅଟନ୍ତି।"
         }
       }
     },
     {
-      "id": "ca-1784103887748-7",
-      "category": "Banking",
-      "title": "RBI's proposed ownership overhaul to impact private banks",
-      "summary": "The Reserve Bank of India's proposed ownership overhaul is expected to deepen institutional shareholding in major private lenders like HDFC Bank, ICICI Bank, and Axis Bank.",
-      "source": "BFSI News",
+      "id": "ca-1784608199704-6",
+      "category": "Odisha",
+      "title": "Odisha government promotes complex fertilizers to replace DAP and Urea",
+      "summary": "To optimize soil health and agricultural productivity, the Odisha government is actively promoting the use of complex fertilizers as alternatives to DAP and Urea.",
+      "source": "Pragativadi",
       "translations": {
         "or": {
-          "title": "ବେସରକାରୀ ବ୍ୟାଙ୍କଗୁଡ଼ିକ ଉପରେ ପ୍ରଭାବ ପକାଇବ ଆରବିଆଇର ପ୍ରସ୍ତାବିତ ମାଲିକାନା ସଂସ୍କାର",
-          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କର ପ୍ରସ୍ତାବିତ ମାଲିକାନା ସଂସ୍କାର ଦ୍ୱାରା ଏଚଡିଏଫସି ବ୍ୟାଙ୍କ, ଆଇସିଆଇସିଆଇ ବ୍ୟାଙ୍କ ଏବଂ ଆକ୍ସିସ୍ ବ୍ୟାଙ୍କ ଭଳି ପ୍ରମୁଖ ବେସରକାରୀ ବ୍ୟାଙ୍କଗୁଡ଼ିକରେ ସଂସ୍ଥାଗତ ଅଂଶଧନ (institutional shareholding) ବୃଦ୍ଧି ପାଇବାର ସମ୍ଭାବନା ରହିଛି।"
+          "title": "ଡିଏପି ଏବଂ ୟୁରିଆ ବଦଳରେ ଜଟିଳ ସାରର ବ୍ୟବହାରକୁ ପ୍ରୋତ୍ସାହିତ କରୁଛନ୍ତି ଓଡ଼ିଶା ସରକାର",
+          "summary": "ମୃତ୍ତିକାର ସ୍ୱାସ୍ଥ୍ୟ ଏବଂ କୃଷି ଉତ୍ପାଦନକୁ ସନ୍ତୁଳିତ କରିବା ପାଇଁ ଓଡ଼ିଶା ସରକାର ଡିଏପି (DAP) ଏବଂ ୟୁରିଆ ବଦଳରେ ଜଟିଳ ସାର (complex fertilizers) ର ବ୍ୟବହାରକୁ ସକ୍ରିୟ ଭାବେ ପ୍ରୋତ୍ସାହିତ କରୁଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1784608199704-7",
+      "category": "Odisha",
+      "title": "Odisha to roll out Dakshyata Vikas scheme and OSDP-II this year",
+      "summary": "The Odisha government is set to launch the Dakshyata Vikas scheme along with the second phase of the Odisha Skill Development Project (OSDP-II) this year to boost youth employability.",
+      "source": "The New Indian Express",
+      "translations": {
+        "or": {
+          "title": "ଚଳିତ ବର୍ଷ ଓଡ଼ିଶାରେ ଲାଗୁ ହେବ ଦକ୍ଷତା ବିକାଶ ଯୋଜନା ଏବଂ ଓଏସଡିପି-୨",
+          "summary": "ଯୁବକମାନଙ୍କ ରୋଜଗାର କ୍ଷମତା ବୃଦ୍ଧି ପାଇଁ ଓଡ଼ିଶା ସରକାର ଚଳିତ ବର୍ଷ ଦକ୍ଷତା ବିକାଶ ଯୋଜନା ସହିତ ଓଡ଼ିଶା ଦକ୍ଷତା ବିକାଶ ପ୍ରକଳ୍ପର ଦ୍ୱିତୀୟ ପର୍ଯ୍ୟାୟ (OSDP-II) ଆରମ୍ଭ କରିବାକୁ ଯାଉଛନ୍ତି।"
         }
       }
     }
   ],
   "quiz": [
     {
-      "id": "ca-q-1784103887748-0",
-      "section": "Current Affairs",
-      "topic": "Banking",
-      "difficulty": "medium",
-      "source": "ai",
-      "status": "pending",
-      "question": "How much surplus liquidity did the Reserve Bank of India (RBI) absorb from the banking system on July 9?",
-      "options": [
-        "₹1.10 lakh crore",
-        "₹1.50 lakh crore",
-        "₹2.00 lakh crore",
-        "₹90,000 crore"
-      ],
-      "answer": 0,
-      "explanation": "The RBI absorbed ₹1.10 lakh crore of surplus liquidity from the banking system on July 9.",
-      "translations": {
-        "or": {
-          "question": "ଜୁଲାଇ ୯ ରେ ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ବ୍ୟାଙ୍କିଙ୍ଗ ବ୍ୟବସ୍ଥାରୁ କେତେ ବଳକା ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି?",
-          "options": [
-            "₹୧.୧୦ ଲକ୍ଷ କୋଟି",
-            "₹୧.୫୦ ଲକ୍ଷ କୋଟି",
-            "₹୨.୦୦ ଲକ୍ଷ କୋଟି",
-            "₹୯୦,୦୦୦ କୋଟି"
-          ],
-          "explanation": "ଆରବିଆଇ ଜୁଲାଇ ୯ ରେ ବ୍ୟାଙ୍କିଙ୍ଗ ବ୍ୟବସ୍ଥାରୁ ₹୧.୧୦ ଲକ୍ଷ କୋଟିର ବଳକା ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1784103887748-1",
+      "id": "ca-q-1784608199704-0",
       "section": "Current Affairs",
       "topic": "International",
       "difficulty": "medium",
       "source": "ai",
       "status": "pending",
-      "question": "The United States has lowered its proposed tariff threat on Russian oil to what percentage, providing relief to India and China?",
+      "question": "India has proposed modifications to the Indus Waters Treaty (IWT) and planned how many megawatts (MW) of new hydropower projects in Jammu & Kashmir?",
       "options": [
-        "200%",
-        "100%",
-        "50%",
-        "150%"
-      ],
-      "answer": 1,
-      "explanation": "The US lowered its proposed tariff threat on Russian oil from 500% to 100%.",
-      "translations": {
-        "or": {
-          "question": "ଭାରତ ଏବଂ ଚୀନକୁ ଆଶ୍ୱସ୍ତି ଦେଇ ଆମେରିକା ରୁଷିଆରୁ ଆସୁଥିବା ତେଲ ଉପରେ ପ୍ରସ୍ତାବିତ ଶୁଳ୍କ ବିପଦକୁ କେତେ ପ୍ରତିଶତକୁ ହ୍ରାସ କରିଛି?",
-          "options": [
-            "୨୦୦%",
-            "୧୦୦%",
-            "୫୦%",
-            "୧୫୦%"
-          ],
-          "explanation": "ଆମେରିକା ରୁଷିଆରୁ ଆସୁଥିବା ତେଲ ଉପରେ ପ୍ରସ୍ତାବିତ ଶୁଳ୍କ ବିପଦକୁ ୫୦୦% ରୁ ୧୦୦% କୁ ହ୍ରାସ କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1784103887748-2",
-      "section": "Current Affairs",
-      "topic": "Odisha",
-      "difficulty": "easy",
-      "source": "ai",
-      "status": "pending",
-      "question": "Under the Odisha government's KG-to-PG free education scheme, what is the minimum attendance percentage required for students?",
-      "options": [
-        "60%",
-        "70%",
-        "75%",
-        "80%"
+        "3,500 MW",
+        "4,500 MW",
+        "5,500 MW",
+        "6,500 MW"
       ],
       "answer": 2,
-      "explanation": "The Odisha government has mandated a 75% attendance requirement for its KG-to-PG free education scheme.",
+      "explanation": "India has stated that the Indus Waters Treaty can no longer function in its current form and plans to construct 5,500 MW of new hydro projects in Jammu & Kashmir.",
       "translations": {
         "or": {
-          "question": "ଓଡ଼ିଶା ସରକାରଙ୍କ କେଜି-ରୁ-ପିଜି (KG-to-PG) ମାଗଣା ଶିକ୍ଷା ଯୋଜନା ଅଧୀନରେ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ପାଇଁ ସର୍ବନିମ୍ନ କେତେ ପ୍ରତିଶତ ଉପସ୍ଥାନ ଆବଶ୍ୟକ?",
+          "question": "ଭାରତ ସିନ୍ଧୁ ଜଳ ଚୁକ୍ତି (IWT) ରେ ସଂଶୋଧନ ପ୍ରସ୍ତାବ ଦେଇଛି ଏବଂ ଜମ୍ମୁ ଓ କାଶ୍ମୀରରେ କେତେ ମେଗାୱାଟ (MW) ର ନୂତନ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ଯୋଜନା କରିଛି?",
           "options": [
-            "୬୦%",
-            "୭୦%",
-            "୭୫%",
-            "୮୦%"
+            "୩,୫୦୦ ମେଗାୱାଟ",
+            "୪, ୫୦୦ ମେଗାୱାଟ",
+            "୫, ୫୦୦ ମେଗାୱାଟ",
+            "୬,୫୦୦ ମେଗାୱାଟ"
           ],
-          "explanation": "ଓଡ଼ିଶା ସରକାର ସେମାନଙ୍କ କେଜି-ରୁ-ପିଜି ମାଗଣା ଶିକ୍ଷା ଯୋଜନା ପାଇଁ ୭୫% ଉପସ୍ଥାନ ବାଧ୍ୟତାମୂଳକ କରିଛନ୍ତି।"
+          "explanation": "ଭାରତ କହିଛି ଯେ ସିନ୍ଧୁ ଜଳ ଚୁକ୍ତି ବର୍ତ୍ତମାନର ରୂପରେ ଆଉ କାର୍ଯ୍ୟ କରିପାରିବ ନାହିଁ ଏବଂ ଜମ୍ମୁ ଓ କାଶ୍ମୀରରେ ୫,୫୦୦ ମେଗାୱାଟର ନୂତନ ଜଳବିଦ୍ୟୁତ ପ୍ରକଳ୍ପ ନିର୍ମାଣ କରିବାକୁ ଯୋଜନା କରୁଛି।"
         }
       }
     },
     {
-      "id": "ca-q-1784103887748-3",
-      "section": "Current Affairs",
-      "topic": "National",
-      "difficulty": "hard",
-      "source": "ai",
-      "status": "pending",
-      "question": "The Supreme Court has directed the Odisha government to decide on the remission plea of Graham Staines' killer, Dara Singh, by which date?",
-      "options": [
-        "August 15",
-        "August 30",
-        "September 5",
-        "October 2"
-      ],
-      "answer": 0,
-      "explanation": "The Supreme Court directed the Odisha government to decide on the remission plea of Dara Singh by August 15.",
-      "translations": {
-        "or": {
-          "question": "ଗ୍ରାହମ ଷ୍ଟେନ୍ସ ହତ୍ୟାକାରୀ ଦାରା ସିଂଙ୍କ ମୁକ୍ତି ଆବେଦନ ଉପରେ କେଉଁ ତାରିଖ ସୁଦ୍ଧା ନିଷ୍ପତ୍ତି ନେବାକୁ ସୁପ୍ରିମକୋର୍ଟ ଓଡ଼ିଶା ସରକାରଙ୍କୁ ନିର୍ଦ୍ଦେଶ ଦେଇଛନ୍ତି?",
-          "options": [
-            "ଅଗଷ୍ଟ ୧୫",
-            "ଅଗଷ୍ଟ ୩୦",
-            "ସେପ୍ଟେମ୍ବର ୫",
-            "ଅକ୍ଟୋବର ୨"
-          ],
-          "explanation": "ସୁପ୍ରିମକୋର୍ଟ ଓଡ଼ିଶା ସରକାରଙ୍କୁ ଅଗଷ୍ଟ ୧୫ ସୁଦ୍ଧା ଦାରା ସିଂଙ୍କ ମୁକ୍ତି ଆବେଦନ ଉପରେ ନିଷ୍ପତ୍ତି ନେବାକୁ ନିର୍ଦ୍ଦେଶ ଦେଇଛନ୍ତି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1784103887748-4",
+      "id": "ca-q-1784608199704-1",
       "section": "Current Affairs",
       "topic": "Banking",
       "difficulty": "medium",
       "source": "ai",
       "status": "pending",
-      "question": "The Reserve Bank of India (RBI) has recently overhauled its board governance framework for banks to shift focus towards which areas?",
+      "question": "How much net liquidity did the Reserve Bank of India (RBI) recently absorb from the banking system?",
       "options": [
-        "Customer service and branch expansion",
-        "Strategy and risk oversight",
-        "Digital banking and cybersecurity",
-        "Financial inclusion and micro-loans"
+        "₹50,888 crore",
+        "₹60,888 crore",
+        "₹70,888 crore",
+        "₹80,888 crore"
       ],
-      "answer": 1,
-      "explanation": "The RBI overhauled the board governance framework to shift the focus towards strategy and risk oversight.",
+      "answer": 2,
+      "explanation": "The RBI absorbed a net liquidity of ₹70,888 crore from the banking system to manage surplus liquidity and align short-term interest rates.",
       "translations": {
         "or": {
-          "question": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ନିକଟରେ ବ୍ୟାଙ୍କଗୁଡ଼ିକର ବୋର୍ଡ ଗଭର୍ଣ୍ଣାନ୍ସ ଢାଞ୍ଚାରେ ପରିବର୍ତ୍ତନ କରି କେଉଁ କ୍ଷେତ୍ର ଉପରେ ଅଧିକ ଗୁରୁତ୍ୱ ଦେଇଛି?",
+          "question": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (ଆରବିଆଇ) ନିକଟରେ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ବ୍ୟବସ୍ଥାରୁ କେତେ ନେଟ୍ ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି?",
           "options": [
-            "ଗ୍ରାହକ ସେବା ଏବଂ ଶାଖା ସମ୍ପ୍ରସାରଣ",
-            "ରଣନୀତି ଏବଂ ବିପଦ ପରିଚାଳନା (Strategy and risk oversight)",
-            "ଡିଜିଟାଲ୍ ବ୍ୟାଙ୍କିଙ୍ଗ ଏବଂ ସାଇବର ସୁରକ୍ଷା",
-            "ଆର୍ଥିକ ଅନ୍ତର୍ଭୁକ୍ତୀକରଣ ଏବଂ କ୍ଷୁଦ୍ର ଋଣ"
+            "୫୦,୮୮୮ କୋଟି ଟଙ୍କା",
+            "୬୦,୮୮୮ କୋଟି ଟଙ୍କା",
+            "୭୦,୮୮୮ କୋଟି ଟଙ୍କା",
+            "୮୦,୮୮୮ କୋଟି ଟଙ୍କା"
           ],
-          "explanation": "ଆରବିଆଇ ବ୍ୟାଙ୍କଗୁଡ଼ିକର ବୋର୍ଡ ଗଭର୍ଣ୍ଣାନ୍ସ ଢାଞ୍ଚାରେ ସଂସ୍କାର ଆଣିଛି, ଯାହାଦ୍ୱାରା ରଣନୀତି ଏବଂ ବିପଦ ପରିଚାଳନା ଉପରେ ଅଧିକ ଗୁରୁତ୍ୱ ଦିଆଯିବ।"
+          "explanation": "ବଳକା ତରଳତା ପରିଚାଳନା ପାଇଁ ଆରବିଆଇ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ବ୍ୟବସ୍ଥାରୁ ୭୦,୮୮୮ କୋଟି ଟଙ୍କାର ନେଟ୍ ତରଳତା ପ୍ରତ୍ୟାହାର କରିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1784608199704-2",
+      "section": "Current Affairs",
+      "topic": "Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to a study by Utkal University, more than half of the adult women of which tribal category in Odisha are anaemic?",
+      "options": [
+        "Particularly Vulnerable Tribal Groups (PVTGs)",
+        "Scheduled Tribes (STs)",
+        "Nomadic Tribes",
+        "De-notified Tribes"
+      ],
+      "answer": 0,
+      "explanation": "A study by Utkal University revealed that more than half of Odisha's Particularly Vulnerable Tribal Groups (PVTG) adult women are anaemic.",
+      "translations": {
+        "or": {
+          "question": "ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟର ଏକ ଅଧ୍ୟୟନ ଅନୁଯାୟୀ, ଓଡ଼ିଶାର କେଉଁ ଆଦିବାସୀ ଶ୍ରେଣୀର ଅଧାରୁ ଅଧିକ ବୟସ୍କ ମହିଳା ରକ୍ତହୀନତାର ଶିକାର ଅଟନ୍ତି?",
+          "options": [
+            "비ଶେଷ ଭାବେ ଦୁର୍ବଳ ଜନଜାତି ଗୋଷ୍ଠୀ (PVTGs)",
+            "ତଫସିଲଭୁକ୍ତ ଜନଜାତି (STs)",
+            "ଯାଯାବର ଜନଜାତି",
+            "ବିଜ୍ଞପ୍ତିମୁକ୍ତ ଜନଜାତି"
+          ],
+          "explanation": "ଉତ୍କଳ ବିଶ୍ୱବିଦ୍ୟାଳୟର ଅଧ୍ୟୟନରୁ ଜଣାପଡିଛି ଯେ ଓଡ଼ିଶାର ବିଶେଷ ଭାବେ ଦୁର୍ବଳ ଜନଜାତି ଗୋଷ୍ଠୀ (PVTG) ର ଅଧାରୁ ଅଧିକ ବୟସ୍କ ମହିଳା ରକ୍ତହୀନତାର ଶିକାର ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1784608199704-3",
+      "section": "Current Affairs",
+      "topic": "Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The Odisha government is promoting complex fertilizers to replace which of the following widely used fertilizers?",
+      "options": [
+        "Potash and NPK",
+        "DAP and Urea",
+        "Superphosphate and Ammonium Sulphate",
+        "Gypsum and Compost"
+      ],
+      "answer": 1,
+      "explanation": "The Odisha government is promoting complex fertilizers to replace DAP (Di-ammonium Phosphate) and Urea.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶା ସରକାର ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ବହୁଳ ବ୍ୟବହୃତ ସାର ବଦଳରେ ଜଟିଳ ସାରର ବ୍ୟବହାରକୁ ପ୍ରୋତ୍ସାହିତ କରୁଛନ୍ତି?",
+          "options": [
+            "ପଟାସ ଏବଂ ଏନପିକେ",
+            "ଡିଏପି ଏବଂ ୟୁରିଆ",
+            "ସୁପରଫସଫେଟ୍ ଏବଂ ଆମୋନିୟମ୍ ସଲଫେଟ୍",
+            "ଜିପସମ୍ ଏବଂ କମ୍ପୋଷ୍ଟ"
+          ],
+          "explanation": "ଓଡ଼ିଶା ସରକାର ଡିଏପି (DAP) ଏବଂ ୟୁରିଆ ବଦଳରେ ଜଟିଳ ସାରର ବ୍ୟବହାରକୁ ପ୍ରୋତ୍ସାହିତ କରୁଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1784608199704-4",
+      "section": "Current Affairs",
+      "topic": "Banking",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "How much funds have been mobilised through the Reserve Bank of India's (RBI) special swap facility?",
+      "options": [
+        "Over $10 billion",
+        "Over $15 billion",
+        "Over $20 billion",
+        "Over $25 billion"
+      ],
+      "answer": 2,
+      "explanation": "Over $20 billion has been mobilised through the RBI's special swap facility to support the economy and forex reserves.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (ଆରବିଆଇ) ର ସ୍ପେଶାଲ ସ୍ୱାପ୍ ସୁବିଧା ଜରିଆରେ କେତେ ପରିମାଣର ପାଣ୍ଠି ସଂଗୃହିତ ହୋଇଛି?",
+          "options": [
+            "୧୦ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ",
+            "୧୫ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ",
+            "୨୦ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ",
+            "୨୫ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ"
+          ],
+          "explanation": "ଅର୍ଥବ୍ୟବସ୍ଥା ଏବଂ ବୈଦେଶିକ ମୁଦ୍ରା ଭଣ୍ଡାରକୁ ସହାୟତା କରିବା ପାଇଁ ଆରବିଆଇର ସ୍ପେଶାଲ ସ୍ୱାପ୍ ସୁବିଧା ଜରିଆରେ ୨୦ ବିଲିୟନ ଡଲାରରୁ ଅଧିକ ପାଣ୍ଠି ସଂଗୃହିତ ହୋଇଛି।"
         }
       }
     }
