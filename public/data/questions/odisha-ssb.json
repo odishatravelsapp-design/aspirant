@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -6029,6 +6029,234 @@
             "୧୮୪୩"
           ],
           "explanation": "ଓଡ଼ିଆ ସାହିତ୍ୟ ଏବଂ ସାମ୍ବାଦିକତାର ବିକାଶରେ ଅଗ୍ରଣୀ ଭୂମିକା ଗ୍ରହଣ କରିଥିବା କଟକ ମିଶନ ପ୍ରେସ, ୧୮୩୭ ମସିହାରେ ବାପ୍ଟିଷ୍ଟ ମିଶନାରୀ ସୋସਾਈଟି ଦ୍ୱାରା ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692736293-0",
+      "section": "Subject Knowledge",
+      "topic": "New Criticism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Cleanth Brooks's landmark work of New Criticism, 'The Well Wrought Urn' (1947), which poem is extensively analyzed in the opening chapter titled 'The Language of Paradox'?",
+      "options": [
+        "John Donne's 'The Canonization'",
+        "William Wordsworth's 'Intimations of Immortality'",
+        "John Keats's 'Ode on a Grecian Urn'",
+        "Thomas Gray's 'Elegy Written in a Country Churchyard'"
+      ],
+      "answer": 0,
+      "explanation": "The first chapter of Cleanth Brooks's 'The Well Wrought Urn' is titled 'The Language of Paradox', where he performs a close reading of John Donne's poem 'The Canonization' to demonstrate that paradox is the central language of poetry.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କ୍ଲିନ୍ଥ ବ୍ରୁକ୍ସଙ୍କ ନ୍ୟୁ କ୍ରିଟିସିଜମ୍‌ର ପ୍ରସିଦ୍ଧ ଗ୍ରନ୍ଥ 'ଦି ୱେଲ୍ ରଟ୍ ଅର୍ନ୍' (୧୯୪୭) ର ପ୍ରଥମ ଅଧ୍ୟାୟ \"ଦି ଲାଙ୍ଗୁଏଜ୍ ଅଫ୍ ପାରାଡକ୍ସ\" ରେ କେଉଁ କବିତାଟିର ବିସ୍ତୃତ ବିଶ୍ଳେଷଣ କରାଯାଇଛି?",
+          "options": [
+            "ଜନ୍ ଡନ୍‌ଙ୍କ \"ଦି କ୍ୟାନୋନାଇଜେସନ୍\"",
+            "ୱିଲିୟମ୍ ୱର୍ଡସୱର୍ଥ‌ଙ୍କ \"ଇଣ୍ଟିମେସନ୍ସ ଅଫ୍ ଇମୋର୍ଟାଲିଟି\"",
+            "ଜନ୍ କିଟ୍ସ‌ଙ୍କ \"ଓଡ୍ ଅନ୍ ଏ ଗ୍ରେସିଆନ୍ ଅର୍ନ୍\"",
+            "ଥୋମାସ୍ ଗ୍ରେ‌ଙ୍କ \"ଏଲିଜି ରିଟନ୍ ଇନ୍ ଏ କଣ୍ଟ୍ରି ଚର୍ଚ୍ଚୟାର୍ଡ\""
+          ],
+          "explanation": "କ୍ଲିନ୍ଥ ବ୍ରୁକ୍ସଙ୍କ 'ଦି ୱେଲ୍ ରଟ୍ ଅର୍ନ୍' ର ପ୍ରଥମ ଅଧ୍ୟାୟ \"ଦି ଲାଙ୍ଗୁଏଜ୍ ଅଫ୍ ପାରାଡକ୍ସ\" ଜନ୍ ଡନ୍‌ଙ୍କ କବିତା \"ଦି କ୍ୟାନୋନାଇଜେସନ୍\" ର ବିଶ୍ଳେଷଣରୁ ଆରମ୍ଭ ହୋଇଛି, ଯେଉଁଥିରେ ସେ ଦର୍ଶାଇଛନ୍ତି ଯେ ବିରୋଧାଭାସ (paradox) ହେଉଛି କାବ୍ୟିକ ଭାଷାର ଏକ ମୁଖ୍ୟ ଅଙ୍ଗ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692736293-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian Writing in English",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Sri Aurobindo's monumental epic poem 'Savitri', based on the Mahabharata narrative of Savitri and Satyavan, carries which subtitle?",
+      "options": [
+        "A Tale of Transcendence",
+        "A Legend and a Symbol",
+        "An Epic of Human Destiny",
+        "A Myth of Cosmic Evolution"
+      ],
+      "answer": 1,
+      "explanation": "Sri Aurobindo's epic poem is explicitly subtitled 'A Legend and a Symbol' (Savitri: A Legend and a Symbol), representing both a narrative story from the Mahabharata and an allegorical representation of spiritual evolution.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମହାଭାରତର ସାବିତ୍ରୀ ଓ ସତ୍ୟବାନ୍ କାହାଣୀ ଉପରେ ଆଧାରିତ ଶ୍ରୀ ଅରବିନ୍ଦଙ୍କ ମହାକାବ୍ୟ 'ସାବିତ୍ରୀ' ର ଉପଶୀର୍ଷକ (subtitle) କ’ଣ?",
+          "options": [
+            "ଏ ଟେଲ୍ ଅଫ୍ ଟ୍ରାନ୍ସେଣ୍ଡେନ୍ସ (A Tale of Transcendence)",
+            "ଏ ଲେଜେଣ୍ଡ୍ ଏଣ୍ଡ୍ ଏ ସିମ୍ବଲ୍ (A Legend and a Symbol)",
+            "ଏନ୍ ଏପିକ୍ ଅଫ୍ ହ୍ୟୁମାନ୍ ଡେଷ୍ଟିନି (An Epic of Human Destiny)",
+            "ଏ ମାଇଥ୍ ଅଫ୍ କସମିକ୍ ଏଭୋଲ୍ୟୁସନ୍ (A Myth of Cosmic Evolution)"
+          ],
+          "explanation": "ଶ୍ରୀ ଅରବିନ୍ଦଙ୍କ ମହାକାବ୍ୟ 'ସାବିତ୍ରୀ' ର ସମ୍ପୂର୍ଣ୍ଣ ଶୀର୍ଷକ ହେଉଛି 'Savitri: A Legend and a Symbol'। ଏହା ମହାଭାରତର ଏକ ପୌରାଣିକ ଆଖ୍ୟାୟିକା ସହ ଆଧ୍ୟାତ୍ମିକ ଚେତନାର ପ୍ରତୀକାତ୍ମକ ରୂପକୁ ପ୍ରତିଫଳିତ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692746798-0",
+      "section": "Teaching Aptitude",
+      "topic": "Edgar Dale's Cone of Experience",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Edgar Dale's Cone of Experience, which of the following instructional experiences provides the highest level of directness and concrete learning to students?",
+      "options": [
+        "Direct Purposeful Experiences",
+        "Contrived Experiences",
+        "Demonstration",
+        "Verbal Symbols"
+      ],
+      "answer": 0,
+      "explanation": "At the base of Edgar Dale's Cone of Experience are 'Direct Purposeful Experiences', which involve first-hand, concrete learning experiences with real life objects/situations, making them the most direct form of learning.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର ଡେଲ (Edgar Dale)ଙ୍କ 'Cone of Experience' (ଅଭିଜ୍ଞତାର କୋନ୍) ଅନୁସାରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶିକ୍ଷଣୀୟ ଅଭିଜ୍ଞତା ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ସବୁଠାରୁ ଅଧିକ ପ୍ରତ୍ୟକ୍ଷ ଏବଂ ମୂର୍ତ୍ତ ଶିକ୍ଷା ପ୍ରଦାନ କରିଥାଏ?",
+          "options": [
+            "ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା (Direct Purposeful Experiences)",
+            "କୃତ୍ରିମ / ପରିକଳ୍ପିତ ଅଭିଜ୍ଞତା (Contrived Experiences)",
+            "ପ୍ରଦର୍ଶନ (Demonstration)",
+            "ଶାବ୍ଦିକ ପ୍ରତୀକ (Verbal Symbols)"
+          ],
+          "explanation": "ଏଡଗାର ଡେଲଙ୍କ Cone of Experience ର ସବୁଠାରୁ ତଳ ଭାଗରେ 'Direct Purposeful Experiences' (ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅଭିଜ୍ଞତା) ରହିଛି, ଯାହା ଶିକ୍ଷାର୍ଥୀଙ୍କୁ ପ୍ରତ୍ୟକ୍ଷ ଏବଂ ସବୁଠାରୁ ଅଧିକ ମୂର୍ତ୍ତ (concrete) ଶିକ୍ଷଣ ଅଭିଜ୍ଞତା ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692746798-1",
+      "section": "Teaching Aptitude",
+      "topic": "Glaser's Basic Teaching Model",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Glaser's Basic Teaching Model (1962), the instructional process is divided into four main components. Which of the following represents the correct sequential order of these components?",
+      "options": [
+        "Entering Behavior -> Instructional Objectives -> Instructional Procedures -> Performance Assessment",
+        "Instructional Objectives -> Entering Behavior -> Instructional Procedures -> Performance Assessment",
+        "Instructional Objectives -> Instructional Procedures -> Entering Behavior -> Performance Assessment",
+        "Entering Behavior -> Instructional Objectives -> Performance Assessment -> Instructional Procedures"
+      ],
+      "answer": 1,
+      "explanation": "Robert Glaser's Basic Teaching Model outlines four sequential stages: (1) Instructional Objectives, (2) Entering Behavior, (3) Instructional Procedures, and (4) Performance Assessment.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ଲେସର (Robert Glaser)ଙ୍କ ମୌଳିକ ଶିକ୍ଷଣ ମଡେଲ (Basic Teaching Model, 1962) ରେ, ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟାକୁ ଚାରୋଟି ମୁଖ୍ୟ ଅଙ୍ଗରେ ବିଭକ୍ତ କରାଯାଇଛି। ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଏହି ସୋପାନଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ପ୍ରବେଶ ବ୍ୟବହାର -> ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ -> ଶିକ୍ଷାଦାନ ପ୍ରଣାଳୀ -> ପ୍ରଦର୍ଶନ ମୂଲ୍ୟାୟନ",
+            "ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ -> ପ୍ରବେଶ ବ୍ୟବହାର -> ଶିକ୍ଷାଦାନ ପ୍ରଣାଳୀ -> ପ୍ରଦର୍ଶନ ମୂଲ୍ୟାୟନ",
+            "ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ -> ଶିକ୍ଷାଦାନ ପ୍ରଣାଳୀ -> ପ୍ରବେଶ ବ୍ୟବହାର -> ପ୍ରଦର୍ଶନ ମୂଲ୍ୟାୟନ",
+            "ପ୍ରବେଶ ବ୍ୟବହାର -> ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ -> ପ୍ରଦର୍ଶନ ମୂଲ୍ୟାୟନ -> ଶିକ୍ଷାଦାନ ପ୍ରଣାଳୀ"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ଲେସରଙ୍କ ମୌଳିକ ଶିକ୍ଷଣ ମଡେଲରେ ଚାରୋଟି କ୍ରମାନୁସାରୀ ସୋପାନ ରହିଛି: ୧. ଶିକ୍ଷଣୀୟ ଉଦ୍ଦେଶ୍ୟ (Instructional Objectives), ୨. ପ୍ରବେଶ ବ୍ୟବହାର (Entering Behavior), ୩. ଶିକ୍ଷାଦାନ ପ୍ରଣାଳୀ (Instructional Procedures), ଏବଂ ୪. ପ୍ରଦର୍ଶନ ମୂଲ୍ୟାୟନ (Performance Assessment)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692761457-0",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which wetland in Odisha was designated as the first Ramsar Site in India, along with Keoladeo National Park, in October 1981?",
+      "options": [
+        "Bhitarkanika Mangroves",
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Hirakud Reservoir"
+      ],
+      "answer": 1,
+      "explanation": "Chilika Lake was designated as the first Ramsar site (Wetland of International Importance) in India in October 1981, alongside Keoladeo National Park in Rajasthan.",
+      "translations": {
+        "or": {
+          "question": "୧୯୮୧ ମସିହା ଅକ୍ଟୋବରରେ କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ଓଡ଼ିଶାର କେଉଁ ଆର୍ଦ୍ରଭୂମିକୁ ଭାରତର ପ୍ରଥମ ରାମସର ସାଇଟ୍ (Ramsar Site) ଭାବରେ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "ଭିତରକନିକା ମ୍ୟାଙ୍ଗ୍ରୋଭ୍",
+            "ଚିଲିକା ହ୍ରଦ",
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ହୀରାକୁଦ ଜଳାଶୟ"
+          ],
+          "explanation": "୧୯୮୧ ମସିହାରେ ଚିଲିକା ହ୍ରଦ ଏବଂ ରାଜସ୍ଥାନର କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନକୁ ଭାରତର ପ୍ରଥମ ରାମସର ସାଇଟ୍ (ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଆର୍ଦ୍ରଭୂମି) ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692761457-1",
+      "section": "General Studies",
+      "topic": "Modern History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "On 5th January 1939, Major R. L. Bazalgette, the Political Agent of Orissa Feudatory States, was assassinated during the Prajamandal Movement in which princely state?",
+      "options": [
+        "Dhenkanal",
+        "Talcher",
+        "Ranpur",
+        "Nayagarh"
+      ],
+      "answer": 2,
+      "explanation": "Major R. L. Bazalgette, the British Political Agent of Orissa Feudatory States, was killed by an agitated crowd in the princely state of Ranpur on 5th January 1939 during the Prajamandal Movement.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୯ ମସିହା ଜାନୁଆରୀ ୫ ତାରିଖରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ରାଜ୍ୟର ପଲିଟିକାଲ ଏଜେଣ୍ଟ ମେଜର ଆର. ଏଲ. ବାଜେଲଗେଟ୍ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ କେଉଁ ଗଡ଼ଜାତ ରାଜ୍ୟରେ ନିହତ ହୋଇଥିଲେ?",
+          "options": [
+            "ଢେଙ୍କାନାଳ",
+            "ତାଳଚେର",
+            "ରଣପୁର",
+            "ନୟାଗଡ଼"
+          ],
+          "explanation": "୧୯୩୯ ଜାନୁଆରୀ ୫ ରେ ରଣପୁର ଗଡ଼ଜାତ ରାଜ୍ୟରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା ବ୍ରିଟିଶ ପଲିଟିକାଲ ଏଜେଣ୍ଟ ମେଜର ଆର. ଏଲ. ବାଜେଲଗେଟ୍ ନିହତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692775120-0",
+      "section": "Odisha GK",
+      "topic": "Geography & Wildlife of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which wildlife sanctuary in Odisha is globally renowned as the world's largest mass nesting site (Arribada) for the endangered Olive Ridley sea turtles?",
+      "options": [
+        "Bhitarkanika Wildlife Sanctuary",
+        "Gahirmatha Marine Sanctuary",
+        "Chilika Wildlife Sanctuary",
+        "Similipal Wildlife Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Gahirmatha Marine Sanctuary, located in the Kendrapara district of Odisha, is world-famous as the largest mass nesting beach (Arribada) for Olive Ridley sea turtles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ ବିପନ୍ନ ଅଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କାଛଡ଼ାମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ଗଣ-ପ୍ରଜନନ ସ୍ଥଳ (ଅରିବାଡ଼ା) ଭାବରେ ବିଶ୍ୱପ୍ରସିଦ୍ଧ?",
+          "options": [
+            "ଭିତରକନିକା ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ",
+            "ଚିଲିକା ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ସିମିଳିପାଳ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଅଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କାଛଡ଼ାମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ଗଣ-ପ୍ରଜନନ ସ୍ଥଳ (ଅରିବାଡ଼ା) ଭାବରେ ପ୍ରସିଦ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784692775120-1",
+      "section": "Odisha GK",
+      "topic": "Medieval History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Sanskrit drama 'Parasurama Vijaya', which features some of the earliest recorded Odia verses, was composed by which Gajapati ruler of Odisha?",
+      "options": [
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kapilendra Deva",
+        "Narasimha Deva I"
+      ],
+      "answer": 2,
+      "explanation": "Gajapati Kapilendra Deva, the founder of the Suryavamsi Gajapati dynasty of Odisha, authored the Sanskrit play 'Parasurama Vijaya', which contains early usage of the Odia language.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରାରମ୍ଭିକ ଓଡ଼ିଆ ପଦ୍ୟର ପ୍ରୟୋଗ ଥିବା ପ୍ରସିଦ୍ଧ ସଂସ୍କୃତ ନାଟକ 'ପରଶୁରାମ ବିଜୟ' ଓଡ଼ିଶାର କେଉଁ ଗଜପତି ଶାସକଙ୍କ ଦ୍ୱାରା ରଚିତ ହୋଇଥିଲା?",
+          "options": [
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପ୍ରଥମ ନରସିଂହ ଦେବ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ସାମ୍ରାଜ୍ୟର ପ୍ରତିଷ୍ଠାତା ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବ 'ପରଶୁରାମ ବିଜୟ' ନାମକ ସଂସ୍କୃତ ନାଟକ ରଚନା କରିଥିଲେ, ଯେଉଁଥିରେ ଓଡ଼ିଆ ଭାଷାର ପ୍ରାରମ୍ଭିକ ପ୍ରୟୋଗ ଦେଖିବାକୁ ମିଳେ।"
         }
       }
     }

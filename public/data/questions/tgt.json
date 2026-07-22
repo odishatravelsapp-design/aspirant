@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -1929,6 +1929,62 @@
       ],
       "answer": 3,
       "explanation": "The affective domain taxonomy consists of five levels: Receiving, Responding, Valuing, Organization, and Characterization by a value or value complex. Characterization is the highest level, representing a fully integrated and consistent lifestyle and philosophy based on those values."
+    },
+    {
+      "id": "tgt-ai-1784694026319-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which Article of the Constitution of India grants the President the power to promulgate Ordinances during the recess of Parliament?",
+      "options": [
+        "Article 123",
+        "Article 213",
+        "Article 143",
+        "Article 356"
+      ],
+      "answer": 0,
+      "explanation": "Article 123 of the Indian Constitution empowers the President to promulgate ordinances when either House of Parliament is not in session.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଅନୁଚ୍ଛେଦ ରାଷ୍ଟ୍ରପତିଙ୍କୁ ସଂସଦର ମୁଲତବୀ କାଳରେ ଅଧ୍ୟାଦେଶ ଜାରି କରିବାର କ୍ଷମତା ପ୍ରଦାନ କରେ?",
+          "options": [
+            "ଅନୁଚ୍ଛେଦ ୧୨୩",
+            "ଅନୁଚ୍ଛେଦ ୨୧୩",
+            "ଅନୁଚ୍ଛେଦ ୧୪୩",
+            "ଅନୁଚ୍ଛେଦ ୩୫୬"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଅନୁଚ୍ଛେଦ ୧୨୩ ରାଷ୍ଟ୍ରପତିଙ୍କୁ ସଂସଦର କୌଣସି ଗୃହ ଅଧିବେଶନ ଚାଲୁ ନଥିବା ସମୟରେ ଅଧ୍ୟାଦେଶ ଜାରି କରିବାର କ୍ଷମତା ପ୍ରଦାନ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1784694026319-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under whose governor-generalship was the Treaty of Amritsar signed between the British East India Company and Maharaja Ranjit Singh in 1809?",
+      "options": [
+        "Lord Minto I",
+        "Lord Wellesley",
+        "Lord Hastings",
+        "Lord Amherst"
+      ],
+      "answer": 0,
+      "explanation": "The Treaty of Amritsar was signed in 1809 between Charles T. Metcalfe (representing the British East India Company) and Maharaja Ranjit Singh, during the governor-generalship of Lord Minto I (1807–1813).",
+      "translations": {
+        "or": {
+          "question": "୧୮୦୯ ମସିହାରେ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ଏବଂ ମହାରାଜା ରଣଜିତ୍ ସିଂହଙ୍କ ମଧ୍ୟରେ ସ୍ୱାକ୍ଷରିତ 'ଅମୃତସର ସନ୍ଧି' ସମୟରେ ଗଭର୍ଣ୍ଣର ଜେନେରାଲ କିଏ ଥିଲେ?",
+          "options": [
+            "ଲର୍ଡ ମିଣ୍ଟୋ ପ୍ରଥମ",
+            "ଲର୍ଡ ୱେଲେସଲି",
+            "ଲର୍ଡ ହେଷ୍ଟିଂସ",
+            "ଲର୍ଡ ଆମହର୍ଷ୍ଟ"
+          ],
+          "explanation": "୧୮୦୯ ମସିହାରେ ସ୍ୱାକ୍ଷରିତ ଅମୃତସର ସନ୍ଧି ସମୟରେ ଲର୍ଡ ମିଣ୍ଟୋ ପ୍ରଥମ (୧୮୦୭-୧୮୧୩) ଗଭର୍ଣ୍ଣର ଜେନେରାଲ ଥିଲେ। ଏହି ସନ୍ଧି କମ୍ପାନୀ ପକ୍ଷରୁ ଚାର୍ଲସ ମେଟକାଫ୍ ଏବଂ ମହାରାଜା ରଣଜିତ୍ ସିଂହଙ୍କ ମଧ୍ୟରେ ହୋଇଥିଲା।"
+        }
+      }
     }
   ]
 }

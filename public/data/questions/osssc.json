@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -4762,6 +4762,234 @@
             "ଅର୍କକ୍ଷେତ୍ର ରାଜା"
           ],
           "explanation": "୧୩ଶ ଶତାବ୍ଦୀରେ କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର ନିର୍ମାଣ କରିଥିବା ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ପ୍ରସିଦ୍ଧ ଶାସକ ପ୍ରଥମ ନରସିଂହଦେବ, ସ୍ଥାନୀୟ ଇତିହାସ ଓ ପାରମ୍ପରିକ ଓଡ଼ିଆ ସାହିତ୍ୟରେ 'ଲାଙ୍ଗୁଳା ନରସିଂହ ଦେବ' ଭାବେ ବେଶ୍ ଜଣାଶୁଣା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692675927-0",
+      "section": "Arithmetic",
+      "topic": "Average",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average of 5 consecutive odd numbers is 27. What is the product of the smallest and largest of these numbers?",
+      "options": [
+        "675",
+        "713",
+        "725",
+        "693"
+      ],
+      "answer": 1,
+      "explanation": "Let the 5 consecutive odd numbers be (x - 4), (x - 2), x, (x + 2), and (x + 4). Their average is x = 27. Thus, the smallest number is 27 - 4 = 23, and the largest number is 27 + 4 = 31. The product of the smallest and largest numbers is 23 × 31 = 713.",
+      "translations": {
+        "or": {
+          "question": "5 ଟି କ୍ରମାଗତ ଅଯୁଗ୍ମ ସଂଖ୍ୟାର ହାରାହାରି 27 ଅଟେ। ଏହି ସଂଖ୍ୟାଗୁଡ଼ିକ ମଧ୍ୟରୁ କ୍ଷୁଦ୍ରତମ ଏବଂ ବୃହତ୍ତମ ସଂଖ୍ୟାର ଗୁଣଫଳ କେତେ?",
+          "options": [
+            "675",
+            "713",
+            "725",
+            "693"
+          ],
+          "explanation": "ମନେକର 5 ଟି କ୍ରମାଗତ ଅଯୁଗ୍ମ ସଂଖ୍ୟା ହେଉଛି (x - 4), (x - 2), x, (x + 2) ଏବଂ (x + 4)। ସେମାନଙ୍କର ହାରାହାରି x = 27। ତେଣୁ, କ୍ଷୁଦ୍ରତମ ସଂଖ୍ୟା = 27 - 4 = 23 ଏବଂ ବୃହତ୍ତମ ସଂଖ୍ୟା = 27 + 4 = 31। ଗୁଣଫଳ = 23 × 31 = 713।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692675927-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A dealer buys an item at a discount of 20% on the original marked price. He then marks it up by 40% above his cost price and offers a discount of 10% on his new marked price. If he uses a faulty balance that reads 1000 grams for every 900 grams while selling, find his overall profit percentage.",
+      "options": [
+        "35%",
+        "38.5%",
+        "40%",
+        "42.5%"
+      ],
+      "answer": 2,
+      "explanation": "Let the original marked price for 1000g be Rs. 100. Dealer's Cost Price (CP) for 1000g = Rs. 80. Dealer's new marked price = 140% of 80 = Rs. 112. Selling Price (SP) for claimed 1000g after 10% discount = 90% of 112 = Rs. 100.8. Due to faulty balance, the dealer actually gives 900g for this price. CP of 900g to dealer = 80 × 0.9 = Rs. 72. Profit = 100.8 - 72 = Rs. 28.8. Overall profit percentage = (28.8 / 72) × 100 = 40%.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟବସାୟୀ ଲିଖିତ ମୂଲ୍ୟ ଉପରେ 20% ରିହାତିରେ ଗୋଟିଏ ସାମଗ୍ରୀ କ୍ରୟ କରନ୍ତି। ତା'ପରେ ସେ ନିଜ କ୍ରୟ ମୂଲ୍ୟ ଉପରେ 40% ମୂଲ୍ୟ ବୃଦ୍ଧି କରି ଚିହ୍ନିତ କରନ୍ତି ଏବଂ ନୂତନ ଲିଖିତ ମୂଲ୍ୟ ଉପରେ 10% ରିହାତି ଦିଅନ୍ତି। ବିକ୍ରି କରିବା ସମୟରେ, ସେ ଏକ ତ୍ରୁଟିପୂର୍ଣ୍ଣ ଓଜନ ଯନ୍ତ୍ର ବ୍ୟବହାର କରନ୍ତି ଯାହା ପ୍ରତ୍ୟେକ 900 ଗ୍ରାମ୍ ବଦଳରେ 1000 ଗ୍ରାମ୍ ଦେଖାଏ। ତାଙ୍କର ସମୁଦାୟ ଲାଭ ପ୍ରତିଶତ କେତେ?",
+          "options": [
+            "35%",
+            "38.5%",
+            "40%",
+            "42.5%"
+          ],
+          "explanation": "ମନେକର ପ୍ରାରମ୍ଭିକ ଲିଖିତ ମୂଲ୍ୟ 1000 ଗ୍ରାମ୍ ପାଇଁ Rs. 100। ବ୍ୟବସାୟୀଙ୍କ କ୍ରୟ ମୂଲ୍ୟ (CP) 1000 ଗ୍ରାମ୍ ପାଇଁ = Rs. 80। ନୂତନ ଲିଖିତ ମୂଲ୍ୟ = 80 ର 140% = Rs. 112। 10% ରିହାତି ପରେ ବିକ୍ରୟ ମୂଲ୍ୟ (SP) 1000 ଗ୍ରାମ୍ ଦାବି ପାଇଁ = 112 ର 90% = Rs. 100.8। ତ୍ରୁଟିପୂର୍ଣ୍ଣ ଓଜନ ଯୋଗୁଁ, ସେ ପ୍ରକୃତରେ 900 ଗ୍ରାମ୍ ଦିଅନ୍ତି। 900 ଗ୍ରାମ୍ ର ପ୍ରକୃତ CP = 80 × 0.9 = Rs. 72। ପ୍ରକୃତ SP = Rs. 100.8। ଲାଭ = 100.8 - 72 = Rs. 28.8। ଲାଭ ପ୍ରତିଶତ = (28.8 / 72) × 100 = 40%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692695116-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the missing number in the given series: 3, 7, 16, 35, 74, ?",
+      "options": [
+        "149",
+        "151",
+        "153",
+        "155"
+      ],
+      "answer": 2,
+      "explanation": "The pattern followed in the series is:\n3 × 2 + 1 = 7\n7 × 2 + 2 = 16\n16 × 2 + 3 = 35\n35 × 2 + 4 = 74\n74 × 2 + 5 = 153\nHence, the missing number is 153.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ସଂଖ୍ୟା ଶ୍ରେଣୀରେ ଲୁପ୍ତ ସଂଖ୍ୟାଟି ନିର୍ଣ୍ଣୟ କରନ୍ତୁ: 3, 7, 16, 35, 74, ?",
+          "options": [
+            "149",
+            "151",
+            "153",
+            "155"
+          ],
+          "explanation": "ଶ୍ରେଣୀରେ ଅନୁସରଣ କରାଯାଇଥିବା ଢାଞ୍ଚା ହେଉଛି:\n3 × 2 + 1 = 7\n7 × 2 + 2 = 16\n16 × 2 + 3 = 35\n35 × 2 + 4 = 74\n74 × 2 + 5 = 153\nତେଣୁ, ଲୁପ୍ତ ସଂଖ୍ୟାଟି ହେଉଛି 153।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692695116-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons A, B, C, D, E, F, and G are sitting in a straight row facing North. C sits third to the right of G. E sits second to the left of C. Only two persons sit between E and A. B sits second to the left of D. F is not an immediate neighbour of C. Who sits at the extreme right end of the row?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "F"
+      ],
+      "answer": 2,
+      "explanation": "Arranging from left to right facing North (positions 1 to 7):\n1. C sits third to the right of G (G at 3, C at 6).\n2. E sits second to the left of C (E at 4).\n3. Only two persons sit between E and A (A at 1).\n4. B sits second to the left of D (B at 5, D at 7).\n5. F is placed at remaining spot 2 (F is not adjacent to C).\n\nThe final arrangement from left to right is: A, F, G, E, B, C, D.\nTherefore, D sits at the extreme right end of the row.",
+      "translations": {
+        "or": {
+          "question": "ସାତ ଜଣ ବ୍ୟକ୍ତି A, B, C, D, E, F, ଏବଂ G ଉତ୍ତର ଦିଗକୁ ମୁହଁ କରି ଗୋଟିଏ ସିଧା ଧାଡ଼ିରେ ବସିଛନ୍ତି। C, G ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। E, C ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। E ଏବଂ A ମଧ୍ୟରେ କେବଳ ଦୁଇଜଣ ବ୍ୟକ୍ତି ବସିଛନ୍ତି। B, D ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। F, C ର ନିକଟତମ ପଡ଼ୋଶୀ ନୁହଁନ୍ତି। ଧାଡ଼ିର ସବୁଠାରୁ ଡାହାଣ ପ୍ରାନ୍ତରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "explanation": "ଉତ୍ତର ଦିଗକୁ ମୁହଁ କରି ବାମରୁ ଡାହାଣକୁ ସଜାଇଲେ (ସ୍ଥାନ 1 ରୁ 7):\n1. C, G ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି (G-3, C-6)।\n2. E, C ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି (E-4)।\n3. E ଏବଂ A ମଧ୍ୟରେ ଦୁଇଜଣ ବ୍ୟକ୍ତି ଅଛନ୍ତି (A-1)।\n4. B, D ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି (B-5, D-7)।\n5. ଖାଲି ଥିବା ସ୍ଥାନ 2 ରେ F ରହିବେ (F, C ର ପଡ଼ୋଶୀ ନୁହଁନ୍ତି)।\n\nବାମରୁ ଡାହାଣକୁ ଚୂଡ଼ାନ୍ତ ସଜାଣି ହେଉଛି: A, F, G, E, B, C, D।\nତେଣୁ, D ଧାଡ଼ିର ସବୁଠାରୁ ଡାହାଣ ପ୍ରାନ୍ତରେ ବସିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692705439-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which district of Odisha is the 'Sanaghagara' waterfall located?",
+      "options": [
+        "Mayurbhanj",
+        "Keonjhar",
+        "Sundargarh",
+        "Koraput"
+      ],
+      "answer": 1,
+      "explanation": "Sanaghagara waterfall is a famous scenic spot located approximately 5 km from Keonjhar town in the Keonjhar district of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ 'ସାନଘାଘରା' ଜଳପ୍ରପାତ ଅବସ୍ଥିତ?",
+          "options": [
+            "ମୟୂରଭଞ୍ଜ",
+            "କେନ୍ଦୁଝର",
+            "ସୁନ୍ଦରଗଡ଼",
+            "କୋରାପୁଟ"
+          ],
+          "explanation": "ସାନଘାଘରା ଜଳପ୍ରପାତ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲା ସଦର ମହକୁମାଠାରୁ ପ୍ରାୟ ୫ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ ଏକ ପ୍ରସିଦ୍ଧ ପର୍ଯ୍ୟଟନ ସ୍ଥଳୀ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692705439-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the founder of the Bhoi Dynasty in Odisha, who usurped the throne in 1541 AD?",
+      "options": [
+        "Govinda Vidyadhara",
+        "Mukunda Deva",
+        "Chakrapratapa",
+        "Ramachandra Deva I"
+      ],
+      "answer": 0,
+      "explanation": "Govinda Vidyadhara, a minister under the Suryavamsi Gajapatis, assassinated the last Gajapati ruler in 1541 AD and established the Bhoi Dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଅଧିକାର କରି ଓଡ଼ିଶାରେ 'ଭୋଇ ବଂଶ'ର ପ୍ରତିଷ୍ଠା କିଏ କରିଥିଲେ?",
+          "options": [
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "ଚକ୍ରପ୍ରତାପ",
+            "ରାମଚନ୍ଦ୍ର ଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତିଙ୍କ ମନ୍ତ୍ରୀ ଥିବା ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଶେଷ ଗଜପତି ଶାସକଙ୍କୁ ହତ୍ୟା କରି ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692721382-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which waterfall in Odisha, formed by the Machhkund River, is also known as 'Matsya Tirth'?",
+      "options": [
+        "Barehipani Falls",
+        "Duduma Falls",
+        "Khandadhar Falls",
+        "Joranda Falls"
+      ],
+      "answer": 1,
+      "explanation": "The Duduma Waterfall is formed by the Machhkund River on the border of Koraput district in Odisha and Visakhapatnam district in Andhra Pradesh. The place is also traditionally known as 'Matsya Tirth'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟ ଓଡ଼ିଶାର କେଉଁ ଜଳପ୍ରପାତ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା?",
+          "options": [
+            "ବାରେହୀପାଣି ଜଳପ୍ରପାତ",
+            "ଦୁଦୁମା ଜଳପ୍ରପାତ",
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ଯୋରନ୍ଦା ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲା ସୀମାରେ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ଦୁଦୁମା ଜଳପ୍ରପାତ ସୃଷ୍ଟି ହୋଇଛି। ଏହି ସ୍ଥାନକୁ ପାରମ୍ପରିକ ଭାବେ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ମଧ୍ୟ କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784692721382-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Suryavamsi Gajapati dynasty authored the Sanskrit play 'Parashurama Vijaya'?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 0,
+      "explanation": "Gajapati Kapilendra Deva (1435–1466 CE), the illustrious founder of the Suryavamsi Gajapati dynasty of Odisha, was a great patron of arts and authored the famous Sanskrit play 'Parashurama Vijaya'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜବଂଶର କେଉଁ ଶାସକ ସଂସ୍କୃତ ନାଟକ 'ପରଶୁରାମ ବିଜୟ' ରଚନା କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜବଂଶର ପ୍ରତିଷ୍ଠାତା ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୫-୧୪୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ପ୍ରସିଦ୍ଧ ସଂସ୍କୃତ ନାଟକ 'ପରଶୁରାମ ବିଜୟ' ରଚନା କରିଥିଲେ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -4155,6 +4155,136 @@
       ],
       "answer": 1,
       "explanation": "The International Solar Alliance (ISA) is headquartered in Gurugram, Haryana, India. It was launched jointly by India and France."
+    },
+    {
+      "id": "ibps-po-ai-1784692620655-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The ratio of the radius and height of a right circular cylinder is 7 : 10. If its volume is 1540 cm³, what is the total surface area of the cylinder? (Take π = 22/7)",
+      "options": [
+        "704 cm²",
+        "748 cm²",
+        "816 cm²",
+        "682 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Let the radius r = 7k and height h = 10k.\nVolume of cylinder = π * r² * h\n1540 = (22/7) * (7k)² * 10k\n1540 = (22/7) * 49k² * 10k\n1540 = 1540k³\nk³ = 1 => k = 1\nSo, r = 7 cm and h = 10 cm.\nTotal Surface Area = 2 * π * r * (h + r)\n= 2 * (22/7) * 7 * (10 + 7)\n= 44 * 17 = 748 cm²."
+    },
+    {
+      "id": "ibps-po-ai-1784692620655-1",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The compound interest earned on a certain sum of money at r% p.a. compounded annually in the 3rd year and 4th year is Rs. 1,452 and Rs. 1,597.20 respectively. Find the simple interest earned on a principal of Rs. (P + 2000) at (r + 5)% p.a. for 3 years, where P is the initial principal sum.",
+      "options": [
+        "Rs. 5,850",
+        "Rs. 6,300",
+        "Rs. 6,750",
+        "Rs. 7,200"
+      ],
+      "answer": 1,
+      "explanation": "Interest in 4th year = (Interest in 3rd year) * (1 + r/100)\n1597.20 = 1452 * (1 + r/100)\n1 + r/100 = 1597.20 / 1452 = 1.1\nr/100 = 0.1 => r = 10%.\n\nNow, Interest in 3rd year = P * (1 + r/100)² * (r/100)\n1452 = P * (1.1)² * 0.1\n1452 = P * 1.21 * 0.1\n1452 = 0.121 * P => P = 12,000.\n\nNew Principal = P + 2000 = 12000 + 2000 = Rs. 14,000.\nNew Rate = r + 5 = 10 + 5 = 15% p.a.\nTime = 3 years.\n\nSimple Interest = (14000 * 15 * 3) / 100 = Rs. 6,300."
+    },
+    {
+      "id": "ibps-po-ai-1784692634008-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nOnly a few Circles are Squares.\nSome Squares are Triangles.\nNo Triangle is a Hexagon.\n\nConclusions:\nI. All Circles being Squares is a possibility.\nII. Some Squares are definitely not Hexagons.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "'Only a few Circles are Squares' implies that 'Some Circles are Squares' and 'Some Circles are NOT Squares'. Since some Circles can never be Squares, 'All Circles being Squares' is impossible, making Conclusion I false. 'Some Squares are Triangles' and 'No Triangle is a Hexagon' implies that the portion of Squares that are Triangles can never be Hexagons. Hence, 'Some Squares are definitely not Hexagons' is true. Thus, only Conclusion II follows."
+    },
+    {
+      "id": "ibps-po-ai-1784692634008-1",
+      "section": "Reasoning",
+      "topic": "Input-Output Machine",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A number arrangement machine, when given an input line of numbers, rearranges them following a particular rule in each step. Below is an illustration of input and rearrangement:\n\nInput: 42 73 19 86 54 31\nStep 1: 31 42 54 19 73 86\nStep 2: 34 40 52 22 76 84\nStep 3: 43 04 25 22 67 48\nStep 4: 67 48 43 25 22 04\n\nStep 4 is the final step of the rearrangement.\nAs per the rules followed in the steps above, find out the appropriate step for the given input:\nInput: 63 28 41 92 15 74\n\nWhat is the difference between the 2nd number from the left and the 3rd number from the right in Step 3?",
+      "options": [
+        "15",
+        "19",
+        "23",
+        "37"
+      ],
+      "answer": 1,
+      "explanation": "Rules:\nStep 1: Arrange numbers in ascending order based on the sum of their digits (if sum is equal, smaller number comes first).\nStep 2: Add 3 to odd numbers, subtract 2 from even numbers.\nStep 3: Reverse the digits of each number.\nStep 4: Sort numbers in descending order.\n\nApplying to Input: 63 28 41 92 15 74\nDigit sums: 63(9), 28(10), 41(5), 92(11), 15(6), 74(11)\nStep 1: 41 15 63 28 74 92\nStep 2: 44 18 66 26 72 90\nStep 3: 44 81 66 62 27 09\n\n2nd number from left in Step 3 = 81\n3rd number from right in Step 3 = 62\nDifference = 81 - 62 = 19."
+    },
+    {
+      "id": "ibps-po-ai-1784692647134-0",
+      "section": "English",
+      "topic": "Paragraph Completion",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the sentence that logically completes the given paragraph:\n\nThe rapid integration of artificial intelligence into public healthcare systems promises unprecedented efficiency in diagnostics and patient monitoring. However, algorithms trained on biased historical datasets risk perpetuating systemic disparities in treatment outcomes. To prevent exacerbating existing health inequalities, regulatory frameworks must ensure that data sources are diverse and representative...",
+      "options": [
+        "A) Consequently, hospitals should completely halt the adoption of automated diagnostic tools until further notice.",
+        "B) Thus, developers must prioritize algorithmic transparency alongside continuous auditing for demographic bias.",
+        "C) For instance, pharmaceutical companies have significantly reduced the cost of manufacturing vital medications.",
+        "D) Nevertheless, patient satisfaction scores have reached an all-time high across urban medical centers."
+      ],
+      "answer": 1,
+      "explanation": "The paragraph discusses the problem of biased datasets in healthcare AI and the need for regulatory frameworks to mandate diverse data. Sentence B logically follows by specifying a necessary action for developers—prioritizing transparency and continuous auditing for demographic bias. Option A is an extreme overreaction, while C and D introduce irrelevant topics."
+    },
+    {
+      "id": "ibps-po-ai-1784692647134-1",
+      "section": "English",
+      "topic": "Vocabulary Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three sentences are given below featuring the word 'LACONIC'. Select the option that indicates the sentence(s) in which the word has been used correctly:\n\nI. Her laconic response during the press conference, consisting of concise single-word answers, left reporters wanting more detail.\nII. The speaker delivered a laconic presentation that went on for four hours without addressing the core issue.\nIII. Known for his laconic writing style, the author stripped away unnecessary adjectives and fluff from his manuscripts.",
+      "options": [
+        "A) Only I",
+        "B) Only I and III",
+        "C) Only II and III",
+        "D) All I, II, and III"
+      ],
+      "answer": 1,
+      "explanation": "'Laconic' means using very few words, being concise, or brief. Statement I correctly describes a brief answer using few words. Statement III correctly describes a concise writing style free of unnecessary fluff. Statement II incorrectly applies 'laconic' to a four-hour long, rambling presentation (which would be 'verbose' or 'prolix'). Therefore, only I and III are correct."
+    },
+    {
+      "id": "ibps-po-ai-1784692654235-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India's guidelines for 'on tap' licensing of Small Finance Banks (SFBs) in the private sector, what is the minimum paid-up voting equity capital requirement?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's Guidelines for 'on tap' Licensing of Small Finance Banks in the Private Sector, the minimum paid-up voting equity capital or net worth requirement is ₹200 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784692654235-1",
+      "section": "General Awareness",
+      "topic": "Banking History & Institutions",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which committee was set up by the Reserve Bank of India that recommended the establishment of the National Bank for Agriculture and Rural Development (NABARD)?",
+      "options": [
+        "Narasimham Committee",
+        "B. Sivaraman Committee",
+        "Hilton Young Commission",
+        "Y. H. Malegam Committee"
+      ],
+      "answer": 1,
+      "explanation": "NABARD was established on July 12, 1982, on the recommendation of the B. Sivaraman Committee (CRAFICARD - Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development).",
+      "status": "pending"
     }
   ]
 }

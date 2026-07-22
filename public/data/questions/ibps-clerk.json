@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -4630,6 +4630,136 @@
       ],
       "answer": 1,
       "explanation": "The International Solar Alliance (ISA) is headquartered in Gurugram, Haryana, India. It was launched jointly by India and France."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692497686-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average weight of a group of 8 persons increases by 2.5 kg when a person weighing 50 kg is replaced by a new person. What is the weight of the new person?",
+      "options": [
+        "65 kg",
+        "70 kg",
+        "75 kg",
+        "80 kg"
+      ],
+      "answer": 1,
+      "explanation": "Total increase in weight = Number of persons × Increase in average = 8 × 2.5 = 20 kg. Weight of the new person = Weight of the replaced person + Total increase in weight = 50 + 20 = 70 kg."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692497686-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B can complete a piece of work individually in 20 days and 30 days respectively. They started the work together, but A left 5 days before the completion of the work. In how many total days was the work completed?",
+      "options": [
+        "12 days",
+        "14 days",
+        "15 days",
+        "18 days"
+      ],
+      "answer": 2,
+      "explanation": "Let total time taken to complete the work be T days. A worked for (T - 5) days and B worked for T days. Efficiency of A = 1/20, Efficiency of B = 1/30. Equation: (T - 5)/20 + T/30 = 1. Multiplying by LCM (60): 3(T - 5) + 2T = 60 => 5T - 15 = 60 => 5T = 75 => T = 15 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692513682-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the question below, statements are given followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nSome pens are pencils.\nAll pencils are erasers.\nNo eraser is a marker.\n\nConclusions:\nI. Some pens are erasers.\nII. No pencil is a marker.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "From the statements:\n1. 'Some pens are pencils' and 'All pencils are erasers' implies that the pens which are pencils are also erasers. Thus, 'Some pens are erasers' is definitely true. (Conclusion I follows)\n2. 'All pencils are erasers' and 'No eraser is a marker' implies no pencil can be a marker since all pencils lie inside erasers. Thus, 'No pencil is a marker' is definitely true. (Conclusion II follows)\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692513682-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Study the following information carefully and answer the question given below:\n\nIn a certain code language:\n'work hard get success' is coded as 'ja kt po zi'\n'success brings real joy' is coded as 'zi lx nb re'\n'hard work brings joy' is coded as 'kt ja nb lx'\n'get real joy daily' is coded as 'po re lx fg'\n\nWhat is the code for 'success daily' in the given code language?",
+      "options": [
+        "zi po",
+        "zi fg",
+        "kt fg",
+        "po lx"
+      ],
+      "answer": 1,
+      "explanation": "Comparing statements 1 and 2: 'success' is the only common word, and 'zi' is the common code. Thus, success = zi.\nComparing statements 1 and 4: 'get' is common, and 'po' is common. Thus, get = po.\nComparing statements 2, 3, and 4: 'joy' is present in all three, and 'lx' is common. Thus, joy = lx.\nComparing statements 2 and 4: 'real' is common, and 're' is common. Thus, real = re.\nIn statement 4: 'get real joy daily' = 'po re lx fg'. Since get = po, real = re, joy = lx, the code for 'daily' is 'fg'.\nHence, 'success daily' is coded as 'zi fg'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692523492-0",
+      "section": "English",
+      "topic": "Vocabulary - Synonyms",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the word that is MOST SIMILAR in meaning to the bolded word in the sentence below:\n\n'The mountaineers faced a **perilous** journey across the unstable glacier during the severe blizzard.'",
+      "options": [
+        "Safe",
+        "Hazardous",
+        "Advantageous",
+        "Tranquil"
+      ],
+      "answer": 1,
+      "explanation": "The word 'perilous' means full of danger or risk. Among the given options, 'Hazardous' is the closest synonym."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692523492-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the option that can correctly replace the underlined segment to form a grammatically correct sentence:\n\n'No sooner did the train arrived at the station than the passengers rushed towards the doors.'",
+      "options": [
+        "No sooner did the train arrive at the station than the passengers rushed",
+        "No sooner had the train arrive at the station when the passengers rushed",
+        "No sooner did the train arrived at the station when the passengers rushed",
+        "No sooner does the train arrived at the station than the passengers rush"
+      ],
+      "answer": 0,
+      "explanation": "When using the auxiliary verb 'did', it must be followed by the base/bare infinitive form of the verb ('arrive', not 'arrived'). Additionally, 'No sooner' is always paired with 'than', making option A grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1784692535065-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations & Platforms",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the guidelines issued by the Reserve Bank of India (RBI), what is the minimum paid-up equity capital required for an entity to set up and operate a Trade Receivables Discounting System (TReDS) platform?",
+      "options": [
+        "₹10 crore",
+        "₹25 crore",
+        "₹50 crore",
+        "₹100 crore"
+      ],
+      "answer": 1,
+      "explanation": "As per the guidelines issued by the Reserve Bank of India (RBI) for setting up and operating TReDS, the minimum paid-up equity capital required for an entity to be eligible as a TReDS operator is ₹25 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784692535065-1",
+      "section": "General Awareness",
+      "topic": "International Financial Institutions",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Where is the headquarters of the Asian Infrastructure Investment Bank (AIIB) located?",
+      "options": [
+        "Manila, Philippines",
+        "Beijing, China",
+        "Shanghai, China",
+        "Tokyo, Japan"
+      ],
+      "answer": 1,
+      "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank that commenced operations in January 2016. Its headquarters are located in Beijing, China.",
+      "status": "pending"
     }
   ]
 }

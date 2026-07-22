@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -3731,6 +3731,120 @@
             "[V(CO)_6]- < [Mn(CO)_6]+ < [Cr(CO)_6]"
           ],
           "explanation": "C-O ପ୍ରସାରଣ ଆବୃତ୍ତି (v_CO) ଧାତୁରୁ ଲିଗାଣ୍ଡକୁ ହେଉଥିବା pi ବ୍ୟାକ୍-ଡୋନେସନ୍ (back-bonding) ଉପରେ ନିର୍ଭର କରେ । ଧାତୁ ଉପରେ ଋଣାତ୍ମକ ଚାର୍ଜ ବଢିଲେ, CO ର ଆଣ୍ଟିବଣ୍ଡିଂ pi* କକ୍ଷପଥକୁ ବ୍ୟାକ୍-ଡୋନେସନ୍ ବୃଦ୍ଧି ପାଏ, ଯାହା C-O ବନ୍ଧକୁ ଦୁର୍ବଳ କରିଥାଏ ଏବଂ ପ୍ରସାରଣ ଆବୃତ୍ତି ହ୍ରାସ କରେ । ତେଣୁ, ଋଣାତ୍ମକ ଚାର୍ଜ ବିଶିଷ୍ଟ [V(CO)_6]- ର ଆବୃତ୍ତି ସବୁଠାରୁ କମ୍ ଏବଂ ଧନାତ୍ମକ ଚାର୍ଜ ବିଶିଷ୍ଟ [Mn(CO)_6]+ ର ଆବୃତ୍ତି ସବୁଠାରୁ ଅଧିକ ଅଟେ ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784692785098-0",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Communication and FIACS",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Categories System (FIACS) used for observing classroom verbal interaction, how many total categories are defined?",
+      "options": [
+        "7 categories",
+        "10 categories",
+        "12 categories",
+        "15 categories"
+      ],
+      "answer": 1,
+      "explanation": "Ned Flanders' Interaction Analysis Categories System (FIACS) consists of 10 total categories: 7 categories for Teacher Talk, 2 categories for Pupil Talk, and 1 category for Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ମୌଖିକ ଆଲୋଚନା ଅନୁଧ୍ୟାନ ପାଇଁ ବ୍ୟବହୃତ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ 'ଇଣ୍ଟରଆକ୍ସନ୍ ଆନାଲିସିସ୍ କାଟେଗୋରୀ ସିଷ୍ଟମ୍' (FIACS) ରେ ମୋଟ କେତୋଟି ବର୍ଗ (categories) ରହିଛି?",
+          "options": [
+            "୭ ଟି ବର୍ଗ",
+            "୧୦ ଟି ବର୍ଗ",
+            "୧୨ ଟି ବର୍ଗ",
+            "୧୫ ଟି ବର୍ଗ"
+          ],
+          "explanation": "ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ FIACS ରେ ମୋଟ ୧୦ ଟି ବର୍ଗ ରହିଛି: ୭ ଟି ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା (Teacher Talk), ୨ ଟି ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା (Pupil Talk) ଏବଂ ୧ ଟି ନୀରବତା କିମ୍ବା ଦ୍ୱନ୍ଦ୍ୱ (Silence or Confusion) ପାଇଁ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784692785098-1",
+      "section": "Teaching Aptitude",
+      "topic": "Psychology of Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Robert Gagné's Hierarchy of Learning, which of the following represents the highest and most complex level (8th level) of learning?",
+      "options": [
+        "Signal Learning",
+        "Concept Learning",
+        "Rule Learning",
+        "Problem Solving"
+      ],
+      "answer": 3,
+      "explanation": "Robert Gagné proposed an 8-level hierarchy of learning ranging from simple to complex: 1. Signal Learning, 2. Stimulus-Response Learning, 3. Chaining, 4. Verbal Association, 5. Discrimination Learning, 6. Concept Learning, 7. Rule Learning, and 8. Problem Solving (the highest level).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେ (Robert Gagné) ଙ୍କ ଶିକ୍ଷଣ ପଦାନୁକ୍ରମ (Hierarchy of Learning) ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ସର୍ବୋଚ୍ଚ ଏବଂ ସବୁଠାରୁ ଜଟିଳ ସ୍ତରର (ଅଷ୍ଟମ ସ୍ତର) ଶିକ୍ଷଣକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ସଙ୍କେତ ଶିକ୍ଷଣ (Signal Learning)",
+            "ଧାରଣା ଶିକ୍ଷଣ (Concept Learning)",
+            "ନିୟମ ଶିକ୍ଷଣ (Rule Learning)",
+            "ସମସ୍ୟା ସମାଧାନ ଶିକ୍ଷଣ (Problem Solving)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେଙ୍କ ଆଠ-ସ୍ତରୀୟ ଶିକ୍ଷଣ ପଦାନୁକ୍ରମରେ, ସର୍ବୋଚ୍ଚ ଏବଂ ସବୁଠାରୁ ଜଟିଳ ସ୍ତର ହେଉଛି 'ସମସ୍ୟା ସମାଧାନ ଶିକ୍ଷଣ' (Problem Solving)। ସବୁଠାରୁ ନିମ୍ନ ସ୍ତର ହେଉଛି 'ସଙ୍କେତ ଶିକ୍ଷଣ' (Signal Learning)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784692812816-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following ligands produces the largest crystal field splitting energy (Δo) in an octahedral complex of a given transition metal ion?",
+      "options": [
+        "I-",
+        "H2O",
+        "NH3",
+        "CN-"
+      ],
+      "answer": 3,
+      "explanation": "According to the spectrochemical series, cyanide (CN-) is a strong-field ligand (a strong pi-acceptor) and produces the largest crystal field splitting energy (Δo) among the given options.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ ସଂକ୍ରମଣ ଧାତୁ ଆୟନର ଏକ ଅଷ୍ଟଫଳକୀୟ (octahedral) କମ୍ପ୍ଲେକ୍ସରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଲିଗାଣ୍ଡ ସବୁଠାରୁ ଅଧିକ କ୍ରିଷ୍ଟାଲ୍ ଫିଲ୍ଡ ସ୍ପ୍ଲିଟିଂ ଶକ୍ତି (Δo) ସୃଷ୍ଟି କରେ?",
+          "options": [
+            "I-",
+            "H2O",
+            "NH3",
+            "CN-"
+          ],
+          "explanation": "ସ୍ପେକ୍ଟ୍ରୋକେମିକାଲ୍ ସିରିଜ୍ (spectrochemical series) ଅନୁସାରେ, ସାୟାନାଇଡ୍ (CN-) ହେଉଛି ଏକ ଶକ୍ତିଶାଳୀ ଫିଲ୍ଡ ଲିଗାଣ୍ଡ ଏବଂ ଏହା ଦିଆଯାଇଥିବା ଲିଗାଣ୍ଡଗୁଡ଼ିକ ମଧ୍ୟରେ ସବୁଠାରୁ ଅଧିକ କ୍ରିଷ୍ଟାଲ୍ ଫିଲ୍ଡ ସ୍ପ୍ଲିଟିଂ ଶକ୍ତି (Δo) ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784692812816-1",
+      "section": "Subject Knowledge",
+      "topic": "Electrochemistry",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "For a concentration cell without transference consisting of two hydrogen electrodes operating at pressures P1 and P2 (where P1 > P2) immersed in the same electrolyte solution at temperature T, what is the correct expression for the electromotive force (EMF) of the cell?",
+      "options": [
+        "E = (RT / 2F) * ln(P1 / P2)",
+        "E = (RT / F) * ln(P1 / P2)",
+        "E = (RT / 2F) * ln(P2 / P1)",
+        "E = (2RT / F) * ln(P1 / P2)"
+      ],
+      "answer": 0,
+      "explanation": "The oxidation half-reaction at the anode is 1/2 H2(P1) -> H+ + e-, and the reduction half-reaction at the cathode is H+ + e- -> 1/2 H2(P2). The overall cell reaction is 1/2 H2(P1) -> 1/2 H2(P2). Applying the Nernst equation gives E = E° - (RT/F) * ln((P2/P1)^(1/2)) = 0 - (RT/2F) * ln(P2/P1) = (RT/2F) * ln(P1/P2).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ତାପମାତ୍ରା T ରେ ସମାନ ଇଲେକ୍ଟ୍ରୋଲାଇଟ୍ ଦ୍ରବଣରେ ବୁଡ଼ି ରହିଥିବା ଦୁଇଟି ହାଇଡ୍ରୋଜେନ୍ ଇଲେକ୍ଟ୍ରୋଡ୍ (P1 ଏବଂ P2 ଚାପରେ, ଯେଉଁଠାରେ P1 > P2) ବିଶିଷ୍ଟ ବିନା ସ୍ଥାନାନ୍ତରଣ କନ୍ସେଣ୍ଟ୍ରେସନ୍ ସେଲ୍‌ର ବିଦ୍ୟୁତ୍ ବାହକ ବଳ (EMF) ର ସୂତ୍ର କ’ଣ?",
+          "options": [
+            "E = (RT / 2F) * ln(P1 / P2)",
+            "E = (RT / F) * ln(P1 / P2)",
+            "E = (RT / 2F) * ln(P2 / P1)",
+            "E = (2RT / F) * ln(P1 / P2)"
+          ],
+          "explanation": "ଆନୋଡ୍ ପ୍ରତିକ୍ରିୟା: 1/2 H2(P1) -> H+ + e-, କ୍ୟାଥୋଡ୍ ପ୍ରତିକ୍ରିୟା: H+ + e- -> 1/2 H2(P2)। ମୋଟ ସେଲ୍ ପ୍ରତିକ୍ରିୟା ହେଉଛି 1/2 H2(P1) -> 1/2 H2(P2)। ନର୍ନଷ୍ଟ ସମୀକରଣ ବ୍ୟବହାର କରି, E = - (RT/F) * ln((P2/P1)^(1/2)) = (RT/2F) * ln(P1/P2)।"
         }
       }
     }

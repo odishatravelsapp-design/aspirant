@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -4367,6 +4367,136 @@
       ],
       "answer": 1,
       "explanation": "The International Solar Alliance (ISA) is headquartered in Gurugram, Haryana, India. It was launched jointly by India and France."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692550803-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A trader marks up an article by 50% above its cost price. He then allows successive discounts of 20% and 10% on the marked price. If the total profit earned by him is ₹120, what is the cost price of the article?",
+      "options": [
+        "₹1200",
+        "₹1500",
+        "₹1800",
+        "₹2000"
+      ],
+      "answer": 1,
+      "explanation": "Let the Cost Price (CP) of the article be ₹100x.\nMarked Price (MP) = 100x + 50% of 100x = ₹150x.\nAfter first discount of 20%, Price = 150x * 0.80 = ₹120x.\nAfter second discount of 10%, Selling Price (SP) = 120x * 0.90 = ₹108x.\nProfit = SP - CP = 108x - 100x = 8x.\nGiven Profit = ₹120, so 8x = 120 => x = 15.\nTherefore, Cost Price (100x) = 100 * 15 = ₹1500."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692550803-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipes A and B can fill an empty tank in 12 hours and 16 hours respectively, while Pipe C can empty the full tank in 24 hours. All three pipes are opened simultaneously in the empty tank, but after 4 hours, Pipe C is closed. What is the total time taken (in hours) to fill the tank completely?",
+      "options": [
+        "6 hours",
+        "7.5 hours",
+        "8 hours",
+        "9.5 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let total capacity of the tank = LCM(12, 16, 24) = 48 units.\nEfficiency of A = +4 units/hr\nEfficiency of B = +3 units/hr\nEfficiency of C = -2 units/hr\n\nCombined efficiency of A, B, and C = 4 + 3 - 2 = 5 units/hr.\nWork done in the first 4 hours = 5 * 4 = 20 units.\nRemaining work = 48 - 20 = 28 units.\n\nAfter 4 hours, Pipe C is closed. Efficiency of (A + B) = 4 + 3 = 7 units/hr.\nTime taken to fill remaining 28 units = 28 / 7 = 4 hours.\n\nTotal time taken to fill the tank completely = 4 + 4 = 8 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692580014-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Study the following sequence of letters, numbers, and symbols carefully and answer the question given below:\n\nK 7 # M E 4 $ 9 N B @ 2 W 8 & P 3 L U 5 % T\n\nWhich of the following elements is 5th to the left of the 14th element from the left end?",
+      "options": [
+        "B",
+        "N",
+        "9",
+        "@"
+      ],
+      "answer": 1,
+      "explanation": "The 14th element from the left end is '8'. The element 5th to the left of '8' is the 9th element from the left end (14 - 5 = 9). Counting from the left: 1:K, 2:7, 3:#, 4:M, 5:E, 6:4, 7:$, 8:9, 9:N. Therefore, the 9th element is 'N'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692580014-1",
+      "section": "Reasoning",
+      "topic": "Floor Based Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Eight persons—A, B, C, D, E, F, G, and H—live on eight different floors of an eight-story building numbered 1 to 8 from bottom to top, but not necessarily in the same order.\n\nD lives on the bottommost floor. B lives immediately above D. Exactly three persons live between B and F. H lives on the topmost floor. E lives on an odd-numbered floor above F. C lives immediately above A. G lives on a floor below A.\n\nHow many persons live between E and G?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "1. D lives on floor 1 (bottommost).\n2. B lives immediately above D, so B is on floor 2.\n3. Three persons live between B (floor 2) and F, placing F on floor 6.\n4. H lives on floor 8 (topmost).\n5. E lives on an odd-numbered floor above F (floor 6), which must be floor 7.\n6. The remaining vacant floors are 3, 4, and 5. Since C lives immediately above A, C is on floor 5 and A is on floor 4.\n7. G lives on the remaining floor 3 (which is below A).\n\nThe floor arrangement from Floor 8 to Floor 1 is: H, E, F, C, A, G, B, D.\nBetween E (floor 7) and G (floor 3), there are 3 persons (F, C, and A)."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692587159-0",
+      "section": "English",
+      "topic": "Vocabulary (Antonyms)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following words is the most opposite in meaning to 'PUSILLANIMOUS'?",
+      "options": [
+        "Courageous",
+        "Timid",
+        "Craven",
+        "Reclusive"
+      ],
+      "answer": 0,
+      "explanation": "'Pusillanimous' means showing a lack of courage or determination (cowardly/timid). Therefore, 'Courageous' is the exact antonym. 'Timid' and 'Craven' are synonyms, while 'Reclusive' means avoiding the company of other people."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692587159-1",
+      "section": "English",
+      "topic": "Advanced Grammar (Inversion)",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Fill in the blank with the grammatically correct phrase: 'Not until the late hours of the night _______ the full extent of the damage caused by the flash flood.'",
+      "options": [
+        "did the rescue teams realize",
+        "the rescue teams realized",
+        "the rescue teams had realized",
+        "have the rescue teams realized"
+      ],
+      "answer": 0,
+      "explanation": "When a sentence begins with a negative or restrictive adverbial phrase such as 'Not until...', it requires subject-auxiliary inversion in the main clause. Thus, the auxiliary verb 'did' must precede the subject 'the rescue teams', followed by the base form of the main verb 'realize'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784692601898-0",
+      "section": "General Awareness",
+      "topic": "Banking Abbreviations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What does the letter 'N' stand for in the electronic payment system 'NEFT' operated by the Reserve Bank of India?",
+      "options": [
+        "National",
+        "Net",
+        "Nominal",
+        "Network"
+      ],
+      "answer": 0,
+      "explanation": "NEFT stands for National Electronic Funds Transfer. It is a nation-wide payment system facilitating one-to-one funds transfer operated by the Reserve Bank of India.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784692601898-1",
+      "section": "General Awareness",
+      "topic": "Basel III Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Basel III framework guidelines prescribed by the Reserve Bank of India (RBI), scheduled commercial banks in India are required to maintain a Capital Conservation Buffer (CCB) equal to what percentage of their total Risk-Weighted Assets (RWA)?",
+      "options": [
+        "1.5%",
+        "2.0%",
+        "2.5%",
+        "3.0%"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI's Basel III capital regulations, scheduled commercial banks in India must maintain a Capital Conservation Buffer (CCB) of 2.5% in the form of Common Equity Tier 1 (CET1) capital, over and above the minimum CET1 requirement of 5.5%.",
+      "status": "pending"
     }
   ]
 }
