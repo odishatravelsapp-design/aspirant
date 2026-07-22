@@ -6259,6 +6259,261 @@
           "explanation": "ଓଡ଼ିଶାର ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ସାମ୍ରାଜ୍ୟର ପ୍ରତିଷ୍ଠାତା ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବ 'ପରଶୁରାମ ବିଜୟ' ନାମକ ସଂସ୍କୃତ ନାଟକ ରଚନା କରିଥିଲେ, ଯେଉଁଥିରେ ଓଡ଼ିଆ ଭାଷାର ପ୍ରାରମ୍ଭିକ ପ୍ରୟୋଗ ଦେଖିବାକୁ ମିଳେ।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-0",
+      "section": "Teaching Aptitude",
+      "topic": "Piaget's Cognitive Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Jean Piaget's theory of cognitive development, at which stage do children typically acquire the concept of conservation (understanding that quantity remains constant despite changes in shape or appearance)?",
+      "options": [
+        "Sensorimotor stage",
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answer": 2,
+      "explanation": "During the concrete operational stage (roughly ages 7 to 11), children develop the cognitive ability of conservation, realizing that properties such as mass, volume, and number remain the same despite changes in the forms of objects."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-1",
+      "section": "Teaching Aptitude",
+      "topic": "Vygotsky's Sociocultural Theory",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Lev Vygotsky's sociocultural theory, the temporary instructional support provided by a teacher or a more competent peer to help a learner master a task is called:",
+      "options": [
+        "Assimilation",
+        "Scaffolding",
+        "Adaptation",
+        "Schema"
+      ],
+      "answer": 1,
+      "explanation": "Scaffolding, a term closely associated with Vygotsky's Zone of Proximal Development (coined by Jerome Bruner in explaining Vygotsky's work), refers to the temporary support given to a learner during the learning process."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-2",
+      "section": "Teaching Aptitude",
+      "topic": "Kohlberg's Moral Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Lawrence Kohlberg's stage theory of moral development, an individual whose moral reasoning is primarily guided by avoiding physical punishment and obeying authority figures unconditionally is functioning at the:",
+      "options": [
+        "Pre-conventional level",
+        "Conventional level",
+        "Post-conventional level",
+        "Universal ethical level"
+      ],
+      "answer": 0,
+      "explanation": "At the pre-conventional level (specifically Stage 1: Punishment and Obedience Orientation), moral decisions are based entirely on direct physical consequences and fear of punishment."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-3",
+      "section": "Teaching Aptitude",
+      "topic": "Behaviourism (Pavlov, Skinner)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Ivan Pavlov's classical conditioning experiments with dogs, which element served as the Unconditioned Stimulus (UCS)?",
+      "options": [
+        "Sound of the bell",
+        "Salivation in response to the bell",
+        "Food presented to the dog",
+        "Sight of the experimenter"
+      ],
+      "answer": 2,
+      "explanation": "In Pavlov's classic paradigm, food naturally and automatically triggers salivation without prior training, making it the Unconditioned Stimulus (UCS)."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-4",
+      "section": "Teaching Aptitude",
+      "topic": " Behaviourism (Pavlov, Skinner)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "A classroom teacher awards a star sticker to students after every five completed homework assignments. Which schedule of operant reinforcement is being utilized?",
+      "options": [
+        "Fixed-interval schedule",
+        "Variable-interval schedule",
+        "Fixed-ratio schedule",
+        "Variable-ratio schedule"
+      ],
+      "answer": 2,
+      "explanation": "A fixed-ratio schedule delivers reinforcement only after a predetermined, fixed number of correct responses—in this case, every 5th completed assignment."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-5",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitivism & Information Processing",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Atkinson-Shiffrin Multi-Store Model of Memory, what are the storage capacity and retention duration characteristic of iconic (visual sensory) memory?",
+      "options": [
+        "Unlimited capacity, duration up to 30 seconds",
+        "Large capacity, duration less than 1 second",
+        "Capacity of 7 ± 2 items, duration indefinite",
+        "Small capacity, duration up to 2 minutes"
+      ],
+      "answer": 1,
+      "explanation": "Iconic memory holds a very large amount of visual sensory information, but it decays extremely rapidly, retaining visual images for less than 0.5 to 1 second."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-6",
+      "section": "Teaching Aptitude",
+      "topic": "Constructivism",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which core premise distinguishes Ernst von Glasersfeld's 'Radical Constructivism' from traditional epistemologies?",
+      "options": [
+        "Knowledge is passively received from the environment through sensory organs.",
+        "Knowledge represents an exact objective reflection of external reality.",
+        "Knowledge is actively constructed by the learner to organize experiential reality, rather than discover objective truth.",
+        "Knowledge is exclusively built through classical conditioning and direct social reinforcement."
+      ],
+      "answer": 2,
+      "explanation": "Radical Constructivism, formulated by Ernst von Glasersfeld, posits that knowledge is an adaptive organization of the experiential world, rather than a discovery of an objective, ontological reality."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-7",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which pioneer of educational psychology formulated the 'Law of Effect', stating that behaviors followed by satisfying outcomes are more likely to recur?",
+      "options": [
+        "Edward L. Thorndike",
+        "John B. Watson",
+        "Clark Hull",
+        "Kurt Lewin"
+      ],
+      "answer": 0,
+      "explanation": "Edward Lee Thorndike formulated the Law of Effect based on his puzzle-box experiments with cats, laying the groundwork for B.F. Skinner's operant conditioning."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-8",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "The 'cephalocaudal' principle of motor development indicates that physical control and growth in an infant progress in which spatial pattern?",
+      "options": [
+        "From the center of the body outward to the extremities",
+        "From the head downward toward the feet",
+        "From the feet upward toward the head",
+        "From complex fine motor control to simple gross motor control"
+      ],
+      "answer": 1,
+      "explanation": "The cephalocaudal pattern dictates that motor development proceeds from top to bottom (head to toe); an infant gains control of neck and head movements before torso and legs."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-9",
+      "section": "Teaching Aptitude",
+      "topic": "Piaget's Cognitive Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Jean Piaget's theory, when a child encounters new environmental information that contradicts their current cognitive schema and must modify that schema to regain equilibrium, this process is specifically called:",
+      "options": [
+        "Assimilation",
+        "Accommodation",
+        "Decentering",
+        "Centration"
+      ],
+      "answer": 1,
+      "explanation": "Accommodation occurs when existing cognitive structures (schemas) are modified or new ones are created to incorporate novel information that does not fit into existing schemas."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-10",
+      "section": "Teaching Aptitude",
+      "topic": "Vygotsky's Sociocultural Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Lev Vygotsky, the transitional phase of speech that bridges social (external) speech and inner speech during early childhood (typically around ages 3 to 7) is known as:",
+      "options": [
+        "Telegraphic speech",
+        "Egocentric / Private speech",
+        "Holophrastic speech",
+        "Silent inner speech"
+      ],
+      "answer": 1,
+      "explanation": "Vygotsky viewed egocentric or private speech as a crucial developmental bridge between external communication and internal self-regulation (inner speech), typically prominent between ages 3 and 7."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-11",
+      "section": "Teaching Aptitude",
+      "topic": "Kohlberg's Moral Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Lawrence Kohlberg's framework, Stage 5 moral reasoning (Social Contract and Individual Rights) belongs to which broader level of morality?",
+      "options": [
+        "Pre-conventional Level",
+        "Conventional Level",
+        "Post-conventional Level",
+        "Sub-conventional Level"
+      ],
+      "answer": 2,
+      "explanation": "Stage 5 (Social Contract and Individual Rights) and Stage 6 (Universal Ethical Principles) together constitute the Post-conventional (or Principled) Level of moral development."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-12",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In J. P. Guilford's Structure of Intellect (SOI) model, which of the following mental processes is categorized under the dimension of 'Operations'?",
+      "options": [
+        "Units",
+        "Divergent Thinking",
+        "Semantic",
+        "Implications"
+      ],
+      "answer": 1,
+      "explanation": "Guilford's SOI model classifies intellect into Operations, Contents, and Products. Operations include Cognition, Memory Recording, Memory Retention, Divergent Production (Divergent Thinking), Convergent Production, and Evaluation."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-13",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitivism & Information Processing",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Alan Baddeley's multi-component model of working memory, which subcomponent is responsible for temporary storage and manipulation of speech-based verbal and auditory material?",
+      "options": [
+        "Visuospatial Sketchpad",
+        "Episodic Buffer",
+        "Phonological Loop",
+        "Central Executive"
+      ],
+      "answer": 2,
+      "explanation": "The Phonological Loop consists of a phonological store (speech perception) and an articulatory rehearsal process (speech production), specialized for processing auditory and verbal information."
+    },
+    {
+      "id": "odisha-ssb-edu-1784694798953-14",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Erik Erikson's theory of psychosocial development, what primary developmental crisis occurs during adolescence (Stage 5)?",
+      "options": [
+        "Industry vs. Inferiority",
+        "Autonomy vs. Shame and Doubt",
+        "Identity vs. Role Confusion",
+        "Intimacy vs. Isolation"
+      ],
+      "answer": 2,
+      "explanation": "During adolescence (approx. ages 12–18), individuals experience Stage 5 of Erikson's model: Identity vs. Role Confusion, where they explore values, beliefs, and goals to build a coherent sense of self."
     }
   ]
 }
