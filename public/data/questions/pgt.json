@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -4102,6 +4102,232 @@
       ],
       "answer": 2,
       "explanation": "During adolescence (approx. ages 12–18), individuals experience Stage 5 of Erikson's model: Identity vs. Role Confusion, where they explore values, beliefs, and goals to build a coherent sense of self."
+    },
+    {
+      "id": "pgt-ai-1784778990260-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the standard Indian context (NCERT model), what is the total prescribed duration for one complete cycle of Microteaching?",
+      "options": [
+        "30 minutes",
+        "36 minutes",
+        "42 minutes",
+        "45 minutes"
+      ],
+      "answer": 1,
+      "explanation": "According to the NCERT pattern, a complete microteaching cycle lasts 36 minutes: Teaching (6 min), Feedback (6 min), Re-planning (12 min), Re-teaching (6 min), and Re-feedback (6 min).",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସନ୍ଦର୍ଭ (NCERT ମଡେଲ) ଅନୁଯାୟୀ, ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷାଦାନ)ର ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ଚକ୍ର ପାଇଁ ମୋଟ କେତେ ସମୟ ନିର୍ଦ୍ଧାରିତ ହୋଇଛି?",
+          "options": [
+            "୩୦ ମିନିଟ୍",
+            "୩୬ ମିନିଟ୍",
+            "୪୨ ମିନିଟ୍",
+            "୪୫ ମିନିଟ୍"
+          ],
+          "explanation": "NCERT ର ମାନକ ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ରର ମୋଟ ଅବଧି ହେଉଛି ୩୬ ମିନିଟ୍: ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଏବଂ ପୁନଃ-ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784778990260-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In David Ausubel's Advance Organizer Model, which specific phase involves integrative reconciliation, clarifying key concepts, and promoting active reception learning?",
+      "options": [
+        "Phase 1: Presentation of Advance Organizer",
+        "Phase 2: Presentation of Learning Task or Material",
+        "Phase 3: Strengthening Cognitive Organization",
+        "Phase 4: Evaluation and Transfer of Learning"
+      ],
+      "answer": 2,
+      "explanation": "Ausubel's Advance Organizer Model consists of three phases: Phase 1 (Presentation of Advance Organizer), Phase 2 (Presentation of Learning Task/Material), and Phase 3 (Strengthening Cognitive Organization). Phase 3 specifically focuses on integrative reconciliation, active reception learning, and consolidating cognitive structure.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ 'ଏଡଭାନ୍ସ ଅର୍ଗାନାଇଜର ମଡେଲ' (Advance Organizer Model) ରେ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ସମାକଳିତ ସମାଧାନ (integrative reconciliation), ମୁଖ୍ୟ ଧାରଣାଗୁଡ଼ିକୁ ସ୍ପଷ୍ଟ କରିବା ଏବଂ ସକ୍ରିୟ ଗ୍ରହଣଶୀଳ ଶିକ୍ଷଣକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୧: ଏଡଭାନ୍ସ ଅର୍ଗାନାଇଜରର ଉପସ୍ଥାପନା",
+            "ପର୍ଯ୍ୟାୟ ୨: ଶିକ୍ଷଣ କାର୍ଯ୍ୟ କିମ୍ବା ବିଷୟବସ୍ତୁର ଉପସ୍ଥାପନା",
+            "ପର୍ଯ୍ୟାୟ ୩: ଜ୍ଞାନାତ୍ମକ ସଂଗଠନକୁ ସୁଦୃଢ଼ କରିବା",
+            "ପର୍ଯ୍ୟାୟ ୪: ମୂଲ୍ୟାଙ୍କନ ଏବଂ ଶିକ୍ଷଣର ସ୍ଥାନାନ୍ତର"
+          ],
+          "explanation": "ଆସୁବେଲଙ୍କ ଏଡଭାନ୍ସ ଅର୍ଗାନାଇଜର ମଡେଲର ତୃତୀୟ ପର୍ଯ୍ୟାୟ ('ଜ୍ଞାନାତ୍ମକ ସଂଗଠନକୁ ସୁଦୃଢ଼ କରିବା') ରେ ସମାକଳିତ ସମାଧାନ, ସକ୍ରିୟ ଗ୍ରହଣଶୀଳ ଶିକ୍ଷଣ ଏବଂ ପୂର୍ବ ଜ୍ଞାନ ସହିତ ନୂତନ ଧାରଣାର ସଂଯୋଗକୁ ସୁଦୃଢ଼ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784779003864-0",
+      "section": "Subject Knowledge",
+      "topic": "Bioinorganic Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In deoxyhemocyanin, what is the oxidation state of copper and its magnetic property?",
+      "options": [
+        "Cu(I) and diamagnetic",
+        "Cu(I) and paramagnetic",
+        "Cu(II) and paramagnetic",
+        "Cu(II) and diamagnetic"
+      ],
+      "answer": 0,
+      "explanation": "In deoxyhemocyanin, the copper ions are in the +1 oxidation state (Cu(I), d10 electron configuration). Since all electrons are paired in a d10 system, it is diamagnetic and colorless.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଡିଅକ୍ସିହେମୋସାଇନିନ୍ (deoxyhemocyanin) ରେ କପର୍ ଆୟନ୍‌ଗୁଡ଼ିକର ଜାରଣ ଅବସ୍ଥା (oxidation state) ଏବଂ ଚୁମ୍ବକୀୟ ଗୁଣ (magnetic property) କ’ଣ?",
+          "options": [
+            "Cu(I) ଏବଂ ଡାୟାମ୍ୟାଗ୍ନେଟିକ୍ (diamagnetic)",
+            "Cu(I) ଏବଂ ପାରାମ୍ୟାଗ୍ନେଟିକ୍ (paramagnetic)",
+            "Cu(II) ଏବଂ ପାରାମ୍ୟାଗ୍ନେଟିକ୍ (paramagnetic)",
+            "Cu(II) ଏବଂ ଡାୟାମ୍ୟାଗ୍ନେଟିକ୍ (diamagnetic)"
+          ],
+          "explanation": "ଡିଅକ୍ସିହେମୋସାଇନିନ୍‌ରେ କପର୍ ଆୟନ୍‌ଗୁଡ଼ିକ +1 ଜାରଣ ଅବସ୍ଥାରେ (Cu(I), d10 ସଂରଚନା) ଥାଆନ୍ତି। d10 ସିଷ୍ଟମ୍‌ରେ ସମସ୍ତ ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗ୍ମ ହୋଇଥିବାରୁ ଏହା ଡାୟାମ୍ୟାଗ୍ନେଟିକ୍ ଏବଂ ରଙ୍ଗହୀନ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784779003864-1",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Hückel Molecular Orbital (HMO) theory, the energy levels of the molecular orbitals for the allyl system are given by:",
+      "options": [
+        "α + √2β, α, α - √2β",
+        "α + 2β, α, α - 2β",
+        "α + β, α, α - β",
+        "α + √3β, α, α - √3β"
+      ],
+      "answer": 0,
+      "explanation": "For an open-chain conjugated system with N = 3 carbon atoms (the allyl system), the HMO energy levels are given by E_j = α + 2β cos(jπ / (N + 1)) for j = 1, 2, 3. For j = 1, E_1 = α + 2β cos(π/4) = α + √2β. For j = 2, E_2 = α + 2β cos(2π/4) = α. For j = 3, E_3 = α + 2β cos(3π/4) = α - √2β.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ହ୍ୟୁକେଲ୍ ଆଣବିକ କକ୍ଷକ (HMO) ତତ୍ତ୍ୱ ଅନୁସାରେ, ଆଲିଲ୍ (allyl) ସିଷ୍ଟମ୍‌ର ଆଣବିକ କକ୍ଷକଗୁଡ଼ିକର ଶକ୍ତି ସ୍ତର (energy levels) କେଉଁଟି?",
+          "options": [
+            "α + √2β, α, α - √2β",
+            "α + 2β, α, α - 2β",
+            "α + β, α, α - β",
+            "α + √3β, α, α - √3β"
+          ],
+          "explanation": "N = 3 କାର୍ବନ୍ ପରମାଣୁ ବିଶିଷ୍ଟ ମୁକ୍ତ-ଶୃଙ୍ଖଳା ସଂଯୁଗ୍ମିତ ଆଲିଲ୍ ସିଷ୍ଟମ୍ ପାଇଁ, HMO ଶକ୍ତି ସ୍ତରଗୁଡ଼ିକ E_j = α + 2β cos(jπ / (N + 1)) ସୂତ୍ର (j = 1, 2, 3) ଦ୍ୱାରା ପ୍ରାପ୍ତ ହୁଏ। j = 1 ପାଇଁ E_1 = α + √2β, j = 2 ପାଇଁ E_2 = α, ଏବଂ j = 3 ପାଇଁ E_3 = α - √2β ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784779215430-0",
+      "section": "Child Development",
+      "topic": "Attachment Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to John Bowlby's theory of attachment development, during which stage does a child begin to display genuine separation anxiety and actively seek proximity with the primary caregiver?",
+      "options": [
+        "Preattachment phase",
+        "Attachment-in-the-making phase",
+        "Clear-cut attachment phase",
+        "Formation of a reciprocal relationship phase"
+      ],
+      "answer": 2,
+      "explanation": "During the clear-cut attachment phase (typically occurring between 6-8 months and 18-24 months), infants experience separation anxiety, exhibiting distress when their primary caregiver leaves and actively using the caregiver as a secure base.",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ବୋଲବିଙ୍କ (John Bowlby) ଆସକ୍ତି/ସଂଲଗ୍ନତା ବିକାଶ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଜଣେ ଶିଶୁ ପ୍ରକୃତ ପୃଥକୀକରଣ ଚିନ୍ତା (separation anxiety) ଦର୍ଶାଇବା ଆରମ୍ଭ କରେ ଏବଂ ପ୍ରାଥମିକ ଯତ୍ନନେଉଥିବା ବ୍ୟକ୍ତିଙ୍କ ନିକଟତର ହେବାକୁ ସକ୍ରିୟ ଚେଷ୍ଟା କରେ?",
+          "options": [
+            "ପ୍ରାକ୍-ସଂଲଗ୍ନତା ପର୍ଯ୍ୟାୟ (Preattachment phase)",
+            "ସଂଲଗ୍ନତା-ଗଠନ ପର୍ଯ୍ୟାୟ (Attachment-in-the-making phase)",
+            "ସ୍ପଷ୍ଟ ସଂଲଗ୍ନତା ପର୍ଯ୍ୟାୟ (Clear-cut attachment phase)",
+            "ପାରସ୍କରିକ ସମ୍ପର୍କ ଗଠନ ପର୍ଯ୍ୟାୟ (Formation of a reciprocal relationship phase)"
+          ],
+          "explanation": "ସ୍ପଷ୍ଟ ସଂଲଗ୍ନତା ପର୍ଯ୍ୟାୟରେ (ସାଧାରଣତଃ ୬-୮ ମାସରୁ ୧୮-୨୪ ମାସ ମଧ୍ୟରେ), ଶିଶୁମାନେ ପ୍ରାଥମିକ ଯତ୍ନନେଉଥିବା ବ୍ୟକ୍ତି ଦୂରକୁ ଗଲେ ପୃଥକୀକରଣ ଚିନ୍ତା (separation anxiety) ପ୍ରଦର୍ଶନ କରନ୍ତି ଏବଂ ତାଙ୍କୁ ଏକ ସୁରକ୍ଷିତ ଆଧାର ଭାବରେ ବ୍ୟବହାର କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784779215430-1",
+      "section": "Child Development",
+      "topic": "Motor Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Esther Thelen's Dynamic Systems Theory of motor development, how is the acquisition of a new motor skill, such as walking, best described?",
+      "options": [
+        "As a hardwired, genetically predetermined sequence dictated solely by neuromuscular maturation",
+        "As a self-organizing process arising from the dynamic interaction of multiple subsystem components, task demands, and environmental contexts",
+        "As a purely behaviorist process driven by environmental reinforcement and conditioned reflexes",
+        "As a top-down cognitive mapping process governed entirely by cortical mental representations"
+      ],
+      "answer": 1,
+      "explanation": "Esther Thelen's Dynamic Systems Theory posits that motor skills are not pre-programmed in the genes or driven solely by neurological maturation; rather, they are self-organizing processes assembled dynamically from the interaction of physical capabilities, environmental constraints, motivation, and perceptual support.",
+      "translations": {
+        "or": {
+          "question": "ଏସ୍ଥର ଥେଲେନ୍‌ଙ୍କ (Esther Thelen) ମୋଟର ବିକାଶର ଡାଇନାମିକ୍ ସିଷ୍ଟମ୍ସ ତତ୍ତ୍ୱ (Dynamic Systems Theory) ଅନୁଯାୟୀ, ଚାଲିବା ଭଳି ଏକ ନୂତନ ମୋଟର ଦକ୍ଷତା ହାସଲ କରିବାକୁ କିପରି ସର୍ବୋତ୍ତମ ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇପାରିବ?",
+          "options": [
+            "କେବଳ ସ୍ନାୟୁ-ମାଂସପେଶୀ ପରିପକ୍ୱତା ଦ୍ୱାରା ପରିଚାଳିତ ଏକ ଜେନେଟିକ୍ ଭାବରେ ନିର୍ଦ୍ଧାରିତ କ୍ରମ ଭାବରେ",
+            "ଏକ ସ୍ୱୟଂ-ସଂଗଠିତ ପ୍ରକ୍ରିୟା ଭାବରେ ଯାହା ଏକାଧିକ ଉପ-ପ୍ରଣାଳୀ ଉପାଦାନ, କାର୍ଯ୍ୟର ଆବଶ୍ୟକତା ଏବଂ ପରିବେଶଗତ ପ୍ରସଙ୍ଗର ଗତିଶୀଳ ମିଳିତ କ୍ରିୟାରୁ ସୃଷ୍ଟି ହୋଇଥାଏ",
+            "ପରିବେଶଗତ ପୁନର୍ବଳନ ଏବଂ ଶରୀରର ସଂସ୍କାର ଦ୍ୱାରା ପରିଚାଳିତ ଏକ ବିଶୁଦ୍ଧ ବ୍ୟବହାରବାଦୀ ପ୍ରକ୍ରିୟା ଭାବରେ",
+            "ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ମସ୍ତିଷ୍କର ମାନସିକ ପ୍ରତିନିଧିତ୍ୱ ଦ୍ୱାରା ଶାସିତ ଏକ ଉପରୁ-ତଳ (top-down) ଜ୍ଞାନାତ୍ମକ ମ୍ୟାପିଂ ପ୍ରକ୍ରିୟା ଭାବରେ"
+          ],
+          "explanation": "ଏସ୍ଥର ଥେଲେନ୍‌ଙ୍କ ଡାଇନାମିକ୍ ସିଷ୍ଟମ୍ସ ତତ୍ତ୍ୱ ମୋଟର ବିକାଶକୁ କେବଳ ଜେନେଟିକ୍ କିମ୍ବା ସ୍ନାୟବିକ ପରିପକ୍ୱତା ଭାବରେ ଦେଖେ ନାହିଁ; ବରଂ ଏହା ଶାରୀରିକ ଦକ୍ଷତା, ପରିବେଶଗତ ପ୍ରସଙ୍ଗ, ପ୍ରେରଣା ଏବଂ ସଂବେଦନଶୀଳ ସହାୟତାର ଗତିଶୀଳ ମିଳିତ କ୍ରିୟାରୁ ସୃଷ୍ଟି ହେଉଥିବା ଏକ ସ୍ୱୟଂ-ସଂଗଠିତ ପ୍ରକ୍ରିୟା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784779451890-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Article of the Constitution of India empowers the President to promulgate Ordinances during the recess of Parliament?",
+      "options": [
+        "Article 110",
+        "Article 123",
+        "Article 213",
+        "Article 143"
+      ],
+      "answer": 1,
+      "explanation": "Article 123 of the Indian Constitution gives the President the power to promulgate Ordinances when either of the two Houses of Parliament is not in session. Article 213 grants similar powers to State Governors.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଅନୁଚ୍ଛେଦ ରାଷ୍ଟ୍ରପତିଙ୍କୁ ସଂସଦର ମୁଲତବୀ କାଳରେ ଅଧ୍ୟାଦେଶ (Ordinance) ଜାରି କରିବାର କ୍ଷମତା ପ୍ରଦାନ କରେ?",
+          "options": [
+            "ଅନୁଚ୍ଛେଦ ୧୧୦",
+            "ଅନୁଚ୍ଛେଦ ୧୨୩",
+            "ଅନୁଚ୍ଛେଦ ୨୧୩",
+            "ଅନୁଚ୍ଛେଦ ୧୪୩"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଅନୁଚ୍ଛେଦ ୧୨୩ ରାଷ୍ଟ୍ରପତିଙ୍କୁ ସଂସଦର କୌଣସି ଗୃହ ଅଧିବେଶନରେ ନଥିବା ସମୟରେ ଅଧ୍ୟାଦେଶ ଜାରି କରିବାର ଶକ୍ତି ପ୍ରଦାନ କରେ। ଅନୁଚ୍ଛେଦ ୨୧୩ ରାଜ୍ୟପାଳଙ୍କୁ ସମାନ କ୍ଷମତା ଦେଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784779451890-1",
+      "section": "General Studies",
+      "topic": "Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which among the following historical events occurred FIRST in chronological order?",
+      "options": [
+        "Announcement of the Communal Award by Ramsay MacDonald",
+        "Foundation of the Congress Socialist Party (CSP)",
+        "Second Round Table Conference",
+        "Execution of Bhagat Singh, Sukhdev, and Rajguru"
+      ],
+      "answer": 3,
+      "explanation": "Bhagat Singh, Sukhdev, and Rajguru were executed on March 23, 1931. The Second Round Table Conference took place from September to December 1931. Ramsay MacDonald announced the Communal Award in August 1932, and the Congress Socialist Party was founded in 1934.",
+      "translations": {
+        "or": {
+          "question": "କାଳାନୁକ୍ରମିକ କ୍ରମରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଘଟଣାଟି ପ୍ରଥମେ ଘଟିଥିଲା?",
+          "options": [
+            "ରାମସେ ମ୍ୟାକଡୋନାଲ୍ଡଙ୍କ ଦ୍ୱାରା ସାମ୍ପ୍ରଦାୟିକ ପୁରସ୍କାର (Communal Award) ର ଘୋଷଣା",
+            "କଂଗ୍ରେସ ସୋସିଆଲିଷ୍ଟ ପାର୍ଟି (CSP) ର ପ୍ରତିଷ୍ଠା",
+            "ଦ୍ୱିତୀୟ ଗୋଲଟେବୁଲ ବୈଠକ",
+            "ଭଗତ ସିଂହ, ସୁଖଦେବ ଏବଂ ରାଜଗୁରୁଙ୍କ ଫାଶୀ"
+          ],
+          "explanation": "୨୩ ମାର୍ଚ୍ଚ ୧୯୩୧ ରେ ଭଗତ ସିଂହ, ସୁଖଦେବ ଏବଂ ରାଜଗୁରୁଙ୍କୁ ଫାଶୀ ଦିଆଯାଇଥିଲା। ଦ୍ୱିତୀୟ ଗୋଲଟେବୁଲ ବୈଠକ ସେପ୍ଟେମ୍ବର-ଡିସେମ୍ବର ୧୯୩୧ ରେ, ସାମ୍ପ୍ରଦାୟିକ ପୁରସ୍କାର ଅଗଷ୍ଟ ୧୯୩୨ ରେ ଏବଂ କଂଗ୍ରେସ ସୋସିଆଲିଷ୍ଟ ପାର୍ଟି ୧୯୩୪ ରେ ଗଠିତ ହୋଇଥିଲା। ତେଣୁ, ଫାଶୀ ଘଟଣାଟି ପ୍ରଥମେ ଘଟିଥିଲା।"
+        }
+      }
     }
   ]
 }

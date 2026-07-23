@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -4990,6 +4990,234 @@
             "କଖାରୁଆ ଦେବ"
           ],
           "explanation": "ଓଡ଼ିଶାର ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜବଂଶର ପ୍ରତିଷ୍ଠାତା ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୫-୧୪୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ପ୍ରସିଦ୍ଧ ସଂସ୍କୃତ ନାଟକ 'ପରଶୁରାମ ବିଜୟ' ରଚନା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778883589-0",
+      "section": "Arithmetic",
+      "topic": "Problems on Ages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The ratio of the present ages of a father and his son is 7 : 2. After 10 years, the ratio of their ages will become 9 : 4. What is the present age of the father (in years)?",
+      "options": [
+        "35",
+        "42",
+        "28",
+        "45"
+      ],
+      "answer": 0,
+      "explanation": "Let the present ages of the father and son be 7x and 2x respectively. After 10 years, (7x + 10) / (2x + 10) = 9 / 4. Solving this gives 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Therefore, the father's present age is 7 * 5 = 35 years.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବାପା ଏବଂ ତାଙ୍କ ପୁଅଙ୍କ ବର୍ତ୍ତମାନ ବୟସର ଅନୁପାତ 7 : 2। 10 ବର୍ଷ ପରେ, ସେମାନଙ୍କ ବୟସର ଅନୁପାତ 9 : 4 ହେବ। ବାପାଙ୍କ ବର୍ତ୍ତମାନ ବୟସ କେତେ (ବର୍ଷରେ)?",
+          "options": [
+            "35",
+            "42",
+            "28",
+            "45"
+          ],
+          "explanation": "ମନେକର ବାପା ଏବଂ ପୁଅଙ୍କ ବର୍ତ୍ତମାନ ବୟସ ଯଥାକ୍ରମେ 7x ଏବଂ 2x। 10 ବର୍ଷ ପରେ, (7x + 10) / (2x + 10) = 9 / 4। ଏହାକୁ ସମାଧାନ କଲେ 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5। ତେଣୁ, ବାପାଙ୍କ ବର୍ତ୍ତମାନ ବୟସ = 7 * 5 = 35 ବର୍ଷ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778883589-1",
+      "section": "Arithmetic",
+      "topic": "Boats and Streams",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A boat can travel 36 km downstream and 24 km upstream in 6 hours. It can also travel 48 km downstream and 40 km upstream in 9 hours. What is the speed of the boat in still water (in km/h)?",
+      "options": [
+        "8 km/h",
+        "10 km/h",
+        "12 km/h",
+        "14 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let downstream speed be d and upstream speed be u. From the problem: (36/d) + (24/u) = 6  => (6/d) + (4/u) = 1 -- (Eq 1), and (48/d) + (40/u) = 9 -- (Eq 2). Multiplying Eq 1 by 8 gives (48/d) + (32/u) = 8. Subtracting this from Eq 2 gives (8/u) = 1 => u = 8 km/h. Substituting u = 8 in Eq 1 gives (6/d) + (4/8) = 1 => 6/d = 0.5 => d = 12 km/h. Speed of boat in still water = (d + u) / 2 = (12 + 8) / 2 = 10 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଡଙ୍ଗା ସ୍ରୋତର ଅନୁକୂଳରେ 36 କିମି ଏବଂ ସ୍ରୋତର ପ୍ରତିକୂଳରେ 24 କିମି ଯିବାକୁ 6 ଘଣ୍ଟା ସମୟ ନିଏ। ଏହା ସ୍ରୋତର ଅନୁକୂଳରେ 48 କିମି ଏବଂ ସ୍ରୋତର ପ୍ରତିକୂଳରେ 40 କିମି ଯିବାକୁ 9 ଘଣ୍ଟା ସମୟ ନିଏ। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ କେତେ (କିମି/ଘଣ୍ଟାରେ)?",
+          "options": [
+            "8 କିମି/ଘଣ୍ଟା",
+            "10 କିମି/ଘଣ୍ଟା",
+            "12 କିମି/ଘଣ୍ଟା",
+            "14 କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକର ଅନୁକୂଳ ବେଗ d ଏବଂ ପ୍ରତିକୂଳ ବେଗ u। ପ୍ରଶ୍ନାନୁସାରେ: (36/d) + (24/u) = 6 => (6/d) + (4/u) = 1 -- (ସମୀକରଣ 1), ଏବଂ (48/d) + (40/u) = 9 -- (ସମୀକରଣ 2)। ସମୀକରଣ 1 କୁ 8 ଦ୍ୱାରା ଗୁଣନ କଲେ (48/d) + (32/u) = 8 ହୁଏ। ଏହାକୁ ସମୀକରଣ 2 ରୁ ବିଯୋଗ କଲେ (8/u) = 1 => u = 8 କିମି/ଘଣ୍ଟା। u = 8 କୁ ସମୀକରଣ 1 ରେ ରଖିଲେ 6/d = 0.5 => d = 12 କିମି/ଘଣ୍ଟା। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ = (d + u) / 2 = (12 + 8) / 2 = 10 କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778896303-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pointing to a photograph of a man, Rasmita said, \"He is the only son of the mother of my daughter's father.\" How is the man in the photograph related to Rasmita?",
+      "options": [
+        "Brother",
+        "Father",
+        "Husband",
+        "Brother-in-law"
+      ],
+      "answer": 2,
+      "explanation": "Rasmita's daughter's father is her husband. The mother of her husband is her mother-in-law. The only son of her mother-in-law is her husband. Thus, the man in the photograph is Rasmita's husband.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ପୁରୁଷଙ୍କ ଫଟୋଚିତ୍ର ଆଡ଼କୁ ଦେଖାଇ ରସ୍ମିତା କହିଲେ, \"ସେ ମୋ ଝିଅର ବାପାଙ୍କ ମା'ଙ୍କର ଏକମାତ୍ର ପୁଅ।\" ଫଟୋଚିତ୍ରରେ ଥିବା ପୁରୁଷଜଣକ ରସ୍ମିତାଙ୍କର କିପରି ସମ୍ପର୍କୀୟ?",
+          "options": [
+            "ଭାଇ",
+            "ବାପା",
+            "ସ୍ୱାମୀ",
+            "ଦେଶୁର / ଶାଳକ"
+          ],
+          "explanation": "ରସ୍ମିତାଙ୍କ ଝିଅର ବାପା ହେଉଛନ୍ତି ତାଙ୍କର ସ୍ୱାମୀ। ତାଙ୍କ ସ୍ୱାମୀଙ୍କ ମା' ହେଉଛନ୍ତି ତାଙ୍କ ଶାଶୂ। ଶାଶୂଙ୍କ ଏକମାତ୍ର ପୁଅ ହେଉଛନ୍ତି ତାଙ୍କ ସ୍ୱାମୀ। ତେଣୁ, ଫଟୋଚିତ୍ରରେ ଥିବା ପୁରୁଷଜଣକ ରସ୍ମିତାଙ୍କ ସ୍ୱାମୀ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778896303-1",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Find the next number in the given series: 5, 12, 27, 58, 121, ?",
+      "options": [
+        "246",
+        "248",
+        "250",
+        "252"
+      ],
+      "answer": 1,
+      "explanation": "The pattern followed is: (5 × 2) + 2 = 12; (12 × 2) + 3 = 27; (27 × 2) + 4 = 58; (58 × 2) + 5 = 121; (121 × 2) + 6 = 248. Hence, the missing number is 248.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ସଂଖ୍ୟା ଶ୍ରେଣୀରେ ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି କ’ଣ ହେବ: 5, 12, 27, 58, 121, ?",
+          "options": [
+            "246",
+            "248",
+            "250",
+            "252"
+          ],
+          "explanation": "ଏଠାରେ ଅନୁସରଣ କରାଯାଇଥିବା ସୂତ୍ରଟି ହେଉଛି: (5 × 2) + 2 = 12; (12 × 2) + 3 = 27; (27 × 2) + 4 = 58; (58 × 2) + 5 = 121; (121 × 2) + 6 = 248। ଏଣୁ, ପରବର୍ତ୍ତୀ ସଂଖ୍ୟାଟି ହେଉଛି 248।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778910907-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography & Environment",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was Bhitarkanika National Park designated as a Ramsar Site of International Importance?",
+      "options": [
+        "1998",
+        "2002",
+        "2005",
+        "2008"
+      ],
+      "answer": 1,
+      "explanation": "Bhitarkanika National Park, located in the Kendrapara district of Odisha, was designated as a Ramsar Site (Wetland of International Importance) on 19th August 2002.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭିତରକନିକା ଜାତୀୟ ଉଦ୍ୟାନକୁ କେଉଁ ବର୍ଷ ଅନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ 'ରାମସାର୍ ସାଇଟ୍' (Ramsar Site) ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୯୯୮",
+            "୨୦୦୨",
+            "୨୦୦୫",
+            "୨୦୦୮"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଭିତରକନିକା ଜାତୀୟ ଉଦ୍ୟାନକୁ ୧୯ ଅଗଷ୍ଟ ୨୦୦୨ ରେ ଏକ ରାମସାର୍ ସାଇଟ୍ ଭାବରେ ସ୍ୱୀକୃତି ଦିଆଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778910907-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Freedom Movement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "During the Prajamandal Movement in the princely state of Ranpur, which British Political Agent was killed by an agitated mob in January 1939?",
+      "options": [
+        "Major R.L. Bazalgette",
+        "Lieutenant Colonel E.F. O'Brien",
+        "Captain H.S. Ravenshaw",
+        "Sir John Austen Hubback"
+      ],
+      "answer": 0,
+      "explanation": "Major R.L. Bazalgette, the British Political Agent for the Odisha Feudatory States, was killed by an enraged crowd on January 5, 1939, during the Prajamandal agitation in Ranpur. Freedom fighters Raghu Mohanty and Dibakar Parida were subsequently sentenced to death for this incident.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରଣପୁର ଗଡ଼ଜାତରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ, ୧୯୩୯ ଜାନୁଆରୀରେ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା କେଉଁ ବ୍ରିଟିଶ୍ ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ନିହତ ହୋଇଥିଲେ?",
+          "options": [
+            "ମେଜର ଆର.ଏଲ. ବାଜେଲଗେଟ୍ (Major R.L. Bazalgette)",
+            "ଲେଫ୍ଟନାଣ୍ଟ କର୍ଣ୍ଣେଲ ଇ.ଏଫ. ଓ'ବ୍ରାଏନ୍ (Lieutenant Colonel E.F. O'Brien)",
+            "କ୍ୟାପଟେନ୍ ଏଚ.ଏସ. ରାଭେନ୍ସା (Captain H.S. Ravenshaw)",
+            "ସର ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍ (Sir John Austen Hubback)"
+          ],
+          "explanation": "୧୯୩୯ ଜାନୁଆରୀ ୫ ତାରିଖରେ ରଣପୁରଠାରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ଉତ୍ତ୍ୟକ୍ତ ଜନତା ଓଡ଼ିଶା ଗଡ଼ଜାତର ବ୍ରିଟିଶ୍ ପଲିଟିକାଲ୍ ଏଜେଣ୍ଟ ମେଜର ଆର.ଏଲ. ବାଜେଲଗେଟଙ୍କୁ ହତ୍ୟା କରିଥିଲେ। ଏହି ଘଟଣା ପାଇଁ ସଂଗ୍ରାମୀ ରଘୁ ମହାନ୍ତି ଓ ଦିବାକର ପରିଡ଼ାଙ୍କୁ ଫାଁସି ଦିଆଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778920299-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which lake in Odisha is the largest coastal lagoon in India and the second largest coastal lagoon in the world?",
+      "options": [
+        "Ansupa Lake",
+        "Chilika Lake",
+        "Sara Lake",
+        "Kanjia Lake"
+      ],
+      "answer": 1,
+      "explanation": "Chilika Lake is the largest coastal lagoon in India and the second largest in the world. It spans across Puri, Khordha, and Ganjam districts of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ହ୍ରଦ ଭାରତର ସବୁଠାରୁ ବଡ଼ ଉପକୂଳବର୍ତ୍ତୀ ଲଗୁନ୍ ଏବଂ ବିଶ୍ୱର ଦ୍ୱିତୀୟ ବୃହତ୍ତମ ଉପକୂଳବର୍ତ୍ତୀ ଲଗୁନ୍?",
+          "options": [
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ଚିଲିକା ହ୍ରଦ",
+            "ସାରା ହ୍ରଦ",
+            "କାଞ୍ଜିଆ ହ୍ରଦ"
+          ],
+          "explanation": "ଚିଲିକା ହ୍ରଦ ହେଉଛି ଭାରତର ସବୁଠାରୁ ବଡ଼ ଉପକୂଳବର୍ତ୍ତୀ ଲଗୁନ୍ ଏବଂ ବିଶ୍ୱର ଦ୍ୱିତୀୟ ବୃହତ୍ତମ ଲଗୁନ୍। ଏହା ଓଡ଼ିଶାର ପୁରୀ, ଖୋର୍ଦ୍ଧା ଏବଂ ଗଞ୍ଜାମ ଜିଲ୍ଲା ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତୃତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784778920299-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Freedom Movement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following freedom fighters from Odisha was executed by the British in Berhampur Jail on 29th March 1943 during the Quit India Movement?",
+      "options": [
+        "Lakshman Nayak",
+        "Baji Rout",
+        "Birsa Munda",
+        "Veer Surendra Sai"
+      ],
+      "answer": 0,
+      "explanation": "Shaheed Lakshman Nayak, a prominent tribal leader from Koraput district, led the Quit India Movement in southern Odisha and was hanged by the British in Berhampur Jail on March 29, 1943.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ୧୯୪୩ ମସିହା ମାର୍ଚ୍ଚ ୨୯ ତାରିଖରେ ବ୍ରିଟିଶ ସରକାରଙ୍କ ଦ୍ୱାରା ବ୍ରହ୍ମପୁର ଜେଲରେ ଓଡ଼ିଶାର କେଉଁ ସଂଗ୍ରାମୀଙ୍କୁ ଫାଶୀ ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ବାଜି ରାଉତ",
+            "ବିର୍ସା ମୁଣ୍ଡା",
+            "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ"
+          ],
+          "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାର ପ୍ରମୁଖ ଆଦିବାସୀ ନେତା ଶହୀଦ ଲକ୍ଷ୍ମଣ ନାୟକ ଦକ୍ଷିଣ ଓଡ଼ିଶାରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେଇଥିଲେ ଏବଂ ୧୯୪୩ ମାର୍ଚ୍ଚ ୨୯ ରେ ବ୍ରହ୍ମପୁର ଜେଲରେ ତାଙ୍କୁ ଫାଶୀ ଦିଆଯାଇଥିଲା।"
         }
       }
     }

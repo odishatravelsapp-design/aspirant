@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -4759,6 +4759,136 @@
       ],
       "answer": 1,
       "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank that commenced operations in January 2016. Its headquarters are located in Beijing, China.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784778712203-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The speed of a boat in still water is 15 km/h and the speed of the stream is 3 km/h. How much time (in hours) will it take the boat to travel 72 km downstream?",
+      "options": [
+        "3 hours",
+        "4 hours",
+        "5 hours",
+        "6 hours"
+      ],
+      "answer": 1,
+      "explanation": "Downstream speed = Speed of boat in still water + Speed of stream = 15 + 3 = 18 km/h. Time taken to travel downstream = Distance / Downstream speed = 72 / 18 = 4 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1784778712203-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Container A contains a mixture of milk and water in the ratio 7 : 5, and Container B contains a mixture of milk and water in the ratio 11 : 7. If 24 liters from Container A and 'x' liters from Container B are mixed together, the ratio of milk to water in the resulting mixture becomes 3 : 2. Find the value of 'x'.",
+      "options": [
+        "30",
+        "36",
+        "42",
+        "48"
+      ],
+      "answer": 1,
+      "explanation": "In 24 liters from Container A, Milk = (7/12) * 24 = 14 liters, Water = (5/12) * 24 = 10 liters. In 'x' liters from Container B, Milk = (11/18)x liters, Water = (7/18)x liters. Total Milk = 14 + (11x/18), Total Water = 10 + (7x/18). According to the question, (14 + 11x/18) / (10 + 7x/18) = 3 / 2. Cross-multiplying gives 2*(14 + 11x/18) = 3*(10 + 7x/18) => 28 + 22x/18 = 30 + 21x/18 => 22x/18 - 21x/18 = 30 - 28 => x/18 = 2 => x = 36."
+    },
+    {
+      "id": "ibps-clerk-ai-1784778720360-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'STORM' is written as 'TUPSN'. How is 'CLOUDS' written in that code language?",
+      "options": [
+        "DMQVET",
+        "DMPVET",
+        "ENPVFT",
+        "DMPWFU"
+      ],
+      "answer": 1,
+      "explanation": "Each letter in the word is shifted forward by +1 position in alphabetical order: S(+1)=T, T(+1)=U, O(+1)=P, R(+1)=S, M(+1)=N. Applying the same logic to 'CLOUDS': C(+1)=D, L(+1)=M, O(+1)=P, U(+1)=V, D(+1)=E, S(+1)=T. Hence, the coded word is 'DMPVET'."
+    },
+    {
+      "id": "ibps-clerk-ai-1784778720360-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, some statements are given followed by two conclusions numbered I and II. Read all the statements and decide which conclusion(s) logically follow(s).\n\nStatements:\n1. Only a few Pens are Pencils.\n2. All Pencils are Erasers.\n3. No Eraser is a Marker.\n\nConclusions:\nI. Some Pens can never be Markers.\nII. All Pens being Pencils is a possibility.",
+      "options": [
+        "Only Conclusion I follows",
+        "Only Conclusion II follows",
+        "Either Conclusion I or II follows",
+        "Neither Conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "From Statements 1 and 2, the portion of Pens that are Pencils are also Erasers. From Statement 3, No Eraser is a Marker, which implies that the Pens which are Erasers/Pencils can never be Markers. Thus, Conclusion I ('Some Pens can never be Markers') is definitely TRUE. Statement 1 ('Only a few Pens are Pencils') means 'Some Pens are Pencils' AND 'Some Pens are NOT Pencils'. Since 'Some Pens are NOT Pencils' is a definite fact, 'All Pens being Pencils' is impossible. Thus, Conclusion II is FALSE. Therefore, only Conclusion I follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1784778732892-0",
+      "section": "English",
+      "topic": "Idioms & Phrases",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following idioms best describes a person who remains exceptionally calm and composed, especially under stress?",
+      "options": [
+        "Cool as a cucumber",
+        "Bite the bullet",
+        "Spill the beans",
+        "Burn the midnight oil"
+      ],
+      "answer": 0,
+      "explanation": "'Cool as a cucumber' means remaining remarkably calm, relaxed, and untroubled by stress or nervousness."
+    },
+    {
+      "id": "ibps-clerk-ai-1784778732892-1",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following words is most nearly SIMILAR in meaning to 'Laconic' as used in a professional context?",
+      "options": [
+        "Verbose",
+        "Terse",
+        "Loquacious",
+        "Ambiguous"
+      ],
+      "answer": 1,
+      "explanation": "'Laconic' refers to using very few words to express something. 'Terse' is the closest synonym, meaning brief and concise."
+    },
+    {
+      "id": "ibps-clerk-ai-1784778748586-0",
+      "section": "General Awareness",
+      "topic": "Static GK - National Parks",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Keibul Lamjao National Park, the world's only floating national park, is located on which of the following lakes in India?",
+      "options": [
+        "Loktak Lake",
+        "Chilika Lake",
+        "Vembanad Lake",
+        "Kolleru Lake"
+      ],
+      "answer": 0,
+      "explanation": "Keibul Lamjao National Park is situated on Loktak Lake in Manipur, India. It is renowned as the world's only floating national park due to the presence of floating decomposed plant materials called 'phumdis'.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784778748586-1",
+      "section": "General Awareness",
+      "topic": "Banking Awareness - RBI Monetary Policy Instruments",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. What is the primary operational distinction of SDF compared to the traditional Reverse Repo facility?",
+      "options": [
+        "SDF requires commercial banks to provide collateral to the RBI",
+        "SDF allows the RBI to absorb liquidity from banks without offering collateral",
+        "SDF rate is always set higher than the Marginal Standing Facility (MSF) rate",
+        "SDF is exclusively available to Regional Rural Banks (RRBs)"
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption mechanism. Unlike the traditional Reverse Repo facility where the RBI provides government securities (G-Secs) as collateral to commercial banks, SDF allows the RBI to absorb surplus liquidity without pledging collateral.",
       "status": "pending"
     }
   ]

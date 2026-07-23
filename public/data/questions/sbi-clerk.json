@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -4496,6 +4496,136 @@
       ],
       "answer": 2,
       "explanation": "Under the RBI's Basel III capital regulations, scheduled commercial banks in India must maintain a Capital Conservation Buffer (CCB) of 2.5% in the form of Common Equity Tier 1 (CET1) capital, over and above the minimum CET1 requirement of 5.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784778762726-0",
+      "section": "Quant",
+      "topic": "Mixtures & Alligations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A mixture contains milk and water in the ratio 7 : 3. If 10 liters of water is added to the mixture, the ratio of milk to water becomes 7 : 5. What was the initial quantity of the mixture?",
+      "options": [
+        "40 liters",
+        "50 liters",
+        "60 liters",
+        "45 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial quantities of milk and water be 7x and 3x liters respectively. Total initial mixture = 10x. After adding 10 liters of water, the ratio is 7x / (3x + 10) = 7 / 5. Solving for x gives 5x = 3x + 10, so 2x = 10 and x = 5. Therefore, the initial quantity of the mixture = 10 * 5 = 50 liters."
+    },
+    {
+      "id": "sbi-clerk-ai-1784778762726-1",
+      "section": "Quant",
+      "topic": "Time & Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A can complete a piece of work in 20 days, B in 30 days, and C in 60 days. They all start working together, but A leaves 4 days before the completion of the work and B leaves 6 days before the completion of the work. C works until the project is finished. In how many days was the work completed?",
+      "options": [
+        "12 days",
+        "14 days",
+        "15 days",
+        "16 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total work = LCM(20, 30, 60) = 60 units. Efficiency of A = 3 units/day, B = 2 units/day, and C = 1 unit/day. Let total days taken be T. Work done by A = 3(T - 4), by B = 2(T - 6), and by C = 1(T). Sum of work: 3(T - 4) + 2(T - 6) + 1(T) = 60 => 6T - 24 = 60 => 6T = 84 => T = 14 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1784778784900-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the given conclusions logically follow(s).\n\nStatements:\nP ≥ Q = R > S ≤ T;\nU < R ≤ V\n\nConclusions:\nI. V > S\nII. P > U",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements:\n1. For Conclusion I (V > S): From statements, V ≥ R and R > S. Thus, V > S is definitely true.\n2. For Conclusion II (P > U): From statements, P ≥ R and R > U. Thus, P > U is definitely true.\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1784778784900-1",
+      "section": "Reasoning",
+      "topic": "Designation Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons—P, Q, R, S, T, U, and V—hold seven different designations in an organization: Managing Director (MD), Executive Director (ED), Chief General Manager (CGM), General Manager (GM), Deputy General Manager (DGM), Manager, and Assistant Manager (AM). The hierarchy is MD > ED > CGM > GM > DGM > Manager > AM (where MD is the senior-most and AM is the junior-most).\n\n• T is senior to GM but junior to ED.\n• Exactly two persons are designated between T and R.\n• S is junior to R.\n• As many persons are senior to S as junior to U.\n• Q is senior to P but junior to V.\n\nWho among the following is designated as General Manager (GM)?",
+      "options": [
+        "P",
+        "Q",
+        "V",
+        "U"
+      ],
+      "answer": 1,
+      "explanation": "Hierarchy from senior to junior (1 to 7):\n1. MD, 2. ED, 3. CGM, 4. GM, 5. DGM, 6. Manager, 7. AM\n\n1. T is senior to GM (4) but junior to ED (2) => T is CGM (3).\n2. Exactly two persons are between T (3) and R => R must be Manager (6).\n3. S is junior to R => S is AM (7).\n4. Senior to S (7) = 6 persons. Junior to U must be 6 persons => U is MD (1).\n5. Remaining positions for V, Q, P are ED (2), GM (4), DGM (5). Since V > Q > P => V is ED (2), Q is GM (4), P is DGM (5).\n\nFinal Arrangement:\n1. MD: U\n2. ED: V\n3. CGM: T\n4. GM: Q\n5. DGM: P\n6. Manager: R\n7. AM: S\n\nTherefore, Q is designated as General Manager (GM)."
+    },
+    {
+      "id": "sbi-clerk-ai-1784778794083-0",
+      "section": "English",
+      "topic": "Vocabulary / Fillers",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Choose the most appropriate word to fill in the blank: The government's new policy aims to ________ the economic impact of the recent natural disaster by providing immediate financial assistance to affected families.",
+      "options": [
+        "mitigate",
+        "aggravate",
+        "perpetuate",
+        "fabricate"
+      ],
+      "answer": 0,
+      "explanation": "'Mitigate' means to make something less severe, harmful, or painful, which fits the context of easing the economic impact of a disaster. 'Aggravate' means to make worse, 'perpetuate' means to prolong, and 'fabricate' means to invent or construct falsely."
+    },
+    {
+      "id": "sbi-clerk-ai-1784778794083-1",
+      "section": "English",
+      "topic": "Grammar / Correlative Conjunctions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Complete the following sentence using the grammatically correct option: ________ had the company released its quarterly earnings report than its stock price surged by fifteen percent.",
+      "options": [
+        "Scarcely",
+        "Barely",
+        "No sooner",
+        "Hardly"
+      ],
+      "answer": 2,
+      "explanation": "'No sooner' is always paired with the conjunction 'than' in standard sentence structure and inversion (No sooner had... than...). In contrast, 'scarcely', 'barely', and 'hardly' are paired with 'when' or 'before'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784778806009-0",
+      "section": "General Awareness",
+      "topic": "International Organizations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Where is the headquarters of the Asian Development Bank (ADB) located?",
+      "options": [
+        "Mandaluyong, Philippines",
+        "Geneva, Switzerland",
+        "Vienna, Austria",
+        "Jakarta, Indonesia"
+      ],
+      "answer": 0,
+      "explanation": "The Asian Development Bank (ADB), established in 1966, is headquartered in Mandaluyong, Metro Manila, Philippines.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784778806009-1",
+      "section": "General Awareness",
+      "topic": "Banking & Financial Awareness",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS), what is the maximum amount of compensation the Ombudsman can award specifically for harassment and mental agony?",
+      "options": [
+        "₹1 Lakh",
+        "₹2 Lakh",
+        "₹5 Lakh",
+        "₹10 Lakh"
+      ],
+      "answer": 0,
+      "explanation": "Under Clause 15(2) of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman may award compensation not exceeding ₹1 Lakh to the complainant for loss of time, expenses incurred, harassment, and mental agony.",
       "status": "pending"
     }
   ]

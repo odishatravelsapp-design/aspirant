@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -6514,6 +6514,234 @@
       ],
       "answer": 2,
       "explanation": "During adolescence (approx. ages 12–18), individuals experience Stage 5 of Erikson's model: Identity vs. Role Confusion, where they explore values, beliefs, and goals to build a coherent sense of self."
+    },
+    {
+      "id": "odisha-ssb-ai-1784778936037-0",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Poetry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Samuel Taylor Coleridge's poem 'The Rime of the Ancient Mariner', which bird is slain by the Mariner with a crossbow?",
+      "options": [
+        "An Albatross",
+        "A Raven",
+        "A Pelican",
+        "A Falcon"
+      ],
+      "answer": 0,
+      "explanation": "In Coleridge's 'The Rime of the Ancient Mariner', the Mariner impulsively shoots the Albatross with a crossbow, which brings a terrible curse upon his ship and fellow sailors.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସାମୁଏଲ ଟେଲର କୋଲରିଜ୍‌ଙ୍କ କବିତା 'ଦି ରାଇମ୍ ଅଫ୍ ଦି ଆନ୍ସିଏଣ୍ଟ ମାରିନର୍' (The Rime of the Ancient Mariner) ରେ, ନାବିକ (Mariner) କେଉଁ ପକ୍ଷୀଟିକୁ ଧନୁ-ଶର (crossbow) ଦ୍ୱାରା ହତ୍ୟା କରିଥିଲେ?",
+          "options": [
+            "ଆଲବାଟ୍ରୋସ୍ (An Albatross)",
+            "ରାଭେନ୍ (A Raven)",
+            "ପେଲିକାନ୍ (A Pelican)",
+            "ବାଜପକ୍ଷୀ (A Falcon)"
+          ],
+          "explanation": "କୋଲରିଜ୍‌ଙ୍କ 'ଦି ରାଇମ୍ ଅଫ୍ ଦି ଆନ୍ସିଏଣ୍ଟ ମାରିନର୍' ରେ, ନାବିକଜଣକ ଏକ ଆଲବାଟ୍ରୋସ୍ ପକ୍ଷୀକୁ ଧନୁ-ଶର ଦ୍ୱାରା ଶିକାର କରିଥିଲେ, ଯାହା ଫଳରେ ଜାହାଜ ଏବଂ ଏହାର କର୍ମଚାରୀମାନଙ୍କ ଉପରେ ଅଭିଶାପ ଆସିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778936037-1",
+      "section": "Subject Knowledge",
+      "topic": "Feminist Literary Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In her seminal 1979 essay 'Toward a Feminist Poetics', Elaine Showalter coined which term to refer to a critical approach that focuses specifically on women as writers and the history of female literary production?",
+      "options": [
+        "Écriture féminine",
+        "Gynocriticism",
+        "Gender performativity",
+        "Phallogocentrism"
+      ],
+      "answer": 1,
+      "explanation": "Elaine Showalter introduced the term 'Gynocriticism' (or gynocritics) to define the study of women as writers—examining female literary history, themes, genres, and structures, as opposed to analyzing female characters written by men ('feminist critique').",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏଲେନ୍ ସୋୱାଲଟର୍ (Elaine Showalter) ତାଙ୍କର ପ୍ରସିଦ୍ଧ ୧୯୭୯ ପ୍ରବନ୍ଧ 'ଟୁୱାର୍ଡସ୍ ଏ ଫେମିନିଷ୍ଟ ପୋଏଟିକ୍ସ' (Toward a Feminist Poetics) ରେ, ବିଶେଷ ଭାବରେ ମହିଳା ଲେଖିକା ଏବଂ ନାରୀ ସାହିତ୍ୟର ଐତିହାସିକ ବିଶ୍ଳେଷଣ ଉପରେ ଧ୍ୟାନ କେନ୍ଦ୍ରୀଭୂତ କରୁଥିବା ନାରୀବାଦୀ ସମାଲୋଚନା ପାଇଁ କେଉଁ ଶବ୍ଦଟି ପ୍ରବର୍ତ୍ତନ କରିଛନ୍ତି?",
+          "options": [
+            "ଏକ୍ରିଚର ଫେମିନିନ୍ (Écriture féminine)",
+            "ଗାଇନୋକ୍ରିଟିସିଜମ୍ (Gynocriticism)",
+            "ଜେଣ୍ଡର ପରଫର୍ମାଟିଭିଟି (Gender performativity)",
+            "ଫାଲୋଗୋସେଣ୍ଟ୍ରିସିଜମ୍ (Phallogocentrism)"
+          ],
+          "explanation": "ଏଲେନ୍ ସୋୱାଲଟର୍ 'ଟୁୱାର୍ଡସ୍ ଏ ଫେମିନିଷ୍ଟ ପୋଏଟିକ୍ସ' (୧୯୭୯) ରେ 'ଗାଇନୋକ୍ରିଟିସିଜମ୍' (Gynocriticism) ଶବ୍ଦଟିର ସୃଷ୍ଟି କରିଥିଲେ, ଯାହା ମହିଳାମାନଙ୍କୁ ଲେଖକ ଭାବରେ ଅଧ୍ୟୟନ କରିବା (ସେମାନଙ୍କ ଇତିହାସ, ଶୈଳୀ, ବିଷୟବସ୍ତୁ ଏବଂ ସଂରଚନା) କୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778947757-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the standard 36-minute Microteaching Cycle developed by NCERT, what is the duration allotted for the 'Re-planning' phase?",
+      "options": [
+        "6 minutes",
+        "10 minutes",
+        "12 minutes",
+        "15 minutes"
+      ],
+      "answer": 2,
+      "explanation": "The standard NCERT Microteaching cycle lasts 36 minutes in total: Teaching (6 min), Feedback (6 min), Re-planning (12 min), Re-teaching (6 min), and Re-feedback (6 min).",
+      "translations": {
+        "or": {
+          "question": "NCERT ଦ୍ୱାରା ବିକଶିତ ୩୬-ମିନିଟ୍ ବିଶିଷ୍ଟ ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ) ଚକ୍ରରେ 'ପୁନଃ-ଯୋଜନା' (Re-planning) ପର୍ଯ୍ୟାୟ ପାଇଁ କେତେ ସମୟ ଆବଣ୍ଟିତ ହୋଇଥାଏ?",
+          "options": [
+            "୬ ମିନିଟ୍",
+            "୧୦ ମିନିଟ୍",
+            "୧୨ ମିନିଟ୍",
+            "୧୫ ମିନିଟ୍"
+          ],
+          "explanation": "NCERT ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ରର ମୋଟ ଅବଧି ୩୬ ମିନିଟ୍: ଶିକ୍ଷଣ (୬ ମିନିଟ୍), ପ୍ରତିପୁଷ୍ଟି (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷଣ (୬ ମିନିଟ୍), ଏବଂ ପୁନଃ-ପ୍ରତିପୁଷ୍ଟି (୬ ମିନିଟ୍)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778947757-1",
+      "section": "Teaching Aptitude",
+      "topic": "Taxonomy of Educational Objectives",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Krathwohl's affective domain taxonomy of educational objectives, which of the following represents the correct hierarchical order from the lowest to the highest level of internalization?",
+      "options": [
+        "Receiving -> Responding -> Valuing -> Organization -> Characterization",
+        "Responding -> Receiving -> Valuing -> Characterization -> Organization",
+        "Receiving -> Valuing -> Responding -> Organization -> Characterization",
+        "Responding -> Receiving -> Organization -> Valuing -> Characterization"
+      ],
+      "answer": 0,
+      "explanation": "Krathwohl's taxonomy of the affective domain arranges objectives in five hierarchical levels based on degree of internalization: Receiving (lowest), Responding, Valuing, Organization, and Characterization by a value complex (highest).",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କ୍ରାଥୱୋଲଙ୍କ ଶିକ୍ଷାଗତ ଉଦ୍ଦେଶ୍ୟର ଭାବାତ୍ମକ କ୍ଷେତ୍ର (Affective Domain) ବର୍ଗୀକରଣରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ସବୁଠାରୁ ନିମ୍ନରୁ ସର୍ବୋଚ୍ଚ ସ୍ତରର ସଠିକ୍ କ୍ରମକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ଗ୍ରହଣ କରିବା (Receiving) -> ପ୍ରତିକ୍ରିୟା ଦେବା (Responding) -> ମୂଲ୍ୟାଙ୍କନ କରିବା (Valuing) -> ସଂଗଠନ (Organization) -> ଚରିତ୍ରଗତ କରିବା (Characterization)",
+            "ପ୍ରତିକ୍ରିୟା ଦେବା (Responding) -> ଗ୍ରହଣ କରିବା (Receiving) -> ମୂଲ୍ୟାଙ୍କନ କରିବା (Valuing) -> ଚରିତ୍ରଗତ କରିବା (Characterization) -> ସଂଗଠନ (Organization)",
+            "ଗ୍ରହଣ କରିବା (Receiving) -> ମୂଲ୍ୟାଙ୍କନ କରିବା (Valuing) -> ପ୍ରତିକ୍ରିୟା ଦେବା (Responding) -> ସଂଗଠନ (Organization) -> ଚରିତ୍ରଗତ କରିବା (Characterization)",
+            "ପ୍ରତିକ୍ରିୟା ଦେବା (Responding) -> ଗ୍ରହଣ କରିବା (Receiving) -> ସଂଗଠନ (Organization) -> ମୂଲ୍ୟାଙ୍କନ କରିବା (Valuing) -> ଚରିତ୍ରଗତ କରିବା (Characterization)"
+          ],
+          "explanation": "କ୍ରାଥୱୋଲଙ୍କ ଭାବାତ୍ମକ କ୍ଷେତ୍ରର କ୍ରମ ହେଉଛି: ଗ୍ରହଣ କରିବା (Receiving) -> ପ୍ରତିକ୍ରିୟା ଦେବା (Responding) -> ମୂଲ୍ୟାଙ୍କନ କରିବା (Valuing) -> ସଂଗଠନ (Organization) -> ଚରିତ୍ରଗତ କରିବା (Characterization)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778960657-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The catastrophic 'Na'Anka Durbhiksha' (great famine of Odisha) occurred in which year during British rule?",
+      "options": [
+        "1857",
+        "1866",
+        "1876",
+        "1888"
+      ],
+      "answer": 1,
+      "explanation": "The Na'Anka Durbhiksha occurred in 1866 during the 9th regnal year (Na'Anka) of Gajapati Divyasingha Deva. It was a severe famine in Odisha that wiped out about one-third of the region's population.",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରିଟିଶ୍ ଶାସନ ସମୟରେ ଓଡ଼ିଶାର ଭୟଙ୍କର 'ନ'ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' କେଉଁ ମସିହାରେ ହୋଇଥିଲା?",
+          "options": [
+            "୧୮୫୭",
+            "୧୮୬୬",
+            "୧୮୭୬",
+            "୧୮୮୮"
+          ],
+          "explanation": "ନ'ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ୧୮୬୬ ମସିହାରେ ଗଜପତି ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ୯ମ ଅଙ୍କ (ରାଜତ୍ୱ ବର୍ଷ) ସମୟରେ ଘଟିଥିଲା । ଏହା ଓଡ଼ିଶାର ଏକ ଅତ୍ୟନ୍ତ ବିନାଶକାରୀ ଦୁର୍ଭିକ୍ଷ ଥିଲା, ଯାହା ଓଡ଼ିଶାର ଜନସଂଖ୍ୟାର ପ୍ରାୟ ଏକ ତୃତୀୟାଂଶ ଲୋକଙ୍କ ଜୀବନ ନେଇଥିଲା ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778960657-1",
+      "section": "General Studies",
+      "topic": "Odia Culture & Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous epic poem 'Baidehisa Vilasa', in which every single line begins with the Odia letter 'Ba' (ବ), was authored by which celebrated Odia poet?",
+      "options": [
+        "Sarala Das",
+        "Upendra Bhanja",
+        "Abhimanyu Samantasimhara",
+        "Dinakrushna Das"
+      ],
+      "answer": 1,
+      "explanation": "'Baidehisa Vilasa' is a masterwork of Odia literature composed by Kabi Samrat Upendra Bhanja. It adheres to a strict lipogrammatic rule where every line starts with the consonant 'Ba' (ବ).",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରତ୍ୟେକ ଧାଡ଼ି 'ବ' ଅକ୍ଷରରୁ ଆରମ୍ଭ ହୋଇଥିବା ପ୍ରସିଦ୍ଧ କାବ୍ୟ 'ବୈଦେହୀଶ ବିଳାସ' କେଉଁ ବିଶିଷ୍ଟ ଓଡ଼ିଆ କବିଙ୍କ ଦ୍ୱାରା ରଚିତ?",
+          "options": [
+            "ସାରଳା ଦାସ",
+            "ଉପେନ୍ଦ୍ର ଭଞ୍ଜ",
+            "ଅଭିମନ୍ୟୁ ସାମନ୍ତସିଂହାର",
+            "ଦୀନକୃଷ୍ଣ ଦାସ"
+          ],
+          "explanation": "'ବୈଦେହୀଶ ବିଳାସ' କବିସମ୍ରାଟ ଉପେନ୍ଦ୍ର ଭଞ୍ଜଙ୍କ ଦ୍ୱାରା ରଚିତ ଏକ କାବ୍ୟ । ଏହାର ପ୍ରତ୍ୟେକ ପଦର ପ୍ରତ୍ୟେକ ଧାଡ଼ି 'ବ' ଅକ୍ଷରରୁ ଆରମ୍ଭ ହୋଇଥାଏ ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778975569-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Temple Architecture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Ananta Vasudeva Temple in Bhubaneswar, the only major Vaishnavite temple in the city, was constructed in 1278 AD by which of the following Ganga princesses?",
+      "options": [
+        "Chandrika Devi",
+        "Kasturakamodini",
+        "Vasata",
+        "Chandralekha"
+      ],
+      "answer": 0,
+      "explanation": "The Ananta Vasudeva Temple was built in 1278 AD by Princess Chandrika Devi, the daughter of Eastern Ganga ruler Anangabhima Deva III, during the reign of King Bhanudeva I.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର, ଯାହା ଏହି ସହରର ଏକମାତ୍ର ପ୍ରମୁଖ ଵୈଷ୍ଣବ ମନ୍ଦିର ଅଟେ, ୧୨୭୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ନିମ୍ନଲିଖିତ କେଉଁ ଗଙ୍ଗ ବଂଶର ରାଜକୁମାରୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଚନ୍ଦ୍ରିକା ଦେବୀ",
+            "କସ୍ତୁରୀକାମୋଦିନୀ",
+            "ବାସଟା",
+            "ଚନ୍ଦ୍ରଲେଖା"
+          ],
+          "explanation": "ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର ୧୨୭୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ପୂର୍ବ ଗଙ୍ଗବଂଶର ରାଜା ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟଙ୍କ କନ୍ୟା ଚନ୍ଦ୍ରିକା ଦେବୀଙ୍କ ଦ୍ୱାରା ଭାନୁଦେବ ପ୍ରଥମଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784778975569-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The majestic Duduma Waterfall, located in the Koraput district of Odisha, is formed by which of the following rivers?",
+      "options": [
+        "Nagavali",
+        "Vamsadhara",
+        "Machhkund",
+        "Indravati"
+      ],
+      "answer": 2,
+      "explanation": "The Duduma Waterfall is formed by the Machhkund River. It drops from a height of approximately 157.5 metres (517 feet) and is a vital site for the Machhkund Hydroelectric Project. It is also historically known as 'Matsya Tirtha'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ପ୍ରସିଦ୍ଧ 'ଦୁଦୁମା' ଜଳପ୍ରପାତ ନିମ୍ନଲିଖିତ କେଉଁ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି?",
+          "options": [
+            "ନାଗାବଳୀ",
+            "ବଂଶଧାରା",
+            "ମାଛକୁଣ୍ଡ",
+            "ଇନ୍ଦ୍ରାବତୀ"
+          ],
+          "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି। ଏହା ପ୍ରାୟ ୧୫୭.୫ ମିଟର (୫୧୭ ଫୁଟ) ଉଚ୍ଚତାରୁ ପଡ଼ିଥାଏ ଏବଂ ଏହାକୁ ପାରମ୍ପରିକ ଭାବରେ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ବୋଲି ମଧ୍ୟ କୁହାଯାଏ।"
+        }
+      }
     }
   ]
 }

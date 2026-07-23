@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -4284,6 +4284,136 @@
       ],
       "answer": 1,
       "explanation": "NABARD was established on July 12, 1982, on the recommendation of the B. Sivaraman Committee (CRAFICARD - Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784778824650-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A square is inscribed in a circle of radius 7√2 cm. What is the area of the region inside the circle but outside the square? (Take π = 22/7)",
+      "options": [
+        "112 sq. cm",
+        "124 sq. cm",
+        "108 sq. cm",
+        "116 sq. cm"
+      ],
+      "answer": 0,
+      "explanation": "Radius of circle (r) = 7√2 cm. Area of circle = π * r^2 = (22/7) * (7√2)^2 = (22/7) * 98 = 308 sq. cm. The diagonal of the inscribed square equals the diameter of the circle = 2 * 7√2 = 14√2 cm. Area of inscribed square = (diagonal^2) / 2 = (14√2)^2 / 2 = 392 / 2 = 196 sq. cm. Required area = Area of circle - Area of square = 308 - 196 = 112 sq. cm."
+    },
+    {
+      "id": "ibps-po-ai-1784778824650-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a task individually in 20 days, 30 days, and 60 days respectively. They start working together to complete the task. However, B leaves 3 days before the completion of the task, and A leaves 2 days before the completion of the task. If C works without any break from start to finish, and the total wages paid for completing the task are Rs. 18,000, what is the share of C in the total wages?",
+      "options": [
+        "Rs. 3,600",
+        "Rs. 5,400",
+        "Rs. 9,000",
+        "Rs. 4,200"
+      ],
+      "answer": 0,
+      "explanation": "Let total work = LCM(20, 30, 60) = 60 units. Efficiency of A = 3 units/day, B = 2 units/day, C = 1 unit/day. Let total days taken be T. A works for (T - 2) days, B works for (T - 3) days, C works for T days. Total work = 3(T - 2) + 2(T - 3) + 1(T) = 60 => 6T - 12 = 60 => 6T = 72 => T = 12 days. Work done by C = 12 * 1 = 12 units out of 60. Share of C = (12 / 60) * 18,000 = Rs. 3,600."
+    },
+    {
+      "id": "ibps-po-ai-1784778844224-0",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the centre. A sits third to the left of B. Two persons sit between B and C. D sits second to the left of C. E is an immediate neighbour of neither A nor B. F sits to the immediate left of G. H sits second to the right of E. Who sits third to the right of H?",
+      "options": [
+        "F",
+        "G",
+        "D",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Let the positions clockwise from 1 to 8 facing the centre be:\n- Place B at 1. Facing centre, left is clockwise.\n- A sits 3rd to the left of B -> A is at position 4.\n- Two persons sit between B and C -> C must be at position 6 (since position 4 is occupied by A).\n- D sits 2nd to the left of C -> D is at position 8.\n- E is not a neighbour of A (3, 5) or B (2, 8) -> E must be at position 7.\n- F sits to the immediate left of G -> G must be at 2 and F at 3.\n- H sits 2nd to the right of E (7 -> 6 -> 5) -> H is at position 5.\nSo the order clockwise (1 to 8) is: B, G, F, A, H, C, E, D.\nTo find who sits 3rd to the right of H (position 5): moving counter-clockwise (right), 1st to right is A (4), 2nd is F (3), 3rd is G (2). Hence, G is the correct answer."
+    },
+    {
+      "id": "ibps-po-ai-1784778844224-1",
+      "section": "Reasoning",
+      "topic": "Floor and Flat Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Eight persons - P, Q, R, S, T, U, V, and W - live in a 4-storey building where the ground floor is numbered 1 and the topmost floor is numbered 4. Each floor has two flats: Flat A and Flat B. Flat A is to the west of Flat B. P lives on an even-numbered floor. P and S live in the same flat type, but S lives two floors above P. Only one floor is between S and R, but they live in different flat types. V lives immediately below R in the same flat type. T lives to the east of U on an odd-numbered floor. W lives on a floor above Q, but not in the same flat type as Q. Q lives in Flat A. Who lives in Flat B of Floor 2?",
+      "options": [
+        "P",
+        "R",
+        "V",
+        "T"
+      ],
+      "answer": 1,
+      "explanation": "1. P lives on an even floor (Floor 2). S lives two floors above P (Floor 4) in the same flat type.\n2. Since Q lives in Flat A, let's test P and S in Flat A: P is at Floor 2 Flat A (2-A), S is at Floor 4 Flat A (4-A).\n3. One floor is between S and R, different flat types -> R is at Floor 2 Flat B (2-B).\n4. V lives immediately below R in the same flat type -> V is at Floor 1 Flat B (1-B).\n5. T lives to the east of U on an odd floor -> Floor 3 has Flat A = U and Flat B = T.\n6. Q lives in Flat A, so Q is at Floor 1 Flat A (1-A). W is above Q in a different flat type -> W is at Floor 4 Flat B (4-B).\nAll positions are consistently filled:\n- Floor 4: 4-A = S, 4-B = W\n- Floor 3: 3-A = U, 3-B = T\n- Floor 2: 2-A = P, 2-B = R\n- Floor 1: 1-A = Q, 1-B = V\nTherefore, R lives in Flat B of Floor 2."
+    },
+    {
+      "id": "ibps-po-ai-1784778854030-0",
+      "section": "English",
+      "topic": "Vocabulary - Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that appropriately fits in the blanks to make the sentence contextually and grammatically correct:\n\n'The manager was forced to __________ his previous statement after new evidence emerged that __________ contradicted his initial claims.'",
+      "options": [
+        "retract, unequivocally",
+        "assert, subtly",
+        "reiterate, partially",
+        "promulgate, vaguely"
+      ],
+      "answer": 0,
+      "explanation": "To 'retract' means to formally withdraw a statement or promise, which fits the context of being forced to take back a statement after contradictory evidence emerges. 'Unequivocally' means in a way that leaves no doubt, which appropriately describes clear and direct contradiction."
+    },
+    {
+      "id": "ibps-po-ai-1784778854030-1",
+      "section": "English",
+      "topic": "Sentence Improvement - Parallelism & Inversion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the option that best improves the underlined part of the sentence:\n\n'Not only had the board of directors rejected the proposal, but also they censured the chief executive for failing to disclose potential financial risks prior to the merger.'",
+      "options": [
+        "Not only the board of directors rejected the proposal, but also they censured",
+        "Not only did the board of directors reject the proposal, but they also censured",
+        "Neither had the board of directors rejected the proposal, but also censuring",
+        "Not only was the board of directors rejecting the proposal, but also censured"
+      ],
+      "answer": 1,
+      "explanation": "When 'Not only' is placed at the beginning of a sentence, subject-verb inversion is required (auxiliary verb before the subject: 'did the board... reject'). Additionally, maintaining parallel tense structure in both clauses using the simple past tense ('did reject' and 'censured') makes Option B the grammatically correct choice."
+    },
+    {
+      "id": "ibps-po-ai-1784778865178-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Capital Requirements",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines for 'on tap' licensing of Universal Banks in the private sector, what is the minimum initial paid-up voting equity capital required?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 3,
+      "explanation": "According to the RBI's 'on tap' licensing guidelines for Universal Banks in the private sector, the minimum initial paid-up voting equity capital required is ₹500 crore. (For Small Finance Banks, the revised requirement is ₹200 crore).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784778865178-1",
+      "section": "General Awareness",
+      "topic": "Government Investment Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme issued by the Reserve Bank of India on behalf of the Government of India, what is the maximum limit of subscription per fiscal year for Trusts and similar entities?",
+      "options": [
+        "4 kg",
+        "10 kg",
+        "20 kg",
+        "50 kg"
+      ],
+      "answer": 2,
+      "explanation": "Under the Sovereign Gold Bond (SGB) scheme, the maximum limit of subscription per fiscal year is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUF), and 20 kg for trusts and similar entities notified by the government.",
       "status": "pending"
     }
   ]
