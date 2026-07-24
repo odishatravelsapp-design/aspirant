@@ -1,254 +1,254 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "items": [
     {
-      "id": "ca-1784780443604-0",
-      "category": "Banking",
-      "title": "YES BANK partners with IOA as official retail banking partner for Team India 2026",
-      "summary": "YES BANK has entered into a partnership with the Indian Olympic Association (IOA) to serve as the official retail banking partner for Team India in 2026.",
-      "source": "Adgully.com",
+      "id": "ca-1784867078668-0",
+      "category": "National",
+      "title": "PM Announces Fast Track Courts for Paper Leak Cases",
+      "summary": "Prime Minister announced the establishment of fast-track courts to specifically handle paper leak cases amid ongoing student protests.",
+      "source": "Live Law",
       "translations": {
         "or": {
-          "title": "2026 ଟିମ୍ ଇଣ୍ଡିଆ ପାଇଁ ଅଫିସିଆଲ୍ ରିଟେଲ୍ ବ୍ୟାଙ୍କିଂ ପାର୍ଟନର ଭାବେ YES BANK ର ଚୁକ୍ତି",
-          "summary": "2026 ଟିମ୍ ଇଣ୍ଡିଆ ପାଇଁ ଅଫିସିଆଲ୍ ରିଟେଲ୍ ବ୍ୟାଙ୍କିଂ ପାର୍ଟନର ଭାବରେ ୟେସ୍ ବ୍ୟାଙ୍କ (YES BANK) ଭାରତୀୟ ଅଲମ୍ପିକ ସଂଘ (IOA) ସହିତ ସାଝେଦାରୀ କରିଛି।"
+          "title": "ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ମାମଲା ପାଇଁ ଫାଷ୍ଟ ଟ୍ରାକ୍ କୋର୍ଟ ପ୍ରତିଷ୍ଠା ଘୋଷଣା କଲେ ପ୍ରଧାନମନ୍ତ୍ରୀ",
+          "summary": "ଛାତ୍ର ଆନ୍ଦୋଳନ ମଧ୍ୟରେ ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ମାମଲାର ଶୀଘ୍ର ବିଚାର ପାଇଁ ଫାଷ୍ଟ ଟ୍ରାକ୍ କୋର୍ଟ ପ୍ରତିଷ୍ଠା କରାଯିବ ବୋଲି ପ୍ରଧାନମନ୍ତ୍ରୀ ଘୋଷଣା କରିଛନ୍ତି।"
         }
       }
     },
     {
-      "id": "ca-1784780443604-1",
+      "id": "ca-1784867078668-1",
+      "category": "International",
+      "title": "US Imposes 10% Tariffs on Goods Imported from India",
+      "summary": "The United States has slapped a 10% tariff on goods imported from India citing concerns related to forced labour.",
+      "source": "The Hindu",
+      "translations": {
+        "or": {
+          "title": "ଭାରତରୁ ଆମଦାନୀ ହେଉଥିବା ସାମଗ୍ରୀ ଉପରେ ୧୦% ଶୁଳ୍କ ଲଗାଇଲା ଆମେରିକା",
+          "summary": "ବାଧ୍ୟତାମୂଳକ ଶ୍ରମ ମାମଲାକୁ ନେଇ ଆମେରିକା ଭାରତରୁ ଆମଦାନୀ ହେଉଥିବା ସାମଗ୍ରୀ ଉପରେ ୧୦% ଶୁଳ୍କ ଲାଗୁ କରିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1784867078668-2",
       "category": "Economy",
-      "title": "RBI Bulletin highlights resilience of Indian economy amid global pressures",
-      "summary": "The Reserve Bank of India's bulletin highlighted that resilient industrial and services sectors helped the Indian economy navigate external uncertainties effectively.",
-      "source": "The Hindu / News On AIR",
+      "title": "World Bank to Fund Civic Infrastructure Projects for Circular Economy",
+      "summary": "The World Bank will provide financial funding for civic infrastructure projects aimed at establishing and promoting a circular economy.",
+      "source": "The Hindu",
       "translations": {
         "or": {
-          "title": "ଭାରତୀୟ ଅର୍ଥବ୍ୟବସ୍ଥାର ମଜବୁତ ସ୍ଥିତିକୁ ଦର୍ଶାଇଲା ଆରବିଆଇ ବୁଲେଟିନ୍",
-          "summary": "ବିଶ୍ୱସ୍ତରୀୟ ଚାପ ଏବଂ ବାହ୍ୟ ଅନିଶ୍ଚିତତା ସତ୍ତ୍ୱେ ଶିଳ୍ପ ଏବଂ ସେବା କ୍ଷେତ୍ରର ମଜବୁତ ସ୍ଥିତି ଭାରତୀୟ ଅର୍ଥବ୍ୟବସ୍ଥାକୁ ବଜାୟ ରଖିବାରେ ସାହାଯ୍ୟ କରିଛି ବୋଲି ଆରବିଆଇ ବୁଲେଟିନ୍‌ରେ କୁହାଯାଇଛି।"
+          "title": "ସର୍କୁଲାର ଇକୋନୋମି ପାଇଁ ନାଗରିକ ଭିତ୍ତିଭୂମି ପ୍ରକଳ୍ପକୁ ଆର୍ଥିକ ସହାୟତା ଦେବ ୱାର୍ଲ୍ଡ ବ୍ୟାଙ୍କ",
+          "summary": "ସର୍କୁଲାର ଇକୋନୋମି ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ ନାଗରିକ ଭିତ୍ତିଭୂମି ପ୍ରକଳ୍ପଗୁଡ଼ିକୁ ୱାର୍ଲ୍ଡ ବ୍ୟାଙ୍କ ଆର୍ଥିକ ସହାୟତା ଯୋଗାଇଦେବ।"
         }
       }
     },
     {
-      "id": "ca-1784780443604-2",
-      "category": "Odisha",
-      "title": "HCLTech to build AI-focused Data Centre in Odisha",
-      "summary": "IT giant HCLTech is set to establish its first India Data Centre in Odisha, which will focus on catering to artificial intelligence (AI) workloads.",
-      "source": "Indiatimes",
+      "id": "ca-1784867078668-3",
+      "category": "Banking",
+      "title": "Banking Liquidity Deficit Touches Rs 2,884 Crore, RBI Data Shows",
+      "summary": "Reserve Bank of India data revealed that banking system liquidity dropped to its lowest level since June 29, recording a deficit of Rs 2,884 crore.",
+      "source": "The Economic Times",
       "translations": {
         "or": {
-          "title": "ଓଡ଼ିଶାରେ AI ଡାଟା ସେଣ୍ଟର ନିର୍ମାଣ କରିବ HCLTech",
-          "summary": "IT କମ୍ପାନୀ HCLTech ଆର୍ଟିଫିସିଆଲ୍ ଇଣ୍ଟେଲିଜେନ୍ସ (AI) କାର୍ଯ୍ୟଭାରକୁ ଲକ୍ଷ୍ୟ କରି ଓଡ଼ିଶାରେ ପ୍ରଥମ ଇଣ୍ଡିଆ ଡାଟା ସେଣ୍ଟର ନିର୍ମାଣ କରିବାକୁ ଯାଉଛି।"
+          "title": "ବ୍ୟାଙ୍କିଙ୍ଗ୍ ଲିକ୍ୱିଡିଟି ଘାଟା ୨,୮୮୪ କୋଟି ଟଙ୍କାରେ ପହଞ୍ଚିଲା: ଆରବିଆଇ ତଥ୍ୟ",
+          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (ଆରବିଆଇ) ତଥ୍ୟ ଅନୁଯାୟୀ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସିଷ୍ଟମ୍ ଲିକ୍ୱିଡିଟି ଜୁନ୍ ୨୯ ପରଠାରୁ ସର୍ବନିମ୍ନ ସ୍ତରକୁ ଖସି ଆସି ୨,୮୮୪ କୋଟି ଟଙ୍କାର ଘାଟା ରେକର୍ଡ କରିଛି।"
         }
       }
     },
     {
-      "id": "ca-1784780443604-3",
+      "id": "ca-1784867078668-4",
       "category": "Odisha",
-      "title": "Odisha nominates Similipal Tiger Reserve for global CA|TS accreditation",
-      "summary": "The Odisha state government has officially nominated the Similipal Tiger Reserve for global Conservation Assured | Tiger Standards (CA|TS) accreditation.",
+      "title": "Odisha Proposes 'Nutan Sakala' Policy Reform to Curb Trafficking",
+      "summary": "The Odisha government has proposed a radical policy reform titled 'Nutan Sakala' aimed at curbing the trafficking of women and girls in the state.",
+      "source": "The Hindu",
+      "translations": {
+        "or": {
+          "title": "ମହିଳା ଓ ବାଳିକା ଚାଲାଣ ରୋକିବାକୁ ଓଡ଼ିଶା ସରକାରଙ୍କ 'ନୂତନ ସକାଳ' ନୀତି ପ୍ରସ୍ତାବ",
+          "summary": "ରାଜ୍ୟରେ ମହିଳା ଓ ବାଳିକା ଚାଲାଣ ରୋକିବା ପାଇଁ ଓଡ଼ିଶା ସରକାର 'ନୂତନ ସକାଳ' ନାମକ ଏକ ପ୍ରମୁଖ ନୀତିଗତ ସଂସ୍କାର ପ୍ରସ୍ତାବ ଦେଇଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1784867078668-5",
+      "category": "Odisha",
+      "title": "Odisha Ranks Among NITI Aayog's Top 5 Investment-Friendly States",
+      "summary": "Odisha has entered the top five investment-friendly states category according to the latest rankings by NITI Aayog.",
+      "source": "Deccan Chronicle",
+      "translations": {
+        "or": {
+          "title": "ନୀତି ଆୟୋଗର ଶୀର୍ଷ ୫ ନିବେଶ-ଅନୁକୂଳ ରାଜ୍ୟ ମଧ୍ୟରେ ସ୍ଥାନ ପାଇଲା ଓଡ଼ିଶା",
+          "summary": "ନୀତି ଆୟୋଗର ନୂତନ ମୂଲ୍ୟାଙ୍କନ ଅନୁଯାୟୀ ଓଡ଼ିଶା ଦେଶର ଶୀର୍ଷ ୫ଟି ନିବେଶ-ଅନୁକୂଳ ରାଜ୍ୟ ମଧ୍ୟରେ ପ୍ରବେଶ କରିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1784867078668-6",
+      "category": "Odisha",
+      "title": "Mahanadi Tribunal Directs Odisha and Chhattisgarh to Hold Talks",
+      "summary": "The Mahanadi Water Disputes Tribunal directed Odisha and Chhattisgarh to hold bilateral discussions with the Centre acting as a mediator.",
       "source": "The New Indian Express",
       "translations": {
         "or": {
-          "title": "ବୈଶ୍ୱିକ CA|TS ମାନ୍ୟତା ପାଇଁ ଶିମିଳିପାଳ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପକୁ ମନୋନୀତ କଲେ ଓଡ଼ିଶା ସରକାର",
-          "summary": "ଗ୍ଲୋବାଲ୍ Conservation Assured | Tiger Standards (CA|TS) ମାନ୍ୟତା ପାଇଁ ଓଡ଼ିଶା ସରକାର ଶିମିଳିପାଳ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପକୁ ମନୋନୀତ କରିଛନ୍ତି।"
+          "title": "ମହାନଦୀ ଜଳ ବିବାଦ: ଓଡ଼ିଶା ଓ ଛତିଶଗଡ଼କୁ ଆଲୋଚନା ପାଇଁ ନିର୍ଦ୍ଦେଶ ଦେଲେ ଟ୍ରିବ୍ୟୁନାଲ୍",
+          "summary": "ମହାନଦୀ ଜଳ ବିବାଦ ଟ୍ରିବ୍ୟୁନାଲ୍ କେନ୍ଦ୍ରକୁ ମଧ୍ୟସ୍ଥ କରି ଆଲୋଚନା କରିବାକୁ ଓଡ଼ିଶା ଓ ଛତିଶଗଡ଼କୁ ନିର୍ଦ୍ଦେଶ ଦେଇଛନ୍ତି।"
         }
       }
     },
     {
-      "id": "ca-1784780443604-4",
-      "category": "International",
-      "title": "US announces civilian nuclear deal with Saudi Arabia",
-      "summary": "The United States has formally announced a civilian nuclear cooperation agreement with Saudi Arabia.",
-      "source": "The Hindu",
+      "id": "ca-1784867078668-7",
+      "category": "Economy",
+      "title": "India Remains Among Fastest Growing Major Economies: RBI",
+      "summary": "The Reserve Bank of India stated that India continues to be among the fastest-growing major economies globally despite ongoing global uncertainties.",
+      "source": "The Shillong Times",
       "translations": {
         "or": {
-          "title": "ସାଉଦି ଆରବ ସହ ବେସାମରିକ ପରମାଣୁ ଚୁକ୍ତି ଘୋଷଣା କଲା ଆମେରିକା",
-          "summary": "ଆମେରିକା, ସାଉଦି ଆରବ ସହିତ ଏକ ବେସାମରିକ ପରମାଣୁ ଚୁକ୍ତି ଘୋଷଣା କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1784780443604-5",
-      "category": "National",
-      "title": "India slams Pakistan over cross-border terror at UN",
-      "summary": "India delivered a sharp rebuke to Pakistan at the United Nations regarding cross-border terrorism, urging the country to 'put your own house in order'.",
-      "source": "The Times of India",
-      "translations": {
-        "or": {
-          "title": "ଜାତିସଂଘରେ ପାକିସ୍ତାନକୁ କଡ଼ା ସମାଲୋଚନା କଲା ଭାରତ",
-          "summary": "ସୀମାପାର ଆତଙ୍କବାଦ ପ୍ରସଙ୍ଗରେ ଜାତିସଂଘ (UN) ରେ ଭାରତ ପାକିସ୍ତାନକୁ କଡ଼ା ସମାଲୋଚନା କରି ନିଜ ଦେଶର ସମସ୍ୟା ପ୍ରତି ଧ୍ୟାନ ଦେବାକୁ ପରାମର୍ଶ ଦେଇଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1784780443604-6",
-      "category": "Banking",
-      "title": "Improving liquidity aiding robust credit growth, notes RBI",
-      "summary": "The Reserve Bank of India stated that improved liquidity conditions in the banking system are facilitating strong credit growth.",
-      "source": "The Times of India",
-      "translations": {
-        "or": {
-          "title": "ତରଳତା ସୁଧାର ଯୋଗୁଁ କ୍ରେଡିଟ୍ ବୃଦ୍ଧି ମଜବୁତ ହେଉଛି: ଆରବିଆଇ",
-          "summary": "ଆର୍ଥିକ ବ୍ୟବସ୍ଥାରେ ତରଳତା (liquidity) ର ସୁଧାର ବ୍ୟାଙ୍କ କ୍ରେଡିଟ୍‌ର ମଜବୁତ ବୃଦ୍ଧିରେ ସାହାଯ୍ୟ କରୁଛି ବୋଲି ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ଦର୍ଶାଇଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1784780443604-7",
-      "category": "National",
-      "title": "Government agrees to discuss NEET paper leak in Lok Sabha",
-      "summary": "Union Government has agreed to discuss the NEET exam paper leak controversy in the Lok Sabha following discussions with parliamentary leaders.",
-      "source": "The Hindu",
-      "translations": {
-        "or": {
-          "title": "ଲୋକସଭାରେ NEET ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ଆଲୋଚନା ପାଇଁ ସରକାର ରାଜି",
-          "summary": "ଶିକ୍ଷା ମନ୍ତ୍ରୀ ଧର୍ମେନ୍ଦ୍ର ପ୍ରଧାନ ଏବଂ ବାଚସ୍ପତି ଓମ୍ ବିର୍ଲାଙ୍କ ମଧ୍ୟରେ ଆଲୋଚନା ପରେ ସରକାର ଲୋକସଭାରେ NEET ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ପ୍ରସଙ୍ଗରେ ଆଲୋଚନା କରିବାକୁ ରାଜି ହୋଇଛନ୍ତି।"
+          "title": "ବିଶ୍ୱ ଅନିଶ୍ଚିତତା ସତ୍ତ୍ୱେ ଭାରତ ସବୁଠାରୁ ଦ୍ରୁତ ବିକାଶଶୀଳ ଅର୍ଥବ୍ୟବସ୍ଥା: ଆରବିଆଇ",
+          "summary": "ବିଶ୍ୱସ୍ତରୀୟ ଅନିଶ୍ଚିତତା ସତ୍ତ୍ୱେ ଭାରତ ପ୍ରମୁଖ ଅର୍ଥବ୍ୟବସ୍ଥାଗୁଡ଼ିକ ମଧ୍ୟରେ ସବୁଠାରୁ ଦ୍ରୁତ ଅଭିବୃଦ୍ଧି ହାସଲ କରୁଥିବା ଦେଶ ହୋଇ ରହିଛି ବୋଲି ଆରବିଆଇ କହିଛି।"
         }
       }
     }
   ],
   "quiz": [
     {
-      "id": "ca-q-1784780443604-0",
+      "id": "ca-q-1784867078668-0",
+      "section": "Current Affairs",
+      "topic": "National",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What mechanism did the Prime Minister announce to address paper leak cases during student protests?",
+      "options": [
+        "Special Investigative Team (SIT)",
+        "Fast Track Courts",
+        "National Educational Tribunal",
+        "High-Level Inquiry Commission"
+      ],
+      "answer": 1,
+      "explanation": "The Prime Minister announced the setup of Fast Track Courts to handle paper leak cases effectively and quickly.",
+      "translations": {
+        "or": {
+          "question": "ଛାତ୍ର ଆନ୍ଦୋଳନ ମଧ୍ୟରେ ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ମାମଲାର ସମାଧାନ ପାଇଁ ପ୍ରଧାନମନ୍ତ୍ରୀ କେଉଁ ବ୍ୟବସ୍ଥା ଘୋଷଣା କରିଛନ୍ତି?",
+          "options": [
+            "ସ୍ୱତନ୍ତ୍ର ତଦନ୍ତକାରୀ ଦଳ (SIT)",
+            "ଫାଷ୍ଟ ଟ୍ରାକ୍ କୋର୍ଟ",
+            "ଜାତୀୟ ଶିକ୍ଷାଗତ ଟ୍ରିବ୍ୟୁନାଲ୍",
+            "ଉଚ୍ଚସ୍ତରୀୟ ତଦନ୍ତ କମିଶନ"
+          ],
+          "explanation": "ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ମାମଲାର ଦ୍ରୁତ ବିଚାର ପାଇଁ ପ୍ରଧାନମନ୍ତ୍ରୀ ଫାଷ୍ଟ ଟ୍ରାକ୍ କୋର୍ଟ ପ୍ରତିଷ୍ଠା କରିବାକୁ ଘୋଷଣା କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1784867078668-1",
+      "section": "Current Affairs",
+      "topic": "Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the name of the policy reform proposed by Odisha to curb the trafficking of women and girls?",
+      "options": [
+        "Asha Kiran",
+        "Nutan Sakala",
+        "Mukhyamantri Mahila Suraksha",
+        "Nirbhaya Odisha"
+      ],
+      "answer": 1,
+      "explanation": "Odisha proposed a policy reform titled 'Nutan Sakala' to restrict and prevent the trafficking of women and girls.",
+      "translations": {
+        "or": {
+          "question": "ମହିଳା ଓ ବାଳିକା ଚାଲାଣ ରୋକିବା ପାଇଁ ଓଡ଼ିଶା ସରକାର ପ୍ରସ୍ତାବ ଦେଇଥିବା ନୀତିଗତ ସଂସ୍କାରର ନାମ କ’ଣ?",
+          "options": [
+            "ଆଶା କିରଣ",
+            "ନୂତନ ସକାଳ",
+            "ମୁଖ୍ୟମନ୍ତ୍ରୀ ମହିଳା ସୁରକ୍ଷା",
+            "ନିର୍ଭୟା ଓଡ଼ିଶା"
+          ],
+          "explanation": "ମହିଳା ଓ ବାଳିକା ଚାଲାଣ ରୋକିବା ପାଇଁ ଓଡ଼ିଶା ସରକାର 'ନୂତନ ସକାଳ' ନାମକ ନୀତିଗତ ସଂସ୍କାର ପ୍ରସ୍ତାବ ଆଣିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1784867078668-2",
       "section": "Current Affairs",
       "topic": "Banking",
-      "difficulty": "easy",
-      "source": "ai",
-      "status": "pending",
-      "question": "Which bank has been appointed as the official retail banking partner for Team India 2026 by the Indian Olympic Association?",
-      "options": [
-        "HDFC Bank",
-        "YES BANK",
-        "State Bank of India",
-        "ICICI Bank"
-      ],
-      "answer": 1,
-      "explanation": "YES BANK has partnered with the Indian Olympic Association (IOA) to serve as the official retail banking partner for Team India in 2026.",
-      "translations": {
-        "or": {
-          "question": "2026 ଟିମ୍ ଇଣ୍ଡିଆ ପାଇଁ ଅଫିସିଆଲ୍ ରିଟେଲ୍ ବ୍ୟାଙ୍କିଂ ପାର୍ଟନର ଭାବରେ କେଉଁ ବ୍ୟାଙ୍କ ଭାରତୀୟ ଅଲମ୍ପିକ ସଂଘ (IOA) ସହିତ ସାଝେଦାରୀ କରିଛି?",
-          "options": [
-            "ଏଚଡିଏଫସି ବ୍ୟାଙ୍କ (HDFC Bank)",
-            "ୟେସ୍ ବ୍ୟାଙ୍କ (YES BANK)",
-            "ଭାରତୀୟ ସ୍ଟେଟ ବ୍ୟାଙ୍କ (SBI)",
-            "ଆଇସିଆଇସିଆଇ ବ୍ୟାଙ୍କ (ICICI Bank)"
-          ],
-          "explanation": "2026 ଟିମ୍ ଇଣ୍ଡିଆ ପାଇଁ ଅଫିସିଆଲ୍ ରିଟେଲ୍ ବ୍ୟାଙ୍କିଂ ପାର୍ଟନର ଭାବରେ YES BANK ଭାରତୀୟ ଅଲମ୍ପିକ ସଂଘ ସହିତ ସାଝେଦାରୀ କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1784780443604-1",
-      "section": "Current Affairs",
-      "topic": "Odisha",
       "difficulty": "medium",
       "source": "ai",
       "status": "pending",
-      "question": "Which IT company is setting up its first India Data Centre focused on AI workloads in Odisha?",
+      "question": "According to RBI data, what was the deficit recorded in banking system liquidity?",
       "options": [
-        "Infosys",
-        "Wipro",
-        "HCLTech",
-        "TCS"
-      ],
-      "answer": 2,
-      "explanation": "HCLTech is building its first India Data Centre in Odisha, which is specifically targeted at AI workloads.",
-      "translations": {
-        "or": {
-          "question": "AI କାର୍ଯ୍ୟଭାରକୁ ଲକ୍ଷ୍ୟ କରି ଓଡ଼ିଶାରେ ନିଜର ପ୍ରଥମ ଇଣ୍ଡିଆ ଡାଟା ସେଣ୍ଟର କେଉଁ IT କମ୍ପାନୀ ନିର୍ମାଣ କରୁଛି?",
-          "options": [
-            "ଇନଫୋସିସ୍ (Infosys)",
-            "ୱିପ୍ରୋ (Wipro)",
-            "ଏଚସିଏଲଟେକ୍ (HCLTech)",
-            "ଟିସିଏସ୍ (TCS)"
-          ],
-          "explanation": "HCLTech AI କାର୍ଯ୍ୟଭାରକୁ ଲକ୍ଷ୍ୟ କରି ଓଡ଼ିଶାରେ ନିଜର ପ୍ରଥମ ଇଣ୍ଡିଆ ଡାଟା ସେଣ୍ଟର ନିର୍ମାଣ କରୁଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1784780443604-2",
-      "section": "Current Affairs",
-      "topic": "Odisha",
-      "difficulty": "easy",
-      "source": "ai",
-      "status": "pending",
-      "question": "Which tiger reserve has been nominated by the Odisha government for global CA|TS accreditation?",
-      "options": [
-        "Satkosia Tiger Reserve",
-        "Similipal Tiger Reserve",
-        "Sunabeda Tiger Reserve",
-        "Kotagarh Tiger Reserve"
+        "Rs 1,250 crore",
+        "Rs 2,884 crore",
+        "Rs 5,000 crore",
+        "Rs 10,000 crore"
       ],
       "answer": 1,
-      "explanation": "The Odisha government has nominated the Similipal Tiger Reserve for the global Conservation Assured | Tiger Standards (CA|TS) accreditation.",
+      "explanation": "RBI data showed that the banking system liquidity hit a deficit of Rs 2,884 crore, reaching its lowest level since June 29.",
       "translations": {
         "or": {
-          "question": "ଗ୍ଲୋବାଲ୍ CA|TS ମାନ୍ୟତା ପାଇଁ ଓଡ଼ିଶା ସରକାର କେଉଁ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପକୁ ମନୋନୀତ କରିଛନ୍ତି?",
+          "question": "ଆରବିଆଇ ତଥ୍ୟ ଅନୁଯାୟୀ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସିଷ୍ଟମ୍ ଲିକ୍ୱିଡିଟିରେ କେତେ ଟଙ୍କାର ଘାଟା ରେକର୍ଡ କରାଯାଇଛି?",
           "options": [
-            "ସାତକୋଶିଆ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପ",
-            "ଶିମିଳିପାଳ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପ",
-            "ସୁନାବେଡ଼ା ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପ",
-            "କୋଟଗଡ଼ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପ"
+            "୧,୨୫୦ କୋଟି ଟଙ୍କା",
+            "୨,୮୮୪ କୋଟି ଟଙ୍କା",
+            "୫,୦୦୦ କୋଟି ଟଙ୍କା",
+            "୧୦,୦୦୦ କୋଟି ଟଙ୍କା"
           ],
-          "explanation": "ଓଡ଼ିଶା ସରକାର ଗ୍ଲୋବାଲ୍ CA|TS ମାନ୍ୟତା ପାଇଁ ଶିମିଳିପାଳ ବ୍ୟାଘ୍ର ପ୍ରକଳ୍ପକୁ ମନୋନୀତ କରିଛନ୍ତି।"
+          "explanation": "ଆରବିଆଇ ତଥ୍ୟ ଅନୁଯାୟୀ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସିଷ୍ଟମ୍ ଲିକ୍ୱିଡିଟିରେ ୨,୮୮୪ କୋଟି ଟଙ୍କାର ଘାଟା ଦେଖାଦେଇଛି।"
         }
       }
     },
     {
-      "id": "ca-q-1784780443604-3",
-      "section": "Current Affairs",
-      "topic": "International",
-      "difficulty": "medium",
-      "source": "ai",
-      "status": "pending",
-      "question": "The United States announced a civilian nuclear agreement with which Middle Eastern nation?",
-      "options": [
-        "UAE",
-        "Qatar",
-        "Saudi Arabia",
-        "Oman"
-      ],
-      "answer": 2,
-      "explanation": "The US has announced a civilian nuclear deal with Saudi Arabia.",
-      "translations": {
-        "or": {
-          "question": "ନିକଟରେ ଆମେରିକା କେଉଁ ମଧ୍ୟପ୍ରାଚ୍ୟ ଦେଶ ସହିତ ବେସାମରିକ ପରମାଣୁ ଚୁକ୍ତି ଘୋଷଣା କରିଛି?",
-          "options": [
-            "ୟୁଏଇ (UAE)",
-            "କାତାର (Qatar)",
-            "ସାଉଦି ଆରବ (Saudi Arabia)",
-            "ଓମାନ (Oman)"
-          ],
-          "explanation": "ଆମେରିକା ସାଉଦି ଆରବ ସହିତ ଏକ ବେସାମରିକ ପରମାଣୁ ଚୁକ୍ତି ଘୋଷଣା କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1784780443604-4",
+      "id": "ca-q-1784867078668-3",
       "section": "Current Affairs",
       "topic": "Economy",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "source": "ai",
       "status": "pending",
-      "question": "According to the RBI Bulletin, which two key sectors sustained the Indian economy amidst global pressures?",
+      "question": "Which international financial institution will fund civic infrastructure projects to establish a circular economy?",
       "options": [
-        "Agriculture and Mining",
-        "Industrial and Services",
-        "Real Estate and Retail",
-        "Textiles and Tourism"
+        "Asian Development Bank",
+        "International Monetary Fund",
+        "World Bank",
+        "New Development Bank"
       ],
-      "answer": 1,
-      "explanation": "As stated in the RBI Bulletin, resilient industrial and services sectors enabled the Indian economy to maintain its trajectory despite global uncertainties.",
+      "answer": 2,
+      "explanation": "The World Bank is funding civic infrastructure projects to support and develop a circular economy.",
       "translations": {
         "or": {
-          "question": "ଆରବିଆଇ ଅନୁଯାୟୀ, କେଉଁ କ୍ଷେତ୍ରଗୁଡ଼ିକ ବିଶ୍ୱସ୍ତରୀୟ ଚାପ ସତ୍ତ୍ୱେ ଭାରତୀୟ ଅର୍ଥବ୍ୟବସ୍ଥାକୁ ସମ୍ଭାଳିବାରେ ସାହାଯ୍ୟ କରିଛନ୍ତି?",
+          "question": "ସର୍କୁଲାର ଇକୋନୋମି ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ କେଉଁ ଆନ୍ତର୍ଜାତୀୟ ଆର୍ଥିକ ସଂସ୍ଥା ନାଗରିକ ଭିତ୍ତିଭୂମି ପ୍ରକଳ୍ପଗୁଡ଼ିକୁ ଆର୍ଥିକ ସହାୟତା ଦେବ?",
           "options": [
-            "କୃଷି ଏବଂ ଖନନ",
-            "ଶିଳ୍ପ ଏବଂ ସେବା",
-            "ରିଅଲ୍ ଏଷ୍ଟେଟ୍ ଏବଂ ରିଟେଲ୍",
-            "ବସ୍ତ୍ର ଏବଂ ପର୍ଯ୍ୟଟନ"
+            "ଏସୀୟ ବିକାଶ ବ୍ୟାଙ୍କ (ADB)",
+            "ଆନ୍ତର୍ଜାତୀୟ ମୁଦ୍ରା ପାଣ୍ଠି (IMF)",
+            "ୱାର୍ଲ୍ଡ ବ୍ୟାଙ୍କ (World Bank)",
+            "ନ୍ୟୁ ଡେଭେଲପମେଣ୍ଟ ବ୍ୟାଙ୍କ (NDB)"
           ],
-          "explanation": "ଆରବିଆଇ ବୁଲେଟିନ୍ ଅନୁଯାୟୀ, ମଜବୁତ ଶିଳ୍ପ ଏବଂ ସେବା କ୍ଷେତ୍ର ଗୁଡ଼ିକ ବିଶ୍ୱସ୍ତରୀୟ ଚାପ ସତ୍ତ୍ୱେ ଭାରତୀୟ ଅର୍ଥବ୍ୟବସ୍ଥାକୁ ସମ୍ଭାଳିବାରେ ସାହାଯ୍ୟ କରିଛନ୍ତି।"
+          "explanation": "ସର୍କୁଲାର ଇକୋନୋମି ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ ୱାର୍ଲ୍ଡ ବ୍ୟାଙ୍କ ନାଗରିକ ଭିତ୍ତିଭୂମି ପ୍ରକଳ୍ପଗୁଡ଼ିକୁ ଆର୍ଥିକ ସହାୟତା ଯୋଗାଇଦେବ।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1784867078668-4",
+      "section": "Current Affairs",
+      "topic": "International",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What percentage of tariff was slapped by the U.S. on goods imported from India over forced labour concerns?",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "25%"
+      ],
+      "answer": 1,
+      "explanation": "The United States imposed a 10% tariff on imported goods from India citing issues regarding forced labour.",
+      "translations": {
+        "or": {
+          "question": "ବାଧ୍ୟତାମୂଳକ ଶ୍ରମ ମାମଲାକୁ ନେଇ ଭାରତରୁ ଆମଦାନୀ ହେଉଥିବା ସାମଗ୍ରୀ ଉପରେ ଆମେରିକା କେତେ ପ୍ରତିଶତ ଶୁଳ୍କ ଲଗାଇଛି?",
+          "options": [
+            "୫%",
+            "୧୦%",
+            "୧୫%",
+            "୨୫%"
+          ],
+          "explanation": "ବାଧ୍ୟତାମୂଳକ ଶ୍ରମ ମାମଲାକୁ ନେଇ ଆମେରିକା ଭାରତରୁ ଆମଦାନୀ ହେଉଥିବା ସାମଗ୍ରୀ ଉପରେ ୧୦% ଶୁଳ୍କ ଲାଗୁ କରିଛି।"
         }
       }
     }
