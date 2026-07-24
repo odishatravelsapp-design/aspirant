@@ -5020,6 +5020,176 @@
       "answer": 2,
       "explanation": "The IMF's SDR basket comprises five major currencies: the US Dollar, Euro, Chinese Yuan (Renminbi), Japanese Yen, and British Pound Sterling. The Swiss Franc is not part of the SDR basket.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-0",
+      "section": "General Awareness",
+      "topic": "Fundamental Rights & Duties",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Article of the Constitution of India explicitly abolishes 'Untouchability' and forbids its practice in any form?",
+      "options": [
+        "Article 14",
+        "Article 17",
+        "Article 19",
+        "Article 21"
+      ],
+      "answer": 1,
+      "explanation": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form. The Enforcement of Untouchability Offences Act was passed in 1955 to give effect to this provision."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-1",
+      "section": "General Awareness",
+      "topic": "Constitutional Amendments",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Constitutional Amendment Act added Part IX-B to the Constitution of India, giving constitutional status and protection to Co-operative Societies?",
+      "options": [
+        "86th Constitutional Amendment Act, 2002",
+        "91st Constitutional Amendment Act, 2003",
+        "97th Constitutional Amendment Act, 2011",
+        "101st Constitutional Amendment Act, 2016"
+      ],
+      "answer": 2,
+      "explanation": "The 97th Constitutional Amendment Act of 2011 added Part IX-B to the Constitution, which regulates the incorporation, governance, and operation of co-operative societies in India."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-2",
+      "section": "General Awareness",
+      "topic": "Parliament & Judiciary",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Article 143 of the Constitution of India, who among the following has the exclusive authority to seek the advisory opinion of the Supreme Court on a question of law or public importance?",
+      "options": [
+        "The Prime Minister of India",
+        "The Chief Justice of India",
+        "The President of India",
+        "The Speaker of the Lok Sabha"
+      ],
+      "answer": 2,
+      "explanation": "Article 143 of the Indian Constitution empowers the President of India to consult the Supreme Court on any question of law or fact of public importance."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-3",
+      "section": "General Awareness",
+      "topic": "Ancient Indian History",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which among the following major Indus Valley Civilization sites is unique for having no fortified citadel?",
+      "options": [
+        "Lothal",
+        "Chanhudaro",
+        "Kalibangan",
+        "Dholavira"
+      ],
+      "answer": 1,
+      "explanation": "Chanhudaro, located in Sindh, Pakistan, was excavated by N.G. Majumdar in 1931 and is the only Harappan city completely devoid of a citadel."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-4",
+      "section": "General Awareness",
+      "topic": "Medieval Indian History",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "During the reign of Mughal Emperor Jahangir, which renowned painter was sent with the diplomatic mission of Khan Alam to Isfahan to paint authentic portraits of Shah Abbas I and his royal court?",
+      "options": [
+        "Bishandas",
+        "Ustad Mansur",
+        "Abul Hasan",
+        "Farrukh Beg"
+      ],
+      "answer": 0,
+      "explanation": "Emperor Jahangir deputed Bishandas along with envoy Khan Alam to Safavid Persia in 1613 to draw accurate portraits of Shah Abbas I and his family."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-5",
+      "section": "General Awareness",
+      "topic": "Modern India & Freedom Struggle",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following social reformers founded the 'Servants of India Society' in Pune in 1905?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Lala Lajpat Rai",
+        "Jyotirao Phule"
+      ],
+      "answer": 0,
+      "explanation": "Gopal Krishna Gokhale established the Servants of India Society in 1905 to train Indians to devote their lives to the cause of the country's socio-economic advancement."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-6",
+      "section": "General Awareness",
+      "topic": "Indian Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Through which of the following mountain passes does the River Sutlej enter the Indian territory from Tibet?",
+      "options": [
+        "Nathu La",
+        "Shipki La",
+        "Jelep La",
+        "Bara-lacha La"
+      ],
+      "answer": 1,
+      "explanation": "The River Sutlej originates near Lake Rakshastal in Tibet and enters India through Shipki La pass in the Kinnaur district of Himachal Pradesh."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-7",
+      "section": "General Awareness",
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which narrow body of water separates the Sinai Peninsula of Egypt from the Arabian Peninsula, forming the northeastern inlet of the Red Sea?",
+      "options": [
+        "Gulf of Suez",
+        "Gulf of Aqaba",
+        "Strait of Hormuz",
+        "Bab-el-Mandeb"
+      ],
+      "answer": 1,
+      "explanation": "The Gulf of Aqaba lies at the northern end of the Red Sea, bordered by Egypt (Sinai Peninsula), Israel, Jordan, and Saudi Arabia."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-8",
+      "section": "General Awareness",
+      "topic": "Modern India & Freedom Struggle",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who presided over the historic Karachi Session of the Indian National Congress in March 1931, where the resolutions on 'Fundamental Rights' and 'National Economic Programme' were adopted?",
+      "options": [
+        "Subhash Chandra Bose",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Sarojini Naidu"
+      ],
+      "answer": 1,
+      "explanation": "Sardar Vallabhbhai Patel presided over the 1931 Karachi Session of the Indian National Congress, which endorsed the Gandhi-Irwin Pact and passed key resolutions on Fundamental Rights and Economic Policy."
+    },
+    {
+      "id": "ibps-clerk-gk-1784867775920-9",
+      "section": "General Awareness",
+      "topic": "World Geography",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the name of the cold ocean current that flows northward along the western coast of South America, significantly contributing to the extreme aridity of the Atacama Desert?",
+      "options": [
+        "Benguela Current",
+        "Agulhas Current",
+        "Humboldt Current",
+        "Canary Current"
+      ],
+      "answer": 2,
+      "explanation": "The Humboldt Current (also known as the Peru Current) is a cold ocean current flowing northwards along the western coast of South America (Chile and Peru), causing coastal cooling and creating the hyper-arid Atacama Desert conditions."
     }
   ]
 }

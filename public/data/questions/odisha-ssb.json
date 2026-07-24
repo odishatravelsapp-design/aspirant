@@ -6970,6 +6970,261 @@
           "explanation": "୧୯୩୦ ମସିହା ଅପ୍ରେଲ ୬ ତାରିଖରେ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିବା ପାଇଁ କଟକର ସ୍ୱରାଜ ଆଶ୍ରମରୁ ୨୧ ଜଣ ସତ୍ୟାଗ୍ରହୀଙ୍କ ପ୍ରଥମ ଦଳକୁ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ଅଭିମୁଖେ ନେଇଥିଲେ।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which educational scheme emphasizing mother-tongue instruction and craft-based learning was proposed by Mahatma Gandhi at the Wardha Educational Conference in 1937?",
+      "options": [
+        "Nai Talim (Basic Education)",
+        "Vishva-Bharati Plan",
+        "Sargent Scheme",
+        "Mudaliar Secondary Scheme"
+      ],
+      "answer": 0,
+      "explanation": "Mahatma Gandhi proposed 'Nai Talim' (Basic Education) in 1937 at the Wardha Conference, advocating free, compulsory education rooted in productive manual craft and taught in the mother tongue."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Rabindranath Tagore established Santiniketan primarily based on which educational philosophy?",
+      "options": [
+        "Strict Vocational Pragmatism",
+        "Naturalism and Harmony with Nature",
+        "Dogmatic Religious Instruction",
+        "Behavioral Conditioning"
+      ],
+      "answer": 1,
+      "explanation": "Tagore was an ardent educational naturalist who believed children learn best in an environment of freedom, creativity, and direct harmony with nature rather than within rigid classroom walls."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-2",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Friedrich Froebel is globally recognized as the pioneer of which educational concept?",
+      "options": [
+        "Kindergarten System",
+        "Project Method",
+        "Dalton Plan",
+        "Montessori Method"
+      ],
+      "answer": 0,
+      "explanation": "Friedrich Froebel founded the first Kindergarten ('Children's Garden') in Germany in 1837, emphasizing self-activity, play, and social interaction."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-3",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Maria Montessori's pedagogy, what primary role does the teacher play during learning sessions?",
+      "options": [
+        "Direct lecturer giving uniform instruction",
+        "Strict disciplinarian managing rigid activities",
+        "Directress/Guide observing and facilitating child-centered inquiry",
+        "Evaluator focusing solely on standardized numerical marks"
+      ],
+      "answer": 2,
+      "explanation": "In the Montessori approach, the teacher is referred to as a Directress or guide who prepares the environment and observes individual developmental readiness rather than delivering top-down lectures."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-4",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to John Dewey's pragmatic philosophy, how is 'education' formally defined?",
+      "options": [
+        "Preparation for adult life through rote memorization",
+        "Continuous reconstruction or reorganization of experience",
+        "Transmission of unchanging cultural dogma",
+        "Unfolding of latent potential independent of social environment"
+      ],
+      "answer": 1,
+      "explanation": "John Dewey defined education as a 'reconstruction or reorganization of experience which adds to the meaning of experience, and which increases ability to direct the course of subsequent experience.'"
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-5",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which specific learning disability primarily affects a student's capacity to comprehend numerical relationships, symbols, and mathematical calculations?",
+      "options": [
+        "Dyslexia",
+        "Dysgraphia",
+        "Dyscalculia",
+        "Dyspraxia"
+      ],
+      "answer": 2,
+      "explanation": "Dyscalculia is a specific neurodevelopmental learning disability characterized by persistent difficulty understanding numbers, learning arithmetic facts, and performing calculations."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-6",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "A child who struggles with fine motor coordination, resulting in difficulty tying shoelaces, holding utensils correctly, and writing smoothly, is most likely displaying signs of:",
+      "options": [
+        "Developmental Coordination Disorder (Dyspraxia)",
+        "Developmental Dyslexia",
+        "Central Auditory Processing Disorder",
+        "Expressive Aphasia"
+      ],
+      "answer": 0,
+      "explanation": "Dyspraxia (Developmental Coordination Disorder) affects motor planning and execution, leading to significant difficulties in fine motor tasks like writing, buttoning, and physical coordination."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-7",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, how many conditions are officially listed as benchmark disabilities?",
+      "options": [
+        "7",
+        "14",
+        "21",
+        "28"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act 2016 expanded the number of recognized disability categories from 7 (under the 1995 Act) to 21, adding conditions like acid attack victims, Parkinson's disease, and autism spectrum disorder."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-8",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which landmark international document adopted in 1994 affirmed that 'regular schools with an inclusive orientation are the most effective means of combating discriminatory attitudes'?",
+      "options": [
+        "Jomtien Declaration",
+        "Salamanca Statement",
+        "Dakar Framework for Action",
+        "Incheon Declaration"
+      ],
+      "answer": 1,
+      "explanation": "The Salamanca Statement and Framework for Action on Special Needs Education (UNESCO, 1994) formally established international consensus on inclusive education in regular schooling systems."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-9",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In educational technology, what does the acronym 'SAMR' stand for in Ruben Puentedura's framework for tech integration?",
+      "options": [
+        "Substitution, Augmentation, Modification, Redefinition",
+        "System, Analysis, Management, Resource",
+        "Storage, Access, Media, Retrieval",
+        "Synchronous, Asynchronous, Method, Rationale"
+      ],
+      "answer": 0,
+      "explanation": "The SAMR Model categorizes technology adoption in teaching into four progressive levels: Substitution, Augmentation, Modification, and Redefinition."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which classic instructional design model comprises five systematic phases: Analysis, Design, Development, Implementation, and Evaluation?",
+      "options": [
+        "ASSURE Model",
+        "ADDIE Model",
+        "Dick and Carey Model",
+        "Kemp Design Model"
+      ],
+      "answer": 1,
+      "explanation": "The ADDIE model is an acronym formed by its five sequential stages of instructional development: Analysis, Design, Development, Implementation, and Evaluation."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-11",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "The unwritten, unspoken, and unofficial social values, attitudes, and cultural norms that students absorb in a school setting are collectively termed the:",
+      "options": [
+        "Explicit Curriculum",
+        "Core Curriculum",
+        "Hidden Curriculum",
+        "Null Curriculum"
+      ],
+      "answer": 2,
+      "explanation": "The 'Hidden Curriculum' refers to the implicit behaviors, societal values, and unspoken rules taught indirectly through classroom social structure and institutional culture."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-12",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which curriculum development approach, advocated by Hilda Taba, is known as a 'grassroots model' because it relies on an inductive process initiated by teachers?",
+      "options": [
+        "Tyler's Deductive Model",
+        "Taba's Inductive Model",
+        "Wheeler's Cyclic Model",
+        "Kerr's Integrated Model"
+      ],
+      "answer": 1,
+      "explanation": "Hilda Taba proposed a grassroots, inductive model where curriculum design begins with teachers developing specific learning units bottom-up, contrary to Ralph Tyler's top-down deductive model."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-13",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Carl Rogers developed which major school of guidance and psychological counselling?",
+      "options": [
+        "Psychoanalytic Counselling",
+        "Rational Emotive Behaviour Therapy",
+        "Person-Centred (Nondirective) Counselling",
+        "Trait-Factor Counselling"
+      ],
+      "answer": 2,
+      "explanation": "Carl Rogers pioneered Person-Centred (or Client-Centred / Nondirective) Therapy, emphasizing empathy, unconditional positive regard, and self-actualization of the helpee."
+    },
+    {
+      "id": "odisha-ssb-edu-1784867602990-14",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the correct sequential order of the six stages of Directive Counselling formulated by E. G. Williamson?",
+      "options": [
+        "Analysis, Synthesis, Diagnosis, Prognosis, Counselling, Follow-up",
+        "Diagnosis, Analysis, Prognosis, Synthesis, Counselling, Follow-up",
+        "Analysis, Diagnosis, Synthesis, Prognosis, Counselling, Follow-up",
+        "Synthesis, Analysis, Diagnosis, Counselling, Prognosis, Follow-up"
+      ],
+      "answer": 0,
+      "explanation": "E. G. Williamson's directive (Minnesota Point of View) counselling model consists of six linear steps: 1. Analysis, 2. Synthesis, 3. Diagnosis, 4. Prognosis, 5. Counselling, and 6. Follow-up."
     }
   ]
 }
