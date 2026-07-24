@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -4326,6 +4326,120 @@
             "ଭଗତ ସିଂହ, ସୁଖଦେବ ଏବଂ ରାଜଗୁରୁଙ୍କ ଫାଶୀ"
           ],
           "explanation": "୨୩ ମାର୍ଚ୍ଚ ୧୯୩୧ ରେ ଭଗତ ସିଂହ, ସୁଖଦେବ ଏବଂ ରାଜଗୁରୁଙ୍କୁ ଫାଶୀ ଦିଆଯାଇଥିଲା। ଦ୍ୱିତୀୟ ଗୋଲଟେବୁଲ ବୈଠକ ସେପ୍ଟେମ୍ବର-ଡିସେମ୍ବର ୧୯୩୧ ରେ, ସାମ୍ପ୍ରଦାୟିକ ପୁରସ୍କାର ଅଗଷ୍ଟ ୧୯୩୨ ରେ ଏବଂ କଂଗ୍ରେସ ସୋସିଆଲିଷ୍ଟ ପାର୍ଟି ୧୯୩୪ ରେ ଗଠିତ ହୋଇଥିଲା। ତେଣୁ, ଫାଶୀ ଘଟଣାଟି ପ୍ରଥମେ ଘଟିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784865430900-0",
+      "section": "Teaching Aptitude",
+      "topic": "Micro-teaching",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who is considered the primary pioneer responsible for developing the concept of Micro-teaching at Stanford University in 1963?",
+      "options": [
+        "Dwight W. Allen",
+        "B. F. Skinner",
+        "John Dewey",
+        "Benjamin Bloom"
+      ],
+      "answer": 0,
+      "explanation": "Micro-teaching was originated in 1963 at Stanford University by Dwight W. Allen along with his research colleagues (such as Robert Bush and Kim Romney) as a teacher-training technique.",
+      "translations": {
+        "or": {
+          "question": "୧୯୬୩ ମସିହାରେ ଷ୍ଟାନଫୋର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ ମାଇକ୍ରୋ-ଟିଚିଂ (Micro-teaching) ଧାରଣାର ଉଦ୍ଭାବନ ପାଇଁ କାହାକୁ ମୁଖ୍ୟ ପ୍ରବକ୍ତା ଭାବରେ ବିବେଚନା କରାଯାଏ?",
+          "options": [
+            "ଡ୍ୱାଇଟ୍ ଡବ୍ଲ୍ୟୁ. ଆଲେନ୍ (Dwight W. Allen)",
+            "ବି. ଏଫ୍. ସ୍କିନର୍ (B. F. Skinner)",
+            "ଜନ୍ ଡିୱି (John Dewey)",
+            "ବେଞ୍ଜାମିନ୍ ବ୍ଲୁମ୍ (Benjamin Bloom)"
+          ],
+          "explanation": "୧୯୬୩ ମସିହାରେ ଷ୍ଟାନଫୋର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ ଡ୍ୱାଇଟ୍ ଡବ୍ଲ୍ୟୁ. ଆଲେନ୍ ଏବଂ ତାଙ୍କ ସହଯୋଗୀମାନଙ୍କ ଦ୍ୱାରା ଶିକ୍ଷକ ପ୍ରଶିକ୍ଷଣ ପଦ୍ଧତି ଭାବରେ ମାଇକ୍ରୋ-ଟିଚିଂ ବିକଶିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784865430900-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Richard Suchman's Inquiry Training Model, which specific phase directly involves students gathering information about objects and events to verify their properties through 'Yes' or 'No' questions posed to the teacher?",
+      "options": [
+        "Phase 1: Encounter with the Problem",
+        "Phase 2: Data Gathering — Verification",
+        "Phase 3: Data Gathering — Experimentation",
+        "Phase 4: Organizing, Formulating an Explanation"
+      ],
+      "answer": 1,
+      "explanation": "Richard Suchman's Inquiry Training Model comprises five phases: Phase 1 (Encounter with the problem), Phase 2 (Data Gathering — Verification, where students verify objects, conditions, and properties using Yes/No questions), Phase 3 (Data Gathering — Experimentation), Phase 4 (Formulating an Explanation), and Phase 5 (Analysis of the Inquiry Process).",
+      "translations": {
+        "or": {
+          "question": "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ (Richard Suchman) ଙ୍କ ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମଡେଲ୍ (Inquiry Training Model) ରେ, କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ପର୍ଯ୍ୟାୟରେ ଶିକ୍ଷକଙ୍କୁ 'ହଁ' କିମ୍ବା 'ନାହିଁ' ପ୍ରଶ୍ନ ପଚାରି ବସ୍ତୁ ଏବଂ ଘଟଣାଗୁଡ଼ିକର ଗୁଣ ଓ ପରିମାପ ସତ୍ୟାପନ କରିବା ପାଇଁ ଛାତ୍ରଛାତ୍ରୀମାନେ ତଥ୍ୟ ସଂଗ୍ରହ କରିଥାନ୍ତି?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୧: ସମସ୍ୟାର ସାମ୍ନା କରିବା (Encounter with the Problem)",
+            "ପର୍ଯ୍ୟାୟ ୨: ତଥ୍ୟ ସଂଗ୍ରହ — ସତ୍ୟାପନ (Data Gathering — Verification)",
+            "ପର୍ଯ୍ୟାୟ ୩: ତଥ୍ୟ ସଂଗ୍ରହ — ପରୀକ୍ଷଣ (Data Gathering — Experimentation)",
+            "ପର୍ଯ୍ୟାୟ ୪: ବ୍ୟାଖ୍ୟା ପ୍ରସ୍ତୁତି ଓ ସଂଗଠନ (Organizing, Formulating an Explanation)"
+          ],
+          "explanation": "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍‌ଙ୍କ ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମଡେଲ୍‌ର ପର୍ଯ୍ୟାୟ ୨ ରେ ତଥ୍ୟ ସଂଗ୍ରହ (ସତ୍ୟାପନ) ଅନ୍ତର୍ଭୁକ୍ତ, ଯେଉଁଥିରେ ଛାତ୍ରଛାତ୍ରୀମାନେ ଶିକ୍ଷକଙ୍କୁ ହଁ/ନାହିଁ ପ୍ରଶ୍ନ ପଚାରି ତଥ୍ୟ ଓ ଗୁଣଗୁଡ଼ିକର ସତ୍ୟାପନ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784865609939-0",
+      "section": "Subject Knowledge",
+      "topic": "Organic Chemistry - Nucleophilic Substitution",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following alkyl halides undergoes an SN1 reaction at the fastest rate?",
+      "options": [
+        "tert-Butyl chloride",
+        "Isopropyl chloride",
+        "Ethyl chloride",
+        "Methyl chloride"
+      ],
+      "answer": 0,
+      "explanation": "The rate-determining step of an SN1 reaction involves the formation of a carbocation intermediate. tert-Butyl chloride forms a 3° (tertiary) carbocation, which is stabilized by inductive effects and hyperconjugation, making it the most reactive among the given options.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଆଲକାଇଲ୍ ହାଲାଇଡ୍ ଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ସବୁଠାରୁ ଦ୍ରୁତ ହାରରେ SN1 ପ୍ରତିକ୍ରିୟା କରେ?",
+          "options": [
+            "ଟର୍ଟ-ବ୍ୟୁଟାଇଲ୍ କ୍ଲୋରାଇଡ୍",
+            "ଆଇସୋପ୍ରୋପାଇଲ୍ କ୍ଲୋରାଇଡ୍",
+            "ଇଥାଇଲ୍ କ୍ଲୋରାଇଡ୍",
+            "ମିଥାଇଲ୍ କ୍ଲୋରାଇଡ୍"
+          ],
+          "explanation": "SN1 ପ୍ରତିକ୍ରିୟାର ହାର-ନିର୍ଦ୍ଧାରଣ କାରୀ ପଦକ୍ଷେପରେ ଏକ କାର୍ବୋକାଟାୟନ୍ ଅନ୍ତର୍ବର୍ତ୍ତୀ ଗଠିତ ହୋଇଥାଏ। ଟର୍ଟ-ବ୍ୟୁଟାଇଲ୍ କ୍ଲୋରାଇଡ୍ ଏକ 3° (ତୃତୀୟକ) କାର୍ବୋକାଟାୟନ୍ ଗଠନ କରେ, ଯାହା ଇଣ୍ଡକ୍ଟିଭ୍ ପ୍ରଭାବ ଏବଂ ହାଇପରକଞ୍ଜୁଗେସନ୍ ଦ୍ୱାରା ଅଧିକ ସ୍ଥାୟୀ ହୋଇଥାଏ। ତେଣୁ ଏହା ସବୁଠାରୁ ଦ୍ରୁତ ପ୍ରତିକ୍ରିୟା କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784865609939-1",
+      "section": "Subject Knowledge",
+      "topic": "Statistical Thermodynamics",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to the Sackur-Tetrode equation, what is the correct expression for the molar entropy (Sm) of a monoatomic ideal gas as a function of temperature (T) and pressure (P)?",
+      "options": [
+        "Sm = R * (5/2 * ln(T) - ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 5/2)",
+        "Sm = R * (3/2 * ln(T) - ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 3/2)",
+        "Sm = R * (5/2 * ln(T) + ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 5/2)",
+        "Sm = R * (3/2 * ln(T) + ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 5/2)"
+      ],
+      "answer": 0,
+      "explanation": "The Sackur-Tetrode equation for entropy S of a monoatomic ideal gas is S = N*kB*(ln[(V/N)*(2*pi*m*kB*T/h^2)^(3/2)] + 5/2). Replacing V/N by kB*T/P for an ideal gas yields Sm = R*(5/2*ln(T) - ln(P) + ln[((2*pi*m*kB)/h^2)^(3/2) * kB] + 5/2).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସାକୁର-ଟେଟ୍ରୋଡ୍ ସମୀକରଣ ଅନୁଯାୟୀ, ତାପମାତ୍ରା (T) ଏବଂ ଚାପ (P) ର ଫଳନ ଭାବରେ ଏକ ଏକ-ପରମାଣୁକ ଆଦର୍ଶ ଗ୍ୟାସର ମୋଲାର୍ ଏଣ୍ଟ୍ରୋପି (Sm) ପାଇଁ ସଠିକ୍ ପ୍ରକାଶନ କେଉଁଟି?",
+          "options": [
+            "Sm = R * (5/2 * ln(T) - ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 5/2)",
+            "Sm = R * (3/2 * ln(T) - ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 3/2)",
+            "Sm = R * (5/2 * ln(T) + ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 5/2)",
+            "Sm = R * (3/2 * ln(T) + ln(P) + ln[((2 * pi * m * kB)/h^2)^(3/2) * kB] + 5/2)"
+          ],
+          "explanation": "ଏକ-ପରମାଣୁକ ଆଦର୍ଶ ଗ୍ୟାସର ଏଣ୍ଟ୍ରୋପି S ପାଇଁ ସାକୁର-ଟେଟ୍ରୋଡ୍ ସମୀକରଣ ହେଉଛି S = N*kB*(ln[(V/N)*(2*pi*m*kB*T/h^2)^(3/2)] + 5/2)। ଆଦର୍ଶ ଗ୍ୟାସ୍ ପାଇଁ V/N ସ୍ଥାନରେ kB*T/P ପ୍ରତିସ୍ଥାପନ କଲେ Sm = R*(5/2*ln(T) - ln(P) + ln[((2*pi*m*kB)/h^2)^(3/2) * kB] + 5/2) ମିଳିଥାଏ।"
         }
       }
     }

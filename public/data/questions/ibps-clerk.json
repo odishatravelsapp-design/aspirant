@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -4889,6 +4889,136 @@
       ],
       "answer": 1,
       "explanation": "The Standing Deposit Facility (SDF) is a collateral-free liquidity absorption mechanism. Unlike the traditional Reverse Repo facility where the RBI provides government securities (G-Secs) as collateral to commercial banks, SDF allows the RBI to absorb surplus liquidity without pledging collateral.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784865092263-0",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of ₹8,000 is invested at 10% per annum compound interest, compounded annually for 2 years. What is the compound interest earned at the end of 2 years?",
+      "options": [
+        "₹1,600",
+        "₹1,680",
+        "₹1,720",
+        "₹1,760"
+      ],
+      "answer": 1,
+      "explanation": "Amount = P * (1 + R/100)^T = 8000 * (1 + 10/100)^2 = 8000 * 1.21 = ₹9,680. Compound Interest = Amount - Principal = ₹9,680 - ₹8,000 = ₹1,680."
+    },
+    {
+      "id": "ibps-clerk-ai-1784865092263-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A jar contains 120 liters of a mixture of milk and water in the ratio of 5 : 3. If 24 liters of the mixture is taken out and replaced with 16 liters of pure water, what will be the ratio of milk to water in the final mixture?",
+      "options": [
+        "15 : 13",
+        "12 : 11",
+        "5 : 4",
+        "13 : 11"
+      ],
+      "answer": 0,
+      "explanation": "Initial quantities: Milk = 120 * (5/8) = 75 liters, Water = 120 * (3/8) = 45 liters. When 24 liters of mixture is removed, Milk removed = 24 * (5/8) = 15 liters, Water removed = 24 * (3/8) = 9 liters. Remaining Milk = 75 - 15 = 60 liters, Remaining Water = 45 - 9 = 36 liters. After adding 16 liters of pure water, total Water = 36 + 16 = 52 liters. Final ratio of Milk : Water = 60 : 52 = 15 : 13."
+    },
+    {
+      "id": "ibps-clerk-ai-1784865121657-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements:\nP ≥ Q > R = S; T ≤ U < R; S ≥ V\n\nConclusions:\nI. P > U\nII. Q > V",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusions I and II are true",
+        "Neither conclusion I nor II is true"
+      ],
+      "answer": 2,
+      "explanation": "From the given statements:\n1) For Conclusion I (P > U): We have P ≥ Q > R > U (since U < R). Combining these gives P > U. Thus, Conclusion I is definitely true.\n2) For Conclusion II (Q > V): We have Q > R = S ≥ V, which simplifies to Q > S ≥ V => Q > V. Thus, Conclusion II is also definitely true.\nHence, both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-clerk-ai-1784865121657-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Seven persons – A, B, C, D, E, F, and G – live on seven different floors of a building, where the ground floor is numbered 1 and the topmost floor is numbered 7, but not necessarily in the same order.\n\n- C lives on an odd-numbered floor above floor 3.\n- Only two persons live between C and B.\n- F lives immediately above A.\n- As many persons live above F as below D.\n- D lives on an even-numbered floor.\n- E lives on one of the floors above G, but not immediately above.\n\nWho lives on floor 4?",
+      "options": [
+        "A",
+        "B",
+        "E",
+        "F"
+      ],
+      "answer": 1,
+      "explanation": "Let's determine the arrangement from top (7) to bottom (1):\n1. C lives on an odd floor above floor 3, so C is either on floor 5 or floor 7.\n2. If C is on floor 5, B must be on floor 2 (2 persons between them). Then (F, A) must be adjacent. Testing positions shows no valid arrangement where D is on an even floor and E is above G but not immediately above. Thus, C is on floor 7.\n3. Since C is on floor 7 and two persons live between C and B, B lives on floor 4.\n4. F lives immediately above A, so (F, A) forms a block. Since D is on an even floor (floor 2) and the number of persons above F equals those below D (1 person), F must be on floor 6, A on floor 5, and D on floor 2.\n5. The remaining floors are 3 and 1 for E and G. E lives above G but not immediately above, so E is on floor 3 and G is on floor 1.\n\nFinal floor arrangement from 7 to 1: C (7), F (6), A (5), B (4), E (3), D (2), G (1).\nTherefore, B lives on floor 4."
+    },
+    {
+      "id": "ibps-clerk-ai-1784865132782-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence given below, four words are marked in bold as (A), (B), (C), and (D). Select the pair of words that should be interchanged to make the sentence grammatically correct and contextually meaningful:\n\nThe board was preliminary (A) to launch (B) the new product line, but the marketing team felt the strategy was still too eager (C) to guarantee (D) success.",
+      "options": [
+        "A-C",
+        "B-D",
+        "A-B",
+        "C-D"
+      ],
+      "answer": 0,
+      "explanation": "Interchanging the words (A) 'preliminary' and (C) 'eager' corrects the sentence structure and meaning. The adjective 'eager' properly describes the board's enthusiasm, while 'preliminary' appropriately describes the early stage of the strategy."
+    },
+    {
+      "id": "ibps-clerk-ai-1784865132782-1",
+      "section": "English",
+      "topic": "Sentence Completion (Match the Columns)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are given containing three phrases each. Match the phrase from Column 1 with the appropriate phrase from Column 2 to make grammatically correct and contextually meaningful sentences.\n\nColumn 1:\n(A) The central bank announced a reduction in interest rates\n(B) Despite facing several unforeseen operational hurdles\n(C) Severe weather conditions across the coastal region\n\nColumn 2:\n(D) caused significant delays in the transportation of essential goods.\n(E) to stimulate economic growth during the sluggish quarter.\n(F) the startup managed to achieve profitability within its first year.",
+      "options": [
+        "A-E and B-F only",
+        "C-D only",
+        "A-E, B-F, and C-D",
+        "A-F and B-E only"
+      ],
+      "answer": 2,
+      "explanation": "Pair A-E links the central bank's action with its economic objective; Pair B-F contrasts the operational hurdles with achieving profitability using 'Despite'; Pair C-D connects severe weather conditions with transportation delays. All three pairs form correct sentences."
+    },
+    {
+      "id": "ibps-clerk-ai-1784865142002-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India (RBI) guidelines, what percentage of Adjusted Net Bank Credit (ANBC) or CEOBE must Regional Rural Banks (RRBs) allocate to Priority Sector Lending (PSL)?",
+      "options": [
+        "40%",
+        "60%",
+        "75%",
+        "80%"
+      ],
+      "answer": 2,
+      "explanation": "Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) are required to allocate 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE) to Priority Sector Lending (PSL), whereas domestic commercial banks have a target of 40%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784865142002-1",
+      "section": "General Awareness",
+      "topic": "International Organizations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following currencies is NOT a part of the International Monetary Fund's (IMF) Special Drawing Rights (SDR) valuation basket?",
+      "options": [
+        "Chinese Yuan",
+        "Japanese Yen",
+        "Swiss Franc",
+        "British Pound Sterling"
+      ],
+      "answer": 2,
+      "explanation": "The IMF's SDR basket comprises five major currencies: the US Dollar, Euro, Chinese Yuan (Renminbi), Japanese Yen, and British Pound Sterling. The Swiss Franc is not part of the SDR basket.",
       "status": "pending"
     }
   ]

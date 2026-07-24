@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -4626,6 +4626,136 @@
       ],
       "answer": 0,
       "explanation": "Under Clause 15(2) of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman may award compensation not exceeding ₹1 Lakh to the complainant for loss of time, expenses incurred, harassment, and mental agony.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784865157078-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The ratio of the present ages of A and B is 5 : 7. After 6 years, the ratio of their ages will become 3 : 4. What is the sum of their present ages?",
+      "options": [
+        "60 years",
+        "72 years",
+        "84 years",
+        "96 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the present ages of A and B be 5x and 7x years respectively.\nAccording to the question:\n(5x + 6) / (7x + 6) = 3 / 4\n4(5x + 6) = 3(7x + 6)\n20x + 24 = 21x + 18\nx = 6\n\nSum of their present ages = 5x + 7x = 12x = 12 * 6 = 72 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1784865157078-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 18 hours, and Pipe B can fill it in 24 hours. Pipe C can empty the full tank in 36 hours. Pipes A and B are opened together, but Pipe A is closed after 6 hours and Pipe C is opened simultaneously. What is the total time taken from the beginning to fill the tank completely?",
+      "options": [
+        "30 hours",
+        "32 hours",
+        "36 hours",
+        "40 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let the total capacity of the tank be LCM(18, 24, 36) = 72 units.\nEfficiency of Pipe A = 72 / 18 = +4 units/hr\nEfficiency of Pipe B = 72 / 24 = +3 units/hr\nEfficiency of Pipe C = 72 / 36 = -2 units/hr\n\nWork done by Pipes A and B together in the first 6 hours = (4 + 3) * 6 = 42 units.\nRemaining work = 72 - 42 = 30 units.\n\nNow, Pipe A is closed and Pipe C is opened, so Pipes B and C work together.\nCombined efficiency of B and C = +3 - 2 = +1 unit/hr.\nTime required to finish remaining work = 30 / 1 = 30 hours.\n\nTotal time taken = 6 hours + 30 hours = 36 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1784865173056-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pointing to a photograph, a woman said, \"He is the only son of the wife of my father-in-law's only son.\" How is the man in the photograph related to the woman?",
+      "options": [
+        "Husband",
+        "Son",
+        "Brother",
+        "Nephew"
+      ],
+      "answer": 1,
+      "explanation": "The woman's father-in-law's only son is her husband. The wife of her husband is the woman herself. Thus, the only son of the woman herself is her son."
+    },
+    {
+      "id": "sbi-clerk-ai-1784865173056-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—P, Q, R, S, T, and U—live on six different floors of a building numbered 1 to 6 from bottom to top. Q lives on an even-numbered floor. Exactly two persons live between Q and S. P lives on a floor immediately above T. R lives on an odd-numbered floor above S. U lives on a floor below P. On which floor does T live?",
+      "options": [
+        "3rd floor",
+        "5th floor",
+        "2nd floor",
+        "6th floor"
+      ],
+      "answer": 1,
+      "explanation": "If Q lives on floor 4, S lives on floor 1 (with 2 floors between them). R lives on an odd floor above S, which gives R = floor 3. P lives immediately above T, occupying floors 6 and 5 respectively. The remaining person U lives on floor 2, which satisfies 'U lives below P'. Thus, T lives on the 5th floor."
+    },
+    {
+      "id": "sbi-clerk-ai-1784865183363-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that correctly completes the given sentence:\n\n'The committee members reached a unanimous agreement after hours of deliberative discussions, demonstrating their ability to ________ their personal differences for the common good.'",
+      "options": [
+        "set aside",
+        "set about",
+        "set off",
+        "set up"
+      ],
+      "answer": 0,
+      "explanation": "'Set aside' means to disregard or discard personal opinions or differences in order to focus on a shared goal. 'Set about' means to begin doing something, 'set off' means to trigger or start a journey, and 'set up' means to establish."
+    },
+    {
+      "id": "sbi-clerk-ai-1784865183363-1",
+      "section": "English",
+      "topic": "Grammar - Inversion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the phrase that logically and grammatically completes the sentence below:\n\n'Seldom ________ such an overwhelming show of support from the local community until the charity foundation launched its annual awareness drive.'",
+      "options": [
+        "the town has witnessed",
+        "has the town witnessed",
+        "the town had witnessed",
+        "had the town witnessed"
+      ],
+      "answer": 3,
+      "explanation": "When a restrictive adverb like 'Seldom' opens a clause, subject-auxiliary inversion is required. Additionally, because the sentence describes a situation completed before another past action ('launched'), the Past Perfect tense is required, making 'had the town witnessed' the correct choice."
+    },
+    {
+      "id": "sbi-clerk-ai-1784865193184-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) Act, what is the maximum deposit insurance coverage provided to each depositor in a bank for both principal and interest amount?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "With effect from February 4, 2020, the deposit insurance coverage limit was raised from ₹1 lakh to ₹5 lakh per depositor for both principal and interest amount held in an insured bank.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784865193184-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's revised Liquidity Management Framework, what is the total width of the Liquidity Adjustment Facility (LAF) corridor formed between the Standing Deposit Facility (SDF) rate and the Marginal Standing Facility (MSF) rate?",
+      "options": [
+        "25 basis points",
+        "50 basis points",
+        "75 basis points",
+        "100 basis points"
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) rate is set 25 basis points below the Policy Repo Rate, and the Marginal Standing Facility (MSF) rate is set 25 basis points above the Policy Repo Rate. Therefore, the corridor between the SDF and MSF rates has a fixed width of 50 basis points.",
       "status": "pending"
     }
   ]

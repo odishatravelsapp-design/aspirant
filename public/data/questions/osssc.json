@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -5218,6 +5218,234 @@
             "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ"
           ],
           "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାର ପ୍ରମୁଖ ଆଦିବାସୀ ନେତା ଶହୀଦ ଲକ୍ଷ୍ମଣ ନାୟକ ଦକ୍ଷିଣ ଓଡ଼ିଶାରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେଇଥିଲେ ଏବଂ ୧୯୪୩ ମାର୍ଚ୍ଚ ୨୯ ରେ ବ୍ରହ୍ମପୁର ଜେଲରେ ତାଙ୍କୁ ଫାଶୀ ଦିଆଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865280037-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A reduction of 20% in the price of sugar enables a person to buy 4 kg more sugar for Rs. 160. What was the original price of sugar per kg?",
+      "options": [
+        "Rs. 8",
+        "Rs. 10",
+        "Rs. 12",
+        "Rs. 15"
+      ],
+      "answer": 1,
+      "explanation": "Amount saved due to 20% discount on Rs. 160 = 20% of 160 = Rs. 32. This Rs. 32 buys 4 kg of extra sugar, so the reduced price = 32 / 4 = Rs. 8/kg. If P is the original price, then 80% of P = 8 => P = 8 / 0.8 = Rs. 10/kg.",
+      "translations": {
+        "or": {
+          "question": "ଚିନିର ଦାମ୍ ୨୦% ହ୍ରାସ ପାଇବା ଯୋଗୁଁ ଜଣେ ବ୍ୟକ୍ତି ୧୬୦ ଟଙ୍କାରେ ୪ କିଲୋଗ୍ରାମ୍ ଅଧିକ ଚିନି କିଣିପାରନ୍ତି। ଚିନିର ପ୍ରାରମ୍ଭିକ କିଲୋଗ୍ରାମ୍ ପ୍ରତି ଦାମ୍ କେତେ ଥିଲା?",
+          "options": [
+            "୮ ଟଙ୍କା",
+            "୧୦ ଟଙ୍କା",
+            "୧୨ ଟଙ୍କା",
+            "୧୫ ଟଙ୍କା"
+          ],
+          "explanation": "୧୬୦ ଟଙ୍କାର ୨୦% ହ୍ରାସ = ୩୨ ଟଙ୍କା। ଏହି ୩୨ ଟଙ୍କାରେ ୪ କିଗ୍ରା ଅଧିକ ଚିନି ମିଳେ, ତେଣୁ ହ୍ରାସ ପାଇଥିବା ଦର = ୩୨ / ୪ = ୮ ଟଙ୍କା ପ୍ରତି କିଗ୍ରା। ଯଦି ପ୍ରାରମ୍ଭିକ ଦର P ହୁଏ, ତେବେ P ର ୮୦% = ୮ ଟଙ୍କା => P = ୧୦ ଟଙ୍କା ପ୍ରତି କିଗ୍ରା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865280038-1",
+      "section": "Arithmetic",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains 80 liters of pure milk. From this vessel, 8 liters of milk is taken out and replaced with water. This process is repeated two more times. How much water (in liters) is present in the vessel at the end?",
+      "options": [
+        "21.68 liters",
+        "23.42 liters",
+        "58.32 liters",
+        "24.50 liters"
+      ],
+      "answer": 0,
+      "explanation": "Quantity of milk remaining after 3 operations = 80 × (1 - 8/80)^3 = 80 × (0.9)^3 = 80 × 0.729 = 58.32 liters. Quantity of water present = Total volume - Remaining milk = 80 - 58.32 = 21.68 liters.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ପାତ୍ରରେ ୮୦ ଲିଟର ବିଶୁଦ୍ଧ କ୍ଷୀର ଅଛି। ଏହି ପାତ୍ରରୁ ୮ ଲିଟର କ୍ଷୀର କାଢ଼ି ନିଆଯାଇ ସେଥିରେ ଜଳ ମିଶାଗଲା। ଏହି ପ୍ରକ୍ରିୟାକୁ ଆଉ ଦୁଇଥର ଦୋହରାଗଲା। ଶେଷରେ, ପାତ୍ରରେ କେତେ ଲିଟର ଜଳ ରହିବ?",
+          "options": [
+            "୨୧.୬୮ ଲିଟର",
+            "୨୩.୪୨ ଲିଟର",
+            "୫୮.୩୨ ଲିଟର",
+            "୨୪.୫୦ ଲିଟର"
+          ],
+          "explanation": "୩ ଟି ପ୍ରକ୍ରିୟା ପରେ ବଳକା ଥିବା କ୍ଷୀରର ପରିମାଣ = ୮୦ × (୧ - ୮/୮୦)^୩ = ୮୦ × (୦.୯)^୩ = ୫୮.୩୨ ଲିଟର। ତେଣୁ ପାତ୍ରରେ ଥିବା ଜଳର ପରିମାଣ = ୮୦ - ୫୮.୩୨ = ୨୧.୬୮ ଲିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865298304-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. All rivers are lakes.\n2. Some lakes are oceans.\n3. No ocean is a stream.\n\nConclusions:\nI. Some lakes are not streams.\nII. Some rivers being oceans is a possibility.",
+      "options": [
+        "Both conclusion I and conclusion II follow",
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor conclusion II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. Since 'Some lakes are oceans' and 'No ocean is a stream', the portion of lakes that are oceans can never be streams. Thus, 'Some lakes are not streams' logically follows (Conclusion I is true).\n2. No negative relation is established between rivers and oceans, so 'Some rivers being oceans' is a valid possibility (Conclusion II is true).\nHence, both conclusions follow.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତି ଏବଂ ନିଷ୍କର୍ଷଗୁଡ଼ିକୁ ଧ୍ୟାନସହକାରେ ପଢ଼ନ୍ତୁ। ବିବୃତିରେ ଦିଆଯାଇଥିବା ତଥ୍ୟ ସାଧାରଣତଃ ଜଣାଶୁଣା ତଥ୍ୟଠାରୁ ଭିନ୍ନ ମନେହେଉଥିଲେ ମଧ୍ୟ ତାହାକୁ ସତ୍ୟ ବୋଲି ଗ୍ରହଣ କରି, ଦିଆଯାଇଥିବା ନିଷ୍କର୍ଷଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଯୁକ୍ତିଯୁକ୍ତ ଭାବରେ ଅନୁସରଣ କରେ ନିର୍ଣ୍ଣୟ କରନ୍ତୁ।\n\nବିବୃତି:\n1. ସମସ୍ତ ନଦୀ ହ୍ରଦ ଅଟନ୍ତି।\n2. କିଛି ହ୍ରଦ ମହାସାଗର ଅଟନ୍ତି।\n3. କୌଣସି ମହାସାଗର ଝରଣା ନୁହେଁ।\n\nନିଷ୍କର୍ଷ:\nI. କିଛି ହ୍ରଦ ଝରଣା ନୁହଁନ୍ତି।\nII. କିଛି ନଦୀ ମହାସାଗର ହେବାର ସମ୍ଭାବନା ଅଛି।",
+          "options": [
+            "ଉଭୟ ନିଷ୍କର୍ଷ I ଏବଂ ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରନ୍ତି",
+            "କେବଳ ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ",
+            "କେବଳ ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ",
+            "ନିଷ୍କର୍ଷ I କିମ୍ବା ନିଷ୍କର୍ଷ II କୌଣସିଟି ବି ଅନୁସରଣ କରନ୍ତି ନାହିଁ"
+          ],
+          "explanation": "1. କାରଣ 'କିଛି ହ୍ରଦ ମହାସାଗର ଅଟନ୍ତି' ଏବଂ 'କୌଣସି ମହାସାଗର ଝରଣା ନୁହେଁ', ହ୍ରଦର ଯେଉଁ ଅଂଶ ମହାସାଗର, ତାହା କେବେହେଲେ ଝରଣା ହୋଇପାରିବ ନାହିଁ। ତେଣୁ 'କିଛି ହ୍ରଦ ଝରଣା ନୁହଁନ୍ତି' ସତ୍ୟ (ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ)।\n2. ନଦୀ ଏବଂ ମହାସାଗର ମଧ୍ୟରେ କୌଣସି ପ୍ରତ୍ୟକ୍ଷ ନାସ୍ତିସୂଚକ ସମ୍ପର୍କ ନାହିଁ, ତେଣୁ 'କିଛି ନଦୀ ମହାସାଗର ହେବା' ଏକ ସମ୍ଭାବନା (ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ)।\nତେଣୁ ଉଭୟ ନିଷ୍କର୍ଷ ଅନୁସରଣ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865298304-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following information carefully and answer the question:\n'M + N' means 'M is the father of N'\n'M - N' means 'M is the sister of N'\n'M × N' means 'M is the brother of N'\n'M ÷ N' means 'M is the mother of N'\n\nBased on the above relations, how is J related to N in the expression 'J ÷ K × L + M - N'?",
+      "options": [
+        "Paternal grandmother",
+        "Maternal grandmother",
+        "Father's sister (Aunt)",
+        "Mother's sister (Maternal Aunt)"
+      ],
+      "answer": 0,
+      "explanation": "Decoding 'J ÷ K × L + M - N':\n- 'J ÷ K': J is the mother of K.\n- 'K × L': K is the brother of L (meaning J is also the mother of L).\n- 'L + M': L is the father of M.\n- 'M - N': M is the sister of N (meaning L is the father of N as well).\nSince L is the father of N and J is the mother of L, J is the paternal grandmother (father's mother) of N.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ତଥ୍ୟକୁ ଧ୍ୟାନସହକାରେ ପଢ଼ନ୍ତୁ ଏବଂ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅନ୍ତୁ:\n'M + N' ର ଅର୍ଥ 'M ହେଉଛନ୍ତି N ଙ୍କ ପିତା'\n'M - N' ର ଅର୍ଥ 'M ହେଉଛନ୍ତି N ଙ୍କ ଭଉଣୀ'\n'M × N' ର ଅର୍ଥ 'M ହେଉଛନ୍ତି N ଙ୍କ ଭାଇ'\n'M ÷ N' ର ଅର୍ଥ 'M ହେଉଛନ୍ତି N ଙ୍କ ମାତା'\n\nଉପରୋକ୍ତ ସଙ୍କେତ ଆଧାରରେ, 'J ÷ K × L + M - N' ସମୀକରଣରେ J, N ଙ୍କ ସହ କିପରି ସମ୍ପର୍କିତ?",
+          "options": [
+            "ଜେଜେମା (ପିତାଙ୍କ ମା')",
+            "ଆଈ (ମା'ଙ୍କ ମା')",
+            "ପିଉସୀ",
+            "ମାଉସୀ"
+          ],
+          "explanation": "'J ÷ K × L + M - N' ର ସମ୍ପର୍କ ନିରୂପଣ:\n- 'J ÷ K': J ହେଉଛନ୍ତି K ଙ୍କ ମା'।\n- 'K × L': K ହେଉଛନ୍ତି L ଙ୍କ ଭାଇ (ଅର୍ଥାତ୍ J ମଧ୍ୟ L ଙ୍କ ମା')।\n- 'L + M': L ହେଉଛନ୍ତି M ଙ୍କ ପିତା।\n- 'M - N': M ହେଉଛନ୍ତି N ଙ୍କ ଭଉଣୀ (ଅର୍ଥାତ୍ L ମଧ୍ୟ N ଙ୍କ ପିତା)।\nL ହେଉଛନ୍ତି N ଙ୍କ ପିତା ଏବଂ J ହେଉଛନ୍ତି L ଙ୍କ ମା', ତେଣୁ J ହେଉଛନ୍ତି N ଙ୍କ ଜେଜେମା (ପିତାଙ୍କ ମା')।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865314183-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Freedom Movement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Inchudi in Balasore district of Odisha is historically famous for being the primary center of which movement during the Indian freedom struggle?",
+      "options": [
+        "Non-Cooperation Movement",
+        "Salt Satyagraha",
+        "Quit India Movement",
+        "Swadeshi Movement"
+      ],
+      "answer": 1,
+      "explanation": "Inchudi in Balasore district was the chief center of the Salt Satyagraha in Odisha in April 1930. Led by leaders like Acharya Harihar, Gopabandhu Choudhury, and Rama Devi, it was considered second only to Dandi in terms of historical significance.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ବାଲେଶ୍ୱର ଜିଲ୍ଲାର ଇଞ୍ଚୁଡ଼ି ଭାରତୀୟ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମ ସମୟରେ କେଉଁ ଆନ୍ଦୋଳନର ମୁଖ୍ୟ କେନ୍ଦ୍ର ଭାବରେ ଐତିହାସିକ ପ୍ରସିଦ୍ଧି ଲାଭ କରିଛି?",
+          "options": [
+            "ଅସହଯୋଗ ଆନ୍ଦୋଳନ",
+            "ଲବଣ ସତ୍ୟାଗ୍ରହ",
+            "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ",
+            "ସ୍ୱଦେଶୀ ଆନ୍ଦୋଳନ"
+          ],
+          "explanation": "ବାଲେଶ୍ୱର ଜିଲ୍ଲାର ଇଞ୍ଚୁଡ଼ି ୧୯୩୦ ଏପ୍ରିଲରେ ଓଡ଼ିଶାରେ ଲବଣ ସତ୍ୟାଗ୍ରହର ମୁଖ୍ୟ କେନ୍ଦ୍ର ଥିଲା। ଆଚାର୍ଯ୍ୟ ହରିହର, ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଓ ରମାଦେବୀଙ୍କ ନେତୃତ୍ୱରେ ପରିଚାଳିତ ଏହି ସତ୍ୟାଗ୍ରହ ଦାଣ୍ଡି ଅଭିଯାନ ପରେ ଭାରତର ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଲବଣ ସତ୍ୟାଗ୍ରହ କେନ୍ଦ୍ର ଭାବେ ଗଣ୍ୟ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865314183-1",
+      "section": "General Knowledge",
+      "topic": "Gajapati Dynasty History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous legendary expedition 'Kanchi Abhijana' is traditionally associated with which Gajapati ruler of Odisha?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 1,
+      "explanation": "The legend of 'Kanchi Abhijana' is associated with Gajapati Purushottama Deva (1466–1497 AD). According to Odia tradition and folklore, he conquered Kanchi and married Princess Padmavati with the divine assistance of Lord Jagannath and Lord Balabhadra.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଐତିହାସିକ ତଥା ପୌରାଣିକ 'କାଞ୍ଚି ଅଭିଯାନ' ଓଡ଼ିଶାର କେଉଁ ଗଜପତି ଶାସକଙ୍କ ସହିତ ଜଡ଼ିତ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "'କାଞ୍ଚି ଅଭିଯାନ'ର କାହାଣୀ ଗଜପତି ପୁରୁଷୋତ୍ତମ ଦେବଙ୍କ (୧୪୬୬-୧୪୯୭ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ସହିତ ଜଡ଼ିତ। ଓଡ଼ିଆ ଲୋକକଥା ଅନୁସାରେ, ସେ ମହାପ୍ରଭୁ ଜଗନ୍ନାଥ ଓ ବଳଭଦ୍ରଙ୍କ ଦିବ୍ୟ ସହାୟତାରେ କାଞ୍ଚି ବିଜୟ କରି ରାଜଜେମା ପଦ୍ମାବତୀଙ୍କୁ ବିବାହ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865323192-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which national park in Odisha is famous for its vast mangrove ecosystem, saltwater crocodiles, and rare white crocodiles?",
+      "options": [
+        "Similipal National Park",
+        "Bhitarkanika National Park",
+        "Karlapat Wildlife Sanctuary",
+        "Debrigarh Wildlife Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Bhitarkanika National Park, located in Kendrapara district of Odisha, is well-known for its rich mangrove ecosystem, saltwater crocodiles, and rare white estuarine crocodiles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜାତୀୟ ଉଦ୍ୟାନ ଏହାର ବିଶାଳ ହେନ୍ତାଳବନ (ମାଙ୍ଗ୍ରୋଭ୍) ପରିସଂସ୍ଥା, ଲୁଣି ଜଳ କୁମ୍ଭୀର ଏବଂ ଦୁର୍ଲଭ ଧଳା କୁମ୍ଭୀର ପାଇଁ ପ୍ରସିଦ୍ଧ?",
+          "options": [
+            "ସିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନ",
+            "ଭିତରକନିକା ଜାତୀୟ ଉଦ୍ୟାନ",
+            "କର୍ଲାପାଟ ଅଭୟାରଣ୍ୟ",
+            "ଦେବ୍ରୀଗଡ଼ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଭିତରକନିକା ଜାତୀୟ ଉଦ୍ୟାନ ଏହାର ସମୃଦ୍ଧ ହେନ୍ତାଳବନ, ଲୁଣି ଜଳ କୁମ୍ଭୀର ଏବଂ ଦୁର୍ଲଭ ଧଳା କୁମ୍ଭୀର ପାଇଁ ସୁପ୍ରସିଦ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784865323192-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the leader of the historic Tapang Rebellion against British rule in Odisha in 1827?",
+      "options": [
+        "Samanta Madhab Chandra Routray",
+        "Bakshi Jagabandhu Bidyadhar",
+        "Laxman Nayak",
+        "Veer Surendra Sai"
+      ],
+      "answer": 0,
+      "explanation": "Samanta Madhab Chandra Routray, the Dalabehera (commander) of Tapang near Khordha, led the armed uprising against the East India Company forces in 1827, known as the Tapang Rebellion.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୨୭ ମସିହାରେ ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୁଦ୍ଧରେ ହୋଇଥିବା ଐତିହାସିକ 'ତାପଙ୍ଗ ବିଦ୍ରୋହ'ର ନେତା କିଏ ଥିଲେ?",
+          "options": [
+            "ସାମନ୍ତ ମାଧବ ଚନ୍ଦ୍ର ରାଉତରାୟ",
+            "ବକ୍ସି ଜଗବନ୍ଧୁ ବିଦ୍ୟାଧର",
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ"
+          ],
+          "explanation": "ଖୋର୍ଦ୍ଧା ନିକଟସ୍ଥ ତାପଙ୍ଗର ଦଳବେହେରା ସାମନ୍ତ ମାଧବ ଚନ୍ଦ୍ର ରାଉତରାୟ ୧୮୨୭ ମସିହାରେ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ସେନା ବିରୁଦ୍ଧରେ ସଶସ୍ତ୍ର ତାପଙ୍ଗ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -6740,6 +6740,234 @@
             "ଇନ୍ଦ୍ରାବତୀ"
           ],
           "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି। ଏହା ପ୍ରାୟ ୧୫୭.୫ ମିଟର (୫୧୭ ଫୁଟ) ଉଚ୍ଚତାରୁ ପଡ଼ିଥାଏ ଏବଂ ଏହାକୁ ପାରମ୍ପରିକ ଭାବରେ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ବୋଲି ମଧ୍ୟ କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865342951-0",
+      "section": "Subject Knowledge",
+      "topic": "John Milton's Paradise Lost",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Book IX of John Milton's epic poem 'Paradise Lost', which creature's form does Satan inhabit to approach and tempt Eve in the Garden of Eden?",
+      "options": [
+        "A cormorant",
+        "A toad",
+        "A serpent",
+        "A lion"
+      ],
+      "answer": 2,
+      "explanation": "In Book IX of 'Paradise Lost', Satan enters the body of a sleeping serpent, describing it as the subtlest beast of the field, in order to guise himself and successfully tempt Eve.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ମିଲ୍ଟନ୍‌ଙ୍କ ମହାକାବ୍ୟ 'ପାରାଡାଇଜ୍ ଲଷ୍ଟ' (Paradise Lost) ର ନବମ ପୁସ୍ତକ (Book IX) ରେ, ଏଡେନ୍ ଉଦ୍ୟାନରେ ଇଭ୍‌ (Eve) ଙ୍କୁ ନିକଟତର ହୋଇ ପ୍ରଲୋଭିତ କରିବା ପାଇଁ ସୈତାନ୍ (Satan) କେଉଁ ଜୀବର ରୂପ ଧାରଣ କରେ?",
+          "options": [
+            "କୋର୍ମୋରାଣ୍ଟ (Cormorant)",
+            "ଟୋଡ୍ / ବେଙ୍ଗ (Toad)",
+            "ସର୍ପ (Serpent)",
+            "ସିଂହ (Lion)"
+          ],
+          "explanation": "'ପାରାଡାଇଜ୍ ଲଷ୍ଟ' ର ନବମ ପୁସ୍ତକରେ, ସୈତାନ୍ ଇଭ୍‌ଙ୍କୁ ପ୍ରଲୋଭିତ ଏବଂ ପ୍ରତାରିତ କରିବା ପାଇଁ ଏକ ସୋଇଥିବା ସର୍ପର ଶରୀରରେ ପ୍ରବେଶ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865342951-1",
+      "section": "Subject Knowledge",
+      "topic": "Postcolonial Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In his essay 'Of Mimicry and Man: The Ambivalence of Colonial Discourse', postcolonial theorist Homi K. Bhabha famously defines colonial mimicry as 'the desire for a reformed, recognizable Other, as a subject of a difference that is...'",
+      "options": [
+        "\"almost the same, but not quite\"",
+        "\"completely distinct, yet easily controlled\"",
+        "\"radically alienated, but visually identical\"",
+        "\"inherently rebellious, yet structurally silent\""
+      ],
+      "answer": 0,
+      "explanation": "Homi K. Bhabha famously formulates colonial mimicry as 'the desire for a reformed, recognizable Other, as a subject of a difference that is almost the same, but not quite', highlighting the ambivalence that inherently threatens colonial authority.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଉତ୍ତର-ଉପନିବେଶବାଦୀ ତାତ୍ତ୍ୱିକ ହୋମି କେ. ଭାଭା (Homi K. Bhabha) ତାଙ୍କର ପ୍ରବନ୍ଧ 'ଅଫ୍ ମିମିକ୍ରି ଏଣ୍ଡ ମ୍ୟାନ୍: ଦି ଆମ୍ବିଭାଲେନ୍ସ ଅଫ୍ କୋଲୋନିଆଲ୍ ଡିସକୋର୍ସ' ରେ ଉପନିବେଶବାଦୀ ଅନୁକରଣ (colonial mimicry) କୁ କିପରି ସଂଜ୍ଞାୟିତ କରିଛନ୍ତି?",
+          "options": [
+            "\"ଅଲ୍‌ମୋଷ୍ଟ ଦି ସେମ୍, ବଟ୍ ନଟ୍ କ୍ୱାଇଟ୍\" (\"almost the same, but not quite\")",
+            "\"କମ୍ପ୍ଲିଟଲି ଡିଷ୍ଟିଙ୍କ୍ଟ, ୟେଟ୍ ଇଜିଲି କଣ୍ଟ୍ରୋଲ୍‌ଡ\" (\"completely distinct, yet easily controlled\")",
+            "\"ରାଡିକାଲି ଏଲିଏନେଟେଡ୍, ବଟ୍ ଭିଜୁଆଲି ଆଇଡେଣ୍ଟିକାଲ୍\" (\"radically alienated, but visually identical\")",
+            "\"ଇନ୍‌ହେରେଣ୍ଟଲି ରେବେଲିୟସ୍, ୟେଟ୍ ଷ୍ଟ୍ରକଚରାଲି ସାଇଲେଣ୍ଟ\" (\"inherently rebellious, yet structurally silent\")"
+          ],
+          "explanation": "ହୋମି କେ. ଭାଭା ଉପନିବେଶବାଦୀ ଅନୁକରଣକୁ 'almost the same, but not quite' (ସାମାନ୍ୟ ସମାନ, କିନ୍ତୁ ସମ୍ପୂର୍ଣ୍ଣ ନୁହେଁ) ଭାବରେ ବର୍ଣ୍ଣନା କରିଛନ୍ତି, ଯାହା ଉପନିବେଶବାଦୀ କ୍ଷମତା ପାଇଁ ଏକ ଦ୍ୱନ୍ଦ୍ୱାତ୍ମକ ଚ୍ୟାଲେଞ୍ଜ ସୃଷ୍ଟି କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865358719-0",
+      "section": "Teaching Aptitude",
+      "topic": "David Ausubel's Meaningful Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In David Ausubel's theory of meaningful verbal learning, which type of advance organizer is used when the learning material is completely new and unfamiliar to the learner?",
+      "options": [
+        "Expository Organizer",
+        "Comparative Organizer",
+        "Narrative Organizer",
+        "Graphic Organizer"
+      ],
+      "answer": 0,
+      "explanation": "David Ausubel proposed two primary types of advance organizers: Expository and Comparative. Expository organizers are utilized when the new target material is completely unfamiliar to the learner, providing a general conceptual framework at a higher level of abstraction to anchor new details.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ (David Ausubel) ଅର୍ଥପୂର୍ଣ୍ଣ ଶାବ୍ଦିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ଯେତେବେଳେ ଶିକ୍ଷଣ ସାମଗ୍ରୀ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ନୂତନ ଏବଂ ଅପରିଚିତ ହୋଇଥାଏ, ସେତେବେଳେ କେଉଁ ପ୍ରକାରର ଆଗ୍ରିମ ସଂଗଠକ (Advance Organizer) ବ୍ୟବହୃତ ହୁଏ?",
+          "options": [
+            "ବ୍ୟାଖ୍ୟାତ୍ମକ ସଂଗଠକ (Expository Organizer)",
+            "ତୁଳନାତ୍ମକ ସଂଗଠକ (Comparative Organizer)",
+            "ବର୍ଣ୍ଣନାତ୍ମକ ସଂଗଠକ (Narrative Organizer)",
+            "ଗ୍ରାଫିକ୍ ସଂଗଠକ (Graphic Organizer)"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ ଅନୁଯାୟୀ, ବ୍ୟାଖ୍ୟାତ୍ମକ ସଂଗଠକ (Expository Organizers) ସେତେବେଳେ ବ୍ୟବହୃତ ହୁଏ ଯେତେବେଳେ ପାଠ୍ୟବସ୍ତୁ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଅପରିଚିତ ଥାଏ। ଏହା ନୂତନ ତଥ୍ୟକୁ ସଂଯୋଗ କରିବା ପାଇଁ ଏକ ଉଚ୍ଚ-ସ୍ତରୀୟ ଧାରଣାତ୍ମକ ଢାଞ୍ଚା ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865358719-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders Interaction Analysis System (FIACS)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Category System (FIACS), which category specifically represents 'Accepting or using ideas of pupils'?",
+      "options": [
+        "Category 1",
+        "Category 3",
+        "Category 5",
+        "Category 7"
+      ],
+      "answer": 1,
+      "explanation": "Ned Flanders' Interaction Analysis Category System (FIACS) consists of 10 categories to code classroom verbal behavior. Under 'Indirect Teacher Talk', Category 3 specifically corresponds to 'Accepting or using ideas of pupils'. Category 1 is 'Accepts feeling', Category 5 is 'Lecturing', and Category 7 is 'Criticizing or justifying authority'.",
+      "translations": {
+        "or": {
+          "question": "ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, କେଉଁ ବର୍ଗଟି 'ଛାତ୍ରମାନଙ୍କ ଧାରଣାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା' କୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ ଦର୍ଶାଏ?",
+          "options": [
+            "ବର୍ଗ ୧ (Category 1)",
+            "ବର୍ଗ ୩ (Category 3)",
+            "ବର୍ଗ ୫ (Category 5)",
+            "ବର୍ଗ ୭ (Category 7)"
+          ],
+          "explanation": "ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ FIACS ରେ ଶ୍ରେଣୀଗୃହର ଶାବ୍ଦିକ ବ୍ୟବହାରକୁ ଅନୁଧ୍ୟାନ କରିବା ପାଇଁ ୧୦ ଟି ବର୍ଗ ରହିଛି। ପରୋକ୍ଷ ଶିକ୍ଷକ କଥୋପକଥନ ଅନ୍ତର୍ଗତ ବର୍ଗ ୩ (Category 3) 'ଛାତ୍ରମାନଙ୍କ ଧାରଣାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା' କୁ ଦର୍ଶାଏ। ବର୍ଗ ୧ ଭାବନାକୁ ଗ୍ରହଣ କରିବା, ବର୍ଗ ୫ ବାଖ୍ୟାନ ଦେବା ଏବଂ ବର୍ଗ ୭ ସମାଲୋଚନା କରିବାକୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865372474-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography & Biodiversity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Bhitarkanika Mangroves, designated as a Ramsar site in 2002, are primarily located in the estuarine complex of which of the following river combinations in Odisha?",
+      "options": [
+        "Brahmani, Baitarani, and Dhamra rivers",
+        "Mahanadi, Devi, and Daya rivers",
+        "Subarnarekha, Budhabalanga, and Salandi rivers",
+        "Rushikulya, Bahuda, and Vansadhara rivers"
+      ],
+      "answer": 0,
+      "explanation": "Bhitarkanika Mangroves are located in the Kendrapara district of Odisha in the estuarine region where the Brahmani, Baitarani, and Dhamra rivers meet the Bay of Bengal. It was designated as a Ramsar Wetland of International Importance in August 2002.",
+      "translations": {
+        "or": {
+          "question": "୨୦୦୨ ମସିହାରେ ରାମସାର୍ ସାଇଟ୍ ଭାବରେ ମାନ୍ୟତା ପାଇଥିବା ଭିତରକନିକା ହେନ୍ତାଳବନ (ମ୍ୟାଙ୍ଗ୍ରୋଭ୍) ଓଡ଼ିଶାର କେଉଁ ନଦୀ ସମୂହର ମୁହାଣ ଅଞ୍ଚଳରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ, ବୈତରଣୀ ଏବଂ ଧାମରା ନଦୀ",
+            "ମହାନଦୀ, ଦେବୀ ଏବଂ ଦୟା ନଦୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା, ବୁଢ଼ାବଳଙ୍ଗ ଏବଂ ସାଳନ୍ଦୀ ନଦୀ",
+            "ରୁଷିକୂଲ୍ୟା, ବାହୁଦା ଏବଂ ବଂଶଧାରା ନଦୀ"
+          ],
+          "explanation": "ଭିତରକନିକା ହେନ୍ତାଳବନ ଓଡ଼ିଶାର କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ବ୍ରାହ୍ମଣୀ, ବୈତରଣୀ ଏବଂ ଧାମରା ନଦୀର ମୁହାଣ ଅଞ୍ଚଳରେ ଅବସ୍ଥିତ। ଏହାକୁ ଅଗଷ୍ଟ ୨୦୦୨ରେ ରାମସାର୍ ଜଳାଶୟ ମାନ୍ୟତା ପ୍ରଦାନ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865372474-1",
+      "section": "General Studies",
+      "topic": "Modern Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Sabha' (Cuttack Association), an early political organisation that played a key role in shaping public opinion for a separate Odisha province, established under the presidency of Chaudhury Kashinath Das?",
+      "options": [
+        "1870",
+        "1882",
+        "1895",
+        "1903"
+      ],
+      "answer": 1,
+      "explanation": "The Utkal Sabha (also known as the Cuttack Association) was formed in 1882 in Cuttack. Chaudhury Kashinath Das became its first President and Gauri Sankar Ray served as its Secretary. It was instrumental in promoting local self-government and paving the way for the formation of the Utkal Sammilani in 1903.",
+      "translations": {
+        "or": {
+          "question": "ଚୌଧୁରୀ କାଶୀନାଥ ଦାସଙ୍କ ସଭାପତିତ୍ୱରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ନିମନ୍ତେ ଜନମତ ସୃଷ୍ଟି କରିବାରେ ମୁଖ୍ୟ ଭୂମିକା ଗ୍ରହଣ କରିଥିବା ପ୍ରାରମ୍ଭିକ ରାଜନୈତିକ ସଂଗଠନ 'ଉତ୍କଳ ସଭା' କେଉଁ ମସିହାରେ କଟକଠାରେ ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧୮୭୦",
+            "୧୮୮୨",
+            "୧୮୯୫",
+            "୧୯୦୩"
+          ],
+          "explanation": "ଉତ୍କଳ ସଭା ୧୮୮୨ ମସିହାରେ କଟକଠାରେ ଗଠିତ ହୋଇଥିଲା। ଚୌଧୁରୀ କାଶୀନାଥ ଦାସ ଏହାର ପ୍ରଥମ ସଭାପତି ଏବଂ ଗୌରୀଶଙ୍କର ରାୟ ସମ୍ପାଦକ ଥିଲେ। ଏହା ସ୍ୱାୟତ୍ତ ଶାସନକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ଏବଂ ୧୯୦୩ ମସିହାରେ ଉତ୍କଳ ସମ୍ମିଳନୀ ଗଠନର ପଥ ପରିଷ୍କାର କରିବାରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865383889-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which river originates from the Gonasika hills in the Keonjhar district of Odisha?",
+      "options": [
+        "Baitarani",
+        "Brahmani",
+        "Budhabalanga",
+        "Rushikulya"
+      ],
+      "answer": 0,
+      "explanation": "The Baitarani River originates from the Gonasika (Guptaganga) hills located in the Keonjhar district of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା ପାହାଡ଼ରୁ କେଉଁ ନଦୀର ଉତ୍ପତ୍ତି ହୋଇଛି?",
+          "options": [
+            "ବୈତରଣୀ",
+            "ବ୍ରାହ୍ମଣୀ",
+            "ବୁଢ଼ାବଳଙ୍ଗ",
+            "ରୁଷିକୂଲ୍ୟା"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗୋନାସିକା (ଗୁପ୍ତଗଙ୍ଗା) ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784865383889-1",
+      "section": "Odisha GK",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "From which location did Acharya Harihar lead the historic Salt Satyagraha march towards Inchudi on April 6, 1930?",
+      "options": [
+        "Swaraj Ashram, Cuttack",
+        "Satyabadi Bana Vidyalaya, Puri",
+        "Alaka Ashram, Jagatsinghpur",
+        "Swaraj Mandir, Balasore"
+      ],
+      "answer": 0,
+      "explanation": "On April 6, 1930, Acharya Harihar Das led the first batch of 21 Satyagrahis from Swaraj Ashram in Cuttack towards Inchudi in Balasore to break the salt law.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ମସିହା ଅପ୍ରେଲ ୬ ତାରିଖରେ ଆଚାର୍ଯ୍ୟ ହରିହର କେଉଁ ସ୍ଥାନରୁ ଇଞ୍ଚୁଡ଼ି ଆଡ଼କୁ ଐତିହାସିକ ଲବଣ ସତ୍ୟାଗ୍ରହ ପଦଯାତ୍ରାର ନେତୃତ୍ୱ ନେଇଥିଲେ?",
+          "options": [
+            "ସ୍ୱରାଜ ଆଶ୍ରମ, କଟକ",
+            "ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ, ପୁରୀ",
+            "ଅଲକା ଆଶ୍ରମ, ଜଗତସିଂହପୁର",
+            "ସ୍ୱରାଜ ମନ୍ଦିର, ବାଲେଶ୍ୱର"
+          ],
+          "explanation": "୧୯୩୦ ମସିହା ଅପ୍ରେଲ ୬ ତାରିଖରେ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିବା ପାଇଁ କଟକର ସ୍ୱରାଜ ଆଶ୍ରମରୁ ୨୧ ଜଣ ସତ୍ୟାଗ୍ରହୀଙ୍କ ପ୍ରଥମ ଦଳକୁ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ଅଭିମୁଖେ ନେଇଥିଲେ।"
         }
       }
     }
