@@ -5057,6 +5057,176 @@
       "answer": 1,
       "explanation": "Sariska Tiger Reserve is located in the Alwar district of Rajasthan. It was given the status of a tiger reserve under Project Tiger in 1978.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-0",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which radar system was developed by DRDO's Electronics and Radar Development Establishment (LRDE) specifically to detect and track incoming enemy artillery shells, mortars, and rockets?",
+      "options": [
+        "Rajendra",
+        "Swathi",
+        "Indra",
+        "Rohini"
+      ],
+      "answer": 1,
+      "explanation": "Swathi Weapon Locating Radar (WLR) is a mobile phased-array radar system developed by DRDO to automatically locate the position of enemy artillery, mortars, and rocket launchers."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-1",
+      "section": "General Awareness",
+      "topic": "Physics (basics)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which optical phenomenon in atmosphere is primarily responsible for the separation of white sunlight into its constituent colors to form a rainbow?",
+      "options": [
+        "Polarization",
+        "Only diffraction",
+        "Dispersion and total internal reflection",
+        "Only interference"
+      ],
+      "answer": 2,
+      "explanation": "A rainbow is formed when sunlight undergoes refraction, dispersion, and total internal reflection inside tiny airborne water droplets."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-2",
+      "section": "General Awareness",
+      "topic": "Chemistry (basics)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the chemical name of the compound commonly known as 'Plaster of Paris'?",
+      "options": [
+        "Calcium sulfate hemihydrate",
+        "Calcium carbonate",
+        "Calcium hydroxide",
+        "Sodium hydrogen carbonate"
+      ],
+      "answer": 0,
+      "explanation": "Plaster of Paris is chemically known as Calcium sulfate hemihydrate [CaSO4·(1/2)H2O], produced by heating gypsum."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-3",
+      "section": "General Awareness",
+      "topic": "Biology & Human Body",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which region of the human brain contains key nuclei that act as the primary control center for regulating body temperature, hunger, thirst, and autonomic nervous system activity?",
+      "options": [
+        "Medulla Oblongata",
+        "Thalamus",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "answer": 2,
+      "explanation": "The hypothalamus maintains homeostasis in the human body by regulating body temperature, circadian rhythms, hunger, thirst, and endocrine functions."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-4",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In ecological succession, what is the term used to denote the entire intermediate sequence of biotic communities that succeed one another in a given region toward a climax community?",
+      "options": [
+        "Ecotone",
+        "Ecocline",
+        "Sere",
+        "Clisere"
+      ],
+      "answer": 2,
+      "explanation": "A 'sere' (or seral community) is an intermediate stage found in ecological succession advancing towards its final climax community."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-5",
+      "section": "General Awareness",
+      "topic": "Physical Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following ocean trenches is the deepest point in the Indian Ocean?",
+      "options": [
+        "Puerto Rico Trench",
+        "Sunda Trench",
+        "South Sandwich Trench",
+        "Mariana Trench"
+      ],
+      "answer": 1,
+      "explanation": "The Sunda Trench (also known as the Java Trench) reaches a depth of approximately 7,450 meters, making it the deepest point in the Indian Ocean."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-6",
+      "section": "General Awareness",
+      "topic": "Sports & Tournaments",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "The term 'Checkmate' is universally associated with which of the following sports or games?",
+      "options": [
+        "Chess",
+        "Billiards",
+        "Fencing",
+        "Archery"
+      ],
+      "answer": 0,
+      "explanation": "'Checkmate' is a winning board position in chess where a player's king is under immediate attack and has no legal move to escape."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-7",
+      "section": "General Awareness",
+      "topic": "Awards & Honours",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The prestigious 'Abel Prize', awarded annually by the King of Norway, is considered equivalent to the Nobel Prize in which discipline?",
+      "options": [
+        "Architecture",
+        "Economics",
+        "Mathematics",
+        "Environmental Science"
+      ],
+      "answer": 2,
+      "explanation": "The Abel Prize is awarded annually to outstanding individuals in the field of Mathematics, as there is no traditional Nobel Prize for Mathematics."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-8",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In October 2023, ISRO successfully conducted the 'TV-D1' flight test to demonstrate the Crew Escape System for which flagship mission?",
+      "options": [
+        "Chandrayaan-3",
+        "Aditya-L1",
+        "NISAR",
+        "Gaganyaan"
+      ],
+      "answer": 3,
+      "explanation": "The Test Vehicle Development Flight 1 (TV-D1) was conducted by ISRO to demonstrate and validate the Crew Escape System (CES) performance for India's human spaceflight program, Gaganyaan."
+    },
+    {
+      "id": "sbi-clerk-gk-1784953696247-9",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which international environmental treaty, signed in 1987, was specifically designed to protect the ozone layer by phasing out ozone-depleting substances?",
+      "options": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Ramsar Convention"
+      ],
+      "answer": 1,
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is an international treaty agreed upon in 1987 to phase out production of substances like CFCs."
     }
   ]
 }

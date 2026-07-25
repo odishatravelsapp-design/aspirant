@@ -2495,6 +2495,261 @@
       ],
       "answer": 0,
       "explanation": "E. G. Williamson's directive (Minnesota Point of View) counselling model consists of six linear steps: 1. Analysis, 2. Synthesis, 3. Diagnosis, 4. Prognosis, 5. Counselling, and 6. Follow-up."
+    },
+    {
+      "id": "tgt-edu-1784953622181-0",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following educational thinkers first systematically introduced the concept of Action Research into the field of Education through his work 'Action Research to Improve School Practices' (1953)?",
+      "options": [
+        "Kurt Lewin",
+        "Stephen M. Corey",
+        "Lawrence Stenhouse",
+        "Elliot Eisner"
+      ],
+      "answer": 1,
+      "explanation": "While Kurt Lewin pioneered Action Research in social psychology, Stephen M. Corey was the first to systematically apply and popularize Action Research in the field of education in 1953."
+    },
+    {
+      "id": "tgt-edu-1784953622181-1",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the National Education Policy (NEP) 2020, what is the new pedagogical and curricular structure replacing the previous 10+2 school education system?",
+      "options": [
+        "5 + 3 + 3 + 4",
+        "3 + 5 + 3 + 4",
+        "5 + 4 + 3 + 3",
+        "4 + 3 + 3 + 5"
+      ],
+      "answer": 0,
+      "explanation": "NEP 2020 replaces the 10+2 structure with a 5+3+3+4 design covering ages 3-18 (Foundational: 5 yrs, Preparatory: 3 yrs, Middle: 3 yrs, Secondary: 4 yrs)."
+    },
+    {
+      "id": "tgt-edu-1784953622181-2",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to the Schedule of the Right of Children to Free and Compulsory Education (RTE) Act, 2009, what is the mandated Pupil-Teacher Ratio (PTR) for primary schools (Classes I to V) for admissions up to 60 children?",
+      "options": [
+        "30:1",
+        "35:1",
+        "40:1",
+        "25:1"
+      ],
+      "answer": 0,
+      "explanation": "The RTE Act 2009 specifies a Pupil-Teacher Ratio (PTR) of 30:1 for primary schools (Classes I to V) up to an enrollment of 60 pupils."
+    },
+    {
+      "id": "tgt-edu-1784953622181-3",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to the Atkinson-Shiffrin model of memory, which memory store has an virtually unlimited capacity and can retain information for long durations?",
+      "options": [
+        "Sensory Memory",
+        "Short-Term Memory",
+        "Long-Term Memory",
+        "Working Memory"
+      ],
+      "answer": 2,
+      "explanation": "Long-Term Memory (LTM) in the Atkinson-Shiffrin model is characterized by its theoretically unlimited capacity and long-term/indefinite retention duration."
+    },
+    {
+      "id": "tgt-edu-1784953622181-4",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Jacob Kounin identified several teacher behaviors critical for effective classroom management. Which term describes a teacher's ability to demonstrate awareness of what all students are doing in all parts of the classroom at all times?",
+      "options": [
+        "Overlapping",
+        "Withitness",
+        "Smoothness",
+        "Flip-flopping"
+      ],
+      "answer": 1,
+      "explanation": "Jacob Kounin coined the term 'Withitness' to describe a teacher's constant awareness of student behavior throughout the entire classroom space."
+    },
+    {
+      "id": "tgt-edu-1784953622181-5",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In a standard normal distribution curve, approximately what percentage of total score values fall within one standard deviation (+/- 1 SD) above and below the mean?",
+      "options": [
+        "50.00%",
+        "68.26%",
+        "95.44%",
+        "99.72%"
+      ],
+      "answer": 1,
+      "explanation": "In a normal distribution, approximately 68.26% of data points fall within +/- 1 standard deviation of the mean score."
+    },
+    {
+      "id": "tgt-edu-1784953622181-6",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Noam Chomsky's theory of language acquisition, what innate biological mechanism allows human children to rapidly acquire language rules and syntax?",
+      "options": [
+        "Language Acquisition Device (LAD)",
+        "Zone of Proximal Development (ZPD)",
+        "Operating System of Speech (OSS)",
+        "Universal Grammar Module (UGM)"
+      ],
+      "answer": 0,
+      "explanation": "Noam Chomsky posited that human brains possess a built-in Language Acquisition Device (LAD) containing pre-programmed universal grammatical principles."
+    },
+    {
+      "id": "tgt-edu-1784953622181-7",
+      "section": "Teaching Aptitude",
+      "topic": "National Curriculum Framework (NCF)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The National Curriculum Framework 2005 (NCF 2005) recommends shifting the emphasis from rote learning to active knowledge construction based primarily on which learning paradigm?",
+      "options": [
+        "Behaviorism",
+        "Constructivism",
+        "Cognitivism",
+        "Humanism"
+      ],
+      "answer": 1,
+      "explanation": "NCF 2005 strongly aligns with the Constructivist perspective, advocating that learners actively construct knowledge rather than passively receive information."
+    },
+    {
+      "id": "tgt-edu-1784953622181-8",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "When newly acquired information interferes with and causes the forgetting of previously stored information, this phenomenon is referred to as:",
+      "options": [
+        "Proactive Interference",
+        "Retroactive Interference",
+        "Anterograde Amnesia",
+        "Retrograde Amnesia"
+      ],
+      "answer": 1,
+      "explanation": "Retroactive interference occurs when new learning disrupts the recall of older information. Proactive interference is the reverse (old interfering with new)."
+    },
+    {
+      "id": "tgt-edu-1784953622181-9",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which measure of central tendency is least affected by extreme values or outliers in a skewed educational dataset?",
+      "options": [
+        "Arithmetic Mean",
+        "Median",
+        "Mode",
+        "Geometric Mean"
+      ],
+      "answer": 1,
+      "explanation": "The Median depends only on the positional rank of middle scores, making it robust against extreme outliers that heavily skew the Arithmetic Mean."
+    },
+    {
+      "id": "tgt-edu-1784953622181-10",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the correct logical sequence of the four basic phases in Kurt Lewin's cyclical action research model?",
+      "options": [
+        "Plan -> Act -> Observe -> Reflect",
+        "Act -> Plan -> Reflect -> Observe",
+        "Observe -> Plan -> Act -> Reflect",
+        "Plan -> Observe -> Act -> Reflect"
+      ],
+      "answer": 0,
+      "explanation": "Kurt Lewin's classic Action Research cycle follows four distinct sequential steps: Planning, Acting, Observing, and Reflecting (PAOR)."
+    },
+    {
+      "id": "tgt-edu-1784953622181-11",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Section 21 of the RTE Act 2009, what minimum percentage of a School Management Committee (SMC) must consist of parents or guardians of students enrolled in the school?",
+      "options": [
+        "33%",
+        "50%",
+        "66%",
+        "75%"
+      ],
+      "answer": 3,
+      "explanation": "Section 21 mandates that at least 75% (3/4th) of SMC members must be parents or guardians of children studying in that school."
+    },
+    {
+      "id": "tgt-edu-1784953622181-12",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under NEP 2020, PARAKH is established as a National Assessment Centre. What does the acronym 'PARAKH' stand for?",
+      "options": [
+        "Performance Assessment, Review, and Analysis of Knowledge for Holistic Development",
+        "Performance Appraisal, Rating, and Analysis of Knowledge for Higher Education",
+        "Programme for Assessment, Review, and Analysis of Knowledge and Skills",
+        "Pedagogical Assessment, Reform, and Analysis of Knowledge for Holistic Education"
+      ],
+      "answer": 0,
+      "explanation": "PARAKH stands for Performance Assessment, Review, and Analysis of Knowledge for Holistic Development, set up as a standard-setting body under NCERT."
+    },
+    {
+      "id": "tgt-edu-1784953622181-13",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "A test score distribution has a mean of 50 and a standard deviation of 10. What is the standard z-score for a student who obtains a raw score of 65 on this test?",
+      "options": [
+        "+1.0",
+        "+1.5",
+        "+2.0",
+        "+0.5"
+      ],
+      "answer": 1,
+      "explanation": "The formula for z-score is z = (X - Mean) / SD. Here, z = (65 - 50) / 10 = 15 / 10 = +1.5."
+    },
+    {
+      "id": "tgt-edu-1784953622181-14",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Stephen Krashen's Monitor Model of Second Language Acquisition, which hypothesis states that emotional variables like anxiety, motivation, and self-confidence can prevent input from reaching the language acquisition device?",
+      "options": [
+        "The Natural Order Hypothesis",
+        "The Input Hypothesis",
+        "The Affective Filter Hypothesis",
+        "The Acquisition-Learning Hypothesis"
+      ],
+      "answer": 2,
+      "explanation": "Krashen's Affective Filter Hypothesis posits that negative emotional states (high anxiety, low motivation/confidence) act as a filter blocking input necessary for language acquisition."
     }
   ]
 }
