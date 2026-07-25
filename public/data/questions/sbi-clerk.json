@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -4927,6 +4927,136 @@
       ],
       "answer": 2,
       "explanation": "The Humboldt Current (also known as the Peru Current) is a cold ocean current flowing northwards along the western coast of South America (Chile and Peru), causing coastal cooling and creating the hyper-arid Atacama Desert conditions."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951272309-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A boat's speed in still water is 15 km/h and the speed of the stream is 3 km/h. It travels a certain distance downstream and returns the same distance upstream. If the total time taken for the round trip is 10 hours, what is the one-way distance between the starting point and the destination?",
+      "options": [
+        "60 km",
+        "72 km",
+        "80 km",
+        "90 km"
+      ],
+      "answer": 1,
+      "explanation": "Downstream speed = 15 + 3 = 18 km/h. Upstream speed = 15 - 3 = 12 km/h. Let the distance be D km. Time taken downstream + Time taken upstream = 10 hours => (D / 18) + (D / 12) = 10 => (2D + 3D) / 36 = 10 => 5D = 360 => D = 72 km."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951272309-1",
+      "section": "Quant",
+      "topic": "Mensuration 3D",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A solid metallic cylinder of base radius 8 cm and height 18 cm is melted and recast into 12 identical solid right circular cones. If the base radius of each cone is 6 cm, what is the total surface area of one such cone?",
+      "options": [
+        "84π cm²",
+        "90π cm²",
+        "96π cm²",
+        "108π cm²"
+      ],
+      "answer": 2,
+      "explanation": "Volume of cylinder = π × 8² × 18 = 1152π cm³. Volume of one cone = 1152π / 12 = 96π cm³. For the cone: (1/3) × π × 6² × h = 96π => 12h = 96 => h = 8 cm. Slant height l = √(6² + 8²) = 10 cm. Total Surface Area of cone = π × r × (r + l) = π × 6 × (6 + 10) = 96π cm²."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951282714-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements: A ≥ B > C = D; E ≤ F < D\n\nConclusions:\nI. A > E\nII. C > F",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements: A ≥ B > C = D > F ≥ E.\nFor Conclusion I: Moving from A to E gives A ≥ B > C = D > F ≥ E. Since there is at least one strictly greater than sign ('>'), A > E is definitely true.\nFor Conclusion II: Moving from C to F gives C = D > F, which means C > F is definitely true.\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951282714-1",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Study the following sequence carefully and answer the question given below:\n\nM 3 % R K 7 $ W 2 # E 9 @ N 8 * P 5 U & J 4\n\nHow many such symbols are there in the given sequence, each of which is immediately preceded by a number and immediately followed by a letter?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 3,
+      "explanation": "We need to find the pattern: [Number] [Symbol] [Letter].\nTracing the given series:\n1. 3 % R (3 is a number, % is a symbol, R is a letter)\n2. 7 $ W (7 is a number, $ is a symbol, W is a letter)\n3. 2 # E (2 is a number, # is a symbol, E is a letter)\n4. 9 @ N (9 is a number, @ is a symbol, N is a letter)\n5. 8 * P (8 is a number, * is a symbol, P is a letter)\nNote: '&' is preceded by 'U' (a letter), so it does not count.\nTotal such symbols = 5."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951302599-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence given below, a part of the sentence contains a grammatical error. Select the option that contains the part with the error.\n\n'Neither the project manager (A) / nor the senior developers (B) / was able to solve (C) / the critical bug before the deadline. (D)'",
+      "options": [
+        "(A) Neither the project manager",
+        "(B) nor the senior developers",
+        "(C) was able to solve",
+        "(D) the critical bug before the deadline"
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree with the subject closest to it. Here, the subject closest to the verb is 'senior developers' (plural), so the auxiliary verb should be 'were' instead of 'was'."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951302599-1",
+      "section": "English",
+      "topic": "Match the Columns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are given containing three clauses each. Select the option that correctly matches the clauses from Column 1 with those in Column 2 to form meaningful and grammatically correct sentences.\n\nColumn 1:\n(A) The research team conducted extensive field surveys\n(B) Although the initial results were promising\n(C) The regulatory body imposed severe sanctions\n\nColumn 2:\n(D) on the pharmaceutical firm for non-compliance.\n(E) to gather empirical data on local wildlife populations.\n(F) the long-term viability of the project remains uncertain.",
+      "options": [
+        "A-E, B-F, and C-D",
+        "A-D, B-E, and C-F",
+        "A-F, B-D, and C-E",
+        "A-E, B-D, and C-F"
+      ],
+      "answer": 0,
+      "explanation": "Clause (A) connects logically with (E) to describe the purpose of conducting field surveys. Clause (B) connects with (F) as 'Although' sets up a contrast between promising initial results and uncertain long-term viability. Clause (C) connects with (D) because 'imposing sanctions on' is a correct legal/grammatical collocation."
+    },
+    {
+      "id": "sbi-clerk-ai-1784951309826-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the minimum overall Priority Sector Lending (PSL) target prescribed by the Reserve Bank of India for Small Finance Banks (SFBs) as a percentage of their Adjusted Net Bank Credit (ANBC) or CEOBE?",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "75%"
+      ],
+      "answer": 3,
+      "explanation": "As per the Reserve Bank of India (RBI) guidelines, Small Finance Banks (SFBs) are required to allocate 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, to the priority sector, whereas domestic scheduled commercial banks have a target of 40%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1784951309826-1",
+      "section": "General Awareness",
+      "topic": "Static GK - Wildlife Reserves",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which state of India is the Sariska Tiger Reserve located?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Uttarakhand"
+      ],
+      "answer": 1,
+      "explanation": "Sariska Tiger Reserve is located in the Alwar district of Rajasthan. It was given the status of a tiger reserve under Project Tiger in 1978.",
+      "status": "pending"
     }
   ]
 }

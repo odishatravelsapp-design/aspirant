@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -5190,6 +5190,136 @@
       ],
       "answer": 2,
       "explanation": "The Humboldt Current (also known as the Peru Current) is a cold ocean current flowing northwards along the western coast of South America (Chile and Peru), causing coastal cooling and creating the hyper-arid Atacama Desert conditions."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951195773-0",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The simple interest on a certain sum of money for 3 years at 8% per annum is ₹1,440. What will be the compound interest on the same sum at 10% per annum for 2 years, compounded annually?",
+      "options": [
+        "₹1,200",
+        "₹1,260",
+        "₹1,320",
+        "₹1,240"
+      ],
+      "answer": 1,
+      "explanation": "Simple Interest (SI) = (P * R * T) / 100\n1440 = (P * 8 * 3) / 100 => P = (1440 * 100) / 24 = ₹6,000.\nNow, Compound Interest (CI) on ₹6,000 at 10% for 2 years:\nAmount = 6000 * (1 + 10/100)^2 = 6000 * 1.21 = ₹7,260.\nCI = Amount - Principal = ₹7,260 - ₹6,000 = ₹1,260."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951195773-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat travels upstream from Point P to Point Q in 6 hours and downstream from Point Q to Point P in 4 hours. If the speed of the stream increases by 2 km/h, the boat takes 8 hours to cover the upstream distance from P to Q. What is the distance between Point P and Point Q?",
+      "options": [
+        "36 km",
+        "48 km",
+        "60 km",
+        "72 km"
+      ],
+      "answer": 1,
+      "explanation": "Let speed of boat in still water = v km/h and original speed of stream = s km/h.\nDistance D = (v - s) * 6 = (v + s) * 4\n6v - 6s = 4v + 4s => 2v = 10s => v = 5s.\nSo, D = (5s - s) * 6 = 24s.\nWhen stream speed increases by 2 km/h, new stream speed = (s + 2) km/h.\nNew upstream speed = v - (s + 2) = 5s - s - 2 = 4s - 2.\nGiven new upstream time = 8 hours.\nTherefore, D = (4s - 2) * 8 => 24s = 32s - 16 => 8s = 16 => s = 2 km/h.\nHence, Distance D = 24 * 2 = 48 km."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951233750-0",
+      "section": "Reasoning",
+      "topic": "Pair Formation",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many such pairs of digits are there in the number '8429153' each of which has as many digits between them in the number as in the number series (both in forward and backward directions)?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "More than three"
+      ],
+      "answer": 2,
+      "explanation": "Given number: 8429153.\nForward direction:\n1. 2 to 5: Digits between are 9, 1 (2 digits). In number series: 2, 3, 4, 5 (2 digits between). Pair = (2, 5)\n2. 1 to 3: Digit between is 5 (1 digit). In number series: 1, 2, 3 (1 digit between). Pair = (1, 3)\nBackward direction:\n3. 1 to 4: Digits between are 9, 2 (2 digits). In number series: 1, 2, 3, 4 (2 digits between). Pair = (1, 4)\nTotal pairs = 3."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951233750-1",
+      "section": "Reasoning",
+      "topic": "Month-based Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – P, Q, R, S, T, U, and V – attend a seminar on seven different months of the same year: January, March, April, June, July, September, and October.\n- R attends the seminar in a month having 30 days, but not in September.\n- Exactly two persons attend between R and P.\n- S attends immediately after P.\n- As many persons attend before S as after Q.\n- U attends immediately before R.\n- T attends before V.\nWho among the following attends the seminar in June?",
+      "options": [
+        "U",
+        "R",
+        "T",
+        "Q"
+      ],
+      "answer": 1,
+      "explanation": "Months in order: January (31), March (31), April (30), June (30), July (31), September (30), October (31).\n1. R attends in a 30-day month other than September, so R attends in April or June.\n2. U attends immediately before R, so R cannot be April. Thus, R attends in June, and U attends in April.\n3. Exactly two persons attend between R (June) and P, so P attends in January.\n4. S attends immediately after P, so S attends in March.\n5. One person attends before S (P), so one person attends after Q, which means Q attends in September.\n6. T attends before V, so T attends in July and V attends in October.\nFinal order: Jan - P, Mar - S, Apr - U, Jun - R, Jul - T, Sep - Q, Oct - V.\nTherefore, R attends the seminar in June."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951243780-0",
+      "section": "English",
+      "topic": "Idioms & Phrases",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the option that best conveys the meaning of the idiom 'To burn the candle at both ends'.",
+      "options": [
+        "To waste money extravagantly",
+        "To work late into the night and early in the morning",
+        "To act carelessly in a dangerous situation",
+        "To be double-minded while making a decision"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'To burn the candle at both ends' means to exhaust one's energy by keeping late hours and rising early to work."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951243780-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Rearrange the given parts (P, Q, R, S) to form a meaningful and grammatically correct sentence:\n\nP: has been severely disrupted by\nQ: the global supply chain\nR: unexpected geopolitical conflicts\nS: the recent economic slowdown and",
+      "options": [
+        "Q - P - S - R",
+        "P - R - Q - S",
+        "Q - S - P - R",
+        "S - P - Q - R"
+      ],
+      "answer": 0,
+      "explanation": "The proper sequence begins with the subject (Q: 'the global supply chain'), followed by the passive verb phrase (P: 'has been severely disrupted by'), and ends with the compound agent (S: 'the recent economic slowdown and' + R: 'unexpected geopolitical conflicts')."
+    },
+    {
+      "id": "ibps-clerk-ai-1784951253151-0",
+      "section": "General Awareness",
+      "topic": "Banking Terms",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the context of Indian banking regulations, what does the letter 'P' stand for in the abbreviation 'PCA', a framework implemented by the Reserve Bank of India?",
+      "options": [
+        "Public",
+        "Prompt",
+        "Primary",
+        "Priority"
+      ],
+      "answer": 1,
+      "explanation": "In Indian banking, PCA stands for Prompt Corrective Action. It is a framework under which banks with weak financial metrics are monitored by the Reserve Bank of India to initiate timely corrective measures.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1784951253151-1",
+      "section": "General Awareness",
+      "topic": "Banking Institutions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The National Bank for Agriculture and Rural Development (NABARD) was established in 1982 based on the recommendations of which of the following committees?",
+      "options": [
+        "Narasimham Committee",
+        "B. Sivaraman Committee",
+        "C. Rangarajan Committee",
+        "A. Ghosh Committee"
+      ],
+      "answer": 1,
+      "explanation": "NABARD was established on July 12, 1982, by an Act of Parliament, based on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), chaired by B. Sivaraman.",
+      "status": "pending"
     }
   ]
 }

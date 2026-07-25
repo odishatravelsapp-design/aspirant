@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -4697,6 +4697,176 @@
       ],
       "answer": 0,
       "explanation": "E. G. Williamson's directive (Minnesota Point of View) counselling model consists of six linear steps: 1. Analysis, 2. Synthesis, 3. Diagnosis, 4. Prognosis, 5. Counselling, and 6. Follow-up."
+    },
+    {
+      "id": "pgt-ai-1784951507409-0",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Benjamin Bloom's revised cognitive taxonomy developed by Lorin Anderson and David Krathwohl (2001), which of the following levels represents the highest order of cognitive processing?",
+      "options": [
+        "Evaluating",
+        "Creating",
+        "Analyzing",
+        "Applying"
+      ],
+      "answer": 1,
+      "explanation": "In the 2001 revised version of Bloom's Taxonomy by Anderson and Krathwohl, the six levels of the cognitive domain in ascending order of complexity are: Remember, Understand, Apply, Analyze, Evaluate, and Create. Therefore, 'Creating' is the highest level.",
+      "translations": {
+        "or": {
+          "question": "ଲୋରିନ୍ ଆଣ୍ଡରସନ୍ ଏବଂ ଡେଭିଡ୍ କ୍ରାଥୱୋଲ (୨୦୦୧) ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ବେଞ୍ଜାମିନ୍ ବ୍ଲୁମଙ୍କ ସଂଶୋଧିତ ଜ୍ଞାନାତ୍ମକ ବର୍ଗୀକରଣରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସ୍ତରଟି ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟାକରଣର ସର୍ବୋଚ୍ଚ ସ୍ତରକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ମୂଲ୍ୟାଙ୍କନ (Evaluating)",
+            "ସୃଜନ (Creating)",
+            "ବିଶ୍ଳେଷଣ (Analyzing)",
+            "ପ୍ରୟୋଗ (Applying)"
+          ],
+          "explanation": "ଆଣ୍ଡରସନ୍ ଏବଂ କ୍ରାଥୱୋଲଙ୍କ ୨୦୦୧ ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ବର୍ଗୀକରଣରେ, ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର ଛୋଟି ସ୍ତର ଆରୋହୀ କ୍ରମରେ ହେଉଛି: ସ୍ମରଣ, ବୁଝିବା, ପ୍ରୟୋଗ, ବିଶ୍ଳେଷଣ, ମୂଲ୍ୟାଙ୍କନ ଏବଂ ସୃଜନ। ତେଣୁ, 'ସୃଜନ' (Creating) ହେଉଛି ସର୍ବୋଚ୍ଚ ସ୍ତର।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784951507409-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders' Interaction Analysis",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Categories System (FIACS) used for observing and quantifying classroom verbal behavior, how many categories are specifically designated for 'Teacher Talk'?",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "Flanders' Interaction Analysis Categories System (FIACS) consists of 10 total categories of classroom verbal communication. Out of these, exactly 7 categories (Categories 1 to 7) are assigned to 'Teacher Talk' (divided into 4 indirect influence and 3 direct influence categories), 2 categories (8 and 9) to 'Student Talk', and 1 category (10) to 'Silence or Confusion'.",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ମୌଖିକ ବ୍ୟବହାର ନିରୀକ୍ଷଣ ଏବଂ ପରିମାଣ ପାଇଁ ବ୍ୟବହୃତ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରଆକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, 'ଶିକ୍ଷକଙ୍କ କଥୋପକଥନ' (Teacher Talk) ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ କେତୋଟି ବର୍ଗ ନିର୍ଦ୍ଧାରିତ ହୋଇଛି?",
+          "options": [
+            "୫",
+            "୭",
+            "୮",
+            "୧୦"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ FIACS ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ରହିଛି। ସେଥିମଧ୍ୟରୁ ୭ଟି ବର୍ଗ (ବର୍ଗ ୧ ରୁ ୭) 'ଶିକ୍ଷକଙ୍କ କଥୋପକଥନ' ପାଇଁ, ୨ଟି ବର୍ଗ (୮ ଏବଂ ୯) 'ଛାତ୍ରଙ୍କ କଥୋପକଥନ' ପାଇଁ ଏବଂ ୧ଟି ବର୍ଗ (୧୦) 'ନୀରବତା କିମ୍ବା ଦ୍ୱନ୍ଦ' ପାଇଁ ନିର୍ଦ୍ଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784951539387-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following high-spin octahedral complexes exhibits a strong Jahn-Teller distortion?",
+      "options": [
+        "[Cr(H2O)6]3+",
+        "[Mn(H2O)6]2+",
+        "[Cu(H2O)6]2+",
+        "[Fe(H2O)6]2+"
+      ],
+      "answer": 2,
+      "explanation": "Strong Jahn-Teller distortion occurs in octahedral complexes when the eg orbitals are unsymmetrically filled. In [Cu(H2O)6]2+, Cu2+ has a d9 electronic configuration: (t2g)6 (eg)3. Because the eg orbitals contain 3 electrons, the unsymmetrical filling leads to a strong Jahn-Teller distortion.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଉଚ୍ଚ-ସ୍ପିନ୍ (high-spin) ଅଷ୍ଟଫଳକୀୟ (octahedral) ଜଟିଳ ଯୌଗିକଟି ପ୍ରବଳ ଜାନ୍-ଟେଲର୍ ବିକୃତି (Jahn-Teller distortion) ଦର୍ଶାଏ?",
+          "options": [
+            "[Cr(H2O)6]3+",
+            "[Mn(H2O)6]2+",
+            "[Cu(H2O)6]2+",
+            "[Fe(H2O)6]2+"
+          ],
+          "explanation": "ଅଷ୍ଟଫଳକୀୟ ଜଟିଳ ଯୌଗିକରେ eg କକ୍ଷକଗୁଡ଼ିକ ଅସମମିତ ଭାବରେ ପୂର୍ଣ୍ଣ ହୋଇଥିଲେ ପ୍ରବଳ ଜାନ୍-ଟେଲର୍ ବିକୃତି ଦେଖାଯାଏ। [Cu(H2O)6]2+ ରେ, Cu2+ ର d9 ଇଲେକ୍ଟ୍ରୋନୀୟ ସଂରଚନା (t2g)6 (eg)3 ଅଟେ। eg ସେଟ୍‌ରେ 3ଟି ଇଲେକ୍ଟ୍ରୋନ୍ (ଅସମମିତ ବଣ୍ଟନ) ଥିବାରୁ ଏହା ପ୍ରବଳ ଜାନ୍-ଟେଲର୍ ବିକୃତି ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784951539387-1",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "For a particle of mass m confined in a two-dimensional square potential box of side length L, what is the total degeneracy of the energy level with energy E = 50 h^2 / (8 m L^2)?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "The energy levels for a 2D square box are given by E = (n_x^2 + n_y^2) h^2 / (8 m L^2), where n_x and n_y are positive integers (1, 2, 3, ...). Setting n_x^2 + n_y^2 = 50, the positive integer pairs (n_x, n_y) that satisfy this condition are (1, 7), (7, 1), and (5, 5). Therefore, there are 3 distinct quantum states corresponding to this energy level, making its degeneracy equal to 3.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "L ବାହୁ ବିଶିଷ୍ଟ ଏକ ଦ୍ୱି-ମାତ୍ରିକ ବର୍ଗାକାର ପୋଟେନସିଆଲ୍ ବାକ୍ସରେ ଆବଦ୍ଧ m ବସ୍ତୁତ୍ୱର ଏକ କଣିକା ପାଇଁ E = 50 h^2 / (8 m L^2) ଶକ୍ତି ସ୍ତରର ମୋଟ ଡିଜେନେରେସୀ (degeneracy) କେତେ?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "explanation": "ଦ୍ୱି-ମାତ୍ରିକ ବର୍ଗାକାର ବାକ୍ସରେ କଣିକାର ଶକ୍ତି ସୂତ୍ର ହେଉଛି E = (n_x^2 + n_y^2) h^2 / (8 m L^2), ଯେଉଁଠାରେ n_x ଏବଂ n_y ହେଉଛନ୍ତି ଧନାତ୍ମକ ପୂର୍ଣ୍ଣସଂଖ୍ୟା (1, 2, 3, ...)। ଏଠାରେ, n_x^2 + n_y^2 = 50। ଏହି ସର୍ତ୍ତକୁ ପୂରଣ କରୁଥିବା ଧନାତ୍ମକ ପୂର୍ଣ୍ଣସଂଖ୍ୟା ଯୋଡ଼ି (n_x, n_y) ଗୁଡ଼ିକ ହେଉଛି (1, 7), (7, 1), ଏବଂ (5, 5)। ତେଣୁ, ଏହି ଶକ୍ତି ସ୍ତର ପାଇଁ 3ଟି ପୃଥକ୍ କ୍ୱାଣ୍ଟମ୍ ଅବସ୍ଥା ରହିଛି, ଯାହା ଫଳରେ ମୋଟ ଡିଜେନେରେସୀ 3 ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784951772769-0",
+      "section": "Child Development",
+      "topic": "Principles of Child Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which principle of child development states that physical growth and motor development proceed from the head downward to the feet?",
+      "options": [
+        "Proximodistal principle",
+        "Cephalocaudal principle",
+        "Interindividual principle",
+        "Differentiation principle"
+      ],
+      "answer": 1,
+      "explanation": "The cephalocaudal principle describes the direction of growth and motor control from the head (top) down to the feet (bottom). Children gain control of their head and neck muscles before their trunk and leg muscles.",
+      "translations": {
+        "or": {
+          "question": "ଶିଶୁ ବିକାଶର କେଉଁ ନିୟମ ଅନୁସାରେ ଶାରୀରିକ ବୃଦ୍ଧି ଏବଂ ମୋଟର ବିକାଶ ମୁଣ୍ଡରୁ ଆରମ୍ଭ ହୋଇ ପାଦ ଆଡ଼କୁ ଗତି କରିଥାଏ?",
+          "options": [
+            "ପ୍ରୋକ୍ସିମୋଡିଷ୍ଟାଲ୍ ନିୟମ (Proximodistal principle)",
+            "ସେଫାଲୋକୋଡାଲ୍ ନିୟମ (Cephalocaudal principle)",
+            "ଆନ୍ତଃ-ବ୍ୟକ୍ତିଗତ ନିୟମ (Interindividual principle)",
+            "ବିଭେଦୀକରଣ ନିୟମ (Differentiation principle)"
+          ],
+          "explanation": "ସେଫାଲୋକୋଡାଲ୍ ନିୟମ (Cephalocaudal principle) ଅନୁସାରେ ବିକାଶ ଶରୀରର ଉପରିଭାଗ (ମୁଣ୍ଡ) ରୁ ଆରମ୍ଭ ହୋଇ ତଳ ଭାଗ (ପାଦ) ଆଡ଼କୁ ଗତି କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1784951772769-1",
+      "section": "Child Development",
+      "topic": "Cognitive Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Jerome Bruner's theory of cognitive representation, which mode of representation relies primarily on pattern recognition and visual mental images to store knowledge, typically developing between 1 and 6 years of age?",
+      "options": [
+        "Enactive representation",
+        "Iconic representation",
+        "Symbolic representation",
+        "Operational representation"
+      ],
+      "answer": 1,
+      "explanation": "In Jerome Bruner's theory, the iconic representation mode involves storing information visually in the form of mental images or icons, which allows children to represent objects and events through visual imagery without relying solely on action (enactive) or language/symbols (symbolic).",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ୍ ବ୍ରୁନର୍‌ଙ୍କ ସଂଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱ ତତ୍ତ୍ୱ ଅନୁସାରେ, ୧ ରୁ ୬ ବର୍ଷ ବୟସ ମଧ୍ୟରେ ବିକଶିତ ହେଉଥିବା କେଉଁ ପଦ୍ଧତିଟି ଜ୍ଞାନ ସଂରକ୍ଷଣ ପାଇଁ ମୁଖ୍ୟତଃ ଦୃଶ୍ୟମାନ ମାନସିକ ପ୍ରତିବିମ୍ବ ଏବଂ ପ୍ୟାଟର୍ନ ଚିହ୍ନଟ ଉପରେ ନିର୍ଭର କରେ?",
+          "options": [
+            "ଏନାକ୍ଟିଭ୍ ପ୍ରତିନିଧିତ୍ୱ (Enactive representation)",
+            "ଆଇକୋନିକ୍ ପ୍ରତିନିଧିତ୍ୱ (Iconic representation)",
+            "ସିମ୍ବୋଲିକ୍ ପ୍ରତିନିଧିତ୍ୱ (Symbolic representation)",
+            "ଅପରେସନାଲ୍ ପ୍ରତିନିଧିତ୍ୱ (Operational representation)"
+          ],
+          "explanation": "ବ୍ରୁନର୍‌ଙ୍କ ତତ୍ତ୍ୱ ଅନୁସାରେ, ଆଇକୋନିକ୍ ପ୍ରତିନିଧିତ୍ୱ (Iconic representation) ସ୍ତରରେ ଶିଶୁମାନେ ଦୃଶ୍ୟ ପ୍ରତିବିମ୍ବ (visual images) ଏବଂ ଚିତ୍ର ମାଧ୍ୟମରେ ତଥ୍ୟ ମନେରଖନ୍ତି ଏବଂ ପ୍ରକାଶ କରନ୍ତି।"
+        }
+      }
     }
   ]
 }

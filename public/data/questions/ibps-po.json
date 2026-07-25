@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -4715,6 +4715,136 @@
       ],
       "answer": 2,
       "explanation": "The Humboldt Current (also known as the Peru Current) is a cold ocean current flowing northwards along the western coast of South America (Chile and Peru), causing coastal cooling and creating the hyper-arid Atacama Desert conditions."
+    },
+    {
+      "id": "ibps-po-ai-1784951325449-0",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and the simple interest on a certain sum of money at 12% per annum for 2 years is Rs. 144. What is the principal sum?",
+      "options": [
+        "Rs. 8,000",
+        "Rs. 10,000",
+        "Rs. 12,000",
+        "Rs. 15,000"
+      ],
+      "answer": 1,
+      "explanation": "For 2 years, the difference between Compound Interest and Simple Interest is given by the formula: Difference = P * (R / 100)^2. Substituting the given values: 144 = P * (12 / 100)^2 => 144 = P * (144 / 10000) => P = Rs. 10,000."
+    },
+    {
+      "id": "ibps-po-ai-1784951325449-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat travels 108 km downstream from Point A to Point B, and then 48 km upstream from Point B to Point C. The total time taken for the entire journey is 10 hours. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+      "options": [
+        "12 km/h",
+        "15 km/h",
+        "18 km/h",
+        "21 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of the boat in still water be 'u' km/h. Downstream speed = (u + 3) km/h, Upstream speed = (u - 3) km/h. According to the problem: [108 / (u + 3)] + [48 / (u - 3)] = 10. Solving the equation: 108(u - 3) + 48(u + 3) = 10(u^2 - 9) => 156u - 180 = 10u^2 - 90 => 10u^2 - 156u + 90 = 0 => 5u^2 - 78u + 45 = 0 => (5u - 3)(u - 15) = 0. Since u must be greater than the stream speed (3 km/h), u = 15 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1784951361275-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a row of 45 students facing North, Riya is 18th from the left end and Sneha is 22nd from the right end. If Priya sits exactly in the middle of Riya and Sneha, what is Priya's position from the left end?",
+      "options": [
+        "20th",
+        "21st",
+        "22nd",
+        "23rd"
+      ],
+      "answer": 1,
+      "explanation": "Sneha's position from the left end = (Total students - Position from right end + 1) = 45 - 22 + 1 = 24th. Riya's position from the left end = 18th. Since Priya sits exactly in the middle of Riya and Sneha, Priya's position from the left end = (18 + 24) / 2 = 21st."
+    },
+    {
+      "id": "ibps-po-ai-1784951361275-1",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Six persons – P, Q, R, S, T, and U – are standing in a line according to their heights in descending order (1st being the tallest and 6th being the shortest). Who among them is the third tallest person?\n\nStatement I: R is taller than only two persons. Q is taller than S but shorter than P. P is not the tallest person.\nStatement II: S is taller than T. U is taller than P.",
+      "options": [
+        "Statement I alone is sufficient to answer the question, but Statement II alone is not.",
+        "Statement II alone is sufficient to answer the question, but Statement I alone is not.",
+        "Either Statement I alone or Statement II alone is sufficient to answer the question.",
+        "Both Statements I and II together are necessary to answer the question."
+      ],
+      "answer": 3,
+      "explanation": "From Statement I: R is taller than only two persons, so R is at 4th position. We know P > Q > S, and P is not 1st. If P is 2nd, Q is 3rd. If P is 3rd, Q is 5th/6th. Thus, Statement I alone is insufficient.\nFrom Statement II: S > T and U > P. This provides no information about R or Q's exact positions, so Statement II alone is insufficient.\nCombining I and II: Since R is 4th and S > T, S and T must occupy 5th and 6th positions respectively (S=5, T=6). The remaining top three positions (1, 2, 3) must be occupied by U, P, and Q. From II (U > P) and I (P > Q), we get U > P > Q. Thus, 1st = U, 2nd = P, and 3rd = Q (which satisfies P not being 1st). Hence, Q is uniquely identified as the 3rd tallest person. Both statements together are necessary."
+    },
+    {
+      "id": "ibps-po-ai-1784951368546-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that best improves the bolded part of the sentence: \"No sooner had the manager **entered the conference room when the board members started** demanding an explanation for the financial discrepancies.\"",
+      "options": [
+        "entered the conference room than the board members started",
+        "entering the conference room when the board members had started",
+        "enter the conference room then the board members started",
+        "had entered the conference room than the board members start"
+      ],
+      "answer": 0,
+      "explanation": "The adverbial phrase 'No sooner' takes 'than' as its correlating conjunction, not 'when' or 'then'. Furthermore, when 'No sooner' is placed at the beginning of a clause, inverted sentence structure ('had' + subject + past participle) is used, followed by 'than' + past simple tense."
+    },
+    {
+      "id": "ibps-po-ai-1784951368546-1",
+      "section": "English",
+      "topic": "Double Blanks",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Choose the pair of words that best fits the blanks in the given sentence to render it contextually and grammatically meaningful: \"Despite facing severe critique for his __________ style of leadership, the newly appointed CEO remained __________ in his decision to implement the controversial restructuring plan.\"",
+      "options": [
+        "autocratic ... obdurate",
+        "conciliatory ... resolute",
+        "magnanimous ... unyielding",
+        "tyrannical ... vacillating"
+      ],
+      "answer": 0,
+      "explanation": "'Autocratic' (domineering or dictatorial) logically fits the first blank as a leadership style prone to severe critique. 'Obdurate' (stubbornly unbending/refusing to change one's course of action) appropriately completes the contrast marked by 'Despite', showing he remained steadfast in implementing the plan."
+    },
+    {
+      "id": "ibps-po-ai-1784951383315-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, what is the maximum amount of compensation that the Ombudsman can award specifically for consequential loss, mental harassment, and loss of time suffered by a complainant?",
+      "options": [
+        "₹50,000",
+        "₹1,000,000",
+        "₹100,000",
+        "₹500,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI Integrated Ombudsman Scheme 2021, the Ombudsman can award compensation up to ₹1 lakh (₹100,000) for loss of time, expenses incurred, and harassment/mental anguish suffered by the complainant, over and above the compensation for direct loss (which is capped at ₹20 lakh).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1784951383315-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending Guidelines",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (RBI) guidelines on Priority Sector Lending (PSL), what is the prescribed target for lending to Small and Marginal Farmers (SMFs) out of Adjusted Net Bank Credit (ANBC) or CEOBE for Domestic Commercial Banks for FY 2023–24 onwards?",
+      "options": [
+        "8.0%",
+        "9.0%",
+        "10.0%",
+        "12.0%"
+      ],
+      "answer": 2,
+      "explanation": "As per RBI's revised PSL guidelines, the target for Small and Marginal Farmers (SMFs) was increased in a phased manner from 8% in FY 2020-21, reaching 10% in FY 2023-24 onwards for Domestic Commercial Banks (excluding RRBs and SFBs).",
+      "status": "pending"
     }
   ]
 }

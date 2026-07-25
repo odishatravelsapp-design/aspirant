@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -7225,6 +7225,234 @@
       ],
       "answer": 0,
       "explanation": "E. G. Williamson's directive (Minnesota Point of View) counselling model consists of six linear steps: 1. Analysis, 2. Synthesis, 3. Diagnosis, 4. Prognosis, 5. Counselling, and 6. Follow-up."
+    },
+    {
+      "id": "odisha-ssb-ai-1784951456942-0",
+      "section": "Subject Knowledge",
+      "topic": "English Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Percy Bysshe Shelley's critical essay 'A Defence of Poetry' (1821), which famous statement serves as the concluding line of the work?",
+      "options": [
+        "Poets are the unacknowledged legislators of the World.",
+        "Poetry is the spontaneous overflow of powerful feelings.",
+        "Beauty is truth, truth beauty, — that is all ye know on earth.",
+        "The critic is he who can translate into another manner his impression of beautiful things."
+      ],
+      "answer": 0,
+      "explanation": "Percy Bysshe Shelley famously concludes his essay 'A Defence of Poetry' with the declaration: 'Poets are the unacknowledged legislators of the World.'",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପର୍ସି ବିଶ୍ ଶେଲୀଙ୍କ ସମାଲୋଚନାତ୍ମକ ପ୍ରବନ୍ଧ 'ଏ ଡିଫେନ୍ସ ଅଫ୍ ପୋଏଟ୍ରି' (୧୮୨୧) ର ଶେଷ ଧାଡ଼ି ଭାବରେ କେଉଁ ପ୍ରସିଦ୍ଧ ଉକ୍ତିଟି ରହିଛି?",
+          "options": [
+            "କବିମାନେ ହେଉଛନ୍ତି ପୃଥିବୀର ଅସ୍ଵୀକୃତ ଆଇନ ପ୍ରଣେତା।",
+            "କବିତା ହେଉଛି ଶକ୍ତିଶାଳୀ ଅନୁଭୂତିଗୁଡ଼ିକର ସ୍ୱତଃସ୍ଫୂର୍ତ୍ତ ପ୍ରବାହ।",
+            "ସୌନ୍ଦର୍ଯ୍ୟ ହିଁ ସତ୍ୟ, ସତ୍ୟ ହିଁ ସୌନ୍ଦର୍ଯ୍ୟ — ପୃଥିବୀରେ ଆପଣ ଏତିକି ହିଁ ଜାଣନ୍ତି।",
+            "ସମାଲୋଚକ ହେଉଛନ୍ତି ସେହି ବ୍ୟକ୍ତି ଯିଏ ସୁନ୍ଦର ଜିନିଷର ନିଜର ଅନୁଭୂତିକୁ ଅନ୍ୟ ଏକ ଉପାୟରେ ରୂପାନ୍ତରିତ କରିପାରନ୍ତି।"
+          ],
+          "explanation": "ପର୍ସି ବିଶ୍ ଶେଲୀ ନିଜର ପ୍ରବନ୍ଧ 'ଏ ଡିଫେନ୍ସ ଅଫ୍ ପୋଏଟ୍ରି' କୁ ଏହି ପ୍ରସିଦ୍ଧ ଘୋଷଣା ସହିତ ସମାପ୍ତ କରିଛନ୍ତି: 'Poets are the unacknowledged legislators of the World' (କବିମାନେ ହେଉଛନ୍ତି ପୃଥିବୀର ଅସ୍ଵୀକୃତ ଆଇନ ପ୍ରଣେତା)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951456942-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory & Linguistics",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Ferdinand de Saussure's foundational text 'Course in General Linguistics' (1916), which term denotes the abstract, rule-governed system of language shared by a community, distinguished from individual instances of speech?",
+      "options": [
+        "Langue",
+        "Signifier",
+        "Syntagm",
+        "Diachrony"
+      ],
+      "answer": 0,
+      "explanation": "Ferdinand de Saussure differentiated between 'langue' (the abstract, social structure and rules of a language system) and 'parole' (individual, actual acts of speech or utterance).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଫର୍ଡିନାଣ୍ଡ ଡି ସୋସୁରଙ୍କ ମୌଳିକ ଗ୍ରନ୍ଥ 'କୋର୍ସ ଇନ୍ ଜେନେରାଲ୍ ଲିଙ୍ଗୁଇଷ୍ଟିକ୍ସ' (୧୯୧୬) ରେ, ବ୍ୟକ୍ତିଗତ କଥନରୁ ପୃଥକ, ଏକ ସମୁଦାୟ ଦ୍ୱାରା ଅଂଶୀଦାର କରାଯାଇଥିବା ଭାଷାର ବିମୂର୍ତ୍ତ ଏବଂ ନିୟମ-ଚାଳିତ ପ୍ରଣାଳୀକୁ କେଉଁ ଶବ୍ଦ ସୂଚିତ କରେ?",
+          "options": [
+            "ଲାଙ୍ଗ (Langue)",
+            "ସିଗ୍ନିଫାୟର୍ (Signifier)",
+            "ସିଣ୍ଟାଗମ୍ (Syntagm)",
+            "ଡାୟାକ୍ରୋନି (Diachrony)"
+          ],
+          "explanation": "ଫର୍ଡିନାଣ୍ଡ ଡି ସୋସୁର 'ଲାଙ୍ଗ' (ଭାଷା ପ୍ରଣାଳୀର ବିମୂର୍ତ୍ତ, ସାମାଜିକ ସଂରଚନା ଏବଂ ନିୟମ) ଏବଂ 'ପାରୋଲ୍' (କଥନ ବା ଉଚ୍ଚାରଣର ବ୍ୟକ୍ତିଗତ, ବାସ୍ତବ କାର୍ଯ୍ୟ) ମଧ୍ୟରେ ପ୍ରଭେଦ ଦର୍ଶାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951468236-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Evaluation & Assessment",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In educational evaluation, which type of assessment is conducted during the instructional process to monitor student learning and provide ongoing feedback to improve teaching and learning?",
+      "options": [
+        "Summative Assessment",
+        "Diagnostic Assessment",
+        "Formative Assessment",
+        "Placement Assessment"
+      ],
+      "answer": 2,
+      "explanation": "Formative assessment is an ongoing assessment process used by teachers during instruction to monitor student progress, identify learning gaps, and adjust pedagogical strategies to enhance learning outcomes.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଗତ ମୂଲ୍ୟାଙ୍କନରେ, ଶିକ୍ଷାଦାନ ଓ ଶିକ୍ଷଣରେ ସୁଧାର ଆଣିବା ପାଇଁ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଶିଖିବା ପ୍ରକ୍ରିୟାକୁ ନିରୀକ୍ଷଣ କରିବା ଏବଂ କ୍ରମାଗତ ପ୍ରତିପୃଷ୍ଟି (feedback) ପ୍ରଦାନ କରିବା ପାଇଁ ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ଚାଲିଥିବା ସମୟରେ କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ କରାଯାଏ?",
+          "options": [
+            "ସମାପ୍ତିସୂଚକ ମୂଲ୍ୟାଙ୍କନ (Summative Assessment)",
+            "ନିଦାନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Diagnostic Assessment)",
+            "ଗଠନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Formative Assessment)",
+            "ସ୍ଥାନନ ମୂଲ୍ୟାଙ୍କନ (Placement Assessment)"
+          ],
+          "explanation": "ଗଠନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Formative Assessment) ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ଚାଲିଥିବା ସମୟରେ ନିରନ୍ତର ଭାବରେ କରାଯାଏ, ଯାହା ଶିକ୍ଷକ ଓ ଛାତ୍ରଛାତ୍ରୀଙ୍କୁ ଶିକ୍ଷଣ ଫଳାଫଳରେ ସୁଧାର ଆଣିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951468236-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which specific Model of Teaching, developed by Richard Suchman, is designed to teach students how to engage in causal reasoning, formulate hypotheses, and independently gather data to solve problems?",
+      "options": [
+        "Concept Attainment Model",
+        "Inquiry Training Model",
+        "Advance Organizer Model",
+        "Synectics Model"
+      ],
+      "answer": 1,
+      "explanation": "Richard Suchman developed the Inquiry Training Model to train students directly in the process of scientific inquiry, helping them systematically analyze perplexing events, form hypotheses, and test causal relationships.",
+      "translations": {
+        "or": {
+          "question": "ରିଚାର୍ଡ ସଚମ୍ୟାନ (Richard Suchman) ଙ୍କ ଦ୍ୱାରା ବିକଶିତ କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ଶିକ୍ଷାଦାନ ମଡେଲ୍ (Model of Teaching) ଛାତ୍ରଛାତ୍ରୀଙ୍କୁ କାରଣ-ସମ୍ବନ୍ଧୀୟ ତର୍କ କରିବା, ପ୍ରକଳ୍ପନା (hypotheses) ଗଠନ କରିବା ଏବଂ ସମସ୍ୟା ସମାଧାନ ପାଇଁ ସ୍ୱାଧୀନ ଭାବରେ ତଥ୍ୟ ସଂଗ୍ରହ କରିବା ଶିଖାଇବା ପାଇଁ ପରିକଳ୍ପିତ?",
+          "options": [
+            "ଧାରଣା ସମ୍ପ୍ରାପ୍ତି ମଡେଲ୍ (Concept Attainment Model)",
+            "ପୃଚ୍ଛା ତାଲିମ ମଡେଲ୍ (Inquiry Training Model)",
+            "ଅଗ୍ରଣୀ ସଂଗଠକ ମଡେଲ୍ (Advance Organizer Model)",
+            "ସାଇନେକ୍ଟିକ୍ସ ମଡେଲ୍ (Synectics Model)"
+          ],
+          "explanation": "ରିଚାର୍ଡ ସଚମ୍ୟାନ ପୃଚ୍ଛା ତାଲିମ ମଡେଲ୍ (Inquiry Training Model) ବିକଶିତ କରିଥିଲେ, ଯାହା ଛାତ୍ରଛାତ୍ରୀଙ୍କୁ ନିଜେ ଅନୁସନ୍ଧାନ କରିବା, ତଥ୍ୟ ବିଶ୍ଳେଷଣ କରିବା ଏବଂ ସମସ୍ୟାର ସ୍ୱାଧୀନ କାରଣ-ଆଧାରିତ ବ୍ୟାଖ୍ୟା ନିର୍ମାଣ କରିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951482186-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which among the following is the highest mountain peak in the state of Odisha?",
+      "options": [
+        "Deomali",
+        "Mahendragiri",
+        "Malayagiri",
+        "Gandhamardan"
+      ],
+      "answer": 0,
+      "explanation": "Deomali, located in the Koraput district, is the highest mountain peak in Odisha, standing at an elevation of approximately 1,672 meters above sea level.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଓଡ଼ିଶା ରାଜ୍ୟର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ?",
+          "options": [
+            "ଦେଓମାଳୀ",
+            "ମହେନ୍ଦ୍ରଗିରି",
+            "ମଳୟଗିରି",
+            "ଗନ୍ଧମାର୍ଦ୍ଦନ"
+          ],
+          "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଦେଓମାଳୀ ହେଉଛି ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ, ଯାହାର ଉଚ୍ଚତା ସମୁଦ୍ର ପତ୍ତନରୁ ପ୍ରାୟ ୧,୬୭୨ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951482186-1",
+      "section": "General Studies",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The youngest freedom fighter of India, 12-year-old Baji Rout, was martyred during the Prajamandal Movement in 1938 in which of the following princely states of Odisha?",
+      "options": [
+        "Ranpur",
+        "Dhenkanal",
+        "Talcher",
+        "Nayagarh"
+      ],
+      "answer": 1,
+      "explanation": "Baji Rout was martyred on October 11, 1938, at Nilakanthapur Ghat on the Brahmani River in the princely state of Dhenkanal after he courageously refused to ferry British troop personnel across the river.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୮ ମସିହାର ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ଭାରତର ସବୁଠାରୁ କନିଷ୍ଠ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ ୧୨ ବର୍ଷୀୟ ବାଜି ରାଉତ ଓଡ଼ିଶାର କେଉଁ ଗଡ଼ଜାତ ରାଜ୍ୟରେ ଶହୀଦ ହୋଇଥିଲେ?",
+          "options": [
+            "ରଣପୁର",
+            "ଢେଙ୍କାନାଳ",
+            "ତାଳଚେର",
+            "ନୟାଗଡ଼"
+          ],
+          "explanation": "୧୯୩୮ ମସିହା ଅକ୍ଟୋବର ୧୧ ତାରିଖରେ ଢେଙ୍କାନାଳ ଗଡ଼ଜାତ ରାଜ୍ୟର ବ୍ରାହ୍ମଣୀ ନଦୀର ନୀଳକଣ୍ଠପୁର ଘାଟରେ ଇଂରେଜ ପୋଲିସ ବାହିନୀକୁ ନଦୀ ପାରି କରିବାକୁ ମନା କରିବା ଯୋଗୁଁ ସାହସୀ ବାଜି ରାଉତ ଶହୀଦ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951495615-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The famous Barehipani Waterfall, one of the highest waterfalls in India, is located inside which National Park of Odisha?",
+      "options": [
+        "Similipal National Park",
+        "Bhitarkanika National Park",
+        "Indravati National Park",
+        "Shirui National Park"
+      ],
+      "answer": 0,
+      "explanation": "Barehipani Waterfall is a two-tiered waterfall located in the Mayurbhanj district of Odisha within the Similipal National Park. It is formed on the course of the Budhabalanga River.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭାରତର ଅନ୍ୟତମ ଉଚ୍ଚତମ ଜଳପ୍ରପାତ 'ବାରେହିପାଣି ଜଳପ୍ରପାତ' ଓଡ଼ିଶାର କେଉଁ ଜାତୀୟ ଉଦ୍ୟାନ ମଧ୍ୟରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଶିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନ",
+            "ଭିତରକନିକା ଜାତୀୟ ଉଦ୍ୟାନ",
+            "ଇନ୍ଦ୍ରାବତୀ ଜାତୀୟ ଉଦ୍ୟାନ",
+            "ଶିରୁଇ ଜାତୀୟ ଉଦ୍ୟାନ"
+          ],
+          "explanation": "ବାରେହିପାଣି ଜଳପ୍ରପାତ ଓଡ଼ିଶାର ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଶିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନ ମଧ୍ୟରେ ରହିଛି। ଏହା ବୁଢ଼ାବଳଙ୍ଗ ନଦୀ ଶଯ୍ୟାରେ ସୃଷ୍ଟି ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1784951495615-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Govinda Vidyadhara, who usurped the throne and established the Bhoi Dynasty in Odisha in 1541 AD, served as a minister under which Gajapati ruler?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Mukunda Deva"
+      ],
+      "answer": 2,
+      "explanation": "Govinda Vidyadhara was a powerful minister and commander under Gajapati Prataparudra Deva. Following Prataparudra Deva's death, Govinda Vidyadhara executed his weak successors and seized the throne in 1541 AD, establishing the Bhoi Dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଅଧିକାର କରି ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିବା ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର କେଉଁ ଗଜପତି ଶାସକଙ୍କ ମନ୍ତ୍ରୀ ଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ମୁକୁନ୍ଦ ଦେବ"
+          ],
+          "explanation": "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ସମୟରେ ଜଣେ ଶକ୍ତିଶାଳୀ ମନ୍ତ୍ରୀ ଥିଲେ। ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ମୃତ୍ୟୁ ପରେ ସେ ତାଙ୍କ ଦୁର୍ବଳ ଉତ୍ତରାଧିକାରୀମାନଙ୍କୁ ହତ୍ୟା କରି ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଦଖଲ କରି ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
     }
   ]
 }

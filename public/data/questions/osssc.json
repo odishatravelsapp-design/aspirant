@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -5446,6 +5446,206 @@
             "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ"
           ],
           "explanation": "ଖୋର୍ଦ୍ଧା ନିକଟସ୍ଥ ତାପଙ୍ଗର ଦଳବେହେରା ସାମନ୍ତ ମାଧବ ଚନ୍ଦ୍ର ରାଉତରାୟ ୧୮୨୭ ମସିହାରେ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ସେନା ବିରୁଦ୍ଧରେ ସଶସ୍ତ୍ର ତାପଙ୍ଗ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951402543-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A dishonest trader claims to sell sugar at cost price but uses a false weight of 900 grams instead of 1 kg. What is his actual profit percentage?",
+      "options": [
+        "10%",
+        "11.11%",
+        "12.5%",
+        "9.09%"
+      ],
+      "answer": 1,
+      "explanation": "The trader gives 900 g while charging for 1000 g. Profit = 1000 - 900 = 100 g on a cost of 900 g. Profit percentage = (100 / 900) * 100 = 11.11%.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଅସାଧୁ ବ୍ୟବସାୟୀ କ୍ରୟ ମୂଲ୍ୟରେ ଚିନି ବିକ୍ରି କରିବାର ଦାବି କରନ୍ତି, କିନ୍ତୁ ୧ କିଲୋଗ୍ରାମ ବଦଳରେ ୯୦୦ ଗ୍ରାମର ଓଜନ ବ୍ୟବହାର କରନ୍ତି। ତାଙ୍କର ପ୍ରକୃତ ଲାଭ ପ୍ରତିଶତ କେତେ?",
+          "options": [
+            "୧୦%",
+            "୧୧.୧୧%",
+            "୧୨.୫%",
+            "୯.୦୯%"
+          ],
+          "explanation": "ବ୍ୟବସାୟୀ ୯୦୦ ଗ୍ରାମ ଦେଇ ୧୦୦୦ ଗ୍ରାମର ମୂଲ୍ୟ ନିଅନ୍ତି। ଲାଭ = ୧୦୦୦ - ୯୦୦ = ୧୦୦ ଗ୍ରାମ। ଲାଭ ପ୍ରତିଶତ = (୧୦୦ / ୯୦୦) × ୧୦୦ = ୧୧.୧୧%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951402544-1",
+      "section": "Arithmetic",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat travels 36 km downstream and 18 km upstream in 6 hours. It can also travel 24 km downstream and 30 km upstream in 7 hours. What is the speed of the boat in still water?",
+      "options": [
+        "8 km/h",
+        "9 km/h",
+        "10 km/h",
+        "12 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let downstream speed be u and upstream speed be v. We have: 36/u + 18/v = 6 and 24/u + 30/v = 7. Solving these equations gives u = 12 km/h and v = 6 km/h. Speed of boat in still water = (u + v) / 2 = (12 + 6) / 2 = 9 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଡଙ୍ଗା ସ୍ରୋତର ଅନୁକୂଳରେ ୩୬ କିମି ଏବଂ ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୧୮ କିମି ଯିବା ପାଇଁ ୬ ଘଣ୍ଟା ସମୟ ନିଏ। ଏହା ସ୍ରୋତର ଅନୁକୂଳରେ ୨୪ କିମି ଏବଂ ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୩୦ କିମି ଯିବା ପାଇଁ ୭ ଘଣ୍ଟା ସମୟ ନିଏ। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ କେତେ?",
+          "options": [
+            "୮ କିମି/ଘଣ୍ଟା",
+            "୯ କିମି/ଘଣ୍ଟା",
+            "୧୦ କିମି/ଘଣ୍ଟା",
+            "୧୨ କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ଧରାଯାଉ ଅନୁକୂଳ ବେଗ = u ଏବଂ ପ୍ରତିକୂଳ ବେଗ = v। ୩୬/u + ୧୮/v = ୬ ଏବଂ ୨୪/u + ୩୦/v = ୭। ଏହି ସମୀକରଣ ଦ୍ଵୟକୁ ସମାଧାନ କଲେ, u = ୧୨ କିମି/ଘଣ୍ଟା ଏବଂ v = ୬ କିମି/ଘଣ୍ଟା। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ = (u + v) / ୨ = (୧୨ + ୬) / ୨ = ୯ କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951414599-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rohan starts walking from Point A towards North. He walks 10 meters, turns right and walks 15 meters. Then he turns right again and walks 10 meters. Finally, he turns left and walks 8 meters to reach Point B. How far and in which direction is Point B with respect to Point A?",
+      "options": [
+        "23 meters, East",
+        "23 meters, West",
+        "15 meters, East",
+        "33 meters, South"
+      ],
+      "answer": 0,
+      "explanation": "Rohan moves 10m North, 15m East, 10m South (returning to the horizontal line of A), and finally 8m East. Total displacement towards East = 15m + 8m = 23m. So Point B is 23 meters East of Point A.",
+      "translations": {
+        "or": {
+          "question": "ରୋହନ ବିନ୍ଦୁ A ରୁ ଉତ୍ତର ଦିଗକୁ ଚାଲିବା ଆରମ୍ଭ କରନ୍ତି। ସେ ୧୦ ମିଟର ଚାଲିବା ପରେ ଡାହାଣକୁ ମୋଡ଼ ନେଇ ୧୫ ମିଟର ଚାଲନ୍ତି। ତା’ପରେ ସେ ପୁଣି ଡାହାଣକୁ ମୋଡ଼ ନେଇ ୧୦ ମିଟର ଚାଲନ୍ତି। ଶେଷରେ ସେ ବାମକୁ ମୋଡ଼ ନେଇ ୮ ମିଟର ଚାଲି ବିନ୍ଦୁ B ରେ ପହଞ୍ଚନ୍ତି। ବିନ୍ଦୁ A ତୁଳନାରେ ବିନ୍ଦୁ B କେତେ ଦୂରରେ ଏବଂ କେଉଁ ଦିଗରେ ଅଛି?",
+          "options": [
+            "୨୩ ମିଟର, ପୂର୍ବ",
+            "୨୩ ମିଟର, ପଶ୍ଚିମ",
+            "୧୫ ମିଟର, ପୂର୍ବ",
+            "୩୩ ମିଟର, ଦକ୍ଷିଣ"
+          ],
+          "explanation": "ରୋହନ ଉତ୍ତର ଆଡ଼କୁ ୧୦ ମିଟର, ପୂର୍ବ ଆଡ଼କୁ ୧୫ ମିଟର, ଦକ୍ଷିଣ ଆଡ଼କୁ ୧୦ ମିଟର (ଯାହା ଫଳରେ ସେ ଆରମ୍ଭ ରେଖାକୁ ଫେରିଆସନ୍ତି) ଏବଂ ଶେଷରେ ପୂର୍ବ ଆଡ଼କୁ ୮ ମିଟର ଯାଆନ୍ତି। ମୋଟ ପୂର୍ବ ଦୂରତା = ୧୫ + ୮ = ୨୩ ମିଟର। ତେଣୁ, ବିନ୍ଦୁ B ହେଉଛି A ଠାରୁ ୨୩ ମିଟର ପୂର୍ବରେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951428237-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Freedom Movement & Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year did Utkalamani Gopabandhu Das establish the historic 'Satyabadi Bana Vidyalaya' at Sakhigopal in Puri district?",
+      "options": [
+        "1905",
+        "1909",
+        "1912",
+        "1919"
+      ],
+      "answer": 1,
+      "explanation": "Utkalamani Gopabandhu Das established the Satyabadi Bana Vidyalaya at Sakhigopal in Puri district on 19 August 1909 as an open-air school based on traditional Gurukul principles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ଐତିହାସିକ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ କେଉଁ ବର୍ଷ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "1905",
+            "1909",
+            "1912",
+            "1919"
+          ],
+          "explanation": "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ ୧୯୦୯ ମସିହା ଅଗଷ୍ଟ ୧୯ ତାରିଖରେ ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ପାରମ୍ପରିକ ଗୁରୁକୁଳ ଶିକ୍ଷା ପ୍ରଣାଳୀ ଉପରେ ଆଧାରିତ ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951428237-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity & Administrative History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Following the creation of the separate Orissa province in 1936, where was the first session of the Orissa Legislative Assembly convened on 28th July 1937?",
+      "options": [
+        "Ravenshaw College Hall, Cuttack",
+        "Cuttack Town Hall",
+        "Barabati Fort Council Chamber",
+        "Sardar Patel Hall, Bhubaneswar"
+      ],
+      "answer": 0,
+      "explanation": "The first session of the Orissa Legislative Assembly met on 28th July 1937 in the Hall of Ravenshaw College, Cuttack.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହାରେ ସ୍ଵତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ହେବା ପରେ, ୧୯୩୭ ଜୁଲାଇ ୨୮ ରେ ଓଡ଼ିଶା ବିଧାନସଭାର ପ୍ରଥମ ଅଧିବେଶନ କେଉଁ ସ୍ଥାନରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "ରେଭେନ୍ସା କଲେଜ ହଲ୍, କଟକ",
+            "କଟକ ଟାଉନ୍ ହଲ୍",
+            "ବାରବାଟୀ ଦୁର୍ଗ କାଉନ୍ସିଲ୍ ଚାମ୍ବର୍",
+            "ସର୍ଦ୍ଦାର ପଟେଲ ହଲ୍, ଭୁବନେଶ୍ୱର"
+          ],
+          "explanation": "ଓଡ଼ିଶା ବିଧାନସଭାର ପ୍ରଥମ ଅଧିବେଶନ ୧୯୩୭ ଜୁଲାଇ ୨୮ ତାରିଖରେ କଟକର ରେଭେନ୍ସା କଲେଜ ହଲ୍‌ରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951443652-0",
+      "section": "Odisha GK",
+      "topic": "Odia Journalism & Renaissance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the editor of 'Utkala Deepika', the first Odia weekly newspaper established in 1866?",
+      "options": [
+        "Gouri Shankar Ray",
+        "Phakir Mohan Senapati",
+        "Radhanath Ray",
+        "Bichitrananda Das"
+      ],
+      "answer": 0,
+      "explanation": "'Utkala Deepika', the first Odia weekly newspaper, started publication on 4th August 1866 under the editorship of Gouri Shankar Ray. It played a prominent role in the promotion of Odia language and culture.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ ପ୍ରଥମ ଓଡ଼ିଆ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା'ର ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୌରୀଶଙ୍କର ରାୟ",
+            "ଫକୀର ମୋହନ ସେନାପତି",
+            "ରାଧାନାଥ ରାୟ",
+            "ବିଚିତ୍ରାନନ୍ଦ ଦାସ"
+          ],
+          "explanation": "'ଉତ୍କଳ ଦୀପିକା' ହେଉଛି ପ୍ରଥମ ଓଡ଼ିଆ ସମ୍ବାଦପତ୍ର, ଯାହା ୪ ଅଗଷ୍ଟ ୧୮୬୬ ରେ ଗୌରୀଶଙ୍କର ରାୟଙ୍କ ସମ୍ପାଦନାରେ ପ୍ରକାଶିତ ହୋଇଥିଲା। ଏହା ଓଡ଼ିଆ ଭାଷା ଓ ସଂସ୍କୃତିର ସୁରକ୍ଷା ପାଇଁ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1784951443652-1",
+      "section": "Odisha GK",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who led the historic Salt Satyagraha at Inchudi in Balasore district after Gopabandhu Choudhury was arrested in April 1930?",
+      "options": [
+        "Acharya Harihar Das",
+        "Nabakrushna Choudhury",
+        "Bhagirathi Mohapatra",
+        "Harekrushna Mahtab"
+      ],
+      "answer": 0,
+      "explanation": "Following the arrest of Gopabandhu Choudhury on April 8, 1930, Acharya Harihar Das took charge and led the first batch of Satyagrahis from Swaraj Ashram, Cuttack to Inchudi in Balasore, breaking the Salt Law on April 14, 1930.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏପ୍ରିଲ ୧୯୩୦ ରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଗିରଫ ହେବା ପରେ ବାଲେଶ୍ୱର ଜିଲ୍ଲାର ଇଞ୍ଚୁଡ଼ିଠାରେ ଐତିହାସିକ ଲବଣ ସତ୍ୟାଗ୍ରହର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ",
+            "ଭାଗୀରଥି ମହାପାତ୍ର",
+            "ହରେକୃଷ୍ଣ ମହତାବ"
+          ],
+          "explanation": "୮ ଏପ୍ରିଲ ୧୯୩୦ ରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଗିରଫ ହେବା ପରେ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ ନେତୃତ୍ୱ ନେଇ ସତ୍ୟାଗ୍ରହୀ ଦଳ ସହିତ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ଅଭିମୁଖେ ଯାଇଥିଲେ ଏବଂ ୧୪ ଏପ୍ରିଲ ୧୯୩୦ ରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିଲେ।"
         }
       }
     }
