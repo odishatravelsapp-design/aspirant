@@ -5145,6 +5145,176 @@
       "answer": 3,
       "explanation": "The key financial indicators monitored under the RBI's PCA framework for banks are Capital adequacy (CRAR / Common Equity Tier 1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Tier-1 Leverage Ratio). Statutory Liquidity Ratio (SLR) is not a PCA trigger parameter.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-0",
+      "section": "Predicted",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A shopkeeper marks an article 50% above its cost price and offers two successive discounts of 20% and 10% on the marked price. If he further offers a flat cash discount of Rs. 50 and still makes a profit of Rs. 30, what is the cost price of the article?",
+      "options": [
+        "Rs. 800",
+        "Rs. 1000",
+        "Rs. 1200",
+        "Rs. 1500"
+      ],
+      "answer": 1,
+      "explanation": "Let Cost Price (CP) = x. Marked Price (MP) = 1.50x. Price after 1st discount (20%) = 1.50x * 0.80 = 1.20x. Price after 2nd discount (10%) = 1.20x * 0.90 = 1.08x. Final Selling Price (SP) = 1.08x - 50. Profit = SP - CP => (1.08x - 50) - x = 30 => 0.08x - 50 = 30 => 0.08x = 80 => x = 1000. Hence, CP is Rs. 1000."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-1",
+      "section": "Predicted",
+      "topic": "Profit and Loss",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A trader bought two items, A and B, for a total cost of Rs. 8,400. He sold item A at a loss of 15% and item B at a profit of 25%. The overall profit earned in the transaction was Rs. 300. If he had sold item A at a profit of 20% and item B at a loss of 10%, what would be his net profit percentage on the entire transaction?",
+      "options": [
+        "6.07%",
+        "4.52%",
+        "5.25%",
+        "7.14%"
+      ],
+      "answer": 0,
+      "explanation": "Let CP of A = A and CP of B = B. A + B = 8400... (1). Net profit: -0.15A + 0.25B = 300... (2). Multiplying eq (1) by 0.15 gives 0.15A + 0.15B = 1260. Adding this to eq (2): 0.40B = 1560 => B = 3900. Therefore, A = 8400 - 3900 = 4500. In the second scenario: Profit on A = 20% of 4500 = +900. Loss on B = 10% of 3900 = -390. Net Profit = 900 - 390 = Rs. 510. Net Profit % = (510 / 8400) * 100 = 6.07%."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-2",
+      "section": "Predicted",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A and B together can complete a work in 12 days. B and C together can complete the same work in 16 days. A worked at it for 5 days and B for 7 days, then C completed the remaining work in 13 days. In how many days can C alone complete the entire work?",
+      "options": [
+        "16 days",
+        "24 days",
+        "32 days",
+        "36 days"
+      ],
+      "answer": 1,
+      "explanation": "Work done by A in 5 days + B in 7 days + C in 13 days = 1. Regrouping: 5(A + B) + 2(B + C) + 11C = 1. Since (A + B)'s 1-day work = 1/12 and (B + C)'s 1-day work = 1/16: 5(1/12) + 2(1/16) + 11(C's 1-day work) = 1 => 5/12 + 1/8 + 11/C = 1 => 13/24 + 11/C = 1 => 11/C = 11/24 => C = 24 days."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-3",
+      "section": "Predicted",
+      "topic": "Time and Work",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "8 men and 6 women can complete a piece of work in 10 days, while 6 men and 8 women can complete the same work in 12 days. In how many days can 3 men and 4 women complete the same work?",
+      "options": [
+        "18 days",
+        "20 days",
+        "24 days",
+        "28 days"
+      ],
+      "answer": 2,
+      "explanation": "Total Work = 10(8M + 6W) = 80M + 60W. Also Total Work = 12(6M + 8W) = 72M + 96W. Equating both: 80M + 60W = 72M + 96W => 8M = 36W => 1M = 4.5W. Total Work = 80(4.5W) + 60W = 420W. Target group rate = 3M + 4W = 3(4.5W) + 4W = 17.5W per day. Days required = 420W / 17.5W = 24 days."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-4",
+      "section": "Predicted",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Statements:\nOnly a few Banks are Financials.\nAll Financials are Regulated.\nNo Regulated is Fraud.\n\nConclusions:\nI. Some Banks are not Fraud.\nII. Some Financials can be Fraud.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "From Statements: 'Only a few Banks are Financials' implies Some Banks are Financials and Some Banks are not. All Financials are inside Regulated, and No Regulated is Fraud. Therefore, the portion of Banks that are Financials can never be Fraud, so 'Some Banks are not Fraud' definitely follows (Conclusion I is true). Since All Financials are Regulated and No Regulated is Fraud, no Financial can ever be Fraud, so Conclusion II is false."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-5",
+      "section": "Predicted",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Statements:\nOnly a few Pencils are Pens.\nNo Pen is an Eraser.\nAll Erasers are Markers.\n\nConclusions:\nI. All Pencils being Erasers is a possibility.\nII. Some Markers are definitely not Pens.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "Conclusion I: Some Pencils are Pens, and No Pen is an Eraser. If All Pencils became Erasers, those Pencils that are Pens would become Erasers, violating 'No Pen is an Eraser'. Thus, Conclusion I is impossible. Conclusion II: Erasers are entirely inside Markers and no Eraser is a Pen. So the portion of Markers that are Erasers can never be Pens. Thus, 'Some Markers are definitely not Pens' holds true. Only conclusion II follows."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-6",
+      "section": "Predicted",
+      "topic": "Inequality",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Statements:\nA ≥ B > C = D; E ≤ C < F < G\n\nConclusions:\nI. A > E\nII. D < G",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Neither conclusion I nor II is true",
+        "Both conclusions I and II are true"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements: A ≥ B > C ≥ E, so A > E is true (Conclusion I). Also, D = C < F < G, so D < G is true (Conclusion II). Both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-7",
+      "section": "Predicted",
+      "topic": "Inequality",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which of the following symbols should replace the question mark (?) in the given expression in order to make the conclusions 'P > S' and 'T ≥ R' definitely true?\nExpression: P ≥ Q ? R = S ≤ T",
+      "options": [
+        ">",
+        "≥",
+        "=",
+        "≤"
+      ],
+      "answer": 0,
+      "explanation": "If we replace '?' with '>': Expression becomes P ≥ Q > R = S ≤ T. Checking conclusions: 1) P ≥ Q > R = S => P > S (Definitely True). 2) R = S ≤ T => T ≥ R (Definitely True). Any other symbol like '≥' or '=' would yield P ≥ S instead of strict inequality P > S."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-8",
+      "section": "Predicted",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In the following question, a sentence is divided into four parts: (A), (B), (C), and (D). One of these parts contains a grammatical error. Select the part with the error.\n\n\"Neither the manager nor the employees (A) / was aware of the sudden changes (B) / made to the company's policy (C) / regarding remote working. (D)\"",
+      "options": [
+        "Neither the manager nor the employees",
+        "was aware of the sudden changes",
+        "made to the company's policy",
+        "regarding remote working"
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are connected by 'neither... nor', the verb must agree with the subject closest to it. Here, 'the employees' (plural) is closer to the verb, so the plural verb 'were' should be used instead of 'was'. Part (B) contains the error."
+    },
+    {
+      "id": "ibps-po-pred-1785045393526-9",
+      "section": "Predicted",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In the following question, a sentence is divided into four parts: (A), (B), (C), and (D). One of these parts contains a grammatical error. Select the part with the error.\n\n\"Hardly had the chairman begun (A) / his address when the audience (B) / started expressing their disapproval (C) / on the proposed budget plan. (D)\"",
+      "options": [
+        "Hardly had the chairman begun",
+        "his address when the audience",
+        "started expressing their disapproval",
+        "on the proposed budget plan"
+      ],
+      "answer": 3,
+      "explanation": "The noun 'disapproval' is correctly followed by the preposition 'of' (or 'at'), not 'on'. The correct phrase should be 'disapproval of the proposed budget plan'. Thus, part (D) contains the error."
     }
   ]
 }

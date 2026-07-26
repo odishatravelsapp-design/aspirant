@@ -5620,6 +5620,176 @@
       "answer": 1,
       "explanation": "Article 280(2) of the Indian Constitution states that the Finance Commission shall consist of a Chairman and four other members to be appointed by the President of India.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-0",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What will come in place of the question mark (?) in the following question?\n\n(1840 ÷ 8) + ? = 35% of 800 - 25",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "15"
+      ],
+      "answer": 1,
+      "explanation": "LHS: (1840 ÷ 8) = 230.\nRHS: 35% of 800 - 25 = 280 - 25 = 255.\nSo, 230 + ? = 255 => ? = 25."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-1",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of question mark (?) in the following equation?\n\n(√1521 × √225) ÷ 13 + 12² = ?² - 36",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "answer": 2,
+      "explanation": "√1521 = 39, √225 = 15.\n(39 × 15) ÷ 13 + 144 = ?² - 36\n(3 × 15) + 144 = ?² - 36\n45 + 144 = ?² - 36\n189 + 36 = ?²\n225 = ?² => ? = 15."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-2",
+      "section": "Predicted",
+      "topic": "Average",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The average weight of a class of 30 students is 45 kg. If the weight of the teacher is included, the overall average weight increases by 1 kg. What is the weight of the teacher?",
+      "options": [
+        "72 kg",
+        "74 kg",
+        "76 kg",
+        "78 kg"
+      ],
+      "answer": 2,
+      "explanation": "Sum of weights of 30 students = 30 × 45 = 1350 kg.\nWhen the teacher is included, total count = 31 and new average = 46 kg.\nSum of weights of 31 people = 31 × 46 = 1426 kg.\nWeight of teacher = 1426 - 1350 = 76 kg."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-3",
+      "section": "Predicted",
+      "topic": "Average",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a group of 8 individuals, the average age of the first 5 people is 28 years, and the average age of the last 4 people is 32 years. If the average age of all 8 individuals combined is 29.5 years, what is the age of the 5th person?",
+      "options": [
+        "30 years",
+        "32 years",
+        "34 years",
+        "36 years"
+      ],
+      "answer": 1,
+      "explanation": "Total age of all 8 people = 8 × 29.5 = 236 years.\nSum of ages of first 5 people = 5 × 28 = 140 years.\nSum of ages of last 4 people = 4 × 32 = 128 years.\nAge of 5th person = (140 + 128) - 236 = 268 - 236 = 32 years."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-4",
+      "section": "Predicted",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a certain code language, 'STATION' is coded as 'URCRKMP'. How will 'JOURNEY' be coded in that same language?",
+      "options": [
+        "LMWPPCA",
+        "LMWPOCB",
+        "LNWPPDA",
+        "LLWPPCA"
+      ],
+      "answer": 0,
+      "explanation": "The pattern follows alternating (+2, -2) letter shifts:\nS(+2)->U, T(-2)->R, A(+2)->C, T(-2)->R, I(+2)->K, O(-2)->M, N(+2)->P.\nApplying same logic to JOURNEY:\nJ(+2)->L, O(-2)->M, U(+2)->W, R(-2)->P, N(+2)->P, E(-2)->C, Y(+2)->A => LMWPPCA."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-5",
+      "section": "Predicted",
+      "topic": "Coding-Decoding",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a certain code language:\n'study hard get success' is coded as 'ki ma pa to'\n'get good rank exam' is coded as 'to re na yu'\n'hard exam study well' is coded as 'ki yu ma ze'\n'success well good score' is coded as 'pa ze re do'\n\nWhat is the code for 'success' in this language?",
+      "options": [
+        "ki",
+        "to",
+        "pa",
+        "ze"
+      ],
+      "answer": 2,
+      "explanation": "Comparing statement 1 & 2: 'get' is common, coded as 'to'.\nComparing statement 1 & 3: 'study' and 'hard' are common, coded as 'ki' and 'ma'.\nTherefore, in statement 1, the remaining word 'success' must be coded as 'pa'."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-6",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the missing number in the following number series:\n7, 16, 41, 90, 171, ?",
+      "options": [
+        "282",
+        "292",
+        "302",
+        "272"
+      ],
+      "answer": 1,
+      "explanation": "The pattern is based on adding squares of consecutive odd numbers:\n16 - 7 = 9 (3²)\n41 - 16 = 25 (5²)\n90 - 41 = 49 (7²)\n171 - 90 = 81 (9²)\nNext difference = 11² = 121.\nNext term = 171 + 121 = 292."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-7",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the wrong term in the following number series:\n12, 13, 28, 87, 354, 1765",
+      "options": [
+        "28",
+        "87",
+        "354",
+        "1765"
+      ],
+      "answer": 2,
+      "explanation": "The correct pattern is:\n12 × 1 + 1 = 13\n13 × 2 + 2 = 28\n28 × 3 + 3 = 87\n87 × 4 + 4 = 352 (given as 354)\n352 × 5 + 5 = 1765.\nHence, 354 is the wrong term."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-8",
+      "section": "Predicted",
+      "topic": "Synonyms",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the word that is MOST SIMILAR in meaning to the bolded word as used in the given sentence:\n\n'The board took a **PRUDENT** decision to limit expenditure during the financial crisis.'",
+      "options": [
+        "Reckless",
+        "Cautious",
+        "Extravagant",
+        "Indifferent"
+      ],
+      "answer": 1,
+      "explanation": "'Prudent' means acting with or showing care and thought for the future; wise or cautious. Therefore, 'Cautious' is the most similar in meaning."
+    },
+    {
+      "id": "ibps-clerk-pred-1785045093012-9",
+      "section": "Predicted",
+      "topic": "Synonyms",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Choose the word that is MOST SIMILAR in meaning to the word:\n\n**EPHEMERAL**",
+      "options": [
+        "Eternal",
+        "Transient",
+        "Substantial",
+        "Perpetual"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' also means lasting only for a short time or impermanent, making it the correct synonym."
     }
   ]
 }

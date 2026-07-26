@@ -5876,6 +5876,176 @@
           "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ମନ୍ତ୍ରୀ ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଅଧିକାର କରି ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
         }
       }
+    },
+    {
+      "id": "osssc-pred-1785045553453-0",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "If the price of rice increases by 20%, by what percentage should a family reduce its consumption so that the total expenditure remains unchanged?",
+      "options": [
+        "16.67%",
+        "20.00%",
+        "25.00%",
+        "15.00%"
+      ],
+      "answer": 0,
+      "explanation": "Percentage reduction in consumption = [r / (100 + r)] * 100 = [20 / (100 + 20)] * 100 = (20 / 120) * 100 = 16.67%."
+    },
+    {
+      "id": "osssc-pred-1785045553453-1",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a village, 40% of the total population are females. Among the males, 70% are literate, and among the females, 50% are literate. If the total number of illiterate persons in the village is 760, what is the total population of the village?",
+      "options": [
+        "1800",
+        "2000",
+        "2200",
+        "2400"
+      ],
+      "answer": 1,
+      "explanation": "Let total population = 100x. Females = 40x, Males = 60x. Illiterate males = 30% of 60x = 18x. Illiterate females = 50% of 40x = 20x. Total illiterate = 18x + 20x = 38x. Given 38x = 760, so x = 20. Total population = 100 * 20 = 2000."
+    },
+    {
+      "id": "osssc-pred-1785045553453-2",
+      "section": "Predicted",
+      "topic": "Analogy",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Odisha : Bhubaneswar :: Assam : ?",
+      "options": [
+        "Dispur",
+        "Guwahati",
+        "Shillong",
+        "Imphal"
+      ],
+      "answer": 0,
+      "explanation": "Bhubaneswar is the capital of Odisha. Similarly, Dispur is the capital of Assam."
+    },
+    {
+      "id": "osssc-pred-1785045553453-3",
+      "section": "Predicted",
+      "topic": "Analogy",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Doctor : Stethoscope :: Sculptor : ?",
+      "options": [
+        "Anvil",
+        "Chisel",
+        "Palette",
+        "Trowel"
+      ],
+      "answer": 1,
+      "explanation": "A doctor uses a stethoscope as a primary tool for work. Similarly, a sculptor uses a chisel to shape stone or wood."
+    },
+    {
+      "id": "osssc-pred-1785045553453-4",
+      "section": "Predicted",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which river forms the famous Chitrakote Falls, often referred to as the 'Niagara Falls of India'?",
+      "options": [
+        "Mahanadi",
+        "Indravati",
+        "Godavari",
+        "Subarnarekha"
+      ],
+      "answer": 1,
+      "explanation": "The Chitrakote Falls is located on the Indravati River in the Bastar region, close to the Odisha border."
+    },
+    {
+      "id": "osssc-pred-1785045553453-5",
+      "section": "Predicted",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which latitude line passes almost through the middle of India, dividing the country into two climatic zones?",
+      "options": [
+        "Equator",
+        "Tropic of Capricorn",
+        "Tropic of Cancer",
+        "Arctic Circle"
+      ],
+      "answer": 2,
+      "explanation": "The Tropic of Cancer (23.5° N) passes through 8 Indian states and divides the country almost into two equal halves."
+    },
+    {
+      "id": "osssc-pred-1785045553453-6",
+      "section": "Predicted",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Who among the following set up the famous 'Satyabadi Bana Vidyalaya' at Sakshigopal in Odisha in 1909?",
+      "options": [
+        "Madhusudan Das",
+        "Gopabandhu Das",
+        "Fakir Mohan Senapati",
+        "Krushna Chandra Gajapati"
+      ],
+      "answer": 1,
+      "explanation": "Utkalamani Gopabandhu Das established the Satyabadi Bana Vidyalaya at Sakshigopal in Puri district in 1909."
+    },
+    {
+      "id": "osssc-pred-1785045553453-7",
+      "section": "Predicted",
+      "topic": "History",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Under the reign of which Eastern Ganga Dynasty ruler was the world-famous Sun Temple at Konark constructed?",
+      "options": [
+        "Anantavarman Chodaganga",
+        "Narasimhadeva I",
+        "Kapilendra Deva",
+        "Prataparudra Deva"
+      ],
+      "answer": 1,
+      "explanation": "The Konark Sun Temple was built in the 13th century (around 1250 CE) by King Narasimhadeva I of the Eastern Ganga Dynasty."
+    },
+    {
+      "id": "osssc-pred-1785045553453-8",
+      "section": "Predicted",
+      "topic": "Indian Polity",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which Article of the Indian Constitution abolishes the practice of 'Untouchability' in any form?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 18"
+      ],
+      "answer": 2,
+      "explanation": "Article 17 of the Constitution of India abolishes untouchability and forbids its practice in any form."
+    },
+    {
+      "id": "osssc-pred-1785045553453-9",
+      "section": "Predicted",
+      "topic": "Indian Polity",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which Constitutional Amendment Act reduced the voting age in India from 21 years to 18 years for Lok Sabha and Assembly elections?",
+      "options": [
+        "44th Constitutional Amendment Act",
+        "61st Constitutional Amendment Act",
+        "73rd Constitutional Amendment Act",
+        "86th Constitutional Amendment Act"
+      ],
+      "answer": 1,
+      "explanation": "The 61st Constitutional Amendment Act, 1988 reduced the voting age for elections to the Lok Sabha and State Legislative Assemblies from 21 to 18 years."
     }
   ]
 }
