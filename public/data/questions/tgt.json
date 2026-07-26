@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -2750,6 +2750,64 @@
       ],
       "answer": 2,
       "explanation": "Krashen's Affective Filter Hypothesis posits that negative emotional states (high anxiety, low motivation/confidence) act as a filter blocking input necessary for language acquisition."
+    },
+    {
+      "id": "tgt-ai-1785039807454-0",
+      "section": "Subject Knowledge",
+      "topic": "English Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following literary critics coined the term 'Objective Correlative' in his essay 'Hamlet and His Problems' (1919)?",
+      "options": [
+        "I. A. Richards",
+        "T. S. Eliot",
+        "Matthew Arnold",
+        "F. R. Leavis"
+      ],
+      "answer": 1,
+      "explanation": "The term 'Objective Correlative' was popularized by T. S. Eliot in his 1919 essay 'Hamlet and His Problems' to describe a set of objects, a situation, or a chain of events that serves as the formula for a particular emotion.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ସାହିତ୍ୟ ସମାଲୋଚକମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ତାଙ୍କ ନିବନ୍ଧ 'ହାମଲେଟ୍ ଆଣ୍ଡ୍ ହିଜ୍ ପ୍ରବ୍ଲେମ୍ସ' (୧୯୧୯) ରେ 'ଅବଜେକ୍ଟିଭ୍ କୋରିଲେଟିଭ୍' ଶବ୍ଦଟି ପ୍ରଚଳନ କରିଥିଲେ?",
+          "options": [
+            "ଆଇ. ଏ. ରିଚାର୍ଡସ",
+            "ଟି. ଏସ. ଏଲିଅଟ",
+            "ମ୍ୟାଥ୍ୟୁ ଆର୍ନୋଲ୍ଡ",
+            "ଏଫ୍. ଆର. ଲିଭିସ"
+          ],
+          "explanation": "'ଅବଜେକ୍ଟିଭ୍ କୋରିଲେଟିଭ୍' (Objective Correlative) ଶବ୍ଦଟି ଟି. ଏସ. ଏଲିଅଟଙ୍କ ଦ୍ୱାରା ତାଙ୍କର ୧୯୧୯ ମସିହାର ନିବନ୍ଧ 'ହାମଲେଟ୍ ଆଣ୍ଡ୍ ହିଜ୍ ପ୍ରବ୍ଲେମ୍ସ' ରେ ପ୍ରସିଦ୍ଧ ଭାବରେ ବ୍ୟବହୃତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785039807454-1",
+      "section": "Subject Knowledge",
+      "topic": "Solid State Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a face-centered cubic (FCC) unit cell of a crystal lattice, what is the effective number of atoms per unit cell and its packing efficiency, respectively?",
+      "options": [
+        "2 and 68%",
+        "4 and 74%",
+        "4 and 68%",
+        "2 and 74%"
+      ],
+      "answer": 1,
+      "explanation": "In an FCC unit cell, atoms are present at 8 corners (8 × 1/8 = 1) and 6 face centers (6 × 1/2 = 3), giving a total of 4 effective atoms. The packing efficiency of an FCC lattice is approximately 74%.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏକ କ୍ରିଷ୍ଟାଲ୍ ଲାଟିସର ଫେସ୍-ସେଣ୍ଟର୍ଡ କ୍ୟୁବିକ୍ (FCC) ୟୁନିଟ୍ ସେଲରେ, ୟୁନିଟ୍ ସେଲ୍ ପ୍ରତି ପ୍ରଭାବୀ ପରମାଣୁ ସଂଖ୍ୟା ଏବଂ ଏହାର ପ୍ୟାକିଂ ଦକ୍ଷତା (packing efficiency) ଯଥାକ୍ରମେ କେତେ?",
+          "options": [
+            "୨ ଏବଂ ୬୮%",
+            "୪ ଏବଂ ୭୪%",
+            "୪ ଏବଂ ୬୮%",
+            "୨ ଏବଂ ୭୪%"
+          ],
+          "explanation": "ଏକ FCC ୟୁନିଟ୍ ସେଲରେ ୮ଟି କୋଣରେ (୮ × ୧/୮ = ୧) ଏବଂ ୬ଟି ଫେସ୍-ସେଣ୍ଟରରେ (୬ × ୧/୨ = ୩) ପରମାଣୁ ଥାଆନ୍ତି, ଯାହା ମୋଟ ୪ଟି ପ୍ରଭାବୀ ପରମାଣୁ ଦିଏ। ଏହାର ପ୍ୟାକିଂ ଦକ୍ଷତା ପ୍ରାୟ ୭୪% ଅଟେ।"
+        }
+      }
     }
   ]
 }

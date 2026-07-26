@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -5015,6 +5015,136 @@
       ],
       "answer": 1,
       "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is an international treaty agreed upon in 1987 to phase out production of substances like CFCs."
+    },
+    {
+      "id": "ibps-po-ai-1785038789500-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A and B enter into a partnership with capitals in the ratio 4 : 5. After 3 months, A withdraws 1/4th of his capital and B withdraws 1/5th of his capital. If the total profit at the end of 10 months was Rs. 7,600, what is A's share of the profit?",
+      "options": [
+        "Rs. 3,300",
+        "Rs. 4,300",
+        "Rs. 3,500",
+        "Rs. 4,100"
+      ],
+      "answer": 0,
+      "explanation": "Let initial investments of A and B be 4x and 5x respectively.\nFor A: Investment for first 3 months = 4x * 3 = 12x. Remaining capital = 4x - (1/4)*4x = 3x for 7 months = 21x. Total investment equivalent for 1 month = 12x + 21x = 33x.\nFor B: Investment for first 3 months = 5x * 3 = 15x. Remaining capital = 5x - (1/5)*5x = 4x for 7 months = 28x. Total investment equivalent for 1 month = 15x + 28x = 43x.\nRatio of profit share A : B = 33 : 43.\nTotal ratio units = 33 + 43 = 76 units.\n76 units = Rs. 7,600 => 1 unit = Rs. 100.\nA's share = 33 * 100 = Rs. 3,300."
+    },
+    {
+      "id": "ibps-po-ai-1785038789500-1",
+      "section": "Quant",
+      "topic": "Speed, Distance & Time",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Two places A and B are 180 km apart. Two cars start simultaneously from A and B towards each other and meet after 2 hours. If the car starting from A had traveled at two-thirds of its speed and the car starting from B had traveled at 50% higher speed, they would have met 24 minutes later. What is the speed of the car starting from A?",
+      "options": [
+        "60 km/h",
+        "72 km/h",
+        "54 km/h",
+        "80 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let the speeds of cars from A and B be Sa and Sb respectively.\nInitial relative speed = Sa + Sb = 180 / 2 = 90 km/h  --- (Equation 1)\nNew meeting time = 2 hours + 24 minutes = 2.4 hours.\nNew relative speed = 180 / 2.4 = 75 km/h.\nNew speed of A = (2/3)Sa, New speed of B = 1.5 Sb = (3/2)Sb.\nSo, (2/3)Sa + (3/2)Sb = 75  --- (Equation 2)\nFrom Eq 1, Sb = 90 - Sa.\nSubstitute Sb in Eq 2:\n(2/3)Sa + (3/2)(90 - Sa) = 75\n(2/3)Sa + 135 - (3/2)Sa = 75\n135 - 75 = (3/2 - 2/3)Sa\n60 = (5/6)Sa\nSa = (60 * 6) / 5 = 72 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1785038803037-0",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Each of the five friends — P, Q, R, S, and T — has a different height. Who among them is the tallest?\n\nStatement I: R is taller than only P and S. Q is not the tallest.\nStatement II: T is taller than both Q and R. P is taller than S.",
+      "options": [
+        "The data in Statement I alone is sufficient to answer the question, while Statement II alone is not.",
+        "The data in Statement II alone is sufficient to answer the question, while Statement I alone is not.",
+        "The data either in Statement I alone or in Statement II alone is sufficient to answer the question.",
+        "The data in both Statements I and II together are necessary to answer the question."
+      ],
+      "answer": 0,
+      "explanation": "From Statement I: 'R is taller than only P and S' implies that exactly two people (P and S) are shorter than R. Thus, R is the 3rd tallest. The remaining two positions (1st and 2nd tallest) must be occupied by Q and T. Since 'Q is not the tallest', T must be the tallest (1st position). Thus, Statement I alone is sufficient.\n\nFrom Statement II: We know T > Q, T > R, and P > S. However, P could be taller than T (e.g., P > T > Q > R > S), or T could be the tallest (e.g., T > Q > R > P > S). Hence, we cannot uniquely identify the tallest person. Statement II alone is not sufficient.\n\nTherefore, Statement I alone is sufficient to answer the question."
+    },
+    {
+      "id": "ibps-po-ai-1785038803037-1",
+      "section": "Reasoning",
+      "topic": "Statement and Assumptions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the statement and the following assumptions, then choose the correct option.\n\nStatement: The metropolitan transport authority has decided to introduce 200 additional electric buses on major high-density routes during peak hours to curb rising urban air pollution.\n\nAssumptions:\nI. Increasing the fleet of electric buses will encourage a section of commuters to shift from personal motorized vehicles, helping reduce overall emissions.\nII. Electric buses generate significantly fewer direct vehicular emissions than traditional diesel/petrol buses on high-density routes.\nIII. Private vehicles will be completely banned from operating on major high-density routes during peak hours.",
+      "options": [
+        "Only Assumption I is implicit",
+        "Only Assumption II is implicit",
+        "Both Assumptions I and II are implicit",
+        "Both Assumptions II and III are implicit"
+      ],
+      "answer": 2,
+      "explanation": "Assumption I is implicit because introducing public transport to lower pollution assumes people will choose it over private vehicles, thereby lowering emissions. Assumption II is implicit because the decision to add electric buses specifically to combat pollution relies on the premise that electric buses produce lower emissions than fossil-fuel buses. Assumption III is not implicit because the authority is supplementing public transport, not imposing an absolute ban on private vehicles. Thus, both Assumptions I and II are implicit."
+    },
+    {
+      "id": "ibps-po-ai-1785038810201-0",
+      "section": "English",
+      "topic": "Antonyms",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the word that is most nearly OPPOSITE in meaning to the bolded word in the given sentence:\n\n'The board members were taken aback by the CFO's **acrimonious** remarks during the merger negotiations, which threatened to undermine weeks of delicate diplomacy.'",
+      "options": [
+        "Harmonious",
+        "Caustic",
+        "Rancorous",
+        "Vitriolic"
+      ],
+      "answer": 0,
+      "explanation": "'Acrimonious' means angry, bitter, and full of ill-feeling. Among the choices, 'Harmonious' (characterized by agreement, concord, or friendly relations) is the direct antonym. 'Caustic', 'Rancorous', and 'Vitriolic' are synonyms of acrimonious."
+    },
+    {
+      "id": "ibps-po-ai-1785038810201-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that appropriately fits in the blanks to make the sentence contextually and grammatically correct:\n\n'Despite the __________ evidence presented by the prosecution, the defense attorney managed to __________ reasonable doubt in the minds of the jury through a meticulous cross-examination.'",
+      "options": [
+        "tenuous ... extinguish",
+        "overwhelming ... instigate",
+        "compelling ... instill",
+        "decisive ... obviate"
+      ],
+      "answer": 2,
+      "explanation": "The word 'Despite' indicates a contrast between the strength of the evidence and the defense attorney's success in creating doubt. 'Compelling' (strong/convincing) fits the first blank appropriately. 'Instill' (to gradually establish a feeling or idea) fits the second blank contextually ('instill reasonable doubt')."
+    },
+    {
+      "id": "ibps-po-ai-1785038821880-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The establishment of the flexible inflation targeting framework and the Monetary Policy Committee (MPC) in India was based on the recommendations of which of the following committees?",
+      "options": [
+        "Urjit Patel Committee",
+        "Bimal Jalan Committee",
+        "M. Narasimham Committee",
+        "Nachiket Mor Committee"
+      ],
+      "answer": 0,
+      "explanation": "The Monetary Policy Committee (MPC) was set up under the Reserve Bank of India Act, 1934, based on the recommendations of the Expert Committee to Revise and Strengthen the Monetary Policy Framework chaired by Urjit Patel in 2014.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785038821880-1",
+      "section": "General Awareness",
+      "topic": "Financial Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks issued by the Reserve Bank of India, which of the following parameters is NOT used as a key financial indicator to trigger PCA?",
+      "options": [
+        "Capital to Risk-Weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (Net NPA) Ratio",
+        "Tier-1 Leverage Ratio",
+        "Statutory Liquidity Ratio (SLR)"
+      ],
+      "answer": 3,
+      "explanation": "The key financial indicators monitored under the RBI's PCA framework for banks are Capital adequacy (CRAR / Common Equity Tier 1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Tier-1 Leverage Ratio). Statutory Liquidity Ratio (SLR) is not a PCA trigger parameter.",
+      "status": "pending"
     }
   ]
 }

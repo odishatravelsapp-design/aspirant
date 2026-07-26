@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -5490,6 +5490,136 @@
       ],
       "answer": 1,
       "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is an international treaty agreed upon in 1987 to phase out production of substances like CFCs."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038665976-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A and B started a business by investing ₹20,000 and ₹25,000 respectively. After 4 months, C joined them with an investment of ₹30,000. At the end of the year, the total profit earned was ₹39,000. Find the share of C in the total profit.",
+      "options": [
+        "₹12,000",
+        "₹15,000",
+        "₹10,000",
+        "₹14,000"
+      ],
+      "answer": 0,
+      "explanation": "Ratio of investment periods: A invested for 12 months, B for 12 months, and C for 8 months.\nRatio of profit share A : B : C = (20000 × 12) : (25000 × 12) : (30000 × 8)\n= 240,000 : 300,000 : 240,000\n= 4 : 5 : 4.\nTotal units of profit = 4 + 5 + 4 = 13 units.\n13 units = ₹39,000 => 1 unit = ₹3,000.\nC's share = 4 units = 4 × ₹3,000 = ₹12,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038665976-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 4 red balls, 5 blue balls, and 3 green balls. If 3 balls are drawn at random simultaneously, what is the probability that at least two balls are blue?",
+      "options": [
+        "2/11",
+        "3/11",
+        "4/11",
+        "5/11"
+      ],
+      "answer": 2,
+      "explanation": "Total number of balls = 4 + 5 + 3 = 12.\nTotal ways to select 3 balls from 12 balls = 12C3 = (12 × 11 × 10) / (3 × 2 × 1) = 220.\nFavorable cases for at least 2 blue balls:\nCase 1: Exactly 2 blue balls and 1 non-blue ball (7 non-blue balls)\nWays = 5C2 × 7C1 = 10 × 7 = 70.\nCase 2: Exactly 3 blue balls\nWays = 5C3 = 10.\nTotal favorable outcomes = 70 + 10 = 80.\nRequired probability = 80 / 220 = 4 / 11."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038697609-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusion(s) is/are definitely true.\n\nStatements:\nA ≥ B > C = D; E ≤ C < F\n\nConclusions:\nI. A > E\nII. F > D",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements: A ≥ B > C ≥ E and F > C = D.\nFor Conclusion I: Moving from A to E gives A ≥ B > C ≥ E, which simplifies to A > E. Thus, Conclusion I is true.\nFor Conclusion II: Moving from F to D gives F > C = D, which simplifies to F > D. Thus, Conclusion II is true.\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038697609-1",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – P, Q, R, S, T, U, V, and W – are sitting around a circular table facing the centre.\n- P sits third to the right of Q.\n- Only two persons sit between Q and R.\n- T is an immediate neighbour of R, but not of Q.\n- U sits to the immediate right of T.\n- S is not an immediate neighbour of R or P.\n- V sits between R and P.\n\nWho sits third to the left of W?",
+      "options": [
+        "U",
+        "T",
+        "V",
+        "R"
+      ],
+      "answer": 0,
+      "explanation": "1. Let position 1 be Q facing centre. Clockwise positions are 1 to 8.\n2. P sits 3rd to the right (counter-clockwise) of Q, so P is at position 6.\n3. Two persons sit between Q and R. R can be at position 4 or 6. Since P is at 6, R is at position 4.\n4. T is a neighbour of R(4), so T is at 3 or 5. Since U sits to the immediate right (counter-clockwise) of T, if T were at 5, U would be at 4 (occupied by R). So T must be at position 3 and U at position 2.\n5. S is not adjacent to R(4) or P(6), so S cannot be at 5 or 7. Thus, S is at position 8.\n6. V sits between R(4) and P(6), so V is at position 5.\n7. The remaining person W is at position 7.\n\nLooking clockwise (left) from W(7): 1st left is S(8), 2nd left is Q(1), and 3rd left is U(2). Therefore, U sits third to the left of W."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038703643-0",
+      "section": "English",
+      "topic": "Vocabulary - Antonym",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the word that is MOST OPPOSITE in meaning to the word 'PERILOUS' as used in the context of safety and risk.",
+      "options": [
+        "Hazardous",
+        "Precarious",
+        "Safe",
+        "Treacherous"
+      ],
+      "answer": 2,
+      "explanation": "'Perilous' means full of danger or risk. 'Safe' is the exact opposite (antonym). 'Hazardous', 'precarious', and 'treacherous' are synonyms of perilous."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038703643-1",
+      "section": "English",
+      "topic": "Sentence Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Complete the following sentence with the most contextually appropriate word:\n\n'Despite facing severe financial constraints, the institution managed to ________ its reputation through uncompromised dedication to quality education.'",
+      "options": [
+        "tarnish",
+        "uphold",
+        "disparage",
+        "relinquish"
+      ],
+      "answer": 1,
+      "explanation": "'Uphold' means to maintain, preserve, or support. The sentence uses 'Despite', indicating a contrast where the institution successfully maintained its high reputation despite financial difficulties. 'Tarnish' and 'disparage' mean to harm or criticize, and 'relinquish' means to voluntarily cease or give up."
+    },
+    {
+      "id": "ibps-clerk-ai-1785038717070-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is the rate at which scheduled commercial banks can borrow emergency overnight funds from the Reserve Bank of India against approved government securities?",
+      "options": [
+        "Reverse Repo Rate",
+        "Marginal Standing Facility Rate",
+        "Bank Rate",
+        "Cash Reserve Ratio"
+      ],
+      "answer": 1,
+      "explanation": "Marginal Standing Facility (MSF) is a special window created by the RBI through which scheduled commercial banks can borrow overnight funds against approved government securities in case of severe liquidity shortages.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785038717071-1",
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Article 280 of the Constitution of India, besides the Chairman, how many other members are appointed by the President to the Finance Commission?",
+      "options": [
+        "3 members",
+        "4 members",
+        "5 members",
+        "6 members"
+      ],
+      "answer": 1,
+      "explanation": "Article 280(2) of the Indian Constitution states that the Finance Commission shall consist of a Chairman and four other members to be appointed by the President of India.",
+      "status": "pending"
     }
   ]
 }

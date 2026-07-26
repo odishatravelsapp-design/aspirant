@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -5646,6 +5646,234 @@
             "ହରେକୃଷ୍ଣ ମହତାବ"
           ],
           "explanation": "୮ ଏପ୍ରିଲ ୧୯୩୦ ରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଗିରଫ ହେବା ପରେ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ ନେତୃତ୍ୱ ନେଇ ସତ୍ୟାଗ୍ରହୀ ଦଳ ସହିତ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ଅଭିମୁଖେ ଯାଇଥିଲେ ଏବଂ ୧୪ ଏପ୍ରିଲ ୧୯୩୦ ରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038839033-0",
+      "section": "Arithmetic",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of Rs. 12,500 is borrowed at a simple interest rate of 12% per annum. What is the total amount to be paid back after 3 years?",
+      "options": [
+        "Rs. 16,000",
+        "Rs. 16,500",
+        "Rs. 17,000",
+        "Rs. 17,500"
+      ],
+      "answer": 2,
+      "explanation": "Simple Interest (SI) = (P × R × T) / 100 = (12500 × 12 × 3) / 100 = Rs. 4,500. Total Amount = Principal + Simple Interest = 12500 + 4500 = Rs. 17,000.",
+      "translations": {
+        "or": {
+          "question": "୧୨,୫୦୦ ଟଙ୍କାର ଏକ ମୂଳଧନ ବାର୍ଷିକ ୧୨% ସରଳ ସୁଧ ହାରରେ ଉଧାର ନିଆଯାଇଛି। ୩ ବର୍ଷ ପରେ ସମୋଟ କେତେ ଟଙ୍କା ଫେରସ୍ତ କରିବାକୁ ପଡ଼ିବ?",
+          "options": [
+            "୧୬,୦୦୦ ଟଙ୍କା",
+            "୧୬,୫୦୦ ଟଙ୍କା",
+            "୧୭,୦୦୦ ଟଙ୍କା",
+            "୧୭,୫୦୦ ଟଙ୍କା"
+          ],
+          "explanation": "ସରଳ ସୁଧ = (P × R × T) / 100 = (12500 × 12 × 3) / 100 = ୪,୫୦୦ ଟଙ୍କା। ସମୁଦାୟ ଅର୍ଥ = ମୂଳଧନ + ସୁଧ = ୧୨୫୦୦ + ୪୫୦୦ = ୧୭,୦୦୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038839033-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper marks an article at a price such that after giving two successive discounts of 20% and 10%, he still makes a profit of 8%. If the cost price of the article is Rs. 1,500, what is its marked price?",
+      "options": [
+        "Rs. 2,100",
+        "Rs. 2,200",
+        "Rs. 2,250",
+        "Rs. 2,400"
+      ],
+      "answer": 2,
+      "explanation": "Selling Price (SP) = CP × (100 + Profit%)/100 = 1500 × 1.08 = Rs. 1,620. Let Marked Price be MP. SP = MP × (1 - 0.20) × (1 - 0.10) = MP × 0.80 × 0.90 = 0.72 × MP. 0.72 × MP = 1620 => MP = 1620 / 0.72 = Rs. 2,250.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଦୋକାନୀ ଏକ ସାମଗ୍ରୀର ଲିଖିତ ମୂଲ୍ୟ ଏପରି ଧାର୍ଯ୍ୟ କରନ୍ତି ଯେ, ୨୦% ଏବଂ ୧୦% ର ଦୁଇଟି କ୍ରମାଗତ ରିହାତି ଦେବା ପରେ ମଧ୍ୟ ସେ ୮% ଲାଭ କରନ୍ତି। ଯଦି ସାମଗ୍ରୀର କ୍ରୟ ମୂଲ୍ୟ ୧,୫୦୦ ଟଙ୍କା ହୁଏ, ତେବେ ଏହାର ଲିଖିତ ମୂଲ୍ୟ କେତେ?",
+          "options": [
+            "୨,୧୦୦ ଟଙ୍କା",
+            "୨,୨୦୦ ଟଙ୍କା",
+            "୨,୨୫୦ ଟଙ୍କା",
+            "୨,୪୦୦ ଟଙ୍କା"
+          ],
+          "explanation": "ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = ୧୫୦୦ × ୧.୦୮ = ୧,୬୨୦ ଟଙ୍କା। ଲିଖିତ ମୂଲ୍ୟ MP ହେଉ। SP = MP × (୧ - ୦.୨୦) × (୧ - ୦.୧୦) = ୦.୭୨ × MP। ୦.୭୨ × MP = ୧୬୨୦ => MP = ୧୬୨୦ / ୦.୭୨ = ୨,୨୫୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038862673-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'CUTTACK' is written as 'DWWXFIR'. How will 'KORAPUT' be written in that code language?",
+      "options": [
+        "LQUEUAA",
+        "LQUEVAB",
+        "MQVEUAA",
+        "LPUETAA"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by increasing positions (+1, +2, +3, +4, +5, +6, +7). C(+1)=D, U(+2)=W, T(+3)=W, T(+4)=X, A(+5)=F, C(+6)=I, K(+7)=R. Applying the same rule to 'KORAPUT': K(+1)=L, O(+2)=Q, R(+3)=U, A(+4)=E, P(+5)=U, U(+6)=A, T(+7)=A. Thus, 'KORAPUT' becomes 'LQUEUAA'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'CUTTACK' କୁ 'DWWXFIR' ଭାବରେ ଲେଖାଯାଏ। ସେହି କୋଡ୍ ଭାଷାରେ 'KORAPUT' କୁ କିପରି ଲେଖାଯିବ?",
+          "options": [
+            "LQUEUAA",
+            "LQUEVAB",
+            "MQVEUAA",
+            "LPUETAA"
+          ],
+          "explanation": "ଶବ୍ଦର ପ୍ରତ୍ୟେକ ଅକ୍ଷର କ୍ରମଶଃ +1, +2, +3, +4, +5, +6, +7 ଆଗକୁ ବୃଦ୍ଧି ପାଉଛି। C(+1)=D, U(+2)=W, T(+3)=W, T(+4)=X, A(+5)=F, C(+6)=I, K(+7)=R। ସେହିପରି KORAPUT ପାଇଁ: K(+1)=L, O(+2)=Q, R(+3)=U, A(+4)=E, P(+5)=U, U(+6)=A, T(+7)=A। ତେଣୁ 'KORAPUT' ର କୋଡ୍ 'LQUEUAA' ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038862673-1",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person starts walking from Point X and goes 12 km towards North to reach Point Y. From Point Y, he turns right and walks 9 km to reach Point Z. From Point Z, he turns 135° clockwise and walks 9√2 km to reach Point W. What is the shortest distance between Point X and Point W, and in which direction is Point W with respect to Point X?",
+      "options": [
+        "3 km, North",
+        "5 km, North-East",
+        "3 km, South",
+        "6 km, North-West"
+      ],
+      "answer": 0,
+      "explanation": "Taking Point X as the origin (0,0): Point Y is at (0, 12). Turning right (East) and walking 9 km gives Point Z at (9, 12). Facing East, a 135° clockwise turn means facing South-West. Walking 9√2 km in the South-West direction results in moving 9 km West and 9 km South. New position W = (9 - 9, 12 - 9) = (0, 3). The distance between X(0,0) and W(0,3) is 3 km, and W lies directly to the North of X.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି X ବିନ୍ଦୁରୁ ଚାଲିବା ଆରମ୍ଭ କରି ଉତ୍ତର ଦିଗରେ ୧୨ କିମି ଯାଇ Y ବିନ୍ଦୁରେ ପହଞ୍ଚନ୍ତି। Y ବିନ୍ଦୁରୁ ସେ ଡାହାଣକୁ ବୁଲି ୯ କିମି ଯାଇ Z ବିନ୍ଦୁରେ ପହଞ୍ଚନ୍ତି। Z ବିନ୍ଦୁରୁ ସେ ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ (clockwise) ୧୩୫° ବୁଲି ୯√୨ କିମି ଚାଲି W ବିନ୍ଦୁରେ ପହଞ୍ଚନ୍ତି। X ବିନ୍ଦୁ ଏବଂ W ବିନ୍ଦୁ ମଧ୍ୟରେ ସର୍ବନିମ୍ନ ଦୂରତା କେତେ ଏବଂ X ବିନ୍ଦୁ ତୁଳନାରେ W ବିନ୍ଦୁ କେଉଁ ଦିଗରେ ଅଛି?",
+          "options": [
+            "୩ କିମି, ଉତ୍ତର",
+            "୫ କିମି, ଉତ୍ତର-ପୂର୍ବ",
+            "୩ କିମି, ଦକ୍ଷିଣ",
+            "୬ କିମି, ଉତ୍ତର-ପଶ୍ଚିମ"
+          ],
+          "explanation": "X ବିନ୍ଦୁକୁ ମୂଳବିନ୍ଦୁ (0,0) ଭାବରେ ନେଲେ: Y ବିନ୍ଦୁ (0, 12) ରେ ଅଛି। ଡାହାଣକୁ (ପୂର୍ବ ଦିଗ) ବୁଲି ୯ କିମି ଗଲେ Z ବିନ୍ଦୁ (9, 12) ରେ ପହଞ୍ଚିବ। ପୂର୍ବ ଦିଗକୁ ମୁହଁ କରି ୧୩୫° ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ ବୁଲିଲେ ଦକ୍ଷିଣ-ପଶ୍ଚିମ ଦିଗ ହେବ। ଦକ୍ଷିଣ-ପଶ୍ଚିମ ଦିଗରେ ୯√୨ କିମି ଚାଲିଲେ ୯ କିମି ପଶ୍ଚିମ ଏବଂ ୯ କିମି ଦକ୍ଷିଣକୁ ଯିବାକୁ ପଡ଼ିବ। W ବିନ୍ଦୁର ସ୍ଥାନାଙ୍କ = (9 - 9, 12 - 9) = (0, 3)। X(0,0) ଏବଂ W(0,3) ମଧ୍ୟରେ ଦୂରତା ୩ କିମି ଏବଂ W ବିନ୍ଦୁ X ର ଉତ୍ତର ଦିଗରେ ଅଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038873692-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the ruler of Khurda when the historic Paika Rebellion broke out in 1817 against British rule?",
+      "options": [
+        "Mukunda Deva II",
+        "Divyasingha Deva II",
+        "Ramachandra Deva I",
+        "Virakishore Deva"
+      ],
+      "answer": 0,
+      "explanation": "Raja Mukunda Deva II was the king of Khurda when the Paika Rebellion erupted in 1817 under the leadership of Bakshi Jagabandhu Bidyadhar Mohapatra.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୧୭ ମସିହାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ସୁପ୍ରସିଦ୍ଧ ପାଇକ ବିଦ୍ରୋହ ଆରମ୍ଭ ହେବା ସମୟରେ ଖୋର୍ଦ୍ଧାର ରାଜା କିଏ ଥିଲେ?",
+          "options": [
+            "ମୁକୁନ୍ଦ ଦେବ II",
+            "ଦିବ୍ୟସିଂହ ଦେବ II",
+            "ରାମଚନ୍ଦ୍ର ଦେବ I",
+            "ବୀରକିଶୋର ଦେବ"
+          ],
+          "explanation": "୧୮୧୭ ମସିହାରେ ବକ୍ସି ଜଗବନ୍ଧୁ ବିଦ୍ୟାଧର ମହାପାତ୍ରଙ୍କ ନେତୃତ୍ୱରେ ପାଇକ ବିଦ୍ରୋହ ସଂଘଠିତ ହେବା ସମୟରେ ରାଜା ମୁକୁନ୍ଦ ଦେବ II ଖୋର୍ଦ୍ଧାର ରାଜା ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038873692-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Administration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was appointed as the first Governor of the separate province of Odisha upon its creation on April 1, 1936?",
+      "options": [
+        "Sir Hawthorne Lewis",
+        "Sir John Austen Hubback",
+        "Sir Chandulal Madhavlal Trivedi",
+        "Asaf Ali"
+      ],
+      "answer": 1,
+      "explanation": "Sir John Austen Hubback was sworn in as the first Governor of Odisha when it became a separate province on April 1, 1936.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହା ଏପ୍ରିଲ ୧ ତାରିଖରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ହେବା ସମୟରେ କାହାକୁ ପ୍ରଥମ ରାଜ୍ୟପାଳ ଭାବରେ ନିଯୁକ୍ତ କରାଯାଇଥିଲା?",
+          "options": [
+            "ସର ହଥର୍ଣ୍ଣ ଲୁଇସ",
+            "ସର ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍",
+            "ସର ଚନ୍ଦୁଲାଲ ମାଧବଲାଲ ତ୍ରିବେଦୀ",
+            "ଆସଫ ଅଲ୍ଲୀ"
+          ],
+          "explanation": "୧୯୩୬ ଏପ୍ରିଲ ୧ ରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ହେବା ପରେ ସର ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍ ଓଡ଼ିଶାର ପ୍ରଥମ ରାଜ୍ୟପାଳ ଭାବରେ କାର୍ଯ୍ୟଭାର ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038883805-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography & Wildlife",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which sanctuary in Odisha is recognized as the world's largest nesting beach for Olive Ridley sea turtles?",
+      "options": [
+        "Bhitarkanika Wildlife Sanctuary",
+        "Gahirmatha Marine Sanctuary",
+        "Similipal National Park",
+        "Satkosia Gorge Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Gahirmatha Marine Sanctuary, located in Kendrapara district, is globally renowned as the world's largest mass nesting beach (Arribada) for Olive Ridley sea turtles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଅଭୟାରଣ୍ୟ ଓଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କାଛୁ ମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ବସା ବାନ୍ଧିବା ସ୍ଥାନ ଭାବରେ ପରିଚିତ?",
+          "options": [
+            "ଭିତରକନିକା ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ",
+            "ଶିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନ",
+            "ସାତକୋଶିଆ ଗଣ୍ଡ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ହେଉଛି ଓଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କାଛୁ ମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ଗଣ-ବସା ବାନ୍ଧିବା ସ୍ଥାନ (ଅରିବାଡ଼ା)।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785038883805-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the founder of the Bhoi dynasty in medieval Odisha in 1541 CE?",
+      "options": [
+        "Govinda Vidyadhara",
+        "Chakrapratapa",
+        "Mukundadeva",
+        "Raghuram Chhotaraya"
+      ],
+      "answer": 0,
+      "explanation": "Govinda Vidyadhara, a minister under the Suryavamsi Gajapati king Prataparudra Deva, usurped the throne in 1541 CE and established the Bhoi dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠାତା କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ଚକ୍ରପ୍ରତାପ",
+            "ମୁକୁନ୍ଦଦେବ",
+            "ରଘୁରାମ ଛୋଟରାୟ"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ମନ୍ତ୍ରୀ ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସିଂହାସନ ଅଧିକାର କରି ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
         }
       }
     }

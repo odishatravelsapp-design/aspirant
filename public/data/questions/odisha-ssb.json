@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -7708,6 +7708,234 @@
       ],
       "answer": 2,
       "explanation": "Krashen's Affective Filter Hypothesis posits that negative emotional states (high anxiety, low motivation/confidence) act as a filter blocking input necessary for language acquisition."
+    },
+    {
+      "id": "odisha-ssb-ai-1785038897810-0",
+      "section": "Subject Knowledge",
+      "topic": "British Romantic Poetry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following poems by Percy Bysshe Shelley was written directly in response to the Peterloo Massacre of 1819?",
+      "options": [
+        "Ode to the West Wind",
+        "The Masque of Anarchy",
+        "Prometheus Unbound",
+        "Adonais"
+      ],
+      "answer": 1,
+      "explanation": "'The Masque of Anarchy' is a political poem written by Percy Bysshe Shelley in 1819 following the Peterloo Massacre in Manchester, advocating nonviolent resistance.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୧୯ ର ପିଟରଲୁ ହତ୍ୟାକାଣ୍ଡ (Peterloo Massacre) ର ପ୍ରତ୍ୟକ୍ଷ ପ୍ରତିକ୍ରିୟାରେ ପର୍ସି ବିଶ୍ ଶେଲି (Percy Bysshe Shelley) ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ କବିତା ରଚନା କରିଥିଲେ?",
+          "options": [
+            "ଓଡ୍ ଟୁ ଦି ୱେଷ୍ଟ ୱିଣ୍ଡ (Ode to the West Wind)",
+            "ଦି ମାସ୍କ ଅଫ୍ ଆନାର୍କି (The Masque of Anarchy)",
+            "ପ୍ରୋମିଥ୍ୟୁସ୍ ଅନ୍‌ବାଉଣ୍ଡ (Prometheus Unbound)",
+            "ଅଡୋନାଇସ୍ (Adonais)"
+          ],
+          "explanation": "'ଦି ମାସ୍କ ଅଫ୍ ଆନାର୍କି' (୧୮୧୯) ମାଞ୍ଚେଷ୍ଟରର ପିଟରଲୁ ହତ୍ୟାକାଣ୍ଡ ପରେ ପର୍ସି ବିଶ୍ ଶେଲିଙ୍କ ଦ୍ୱାରା ଲିଖିତ ଏକ ରାଜନୈତିକ କବିତା, ଯାହା ଅହିଂସାତ୍ମକ ପ୍ରତିରୋଧକୁ ସମର୍ଥନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038897810-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian English Literature",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Raja Rao's novel 'Kanthapura' (1938), who serves as the primary narrator recounting the village's involvement in the Gandhian Non-Cooperation Movement?",
+      "options": [
+        "Rangamma",
+        "Moorthy",
+        "Achakka",
+        "Patel Range Gowda"
+      ],
+      "answer": 2,
+      "explanation": "'Kanthapura' is narrated from the perspective of Achakka, an elderly woman in the village, using an oral sthalapurana (local legend) storytelling style.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରାଜା ରାଓଙ୍କ ଉପନ୍ୟାସ 'କାନ୍ଥପୁର' (୧୯୩୮) ରେ, ଗାନ୍ଧୀବାଦୀ ଅସହଯୋଗ ଆନ୍ଦୋଳନରେ ଗ୍ରାମର ଭାଗିଦାରୀ କାହାଣୀର ମୁଖ୍ୟ କଥକ (narrator) କିଏ?",
+          "options": [
+            "ରଙ୍ଗମ୍ମା (Rangamma)",
+            "ମୂର୍ତ୍ତି (Moorthy)",
+            "ଅଚକ୍କା (Achakka)",
+            "ପଟେଲ ରଙ୍ଗେ ଗୌଡ଼ା (Patel Range Gowda)"
+          ],
+          "explanation": "'କାନ୍ଥପୁର' ଉପନ୍ୟାସଟି ଗ୍ରାମର ଜଣେ ବୃଦ୍ଧା ମହିଳା ଅଚକ୍କା (Achakka) ଙ୍କ ଦୃଷ୍ଟିକୋଣରୁ ମୌଖିକ 'ସ୍ଥଳପୁରାଣ' ଶୈଳୀରେ ବର୍ଣ୍ଣିତ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038912700-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Microteaching, a scaled-down teaching encounter designed for teacher training and skill development, was originally introduced at Stanford University in 1963 under the leadership of whom?",
+      "options": [
+        "Dwight W. Allen",
+        "B. F. Skinner",
+        "N. L. Gage",
+        "Robert Mager"
+      ],
+      "answer": 0,
+      "explanation": "Microteaching was developed at Stanford University in 1963 by Dwight W. Allen and his colleagues (including Robert Bush and Kim Romney) as a technique to train pre-service and in-service teachers in specific teaching skills.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷକ ପ୍ରଶିକ୍ଷଣ ଏବଂ କୌଶଳ ବିକାଶ ପାଇଁ ଉଦ୍ଦିଷ୍ଟ ଏକ ସଂକ୍ଷିପ୍ତ ଶିକ୍ଷାଦାନ ପଦ୍ଧତି 'ମାଇକ୍ରୋଟିଚିଂ' (Microteaching) ୧୯୬୩ ମସିହାରେ ଷ୍ଟାନଫୋର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ କାହା ନେତୃତ୍ୱରେ ପ୍ରଥମେ ଆରମ୍ଭ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଡ୍ୱାଇଟ୍ ଡବ୍ଲୁ. ଆଲେନ୍ (Dwight W. Allen)",
+            "ବି. ଏଫ୍. ସ୍କିନର (B. F. Skinner)",
+            "ଏନ୍. ଏଲ୍. ଗେଜ୍ (N. L. Gage)",
+            "ରବର୍ଟ ମେଗର (Robert Mager)"
+          ],
+          "explanation": "୧୯୬୩ ମସିହାରେ ଷ୍ଟାନଫୋର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ ଡ୍ୱାଇଟ୍ ଡବ୍ଲୁ. ଆଲେନ୍ ଏବଂ ତାଙ୍କ ସହଯୋଗୀମାନଙ୍କ ଦ୍ୱାରା ଶିକ୍ଷଣ କୌଶଳ ଅଭ୍ୟାସ ପାଇଁ ମାଇକ୍ରୋଟିଚିଂ କୌଶଳ ପ୍ରବର୍ତ୍ତିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038912701-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders Interaction Analysis",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Categories System (FIACS), which specific category represents 'Accepts or uses ideas of pupils'?",
+      "options": [
+        "Category 1",
+        "Category 2",
+        "Category 3",
+        "Category 4"
+      ],
+      "answer": 2,
+      "explanation": "In FIACS (10 categories total), Indirect Teacher Talk includes: Category 1 (Accepts feeling), Category 2 (Praises or encourages), Category 3 (Accepts or uses ideas of pupils), and Category 4 (Asks questions). Therefore, Category 3 specifically corresponds to accepting or using student ideas.",
+      "translations": {
+        "or": {
+          "question": "ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଆନ୍ତଃକ୍ରିୟା ବିଶ୍ଳେଷଣ ବର୍ଗ ପ୍ରଣାଳୀ (FIACS) ରେ, କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ବିଭାଗଟି 'ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଧାରଣାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା' କୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ବର୍ଗ ୧ (Category 1)",
+            "ବର୍ଗ ୨ (Category 2)",
+            "ବର୍ଗ ୩ (Category 3)",
+            "ବର୍ଗ ୪ (Category 4)"
+          ],
+          "explanation": "FIACS ର ୧୦ଟି ବର୍ଗ ମଧ୍ୟରୁ ପରୋକ୍ଷ ଶିକ୍ଷକ କଥୋପକଥନରେ ବର୍ଗ ୧ (ଅନୁଭୂତି ଗ୍ରହଣ), ବର୍ଗ ୨ (ପ୍ରଶଂସା କିମ୍ବା ଉତ୍ସାହିତ କରିବା), ବର୍ଗ ୩ (ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଧାରଣାକୁ ଗ୍ରହଣ କିମ୍ବା ବ୍ୟବହାର କରିବା) ଏବଂ ବର୍ଗ ୪ (ପ୍ରଶ୍ନ ପଚାରିବା) ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038926546-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who among the following freedom fighters led the first batch of Salt Satyagrahis from Cuttack to Inchudi and broke the Salt Law on 13th April 1930?",
+      "options": [
+        "Gopabandhu Choudhury",
+        "Acharya Harihar Das",
+        "Harekrushna Mahatab",
+        "Bhagirathi Mahapatra"
+      ],
+      "answer": 1,
+      "explanation": "On 13th April 1930, Acharya Harihar Das led the batch of satyagrahis to Inchudi in Balasore district and broke the British Salt Law by manufacturing salt.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ମସିହା ଏପ୍ରିଲ ୧୩ ତାରିଖରେ କଟକରୁ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ପର୍ଯ୍ୟନ୍ତ ଲବଣ ସତ୍ୟାଗ୍ରହୀ ଦଳର ନେତୃତ୍ୱ ନେଇ ପ୍ରଥମେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିବା ସଂଗ୍ରାମୀ ଜଣକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ",
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ଭାଗୀରଥି ମହାପାତ୍ର"
+          ],
+          "explanation": "୧୯୩୦ ମସିହା ଏପ୍ରିଲ ୧୩ ତାରିଖରେ ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସଙ୍କ ନେତୃତ୍ୱରେ ବାଲେଶ୍ୱର ଜିଲ୍ଲାର ଇଞ୍ଚୁଡ଼ିଠାରେ ଲବଣ ପ୍ରସ୍ତୁତ କରାଯାଇ ବ୍ରିଟିଶ ଲବଣ ଆଇନ ଭଙ୍ଗ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038926546-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The Mandira Dam, which primarily provides water supply to the Rourkela Steel Plant in Odisha, is constructed across which of the following rivers?",
+      "options": [
+        "Ib River",
+        "Sankh River",
+        "Brahmani River",
+        "Salandi River"
+      ],
+      "answer": 1,
+      "explanation": "Mandira Dam is located near Kansbahal in the Sundergarh district of Odisha and is constructed across the Sankh River, a major tributary that joins the South Koel River to form the Brahmani River.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ରାଉରକେଲା ଇସ୍ପାତ କାରଖାନାକୁ ମୁଖ୍ୟତଃ ଜଳ ଯୋଗାଉଥିବା 'ମନ୍ଦିରା ଡ୍ୟାମ୍' କେଉଁ ନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି?",
+          "options": [
+            "ଇବ୍ ନଦୀ",
+            "ଶଙ୍ଖ ନଦୀ",
+            "ବ୍ରାହ୍ମଣୀ ନଦୀ",
+            "ଶାଳନ୍ଦୀ ନଦୀ"
+          ],
+          "explanation": "ମନ୍ଦିରା ଡ୍ୟାମ୍ ଓଡ଼ିଶାର ସୁନ୍ଦରଗଡ଼ ଜିଲ୍ଲାର କାଂଶବାହାଲ ନିକଟରେ ଶଙ୍ଖ ନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି, ଯାହା ଦକ୍ଷିଣ କୋଏଲ ନଦୀ ସହ ମିଶି ବ୍ରାହ୍ମଣୀ ନଦୀ ସୃଷ୍ଟି କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038938561-0",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Sammilani' (Utkal Union Conference) established by Utkal Gourav Madhusudan Das at Cuttack?",
+      "options": [
+        "1899",
+        "1903",
+        "1905",
+        "1912"
+      ],
+      "answer": 1,
+      "explanation": "The Utkal Sammilani was founded by Utkal Gourav Madhusudan Das in December 1903 at Cuttack to spearhead the movement for the unification of Odia-speaking tracts into a separate province.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା କଟକଠାରେ କେଉଁ ବର୍ଷ 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧୮୯୯",
+            "୧୯୦୩",
+            "୧୯୦୫",
+            "୧୯୧୨"
+          ],
+          "explanation": "ଓଡ଼ିଆ ଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକର ଏକତ୍ରୀକରଣ ପାଇଁ ୧୯୦୩ ମସିହା ଡିସେମ୍ବର ମାସରେ ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା କଟକଠାରେ ଉତ୍କଳ ସମ୍ମିଳନୀ ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785038938561-1",
+      "section": "Odisha GK",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The famous Neulpur copper plate charter, which sheds light on the royal patronage of Mahayana Buddhism in ancient Odisha, was issued by which king of the Bhauma-Kara dynasty?",
+      "options": [
+        "Subhakaradeva I",
+        "Sivakaradeva I",
+        "Tribhuvana Mahadevi I",
+        "Khemankaradeva"
+      ],
+      "answer": 0,
+      "explanation": "The Neulpur copper plate grant (discovered in Jajpur district) was issued by the Bhauma-Kara ruler Subhakaradeva I. It records royal grants to Brahmins and provides important insights into his reign and patronage towards Mahayana Buddhism.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରାଚୀନ ଓଡ଼ିଶାରେ ମହାଯାନ ବୌଦ୍ଧଧର୍ମର ରାଜକୀୟ ପୃଷ୍ଠପୋଷକତା ଉପରେ ଆଲୋକପାତ କରୁଥିବା ପ୍ରସିଦ୍ଧ 'ନେଉଳପୁର ତାମ୍ରଫଳକ ଶାସନ', ଭୌମକର ବଂଶର କେଉଁ ରାଜାଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା?",
+          "options": [
+            "ପ୍ରଥମ ଶୁଭକରଦେବ",
+            "ପ୍ରଥମ ଶିବକରଦେବ",
+            "ପ୍ରଥମ ତ୍ରିଭୁବନ ମହାଦେବୀ",
+            "ଖେମଙ୍କରଦେବ"
+          ],
+          "explanation": "ଯାଜପୁର ଜିଲ୍ଲାରୁ ମିଳିଥିବା ନେଉଳପୁର ତାମ୍ରଫଳକ ଶାସନ ଭୌମକର ରାଜା ପ୍ରଥମ ଶୁଭକରଦେବଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା, ଯାହା ମହାଯାନ ବୌଦ୍ଧଧର୍ମ ପ୍ରତି ତାଙ୍କର ପୃଷ୍ଠପୋଷକତା ବିଷୟରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ତଥ୍ୟ ପ୍ରଦାନ କରେ।"
+        }
+      }
     }
   ]
 }

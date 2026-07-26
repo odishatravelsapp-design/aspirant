@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -5122,6 +5122,176 @@
       ],
       "answer": 2,
       "explanation": "Krashen's Affective Filter Hypothesis posits that negative emotional states (high anxiety, low motivation/confidence) act as a filter blocking input necessary for language acquisition."
+    },
+    {
+      "id": "pgt-ai-1785039132925-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who proposed the Theory of Multiple Intelligences, which asserts that human intelligence is not a single general ability but consists of distinct modalities?",
+      "options": [
+        "Howard Gardner",
+        "Jean Piaget",
+        "B.F. Skinner",
+        "Lev Vygotsky"
+      ],
+      "answer": 0,
+      "explanation": "Howard Gardner proposed the Theory of Multiple Intelligences in his 1983 book 'Frames of Mind', outlining distinct forms of intelligence including linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic.",
+      "translations": {
+        "or": {
+          "question": "ବହୁବିଧ ବୁଦ୍ଧିମତ୍ତା ସିଦ୍ଧାନ୍ତ (Theory of Multiple Intelligences) କିଏ ପ୍ରସ୍ତାବିତ କରିଥିଲେ, ଯାହା ଦର୍ଶାଏ ଯେ ମାନବ ବୁଦ୍ଧିମତ୍ତା କୌଣସି ଗୋଟିଏ ସାଧାରଣ ଦକ୍ଷତା ନୁହେଁ ବରଂ ବିଭିନ୍ନ ସ୍ୱତନ୍ତ୍ର ପ୍ରକାରର ହୋଇଥାଏ?",
+          "options": [
+            "ହାୱାର୍ଡ ଗାର୍ଡନର (Howard Gardner)",
+            "ଜିନ୍ ପିଆଜେ (Jean Piaget)",
+            "ବି.ଏଫ୍. ସ୍କିନର (B.F. Skinner)",
+            "ଲେଭ୍ ଭିଗୋଟସ୍କି (Lev Vygotsky)"
+          ],
+          "explanation": "ହାୱାର୍ଡ ଗାର୍ଡନର ୧୯୮୩ ମସିହାରେ 'ଫ୍ରେମ୍ସ ଅଫ୍ ମାଇଣ୍ଡ' ପୁସ୍ତକରେ ବହୁବିଧ ବୁଦ୍ଧିମତ୍ତା ସିଦ୍ଧାନ୍ତ ପ୍ରସ୍ତାବିତ କରିଥିଲେ, ଯେଉଁଥିରେ ଭାଷାଗତ, ତାର୍କିକ-ଗାଣିତିକ, ସଙ୍ଗୀତମୟ, ସ୍ଥାନିକ ଆଦି ଭିନ୍ନ ଭିନ୍ନ ଦକ୍ଷତା ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785039132925-1",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the standard Microteaching cycle formulated for teacher training, what is the correct sequential order of steps following the initial 'Plan' step?",
+      "options": [
+        "Teach -> Feedback -> Re-plan -> Re-teach -> Re-feedback",
+        "Teach -> Re-plan -> Feedback -> Re-teach -> Re-feedback",
+        "Feedback -> Teach -> Re-plan -> Re-feedback -> Re-teach",
+        "Teach -> Feedback -> Re-teach -> Re-plan -> Re-feedback"
+      ],
+      "answer": 0,
+      "explanation": "The standard Microteaching cycle follows a 6-step sequence: Plan -> Teach -> Feedback -> Re-plan -> Re-teach -> Re-feedback. Following the initial 'Plan' step, the correct order is Teach, Feedback, Re-plan, Re-teach, and Re-feedback.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷକ ପ୍ରଶିକ୍ଷଣ ପାଇଁ ଗଠିତ ମାନକ ମାଇକ୍ରୋଟିଚିଂ (Microteaching) ଚକ୍ରରେ, ପ୍ରାରମ୍ଭିକ 'ଯୋଜନା' (Plan) ପଦକ୍ଷେପ ପରେ ସଠିକ୍ କ୍ରମାନୁସାରୀ ପଦକ୍ଷେପଗୁଡ଼ିକ କ'ଣ?",
+          "options": [
+            "ଶିକ୍ଷାଦାନ (Teach) -> ପ୍ରତିପୋଷଣ (Feedback) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach) -> ପୁନଃ-ପ୍ରତିପୋଷଣ (Re-feedback)",
+            "ଶିକ୍ଷାଦାନ (Teach) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପ୍ରତିପୋଷଣ (Feedback) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach) -> ପୁନଃ-ପ୍ରତିପୋଷଣ (Re-feedback)",
+            "ପ୍ରତିପୋଷଣ (Feedback) -> ଶିକ୍ଷାଦାନ (Teach) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପୁନଃ-ପ୍ରତିପୋଷଣ (Re-feedback) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach)",
+            "ଶିକ୍ଷାଦାନ (Teach) -> ପ୍ରତିପୋଷଣ (Feedback) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପୁନଃ-ପ୍ରତିପୋଷଣ (Re-feedback)"
+          ],
+          "explanation": "ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ରର ପ୍ରାମାଣିକ କ୍ରମ ହେଉଛି: ଯୋଜନା (Plan) -> ଶିକ୍ଷାଦାନ (Teach) -> ପ୍ରତିପୋଷଣ (Feedback) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach) -> ପୁନଃ-ପ୍ରତିପୋଷଣ (Re-feedback)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785039146566-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which type of isomerism is exhibited by the pair of coordination complexes [Co(NH3)5(SO4)]Br and [Co(NH3)5Br]SO4?",
+      "options": [
+        "Linkage isomerism",
+        "Ionisation isomerism",
+        "Coordination isomerism",
+        "Solvate isomerism"
+      ],
+      "answer": 1,
+      "explanation": "Ionisation isomerism occurs when a coordination compound yields different ions in solution despite having the same overall formula. Here, [Co(NH3)5(SO4)]Br releases Br- ions in aqueous solution, whereas [Co(NH3)5Br]SO4 releases SO4(2-) ions.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "[Co(NH3)5(SO4)]Br ଏବଂ [Co(NH3)5Br]SO4 ସମନ୍ୱୟ ଯୌଗିକ ଯୁଗଳ ଦ୍ୱାରା କେଉଁ ପ୍ରକାରର ଆଇସୋମେରିଜମ୍ (ସମାବୟବତା) ଦର୍ଶାଯାଏ?",
+          "options": [
+            "ଲିଙ୍କେଜ୍ ଆଇସୋମେରିଜମ୍",
+            "ଆୟନୀକରଣ ଆଇସୋମେରିଜମ୍",
+            "କୋଅର୍ଡିନେସନ୍ ଆଇସୋମେରିଜମ୍",
+            "ସୋଲଭେଟ୍ ଆଇସୋମେରିଜମ୍"
+          ],
+          "explanation": "ଆୟନୀକରଣ ଆଇସୋମେରିଜମ୍ ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ଏକ ସମନ୍ୱୟ ଯୌଗିକ ଜଳୀୟ ଦ୍ରବଣରେ ଭିନ୍ନ ଭିନ୍ନ ଆୟନ ପ୍ରଦାନ କରେ। ଏଠାରେ, [Co(NH3)5(SO4)]Br ଦ୍ରବଣରେ Br- ଆୟନ ଦେଉଥିବା ବେଳେ [Co(NH3)5Br]SO4 ଦ୍ରବଣରେ SO4(2-) ଆୟନ ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785039146566-1",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Thermodynamics",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "What is the correct thermodynamic relationship defining the chemical potential (μi) of component i in a mixture in terms of partial molar Gibbs free energy (Ḡi) at constant temperature (T) and pressure (P)?",
+      "options": [
+        "μi = (∂G / ∂ni)_{T, P, nj≠i} = Ḡi",
+        "μi = (∂H / ∂ni)_{T, P, nj≠i} = Ḡi",
+        "μi = (∂U / ∂ni)_{T, P, nj≠i} = Ḡi",
+        "μi = (∂A / ∂ni)_{T, P, nj≠i} = Ḡi"
+      ],
+      "answer": 0,
+      "explanation": "Chemical potential μi of component i is mathematically defined as the partial molar Gibbs free energy, Ḡi = (∂G / ∂ni)_{T, P, nj≠i}. Expressing μi in terms of U, H, or A requires different independent variables to be held constant (e.g., S and V for U; S and P for H; T and V for A).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସ୍ଥିର ତାପମାତ୍ରା (T) ଏବଂ ଚାପ (P) ରେ ଏକ ମିଶ୍ରଣରେ ଥିବା ଉପାଦାନ i ର ରାସାୟନିକ ପୋଟେନ୍ସିଆଲ୍ (μi) ଏବଂ ଏହାର ଆଂଶିକ ମୋଲାର ଗିବ୍ସ ମୁକ୍ତ ଶକ୍ତି (Ḡi) ମଧ୍ୟରେ ସଠିକ୍ ତାପଗତିଜ ସମ୍ପର୍କ କ’ଣ?",
+          "options": [
+            "μi = (∂G / ∂ni)_{T, P, nj≠i} = Ḡi",
+            "μi = (∂H / ∂ni)_{T, P, nj≠i} = Ḡi",
+            "μi = (∂U / ∂ni)_{T, P, nj≠i} = Ḡi",
+            "μi = (∂A / ∂ni)_{T, P, nj≠i} = Ḡi"
+          ],
+          "explanation": "ରାସାୟନିକ ପୋଟେନ୍ସିଆଲ୍ (μi) କୁ ସ୍ଥିର ତାପମାତ୍ରା (T) ଏବଂ ଚାପ (P) ରେ ଗିବ୍ସ ମୁକ୍ତ ଶକ୍ତିର ପରିବର୍ତ୍ତନ ହାର ଭାବରେ ସଂଜ୍ଞାୟିତ କରାଯାଏ, ଯାହା ଆଂଶିକ ମୋଲାର ଗିବ୍ସ ମୁକ୍ତ ଶକ୍ତି Ḡi = (∂G / ∂ni)_{T, P, nj≠i} ସହିତ ସମାନ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785039314226-0",
+      "section": "Child Development",
+      "topic": "Piaget's Theory of Cognitive Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Jean Piaget's theory of cognitive development, a preoperational child's tendency to link two specific events that occur close together in time, reasoning from particular to particular rather than using logical induction or deduction, is known as:",
+      "options": [
+        "Transductive reasoning",
+        "Inductive reasoning",
+        "Deductive reasoning",
+        "Hypothetico-deductive reasoning"
+      ],
+      "answer": 0,
+      "explanation": "In Piagetian theory, transductive reasoning is characteristic of the preoperational stage (ages 2–7). Children connect two individual events causally simply because they happen close together, rather than reasoning from general to specific (deductive) or specific to general (inductive).",
+      "translations": {
+        "or": {
+          "question": "ଜିନ୍ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁସାରେ, ପ୍ରାକ୍-କାର୍ଯ୍ୟକାରୀ (Preoperational) ପର୍ଯ୍ୟାୟରେ ଥିବା ଜଣେ ଶିଶୁ କୌଣସି ଯୁକ୍ତିଯୁକ୍ତ ଆଗମନାତ୍ମକ କିମ୍ବା ନିଗମନାତ୍ମକ ତର୍କ ବ୍ୟବହାର ନକରି, ପାଖାପାଖି ଘଟୁଥିବା ଦୁଇଟି ନିର୍ଦ୍ଦିଷ୍ଟ ଘଟଣାକୁ ଯୋଡ଼ି ତର୍କ କରିବାର ପ୍ରବୃତ୍ତିକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "ଟ୍ରାନ୍ସଡକ୍ଟିଭ୍ ରିଜନିଂ (Transductive reasoning)",
+            "ଇଣ୍ଡକ୍ଟିଭ୍ ରିଜନିଂ (Inductive reasoning)",
+            "ଡିଡକ୍ଟିଭ୍ ରିଜନିଂ (Deductive reasoning)",
+            "ହାଏପୋଥେଟିକୋ-ଡିଡକ୍ଟିଭ୍ ରିଜନିଂ (Hypothetico-deductive reasoning)"
+          ],
+          "explanation": "ପିଆଜେଙ୍କ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ପ୍ରାକ୍-କାର୍ଯ୍ୟକାରୀ ପର୍ଯ୍ୟାୟରେ (୨-୭ ବର୍ଷ) ଶିଶୁମାନେ 'ଟ୍ରାନ୍ସଡକ୍ଟିଭ୍ ରିଜନିଂ' ବ୍ୟବହାର କରନ୍ତି, ଯେଉଁଥିରେ ସେମାନେ ଦୁଇଟି ସ୍ୱତନ୍ତ୍ର ଘଟଣାକୁ କାରଣ-ପ୍ରଭାବ ଭାବରେ ଯୋଡ଼ିଥାନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785039314226-1",
+      "section": "Child Development",
+      "topic": "Adolescent Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to David Elkind's theory of adolescent egocentrism, the cognitive belief wherein an adolescent falsely assumes that everyone around them is constantly watching, analyzing, and evaluating their appearance and actions is known as:",
+      "options": [
+        "Personal fable",
+        "Imaginary audience",
+        "Illusion of invulnerability",
+        "Identity dispersion"
+      ],
+      "answer": 1,
+      "explanation": "David Elkind identified two components of adolescent egocentrism: the 'imaginary audience' (the belief that others are intensely focused on oneself) and the 'personal fable' (the belief in one's unique uniqueness and invulnerability).",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଏଲକାଇଣ୍ଡଙ୍କ କିଶୋର ଅହଂକେନ୍ଦ୍ରିକତା (adolescent egocentrism) ସିଦ୍ଧାନ୍ତ ଅନୁସାରେ, ଯେଉଁ ଜ୍ଞାନାତ୍ମକ ଧାରଣା ଯୋଗୁଁ ଜଣେ କିଶୋର ଭୁଲ୍‌ଭାବେ ବିଶ୍ୱାସ କରେ ଯେ ତା’ ଚାରିପାଖରେ ଥିବା ସମସ୍ତ ଲୋକ ନିରନ୍ତର ତା’ର ରୂପ ଏବଂ କାର୍ଯ୍ୟକଳାପକୁ ଲକ୍ଷ୍ୟ କରୁଛନ୍ତି ଓ ମୂଲ୍ୟାଙ୍କନ କରୁଛନ୍ତି, ତାହାକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "ପରସନାଲ୍ ଫେବଲ୍ (Personal fable)",
+            "ଇମାଜିନାରୀ ଅଡିଏନ୍ସ (Imaginary audience)",
+            "ଇଲ୍ୟୁଜନ୍ ଅଫ୍ ଇନ୍‌ଭଲ୍‌ନରେବିଲିଟି (Illusion of invulnerability)",
+            "ଆଇଡେଣ୍ଟିଟି ଡିସପର୍ସନ୍ (Identity dispersion)"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଏଲକାଇଣ୍ଡଙ୍କ ଅନୁଯାୟୀ, 'ଇମାଜିନାରୀ ଅଡିଏନ୍ସ' (Imaginary audience) ହେଉଛି କିଶୋରାବସ୍ଥାର ଏକ ମାନସିକ ସ୍ଥିତି, ଯେଉଁଥିରେ କିଶୋରମାନେ ମନେକରନ୍ତି ଯେ ସମସ୍ତଙ୍କ ଧ୍ୟାନ କେବଳ ସେମାନଙ୍କ ଉପରେ ହିଁ ନିବଦ୍ଧ ଅଛି।"
+        }
+      }
     }
   ]
 }

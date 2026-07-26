@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -5227,6 +5227,136 @@
       ],
       "answer": 1,
       "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is an international treaty agreed upon in 1987 to phase out production of substances like CFCs."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038732250-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A train 240 meters long crosses a platform 160 meters long in 20 seconds. What is the speed of the train in km/h?",
+      "options": [
+        "54 km/h",
+        "60 km/h",
+        "72 km/h",
+        "80 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Total distance to be covered = Length of train + Length of platform = 240 + 160 = 400 meters. Time taken = 20 seconds. Speed in m/s = Distance / Time = 400 / 20 = 20 m/s. Speed in km/h = 20 * (18 / 5) = 72 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038732250-1",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and simple interest on a certain sum of money at 12% per annum for 2 years is Rs. 432. Find the total compound interest earned on the same sum of money at 15% per annum for 2 years (compounded annually).",
+      "options": [
+        "Rs. 9,350",
+        "Rs. 9,675",
+        "Rs. 9,820",
+        "Rs. 10,125"
+      ],
+      "answer": 1,
+      "explanation": "Difference between CI and SI for 2 years = P * (R/100)^2. Given, 432 = P * (12/100)^2 = P * (144 / 10000). Thus, Principal (P) = (432 * 10000) / 144 = Rs. 30,000. For 15% p.a. compounded annually for 2 years, the effective interest rate = 15 + 15 + (15 * 15)/100 = 32.25%. Compound Interest = 30,000 * 32.25% = Rs. 9,675."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038750478-0",
+      "section": "Reasoning",
+      "topic": "Distance and Direction",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A person starts from Point P and walks 10 meters North. He then turns right and walks 15 meters. Next, he turns right and walks 10 meters. Finally, he turns left and walks 5 meters to reach Point Q. What is the shortest distance between Point P and Point Q, and in which direction is Point Q with respect to Point P?",
+      "options": [
+        "20 meters, East",
+        "20 meters, West",
+        "25 meters, East",
+        "15 meters, North"
+      ],
+      "answer": 0,
+      "explanation": "Starting at P (0,0):\n1. Walking 10m North leads to (0, 10).\n2. Turning right (East) and walking 15m leads to (15, 10).\n3. Turning right (South) and walking 10m leads to (15, 0).\n4. Turning left (East) and walking 5m leads to Point Q at (20, 0).\n\nThe shortest distance between P (0,0) and Q (20,0) is 20 meters, and Point Q is to the East of Point P."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038750478-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Study the following symbols and statements carefully:\n'A @ B' means 'A is greater than B'\n'A # B' means 'A is greater than or equal to B'\n'A $ B' means 'A is equal to B'\n'A % B' means 'A is less than B'\n'A & B' means 'A is less than or equal to B'\n\nStatement: K # L, L @ M, M $ N, N # O\n\nConclusions:\nI. K @ N\nII. L @ O\n\nWhich of the conclusions follow(s)?",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "Decoding the statement: K ≥ L > M = N ≥ O.\n- Conclusion I (K @ N i.e., K > N): Since K ≥ L > M = N, K is strictly greater than N. Thus, I follows.\n- Conclusion II (L @ O i.e., L > O): Since L > M = N ≥ O, L is strictly greater than O. Thus, II also follows.\nHence, both conclusions I and II follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038759397-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Identify the option that correctly explains the meaning of the idiom used in the sentence: 'Ever since Arthur took on two full-time jobs to pay off his debts, he has been burning the candle at both ends.'",
+      "options": [
+        "Spending money recklessly on unnecessary luxuries",
+        "Working extremely hard from early morning until late at night",
+        "Managing his financial resources very wisely",
+        "Causing deliberate damage to his personal property"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'burning the candle at both ends' means to exhaust one's physical or mental energy by staying up late and getting up early to work."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038759397-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically completes the following statement: 'The board members were impressed by the candidate's ________ knowledge of international law, as well as her ________ ability to handle high-stakes negotiations under immense pressure.'",
+      "options": [
+        "superficial ... tenuous",
+        "profound ... remarkable",
+        "rudimentary ... erratic",
+        "shallow ... formidable"
+      ],
+      "answer": 1,
+      "explanation": "Because the board members were 'impressed', both blanks must express positive and commendable qualities. 'Profound' (deep and extensive) and 'remarkable' (worthy of attention or extraordinary) fit the context logically and grammatically."
+    },
+    {
+      "id": "sbi-clerk-ai-1785038770413-0",
+      "section": "General Awareness",
+      "topic": "Banking Organizations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Where is the headquarters of the Small Industries Development Bank of India (SIDBI) located?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Lucknow",
+        "Bengaluru"
+      ],
+      "answer": 2,
+      "explanation": "The headquarters of the Small Industries Development Bank of India (SIDBI) is located in Lucknow, Uttar Pradesh. SIDBI was set up on April 2, 1990, as a principal financial institution for the promotion, financing, and development of the Micro, Small and Medium Enterprises (MSME) sector.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785038770413-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks, which of the following is NOT one of the key parameters monitored to assess a bank's financial health?",
+      "options": [
+        "Capital to Risk (Weighted) Assets Ratio (CRAR)",
+        "Net Non-Performing Asset (NNPA) Ratio",
+        "Tier 1 Leverage Ratio",
+        "Statutory Liquidity Ratio (SLR)"
+      ],
+      "answer": 3,
+      "explanation": "Under the RBI's PCA framework for Scheduled Commercial Banks, the key financial parameters monitored are Capital (CRAR/Common Equity Tier 1 ratio), Asset Quality (Net NPA ratio), and Leverage (Tier 1 Leverage Ratio). Statutory Liquidity Ratio (SLR) is a reserve requirement, not a trigger parameter under the PCA framework.",
+      "status": "pending"
     }
   ]
 }
