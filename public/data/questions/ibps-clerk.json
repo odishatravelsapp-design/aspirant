@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -5790,6 +5790,119 @@
       ],
       "answer": 1,
       "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' also means lasting only for a short time or impermanent, making it the correct synonym."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125493516-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average of five numbers is 42. If one of the numbers is excluded, the average of the remaining four numbers becomes 38. What is the value of the excluded number?",
+      "options": [
+        "54",
+        "58",
+        "62",
+        "66"
+      ],
+      "answer": 1,
+      "explanation": "Sum of original 5 numbers = 5 × 42 = 210. Sum of remaining 4 numbers = 4 × 38 = 152. Value of excluded number = 210 - 152 = 58."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125493516-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Three partners A, B, and C enter into a business. A invests ₹X for the entire year, B invests ₹(X + 4,000) for 8 months, and C invests ₹(X + 10,000) for 6 months. If the total profit earned at the end of the year is ₹48,000 and C's share in the profit is ₹18,000, find the value of X.",
+      "options": [
+        "₹6,000",
+        "₹6,400",
+        "₹6,800",
+        "₹7,200"
+      ],
+      "answer": 2,
+      "explanation": "Ratio of profit shares = (Investment × Time). A's share ∝ 12X, B's share ∝ 8(X + 4000) = 8X + 32000, C's share ∝ 6(X + 10000) = 6X + 60000. Total equivalent investment = 12X + (8X + 32000) + (6X + 60000) = 26X + 92000. C's share of profit = [(6X + 60000) / (26X + 92000)] × 48000 = 18000. Simplifying: (6X + 60000) / (26X + 92000) = 3/8 => 48X + 480000 = 78X + 276000 => 30X = 204000 => X = 6800."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125502991-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many such 3s are there in the following sequence, each of which is immediately preceded by an odd number and immediately followed by an even number?\n\nSequence: 7 3 8 4 5 3 6 9 3 1 2 3 4",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "We need to find the pattern: (Odd Number) -> 3 -> (Even Number).\nLooking at each 3 in the sequence:\n1) '7 3 8': 7 is odd, 8 is even (Satisfies the condition - 1st)\n2) '5 3 6': 5 is odd, 6 is even (Satisfies the condition - 2nd)\n3) '9 3 1': 9 is odd, 1 is odd (Does not satisfy)\n4) '2 3 4': 2 is even, 4 is even (Does not satisfy)\nTherefore, there are exactly 2 such 3s."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125502991-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusion(s) is/are definitely true.\n\nStatements:\nM ≥ N > O = P; Q < O ≤ R\n\nConclusions:\nI. M > Q\nII. R ≥ P",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Combining statements: M ≥ N > O = P and Q < O ≤ R.\nFor Conclusion I: M ≥ N > O > Q, which implies M > Q. Thus, Conclusion I is definitely true.\nFor Conclusion II: R ≥ O = P, which implies R ≥ P. Thus, Conclusion II is definitely true.\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125516389-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Improve the italicized segment in the given sentence to ensure grammatical correctness: The team *have been practicing continuous* since morning to prepare for the final tournament.",
+      "options": [
+        "has been practicing continuously",
+        "have practiced continuous",
+        "has practiced continuous",
+        "had been practice continuously"
+      ],
+      "answer": 0,
+      "explanation": "The collective noun 'team' refers to a single unit in this context and takes a singular verb ('has been practicing'). Additionally, the adverb 'continuously' is required to modify the verb 'practicing', rather than the adjective 'continuous'."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125516389-1",
+      "section": "English",
+      "topic": "One Word Substitution",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the single-word equivalent for a person who is excessively concerned with minor details and rules in formal learning or academic matters?",
+      "options": [
+        "Pedant",
+        "Demagogue",
+        "Altruist",
+        "Iconoclast"
+      ],
+      "answer": 0,
+      "explanation": "A 'pedant' is a person who is excessively concerned with minor details, rules, or display of academic learning. A 'demagogue' is a political leader who appeals to popular desires rather than rational argument. An 'altruist' is someone devoted to the welfare of others. An 'iconoclast' is a person who attacks settled beliefs or traditional institutions."
+    },
+    {
+      "id": "ibps-clerk-ai-1785125529892-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) rules, what is the maximum insurance coverage provided to a depositor for both principal and interest amount per insured bank?",
+      "options": [
+        "₹1 Lakh",
+        "₹2 Lakhs",
+        "₹5 Lakhs",
+        "₹10 Lakhs"
+      ],
+      "answer": 2,
+      "explanation": "Effective from February 4, 2020, the Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly owned subsidiary of the RBI, raised the deposit insurance cover from ₹1 Lakh to ₹5 Lakhs per depositor across all commercial and cooperative banks.",
+      "status": "pending"
     }
   ]
 }

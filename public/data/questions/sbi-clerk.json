@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -5356,6 +5356,136 @@
       ],
       "answer": 3,
       "explanation": "Under the RBI's PCA framework for Scheduled Commercial Banks, the key financial parameters monitored are Capital (CRAR/Common Equity Tier 1 ratio), Asset Quality (Net NPA ratio), and Leverage (Tier 1 Leverage Ratio). Statutory Liquidity Ratio (SLR) is a reserve requirement, not a trigger parameter under the PCA framework.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785125544254-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A boat covers a certain distance upstream in 6 hours and returns the same distance downstream in 4 hours. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+      "options": [
+        "12 km/h",
+        "15 km/h",
+        "18 km/h",
+        "21 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of the boat in still water be 'v' km/h.\nUpstream speed = (v - 3) km/h\nDownstream speed = (v + 3) km/h\nSince Distance = Speed × Time and distance is equal in both cases:\n6 × (v - 3) = 4 × (v + 3)\n6v - 18 = 4v + 12\n2v = 30\nv = 15 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1785125544254-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A jar contains a mixture of two liquids, A and B, in the ratio 4 : 1. When 10 liters of the mixture is drawn off and replaced with 10 liters of liquid B, the ratio of liquid A to liquid B becomes 2 : 3. How many liters of liquid A was present in the jar initially?",
+      "options": [
+        "12 liters",
+        "16 liters",
+        "20 liters",
+        "24 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial quantity of liquid A be 4x liters and liquid B be x liters (total mixture = 5x liters).\nAmount of liquid A removed in 10 liters of mixture = (4/5) × 10 = 8 liters.\nAmount of liquid B removed in 10 liters of mixture = (1/5) × 10 = 2 liters.\nAfter removing 10 liters of mixture and adding 10 liters of liquid B:\nNew quantity of liquid A = 4x - 8\nNew quantity of liquid B = (x - 2) + 10 = x + 8\nAccording to the question:\n(4x - 8) / (x + 8) = 2 / 3\n3(4x - 8) = 2(x + 8)\n12x - 24 = 2x + 16\n10x = 40 => x = 4\nInitial quantity of liquid A = 4x = 4 × 4 = 16 liters."
+    },
+    {
+      "id": "sbi-clerk-ai-1785125566458-0",
+      "section": "Reasoning",
+      "topic": "Letter Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the combination of letters that when sequentially placed in the blanks of the given letter series will complete the pattern:\n_ b c a _ b _ a a b _ a",
+      "options": [
+        "a, a, c, c",
+        "a, b, c, a",
+        "b, a, c, a",
+        "c, a, c, a"
+      ],
+      "answer": 0,
+      "explanation": "By substituting the letters from 'a, a, c, c' into the blanks sequentially, we get: 'a b c a a b c a a b c a'. This forms a repeating pattern of the 4-letter sequence 'a b c a' repeated 3 times."
+    },
+    {
+      "id": "sbi-clerk-ai-1785125566458-1",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons—A, B, C, D, E, F, G, and H—are sitting around a circular table facing the center. B sits third to the right of A. Only two people sit between B and H. C sits second to the right of H. F is an immediate neighbor of neither B nor H. D sits to the immediate right of F. G does not sit adjacent to A. Who sits opposite to F?",
+      "options": [
+        "E",
+        "G",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explanation": "Fixing positions 1 to 8 clockwise facing center:\n1. Place A at position 1.\n2. B sits 3rd to the right of A, so B is at position 4.\n3. Two persons sit between B (4) and H, placing H at position 7.\n4. C sits 2nd to the right of H (7), so C is at position 5.\n5. F cannot sit at 3, 5, 6, or 8 (neighbors of B and H), so F must be at position 2.\n6. D sits to the immediate right of F (2), so D is at position 3.\n7. G cannot sit adjacent to A (position 8 or 2), so G sits at position 6, leaving E at position 8.\nThus, the arrangement clockwise is A(1), F(2), D(3), B(4), C(5), G(6), H(7), E(8). Position 6 (G) is directly opposite position 2 (F)."
+    },
+    {
+      "id": "sbi-clerk-ai-1785125575266-0",
+      "section": "English",
+      "topic": "Idioms & Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the option that best expresses the meaning of the underlined idiom in the sentence: 'The young entrepreneur had to burn the candle at both ends to launch her tech startup on time.'",
+      "options": [
+        "To spend money extravagantly without planning",
+        "To work extremely hard, often sacrificing sleep and rest",
+        "To create unnecessary conflict among team members",
+        "To abandon a project midway due to exhaustion"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'burn the candle at both ends' means to work extremely hard, usually by staying up late and getting up early, thereby exhausting one's energy."
+    },
+    {
+      "id": "sbi-clerk-ai-1785125575266-1",
+      "section": "English",
+      "topic": "Contextual Word Usage",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A word is given in bold below followed by three sentences (I, II, and III). Identify the sentence(s) in which the word is used CORRECTLY:\n\nACQUIESCE\n\nI. Despite his initial hesitation, the minister decided to acquiesce to the demands of the protesting union.\nII. The company was forced to acquiesce its entire inventory after failing the quality inspection test.\nIII. She refused to acquiesce in such an unjust decision, preferring instead to take legal action.",
+      "options": [
+        "Only I",
+        "Only I and III",
+        "Only II and III",
+        "All I, II, and III"
+      ],
+      "answer": 1,
+      "explanation": "'Acquiesce' means to accept something reluctantly but without protest. It is an intransitive verb usually followed by the prepositions 'to' or 'in'. Sentences I and III use the verb correctly with appropriate prepositions. In sentence II, the word is incorrectly used as a transitive verb (confused with 'relinquish' or 'dispose of')."
+    },
+    {
+      "id": "sbi-clerk-ai-1785125584022-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is classified as a 'qualitative' (or selective) instrument of monetary policy used by the Reserve Bank of India?",
+      "options": [
+        "Cash Reserve Ratio (CRR)",
+        "Repo Rate",
+        "Margin Requirements",
+        "Open Market Operations (OMO)"
+      ],
+      "answer": 2,
+      "explanation": "Margin requirements are a qualitative or selective tool used by the RBI to regulate the flow of credit to specific sectors, whereas CRR, Repo Rate, and OMO are quantitative or general tools affecting overall money supply.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785125584022-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which section of the Banking Regulation Act, 1949 does the Reserve Bank of India derive powers to issue binding directions to banking companies in the public interest or to protect depositors' interests?",
+      "options": [
+        "Section 21",
+        "Section 35A",
+        "Section 45",
+        "Section 12"
+      ],
+      "answer": 1,
+      "explanation": "Section 35A of the Banking Regulation Act, 1949 empowers the RBI to give directions to banking companies in the interest of the public, banking policy, or depositors.",
       "status": "pending"
     }
   ]

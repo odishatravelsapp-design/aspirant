@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -5315,6 +5315,136 @@
       ],
       "answer": 3,
       "explanation": "The noun 'disapproval' is correctly followed by the preposition 'of' (or 'at'), not 'on'. The correct phrase should be 'disapproval of the proposed budget plan'. Thus, part (D) contains the error."
+    },
+    {
+      "id": "ibps-po-ai-1785125601496-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks up the price of an article by 60% above its cost price and then allows two successive discounts of 15% and 10% on the marked price. If he earns a profit of Rs. 448 on selling the article, what is the cost price of the article?",
+      "options": [
+        "Rs. 1800",
+        "Rs. 2000",
+        "Rs. 2400",
+        "Rs. 2500"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price (CP) be Rs. 100x.\nMarked Price (MP) = 100x + 60% of 100x = 160x.\nPrice after 1st discount of 15% = 160x * (1 - 0.15) = 136x.\nPrice after 2nd discount of 10% = Selling Price (SP) = 136x * (1 - 0.10) = 122.4x.\nProfit = SP - CP = 122.4x - 100x = 22.4x.\nGiven Profit = Rs. 448.\n22.4x = 448 => x = 20.\nCost Price = 100x = 100 * 20 = Rs. 2000."
+    },
+    {
+      "id": "ibps-po-ai-1785125601496-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A committee of 5 members is to be formed from a group of 6 men and 5 women. What is the probability that the committee contains at least 3 men and at least 1 woman?",
+      "options": [
+        "25 / 42",
+        "13 / 21",
+        "23 / 42",
+        "19 / 42"
+      ],
+      "answer": 0,
+      "explanation": "Total number of people = 6 + 5 = 11.\nTotal ways to select 5 members from 11 people = 11C5 = (11 * 10 * 9 * 8 * 7) / (5 * 4 * 3 * 2 * 1) = 462.\n\nWe need to choose 5 members such that there are at least 3 men and at least 1 woman.\nThe possible combinations of (Men, Women) are:\n1) 3 Men and 2 Women: 6C3 * 5C2 = 20 * 10 = 200\n2) 4 Men and 1 Woman: 6C4 * 5C1 = 15 * 5 = 75\n(Note: 5 Men and 0 Women is excluded because at least 1 woman must be present).\n\nTotal favorable outcomes = 200 + 75 = 275.\nProbability = 275 / 462 = 25 / 42."
+    },
+    {
+      "id": "ibps-po-ai-1785125614347-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the following coded relationship definitions carefully and answer the question:\n'P # Q' means 'P is the mother of Q'\n'P $ Q' means 'P is the father of Q'\n'P @ Q' means 'P is the sister of Q'\n'P % Q' means 'P is the brother of Q'\n'P & Q' means 'P is the daughter of Q'\n\nWhich of the following expressions correctly indicates that 'M is the maternal uncle of K'?",
+      "options": [
+        "M % N # R @ K",
+        "M $ N # R & K",
+        "M % N $ R & K",
+        "M @ N # R % K"
+      ],
+      "answer": 0,
+      "explanation": "In expression 'M % N # R @ K':\n1. M % N means M is the brother of N (M is male).\n2. N # R means N is the mother of R.\n3. R @ K means R is the sister of K (thus N is also the mother of K).\nSince N is the mother of K and M is the brother of N, M is the maternal uncle of K. Hence, option A is correct."
+    },
+    {
+      "id": "ibps-po-ai-1785125614347-1",
+      "section": "Reasoning",
+      "topic": "Course of Action",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Read the following statement and evaluate the given courses of action.\n\nStatement: Over the past six months, a major nationalized bank observed a sharp increase in customer complaints regarding unauthorized digital transactions from their savings accounts, despite having multi-factor authentication (MFA) via SMS OTPs. An internal cybersecurity audit revealed that a sophisticated malware campaign was silently intercepting SMS OTPs on compromised customer smartphones.\n\nWhich of the following courses of action should the bank prioritize to effectively address this security breach?\n\nI. Immediately suspend all digital banking channels nationwide and require customers to perform all monetary transactions in person at physical branches until the malware is fully eradicated.\nII. Upgrade the bank's authentication mechanism from SMS-based OTPs to app-based encrypted push notifications or Time-based One-Time Passwords (TOTP) generated within a secured app.\nIII. Roll out customer security advisories on mobile malware hygiene and implement automated, real-time risk scoring to flag high-risk transactions.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All I, II, and III follow"
+      ],
+      "answer": 1,
+      "explanation": "Action I is an extreme and disproportionate measure that causes severe operational disruption and panic, which is unviable for a nationalized bank. Action II directly fixes the technological vulnerability (SMS interception) by adopting non-SMS MFA. Action III mitigates fraud exposure through proactive detection and user awareness. Thus, only II and III follow logically."
+    },
+    {
+      "id": "ibps-po-ai-1785125626888-0",
+      "section": "English",
+      "topic": "Match the Columns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are given containing three clauses/phrases each. Match Column (1) with Column (2) to form grammatically correct and contextually meaningful sentences.\n\nColumn (1):\n(A) Despite the central bank's intervention to curb inflation,\n(B) The research team was unable to draw definitive conclusions\n(C) Seldom have local communities been so deeply involved\n\nColumn (2):\n(D) because the sample size was too small to be statistically significant.\n(E) in sustainable conservation efforts prior to this initiative.\n(F) consumer prices continued to rise rapidly throughout the quarter.",
+      "options": [
+        "A-F, B-D, C-E",
+        "A-D, B-E, C-F",
+        "A-E, B-F, C-D",
+        "A-F, B-E, C-D"
+      ],
+      "answer": 0,
+      "explanation": "A-F forms a logical concession sentence: despite the bank's action, prices rose. B-D provides a logical reason why conclusions could not be drawn (insufficient sample size). C-E follows correct inverted sentence structure ('Seldom have...') combined with 'involved in sustainable conservation efforts'. Thus, A-F, B-D, C-E is the correct combination."
+    },
+    {
+      "id": "ibps-po-ai-1785125626888-1",
+      "section": "English",
+      "topic": "Vocabulary / Single Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most appropriate word to fill in the blank to make the sentence contextually and grammatically correct.\n\nThe CEO’s ________ demeanor during the unprecedented financial crisis helped reassure panicked investors and stabilized the company's falling stock price.",
+      "options": [
+        "equable",
+        "mercurial",
+        "volatile",
+        "fastidious"
+      ],
+      "answer": 0,
+      "explanation": "'Equable' means calm, even-tempered, and not easily disturbed, which logically explains why the CEO's behavior reassured panicked investors. 'Mercurial' and 'volatile' mean unpredictable/changeable, which would worsen panic. 'Fastidious' means excessively detailed/fussy, which does not fit the context of calming investors."
+    },
+    {
+      "id": "ibps-po-ai-1785125638563-0",
+      "section": "General Awareness",
+      "topic": "Basel III Norms in India",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Basel III capital adequacy framework implemented by the Reserve Bank of India (RBI), what is the minimum required Common Equity Tier 1 (CET1) ratio for Scheduled Commercial Banks (excluding the Capital Conservation Buffer)?",
+      "options": [
+        "4.5%",
+        "5.5%",
+        "7.0%",
+        "9.0%"
+      ],
+      "answer": 1,
+      "explanation": "As per RBI's Basel III guidelines, the minimum Common Equity Tier 1 (CET1) capital ratio required for Scheduled Commercial Banks in India is 5.5% of risk-weighted assets (RWA), which is higher than the international Basel III standard minimum of 4.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785125638563-1",
+      "section": "General Awareness",
+      "topic": "Trade Receivables Discounting System (TReDS)",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India (RBI) guidelines governing the Trade Receivables Discounting System (TReDS) platform, which of the following is NOT an eligible participant to act as a financier?",
+      "options": [
+        "Scheduled Commercial Banks",
+        "NBFC-Factors",
+        "Individual Retail Investors",
+        "Export-Import Bank of India (EXIM Bank)"
+      ],
+      "answer": 2,
+      "explanation": "On the TReDS platform, only MSMEs can act as Sellers; Corporates, PSUs, and Government Departments act as Buyers; and Banks, NBFC-Factors, and specified financial institutions act as Financiers. Individual retail investors are not permitted to operate as financiers on TReDS.",
+      "status": "pending"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -7934,6 +7934,234 @@
             "ଖେମଙ୍କରଦେବ"
           ],
           "explanation": "ଯାଜପୁର ଜିଲ୍ଲାରୁ ମିଳିଥିବା ନେଉଳପୁର ତାମ୍ରଫଳକ ଶାସନ ଭୌମକର ରାଜା ପ୍ରଥମ ଶୁଭକରଦେବଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା, ଯାହା ମହାଯାନ ବୌଦ୍ଧଧର୍ମ ପ୍ରତି ତାଙ୍କର ପୃଷ୍ଠପୋଷକତା ବିଷୟରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ତଥ୍ୟ ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125708032-0",
+      "section": "Subject Knowledge",
+      "topic": "Elizabethan Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Christopher Marlowe's play 'Doctor Faustus', which two magicians advise Faustus on how to perform incantations and introduce him to the practice of black magic?",
+      "options": [
+        "Valdes and Cornelius",
+        "Wagner and Robin",
+        "Benvolio and Martino",
+        "Raymond and Bruno"
+      ],
+      "answer": 0,
+      "explanation": "In Marlowe's 'Doctor Faustus', Faustus seeks the assistance of two expert magicians, Valdes and Cornelius, who encourage his pursuit of necromancy and teach him the basics of conjuring.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କ୍ରିଷ୍ଟୋଫର ମାର୍ଲୋଙ୍କ 'ଡକ୍ଟର ଫଷ୍ଟସ୍' (Doctor Faustus) ନାଟକରେ, କେଉଁ ଦୁଇଜଣ ଯାଦୁକର ଫଷ୍ଟସଙ୍କୁ କଳା ଯାଦୁ ଶିଖିବା ଏବଂ ମନ୍ତ୍ର ଜପ କରିବା ପାଇଁ ପରାମର୍ଶ ଦିଅନ୍ତି?",
+          "options": [
+            "ଭାଲଡେସ୍ ଏବଂ କୋର୍ନେଲିୟସ୍ (Valdes and Cornelius)",
+            "ୱାଗନର୍ ଏବଂ ରୋବିନ୍ (Wagner and Robin)",
+            "ବେନଭୋଲିଓ ଏବଂ ମାର୍ଟିନୋ (Benvolio and Martino)",
+            "ରେମଣ୍ଡ ଏବଂ ବ୍ରୁନୋ (Raymond and Bruno)"
+          ],
+          "explanation": "ମାର୍ଲୋଙ୍କ 'ଡକ୍ଟର ଫଷ୍ଟସ୍' ନାଟକରେ, ଫଷ୍ଟସ୍ ଯାଦୁ ବିଦ୍ୟା ଏବଂ ମନ୍ତ୍ର ସାଧନା ଶିଖିବା ପାଇଁ ତାଙ୍କର ଦୁଇ ଯାଦୁକର ବନ୍ଧୁ ଭାଲଡେସ୍ (Valdes) ଏବଂ କୋର୍ନେଲିୟସ୍ (Cornelius)ଙ୍କ ସହାୟତା ନିଅନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125708032-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism and Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In his 1970 work 'S/Z', Roland Barthes analyzes Honoré de Balzac's short story 'Sarrasine' using five textual codes. Which code refers to references to shared human knowledge, empirical truth, and cultural stereotypes or proverbs?",
+      "options": [
+        "The Proairetic Code",
+        "The Hermeneutic Code",
+        "The Cultural Code",
+        "The Semic Code"
+      ],
+      "answer": 2,
+      "explanation": "In 'S/Z', Roland Barthes identifies five codes: Hermeneutic (enigmas), Proairetic (action), Semic (connotations), Symbolic (psychoanalytic/antitheses), and Cultural (or Gnomic/Referential), which consists of references to a science, body of knowledge, or cultural proverb shared by society.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରୋଲାଣ୍ଡ ବାର୍ଥେସ (Roland Barthes) ତାଙ୍କର ୧୯୭୦ ମସିହାର ଗ୍ରନ୍ଥ 'S/Z' ରେ ଓନୋରେ ଡେ ବାଲଜାକଙ୍କ କ୍ଷୁଦ୍ରଗଳ୍ପ 'ସାରାସିନ୍' (Sarrasine) କୁ ପାଞ୍ଚଟି ପାଠ୍ୟ ସଙ୍କେତ (codes) ମାଧ୍ୟମରେ ବିଶ୍ଲେଷଣ କରିଛନ୍ତି। ସେଥିମଧ୍ୟରୁ କେଉଁ ସଙ୍କେତଟି ସମାଜ ଦ୍ୱାରା ଅଂଶୀଦାର କରାଯାଇଥିବା ପ୍ରାତ୍ୟହିକ ସତ୍ୟ, ମାନବୀୟ ଜ୍ଞାନ ଏବଂ ସାଂସ୍କୃତିକ ପ୍ରବାଦକୁ ସୂଚିତ କରେ?",
+          "options": [
+            "ପ୍ରୋଏରେଟିକ୍ ସଙ୍କେତ (The Proairetic Code)",
+            "ହର୍ମେନିଉଟିକ୍ ସଙ୍କେତ (The Hermeneutic Code)",
+            "ସାଂସ୍କୃତିକ ସଙ୍କେତ (The Cultural Code)",
+            "ସେମିକ୍ ସଙ୍କେତ (The Semic Code)"
+          ],
+          "explanation": "'S/Z' ରେ, ରୋଲାଣ୍ଡ ବାର୍ଥେସ ପାଞ୍ଚଟି କୋଡ୍ ବର୍ଣ୍ଣନା କରିଛନ୍ତି: ହର୍ମେନିଉଟିକ୍ (ରହସ୍ୟ), ପ୍ରୋଏରେଟିକ୍ (କାର୍ଯ୍ୟ/କ୍ରିୟା), ସେମିକ୍ (ଅର୍ଥ ପ୍ରକାଶ), ସିମ୍ବୋଲିକ୍ (ପ୍ରତୀକାତ୍ମକ) ଏବଂ ସାଂସ୍କୃତିକ (ସାଂସ୍କୃତିକ ଜ୍ଞାନ, ପ୍ରବାଦ ଓ ସାଧାରଣ ଅନୁଭବ)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125721183-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which primary law of learning formulated by Edward Thorndike states that learning is strengthened when accompanied by a pleasant or satisfying feeling and weakened when associated with an unpleasant feeling?",
+      "options": [
+        "Law of Readiness",
+        "Law of Exercise",
+        "Law of Effect",
+        "Law of Primacy"
+      ],
+      "answer": 2,
+      "explanation": "Thorndike's Law of Effect asserts that behaviors followed by favorable consequences become more likely to recur, while behaviors followed by negative or unpleasant consequences become less likely to recur.",
+      "translations": {
+        "or": {
+          "question": "ଏଡୱାର୍ଡ ଥର୍ଣ୍ଣଡାଇକ୍‌ଙ୍କ ଦ୍ୱାରା ପ୍ରଣୀତ ଶିକ୍ଷଣର କେଉଁ ପ୍ରାଥମିକ ନିୟମ ଦର୍ଶାଏ ଯେ ସନ୍ତୋଷଜନକ କିମ୍ବା ଆନନ୍ଦଦାୟକ ଅନୁଭୂତି ସହିତ ଜଡ଼ିତ ଶିକ୍ଷଣ ମଜବୁତ୍ ହୁଏ ଏବଂ ଅସନ୍ତୋଷଜନକ ଅନୁଭୂତି ସହିତ ଜଡ଼ିତ ଶିକ୍ଷଣ ଦୁର୍ବଳ ହୁଏ?",
+          "options": [
+            "ପ୍ରସ୍ତୁତି ନିୟମ (Law of Readiness)",
+            "ଅଭ୍ୟାସ ନିୟମ (Law of Exercise)",
+            "ଫଳାଫଳ ନିୟମ (Law of Effect)",
+            "ପ୍ରାଥମିକତା ନିୟମ (Law of Primacy)"
+          ],
+          "explanation": "ଥର୍ଣ୍ଣଡାଇକ୍‌ଙ୍କ ଫଳାଫଳ ନିୟମ (Law of Effect) ଅନୁସାରେ, ଅନୁକୂଳ ଫଳାଫଳ ପ୍ରାପ୍ତ ହେଉଥିବା ଆଚରଣଗୁଡ଼ିକ ପୁନରାବୃତ୍ତି ହେବାର ସମ୍ଭାବନା ଅଧିକ ଥାଏ ଏବଂ ପ୍ରତିକୂଳ ଫଳାଫଳ ପ୍ରାପ୍ତ ହେଉଥିବା ଆଚରଣଗୁଡ଼ିକ ଦୁର୍ବଳ ହୋଇଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125721183-1",
+      "section": "Teaching Aptitude",
+      "topic": "Hierarchy of Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Robert Gagné's original eight-level hierarchy of learning, which of the following types of learning occupies the highest level?",
+      "options": [
+        "Concept Learning",
+        "Rule Learning",
+        "Problem Solving",
+        "Discrimination Learning"
+      ],
+      "answer": 2,
+      "explanation": "Robert Gagné proposed an 8-level hierarchy of learning ranging from Signal Learning (lowest, Level 1) to Problem Solving (highest, Level 8). Problem solving requires the application of previously learned rules to complex situations.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେ (Robert Gagné) ଙ୍କ ଆଠ-ସ୍ତରୀୟ ଶିକ୍ଷଣ କ୍ରମରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶିକ୍ଷଣ ପ୍ରକାର ସର୍ବୋଚ୍ଚ ସ୍ତରରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଧାରଣା ଶିକ୍ଷଣ (Concept Learning)",
+            "ନିୟମ ଶିକ୍ଷଣ (Rule Learning)",
+            "ସମସ୍ୟା ସମାଧାନ ଶିକ୍ଷଣ (Problem Solving)",
+            "ପ୍ରଭେଦୀକରଣ ଶିକ୍ଷଣ (Discrimination Learning)"
+          ],
+          "explanation": "ରବର୍ଟ ଗାଗ୍ନେ ଶିକ୍ଷଣର ୮ଟି ସ୍ତର ବିଶିଷ୍ଟ ଏକ କ୍ରମାନ୍ୱୟ ପ୍ରସ୍ତାବିତ କରିଥିଲେ, ଯେଉଁଥିରେ 'ସଙ୍କେତ ଶିକ୍ଷଣ' (Signal Learning) ସବୁଠାରୁ ନିମ୍ନ ସ୍ତର ଏବଂ 'ସମସ୍ୟା ସମାଧାନ' (Problem Solving) ସର୍ବୋଚ୍ଚ (ଅଷ୍ଟମ) ସ୍ତର ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125735451-0",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the founder of the Bhoi Dynasty in Odisha, which came to power in 1541 CE?",
+      "options": [
+        "Govinda Vidyadhara",
+        "Mukunda Deva",
+        "Prataparudra Deva",
+        "Chakra Pratap"
+      ],
+      "answer": 0,
+      "explanation": "Govinda Vidyadhara was a minister under Gajapati Prataparudra Deva. In 1541 CE, he usurped the throne from the last rulers of the Suryavamsi dynasty and established the Bhoi Dynasty.",
+      "translations": {
+        "or": {
+          "question": "୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ କ୍ଷମତାସୀନ ହୋଇଥିବା ଓଡ଼ିଶାର ଭୋଇ ବଂଶର ସଂସ୍ଥାପକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ଚକ୍ର ପ୍ରତାପ"
+          ],
+          "explanation": "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ଗଜପତି ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କର ମନ୍ତ୍ରୀ ଥିଲେ। ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ଶାସନର ଅନ୍ତ ଘଟାଇ ସେ ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125735451-1",
+      "section": "General Studies",
+      "topic": "Odisha Culture & Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "'Stuti Chintamani', a celebrated Odia philosophical and devotional text associated with Mahima Dharma, was composed by which saint-poet?",
+      "options": [
+        "Santh Kabi Achyutananda Das",
+        "Bhima Bhoi",
+        "Arakhita Das",
+        "Balarama Das"
+      ],
+      "answer": 1,
+      "explanation": "'Stuti Chintamani' was composed by the famous saint-poet Bhima Bhoi. It comprises 100 stanzas (bolis) articulating the monotheistic and social-equality principles of Mahima Dharma.",
+      "translations": {
+        "or": {
+          "question": "ମହିମା ଧର୍ମ ସହିତ ଜଡ଼ିତ ପ୍ରସିଦ୍ଧ ଓଡ଼ିଆ ଦାର୍ଶନିକ ଓ ଭକ୍ତିରସାତ୍ମକ କାବ୍ୟ 'ସ୍ତୁତି ଚିନ୍ତାମଣି' କେଉଁ ସନ୍ଥ-କବିଙ୍କ ଦ୍ଵାରା ରଚିତ ହୋଇଥିଲା?",
+          "options": [
+            "ସନ୍ଥ କବି ଅଚ୍ୟୁତାନନ୍ଦ ଦାସ",
+            "ଭୀମ ଭୋଇ",
+            "ଅରକ୍ଷିତ ଦାସ",
+            "ବଳରାମ ଦାସ"
+          ],
+          "explanation": "'ସ୍ତୁତି ଚିନ୍ତାମଣି' ସନ୍ଥ-କବି ଭୀମ ଭୋଇଙ୍କ ଦ୍ଵାରା ରଚିତ। ଏଥିରେ ୧୦୦ଟି ବୋଲି ରହିଛି, ଯାହା ମହିମା ଧର୍ମର ଏକେଶ୍ୱରବାଦୀ ଏବଂ ସମତାବାଦୀ ଦର୍ଶନକୁ ପ୍ରଚାର କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125748027-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which lake in Odisha is recognized as Asia's largest brackish water lagoon and was designated as the first Indian wetland of international importance under the Ramsar Convention in 1981?",
+      "options": [
+        "Ansupa Lake",
+        "Chilika Lake",
+        "Tampara Lake",
+        "Kanjia Lake"
+      ],
+      "answer": 1,
+      "explanation": "Chilika Lake is Asia's largest brackish water lagoon. In 1981, it was designated as the first Ramsar site (wetland of international importance) in India, alongside Keoladeo National Park.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ହ୍ରଦ ଏସିଆର ସବୁଠାରୁ ବଡ଼ ଲବଣାକ୍ତ ଜଳ ହ୍ରଦ ଭାବରେ ପରିଚିତ ଏବଂ ୧୯୮୧ ମସିହାରେ ରାମସାର୍ ସମ୍ମିଳନୀ ଅଧୀନରେ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆର୍ଦ୍ରଭୂମି ଭାବରେ ସ୍ୱୀକୃତି ପାଇଥିଲା?",
+          "options": [
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ଚିଲିକା ହ୍ରଦ",
+            "ତାମ୍ପରା ହ୍ରଦ",
+            "କାଞ୍ଜିଆ ହ୍ରଦ"
+          ],
+          "explanation": "ଚିଲିକା ହ୍ରଦ ହେଉଛି ଏସିଆର ସବୁଠାରୁ ବଡ଼ ଲବଣାକ୍ତ ଜଳ ହ୍ରଦ। ୧୯୮୧ ମସିହାରେ କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ଏହାକୁ ଭାରତର ପ୍ରଥମ ରାମସାର୍ ସାଇଟ୍ ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785125748027-1",
+      "section": "Odisha GK",
+      "topic": "Prajamandal Movement in Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who served as the Chairman of the historic 'Orissa States Enquiry Committee' constituted in 1937 to investigate the oppressive conditions and administrative misrule in the Princely States (Garhjats) of Odisha?",
+      "options": [
+        "Sarangadhar Das",
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhury",
+        "Biju Patnaik"
+      ],
+      "answer": 1,
+      "explanation": "The Orissa States Enquiry Committee was constituted in 1937 by the Orissa States People's Conference to investigate misrule in the Garhjats. Harekrushna Mahatab served as its Chairman, while Sarangadhar Das was the Secretary.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଗଡ଼ଜାତ (ଦେଶୀୟ ରାଜ୍ୟ) ଗୁଡ଼ିକରେ ହେଉଥିବା ଅତ୍ୟାଚାର ଓ କୁଶାସନର ତଦନ୍ତ ପାଇଁ ୧୯୩୭ ମସିହାରେ ଗଠିତ ଐତିହାସିକ 'ଓଡ଼ିଶା ଷ୍ଟେଟ୍ସ ଏନ୍‌କ୍ୱାୟରୀ କମିଟି'ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସାରଙ୍ଗଧର ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ",
+            "ବିଜୁ ପଟ୍ଟନାୟକ"
+          ],
+          "explanation": "୧୯୩୭ ମସିହାରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀ ଦ୍ୱାରା 'ଓଡ଼ିଶା ଷ୍ଟେଟ୍ସ ଏନ୍‌କ୍ୱାୟରୀ କମିଟି' ଗଠନ କରାଯାଇଥିଲା। ହରେକୃଷ୍ଣ ମହତାବ ଏହାର ଅଧ୍ୟକ୍ଷ ଥିବାବେଳେ ସାରଙ୍ଗଧର ଦାସ ସମ୍ପାଦକ ଥିଲେ।"
         }
       }
     }

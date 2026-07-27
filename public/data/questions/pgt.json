@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -5290,6 +5290,232 @@
             "ଆଇଡେଣ୍ଟିଟି ଡିସପର୍ସନ୍ (Identity dispersion)"
           ],
           "explanation": "ଡେଭିଡ୍ ଏଲକାଇଣ୍ଡଙ୍କ ଅନୁଯାୟୀ, 'ଇମାଜିନାରୀ ଅଡିଏନ୍ସ' (Imaginary audience) ହେଉଛି କିଶୋରାବସ୍ଥାର ଏକ ମାନସିକ ସ୍ଥିତି, ଯେଉଁଥିରେ କିଶୋରମାନେ ମନେକରନ୍ତି ଯେ ସମସ୍ତଙ୍କ ଧ୍ୟାନ କେବଳ ସେମାନଙ୍କ ଉପରେ ହିଁ ନିବଦ୍ଧ ଅଛି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785125759369-0",
+      "section": "Teaching Aptitude",
+      "topic": "Evaluation and Assessment",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which type of evaluation is primarily conducted during the ongoing instructional process to monitor student learning and provide continuous feedback?",
+      "options": [
+        "Formative Evaluation",
+        "Summative Evaluation",
+        "Diagnostic Evaluation",
+        "Prognostic Evaluation"
+      ],
+      "answer": 0,
+      "explanation": "Formative evaluation takes place during the instructional process. Its main purpose is to monitor student learning and provide ongoing feedback that can be used by instructors to improve their teaching and by students to improve their learning.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ମୂଲ୍ୟାଙ୍କନ ପ୍ରକାରଟି ମୁଖ୍ୟତଃ ଶିକ୍ଷଣ ପ୍ରକ୍ରିୟା ଚାଲିଥିବା ସମୟରେ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଶିକ୍ଷଣକୁ ନିରୀକ୍ଷଣ କରିବା ଏବଂ କ୍ରମାଗତ ଫିଡବ୍ୟାକ୍ (ପ୍ରତିପୋଷଣ) ପ୍ରଦାନ କରିବା ପାଇଁ ପରିଚାଳିତ ହୋଇଥାଏ?",
+          "options": [
+            "ଫର୍ମେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ (ଗଠନାତ୍ମକ)",
+            "ସମେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ (ସମାପ୍ତ୍ୟାତ୍ମକ)",
+            "ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ମୂଲ୍ୟାଙ୍କନ (ନିଦାନାତ୍ମକ)",
+            "ପ୍ରୋଗ୍ନୋଷ୍ଟିକ୍ ମୂଲ୍ୟାଙ୍କନ (ପୂର୍ବାନୁମାନାତ୍ମକ)"
+          ],
+          "explanation": "ଫର୍ମେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ ଶିକ୍ଷଣ-ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ଚାଲିଥିବା ସମୟରେ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଅଗ୍ରଗତି ନିରୀକ୍ଷଣ କରିବା ଏବଂ ଶିକ୍ଷକ ଓ ଛାତ୍ରଛାତ୍ରୀ ଉଭୟଙ୍କୁ ନିରନ୍ତର ପ୍ରତିପୋଷଣ ଯୋଗାଇବା ପାଇଁ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785125759369-1",
+      "section": "Teaching Aptitude",
+      "topic": "Instructional Design Models",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robert Gagné's Nine Events of Instruction, which event immediately follows 'Presenting the Content/Stimulus' in the standard pedagogical sequence?",
+      "options": [
+        "Providing learning guidance",
+        "Eliciting performance",
+        "Stimulating recall of prior learning",
+        "Providing feedback"
+      ],
+      "answer": 0,
+      "explanation": "In Gagné's Nine Events of Instruction, the sequence is: 1. Gain attention, 2. Inform learners of objectives, 3. Stimulate recall of prior learning, 4. Present the content, 5. Provide learning guidance, 6. Elicit performance, 7. Provide feedback, 8. Assess performance, 9. Enhance retention and transfer. Therefore, 'Providing learning guidance' immediately follows 'Presenting the Content'.",
+      "translations": {
+        "or": {
+          "question": "ରାବର୍ଟ ଗାଗ୍ନେ (Robert Gagné) ଙ୍କ ନଅଟି ଶିକ୍ଷାଦାନ ସୋପାନ (Nine Events of Instruction) ଅନୁଯାୟୀ, ମାନକ ଶିକ୍ଷାଦାନ କ୍ରମରେ 'ବିଷୟବସ୍ତୁ/ଉଦ୍ଦୀପକ ପ୍ରସ୍ତୁତି (Presenting the Content)' ର ତୁରନ୍ତ ପରେ କେଉଁ ସୋପାନଟି ଆସିଥାଏ?",
+          "options": [
+            "ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା (Providing learning guidance)",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରକାଶ କରିବା (Eliciting performance)",
+            "ପୂର୍ବ ଜ୍ଞାନର ସ୍ମରଣକୁ ଉଦ୍ଦୀପିତ କରିବା (Stimulating recall of prior learning)",
+            "ପ୍ରତିପୋଷଣ ପ୍ରଦାନ କରିବା (Providing feedback)"
+          ],
+          "explanation": "ରାବର୍ଟ ଗାଗ୍ନେଙ୍କ ନଅଟି ଶିକ୍ଷାଦାନ ସୋପାନ ଅନୁସାରେ, 'ବିଷୟବସ୍ତୁ ପ୍ରସ୍ତୁତି' (୪ର୍ଥ ସୋପାନ) ର ତୁରନ୍ତ ପରବର୍ତ୍ତୀ ୫ମ ସୋପାନ ହେଉଛି 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା' (Providing learning guidance)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785125832471-0",
+      "section": "Subject Knowledge",
+      "topic": "Organic Chemistry - Electrophilic Aromatic Substitution",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following aromatic compounds undergoes electrophilic aromatic substitution at the fastest rate?",
+      "options": [
+        "Nitrobenzene",
+        "Toluene",
+        "Anisole",
+        "Chlorobenzene"
+      ],
+      "answer": 2,
+      "explanation": "Anisole contains a methoxy group (-OCH3), which acts as a strong electron-donating group through resonance (+M effect). This significantly increases electron density on the benzene ring, making it react much faster than toluene (+I and hyperconjugation), chlorobenzene (deactivating overall due to -I), and nitrobenzene (strongly deactivating -M and -I).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଆରୋମାଟିକ୍ ଯୌଗିକଟି ସବୁଠାରୁ ଦ୍ରୁତ ହାରରେ ଇଲେକ୍ଟ୍ରୋଫିଲିକ୍ ଆରୋମାଟିକ୍ ପ୍ରତିସ୍ଥାପନ ପ୍ରତିକ୍ରିୟା କରେ?",
+          "options": [
+            "ନାଇଟ୍ରୋବେଞ୍ଜିନ୍",
+            "ଟୋଲୁଇନ୍",
+            "ଆନିସୋଲ୍",
+            "କ୍ଲୋରୋବେଞ୍ଜିନ୍"
+          ],
+          "explanation": "ଆନିସୋଲରେ ମେଥୋକ୍ସି ଗ୍ରୁପ୍ (-OCH3) ଥାଏ, ଯାହା ରେଜୋନାନ୍ସ (+M ପ୍ରଭାବ) ମାଧ୍ୟମରେ ଏକ ଶକ୍ତିଶାଳୀ ଇଲେକ୍ଟ୍ରନ୍-ଦାତା ଗ୍ରୁପ୍ ଭାବରେ କାର୍ଯ୍ୟ କରେ। ଏହା ବେଞ୍ଜିନ୍ ରିଂରେ ଇଲେକ୍ଟ୍ରନ୍ ଘନତା ବୃଦ୍ଧି କରେ, ଯାହା ଟୋଲୁଇନ୍, କ୍ଲୋରୋବେଞ୍ଜିନ୍ ଏବଂ ନାଇଟ୍ରୋବେଞ୍ଜିନ୍ ତୁଳନାରେ ଏହାକୁ ଅଧିକ ଦ୍ରୁତ ପ୍ରତିକ୍ରିୟାଶୀଳ କରାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785125832471-1",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics - Integrated Rate Laws",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "For a second-order reaction with rate law rate = k[A]^2, what is the expression for the time required (t_3/4) for the concentration of reactant A to decrease to one-fourth of its initial concentration [A]_0?",
+      "options": [
+        "3 / (k[A]_0)",
+        "1 / (k[A]_0)",
+        "4 / (k[A]_0)",
+        "2 / (3k[A]_0)"
+      ],
+      "answer": 0,
+      "explanation": "The integrated rate law for a second-order reaction is 1/[A]_t - 1/[A]_0 = kt. When the concentration decreases to one-fourth of the initial value, [A]_t = [A]_0 / 4. Substituting this into the equation gives: 1/([A]_0 / 4) - 1/[A]_0 = k * t_3/4 => 4/[A]_0 - 1/[A]_0 = 3/[A]_0 = k * t_3/4. Solving for t_3/4 yields t_3/4 = 3 / (k[A]_0).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ହାର ନିୟମ rate = k[A]^2 ବିଶିଷ୍ଟ ଏକ ଦ୍ଵିତୀୟ-କ୍ରମ ପ୍ରତିକ୍ରିୟା ପାଇଁ, ପ୍ରତିକାରକ A ର ଗାଢ଼ତା ଏହାର ପ୍ରାରମ୍ଭିକ ଗାଢ଼ତା [A]_0 ର ଏକ-ଚତୁର୍ଥାଂଶକୁ ହ୍ରାସ ପାଇବା ପାଇଁ ଆବଶ୍ୟକ ସମୟ (t_3/4) ର ସୂତ୍ର କେଉଁଟି?",
+          "options": [
+            "3 / (k[A]_0)",
+            "1 / (k[A]_0)",
+            "4 / (k[A]_0)",
+            "2 / (3k[A]_0)"
+          ],
+          "explanation": "ଏକ ଦ୍ଵିତୀୟ-କ୍ରମ ପ୍ରତିକ୍ରିୟା ପାଇଁ ସମାକଳିତ ହାର ନିୟମ ହେଉଛି 1/[A]_t - 1/[A]_0 = kt। ଯେତେବେଳେ ଗାଢ଼ତା ପ୍ରାରମ୍ଭିକ ମୂଲ୍ୟର ଏକ-ଚତୁର୍ଥାଂଶକୁ ହ୍ରାସ ପାଏ, [A]_t = [A]_0 / 4। ଏହି ମୂଲ୍ୟକୁ ସମୀକରଣରେ ସ୍ଥାପନ କଲେ: 1/([A]_0 / 4) - 1/[A]_0 = k * t_3/4 => 4/[A]_0 - 1/[A]_0 = 3/[A]_0 = k * t_3/4। ତେଣୁ t_3/4 = 3 / (k[A]_0)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785125892531-0",
+      "section": "Child Development",
+      "topic": "Bronfenbrenner's Ecological Systems Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Urie Bronfenbrenner's Ecological Systems Theory, which system refers to the linkages and processes taking place between two or more settings containing the developing person (such as the relationship between a child's home and school)?",
+      "options": [
+        "Microsystem",
+        "Mesosystem",
+        "Exosystem",
+        "Macrosystem"
+      ],
+      "answer": 1,
+      "explanation": "The mesosystem comprises the interrelations among two or more settings in which the developing person actively participates, such as the interactions between a child's family and school, or family and peer group.",
+      "translations": {
+        "or": {
+          "question": "ୟୁରି ବ୍ରୋନଫେନ୍‌ବ୍ରେନରଙ୍କ ପାରିପାର୍ଶ୍ୱିକ ବ୍ୟବସ୍ଥା ସିଦ୍ଧାନ୍ତ (Ecological Systems Theory) ଅନୁଯାୟୀ, କେଉଁ ପ୍ରଣାଳୀ ବିକାଶଶୀଳ ବ୍ୟକ୍ତି ଥିବା ଦୁଇ କିମ୍ବା ଅଧିକ ପରିବେଶ ମଧ୍ୟରେ ଘଟୁଥିବା ସଂଯୋଗ ଏବଂ ପ୍ରକ୍ରିୟାକୁ ଦର୍ଶାଏ (ଯେପରିକି ଶିଶୁର ଘର ଏବଂ ବିଦ୍ୟାଳୟ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କ)?",
+          "options": [
+            "ମାଇକ୍ରୋସିଷ୍ଟମ୍ (Microsystem)",
+            "ମେସୋସିଷ୍ଟମ୍ (Mesosystem)",
+            "ଏକ୍ସୋସିଷ୍ଟମ୍ (Exosystem)",
+            "ମ୍ୟାକ୍ରୋସିଷ୍ଟମ୍ (Macrosystem)"
+          ],
+          "explanation": "ମେସୋସିଷ୍ଟମ୍‌ରେ (Mesosystem) ଦୁଇ କିମ୍ବା ଅଧିକ ପରିବେଶ (ସେଟିଂ) ମଧ୍ୟରେ ସମ୍ପର୍କ ଅନ୍ତର୍ଭୁକ୍ତ, ଯେଉଁଥିରେ ବିକାଶଶୀଳ ଶିଶୁ ସକ୍ରିୟ ଭାବରେ ଅଂଶଗ୍ରହଣ କରେ, ଯେପରିକି ଘର ଏବଂ ବିଦ୍ୟାଳୟ ମଧ୍ୟରେ ସମ୍ପର୍କ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785125892531-1",
+      "section": "Child Development",
+      "topic": "Flavell's Metacognition Model",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to John Flavell, metacognitive knowledge consists of three primary categories of awareness. Which of the following correctly identifies these three categories?",
+      "options": [
+        "Person variables, task variables, and strategy variables",
+        "Declarative variables, procedural variables, and conditional variables",
+        "Planning variables, monitoring variables, and evaluating variables",
+        "Assimilation variables, accommodation variables, and equilibration variables"
+      ],
+      "answer": 0,
+      "explanation": "John Flavell (1979) categorized metacognitive knowledge into three categories: person variables (knowledge about oneself and others as cognitive processors), task variables (knowledge about the nature and demands of the task), and strategy variables (knowledge about strategies to achieve cognitive goals).",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ଫ୍ଲାଭେଲ୍‌ଙ୍କ (John Flavell) ଅନୁଯାୟୀ, ମେଟାକୋଗ୍ନିଟିଭ୍ ଜ୍ଞାନ (ସଂଜ୍ଞାନାତ୍ମକ ସଚେତନତା) ତିନୋଟି ମୁଖ୍ୟ ବର୍ଗକୁ ନେଇ ଗଠିତ। ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଏହି ତିନୋଟି ବର୍ଗକୁ ସଠିକ୍ ଭାବରେ ଚିହ୍ନଟ କରେ?",
+          "options": [
+            "ବ୍ୟକ୍ତି ଚଳ (Person variables), କାର୍ଯ୍ୟ ଚଳ (Task variables), ଏବଂ କୌଶଳ ଚଳ (Strategy variables)",
+            "ଘୋଷଣାତ୍ମକ ଚଳ (Declarative variables), ପ୍ରକ୍ରିୟାତ୍ମକ ଚଳ (Procedural variables), ଏବଂ ସର୍ତ୍ତମୂଳକ ଚଳ (Conditional variables)",
+            "ଯୋଜନା ଚଳ (Planning variables), ନିରୀକ୍ଷଣ ଚଳ (Monitoring variables), ଏବଂ ମୂଲ୍ୟାଙ୍କନ ଚଳ (Evaluating variables)",
+            "ଆତ୍ମସାତକରଣ ଚଳ (Assimilation variables), ସମାୟୋଜନ ଚଳ (Accommodation variables), ଏବଂ ସନ୍ତୁଳନ ଚଳ (Equilibration variables)"
+          ],
+          "explanation": "ଜନ୍ ଫ୍ଲାଭେଲ୍ (୧୯୭୯) ମେଟାକୋଗ୍ନିଟିଭ୍ ଜ୍ଞାନକୁ ତିନୋଟି ବର୍ଗରେ ବିଭକ୍ତ କରିଥିଲେ: ବ୍ୟକ୍ତି ଚଳ (ବ୍ୟକ୍ତିଙ୍କ ନିଜର ଓ ଅନ୍ୟମାନଙ୍କ ଜ୍ଞାନ ବିଷୟରେ), କାର୍ଯ୍ୟ ଚଳ (କାର୍ଯ୍ୟର ଜଟିଳତା ଓ ପ୍ରକୃତି ବିଷୟରେ), ଏବଂ କୌଶଳ ଚଳ (କାର୍ଯ୍ୟ ସମ୍ପାଦନ ପାଇଁ ବ୍ୟବହୃତ ହେଉଥିବା କୌଶଳ ବିଷୟରେ)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785126131872-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Article of the Constitution of India provides for the abolition or creation of Legislative Councils in States?",
+      "options": [
+        "Article 168",
+        "Article 169",
+        "Article 170",
+        "Article 171"
+      ],
+      "answer": 1,
+      "explanation": "Article 169 of the Constitution of India deals with the abolition or creation of Legislative Councils in States. Parliament can create or abolish a Legislative Council if the Legislative Assembly of the concerned State passes a resolution to that effect by a special majority.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଧାରାରେ ରାଜ୍ୟଗୁଡ଼ିକରେ ବିଧାନ ପରିଷଦର ଉଚ୍ଛେଦ କିମ୍ବା ସୃଷ୍ଟି ପାଇଁ ବ୍ୟବସ୍ଥା ରହିଛି?",
+          "options": [
+            "ଧାରା ୧୬୮",
+            "ଧାରା ୧୬୯",
+            "ଧାରା ୧୭୦",
+            "ଧାରା ୧୭୧"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଧାରା ୧୬୯ ରାଜ୍ୟଗୁଡ଼ିକରେ ବିଧାନ ପରିଷଦର ଉଚ୍ଛେଦ କିମ୍ବା ସୃଷ୍ଟି ସହିତ ସମ୍ବନ୍ଧିତ। ଯଦି ସମ୍ପୃକ୍ତ ରାଜ୍ୟର ବିଧାନସଭା ଏକ ସ୍ୱତନ୍ତ୍ର ବହୁମତ ଦ୍ୱାରା ପ୍ରସ୍ତାବ ପାରିତ କରେ, ତେବେ ସଂସଦ ବିଧାନ ପରିଷଦ ସୃଷ୍ଟି କିମ୍ବା ଉଚ୍ଛେଦ କରିପାରିବ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785126131872-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following presided over the historic 1907 Surat Session of the Indian National Congress, where the party split into Moderates and Extremists?",
+      "options": [
+        "Rash Behari Ghosh",
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Badruddin Tyabji"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Rash Behari Ghosh presided over the 1907 Surat Session of the Indian National Congress. This session witnessed the famous 'Surat Split' between the Moderates and the Extremists.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୭ ର ଐତିହାସିକ ସୁରଟ ଅଧିବେଶନରେ ଭାରତୀୟ ଜାତୀୟ କଂଗ୍ରେସର ଅଧ୍ୟକ୍ଷତା କିଏ କରିଥିଲେ, ଯେଉଁଥିରେ ଦଳ ନରମପନ୍ଥୀ ଏବଂ ଗରମପନ୍ଥୀରେ ବିଭାଜିତ ହୋଇଥିଲା?",
+          "options": [
+            "ରାସ ବିହାରୀ ଘୋଷ",
+            "ଗୋପାଳ କୃଷ୍ଣ ଗୋଖଲେ",
+            "ଦାଦାଭାଇ ନାଓରୋଜୀ",
+            "ବଦରୁଦ୍ଦୀନ ତ୍ୟାବଜୀ"
+          ],
+          "explanation": "ଡକ୍ଟର ରାସ ବିହାରୀ ଘୋଷ ଭାରତୀୟ ଜାତୀୟ କଂଗ୍ରେସର ୧୯୦୭ ସୁରଟ ଅଧିବେଶନର ଅଧ୍ୟକ୍ଷତା କରିଥିଲେ। ଏହି ଅଧିବେଶନରେ ନରମପନ୍ଥୀ ଏବଂ ଗରମପନ୍ଥୀଙ୍କ ମଧ୍ୟରେ ପ୍ରସିଦ୍ଧ 'ସୁରଟ ବିଭାଜନ' ହୋଇଥିଲା।"
         }
       }
     }

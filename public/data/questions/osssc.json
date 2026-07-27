@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -6046,6 +6046,206 @@
       ],
       "answer": 1,
       "explanation": "The 61st Constitutional Amendment Act, 1988 reduced the voting age for elections to the Lok Sabha and State Legislative Assemblies from 21 to 18 years."
+    },
+    {
+      "id": "osssc-ai-1785125655675-0",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "12 men can complete a work in 15 days working 8 hours a day. In how many days can 18 men complete the same work working 10 hours a day?",
+      "options": [
+        "6 days",
+        "8 days",
+        "10 days",
+        "12 days"
+      ],
+      "answer": 1,
+      "explanation": "Using the formula M1 × D1 × H1 = M2 × D2 × H2:\n12 × 15 × 8 = 18 × D2 × 10\n1440 = 180 × D2\nD2 = 1440 / 180 = 8 days.",
+      "translations": {
+        "or": {
+          "question": "12 ଜଣ ପୁରୁଷ ଦିନକୁ 8 ଘଣ୍ଟା କାମ କରି 15 ଦିନରେ ଗୋଟିଏ କାର୍ଯ୍ୟ ସମ୍ପୂର୍ଣ୍ଣ କରିପାରନ୍ତି। ଦିନକୁ 10 ଘଣ୍ଟା କାମ କରି 18 ଜଣ ପୁରୁଷ ସେହି କାର୍ଯ୍ୟକୁ କେତେ ଦିନରେ ସମ୍ପୂର୍ଣ୍ଣ କରିବେ?",
+          "options": [
+            "6 ଦିନ",
+            "8 ଦିନ",
+            "10 ଦିନ",
+            "12 ଦିନ"
+          ],
+          "explanation": "M1 × D1 × H1 = M2 × D2 × H2 ସୂତ୍ର ପ୍ରୟୋଗ କରି:\n12 × 15 × 8 = 18 × D2 × 10\n1440 = 180 × D2\nD2 = 1440 / 180 = 8 ଦିନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785125655675-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A trader bought 120 kg of rice at Rs. 40 per kg. He sold 40% of the total quantity at a gain of 15%, 25% of the remaining quantity at a loss of 10%, and the remaining rice at a gain of 20%. What is his overall profit percentage on the entire transaction?",
+      "options": [
+        "11.5%",
+        "12.5%",
+        "13.5%",
+        "15%"
+      ],
+      "answer": 2,
+      "explanation": "Let the total quantity be 100 units.\n1st Part = 40% = 40 units at +15% profit.\nRemaining = 60 units. 2nd Part = 25% of 60 = 15 units at -10% loss.\n3rd Part = 100 - (40 + 15) = 45 units at +20% profit.\nOverall profit % = [(40 × 15) + (15 × -10) + (45 × 20)] / 100\n= (600 - 150 + 900) / 100 = 1350 / 100 = 13.5%.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟବସାୟୀ କିଲୋଗ୍ରାମ ପିଛା 40 ଟଙ୍କା ଦରରେ 120 କିଗ୍ରା ଚାଉଳ କିଣିଲେ। ସେ ସେଥିରୁ 40% ଚାଉଳ 15% ଲାଭରେ, ଅବଶିଷ୍ଟର 25% ଚାଉଳ 10% କ୍ଷତିରେ ଏବଂ ବାକି ଚାଉଳ 20% ଲାଭରେ ବିକ୍ରି କଲେ। ସମ୍ପୂର୍ଣ୍ଣ କାରବାରରେ ତାଙ୍କର ମୋଟ ଲାଭ ପ୍ରତିଶତ କେତେ?",
+          "options": [
+            "11.5%",
+            "12.5%",
+            "13.5%",
+            "15%"
+          ],
+          "explanation": "ଧରନ୍ତୁ ମୋଟ ପରିମାଣ = 100 ୟୁନିଟ୍।\n1ମ ଭାଗ = 40% (15% ଲାଭରେ)।\nଅବଶିଷ୍ଟ = 60 ୟୁନିଟ୍। 2ୟ ଭାଗ = 60 ର 25% = 15 ୟୁନିଟ୍ (10% କ୍ଷତିରେ)।\n3ୟ ଭାଗ = 100 - (40 + 15) = 45 ୟୁନିଟ୍ (20% ଲାଭରେ)।\nମୋଟ ଲାଭ % = [(40 × 15) + (15 × -10) + (45 × 20)] / 100\n= (600 - 150 + 900) / 100 = 1350 / 100 = 13.5%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785125664570-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, if 'CAT' is coded as '24' and 'DOG' is coded as '26', how will 'PURI' be coded in that language?",
+      "options": [
+        "58",
+        "62",
+        "64",
+        "68"
+      ],
+      "answer": 2,
+      "explanation": "The code for each word is the sum of the positional values of its letters in the alphabetical order: P(16) + U(21) + R(18) + I(9) = 64.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, ଯଦି 'CAT' କୁ '24' ଏବଂ 'DOG' କୁ '26' ଭାବରେ କୋଡ୍ କରାଯାଏ, ତେବେ ସେହି ଭାଷାରେ 'PURI' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "58",
+            "62",
+            "64",
+            "68"
+          ],
+          "explanation": "ପ୍ରତ୍ୟେକ ଶବ୍ଦର କୋଡ୍ ହେଉଛି ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାରେ ଏହାର ଅକ୍ଷରଗୁଡ଼ିକର ସ୍ଥାନୀୟ ମୂଲ୍ୟର ସମଷ୍ଟି: P(16) + U(21) + R(18) + I(9) = 64।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785125679606-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which freshwater lake in Odisha, known for its sweet water, is naturally horseshoe-shaped and situated near Banki in Cuttack district?",
+      "options": [
+        "Ansupa Lake",
+        "Kanjia Lake",
+        "Tampara Lake",
+        "Chilika Lake"
+      ],
+      "answer": 0,
+      "explanation": "Ansupa Lake is the largest freshwater oxbow (horseshoe-shaped) lake in Odisha, formed by the Mahanadi River. It is situated in the Banki block of Cuttack district.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ମଧୁର ଜଳ ହ୍ରଦଟି ଏକ ପ୍ରାକୃତିକ ଘୋଡ଼ାଖୁରାକୃତି ହ୍ରଦ ଏବଂ କଟକ ଜିଲ୍ଲାର ବାଙ୍କୀ ନିକଟରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "କାଞ୍ଜିଆ ହ୍ରଦ",
+            "ତାମ୍ପରା ହ୍ରଦ",
+            "ଚିଲିକା ହ୍ରଦ"
+          ],
+          "explanation": "ଅଂଶୁପା ହ୍ରଦ ହେଉଛି ଓଡ଼ିଶାର ଏକ ପ୍ରସିଦ୍ଧ ମଧୁର ଜଳ ହ୍ରଦ, ଯାହା ମହାନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟ ଏକ ଘୋଡ଼ାଖୁରାକୃତି ହ୍ରଦ। ଏହା କଟକ ଜିଲ୍ଲାର ବାଙ୍କୀ ନିକଟରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785125679606-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the founder-editor of the influential Odia newspaper 'Asha' (later published as 'Dainika Asha' from Berhampur), which played a pivotal role in the Odisha Unification Movement?",
+      "options": [
+        "Shashibhusan Rath",
+        "Biswanath Kar",
+        "Radhanath Ray",
+        "Gourishankar Ray"
+      ],
+      "answer": 0,
+      "explanation": "Shashibhusan Rath started the weekly newspaper 'Asha' in 1913 from Berhampur, which became the first Odia daily newspaper 'Dainika Asha' on April 13, 1928, playing a significant role in the creation of a separate Odisha province.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ଆନ୍ଦୋଳନରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଭୂମିକା ଗ୍ରହଣ କରିଥିବା ବ୍ରହ୍ମପୁରରୁ ପ୍ରକାଶିତ 'ଆଶା' (ପରବର୍ତ୍ତୀ ସମୟରେ 'ଦୈନିକ ଆଶା') ପତ୍ରିକାର ସଂସ୍ଥାପକ-ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଶଶିଭୂଷଣ ରଥ",
+            "ବିଶ୍ୱନାଥ କର",
+            "ରାଧାନାଥ ରାୟ",
+            "ଗୌରୀଶଙ୍କର ରାୟ"
+          ],
+          "explanation": "ଶଶିଭୂଷଣ ରଥ ୧୯୧୩ ମସିହାରେ ବ୍ରହ୍ମପୁରରୁ 'ଆଶା' ସାପ୍ତାହିକ ପତ୍ରିକା ଆରମ୍ଭ କରିଥିଲେ, ଯାହା ୧୩ ଏପ୍ରିଲ ୧୯୨୮ ରେ ଓଡ଼ିଶାର ପ୍ରଥମ ଦୈନିକ ସମ୍ବାଦପତ୍ର 'ଦୈନିକ ଆଶା' ଭାବରେ ପ୍ରକାଶିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785125690801-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which river in Odisha flows through the Hirakud Dam, the longest earthen dam in the world?",
+      "options": [
+        "Mahanadi",
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
+      ],
+      "answer": 0,
+      "explanation": "The Hirakud Dam is built across the Mahanadi River near Sambalpur in Odisha. It is one of the longest earthen dams in the world.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ନଦୀ ଉପରେ ବିଶ୍ୱର ସବୁଠାରୁ ଦୀର୍ଘତମ ମାଟି ବନ୍ଧ 'ହୀରାକୁଦ ବନ୍ଧ' ନିର୍ମିତ ହୋଇଛି?",
+          "options": [
+            "ମହାନଦୀ",
+            "ବ୍ରାହ୍ମଣୀ",
+            "ବୈତରଣୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ହୀରାକୁଦ ବନ୍ଧ ଓଡ଼ିଶାର ସମ୍ବଲପୁର ନିକଟରେ ମହାନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି। ଏହା ବିଶ୍ୱର ଅନ୍ୟତମ ଦୀର୍ଘତମ ମାଟି ବନ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785125690801-1",
+      "section": "Odisha GK",
+      "topic": "History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following Somavamsi rulers constructed the famous Mukteswar Temple at Bhubaneswar?",
+      "options": [
+        "Yayati I",
+        "Yayati II",
+        "Janamejaya I",
+        "Dharmaratha"
+      ],
+      "answer": 0,
+      "explanation": "The Mukteswar Temple at Bhubaneswar, often regarded as the 'gem of Odishan architecture', was constructed during the reign of Somavamsi King Yayati I in the 10th century CE.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସୋମବଂଶୀ ଶାସକ ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ମୁକ୍ତେଶ୍ୱର ମନ୍ଦିର ନିର୍ମାଣ କରିଥିଲେ?",
+          "options": [
+            "ପ୍ରଥମ ଯଯାତି",
+            "ଦ୍ୱିତୀୟ ଯଯାତି",
+            "ପ୍ରଥମ ଜନମେଜୟ",
+            "ଧର୍ମରଥ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରସ୍ଥିତ ମୁକ୍ତେଶ୍ୱର ମନ୍ଦିର ଦଶମ ଶତାବ୍ଦୀରେ ସୋମବଂଶୀ ରାଜା ପ୍ରଥମ ଯଯାତିଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
     }
   ]
 }
