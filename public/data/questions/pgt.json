@@ -5688,6 +5688,261 @@
           "explanation": "ରେନେ ବାଏଆର୍ଜନ୍ 'ପ୍ରତ୍ୟାଶା-ଉଲ୍ଲଂଘନ' ପଦ୍ଧତି ବ୍ୟବହାର କରି ଦର୍ଶାଇଥିଲେ ଯେ ୩.୫ ରୁ ୪.୫ ମାସର ଶିଶୁମାନଙ୍କଠାରେ ମଧ୍ୟ 'ବସ୍ତୁ ସ୍ଥାୟିତ୍ୱ' (object permanence) ର ସଚେତନତା ଥାଏ, ଯାହା ପିଆଜେଙ୍କ ଆକଳିତ ସମୟ (୮ ରୁ ୧୨ ମାସ) ଠାରୁ ଯଥେଷ୍ଟ ପୂର୍ବରୁ ଅଟେ।"
         }
       }
+    },
+    {
+      "id": "pgt-edu-1785212900233-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the primary foundation and core medium of instruction in Mahatma Gandhi's Wardha Scheme of Basic Education (Nai Talim) proposed in 1937?",
+      "options": [
+        "Productive craft and mother tongue",
+        "Rote learning of classical Sanskrit texts",
+        "Purely academic instruction in English medium",
+        "Military drill and mechanical technology"
+      ],
+      "answer": 0,
+      "explanation": "Mahatma Gandhi's Nai Talim (Basic Education) proposed that education should center around a productive craft (like spinning, weaving, agriculture) and be imparted in the student's mother tongue."
+    },
+    {
+      "id": "pgt-edu-1785212900233-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Rabindranath Tagore established 'Sriniketan' in 1922 primarily to focus on which critical aspect of his educational philosophy?",
+      "options": [
+        "Rural reconstruction, community welfare, and vocational crafts",
+        "Vedic scriptural research and monastic living",
+        "Advanced theoretical physics and modern mathematics",
+        "Western classical music and performing arts"
+      ],
+      "answer": 0,
+      "explanation": "Sriniketan (Institute of Rural Reconstruction) was founded by Tagore alongside Leonard Elmhirst to bring education closer to village life through rural welfare, agriculture, and handicrafts."
+    },
+    {
+      "id": "pgt-edu-1785212900233-2",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In John Dewey's pragmatic philosophy of education, how is learning fundamentally defined?",
+      "options": [
+        "Passive absorption of facts transmitted by the teacher",
+        "Reconstruction of experience through active social participation ('Learning by Doing')",
+        "Rote memorization of timeless classical literature",
+        "Isolated sensory exercises detached from real-world utility"
+      ],
+      "answer": 1,
+      "explanation": "John Dewey advocated pragmatism and progressivism, defining education as the continuous reconstruction of experience through action, problem-solving, and social interaction."
+    },
+    {
+      "id": "pgt-edu-1785212900233-3",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Friedrich Froebel's Kindergarten system, what distinguishes a 'Gift' from an 'Occupation'?",
+      "options": [
+        "Gifts are for teachers, while Occupations are given to parents.",
+        "Gifts retain their original form after play (e.g., wooden cubes), whereas Occupations involve altering materials (e.g., clay modelling, paper folding).",
+        "Gifts develop physical fitness, while Occupations develop spiritual awareness.",
+        "Gifts are introduced at age 10, whereas Occupations are introduced at age 3."
+      ],
+      "answer": 1,
+      "explanation": "Froebel's 'Gifts' (like balls and blocks) lead the child to discover form and concept without permanently changing the material, whereas 'Occupations' (like weaving and clay work) transform materials to cultivate creative construction."
+    },
+    {
+      "id": "pgt-edu-1785212900233-4",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the primary role of the educator in a traditional Montessori classroom setting?",
+      "options": [
+        "A direct lecturer controlling all classroom pace and activities",
+        "A directress who prepares the environment and observes child-directed autonomous learning",
+        "A strict disciplinarian enforcing uniform group tasks",
+        "A passive observer who never intervenes under any circumstances"
+      ],
+      "answer": 1,
+      "explanation": "In Maria Montessori's method, the teacher is known as a 'Directress' or guide who prepares a structured environment and observes individual children as they engage with self-correcting materials."
+    },
+    {
+      "id": "pgt-edu-1785212900233-5",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which specific specific learning disability (SLD) affects a learner's ability to understand numbers, learn math facts, and process numerical symbols?",
+      "options": [
+        "Dyslexia",
+        "Dysgraphia",
+        "Dyscalculia",
+        "Dyspraxia"
+      ],
+      "answer": 2,
+      "explanation": "Dyscalculia is a specific learning difficulty that causes individuals to struggle with understanding numbers, mathematical concepts, and calculations."
+    },
+    {
+      "id": "pgt-edu-1785212900233-6",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "A student exhibits normal cognitive intelligence but experiences persistent difficulty with fine motor coordination, spatial planning, and physical tasks like buttoning a shirt or holding a pencil correctly. Which condition does this reflect?",
+      "options": [
+        "Dyspraxia (Developmental Coordination Disorder)",
+        "Dysphasia",
+        "Auditory Processing Disorder",
+        "Dyscalculia"
+      ],
+      "answer": 0,
+      "explanation": "Dyspraxia, also known as Developmental Coordination Disorder (DCD), affects motor skill coordination, planning, and execution of physical movements."
+    },
+    {
+      "id": "pgt-edu-1785212900233-7",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, how many total categories of specified benchmark disabilities are recognized?",
+      "options": [
+        "7",
+        "14",
+        "21",
+        "28"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act 2016 increased the recognized categories of disabilities from 7 (under the 1995 Act) to 21 categories."
+    },
+    {
+      "id": "pgt-edu-1785212900233-8",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In inclusive education policy, what is the core mandate of the 'Least Restrictive Environment' (LRE) principle?",
+      "options": [
+        "Placing all children with special needs in separate specialized residential institutions",
+        "Educating students with disabilities alongside non-disabled peers in general education settings to the maximum extent appropriate",
+        "Exempting special needs students from taking standardized academic examinations",
+        "Providing separate home tutoring for all students with benchmark disabilities"
+      ],
+      "answer": 1,
+      "explanation": "Least Restrictive Environment (LRE) requires that children with disabilities be educated with children who are non-disabled to the maximum extent appropriate, resorting to special classes only when severity demands."
+    },
+    {
+      "id": "pgt-edu-1785212900233-9",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Indian Government's SWAYAM portal for Massive Open Online Courses (MOOCs), what are the four designated structural quadrants of learning delivery?",
+      "options": [
+        "e-Tutorial (video), e-Content (reading), Self-Assessment (tests), and Online Discussion Forum",
+        "Live Broadcast, Radio Lessons, Physical Textbooks, and Lab Manuals",
+        "Primary, Upper Primary, Secondary, and Higher Secondary content",
+        "Registration, Attendance, Term Examinations, and Certification"
+      ],
+      "answer": 0,
+      "explanation": "SWAYAM courses are structured into 4 quadrants: Quadrant I (e-Tutorial - Video/Audio), Quadrant II (e-Content - Reading material/e-Books), Quadrant III (Self-Assessment - Tests/Quizzes), and Quadrant IV (Discussion Forum - Doubts)."
+    },
+    {
+      "id": "pgt-edu-1785212900233-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the TPACK framework developed by Mishra and Koehler for effective technology integration in instruction, what does 'TPACK' stand for?",
+      "options": [
+        "Technical, Pedagogical, and Applied Content Knowledge",
+        "Technological Pedagogical Content Knowledge",
+        "Teaching, Planning, Assessment, and Communication Knowledge",
+        "Technological Process and Administrative Curriculum Knowledge"
+      ],
+      "answer": 1,
+      "explanation": "TPACK stands for Technological Pedagogical Content Knowledge, describing the complex interaction between technology, pedagogy, and content knowledge required for effective tech-based teaching."
+    },
+    {
+      "id": "pgt-edu-1785212900233-11",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which systematic 10-step instructional design framework relies heavily on a systems approach involving instructional goals, performance objectives, criterion-referenced test items, and formative/summative evaluations?",
+      "options": [
+        "ADDIE Model",
+        "Dick and Carey Model",
+        "ASSURE Model",
+        "Kemp Design Model"
+      ],
+      "answer": 1,
+      "explanation": "The Dick and Carey Model (Systems Approach Model) is a well-known 10-step instructional design framework that views instruction as a systematic process with interconnected components."
+    },
+    {
+      "id": "pgt-edu-1785212900233-12",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Ralph Tyler's classical model of curriculum construction ('Tyler Rationale'), what is the correct logical starting point for curriculum design?",
+      "options": [
+        "Defining educational goals and learning objectives",
+        "Selecting textbook contents and chapters",
+        "Conducting national-level competitive tests",
+        "Designing classroom physical infrastructure"
+      ],
+      "answer": 0,
+      "explanation": "Ralph Tyler's four fundamental questions begin with defining clear educational objectives, followed by selecting learning experiences, organizing experiences, and evaluating outcomes."
+    },
+    {
+      "id": "pgt-edu-1785212900233-13",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who introduced the concept of the 'Spiral Curriculum', which asserts that any subject can be taught effectively in some intellectually honest form to any child at any stage of development?",
+      "options": [
+        "Hilda Taba",
+        "Jerome Bruner",
+        "Franklin Bobbitt",
+        "David Ausubel"
+      ],
+      "answer": 1,
+      "explanation": "Jerome Bruner introduced the 'Spiral Curriculum' in his 1960 book 'The Process of Education', proposing that foundational concepts should be revisited at progressively higher levels of complexity."
+    },
+    {
+      "id": "pgt-edu-1785212900233-14",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Carl Rogers established Person-Centred (Non-Directive) Therapy. Which of the following is NOT one of Rogers' three necessary and sufficient core conditions for therapeutic change?",
+      "options": [
+        "Congruence (Genuineness)",
+        "Unconditional Positive Regard",
+        "Empathic Understanding",
+        "Active Diagnostic Interpretation"
+      ],
+      "answer": 3,
+      "explanation": "Carl Rogers identified three core conditions: Congruence (genuineness), Unconditional Positive Regard (acceptance), and Empathic Understanding. Directive/diagnostic interpretation is explicitly avoided in non-directive counselling."
     }
   ]
 }
