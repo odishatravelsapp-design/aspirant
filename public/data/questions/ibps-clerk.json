@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -5902,6 +5902,136 @@
       ],
       "answer": 2,
       "explanation": "Effective from February 4, 2020, the Deposit Insurance and Credit Guarantee Corporation (DICGC), a wholly owned subsidiary of the RBI, raised the deposit insurance cover from ₹1 Lakh to ₹5 Lakhs per depositor across all commercial and cooperative banks.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785210254174-0",
+      "section": "Quant",
+      "topic": "Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present ages of A and B are in the ratio 4 : 5. Six years hence, the ratio of their ages will become 5 : 6. What is the present age of A?",
+      "options": [
+        "20 years",
+        "24 years",
+        "28 years",
+        "30 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the present ages of A and B be 4x and 5x respectively. After 6 years, (4x + 6) / (5x + 6) = 5 / 6. Cross-multiplying gives 6(4x + 6) = 5(5x + 6) => 24x + 36 = 25x + 30 => x = 6. Thus, the present age of A = 4 * 6 = 24 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1785210254174-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 10 hours, while Pipe B can empty the full tank in 15 hours. Pipe C can fill the same tank in 15 hours. Initially, Pipe A and Pipe B are opened together for 5 hours. Thereafter, Pipe B is closed and Pipe C is opened along with Pipe A. How much additional time (in hours) will it take to fill the remaining part of the tank?",
+      "options": [
+        "4 hours",
+        "5 hours",
+        "6 hours",
+        "7.5 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let total capacity = LCM(10, 15, 15) = 60 units. Efficiency of Pipe A = +6 units/hr, Pipe B = -4 units/hr, Pipe C = +4 units/hr. For the first 5 hours, A and B work together: Net rate = 6 - 4 = +2 units/hr. Work done in 5 hrs = 2 * 5 = 10 units. Remaining work = 60 - 10 = 50 units. Now B is closed and C is opened with A: Net rate = 6 + 4 = 10 units/hr. Additional time required = 50 / 10 = 5 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1785210266692-0",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rohan starts walking from point A and walks 10m towards North to reach point B. From point B, he takes a right turn and walks 15m to reach point C. He then turns right again and walks 20m to reach point D. From point D, he turns left and walks 5m to reach point E. Finally, he turns left and walks 10m to reach point F. What is the shortest distance between point A and point F, and in which direction is point F with respect to point A?",
+      "options": [
+        "20m, East",
+        "25m, North-East",
+        "20m, West",
+        "15m, East"
+      ],
+      "answer": 0,
+      "explanation": "Starting at A(0,0): B is at (0, 10). C is at (15, 10). D is at (15, -10) after moving 20m South. E is at (20, -10) after moving 5m East. F is at (20, 0) after moving 10m North. The horizontal distance from A(0,0) to F(20,0) is 20m, and F is directly to the East of A."
+    },
+    {
+      "id": "ibps-clerk-ai-1785210266692-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by three conclusions numbered I, II, and III. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\n1. Only a few Pens are Pencils.\n2. All Pencils are Erasers.\n3. No Eraser is a Sharpener.\n\nConclusions:\nI. Some Pens are not Erasers.\nII. All Pencils being Pens is a possibility.\nIII. No Pencil is a Sharpener.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusions II and III follow",
+        "Only conclusions I and II follow",
+        "All conclusions I, II, and III follow"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Pens are Pencils' means Some Pens are Pencils and Some Pens are NOT Pencils. All Pens can still be Erasers, so Conclusion I ('Some Pens are not Erasers') does not necessarily follow.\n2. In 'Only a few A are B', 'All B being A' is always a possibility. Thus, 'All Pencils being Pens is a possibility' is TRUE (Conclusion II follows).\n3. Since All Pencils are Erasers and No Eraser is a Sharpener, no Pencil can ever be a Sharpener. Thus, Conclusion III is TRUE.\nHence, only conclusions II and III follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1785210283414-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Determine the pair of words that must be interchanged to render the sentence contextually coherent and grammatically correct:\n\n'The **shipment** (A) of the new product line was delayed because several **components** (B) were missing from the **assembly** (C), causing immense **frustration** (D) among the engineers.'",
+      "options": [
+        "A - B",
+        "A - C",
+        "B - D",
+        "C - D"
+      ],
+      "answer": 1,
+      "explanation": "Interchanging 'shipment' (A) and 'assembly' (C) restores logical coherence. The correct sentence reads: 'The assembly of the new product line was delayed because several components were missing from the shipment, causing immense frustration among the engineers.'"
+    },
+    {
+      "id": "ibps-clerk-ai-1785210283414-1",
+      "section": "English",
+      "topic": "Grammatical Error Detection",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Find the part of the sentence that contains a redundancy/grammatical error:\n\n'The reason why the launch of the new communications satellite was postponed is because the weather conditions were extremely unfavorable.'",
+      "options": [
+        "The reason why the launch",
+        "of the new communications satellite was postponed",
+        "is because the weather conditions",
+        "were extremely unfavorable"
+      ],
+      "answer": 2,
+      "explanation": "The expression 'The reason why...' already denotes cause, so using 'because' is redundant in English grammar. The conjunction 'because' should be replaced by 'that' (i.e., 'is that the weather conditions...')."
+    },
+    {
+      "id": "ibps-clerk-ai-1785210294290-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the minimum initial paid-up voting equity capital required by the Reserve Bank of India for setting up a Universal Bank in the private sector under the 'on-tap' licensing guidelines?",
+      "options": [
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore",
+        "₹1,000 crore"
+      ],
+      "answer": 2,
+      "explanation": "According to the Reserve Bank of India's guidelines for 'on-tap' licensing of Universal Banks in the private sector, the minimum initial paid-up voting equity capital required is ₹500 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785210294290-1",
+      "section": "General Awareness",
+      "topic": "Money Market",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the Indian inter-bank money market, what is the specified duration for funds borrowed or lent under 'Notice Money'?",
+      "options": [
+        "1 day (overnight)",
+        "2 days to 14 days",
+        "15 days to 90 days",
+        "91 days to 364 days"
+      ],
+      "answer": 1,
+      "explanation": "In the Indian money market, Call Money refers to overnight lending/borrowing (1 day), Notice Money refers to funds borrowed or lent for a period of 2 days to 14 days, and Term Money refers to funds for 15 days up to 1 year.",
       "status": "pending"
     }
   ]

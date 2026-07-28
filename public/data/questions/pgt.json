@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -5516,6 +5516,176 @@
             "ବଦରୁଦ୍ଦୀନ ତ୍ୟାବଜୀ"
           ],
           "explanation": "ଡକ୍ଟର ରାସ ବିହାରୀ ଘୋଷ ଭାରତୀୟ ଜାତୀୟ କଂଗ୍ରେସର ୧୯୦୭ ସୁରଟ ଅଧିବେଶନର ଅଧ୍ୟକ୍ଷତା କରିଥିଲେ। ଏହି ଅଧିବେଶନରେ ନରମପନ୍ଥୀ ଏବଂ ଗରମପନ୍ଥୀଙ୍କ ମଧ୍ୟରେ ପ୍ରସିଦ୍ଧ 'ସୁରଟ ବିଭାଜନ' ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785210576230-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology - Operant Conditioning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In B.F. Skinner's theory of operant conditioning, which schedule of reinforcement produces the highest rate of response and the greatest resistance to extinction?",
+      "options": [
+        "Fixed-interval schedule",
+        "Fixed-ratio schedule",
+        "Variable-interval schedule",
+        "Variable-ratio schedule"
+      ],
+      "answer": 3,
+      "explanation": "A variable-ratio schedule provides reinforcement after an unpredictable number of responses. This schedule yields a very high, steady rate of responding and is extremely resistant to extinction.",
+      "translations": {
+        "or": {
+          "question": "ବି.ଏଫ୍. ସ୍କିନର୍‌ଙ୍କ (B.F. Skinner) ଅପରେଣ୍ଟ କଣ୍ଡିସନିଂ ତତ୍ତ୍ୱରେ, କେଉଁ ପୁନର୍ବଳନ ସୂଚୀ (schedule of reinforcement) ସବୁଠାରୁ ଅଧିକ ପ୍ରତିକ୍ରିୟା ହାର ଏବଂ ବିଲୋପନ ପ୍ରତି ସବୁଠାରୁ ଅଧିକ ପ୍ରତିରୋଧ ସୃଷ୍ଟି କରେ?",
+          "options": [
+            "ନିର୍ଦ୍ଦିଷ୍ଟ-ସମୟାନ୍ତରାଳ ସୂଚୀ (Fixed-interval schedule)",
+            "ନିର୍ଦ୍ଦିଷ୍ଟ-ଅନୁପାତ ସୂଚୀ (Fixed-ratio schedule)",
+            "ପରିବର୍ତ୍ତନଶୀଳ-ସମୟାନ୍ତରାଳ ସୂଚୀ (Variable-interval schedule)",
+            "ପରିବର୍ତ୍ତନଶୀଳ-ଅନୁପାତ ସୂଚୀ (Variable-ratio schedule)"
+          ],
+          "explanation": "ପରିବର୍ତ୍ତନଶୀଳ-ଅନୁପାତ ସୂଚୀରେ (Variable-ratio schedule) ଅନିଶ୍ଚିତ ସଂଖ୍ୟକ ପ୍ରତିକ୍ରିୟା ପରେ ପୁନର୍ବଳନ ଦିଆଯାଏ, ଯାହା ଅତି ଉଚ୍ଚ ପ୍ରତିକ୍ରିୟା ହାର ଏବଂ ବିଲୋପନ ପ୍ରତି ସର୍ବାଧିକ ପ୍ରତିରୋଧ ସୃଷ୍ଟି କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785210576230-1",
+      "section": "Teaching Aptitude",
+      "topic": "Taxonomy of Educational Objectives",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the revised Bloom's Taxonomy proposed by Lorin Anderson and David Krathwohl (2001), which of the following correctly represents the ascending order of cognitive process complexity?",
+      "options": [
+        "Remember, Understand, Apply, Analyze, Evaluate, Create",
+        "Remember, Understand, Apply, Evaluate, Analyze, Create",
+        "Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation",
+        "Remember, Apply, Understand, Analyze, Create, Evaluate"
+      ],
+      "answer": 0,
+      "explanation": "The revised Bloom's Taxonomy (2001) changes the categories from nouns to verbs and arranges them in ascending order of complexity as: Remember -> Understand -> Apply -> Analyze -> Evaluate -> Create.",
+      "translations": {
+        "or": {
+          "question": "ଲୋରିନ୍ ଆଣ୍ଡରସନ୍ ଏବଂ ଡେଭିଡ୍ କ୍ରାଥୱୋଲ୍ (୨୦୦୧) ଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତାବିତ ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମି (Bloom's Taxonomy) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟା ଜଟିଳତାର ସଠିକ୍ ଆରୋହୀ କ୍ରମ (ascending order) ଦର୍ଶାଏ?",
+          "options": [
+            "ମନେରଖିବା (Remember), ବୁଝିବା (Understand), ପ୍ରୟୋଗ କରିବା (Apply), ବିଶ୍ଳେଷଣ କରିବା (Analyze), ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluate), ସୃଷ୍ଟି କରିବା (Create)",
+            "ମନେରଖିବା (Remember), ବୁଝିବା (Understand), ପ୍ରୟୋଗ କରିବା (Apply), ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluate), ବିଶ୍ଳେଷଣ କରିବା (Analyze), ସୃଷ୍ଟି କରିବା (Create)",
+            "ଜ୍ଞାନ (Knowledge), ବୋଧଗମ୍ୟତା (Comprehension), ପ୍ରୟୋଗ (Application), ବିଶ୍ଳେଷଣ (Analysis), ସଂଶ୍ଳେଷଣ (Synthesis), ମୂଲ୍ୟାଙ୍କନ (Evaluation)",
+            "ମନେରଖିବା (Remember), ପ୍ରୟୋଗ କରିବା (Apply), ବୁଝିବା (Understand), ବିଶ୍ଳେଷଣ କରିବା (Analyze), ସୃଷ୍ଟି କରିବା (Create), ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluate)"
+          ],
+          "explanation": "୨୦୦୧ ରେ ପ୍ରସ୍ତାବିତ ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମିରେ ବର୍ଗଗୁଡ଼ିକୁ ବିଶେଷ୍ୟ ପରିବର୍ତ୍ତେ କ୍ରିୟାପଦରେ ରଖାଯାଇଛି ଏବଂ ଜଟିଳତାର ଆରୋହୀ କ୍ରମ ହେଉଛି: ମନେରଖିବା -> ବୁଝିବା -> ପ୍ରୟୋଗ କରିବା -> ବିଶ୍ଳେଷଣ କରିବା -> ମୂଲ୍ୟାଙ୍କନ କରିବା -> ସୃଷ୍ଟି କରିବା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785210673233-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following ligands is classified as a bidentate ligand?",
+      "options": [
+        "Ethylenediamine",
+        "Ammonia",
+        "Pyridine",
+        "Water"
+      ],
+      "answer": 0,
+      "explanation": "Ethylenediamine (en) contains two nitrogen donor atoms, each having a lone pair of electrons capable of coordinating to a central metal ion, making it a bidentate ligand. Ammonia, pyridine, and water each possess only one donor atom and are monodentate ligands.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଲିଗାଣ୍ଡଟି ଏକ ଦ୍ୱି-ଦନ୍ତୁର (bidentate) ଲିଗାଣ୍ଡ ଭାବରେ ବର୍ଗୀକୃତ?",
+          "options": [
+            "ଏଥିଲିନ୍‌ଡାଏଆମିନ୍ (Ethylenediamine)",
+            "ଆମୋନିଆ (Ammonia)",
+            "ପାଇରିଡିନ୍ (Pyridine)",
+            "ଜଳ (Water)"
+          ],
+          "explanation": "ଏଥିଲିନ୍‌ଡାଏଆମିନ୍ (en) ରେ ଦୁଇଟି ନାଇଟ୍ରୋଜେନ୍ ଦାତା ପରମାଣୁ ଥାଏ, ଯାହା ଏହାକୁ ଏକ ଦ୍ୱି-ଦନ୍ତୁର (bidentate) ଲିଗାଣ୍ଡ କରିଥାଏ। ଆମୋନିଆ, ପାଇରିଡିନ୍ ଏବଂ ଜଳ ପ୍ରତ୍ୟେକ ଗୋଟିଏ ଲେଖାଏଁ ଦାତା ପରମାଣୁ ଧାରଣ କରିଥିବାରୁ ଏକ-ଦନ୍ତୁର (monodentate) ଲିଗାଣ୍ଡ ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785210673233-1",
+      "section": "Subject Knowledge",
+      "topic": "Organic Reactions",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the base-catalyzed Claisen-Schmidt condensation between benzaldehyde and acetophenone, what is the major organic product formed after dehydration?",
+      "options": [
+        "Chalcone (1,3-diphenylprop-2-en-1-one)",
+        "Cinnamic acid",
+        "Benzylideneacetone",
+        "Dibenzylideneacetone"
+      ],
+      "answer": 0,
+      "explanation": "The Claisen-Schmidt reaction between benzaldehyde (which lacks alpha-hydrogens) and acetophenone in the presence of a strong base forms a beta-hydroxy ketone intermediate, which readily undergoes dehydration to give the alpha,beta-unsaturated ketone 1,3-diphenylprop-2-en-1-one, commonly known as chalcone.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କ୍ଷାର-ଉତ୍ପ୍ରେରିତ କ୍ଲାଇସେନ୍-ସ୍ମିଟ୍ (Claisen-Schmidt) ସଂଘନନରେ ବେଞ୍ଜାଲଡିହାଇଡ୍ ଏବଂ ଏସିଟୋଫେନୋନ୍ ମଧ୍ୟରେ ନିର୍ଜଳୀକରଣ ପରେ ଗଠିତ ହେଉଥିବା ପ୍ରଧାନ ଜୈବ ଉତ୍ପାଦ କ'ଣ?",
+          "options": [
+            "ଚାଲକୋନ୍ (1,3-ଡାଇଫେନିଲପ୍ରୋପ୍-2-ଏନ୍-1-ଓନ୍)",
+            "ସିନାମିକ୍ ଏସିଡ୍",
+            "ବେଞ୍ଜିଲିଡିନ୍‌ଏସିଟୋନ୍",
+            "ଡାଇବେଞ୍ଜିଲିଡିନ୍‌ଏସିଟୋନ୍"
+          ],
+          "explanation": "କ୍ଷାରର ଉପସ୍ଥିତିରେ ବେଞ୍ଜାଲଡିହାଇଡ୍ (ଯାହାର ଆଲଫା-ହାଇଡ୍ରୋଜେନ୍ ନାହିଁ) ଏବଂ ଏସିଟୋଫେନୋନ୍ ମଧ୍ୟରେ କ୍ଲାଇସେନ୍-ସ୍ମିଟ୍ ପ୍ରତିକ୍ରିୟା ଘଟି ଏକ ବିଟା-ହାଇଡ୍ରୋକ୍ସି କିଟୋନ୍ ମଧ୍ୟବର୍ତ୍ତୀ ଯୌଗିକ ଗଠିତ ହୁଏ, ଯାହା ନିର୍ଜଳୀକରଣ ହୋଇ ଆଲଫା,ବିଟା-ଅସଂପୃକ୍ତ କିଟୋନ୍ 1,3-ଡାଇଫେନିଲପ୍ରୋପ୍-2-ଏନ୍-1-ଓନ୍ (ଚାଲକୋନ୍) ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785210795881-0",
+      "section": "Child Development",
+      "topic": "Moral Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Lawrence Kohlberg's theory of moral development, an individual who makes moral decisions primarily to gain social approval and maintain harmonious relationships with peers is operating at which stage?",
+      "options": [
+        "Stage 1: Punishment and Obedience Orientation",
+        "Stage 3: Interpersonal Concordance Orientation ('Good Boy / Nice Girl')",
+        "Stage 4: Law and Order Orientation",
+        "Stage 5: Social Contract Orientation"
+      ],
+      "answer": 1,
+      "explanation": "Stage 3 of Kohlberg's moral development theory belongs to the Conventional Level. At this stage, morality is driven by social expectations, desire for approval, and maintaining good interpersonal relationships.",
+      "translations": {
+        "or": {
+          "question": "ଲରେନ୍ସ କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଅନ୍ୟମାନଙ୍କଠାରୁ ସାମାଜିକ ଅନୁମୋଦନ ପାଇବା ଏବଂ ସାଥୀମାନଙ୍କ ସହିତ ସୌହାର୍ଦ୍ଦ୍ୟପୂର୍ଣ୍ଣ ସମ୍ପର୍କ ବଜାୟ ରଖିବା ପାଇଁ ନୈତିକ ନିଷ୍ପତ୍ତି ନେଉଥିବା ବ୍ୟକ୍ତି କେଉଁ ପର୍ଯ୍ୟାୟରେ କାର୍ଯ୍ୟ କରନ୍ତି?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୧: ଦଣ୍ଡ ଏବଂ ଆଜ୍ଞାକାରିତା ମନୋଭାବ",
+            "ପର୍ଯ୍ୟାୟ ୩: ଆନ୍ତଃବ୍ୟକ୍ତିକ ସମ୍ମତି ମନୋଭାବ ('ଭଲ ବାଳକ / ଭଲ ବାଳିକା')",
+            "ପର୍ଯ୍ୟାୟ ୪: ଆଇନ ଏବଂ ଶୃଙ୍ଖଳା ମନୋଭାବ",
+            "ପର୍ଯ୍ୟାୟ ୫: ସାମାଜିକ ଚୁକ୍ତି ମନୋଭାବ"
+          ],
+          "explanation": "କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶ ସିଦ୍ଧାନ୍ତର ପର୍ଯ୍ୟାୟ ୩ ପାରମ୍ପରିକ ସ୍ତରର ଅନ୍ତର୍ଭୁକ୍ତ। ଏହି ପର୍ଯ୍ୟାୟରେ ନୈତିକତା ସାମାଜିକ ପ୍ରତ୍ୟାଶା, ଅନୁମୋଦନ ପାଇବାର ଇଚ୍ଛା ଏବଂ ଭଲ ଆନ୍ତଃବ୍ୟକ୍ତିକ ସମ୍ପର୍କ ରଖିବା ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785210795881-1",
+      "section": "Child Development",
+      "topic": "Infant Cognitive Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "René Baillargeon used the 'violation-of-expectation' paradigm to challenge Jean Piaget's timeline regarding infant cognitive development. Which cognitive capacity did her findings demonstrate that infants possess significantly earlier than Piaget proposed?",
+      "options": [
+        "Deferred imitation",
+        "Object permanence",
+        "Hypothetico-deductive reasoning",
+        "Conservation of volume"
+      ],
+      "answer": 1,
+      "explanation": "René Baillargeon's violation-of-expectation research demonstrated that infants as young as 3.5 to 4.5 months show awareness of hidden objects (object permanence), challenging Piaget's claim that object permanence only fully develops around 8 to 12 months.",
+      "translations": {
+        "or": {
+          "question": "ଶିଶୁର ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସମ୍ପର୍କରେ ଜିନ୍ ପିଆଜେଙ୍କ ସମୟସୀମାକୁ ଚ୍ୟାଲେଞ୍ଜ କରିବା ପାଇଁ ରେନେ ବାଏଆର୍ଜନ୍ 'ପ୍ରତ୍ୟାଶା-ଉଲ୍ଲଂଘନ' (violation-of-expectation) ପଦ୍ଧତିର ବ୍ୟବହାର କରିଥିଲେ। ତାଙ୍କ ଗବେଷଣା ଅନୁଯାୟୀ ଶିଶୁମାନଙ୍କଠାରେ ପିଆଜେଙ୍କ ଆକଳନଠାରୁ ବହୁ ପୂର୍ବରୁ କେଉଁ ଜ୍ଞାନାତ୍ମକ ଦକ୍ଷତା ବିକଶିତ ହୋଇଥାଏ?",
+          "options": [
+            "ବିଳମ୍ବିତ ଅନୁକରଣ (Deferred imitation)",
+            "ବସ୍ତୁ ସ୍ଥାୟିତ୍ୱ (Object permanence)",
+            "କଳ୍ପନା-ନିଗମନାତ୍ମକ ତର୍କ (Hypothetico-deductive reasoning)",
+            "ଆୟତନର ସଂରକ୍ଷଣ (Conservation of volume)"
+          ],
+          "explanation": "ରେନେ ବାଏଆର୍ଜନ୍ 'ପ୍ରତ୍ୟାଶା-ଉଲ୍ଲଂଘନ' ପଦ୍ଧତି ବ୍ୟବହାର କରି ଦର୍ଶାଇଥିଲେ ଯେ ୩.୫ ରୁ ୪.୫ ମାସର ଶିଶୁମାନଙ୍କଠାରେ ମଧ୍ୟ 'ବସ୍ତୁ ସ୍ଥାୟିତ୍ୱ' (object permanence) ର ସଚେତନତା ଥାଏ, ଯାହା ପିଆଜେଙ୍କ ଆକଳିତ ସମୟ (୮ ରୁ ୧୨ ମାସ) ଠାରୁ ଯଥେଷ୍ଟ ପୂର୍ବରୁ ଅଟେ।"
         }
       }
     }

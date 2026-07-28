@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -5444,6 +5444,136 @@
       ],
       "answer": 2,
       "explanation": "On the TReDS platform, only MSMEs can act as Sellers; Corporates, PSUs, and Government Departments act as Buyers; and Banks, NBFC-Factors, and specified financial institutions act as Financiers. Individual retail investors are not permitted to operate as financiers on TReDS.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785210381083-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B started a business by investing Rs. 20,000 and Rs. 30,000 respectively. A is a working partner and receives 15% of the total profit for managing the business, while the remaining profit is divided between them in the ratio of their investments. If the total profit earned at the end of a year is Rs. 12,000, what is the total share of profit received by A?",
+      "options": [
+        "Rs. 5,880",
+        "Rs. 6,120",
+        "Rs. 5,400",
+        "Rs. 4,080"
+      ],
+      "answer": 0,
+      "explanation": "Total profit = Rs. 12,000. Management fee for A = 15% of 12,000 = Rs. 1,800. Remaining profit = 12,000 - 1,800 = Rs. 10,200. Ratio of investments A : B = 20,000 : 30,000 = 2 : 3. A's share from the remaining profit = (2 / 5) * 10,200 = Rs. 4,080. Total share of A = 1,800 + 4,080 = Rs. 5,880."
+    },
+    {
+      "id": "ibps-po-ai-1785210381083-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A train running at a uniform speed passes two persons walking in the same direction as the train at speeds of 3 km/h and 6 km/h in 9 seconds and 10 seconds respectively. What is the length of the train?",
+      "options": [
+        "60 meters",
+        "75 meters",
+        "80 meters",
+        "90 meters"
+      ],
+      "answer": 1,
+      "explanation": "Let the speed of the train be S km/h and its length be L meters. Relative speed with respect to person 1 = (S - 3) km/h = (S - 3) * (5/18) m/s. Length L = (S - 3) * (5/18) * 9 = (S - 3) * (5/2). Relative speed with respect to person 2 = (S - 6) km/h = (S - 6) * (5/18) m/s. Length L = (S - 6) * (5/18) * 10 = (S - 6) * (25/9). Equating both expressions for L: (S - 3) * (5/2) = (S - 6) * (25/9) => 9 * (S - 3) = 10 * (S - 6) => 9S - 27 = 10S - 60 => S = 33 km/h. Now, substituting S = 33 into L: L = (33 - 3) * (5/18) * 9 = 30 * (5/2) = 75 meters."
+    },
+    {
+      "id": "ibps-po-ai-1785210411401-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nSymbols defined:\n'P @ Q' means 'P is not smaller than Q'\n'P # Q' means 'P is neither greater than nor equal to Q'\n'P % Q' means 'P is neither smaller than nor greater than Q'\n'P $ Q' means 'P is not greater than Q'\n'P * Q' means 'P is neither smaller than nor equal to Q'\n\nStatements:\nA @ B, B * C, C % D, D $ E\n\nConclusions:\nI. A * D\nII. E @ C",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Decoding the symbols:\n@ means '>=', # means '<', % means '=', $ means '<=', * means '>'.\n\nGiven Statements:\nA >= B > C = D <= E\n\nConclusion I: A * D => A > D.\nFrom the chain: A >= B > C = D, we get A > D. (True)\n\nConclusion II: E @ C => E >= C.\nFrom the chain: C = D <= E, we get E >= C. (True)\n\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-po-ai-1785210411401-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Six persons — A, B, C, D, E, and F — live on six different floors of a 6-storey building where the ground floor is numbered 1 and the topmost floor is numbered 6.\n\n- B lives on an even-numbered floor above E.\n- Only two persons live between B and E.\n- A lives on the floor immediately above E.\n- C lives on an odd-numbered floor below A.\n- D lives on a floor above F, who does not live on floor 1.\n\nWho among the following lives on floor 5?",
+      "options": [
+        "D",
+        "F",
+        "A",
+        "C"
+      ],
+      "answer": 0,
+      "explanation": "Let's determine the floor positions from 1 to 6:\n1. B is on an even floor (2, 4, or 6) above E, with 2 floors between B and E.\n- If B = 6, then E = 3.\n- If B = 4, then E = 1, making A = 2. But then C must be on an odd floor below A (floor 1), which is already occupied by E. Thus, B cannot be 4.\n- If B = 2, E would be below floor 1, which is impossible.\nHence, B = Floor 6 and E = Floor 3.\n\n2. A lives immediately above E -> A = Floor 4.\n3. C lives on an odd floor below A (Floor 4). Odd floors below 4 are 3 and 1. Floor 3 is occupied by E, so C = Floor 1.\n4. Floors left: Floor 5 and Floor 2. D lives above F, and F is not on floor 1 -> D = Floor 5, F = Floor 2.\n\nFinal floor arrangement:\nFloor 6: B\nFloor 5: D\nFloor 4: A\nFloor 3: E\nFloor 2: F\nFloor 1: C\n\nTherefore, D lives on floor 5."
+    },
+    {
+      "id": "ibps-po-ai-1785210429021-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence given below, four parts are marked as A, B, C, and D. Read the sentence to find out whether there is any grammatical error in it. Select the part containing the error as your answer:\n\nHardly had the flight taken off (A) / than the pilot noticed a technical snag (B) / in the navigation system and decided (C) / to make an emergency landing. (D)",
+      "options": [
+        "Part (A)",
+        "Part (B)",
+        "Part (C)",
+        "Part (D)"
+      ],
+      "answer": 1,
+      "explanation": "The conjunction 'Hardly' is always paired with 'when' or 'before', not 'than' ('No sooner' is followed by 'than'). Therefore, 'than' in Part (B) must be replaced with 'when'."
+    },
+    {
+      "id": "ibps-po-ai-1785210429021-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The following five segments (P, Q, R, S, T) form a coherent sentence when arranged in the correct order. Select the option that represents the correct sequence:\n\nP: to navigate the increasingly volatile global market,\nQ: continuous innovation and adaptivity\nR: For modern financial institutions seeking\nS: have become indispensable prerequisites\nT: while maintaining customer trust and regulatory compliance.",
+      "options": [
+        "R-P-Q-S-T",
+        "Q-S-R-P-T",
+        "P-R-Q-S-T",
+        "R-Q-P-S-T"
+      ],
+      "answer": 0,
+      "explanation": "The logically and grammatically coherent sentence is formed by starting with the introductory prepositional phrase 'For modern financial institutions seeking' (R), followed by the infinitive clause 'to navigate the increasingly volatile global market,' (P). This is followed by the main subject 'continuous innovation and adaptivity' (Q), the main verb phrase 'have become indispensable prerequisites' (S), and the concluding clause 'while maintaining customer trust and regulatory compliance.' (T). Hence, the correct order is R-P-Q-S-T."
+    },
+    {
+      "id": "ibps-po-ai-1785210436591-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India's guidelines on Money Market Instruments, what is the minimum denomination in which a Certificate of Deposit (CD) can be issued?",
+      "options": [
+        "₹1 lakh",
+        "₹5 lakh",
+        "₹10 lakh",
+        "₹25 lakh"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI Master Direction on Money Market Instruments, Certificates of Deposit (CDs) must be issued in minimum denominations of ₹5 lakh and in multiples of ₹5 lakh thereafter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785210436591-1",
+      "section": "General Awareness",
+      "topic": "Financial Awareness",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme administered by the Reserve Bank of India, what is the maximum permissible annual limit of subscription per fiscal year for Trusts and similar entities?",
+      "options": [
+        "4 kg",
+        "8 kg",
+        "10 kg",
+        "20 kg"
+      ],
+      "answer": 3,
+      "explanation": "Under the Sovereign Gold Bond (SGB) scheme guidelines issued by the RBI, the maximum limit of gold subscription per fiscal year (April–March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for Trusts and similar entities notified by the Government.",
       "status": "pending"
     }
   ]

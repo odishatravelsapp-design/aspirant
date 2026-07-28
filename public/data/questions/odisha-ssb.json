@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -8162,6 +8162,234 @@
             "ବିଜୁ ପଟ୍ଟନାୟକ"
           ],
           "explanation": "୧୯୩୭ ମସିହାରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀ ଦ୍ୱାରା 'ଓଡ଼ିଶା ଷ୍ଟେଟ୍ସ ଏନ୍‌କ୍ୱାୟରୀ କମିଟି' ଗଠନ କରାଯାଇଥିଲା। ହରେକୃଷ୍ଣ ମହତାବ ଏହାର ଅଧ୍ୟକ୍ଷ ଥିବାବେଳେ ସାରଙ୍ଗଧର ଦାସ ସମ୍ପାଦକ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210521914-0",
+      "section": "Subject Knowledge",
+      "topic": "Jacobean Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In John Webster's revenge tragedy 'The Duchess of Malfi', who is the corrupt Cardinal's mistress whom he murders using a poisoned Bible?",
+      "options": [
+        "Cariola",
+        "Julia",
+        "Castruchio",
+        "Duchess"
+      ],
+      "answer": 1,
+      "explanation": "Julia is the wife of Castruchio and mistress of the Cardinal. In Act V, after forcing the Cardinal to reveal his secret involvement in the murder of the Duchess and her children, the Cardinal forces Julia to swear secrecy by kissing a poisoned Bible, which instantly kills her.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ୱେବଷ୍ଟରଙ୍କ ପ୍ରତିଶୋଧମୂଳକ ନାଟକ 'ଦ ଡଚେସ୍ ଅଫ୍ ମାଲଫି' (The Duchess of Malfi) ରେ, ଭ୍ରଷ୍ଟ କାର୍ଡିନାଲଙ୍କ ପ୍ରେମିକା କିଏ, ଯାହାଙ୍କୁ ସେ ଏକ ବିଷାକ୍ତ ବାଇବଲ୍ ଦ୍ୱାରା ହତ୍ୟା କରନ୍ତି?",
+          "options": [
+            "କାରିଓଲା (Cariola)",
+            "ଜୁଲିଆ (Julia)",
+            "କାଷ୍ଟ୍ରୁଚିଓ (Castruchio)",
+            "ଡଚେସ୍ (Duchess)"
+          ],
+          "explanation": "ଜୁଲିଆ ହେଉଛନ୍ତି କାଷ୍ଟ୍ରୁଚିଓଙ୍କ ପତ୍ନୀ ଏବଂ କାର୍ଡିନାଲଙ୍କ ପ୍ରେମିକା। ନାଟକର ପଞ୍ଚମ ଅଙ୍କରେ, କାର୍ଡିନାଲ ଡଚେସଙ୍କ ହତ୍ୟାର ଗୁପ୍ତ କଥା ପ୍ରକାଶ କରିବା ପରେ, ଜୁଲିଆଙ୍କୁ ଏକ ବିଷାକ୍ତ ବାଇବଲ ଚୁମ୍ବନ କରାଇ ହତ୍ୟା କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210521914-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism & Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In his work 'Problems of Dostoevsky's Poetics' (1929), Mikhail Bakhtin introduced which concept to describe novels that contain a plurality of independent and unmerged voices and consciousnesses?",
+      "options": [
+        "Heteroglossia",
+        "Polyphony",
+        "Dialogism",
+        "Carnivalesque"
+      ],
+      "answer": 1,
+      "explanation": "Bakhtin introduced the concept of 'Polyphony' (polyphonic novel) specifically in 'Problems of Dostoevsky's Poetics' to contrast Dostoevsky's works with traditional monologic novels. A polyphonic novel features multiple autonomous voices, each with equal authority, rather than being subordinate to a single authorial voice.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମିଖାଇଲ୍ ବାଖତିନ୍ ତାଙ୍କର ଗ୍ରନ୍ଥ 'ପ୍ରବ୍ଲେମ୍ସ ଅଫ୍ ଦୋସ୍ତୋଏଭସ୍କିସ୍ ପୋଏଟିକ୍ସ' (1929) ରେ, ସ୍ୱାଧୀନ ଏବଂ ଅସଂଯୁକ୍ତ ସ୍ୱର ଓ ଚେତନାର ବହୁଳତା ଥିବା ଉପନ୍ୟାସଗୁଡ଼ିକୁ ବର୍ଣ୍ଣନା କରିବା ପାଇଁ କେଉଁ ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଥିଲେ?",
+          "options": [
+            "ହେଟେରୋଗ୍ଲୋସିଆ (Heteroglossia)",
+            "ପଲିଫୋନି (Polyphony)",
+            "ଡାୟାଲୋଜିଜମ୍ (Dialogism)",
+            "କାର୍ନିଭାଲେସ୍କ (Carnivalesque)"
+          ],
+          "explanation": "ବାଖତିନ୍ ଦୋସ୍ତୋଏଭସ୍କିଙ୍କ ଉପନ୍ୟାସଗୁଡ଼ିକୁ ବର୍ଣ୍ଣନା କରିବା ପାଇଁ 'ପଲିଫୋନି' (Polyphony/ବହୁସ୍ୱରତା) ଶବ୍ଦଟିର ବ୍ୟବହାର କରିଥିଲେ, ଯେଉଁଥିରେ ପ୍ରତ୍ୟେକ ଚରିତ୍ରର ନିଜସ୍ୱ ସ୍ୱାଧୀନ ସ୍ୱର ଏବଂ ଦୃଷ୍ଟିକୋଣ ଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210535261-0",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the revised Bloom's Taxonomy of cognitive domain proposed by Anderson and Krathwohl (2001), which level was placed at the highest position, replacing 'Evaluation' from the original 1956 taxonomy?",
+      "options": [
+        "Analyzing",
+        "Evaluating",
+        "Creating",
+        "Applying"
+      ],
+      "answer": 2,
+      "explanation": "In Lorin Anderson and David Krathwohl's 2001 revised version of Bloom's Taxonomy, the highest level of the cognitive domain is 'Creating' (putting elements together to form a coherent whole), while 'Evaluating' was moved down to the fifth level.",
+      "translations": {
+        "or": {
+          "question": "ଆଣ୍ଡରସନ୍ ଏବଂ କ୍ରାଥୱୋଲ (୨୦୦୧) ଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତାବିତ ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ବର୍ଗୀକରଣରେ, ୧୯୫୬ ର ମୂଳ ବର୍ଗୀକରଣର ସର୍ବୋଚ୍ଚ ସ୍ତର 'ମୂଲ୍ୟାଙ୍କନ (Evaluation)' ସ୍ଥାନରେ କେଉଁ ସ୍ତରକୁ ସର୍ବୋଚ୍ଚ ସ୍ଥାନ ଦିଆଯାଇଛି?",
+          "options": [
+            "ବିଶ୍ଳେଷଣ କରିବା (Analyzing)",
+            "ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluating)",
+            "ସୃଜନ/ସୃଷ୍ଟି କରିବା (Creating)",
+            "ପ୍ରୟୋଗ କରିବା (Applying)"
+          ],
+          "explanation": "ଲୋରିନ୍ ଆଣ୍ଡରସନ୍ ଏବଂ ଡେଭିଡ୍ କ୍ରାଥୱୋଲଙ୍କ ୨୦୦୧ ସଂଶୋଧିତ ବର୍ଗୀକରଣରେ, ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର ସର୍ବୋଚ୍ଚ ସ୍ତର ହେଉଛି 'ସୃଜନ/ସୃଷ୍ଟି କରିବା (Creating)', ଯେଉଁଠାରେ 'ମୂଲ୍ୟାଙ୍କନ (Evaluating)' କୁ ପଞ୍ଚମ ସ୍ତରକୁ ନିଆଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210535261-1",
+      "section": "Teaching Aptitude",
+      "topic": "Experimental Research in Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In experimental educational research, which threat to internal validity occurs when subjects selected on the basis of extreme pretest scores naturally score closer to the group mean on a posttest, independent of any intervention?",
+      "options": [
+        "History threat",
+        "Maturation threat",
+        "Statistical regression threat",
+        "Testing threat"
+      ],
+      "answer": 2,
+      "explanation": "Statistical regression (or regression to the mean) is a threat to internal validity that occurs when participants selected on the basis of extremely high or low pretest scores score closer to the average on subsequent testing due to random error rather than the experimental treatment.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଗତ ପରୀକ୍ଷାମୂଳକ ଗବେଷଣାରେ, ଆଭ୍ୟନ୍ତରୀଣ ବୈଧତା (Internal Validity) ପ୍ରତି କେଉଁ ବିପଦଟି ସେତେବେଳେ ସୃଷ୍ଟି ହୁଏ ଯେତେବେଳେ ପ୍ରାକ୍-ପରୀକ୍ଷଣର ଚରମ (ଅତ୍ୟଧିକ କମ୍ କିମ୍ବା ବେଶୀ) ପ୍ରାପ୍ତାଙ୍କଗୁଡ଼ିକ କୌଣସି ଉପଚାର ବିନା ମଧ୍ୟ ପରବର୍ତ୍ତୀ ପରୀକ୍ଷଣରେ ସ୍ୱାଭାବିକ ଭାବେ ହାରାହାରି/ମାଧ୍ୟମାନ (Mean) ର ନିକଟତର ହୋଇଥାନ୍ତି?",
+          "options": [
+            "ଇତିହାସ ବିପଦ (History threat)",
+            "ପରିପକ୍ୱତା ବିପଦ (Maturation threat)",
+            "ସାଂଖ୍ୟିକୀୟ ପ୍ରତ୍ୟାଗମନ ବିପଦ (Statistical regression threat)",
+            "ପରୀକ୍ଷଣ ବିପଦ (Testing threat)"
+          ],
+          "explanation": "ସାଂଖ୍ୟିକୀୟ ପ୍ରତ୍ୟାଗମନ (Statistical Regression) ଆଭ୍ୟନ୍ତରୀଣ ବୈଧତା ପ୍ରତି ଏକ ବିପଦ ଅଟେ, ଯାହା ଅତ୍ୟଧିକ ଚରମ ପ୍ରାପ୍ତାଙ୍କ ରଖିଥିବା ପରୀକ୍ଷାର୍ଥୀମାନଙ୍କୁ ପୁନଃପରୀକ୍ଷଣ କଲେ ସେମାନଙ୍କ ନମ୍ବର ସ୍ୱାଭାବିକ ଭାବେ ହାରାହାରି ମାନର ନିକଟତର ହେବାର ପ୍ରବୃତ୍ତିକୁ ସୂଚାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210549360-0",
+      "section": "General Studies",
+      "topic": "Odisha Modern History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who served as the first Prime Minister (Chief Minister) of the Orissa Province after it was formed as a separate province in 1936?",
+      "options": [
+        "Krushna Chandra Gajapati",
+        "Harekrushna Mahatab",
+        "Biswanath Das",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 0,
+      "explanation": "Maharaja Krushna Chandra Gajapati Narayan Deo of Paralakhemundi took oath as the first Prime Minister (as the head of government was then designated) of the Orissa Province on April 1, 1937.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହାରେ ଓଡ଼ିଶା ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଭାବରେ ଗଠିତ ହେବା ପରେ, ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ମୁଖ୍ୟମନ୍ତ୍ରୀ) ଭାବରେ କିଏ କାର୍ଯ୍ୟ କରିଥିଲେ?",
+          "options": [
+            "କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "୧୯୩୭ ମସିହା ଅପ୍ରେଲ ୧ ରେ, ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ନାରାୟଣ ଦେବ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ତତ୍କାଳୀନ ସରକାରୀ ମୁଖ୍ୟ) ଭାବରେ ଶପଥ ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210549360-1",
+      "section": "General Studies",
+      "topic": "Odisha Geography and Environment",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the Similipal Biosphere Reserve officially included in the UNESCO World Network of Biosphere Reserves?",
+      "options": [
+        "2001",
+        "2009",
+        "2014",
+        "2018"
+      ],
+      "answer": 1,
+      "explanation": "Similipal Biosphere Reserve was added to the UNESCO World Network of Biosphere Reserves in May 2009.",
+      "translations": {
+        "or": {
+          "question": "ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ (Similipal Biosphere Reserve) କେଉଁ ବର୍ଷ ୟୁନେସ୍କୋ (UNESCO) ର ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ନେଟୱାର୍କରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇଥିଲା?",
+          "options": [
+            "୨୦୦୧",
+            "୨୦୦୯",
+            "୨୦୧୪",
+            "୨୦୧୮"
+          ],
+          "explanation": "୨୦୦୯ ମସିହା ମେ ମାସରେ ୟୁନେସ୍କୋ (UNESCO) ଦ୍ୱାରା ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳକୁ ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ନେଟୱାର୍କରେ ସାମିଲ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210562648-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "On which river is the Rengali Dam constructed in Odisha?",
+      "options": [
+        "Mahanadi",
+        "Brahmani",
+        "Baitarani",
+        "Subarnarekha"
+      ],
+      "answer": 1,
+      "explanation": "The Rengali Dam is built across the Brahmani River in the Angul district of Odisha. Constructed in 1985, it serves key functions in flood control and hydroelectric power generation.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ନଦୀ ଉପରେ ରେଙ୍ଗାଲି ବାନ୍ଧ ନିର୍ମିତ ହୋଇଛି?",
+          "options": [
+            "ମହାନଦୀ",
+            "ବ୍ରାହ୍ମଣୀ",
+            "ବୈତରଣୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ରେଙ୍ଗାଲି ବାନ୍ଧ ଓଡ଼ିଶାର ଅନୁଗୋଳ ଜିଲ୍ଲାରେ ବ୍ରାହ୍ମଣୀ ନଦୀ ଉପରେ ନିର୍ମିତ। ୧୯୮୫ ମସିହାରେ ନିର୍ମିତ ଏହି ବାନ୍ଧ ମୁଖ୍ୟତଃ ବନ୍ୟା ନିୟନ୍ତ୍ରଣ ଏବଂ ଜଳବିଦ୍ୟୁତ୍ ଉତ୍ପାଦନ ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785210562648-1",
+      "section": "Odisha GK",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Major Rock Edict of Emperor Ashoka specifically describes the Kalinga War and his profound remorse over the suffering it caused?",
+      "options": [
+        "Major Rock Edict X",
+        "Major Rock Edict XI",
+        "Major Rock Edict XII",
+        "Major Rock Edict XIII"
+      ],
+      "answer": 3,
+      "explanation": "Major Rock Edict XIII provides a detailed description of Ashoka's conquest of Kalinga (261 BC) and expresses his intense sorrow for the loss of human life, which led him to abandon military conquest in favor of Dhamma-vijaya.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସମ୍ରାଟ ଅଶୋକଙ୍କ କେଉଁ ମୁଖ୍ୟ ଶିଳାଲେଖରେ କଳିଙ୍ଗ ଯୁଦ୍ଧ ଏବଂ ଏହା ଦ୍ୱାରା ହୋଇଥିବା କ୍ଷତି ପାଇଁ ତାଙ୍କର ଗଭୀର ଅନୁଶୋଚନା ବର୍ଣ୍ଣିତ ହୋଇଛି?",
+          "options": [
+            "ମୁଖ୍ୟ ଶିଳାଲେଖ X",
+            "ମୁଖ୍ୟ ଶିଳାଲେଖ XI",
+            "ମୁଖ୍ୟ ଶିଳାଲେଖ XII",
+            "ମୁଖ୍ୟ ଶିଳାଲେଖ XIII"
+          ],
+          "explanation": "ମୁଖ୍ୟ ଶିଳାଲେଖ XIII ରେ ଅଶୋକଙ୍କ କଳିଙ୍ଗ ବିଜୟ (ଖ୍ରୀଷ୍ଟପୂର୍ବ ୨୬୧) ଏବଂ ଯୁଦ୍ଧଜନିତ ଧନଜୀବନ କ୍ଷତି ପାଇଁ ତାଙ୍କର ଗଭୀର ପଶ୍ଚାତ୍ତାପର ବିସ୍ତୃତ ବିବରଣୀ ରହିଛି, ଯାହା ତାଙ୍କୁ ଧର୍ମବିଜୟ ପଥ ଆପଣେଇବାକୁ ପ୍ରେରିତ କରିଥିଲା।"
         }
       }
     }

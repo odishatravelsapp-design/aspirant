@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -5486,6 +5486,136 @@
       ],
       "answer": 1,
       "explanation": "Section 35A of the Banking Regulation Act, 1949 empowers the RBI to give directions to banking companies in the interest of the public, banking policy, or depositors.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785210304734-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average weight of a group of 8 people increases by 2.5 kg when a person weighing 50 kg is replaced by a new person. What is the weight of the new person?",
+      "options": [
+        "65 kg",
+        "70 kg",
+        "75 kg",
+        "80 kg"
+      ],
+      "answer": 1,
+      "explanation": "Total increase in the weight of 8 people = 8 × 2.5 = 20 kg. Since the new person replaces the person weighing 50 kg, the weight of the new person = 50 + 20 = 70 kg."
+    },
+    {
+      "id": "sbi-clerk-ai-1785210304734-1",
+      "section": "Quant",
+      "topic": "Speed, Distance & Time",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two points P and Q are 120 km apart. A car starts from P towards Q at a speed of 40 km/h. At the same time, a motorcycle starts from Q towards P at a speed of 30 km/h. A bird starts flying from P towards Q at the same time at a speed of 60 km/h. As soon as the bird reaches the motorcycle, it turns back and flies towards the car, continuing this back-and-forth movement until the car and motorcycle meet. What is the total distance traveled by the bird?",
+      "options": [
+        "96 (4/7) km",
+        "102 (6/7) km",
+        "105 (1/7) km",
+        "108 (3/7) km"
+      ],
+      "answer": 1,
+      "explanation": "The relative speed of the car and motorcycle coming towards each other is 40 + 30 = 70 km/h. The time taken for them to meet = Distance / Relative Speed = 120 / 70 = 12/7 hours. Since the bird flies continuously at a speed of 60 km/h for this entire duration, total distance traveled by the bird = Speed × Time = 60 × (12/7) = 720/7 = 102 (6/7) km."
+    },
+    {
+      "id": "sbi-clerk-ai-1785210343876-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nOnly a few Books are Pens.\nAll Pens are Erasers.\nNo Eraser is a Pencil.\n\nConclusions:\nI. Some Books are not Pens.\nII. All Pens being Pencils is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few Books are Pens' means both 'Some Books are Pens' and 'Some Books are not Pens' are definitely true. Therefore, Conclusion I ('Some Books are not Pens') logically follows.\n2. Since 'All Pens are Erasers' and 'No Eraser is a Pencil', no Pen can ever be a Pencil. Thus, Conclusion II ('All Pens being Pencils is a possibility') does not follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1785210343876-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons—P, Q, R, S, T, U, V, and W—are sitting in two parallel rows containing four persons each in such a way that there is equal distance between adjacent persons.\nIn Row 1: P, Q, R, and S are seated and all of them are facing South.\nIn Row 2: T, U, V, and W are seated and all of them are facing North.\nTherefore, each member seated in a row faces another member of the other row.\n\n- S sits at an extreme end of Row 1.\n- W faces S.\n- P sits second to the left of S.\n- Q sits between S and P.\n- T sits to the immediate right of W.\n- The person who faces P sits to the immediate left of V.\n\nWho among the following faces Q?",
+      "options": [
+        "T",
+        "U",
+        "V",
+        "W"
+      ],
+      "answer": 0,
+      "explanation": "Row 1 (Facing South, Left is towards East/Right on paper): \nS sits at the extreme right end (position 1 from West) because P sits 2nd to the left of S. So S is at Pos 1, Q is at Pos 2, P is at Pos 3, and R is at Pos 4.\n\nRow 2 (Facing North, Right is towards East/Right on paper):\nW faces S, so W is at Pos 1. \nT sits immediate right of W, so T is at Pos 2. \nThe person facing P (at Pos 3) is immediate left of V, placing V at Pos 4 and U at Pos 3.\n\nThus, Row 1 (West to East): S, Q, P, R\nRow 2 (West to East): W, T, U, V\n\nQ is at Pos 2 in Row 1 and faces T at Pos 2 in Row 2."
+    },
+    {
+      "id": "sbi-clerk-ai-1785210353037-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence given below, four parts are marked as (A), (B), (C), and (D). Read the sentence to find out whether there is any grammatical error in it. Identify the part that contains the error.\n\nNeither the senior researchers (A) / nor the project head were present (B) / at the international symposium (C) / held in Geneva last week. (D)",
+      "options": [
+        "Neither the senior researchers",
+        "nor the project head were present",
+        "at the international symposium",
+        "held in Geneva last week"
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb agrees with the subject nearest to it. Here, 'the project head' is singular, so the verb should be 'was' instead of 'were'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785210353037-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that best fits in the blanks to complete the sentence in a contextually meaningful and grammatically correct manner.\n\nThe manager's ________ financial strategy allowed the startup to survive the severe economic downturn, whereas its competitors suffered ________ losses.",
+      "options": [
+        "prudent, catastrophic",
+        "rash, severe",
+        "negligent, profound",
+        "wasteful, massive"
+      ],
+      "answer": 0,
+      "explanation": "'Prudent' means acting with care and foresight, which fits the context of surviving a downturn. 'Catastrophic' means disastrous, contrasting the startup's survival with the severe losses of its competitors."
+    },
+    {
+      "id": "sbi-clerk-ai-1785210364915-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which committee was constituted by the Reserve Bank of India in September 2013 that recommended the establishment of differentiated banks, specifically 'Payments Banks', in India?",
+      "options": [
+        "Bimal Jalan Committee",
+        "Nachiket Mor Committee",
+        "Usha Thorat Committee",
+        "S. S. Tarapore Committee"
+      ],
+      "answer": 1,
+      "explanation": "The Committee on Comprehensive Financial Services for Small Businesses and Low Income Households was set up by the RBI in September 2013 under the chairmanship of Nachiket Mor. The committee recommended the framework for setting up Payments Banks.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785210364915-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations & RBI Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which section of the Reserve Bank of India Act, 1934 empowers the Central Government to issue directions to the RBI in the public interest after consultation with the Governor of the Bank?",
+      "options": [
+        "Section 7",
+        "Section 17",
+        "Section 22",
+        "Section 42"
+      ],
+      "answer": 0,
+      "explanation": "Under Section 7(1) of the RBI Act, 1934, the Central Government may from time to time give such directions to the Reserve Bank of India as it considers necessary in the public interest, after consultation with the Governor of the Bank.",
       "status": "pending"
     }
   ]

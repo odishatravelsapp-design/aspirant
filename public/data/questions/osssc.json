@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -6244,6 +6244,234 @@
             "ଧର୍ମରଥ"
           ],
           "explanation": "ଭୁବନେଶ୍ୱରସ୍ଥିତ ମୁକ୍ତେଶ୍ୱର ମନ୍ଦିର ଦଶମ ଶତାବ୍ଦୀରେ ସୋମବଂଶୀ ରାଜା ପ୍ରଥମ ଯଯାତିଙ୍କ ଶାସନ କାଳରେ ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210455891-0",
+      "section": "Arithmetic",
+      "topic": "Percentage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "If 60% of a number is added to 120, then the result is equal to the number itself. What is the number?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "360"
+      ],
+      "answer": 2,
+      "explanation": "Let the number be x. According to the question, 60% of x + 120 = x => 0.60x + 120 = x => x - 0.60x = 120 => 0.40x = 120 => x = 120 / 0.40 = 300.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଗୋଟିଏ ସଂଖ୍ୟାର 60% ସହିତ 120 ଯୋଗ କରାଯାଏ, ତେବେ ଫଳାଫଳ ସେହି ସଂଖ୍ୟା ସହିତ ସମାନ ହୁଏ । ସଂଖ୍ୟାଟି କେତେ?",
+          "options": [
+            "200",
+            "250",
+            "300",
+            "360"
+          ],
+          "explanation": "ମନେକର ସଂଖ୍ୟାଟି x । ପ୍ରଶ୍ନାନୁସାରେ, 0.60x + 120 = x => 0.40x = 120 => x = 120 / 0.40 = 300 ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210455891-1",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A can complete a piece of work alone in 20 days, while B can complete the same work in 30 days. They start working together, but A leaves 5 days before the work is completed. What is the total number of days taken to complete the work?",
+      "options": [
+        "12 days",
+        "14 days",
+        "15 days",
+        "18 days"
+      ],
+      "answer": 2,
+      "explanation": "Total work = LCM(20, 30) = 60 units. Efficiency of A = 60/20 = 3 units/day, Efficiency of B = 60/30 = 2 units/day. Let total time taken be T days. A worked for (T - 5) days and B worked for T days. Total work: 3(T - 5) + 2(T) = 60 => 5T - 15 = 60 => 5T = 75 => T = 15 days.",
+      "translations": {
+        "or": {
+          "question": "A ଏକାକୀ ଗୋଟିଏ କାର୍ଯ୍ୟକୁ 20 ଦିନରେ ଶେଷ କରିପାରେ, ଯେଉଁଠାରେ B ସେହି କାର୍ଯ୍ୟକୁ 30 ଦିନରେ ଶେଷ କରିପାରେ । ସେମାନେ ଏକାଠି କାର୍ଯ୍ୟ ଆରମ୍ଭ କରନ୍ତି, କିନ୍ତୁ କାର୍ଯ୍ୟ ଶେଷ ହେବାର 5 ଦିନ ପୂର୍ବରୁ A କାର୍ଯ୍ୟ ଛାଡିଦିଏ । କାର୍ଯ୍ୟଟି ଶେଷ ହେବା ପାଇଁ ସମୁଦାୟ କେତେ ଦିନ ସମୟ ଲାଗିଲା?",
+          "options": [
+            "12 ଦିନ",
+            "14 ଦିନ",
+            "15 ଦିନ",
+            "18 ଦିନ"
+          ],
+          "explanation": "ମୋଟ କାର୍ଯ୍ୟ = LCM(20, 30) = 60 ୟୁନିଟ୍ । A ର ଦକ୍ଷତା = 3 ୟୁନିଟ୍/ଦିନ, B ର ଦକ୍ଷତା = 2 ୟୁନିଟ୍/ଦିନ । ମନେକର ମୋଟ ସମୟ T ଦିନ । 3(T - 5) + 2T = 60 => 5T - 15 = 60 => 5T = 75 => T = 15 ଦିନ ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210485181-0",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A person starts walking from point A and moves 12 meters towards North. He then turns right and walks 5 meters. Finally, he turns right again and walks 24 meters to reach point B. What is the shortest distance between point A and point B?",
+      "options": [
+        "13 meters",
+        "17 meters",
+        "25 meters",
+        "15 meters"
+      ],
+      "answer": 0,
+      "explanation": "Starting at Point A (0,0):\n1. Moves 12 m North to (0, 12).\n2. Turns right (East) and walks 5 m to (5, 12).\n3. Turns right (South) and walks 24 m to (5, 12 - 24) = (5, -12).\nShortest distance between A(0,0) and B(5,-12) = √(5² + (-12)²) = √(25 + 144) = √169 = 13 meters.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି A ବିନ୍ଦୁରୁ ଚାଲିବା ଆରମ୍ଭ କରି ଉତ୍ତର ଦିଗକୁ ୧୨ ମିଟର ଯାଆନ୍ତି। ତା’ପରେ ସେ ଡାହାଣକୁ ମୋଡ଼ ନେଇ ୫ ମିଟର ଚାଲନ୍ତି। ଶେଷରେ, ସେ ପୁଣି ଡାହାଣକୁ ମୋଡ଼ ନେଇ ୨୪ ମିଟର ଚାଲି B ବିନ୍ଦୁରେ ପହଞ୍ଚନ୍ତି। A ବିନ୍ଦୁ ଏବଂ B ବିନ୍ଦୁ ମଧ୍ୟରେ ସର୍ବନିମ୍ନ ଦୂରତା କେତେ?",
+          "options": [
+            "୧୩ ମିଟର",
+            "୧୭ ମିଟର",
+            "୨୫ ମିଟର",
+            "୧୫ ମିଟର"
+          ],
+          "explanation": "A ବିନ୍ଦୁ (0,0) ରୁ ଆରମ୍ଭ କରି:\n୧. ଉତ୍ତର ଦିଗରେ ୧୨ ମିଟର -> (0, 12)\n୨. ଡାହାଣକୁ (ପୂର୍ବ) ମୋଡ଼ ନେଇ ୫ ମିଟର -> (5, 12)\n୩. ଡାହାଣକୁ (ଦକ୍ଷିଣ) ମୋଡ଼ ନେଇ ୨୪ ମିଟର -> (5, -12)\nA(0,0) ଏବଂ B(5,-12) ମଧ୍ୟରେ ସର୍ବନିମ୍ନ ଦୂରତା = √(୫² + (-୧୨)²) = √(୨୫ + ୧୪୪) = √୧୬୯ = ୧୩ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210485181-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight friends - P, Q, R, S, T, U, V, and W - are sitting around a circular table facing towards the center.\n- P sits third to the left of U.\n- Only two people sit between U and Q.\n- R sits third to the left of P.\n- W is an immediate neighbor of neither U nor Q.\n- S sits third to the right of W.\n- V is not an immediate neighbor of P.\nWho sits second to the left of T?",
+      "options": [
+        "R",
+        "S",
+        "Q",
+        "V"
+      ],
+      "answer": 0,
+      "explanation": "Arranging around the circle facing center (clockwise = left, counter-clockwise = right):\n1. Fix U at position 1. P sits third to the left of U -> Position 4.\n2. Only two people between U and Q -> Q sits at Position 6.\n3. R sits third to the left of P -> Position 7.\n4. S sits third to the right of W, and W is not adjacent to U or Q -> W at Position 3 and S at Position 8.\n5. V is not adjacent to P -> V at Position 2 and T at Position 5.\nClockwise order: U(1), V(2), W(3), P(4), T(5), Q(6), R(7), S(8).\nSecond to the left of T (Position 5) is Position 7, which is R.",
+      "translations": {
+        "or": {
+          "question": "ଆଠ ଜଣ ସାଙ୍ଗ - P, Q, R, S, T, U, V, ଏବଂ W ଗୋଟିଏ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବସିଛନ୍ତି।\n- P, U ର ବାମ ପଟେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି।\n- U ଏବଂ Q ମଧ୍ୟରେ କେବଳ ଦୁଇ ଜଣ ବସିଛନ୍ତି।\n- R, P ର ବାମ ପଟେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି।\n- W, U କିମ୍ବା Q କାହାରି ନିକଟତମ ପଡୋଶୀ ନୁହଁନ୍ତି।\n- S, W ର ଡାହାଣ ପଟେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି।\n- V, P ର ନିକଟତମ ପଡୋଶୀ ନୁହଁନ୍ତି।\nT ର ବାମ ପଟେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "R",
+            "S",
+            "Q",
+            "V"
+          ],
+          "explanation": "କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବୃତ୍ତାକାର କ୍ରମ:\n୧. U କୁ ୧ ନମ୍ବର ସ୍ଥାନରେ ରଖିଲେ, P U ର ବାମରେ ୩ୟ ସ୍ଥାନରେ (୪ ନମ୍ବର) ବସିବେ।\n୨. U ଏବଂ Q ମଧ୍ୟରେ ୨ ଜଣ ଅଛନ୍ତି, ତେଣୁ Q ୬ ନମ୍ବର ସ୍ଥାନରେ ବସିବେ।\n୩. R, P ର ବାମରେ ୩ୟ ସ୍ଥାନରେ (୭ ନମ୍ବର) ବସିବେ।\n୪. W, U କିମ୍ବା Q ର ପଡୋଶୀ ନୁହଁନ୍ତି ଏବଂ S, W ର ଡାହାଣରେ ୩ୟ ସ୍ଥାନରେ ଅଛନ୍ତି: W = ୩ ନମ୍ବର, S = ୮ ନମ୍ବର।\n୫. V, P ର ପଡୋଶୀ ନୁହଁନ୍ତି: V = ୨ ନମ୍ବର, T = ୫ ନମ୍ବର।\nକ୍ରମ: U(1), V(2), W(3), P(4), T(5), Q(6), R(7), S(8)।\nT (୫ ନମ୍ବର) ର ବାମ ପଟେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ R (୭ ନମ୍ବର) ବସିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210498565-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous 'Duduma Waterfall', situated in the Koraput district of Odisha, is formed by which of the following rivers?",
+      "options": [
+        "Sileru",
+        "Machhkund",
+        "Vamsadhara",
+        "Nagavali"
+      ],
+      "answer": 1,
+      "explanation": "Duduma Waterfall is a major tourist site located on the border of Odisha and Andhra Pradesh in Koraput district. It is formed by the Machhkund River and has a height of about 157 meters.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ପ୍ରସିଦ୍ଧ 'ଦୁଦୁମା ଜଳପ୍ରପାତ' ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି?",
+          "options": [
+            "ସିଲେରୁ",
+            "ମାଛକୁଣ୍ଡ",
+            "ବଂଶଧାରା",
+            "ନାଗାବଳୀ"
+          ],
+          "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ କୋରାପୁଟ ଜିଲ୍ଲାରେ ଓଡ଼ିଶା ଏବଂ ଆନ୍ଧ୍ରପ୍ରଦେଶ ସୀମାରେ ଅବସ୍ଥିତ। ଏହା ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି ଏବଂ ଏହାର ଉଚ୍ଚତା ପ୍ରାୟ ୧୫୭ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210498565-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Treaty of Deogaon (1803), which Maratha ruler ceded the province of Cuttack (Odisha) to the British East India Company?",
+      "options": [
+        "Raghuji Bhonsle II",
+        "Daulat Rao Scindia",
+        "Baji Rao II",
+        "Mudhoji II Bhonsle"
+      ],
+      "answer": 0,
+      "explanation": "The Treaty of Deogaon was signed on 17 December 1803 between Raghuji Bhonsle II of Nagpur and the British East India Company following the Second Anglo-Maratha War. As a result, Cuttack and coastal Odisha came under British rule.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୦୩ ମସିହାର ଦେଓଗାଁ ସନ୍ଧି ଅନୁଯାୟୀ, କେଉଁ ମରାଠା ଶାସକ କଟକ (ଓଡ଼ିଶା) ପ୍ରଦେଶକୁ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀକୁ ହସ୍ତାନ୍ତର କରିଥିଲେ?",
+          "options": [
+            "ରଘୁଜୀ ଭୋଂସଲେ II",
+            "ଦୌଲତ ରାଓ ସିନ୍ଧିଆ",
+            "ବାଜିରାଓ II",
+            "ମୁଧୋଜୀ II ଭୋଂସଲେ"
+          ],
+          "explanation": "ଦ୍ୱିତୀୟ ଆଂଗ୍ଲୋ-ମରାଠା ଯୁଦ୍ଧ ସମୟରେ ୧୭ ଦିସେମ୍ବର ୧୮୦୩ ରେ ନାଗପୁରର ରଘୁଜୀ ଭୋଂସଲେ II ଏବଂ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ମଧ୍ୟରେ ଦେଓଗାଁ ସନ୍ଧି ସ୍ୱାକ୍ଷରିତ ହୋଇଥିଲା। ଏହାର ଫଳସ୍ୱରୂପ କଟକ ଏବଂ ଉପକୂଳ ଓଡ଼ିଶା ବ୍ରିଟିଶ ଶାସନାଧୀନ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210509604-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which is the highest mountain peak in the state of Odisha?",
+      "options": [
+        "Deomali",
+        "Mahendragiri",
+        "Malayagiri",
+        "Gandhamardan"
+      ],
+      "answer": 0,
+      "explanation": "Deomali, located in the Koraput district with an elevation of approximately 1,672 meters above sea level, is the highest mountain peak in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶା ରାଜ୍ୟର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ କେଉଁଟି?",
+          "options": [
+            "ଦେଓମାଳୀ",
+            "ମହେନ୍ଦ୍ରଗିରି",
+            "ମଳୟଗିରି",
+            "ଗନ୍ଧମାର୍ଦ୍ଦନ"
+          ],
+          "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଦେଓମାଳୀ (ସମୁଦ୍ର ପତ୍ତନରୁ ଉଚ୍ଚତା ପ୍ରାୟ ୧,୬୭୨ ମିଟର) ହେଉଛି ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785210509604-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History & Temple Architecture",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following built the famous Ananta Vasudeva Temple in Bhubaneswar during the 13th century?",
+      "options": [
+        "Chandrika Devi",
+        "Kasturi Devi",
+        "Karpura Devi",
+        "Queen Vasata"
+      ],
+      "answer": 0,
+      "explanation": "The Ananta Vasudeva Temple at Bhubaneswar was constructed in 1278 CE by Queen Chandrika Devi, the daughter of Eastern Ganga Emperor Anangabhima III.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀରେ ଭୁବନେଶ୍ୱରସ୍ଥିତ ପ୍ରସିଦ୍ଧ ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ନିର୍ମାଣ କରିଥିଲେ?",
+          "options": [
+            "ଚନ୍ଦ୍ରିକା ଦେବୀ",
+            "କସ୍ତୁରୀ ଦେବୀ",
+            "କର୍ପୂର ଦେବୀ",
+            "ରାଣୀ ବାସଟା"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରର ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର ୧୨୭୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ସମ୍ରାଟ ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବଙ୍କ କନ୍ୟା ଚନ୍ଦ୍ରିକା ଦେବୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା।"
         }
       }
     }
