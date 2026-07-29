@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -8647,6 +8647,234 @@
       ],
       "answer": 3,
       "explanation": "Carl Rogers identified three core conditions: Congruence (genuineness), Unconditional Positive Regard (acceptance), and Empathic Understanding. Directive/diagnostic interpretation is explicitly avoided in non-directive counselling."
+    },
+    {
+      "id": "odisha-ssb-ai-1785297095509-0",
+      "section": "Subject Knowledge",
+      "topic": "Elizabethan Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In William Shakespeare's play *Hamlet*, which character utters the famous line, \"Brevity is the soul of wit\"?",
+      "options": [
+        "Hamlet",
+        "Polonius",
+        "Claudius",
+        "Horatio"
+      ],
+      "answer": 1,
+      "explanation": "In Act II, Scene 2 of Shakespeare's 'Hamlet', Polonius utters the famous line 'Brevity is the soul of wit' while delivering a verbose and tedious speech to King Claudius and Queen Gertrude.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ସେକ୍ସପିୟରଙ୍କ ନାଟକ 'ହାମ୍ଲେଟ୍' (Hamlet) ରେ, \"Brevity is the soul of wit\" (ସଂକ୍ଷିପ୍ତତା ହିଁ ବୁଦ୍ଧିମତ୍ତାର ଆତ୍ମା) ଉକ୍ତିଟି କେଉଁ ଚରିତ୍ର କହିଛନ୍ତି?",
+          "options": [
+            "ହାମ୍ଲେଟ୍",
+            "ପୋଲୋନିୟସ୍",
+            "କ୍ଲୋଡିୟସ୍",
+            "ହୋରେସିଓ"
+          ],
+          "explanation": "ସେକ୍ସପିୟରଙ୍କ ନାଟକ 'ହାମ୍ଲେଟ୍'ର ଅଙ୍କ ୨, ଦୃଶ୍ୟ ୨ ରେ, ପୋଲୋନିୟସ୍ ରାଜା କ୍ଲୋଡିୟସ୍ ଓ ରାଣୀ ଗର୍ଟ୍ରୁଡ୍‌ଙ୍କ ସମ୍ମୁଖରେ ଏକ ଦୀର୍ଘ ଭାଷଣ ଦେବା ସମୟରେ 'Brevity is the soul of wit' ଉକ୍ତିଟି କହିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297095509-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In his typology of transtextuality in *Palimpsests* (1982), Gérard Genette defines which of the following concepts as the relationship uniting a text (hypertext) to an earlier text (hypotext) upon which it is grafted or transformed?",
+      "options": [
+        "Metatextuality",
+        "Architextuality",
+        "Hypertextuality",
+        "Intertextuality"
+      ],
+      "answer": 2,
+      "explanation": "According to Gérard Genette, hypertextuality refers to any relationship uniting a text B (which he calls the hypertext) to an earlier text A (the hypotext) upon which it is grafted, transformed, or adapted (such as James Joyce's 'Ulysses' in relation to Homer's 'Odyssey').",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେରାର୍ଡ ଜେନେଟ୍ (Gérard Genette) ତାଙ୍କର ପୁସ୍ତକ 'Palimpsests' (୧୯୮୨) ରେ ଟ୍ରାନ୍ସଟେକ୍ସଚୁଆଲିଟିର ବର୍ଗୀକରଣ କରିବା ସମୟରେ, ଏକ ପରବର୍ତ୍ତୀ ପାଠ୍ୟ (hypertext) ଏବଂ ଏକ ପୂର୍ବବର୍ତ୍ତୀ ପାଠ୍ୟ (hypotext) ମଧ୍ୟରେ ଥିବା ରୂପାନ୍ତରଣ କିମ୍ବା ଆଧାରିତ ସମ୍ପର୍କକୁ କେଉଁ ଧାରଣା ଦ୍ୱାରା ସଂଜ୍ଞାୟିତ କରିଛନ୍ତି?",
+          "options": [
+            "ମେଟାଟେକ୍ସଚୁଆଲିଟି (Metatextuality)",
+            "ଆର୍କିଟେକ୍ସଚୁଆଲିଟି (Architextuality)",
+            "ହାଇପରଟେକ୍ସଚୁଆଲିଟି (Hypertextuality)",
+            "ଇଣ୍ଟରଟେକ୍ସଚୁଆଲିଟି (Intertextuality)"
+          ],
+          "explanation": "ଜେରାର୍ଡ ଜେନେଟ୍‌ଙ୍କ ଅନୁଯାୟୀ, ହାଇପରଟେକ୍ସଚୁଆଲିଟି (Hypertextuality) ହେଉଛି ଏକ ପାଠ୍ୟ B (ଯାହାକୁ ସେ ହାଇପରଟେକ୍ସଟ୍ କହନ୍ତି) ର ଅନ୍ୟ ଏକ ପୂର୍ବବର୍ତ୍ତୀ ପାଠ୍ୟ A (ହାଇପୋଟେକ୍ସଟ୍) ସହିତ ସମ୍ପର୍କ, ଯାହା ଉପରେ ଏହା ରୂପାନ୍ତରିତ କିମ୍ବା ଆଧାରିତ ହୋଇଥାଏ (ଯେପରିକି ହୋମରଙ୍କ 'ଓଡିସି' ଉପରେ ଆଧାରିତ ଜେମ୍ସ ଜଏସଙ୍କ 'ୟୁଲିସିସ୍')।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297111275-0",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment and Evaluation",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which type of evaluation is primarily conducted during the ongoing teaching-learning process to provide continuous feedback to both teachers and students?",
+      "options": [
+        "Summative Evaluation",
+        "Formative Evaluation",
+        "Diagnostic Evaluation",
+        "Placement Evaluation"
+      ],
+      "answer": 1,
+      "explanation": "Formative evaluation is conducted during the instructional process to monitor student learning and provide ongoing feedback that can be used by instructors to improve their teaching and by students to improve their learning.",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ ମୁଖ୍ୟତଃ ଶିକ୍ଷଣ-ଶିକ୍ଷା ପ୍ରକ୍ରିୟା ଚାଲୁଥିବା ସମୟରେ ଶିକ୍ଷକ ଏବଂ ଛାତ୍ରଛାତ୍ରୀ ଦୁହିଁଙ୍କୁ ନିରନ୍ତର ପ୍ରତିପୋଷଣ (feedback) ଯୋଗାଇଦେବା ପାଇଁ କରାଯାଏ?",
+          "options": [
+            "ସମାପ୍ତିସୂଚକ ମୂଲ୍ୟାଙ୍କନ (Summative Evaluation)",
+            "ଗଠନମୂଳକ ମୂଲ୍ୟାଙ୍କନ (Formative Evaluation)",
+            "ନିଦାନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Diagnostic Evaluation)",
+            "ସ୍ଥାନନ ମୂଲ୍ୟାଙ୍କନ (Placement Evaluation)"
+          ],
+          "explanation": "ଗଠନମୂଳକ ମୂଲ୍ୟାଙ୍କନ (Formative Evaluation) ଶିକ୍ଷାଦାନ ସମୟରେ ନିରନ୍ତର କରାଯାଏ, ଯାହା ଦ୍ୱାରା ଶିକ୍ଷଣର ପ୍ରଗତି ଅନୁଧ୍ୟାନ କରାଯାଇପାରିବ ଏବଂ ଆବଶ୍ୟକୀୟ ସୁଧାର ଅଣାଯାଇପାରିବ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297111275-1",
+      "section": "Teaching Aptitude",
+      "topic": "Experiential Learning Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Kolb's Experiential Learning Theory, which stage immediately follows 'Concrete Experience' and involves observing and reflecting on that experience?",
+      "options": [
+        "Active Experimentation",
+        "Reflective Observation",
+        "Abstract Conceptualization",
+        "Concrete Generalization"
+      ],
+      "answer": 1,
+      "explanation": "David Kolb's Experiential Learning Cycle follows a four-stage process: Concrete Experience (CE) -> Reflective Observation (RO) -> Abstract Conceptualization (AC) -> Active Experimentation (AE). Thus, Reflective Observation immediately follows Concrete Experience.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କୋଲବଙ୍କ ଅଭିଜ୍ଞତାଭିତ୍ତିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ (Experiential Learning Theory) ଅନୁସାରେ, 'ବାସ୍ତବ ଅଭିଜ୍ଞତା' (Concrete Experience) ର ଠିକ୍ ପରବର୍ତ୍ତୀ ପର୍ଯ୍ୟାୟ କେଉଁଟି, ଯେଉଁଥିରେ ଅନୁଭୂତ ଘଟଣାର ଅନୁଧ୍ୟାନ ଓ ଚିନ୍ତନ କରାଯାଏ?",
+          "options": [
+            "ସକ୍ରିୟ ପରୀକ୍ଷଣ (Active Experimentation)",
+            "ପ୍ରତିଫଳିତ ଅନୁଧ୍ୟାନ (Reflective Observation)",
+            "ବିମୂର୍ତ୍ତ ଧାରଣାକରଣ (Abstract Conceptualization)",
+            "ବାସ୍ତବ ସାଧାରଣୀକରଣ (Concrete Generalization)"
+          ],
+          "explanation": "କୋଲବଙ୍କ ୪-ପର୍ଯ୍ୟାୟ ବିଶିଷ୍ଟ ଅଭିଜ୍ଞତାଭିତ୍ତିକ ଶିକ୍ଷଣ ଚକ୍ରରେ, ବାସ୍ତବ ଅଭିଜ୍ଞତା (Concrete Experience) ପରେ ତୁରନ୍ତ ପ୍ରତିଫଳିତ ଅନୁଧ୍ୟାନ (Reflective Observation) ଆସିଥାଏ, ଯେଉଁଠାରେ ଶିକ୍ଷାର୍ଥୀ ନିଜର ଅଭିଜ୍ଞତାକୁ ବିଭିନ୍ନ ଦୃଷ୍ଟିକୋଣରୁ ସମୀକ୍ଷା କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297124245-0",
+      "section": "General Studies",
+      "topic": "Odisha Freedom Struggle & Journalism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Odia newspaper was started by Pandit Gopabandhu Das in 1919 from Satyabadi to spread national consciousness, initially publishing as a weekly and later converting into a daily newspaper in 1930?",
+      "options": [
+        "Samaja",
+        "Prajatantra",
+        "Niankhunta",
+        "Dharitri"
+      ],
+      "answer": 0,
+      "explanation": "Pandit Gopabandhu Das founded 'Samaja' on October 4, 1919, at Satyabadi as a weekly newspaper. It became a daily newspaper on April 6, 1930, during the Salt Satyagraha.",
+      "translations": {
+        "or": {
+          "question": "୧୯୧୯ ମସିହାରେ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମ ସମୟରେ ଜାତୀୟ ଚେତନା ସୃଷ୍ଟି କରିବା ପାଇଁ ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସଙ୍କ ଦ୍ୱାରା ସତ୍ୟବାଦୀରୁ କେଉଁ ଓଡ଼ିଆ ସମ୍ବାଦପତ୍ର ଆରମ୍ଭ କରାଯାଇଥିଲା, ଯାହା ପ୍ରାରମ୍ଭରେ ଏକ ସାପ୍ତାହିକ ଏବଂ ପରବର୍ତ୍ତୀ ସମୟରେ ୧୯୩୦ ମସିହାରେ ଦୈନିକ ସମ୍ବାଦପତ୍ରରେ ପରିଣତ ହୋଇଥିଲା?",
+          "options": [
+            "ସମାଜ",
+            "ପ୍ରଜାତନ୍ତ୍ର",
+            "ନିଆଁଖୁଣ୍ଟା",
+            "ଧରିତ୍ରୀ"
+          ],
+          "explanation": "ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସ ୧୯୧୯ ମସିହା ଅକ୍ଟୋବର ୪ ତାରିଖରେ ସତ୍ୟବାଦୀରୁ 'ସମାଜ' ସମ୍ବାଦପତ୍ରର ସାପ୍ତାହିକ ସଂସ୍କରଣ ପ୍ରକାଶ କରିଥିଲେ। ଲବଣ ସତ୍ୟାଗ୍ରହ ସମୟରେ ୧୯୩୦ ମସିହା ଏପ୍ରିଲ ୬ ତାରିଖରେ ଏହା ଏକ ଦୈନିକ ସମ୍ବାଦପତ୍ରରେ ପରିଣତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297124245-1",
+      "section": "General Studies",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which ancient royal dynasty ruled over parts of South Kosala and Kalinga during the 4th and 5th centuries CE with its capital at 'Pushkari' (located in the modern Nabarangpur-Bastar region)?",
+      "options": [
+        "Mathara Dynasty",
+        "Nala Dynasty",
+        "Shedha Dynasty",
+        "Sharabhapuriya Dynasty"
+      ],
+      "answer": 1,
+      "explanation": "The Nala dynasty ruled over South Kosala and parts of Kalinga during the 4th and 5th centuries CE. Their capital was Pushkari, identified with the Podagadh area near Nabarangpur district of Odisha and Bastar.",
+      "translations": {
+        "or": {
+          "question": "୪ର୍ଥ ଏବଂ ୫ମ ଶତାବ୍ଦୀ ମଧ୍ୟରେ କେଉଁ ପ୍ରାଚୀନ ରାଜବଂଶ ଦକ୍ଷିଣ କୋଶଳ ଏବଂ କଳିଙ୍ଗ ଅଞ୍ଚଳରେ 'ପୁଷ୍କରୀ' (ଆଧୁନିକ ନବରଙ୍ଗପୁର-ବସ୍ତର ଅଞ୍ଚଳ)କୁ ନିଜର ରାଜଧାନୀ କରି ଶାସନ କରିଥିଲେ?",
+          "options": [
+            "ମାଠର ରାଜବଂଶ",
+            "ନଳ ରାଜବଂଶ",
+            "ଶେଢ଼ ରାଜବଂଶ",
+            "ଶରଭପୁରୀୟ ରାଜବଂଶ"
+          ],
+          "explanation": "୪ର୍ଥ-୫ମ ଶତାବ୍ଦୀରେ ନଳ ରାଜବଂଶ ଦକ୍ଷିଣ କୋଶଳ ଏବଂ କଳିଙ୍ଗର କିଛି ଅଞ୍ଚଳରେ ଶାସନ କରିଥିଲେ। ସେମାନଙ୍କ ରାଜଧାନୀ 'ପୁଷ୍କରୀ' (ଓଡ଼ିଶାର ନବରଙ୍ଗପୁର ଜିଲ୍ଲାର ପୋଡ଼ାଗଡ଼ ନିକଟସ୍ଥ) ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297190550-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History & Journalism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following was the editor of the historic Odia weekly newspaper 'Utkal Dipika' when it was first published in 1866?",
+      "options": [
+        "Gaurishankar Ray",
+        "Fakir Mohan Senapati",
+        "Bichitrananda Das",
+        "Radhanath Ray"
+      ],
+      "answer": 0,
+      "explanation": "'Utkal Dipika', the first Odia newspaper, was published on 4 August 1866 under the editorship of Gaurishankar Ray with support from Bichitrananda Das. It played a crucial role in promoting Odia identity and language.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାରେ ପ୍ରଥମ କରି ପ୍ରକାଶିତ ହୋଇଥିବା ଐତିହାସିକ ଓଡ଼ିଆ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର 'ଉତ୍କଳ ଦୀପିକା'ର ସମ୍ପାଦକ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୌରୀଶଙ୍କର ରାୟ",
+            "ଫକୀର ମୋହନ ସେନାପତି",
+            "ବିଚିତ୍ରାନନ୍ଦ ଦାସ",
+            "ରାଧାନାଥ ରାୟ"
+          ],
+          "explanation": "'ଉତ୍କଳ ଦୀପିକା' ୪ ଅଗଷ୍ଟ ୧୮୬୬ ରେ ପ୍ରକାଶିତ ହୋଇଥିବା ପ୍ରଥମ ଓଡ଼ିଆ ସମ୍ବାଦପତ୍ର ଥିଲା। ଏହାର ସମ୍ପାଦନା ଗୌରୀଶଙ୍କର ରାୟ କରିଥିଲେ ଏବଂ ଏଥିରେ ବିଚିତ୍ରାନନ୍ଦ ଦାସ ସହଯୋଗ କରିଥିଲେ। ଓଡ଼ିଆ ଭାଷା ଓ ଅସ୍ମିତାର ସୁରକ୍ଷାରେ ଏହା ପ୍ରମୁଖ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785297190550-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography & Mineral Resources",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Sukinda Valley located in the Jajpur district of Odisha is globally famous for holding nearly 98% of India's total deposits of which strategic mineral?",
+      "options": [
+        "Bauxite",
+        "Chromite",
+        "Manganese",
+        "Iron Ore"
+      ],
+      "answer": 1,
+      "explanation": "The Sukinda Valley in Jajpur district holds approximately 98% of India's total reserves of chromite ore, making Odisha the leading producer of chromite in the country.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଯାଜପୁର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ସୁକିନ୍ଦା ଉପତ୍ୟକା ଭାରତର ମୋଟ ଗଚ୍ଛିତ ସମ୍ପଦର ପ୍ରାୟ ୯୮% କେଉଁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଖଣିଜ ପଦାର୍ଥ ପାଇଁ ବିଶ୍ୱପ୍ରସିଦ୍ଧ?",
+          "options": [
+            "ବକ୍ସାଇଟ୍",
+            "କ୍ରୋମାଇଟ୍",
+            "ମାଙ୍ଗାନିଜ୍",
+            "ଲୁହାପଥର"
+          ],
+          "explanation": "ଯାଜପୁର ଜିଲ୍ଲାର ସୁକିନ୍ଦା ଉପତ୍ୟକାରେ ଭାରତର ମୋଟ ଗଚ୍ଛିତ କ୍ରୋମାଇଟ୍ ସମ୍ପଦର ପ୍ରାୟ ୯୮% ରହିଛି, ଯାହା ଓଡ଼ିଶାକୁ ଦେଶର ପ୍ରମୁଖ କ୍ରୋମାଇଟ୍ ଉତ୍ପାଦକ ରାଜ୍ୟ ଭାବେ ପରିଗଣିତ କରେ।"
+        }
+      }
     }
   ]
 }

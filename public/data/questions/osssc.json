@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -6472,6 +6472,234 @@
             "ରାଣୀ ବାସଟା"
           ],
           "explanation": "ଭୁବନେଶ୍ୱରର ଅନନ୍ତ ବାସୁଦେବ ମନ୍ଦିର ୧୨୭୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ସମ୍ରାଟ ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବଙ୍କ କନ୍ୟା ଚନ୍ଦ୍ରିକା ଦେବୀଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297038366-0",
+      "section": "Arithmetic",
+      "topic": "Ratio and Proportion",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "An amount of Rs. 4,200 is divided among A, B, and C in the ratio 2 : 3 : 7. What is the difference between the shares of B and C?",
+      "options": [
+        "Rs. 1,200",
+        "Rs. 1,400",
+        "Rs. 1,050",
+        "Rs. 1,750"
+      ],
+      "answer": 1,
+      "explanation": "Total ratio parts = 2 + 3 + 7 = 12 parts. Value of 12 parts = Rs. 4,200, so 1 part = Rs. 350. Difference between the shares of B and C = 7 - 3 = 4 parts. Therefore, required difference = 4 × Rs. 350 = Rs. 1,400.",
+      "translations": {
+        "or": {
+          "question": "4,200 ଟଙ୍କାର ଏକ ରାଶିକୁ A, B ଏବଂ C ମଧ୍ୟରେ 2 : 3 : 7 ଅନୁପାତରେ ବିଭାଜନ କରାଯାଇଛି। B ଏବଂ C ର ଅଂଶ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ କେତେ?",
+          "options": [
+            "1,200 ଟଙ୍କା",
+            "1,400 ଟଙ୍କା",
+            "1,050 ଟଙ୍କା",
+            "1,750 ଟଙ୍କା"
+          ],
+          "explanation": "ମୋଟ ଅଂଶ = 2 + 3 + 7 = 12 ଅଂଶ। 12 ଅଂଶ = 4,200 ଟଙ୍କା, ତେଣୁ 1 ଅଂଶ = 350 ଟଙ୍କା। B ଏବଂ C ର ଅଂଶ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ = 7 - 3 = 4 ଅଂଶ। ତେଣୁ, ପାର୍ଥକ୍ୟ = 4 × 350 = 1,400 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297038366-1",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two stations X and Y are 390 km apart. A train starts from station X at 8:00 AM and travels towards station Y at 40 km/h. Another train starts from station Y at 9:00 AM and travels towards station X at 60 km/h. At what time will the two trains meet?",
+      "options": [
+        "11:30 AM",
+        "12:00 PM",
+        "12:30 PM",
+        "1:00 PM"
+      ],
+      "answer": 2,
+      "explanation": "Distance covered by the first train in 1 hour (from 8:00 AM to 9:00 AM) = 40 km. Remaining distance at 9:00 AM = 390 - 40 = 350 km. Relative speed from 9:00 AM = 40 + 60 = 100 km/h. Time taken to cover remaining distance = 350 / 100 = 3.5 hours (3 hours 30 minutes). Meeting time = 9:00 AM + 3 hours 30 minutes = 12:30 PM.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ଷ୍ଟେସନ X ଏବଂ Y ମଧ୍ୟରେ ଦୂରତା 390 କିମି। ଗୋଟିଏ ଟ୍ରେନ୍ ଷ୍ଟେସନ X ରୁ ସକାଳ 8:00 ଟାରେ ଘଣ୍ଟାପ୍ରତି 40 କିମି ବେଗରେ Y ଆଡ଼କୁ ଯାତ୍ରା ଆରମ୍ଭ କରେ। ଅନ୍ୟ ଏକ ଟ୍ରେନ୍ ଷ୍ଟେସନ Y ରୁ ସକାଳ 9:00 ଟାରେ ଘଣ୍ଟାପ୍ରତି 60 କିମି ବେଗରେ X ଆଡ଼କୁ ଯାତ୍ରା କରେ। ଦୁଇଟି ଟ୍ରେନ୍ କେଉଁ ସମୟରେ ପରସ୍ପରକୁ ଭେଟିବେ?",
+          "options": [
+            "11:30 AM",
+            "12:00 PM",
+            "12:30 PM",
+            "1:00 PM"
+          ],
+          "explanation": "ପ୍ରଥମ ଟ୍ରେନ୍ ଦ୍ୱାରା 1 ଘଣ୍ଟାରେ (ସକାଳ 8:00 ରୁ 9:00) ଅତିକ୍ରାନ୍ତ ଦୂରତା = 40 କିମି। ସକାଳ 9:00 ସୁଦ୍ଧା ଅବଶିଷ୍ଟ ଦୂରତା = 390 - 40 = 350 କିମି। ସକାଳ 9:00 ରୁ ଆପେକ୍ଷିକ ବେଗ = 40 + 60 = 100 କିମି/ଘଣ୍ଟା। ଅବଶିଷ୍ଟ ଦୂରତା ଅତିକ୍ରମ କରିବାକୁ ଲାଗୁଥିବା ସମୟ = 350 / 100 = 3.5 ଘଣ୍ଟା (3 ଘଣ୍ଟା 30 ମିନିଟ୍)। ଭେଟିବାର ସମୟ = ସକାଳ 9:00 + 3 ଘଣ୍ଟା 30 ମିନିଟ୍ = 12:30 PM।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297055924-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'PURI' is coded as 'QVSJ'. How will 'ODISHA' be coded in that language?",
+      "options": [
+        "PEJTIB",
+        "PEJTIAC",
+        "PFJSIB",
+        "PEJTIC"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is moved one step forward (+1) in the alphabetical series: P (+1) = Q, U (+1) = V, R (+1) = S, I (+1) = J. Following the same pattern for ODISHA: O (+1) = P, D (+1) = E, I (+1) = J, S (+1) = T, H (+1) = I, A (+1) = B. Thus, 'ODISHA' is coded as 'PEJTIB'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'PURI' କୁ 'QVSJ' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି ଭାଷାରେ 'ODISHA' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "PEJTIB",
+            "PEJTIAC",
+            "PFJSIB",
+            "PEJTIC"
+          ],
+          "explanation": "ଶବ୍ଦର ପ୍ରତ୍ୟେକ ଅକ୍ଷର ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାରେ ଗୋଟିଏ ସ୍ଥାନ ଆଗକୁ (+1) ବୃଦ୍ଧି ପାଇଛି: P (+1) = Q, U (+1) = V, R (+1) = S, I (+1) = J। ସେହି ସମାନ ନିୟମ ଅନୁସାରେ ODISHA ପାଇଁ: O (+1) = P, D (+1) = E, I (+1) = J, S (+1) = T, H (+1) = I, A (+1) = B। ତେଣୁ 'ODISHA' ର କୋଡ୍ 'PEJTIB' ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297055924-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six friends - Aniket, Bikash, Chandan, Deepa, Esha, and Farhan - are sitting around a circular table facing towards the center. Bikash is sitting second to the left of Chandan. Aniket is an immediate neighbor of both Farhan and Deepa. Farhan is not an immediate neighbor of Chandan. Who is sitting to the immediate right of Bikash?",
+      "options": [
+        "Esha",
+        "Farhan",
+        "Deepa",
+        "Chandan"
+      ],
+      "answer": 0,
+      "explanation": "Arranging them in a circular clockwise order starting from Chandan: Chandan -> Deepa -> Aniket -> Farhan -> Bikash -> Esha. Bikash is second to the left of Chandan. Aniket is between Deepa and Farhan. Since Farhan cannot sit next to Chandan, Deepa sits next to Chandan. The remaining place is occupied by Esha. Facing the center, the immediate right of Bikash is Esha.",
+      "translations": {
+        "or": {
+          "question": "ଛଅ ଜଣ ବନ୍ଧୁ - ଅନିକେତ, ବିକାଶ, ଚନ୍ଦନ, ଦୀପା, ଇଷା, ଏବଂ ଫରହାନ - ଗୋଟିଏ ବୃତ୍ତାକାର ଟେବୁଲ ଚାରିପାଖରେ କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବସିଛନ୍ତି। ବିକାଶ, ଚନ୍ଦନଙ୍କ ବାମ ପଟେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। ଅନିକେତ, ଫରହାନ ଏବଂ ଦୀପା ଉଭୟଙ୍କର ନିକଟତମ ପଡ଼ୋଶୀ ଅଟନ୍ତି। ଫରହାନ, ଚନ୍ଦନଙ୍କର ନିକଟତମ ପଡ଼ୋଶୀ ନୁହଁନ୍ତି। ବିକାଶଙ୍କର ଠିକ୍ ଡାହାଣ ପଟେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "ଇଷା",
+            "ଫରହାନ",
+            "ଦୀପା",
+            "ଚନ୍ଦନ"
+          ],
+          "explanation": "ଚନ୍ଦନଙ୍କଠାରୁ ଆରମ୍ଭ କରି ବୃତ୍ତାକାରରେ ଘଣ୍ଟାର କଣ୍ଟା ଦିଗରେ (clockwise) ସଜାଡ଼ିଲେ: ଚନ୍ଦନ -> ଦୀପା -> ଅନିକେତ -> ଫରହାନ -> ବିକାଶ -> ଇଷା। ବିକାଶ, ଚନ୍ଦନଙ୍କ ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ଅଛନ୍ତି। ଅନିକେତ, ଦୀପା ଓ ଫରହାନଙ୍କ ମଝିରେ ଅଛନ୍ତି। ଯେହେତୁ ଫରହାନ ଚନ୍ଦନଙ୍କ ପାଖରେ ବସିପାରିବେ ନାହିଁ, ଦୀପା ଚନ୍ଦନଙ୍କ ପାଖରେ ବସିଛନ୍ତି। ବଳକା ସ୍ଥାନରେ ଇଷା ବସିଛନ୍ତି। କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବସିଥିବାରୁ, ବିକାଶଙ୍କର ଠିକ୍ ଡାହାଣ ପଟେ ଇଷା ଅଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297069919-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Deomali, the highest mountain peak in Odisha, is located in which of the following districts?",
+      "options": [
+        "Koraput",
+        "Sundargarh",
+        "Mayurbhanj",
+        "Rayagada"
+      ],
+      "answer": 0,
+      "explanation": "Deomali is the highest mountain peak in Odisha with an elevation of 1,672 meters, located in the Chandragiri-Pottangi sub-range of the Eastern Ghats in Koraput district.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ 'ଦେଓମାଳୀ' ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "କୋରାପୁଟ",
+            "ସୁନ୍ଦରଗଡ଼",
+            "ମୟୂରଭଞ୍ଜ",
+            "ରାୟଗଡ଼"
+          ],
+          "explanation": "ଦେଓମାଳୀ ହେଉଛି ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ (ଉଚ୍ଚତା ୧,୬୭୨ ମିଟର), ଯାହା ପୂର୍ବଘାଟ ପର୍ବତମାଳାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297069919-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga Dynasty shifted the capital of the empire from Kalinganagar to Abhinava Varanasi Kataka (modern-day Cuttack)?",
+      "options": [
+        "Anantavarman Chodagangadeva",
+        "Narasimhadeva I",
+        "Anangabhima Deva III",
+        "Bhanudeva I"
+      ],
+      "answer": 2,
+      "explanation": "Anangabhima Deva III (1211–1238 AD) shifted the capital of the Eastern Ganga Empire from Kalinganagar to Abhinava Varanasi Kataka (present-day Cuttack) and built the historic Barabati fort.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ବର୍ତ୍ତମାନର କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ୍ ଚୋଡ଼ଗଙ୍ଗଦେବ",
+            "ପ୍ରଥମ ନରସିଂହଦେବ",
+            "ତୃତୀୟ ଅନଙ୍ଗଭୀମଦେବ",
+            "ପ୍ରଥମ ଭାନୁଦେବ"
+          ],
+          "explanation": "ତୃତୀୟ ଅନଙ୍ଗଭୀମଦେବ (୧୨୧୧-୧୨୩୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ପୂର୍ବ ଗଙ୍ଗ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଜିର କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ ଏବଂ ଐତିହାସିକ ବାରବାଟୀ ଦୁର୍ଗ ନିର୍ମାଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297083248-0",
+      "section": "Odisha GK",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous Hathigumpha inscription, which provides a detailed year-by-year account of the reign of King Kharavela, is located on which hill near Bhubaneswar?",
+      "options": [
+        "Khandagiri",
+        "Udayagiri",
+        "Dhauli",
+        "Lalitgiri"
+      ],
+      "answer": 1,
+      "explanation": "The Hathigumpha inscription is etched in Brahmi script and Prakrit language in cave 14 (Hathigumpha) of Udayagiri hill near Bhubaneswar. It chronicles the 13-year reign of Emperor Kharavela of the Mahameghavahana dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସମ୍ରାଟ ଖାରବେଳଙ୍କ ଶାସନକାଳର ବର୍ଷ-ୱାରୀ ବିବରଣୀ ପ୍ରଦାନ କରୁଥିବା ପ୍ରସିଦ୍ଧ ହାତୀଗୁମ୍ଫା ଅଭିଲେଖ ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ କେଉଁ ପାହାଡ଼ରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଖଣ୍ଡଗିରି",
+            "ଉଦୟଗିରି",
+            "ଧାଉଳି",
+            "ଲଳିତଗିରି"
+          ],
+          "explanation": "ହାତୀଗୁମ୍ଫା ଅଭିଲେଖ ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ଉଦୟଗିରି ପାହାଡ଼ରେ ଅବସ୍ଥିତ। ଏହା ମହାମେଘବାହନ ବଂଶର ସମ୍ରାଟ ଖାରବେଳଙ୍କର ୧୩ ବର୍ଷର ଶାସନକାଳର କୃତିତ୍ୱ ବିଷୟରେ ବ୍ରାହ୍ମୀ ଲିପି ଏବଂ ପ୍ରାକୃତ ଭାଷାରେ ବର୍ଣ୍ଣନା କରେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785297083248-1",
+      "section": "Odisha GK",
+      "topic": "Medieval History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the last independent Hindu ruler of medieval Odisha before the region fell to the invasion of the Bengal Sultanate in 1568 CE?",
+      "options": [
+        "Mukundadeva",
+        "Prataparudradeva",
+        "Govinda Vidyadhara",
+        "Narasimhadeva IV"
+      ],
+      "answer": 0,
+      "explanation": "Mukundadeva (also known as Mukunda Harichandan) was the last independent Hindu king of Odisha. In 1568 CE, taking advantage of internal conflicts, the Bengal Sultan Sulaiman Karrani sent his general Kalapahar to invade Odisha, leading to the fall of the independent kingdom.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୫୬୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ବଙ୍ଗଳା ସୁଲତାନଙ୍କ ଆକ୍ରମଣରେ ଓଡ଼ିଶାର ପତନ ହେବା ପୂର୍ବରୁ ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ କିଏ ଥିଲେ?",
+          "options": [
+            "ମୁକୁନ୍ଦଦେବ",
+            "ପ୍ରତାପରୁଦ୍ରଦେବ",
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ନରସିଂହଦେବ ଚତୁର୍ଥ"
+          ],
+          "explanation": "ଗଜପତି ମୁକୁନ୍ଦଦେବ (ମୁକୁନ୍ଦ ହରିଚନ୍ଦନ) ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ ଥିଲେ। ୧୫୬୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ବଙ୍ଗଳାର ସୁଲତାନ ସୁଲେମାନ କରାନୀଙ୍କ ସେନାପତି କାଲାପାହାଡ଼ଙ୍କ ଆକ୍ରମଣ ଏବଂ ଅନ୍ତର୍ଦ୍ବନ୍ଦ୍ବ ଯୋଗୁଁ ତାଙ୍କର ପରାଜୟ ଘଟିଥିଲା ଓ ଓଡ଼ିଶାର ସ୍ୱାଧୀନତାର ଅନ୍ତ ଘଟିଥିଲା।"
         }
       }
     }

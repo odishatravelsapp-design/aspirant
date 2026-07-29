@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -5574,6 +5574,136 @@
       ],
       "answer": 3,
       "explanation": "Under the Sovereign Gold Bond (SGB) scheme guidelines issued by the RBI, the maximum limit of gold subscription per fiscal year (April–March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for Trusts and similar entities notified by the Government.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785296980824-0",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains 80 liters of pure milk. From this vessel, 8 liters of milk is taken out and replaced with water. This process is repeated one more time. What is the ratio of milk to water in the final mixture?",
+      "options": [
+        "81 : 19",
+        "9 : 1",
+        "16 : 5",
+        "64 : 17"
+      ],
+      "answer": 0,
+      "explanation": "Initial quantity of milk (V) = 80 liters. Quantity replaced each time (x) = 8 liters. Number of operations (n) = 2. Remaining milk = V * (1 - x/V)^n = 80 * (1 - 8/80)^2 = 80 * (0.9)^2 = 64.8 liters. Quantity of water in final mixture = 80 - 64.8 = 15.2 liters. Ratio of milk to water = 64.8 : 15.2 = 648 : 152 = 81 : 19."
+    },
+    {
+      "id": "ibps-po-ai-1785296980824-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three pipes A, B, and C can fill a tank individually in 12 hours, 15 hours, and 20 hours respectively. Pipe A remains open all the time, while Pipe B and Pipe C are opened for one hour each alternately, starting with Pipe B. In how many hours will the tank be completely full?",
+      "options": [
+        "6 hours",
+        "7 hours",
+        "7.5 hours",
+        "8 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let the total capacity of the tank be LCM(12, 15, 20) = 60 units. Efficiency of Pipe A = 60/12 = 5 units/hr, B = 60/15 = 4 units/hr, C = 60/20 = 3 units/hr. 1st hour work (A + B) = 5 + 4 = 9 units. 2nd hour work (A + C) = 5 + 3 = 8 units. Work done in 2 hours = 9 + 8 = 17 units. In 3 cycles (6 hours), work done = 17 * 3 = 51 units. Remaining work = 60 - 51 = 9 units. In the 7th hour, Pipe A and Pipe B work together to fill 9 units/hr, which fills the remaining 9 units in exactly 1 hour. Total time taken = 6 + 1 = 7 hours."
+    },
+    {
+      "id": "ibps-po-ai-1785296996646-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements: M ≥ N > O = P ≤ Q < R; S > O ≥ T\n\nConclusions:\nI. M > T\nII. R > T",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Both conclusions I and II are true",
+        "Neither conclusion I nor conclusion II is true"
+      ],
+      "answer": 2,
+      "explanation": "Combining the statements: For Conclusion I, M ≥ N > O ≥ T, which gives M > T (True). For Conclusion II, R > Q ≥ P = O ≥ T, which gives R > T (True). Hence, both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-po-ai-1785296996646-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions numbered I and II. Take the given statements to be true even if they seem to be at variance with commonly known facts.\n\nStatements:\nOnly a few Books are Papers.\nAll Papers are Copies.\nNo Copy is a Board.\n\nConclusions:\nI. No Paper is a Board.\nII. Some Books being Boards is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "1. All Papers are inside Copies, and no Copy is a Board, so no Paper can ever be a Board. Conclusion I definitely follows.\n2. Only a few Books are Papers, which means some Books are outside Papers/Copies. That portion of Books can overlap with Boards without violating any statement. Thus, Conclusion II is a valid possibility and follows."
+    },
+    {
+      "id": "ibps-po-ai-1785297011827-0",
+      "section": "English",
+      "topic": "Sentence Starters",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the starter(s) from the given options that can be used to combine the two given sentences into a single, logically coherent sentence without changing their original meaning.\n\nSentences:\n1. The company faced severe supply chain disruptions throughout the fiscal year.\n2. It managed to report a record profit in the fourth quarter.\n\nStarters:\n(I) In spite of facing severe supply chain disruptions throughout the fiscal year...\n(II) Although the company faced severe supply chain disruptions throughout the fiscal year...\n(III) Owing to severe supply chain disruptions throughout the fiscal year...",
+      "options": [
+        "Only (I)",
+        "Only (III)",
+        "Both (I) and (II)",
+        "Both (II) and (III)"
+      ],
+      "answer": 2,
+      "explanation": "Both (I) and (II) use concessive connectors ('In spite of' and 'Although') which correctly express the contrast between facing disruptions and reporting record profits. Connector (III) uses 'Owing to' (causal), which creates an illogical cause-and-effect relationship between supply disruptions and achieving record profits."
+    },
+    {
+      "id": "ibps-po-ai-1785297011827-1",
+      "section": "English",
+      "topic": "Sentence Correction - Dangling Modifiers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence given below and select the option that correctly rectifies the grammatical error caused by the dangling modifier.\n\nGiven sentence: 'Having finished the financial audit, several discrepancies in the tax filings were discovered by the forensic accountant.'",
+      "options": [
+        "Having finished the financial audit, the forensic accountant discovered several discrepancies in the tax filings.",
+        "Finishing the financial audit, several discrepancies in the tax filings were discovered by the forensic accountant.",
+        "Having been finished the financial audit, the forensic accountant discovered several discrepancies in the tax filings.",
+        "Upon finishing the financial audit, several discrepancies were discovered in the tax filings by the forensic accountant."
+      ],
+      "answer": 0,
+      "explanation": "In the original sentence, 'Having finished the financial audit' is a introductory participial phrase that must modify the agent who performed the audit (the forensic accountant). In the original sentence and options B and D, the subject following the comma is 'several discrepancies', creating a dangling modifier error. Option A correctly places 'the forensic accountant' as the subject immediately after the modifying clause."
+    },
+    {
+      "id": "ibps-po-ai-1785297018517-0",
+      "section": "General Awareness",
+      "topic": "Small Finance Banks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the 'on-tap' licensing guidelines issued by the Reserve Bank of India (RBI), what is the minimum paid-up voting equity capital required for setting up a Small Finance Bank (SFB)?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines for 'on-tap' licensing of Small Finance Banks (SFBs) in the private sector issued in December 2019, the minimum paid-up voting equity capital or net worth requirement for SFBs was raised from ₹100 crore to ₹200 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785297018517-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy & RBI Operations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. Which of the following statements correctly describes a key feature of the SDF?",
+      "options": [
+        "It requires the RBI to pledge government securities as collateral when absorbing liquidity from banks.",
+        "It allows the RBI to absorb surplus liquidity from commercial banks without providing collateral in return.",
+        "Its interest rate is fixed at 25 basis points above the prevailing Policy Repo Rate.",
+        "It is an emergency borrowing window reserved exclusively for Primary Dealers and Regional Rural Banks."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) is an uncollateralized liquidity-absorption mechanism that allows the RBI to absorb surplus liquidity from commercial banks without providing government securities as collateral. Its rate is positioned 25 basis points below the Policy Repo Rate.",
       "status": "pending"
     }
   ]

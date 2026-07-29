@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -5616,6 +5616,136 @@
       ],
       "answer": 0,
       "explanation": "Under Section 7(1) of the RBI Act, 1934, the Central Government may from time to time give such directions to the Reserve Bank of India as it considers necessary in the public interest, after consultation with the Governor of the Bank.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785296925479-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "An article is sold at a discount of 20% on its marked price. If the cost price of the article is ₹480 and the profit earned is 25%, what is the marked price of the article?",
+      "options": [
+        "₹700",
+        "₹720",
+        "₹750",
+        "₹800"
+      ],
+      "answer": 2,
+      "explanation": "Cost Price (CP) = ₹480. Profit = 25%, so Selling Price (SP) = 480 + (25% of 480) = 480 + 120 = ₹600. Discount = 20% on Marked Price (MP), so SP = MP × (1 - 0.20) = 0.80 × MP. Therefore, 0.80 × MP = 600 => MP = 600 / 0.80 = ₹750."
+    },
+    {
+      "id": "sbi-clerk-ai-1785296925479-1",
+      "section": "Quant",
+      "topic": "Permutation & Combination",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In how many different ways can the letters of the word 'DETAIL' be arranged such that the vowels always occupy the odd positions?",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "120"
+      ],
+      "answer": 0,
+      "explanation": "The word 'DETAIL' contains 6 letters: 3 vowels (E, A, I) and 3 consonants (D, T, L). The positions are numbered 1 to 6. The odd positions are 1, 3, and 5 (total 3 odd positions). Number of ways to arrange 3 vowels in 3 odd positions = 3! = 6. Number of ways to arrange the remaining 3 consonants in the remaining 3 even positions (2, 4, 6) = 3! = 6. Total number of required arrangements = 3! × 3! = 6 × 6 = 36."
+    },
+    {
+      "id": "sbi-clerk-ai-1785296941391-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nAll chairs are tables.\nSome tables are desks.\nNo desk is a bench.\n\nConclusions:\nI. Some tables are not benches.\nII. Some chairs being desks is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "For Conclusion I: The portion of tables that are desks cannot be benches because no desk is a bench. Hence, those tables are definitely not benches. Thus, Conclusion I follows.\nFor Conclusion II: There is no direct negative relation given between chairs and desks. Therefore, the possibility of some chairs being desks is true. Thus, Conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1785296941391-1",
+      "section": "Reasoning",
+      "topic": "Conditional Coding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain coding system, digits are coded as follows:\nDigits: 3, 7, 2, 8, 5, 4, 9, 1, 6\nCodes: M, K, D, R, T, W, B, P, H\n\nConditions:\n(i) If both the first and the last digits are odd, their codes are to be interchanged.\n(ii) If the first digit is even and the last digit is odd, both are to be coded as '#'.\n(iii) If the digit '5' is immediately preceded as well as followed by an even digit, '5' is to be coded as '$'.\n\nWhat will be the code for '473852'?",
+      "options": [
+        "W K M R $ D",
+        "D K M R T W",
+        "# K M R T #",
+        "W K M R T D"
+      ],
+      "answer": 0,
+      "explanation": "In '473852', the first digit (4) and the last digit (2) are both even, so conditions (i) and (ii) do not apply. The digit '5' is preceded by '8' (even) and followed by '2' (even), so condition (iii) applies and '5' is coded as '$'. Replacing the other digits with their respective codes (4=W, 7=K, 3=M, 8=R, 5=$, 2=D) gives 'W K M R $ D'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785296958728-0",
+      "section": "English",
+      "topic": "Phrase Replacement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the correct alternative for the bolded phrase to make the sentence grammatically accurate: 'The economic slowdown has severely impacted small businesses, **making it imperative for the government to step up and providing** financial assistance.'",
+      "options": [
+        "making it imperative for the government to step up and provide",
+        "making it imperative to the government for stepping up and providing",
+        "made it imperative for the government stepping up and providing",
+        "No correction required"
+      ],
+      "answer": 0,
+      "explanation": "The conjunction 'and' connects two actions under the same infinitive structure governed by 'to'. Parallelism requires 'to step up and [to] provide'. Thus, 'providing' must be replaced with the base verb 'provide'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785296958728-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, four words are given in bold as (A), (B), (C), and (D). Identify the pair of words that need to be interchanged to make the sentence grammatically correct and contextually meaningful: 'The **essential (A)** drought forced the government to **restrict (B)** water usage, ensuring that **dwindling (C)** resources were preserved for **severe (D)** services.'",
+      "options": [
+        "A-B",
+        "B-C",
+        "A-D",
+        "C-D"
+      ],
+      "answer": 2,
+      "explanation": "The words 'essential' (A) and 'severe' (D) are misplaced in the sentence context. A drought is described as 'severe', while the public services receiving preserved water resources during a crisis are 'essential'. Swapping A and D restores the correct meaning."
+    },
+    {
+      "id": "sbi-clerk-ai-1785296966636-0",
+      "section": "General Awareness",
+      "topic": "Money Market Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the Indian money market, what is the maximum tenure for which Commercial Paper (CP) can be issued by eligible corporate entities?",
+      "options": [
+        "180 days",
+        "270 days",
+        "1 year",
+        "3 years"
+      ],
+      "answer": 2,
+      "explanation": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note. In India, CPs can be issued for maturities between a minimum of 7 days and a maximum of up to 1 year (365 days) from the date of issue.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785296966636-1",
+      "section": "General Awareness",
+      "topic": "RBI Act and Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which section of the Reserve Bank of India Act, 1934, is the RBI granted the sole and exclusive right to issue bank notes in India?",
+      "options": [
+        "Section 17",
+        "Section 22",
+        "Section 24",
+        "Section 28"
+      ],
+      "answer": 1,
+      "explanation": "Section 22 of the Reserve Bank of India Act, 1934 states that the Reserve Bank of India shall have the sole right to issue bank notes in India.",
       "status": "pending"
     }
   ]

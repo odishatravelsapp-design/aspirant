@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -6032,6 +6032,136 @@
       ],
       "answer": 1,
       "explanation": "In the Indian money market, Call Money refers to overnight lending/borrowing (1 day), Notice Money refers to funds borrowed or lent for a period of 2 days to 14 days, and Term Money refers to funds for 15 days up to 1 year.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785296874219-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A article was purchased for ₹450 and sold for ₹540. What is the profit percentage earned on the article?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "18%"
+      ],
+      "answer": 1,
+      "explanation": "Cost Price (CP) = ₹450, Selling Price (SP) = ₹540. Profit = SP - CP = 540 - 450 = ₹90. Profit Percentage = (Profit / CP) * 100 = (90 / 450) * 100 = 20%."
+    },
+    {
+      "id": "ibps-clerk-ai-1785296874219-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipe A and Pipe B can fill a tank in 12 minutes and 15 minutes respectively. Pipe C can empty the full tank at a constant rate of 12 gallons per minute. If all three pipes are opened together when the tank is empty, the tank is completely filled in 20 minutes. What is the total capacity of the tank?",
+      "options": [
+        "100 gallons",
+        "120 gallons",
+        "150 gallons",
+        "180 gallons"
+      ],
+      "answer": 1,
+      "explanation": "Let the capacity of the tank be V gallons. Fraction filled per minute by Pipe A = V/12. Fraction filled per minute by Pipe B = V/15. Net rate when all pipes are open = V/20 gallons per minute. Therefore, (V/12) + (V/15) - 12 = V/20. Rearranging gives: (V/12) + (V/15) - (V/20) = 12. Taking the LCM of 12, 15, and 20 (which is 60): (5V + 4V - 3V)/60 = 12 => 6V/60 = 12 => V/10 = 12 => V = 120 gallons."
+    },
+    {
+      "id": "ibps-clerk-ai-1785296890329-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Aman starts walking from Point X. He walks 8 meters towards the East to reach Point Y. From Y, he takes a right turn and walks 6 meters to reach Point Z. Then, he takes a left turn and walks 5 meters to reach Point W. Finally, he turns left and walks 6 meters to reach Point V. What is the shortest distance between Point X and Point V, and in which direction is Point V with respect to Point X?",
+      "options": [
+        "13m, East",
+        "13m, West",
+        "19m, East",
+        "11m, South-East"
+      ],
+      "answer": 0,
+      "explanation": "Coordinates taking X as (0,0): Y is at (8,0). From Y, turning right (South) 6m leads to Z at (8,-6). From Z, turning left (East) 5m leads to W at (13,-6). From W, turning left (North) 6m leads to V at (13,0). The distance XV = 13 - 0 = 13 meters, and Point V is directly to the East of Point X."
+    },
+    {
+      "id": "ibps-clerk-ai-1785296890329-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, statements are given followed by two conclusions numbered I and II. Read the statements and decide which of the conclusions logically follow(s).\n\nStatements:\nOnly a few Books are Pens.\nAll Pens are Erasers.\nNo Eraser is a Pencil.\n\nConclusions:\nI. Some Erasers are Books.\nII. Some Books are not Pencils.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Since 'Only a few Books are Pens', some Books are Pens. All Pens are Erasers, so the portion of Books that are Pens must also be Erasers, making 'Some Erasers are Books' definitely true (Conclusion I follows). Also, since those Books are inside Erasers, and No Eraser is a Pencil, those specific Books can never be Pencils. Hence, 'Some Books are not Pencils' is also definitely true (Conclusion II follows)."
+    },
+    {
+      "id": "ibps-clerk-ai-1785296898921-0",
+      "section": "English",
+      "topic": "Prepositions",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the most appropriate preposition to fill in the blank in the sentence given below:\n\nThe board of directors expressed deep concern _____ the sudden decline in the company's quarterly revenue.",
+      "options": [
+        "over",
+        "upon",
+        "through",
+        "beside"
+      ],
+      "answer": 0,
+      "explanation": "The noun 'concern' when indicating anxiety or worry about a situation is conventionally followed by the preposition 'over' or 'about'. Thus, 'over' is the correct preposition."
+    },
+    {
+      "id": "ibps-clerk-ai-1785296898921-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blanks with the pair of words that best fits the context of the sentence:\n\nThe manager's __________ attitude towards his subordinates only served to __________ the existing grievances within the department.",
+      "options": [
+        "dismissive, aggravate",
+        "cordial, escalate",
+        "sympathetic, mitigate",
+        "indifferent, alleviate"
+      ],
+      "answer": 0,
+      "explanation": "The context 'only served to' implies an undesirable outcome. A 'dismissive' (disregardful) attitude logically leads to 'aggravating' (making worse) grievances, making option A the correct fit."
+    },
+    {
+      "id": "ibps-clerk-ai-1785296913041-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the minimum transaction amount required for initiating a fund transfer through the Real Time Gross Settlement (RTGS) system in India?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "There is no minimum limit"
+      ],
+      "answer": 1,
+      "explanation": "The RTGS system is primarily meant for high-value transactions. As per the Reserve Bank of India guidelines, the minimum amount to be remitted through RTGS is ₹2,00,000, whereas there is no upper limit.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785296913041-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which section of the Reserve Bank of India (RBI) Act, 1934, was the statutory Monetary Policy Committee (MPC) established?",
+      "options": [
+        "Section 45ZB",
+        "Section 24",
+        "Section 17",
+        "Section 42"
+      ],
+      "answer": 0,
+      "explanation": "The RBI Act, 1934 was amended in 2016 to introduce Section 45ZB, which empowers the Central Government to constitute a six-member Monetary Policy Committee (MPC) to determine the policy interest rate.",
       "status": "pending"
     }
   ]

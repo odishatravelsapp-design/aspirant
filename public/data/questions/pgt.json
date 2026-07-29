@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -5943,6 +5943,232 @@
       ],
       "answer": 3,
       "explanation": "Carl Rogers identified three core conditions: Congruence (genuineness), Unconditional Positive Regard (acceptance), and Empathic Understanding. Directive/diagnostic interpretation is explicitly avoided in non-directive counselling."
+    },
+    {
+      "id": "pgt-ai-1785297206162-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology & Learning Theories",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Lev Vygotsky's Socio-Cultural Theory of Cognitive Development, what does the term 'Scaffolding' refer to in an instructional context?",
+      "options": [
+        "Permanent structural support provided by the teacher throughout the student's entire schooling",
+        "Temporary support given by a More Knowledgeable Other (MKO) that is gradually withdrawn as the learner gains independence",
+        "A behavioral system of extrinsic rewards given to students for completing difficult tasks",
+        "The physical arrangement of classroom seating to facilitate peer interaction"
+      ],
+      "answer": 1,
+      "explanation": "In Vygotsky's theory (popularized by Jerome Bruner in an instructional context), 'Scaffolding' is tailored, temporary support provided by a teacher or More Knowledgeable Other (MKO) within the Zone of Proximal Development (ZPD). This assistance is progressively removed (faded) as the learner achieves mastery and independence.",
+      "translations": {
+        "or": {
+          "question": "ଲେଭ ଭିଗୋଟ୍ସ୍କିଙ୍କ (Lev Vygotsky) ସାମାଜିକ-ସାଂସ୍କୃତିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଶିକ୍ଷାଦାନ ପରିବେଶରେ 'ସ୍କାଫୋଲ୍ଡିଂ' (Scaffolding) ଶବ୍ଦଟି କାହାକୁ ସୂଚିତ କରେ?",
+          "options": [
+            "ଛାତ୍ରଙ୍କ ସମ୍ପୂର୍ଣ୍ଣ ଶିକ୍ଷା ଗ୍ରହଣ କାଳରେ ଶିକ୍ଷକଙ୍କ ଦ୍ୱାରା ପ୍ରଦତ୍ତ ସ୍ଥାୟୀ ସଂରଚନାତ୍ମକ ସହାୟତା",
+            "ଜଣେ ଅଧିକ ଜ୍ଞାନୀ ବ୍ୟକ୍ତି (MKO) ଙ୍କ ଦ୍ୱାରା ଦିଆଯାଉଥିବା ଅସ୍ଥାୟୀ ସହାୟତା, ଯାହା ଶିକ୍ଷାର୍ଥୀ ଆତ୍ମନିର୍ଭରଶୀଳ ହେବା ସହିତ ଧୀରେ ଧୀରେ ହ୍ରାସ କରାଯାଏ",
+            "କଠିନ କାର୍ଯ୍ୟ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଛାତ୍ରମାନଙ୍କୁ ଦିଆଯାଉଥିବା ବାହ୍ୟ ଆଚରଣଗତ ପୁରସ୍କାରର ଏକ ବ୍ୟବସ୍ଥା",
+            "ସାଥୀମାନଙ୍କ ମଧ୍ୟରେ କଥାବାର୍ତ୍ତାକୁ ସହଜ କରିବା ପାଇଁ ଶ୍ରେଣୀଗୃହର ଆସବାବପତ୍ରର ଭୌତିକ ସଜ୍ଜିକରଣ"
+          ],
+          "explanation": "ଭିଗୋଟ୍ସ୍କିଙ୍କ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, 'ସ୍କାଫୋଲ୍ଡିଂ' ହେଉଛି ଜଣେ ଅଧିକ ଜ୍ଞାନୀ ବ୍ୟକ୍ତିଙ୍କ ଦ୍ୱାରା ପ୍ରଦତ୍ତ ଅସ୍ଥାୟୀ ସହାୟତା, ଯାହା ଶିକ୍ଷାର୍ଥୀ ନିଜେ କାର୍ଯ୍ୟ କରିବାକୁ ସମର୍ଥ ହେବା ସହିତ ପ୍ରତ୍ୟାହାର କରାଯାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297206162-1",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment and Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In educational evaluation and measurement, which level of scale (as classified by S.S. Stevens) possesses a true, absolute zero point, allowing for meaningful numerical ratios between measurements?",
+      "options": [
+        "Nominal Scale",
+        "Ordinal Scale",
+        "Interval Scale",
+        "Ratio Scale"
+      ],
+      "answer": 3,
+      "explanation": "S.S. Stevens classified measurement into four levels: Nominal, Ordinal, Interval, and Ratio. The Ratio scale is the highest level of measurement and possesses a non-arbitrary, true absolute zero point (representing the complete absence of the property being measured), which allows for valid statements about ratios (e.g., 'twice as much').",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଗତ ମୂଲ୍ୟାଙ୍କନ ଏବଂ ମାପରେ, ଏସ.ଏସ. ଷ୍ଟିଭେନ୍ସ (S.S. Stevens) ଙ୍କ ଦ୍ୱାରା ବର୍ଗୀକୃତ କେଉଁ ମାପକ ସ୍କେଲ୍‌ରେ (level of scale) ଏକ ପ୍ରକୃତ/ନିଶ୍ଚିତ ଶୂନ୍ୟ ବିନ୍ଦୁ (absolute zero point) ଥାଏ, ଯାହା ମାପଗୁଡ଼ିକ ମଧ୍ୟରେ ଅର୍ଥପୂର୍ଣ୍ଣ ଗାଣିତିକ ଅନୁପାତ ସମ୍ଭବ କରିଥାଏ?",
+          "options": [
+            "ନାମସୂଚକ ସ୍କେଲ୍ (Nominal Scale)",
+            "କ୍ରମସୂଚକ ସ୍କେଲ୍ (Ordinal Scale)",
+            "ଅନ୍ତରାଳ ସ୍କେଲ୍ (Interval Scale)",
+            "ଅନୁପାତ ସ୍କେଲ୍ (Ratio Scale)"
+          ],
+          "explanation": "ଏସ.ଏସ. ଷ୍ଟିଭେନ୍ସଙ୍କ ଚାରୋଟି ମାପକ ସ୍କେଲ ମଧ୍ୟରୁ 'ଅନୁପାତ ସ୍କେଲ୍' (Ratio Scale) ହେଉଛି ସବୁଠାରୁ ଉଚ୍ଚ ସ୍ତରର, ଯେଉଁଥିରେ ଏକ ପ୍ରକୃତ/ନିଶ୍ଚିତ ଶୂନ୍ୟ ବିନ୍ଦୁ ଥାଏ ଏବଂ ଏହା ଗାଣିତିକ ଅନୁପାତ ମାପିବାକୁ ସକ୍ଷମ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297317343-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following coordination complexes is paramagnetic?",
+      "options": [
+        "[Ni(CN)4]2-",
+        "[Fe(CN)6]4-",
+        "[Fe(H2O)6]3+",
+        "[Zn(NH3)4]2+"
+      ],
+      "answer": 2,
+      "explanation": "[Fe(H2O)6]3+ contains Fe3+, which has a d5 electronic configuration. Since H2O is a weak-field ligand, it forms a high-spin complex with 5 unpaired electrons, making it strongly paramagnetic. On the other hand, [Ni(CN)4]2- (d8, square planar), [Fe(CN)6]4- (low-spin d6), and [Zn(NH3)4]2+ (d10) are all diamagnetic.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ କୋଅର୍ଡିନେସନ୍ କମ୍ପ୍ଲେକ୍ସଟି ପାରାମ୍ୟାଗ୍ନେଟିକ୍ (paramagnetic) ଅଟେ?",
+          "options": [
+            "[Ni(CN)4]2-",
+            "[Fe(CN)6]4-",
+            "[Fe(H2O)6]3+",
+            "[Zn(NH3)4]2+"
+          ],
+          "explanation": "[Fe(H2O)6]3+ ରେ Fe3+ ରହିଛି, ଯାହାର d5 ଇଲେକ୍ଟ୍ରୋନିକ୍ କନ୍ଫିଗୁରେସନ୍ ଅଛି। H2O ଏକ ଦୁର୍ବଳ ଫିଲ୍ଡ ଲିଗାଣ୍ଡ ହୋଇଥିବାରୁ, ଏହା 5ଟି ଅଯୁଗ୍ମ ଇଲେକ୍ଟ୍ରନ୍ ସହିତ ଏକ ହାଇ-ସ୍ପିନ୍ କମ୍ପ୍ଲେକ୍ସ ଗଠନ କରେ, ଯାହା ଏହାକୁ ପାରାମ୍ୟାଗ୍ନେଟିକ୍ କରିଥାଏ। ଅନ୍ୟପକ୍ଷରେ, [Ni(CN)4]2-, [Fe(CN)6]4- ଏବଂ [Zn(NH3)4]2+ ସମସ୍ତେ ଡାୟାମ୍ୟାଗ୍ନେଟିକ୍ ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297317343-1",
+      "section": "Subject Knowledge",
+      "topic": "Pericyclic Reactions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under thermal conditions, the electrocyclic ring-opening of trans-3,4-dimethylcyclobutene proceeds via a conrotatory pathway to predominantly yield which of the following products?",
+      "options": [
+        "(2E,4E)-hexa-2,4-diene",
+        "(2E,4Z)-hexa-2,4-diene",
+        "(3Z,5E)-hepta-2,4-diene",
+        "cyclohex-1,3-diene"
+      ],
+      "answer": 0,
+      "explanation": "According to the Woodward-Hoffmann rules, thermal electrocyclic reactions of 4n π-electron systems (here, n=1, giving 4 π-electrons) occur via a conrotatory mode. For trans-3,4-dimethylcyclobutene, conrotatory motion causes both methyl groups to rotate outward into E positions to minimize steric hindrance, predominantly yielding (2E,4E)-hexa-2,4-diene.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ତାପୀୟ ପରିସ୍ଥିତିରେ (thermal conditions), trans-3,4-dimethylcyclobutene ର ଇଲେକ୍ଟ୍ରୋସାଇକ୍ଲିକ୍ ରିଙ୍ଗ-ଓପନିଂ କନ୍‌ରୋଟେଟରୀ (conrotatory) ପାଥୱେ ଦ୍ୱାରା ପ୍ରମୁଖ ଭାବରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଉତ୍ପାଦ ପ୍ରଦାନ କରେ?",
+          "options": [
+            "(2E,4E)-hexa-2,4-diene",
+            "(2E,4Z)-hexa-2,4-diene",
+            "(3Z,5E)-hepta-2,4-diene",
+            "cyclohex-1,3-diene"
+          ],
+          "explanation": "ୱୁଡୱାର୍ଡ-ହଫମ୍ୟାନ୍ (Woodward-Hoffmann) ନିୟମ ଅନୁସାରେ, 4n π-ଇଲେକ୍ଟ୍ରୋନ୍ ସିଷ୍ଟମର ତାପୀୟ ଇଲେକ୍ଟ୍ରୋସାଇକ୍ଲିକ୍ ପ୍ରତିକ୍ରିୟା କନ୍‌ରୋଟେଟରୀ ମୋଡ୍ ଦ୍ୱାରା ଘଟିଥାଏ। trans-3,4-dimethylcyclobutene ପାଇଁ, କନ୍‌ରୋଟେଟରୀ ଗତି ଦ୍ୱାରା ଦୁଇଟି ମିଥାଇଲ୍ ଗ୍ରୁପ୍ ବାହାରକୁ E ପୋଜିସନ୍‌କୁ ଘୁରିଯାଆନ୍ତି, ଯାହା ମୁଖ୍ୟତଃ (2E,4E)-hexa-2,4-diene ଉତ୍ପନ୍ନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297376246-0",
+      "section": "Child Development",
+      "topic": "Erikson's Psychosocial Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Erik Erikson's theory of psychosocial development, what is the primary developmental crisis faced by children during the early childhood stage (ages 3 to 5 years)?",
+      "options": [
+        "Trust vs. Mistrust",
+        "Autonomy vs. Shame and Doubt",
+        "Initiative vs. Guilt",
+        "Industry vs. Inferiority"
+      ],
+      "answer": 2,
+      "explanation": "During early childhood (preschool years, ages 3-5), children enter the stage of 'Initiative vs. Guilt'. In this stage, children attempt to assert control and power over their environment by planning activities, accomplishing tasks, and facing challenges.",
+      "translations": {
+        "or": {
+          "question": "ଏରିକ୍ ଏରିକସନ୍‌ଙ୍କ ମନୋସାମାଜିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ପ୍ରାରମ୍ଭିକ ଶୈଶବାବସ୍ଥା (୩ ରୁ ୫ ବର୍ଷ) ମଧ୍ୟରେ ଶିଶୁମାନେ କେଉଁ ମୁଖ୍ୟ ବିକାଶମୂଳକ ସଙ୍କଟର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି?",
+          "options": [
+            "ବିଶ୍ୱାସ ବନାମ ଅବିଶ୍ୱାସ (Trust vs. Mistrust)",
+            "ସ୍ୱାୟତ୍ତତା ବନାମ ଲଜ୍ଜା ଓ ସନ୍ଦେହ (Autonomy vs. Shame and Doubt)",
+            "ଆତ୍ମ-ପ୍ରଚେଷ୍ଟା ବନାମ ଦୋଷୀଭାବ (Initiative vs. Guilt)",
+            "ପରିଶ୍ରମ ବନାମ ହିନମନ୍ୟତା (Industry vs. Inferiority)"
+          ],
+          "explanation": "ପ୍ରାରମ୍ଭିକ ଶୈଶବାବସ୍ଥାରେ (୩ ରୁ ୫ ବର୍ଷ), ଶିଶୁମାନେ 'ଆତ୍ମ-ପ୍ରଚେଷ୍ଟା ବନାମ ଦୋଷୀଭାବ' (Initiative vs. Guilt) ସଙ୍କଟର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି। ଏହି ସମୟରେ ସେମାନେ ନିଜର ଯୋଜନା ଓ ଖେଳ ମାଧ୍ୟମରେ ପରିବେଶ ଉପରେ ନିୟନ୍ତ୍ରଣ ଓ ନେତୃତ୍ୱ ନେବାର କ୍ଷମତା ବିକଶିତ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297376246-1",
+      "section": "Child Development",
+      "topic": "Cognitive Development & Strategy Choice",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robert Siegler's Overlapping Waves Theory of cognitive development, how do children's problem-solving strategies evolve over time?",
+      "options": [
+        "Children replace older, less effective strategies abruptly with a single new strategy in a step-like progression.",
+        "Children maintain a repertoire of multiple strategies simultaneously, with the relative frequency of strategy usage shifting gradually based on efficiency and accuracy.",
+        "Children strictly follow a fixed sequence of strategies that are biologically hardwired to mature at specific chronological ages.",
+        "Children rely exclusively on trial-and-error strategies until formal operational thinking is fully attained."
+      ],
+      "answer": 1,
+      "explanation": "Robert Siegler's Overlapping Waves Theory posits that cognitive development is dynamic and non-linear. Rather than moving abruptly from one stage or strategy to another, children possess multiple competing strategies simultaneously. Over time and experience, the frequency of using more efficient and accurate strategies gradually increases while reliance on less effective strategies diminishes.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ସିଗଲର୍‌ଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶର 'ଓଭରଲ୍ୟାପିଂ ୱେଭ୍ସ ସିଦ୍ଧାନ୍ତ' (Overlapping Waves Theory) ଅନୁଯାୟୀ, ସମୟ ସହିତ ଶିଶୁମାନଙ୍କର ସମସ୍ୟା ସମାଧାନ କୌଶଳ କିପରି ପରିବର୍ତ୍ତିତ ହୁଏ?",
+          "options": [
+            "ଶିଶୁମାନେ ହଠାତ୍ ପୁରୁଣା, କମ୍ ପ୍ରଭାବଶାଳୀ କୌଶଳଗୁଡ଼ିକୁ ଏକ ନୂତନ କୌଶଳ ଦ୍ୱାରା ଏକ ସୋପାନ ଆକାରରେ ବଦଳାଇଥାନ୍ତି।",
+            "ଶିଶୁମାନେ ଏକାସାଙ୍ଗରେ ଏକାଧିକ କୌଶଳ ବ୍ୟବହାର କରନ୍ତି, ଏବଂ ଦକ୍ଷତା ଓ ନିର୍ଭୁଲତା ଆଧାରରେ କୌଶଳ ବ୍ୟବହାରର ପରିମାଣ ଧୀରେ ଧୀରେ ପରିବର୍ତ୍ତିତ ହୁଏ।",
+            "ଶିଶୁମାନେ କଠୋର ଭାବରେ କୌଶଳଗୁଡ଼ିକର ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କ୍ରମ ଅନୁସରଣ କରନ୍ତି ଯାହା ଜୈବିକ ଭାବରେ ନିର୍ଦ୍ଦିଷ୍ଟ ବୟସରେ ବିକଶିତ ହୁଏ।",
+            "ଆନୁଷ୍ଠାନିକ କାର୍ଯ୍ୟକାରୀ ଚିନ୍ତନ (Formal operational thinking) ସମ୍ପୂର୍ଣ୍ଣ ନ ହେବା ପର୍ଯ୍ୟନ୍ତ ଶିଶୁମାନେ କେବଳ ପରୀକ୍ଷା ଓ ଭୁଲ୍ କୌଶଳ ଉପରେ ନିର୍ଭର କରନ୍ତି।"
+          ],
+          "explanation": "ରବର୍ଟ ସିଗଲର୍‌ଙ୍କ ଓଭରଲ୍ୟାପିଂ ୱେଭ୍ସ ସିଦ୍ଧାନ୍ତ ଅନୁସାରେ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ଗତିଶୀଳ ଏବଂ ଅସରଳ। ଶିଶୁମାନେ ଏକାସାଙ୍ଗରେ ଏକାଧିକ କୌଶଳ ବ୍ୟବହାର କରନ୍ତି; ଅଭିଜ୍ଞତା ବୃଦ୍ଧି ପାଇବା ସହିତ ଅଧିକ ପ୍ରଭାବଶାଳୀ ଓ ନିର୍ଭୁଲ କୌଶଳର ବ୍ୟବହାର ଧୀରେ ଧୀରେ ବୃଦ୍ଧି ପାଏ ଏବଂ କମ୍ ପ୍ରଭାବଶାଳୀ କୌଶଳର ବ୍ୟବହାର ହ୍ରାସ ପାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297387395-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which committee recommended the inclusion of Fundamental Duties in the Constitution of India?",
+      "options": [
+        "Swaran Singh Committee",
+        "Sarkaria Commission",
+        "Balwant Rai Mehta Committee",
+        "Verma Committee"
+      ],
+      "answer": 0,
+      "explanation": "The Swaran Singh Committee recommended the inclusion of Fundamental Duties in the Constitution of India in 1976, which led to the insertion of Article 51A via the 42nd Constitutional Amendment Act.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନରେ ମୌଳିକ କର୍ତ୍ତବ୍ୟର ଅନ୍ତର୍ଭୁକ୍ତି ପାଇଁ କେଉଁ କମିଟି ସୁପାରିଶ କରିଥିଲା?",
+          "options": [
+            "ସ୍ୱରଣ ସିଂ କମିଟି",
+            "ସରକାରିଆ କମିଶନ",
+            "ବଳବନ୍ତ ରାୟ ମେହେଟ୍ଟା କମିଟି",
+            "ବର୍ମା କମିଟି"
+          ],
+          "explanation": "୧୯୭୬ ମସିହାରେ ସ୍ୱରଣ ସିଂ କମିଟି ଭାରତୀୟ ସମ୍ବିଧାନରେ ମୌଳିକ କର୍ତ୍ତବ୍ୟ ଅନ୍ତର୍ଭୁକ୍ତ କରିବାକୁ ସୁପାରିଶ କରିଥିଲା, ଯାହା ୪୨ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ ଦ୍ୱାରା ଧାରା ୫୧A ଭାବରେ ଯୋଡ଼ାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785297387395-1",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which among the following Biosphere Reserves of India was the FIRST to be included in UNESCO's World Network of Biosphere Reserves under the Man and the Biosphere (MAB) Programme?",
+      "options": [
+        "Sundarbans Biosphere Reserve",
+        "Nilgiri Biosphere Reserve",
+        "Nanda Devi Biosphere Reserve",
+        "Gulf of Mannar Biosphere Reserve"
+      ],
+      "answer": 1,
+      "explanation": "The Nilgiri Biosphere Reserve was designated as a biosphere reserve in 1986 and became the first biosphere reserve from India to be included in UNESCO's World Network of Biosphere Reserves in the year 2000.",
+      "translations": {
+        "or": {
+          "question": "ୟୁନେସ୍କୋର 'ମ୍ୟାନ୍ ଆଣ୍ଡ୍ ଦି ବାୟୋସ୍ଫିୟର୍ (MAB)' କାର୍ଯ୍ୟକ୍ରମ ଅଧୀନରେ ୟୁନେସ୍କୋର ୱାର୍ଲ୍ଡ ନେଟୱାର୍କ ଅଫ୍ ବାୟୋସ୍ଫିୟର୍ ରିଜର୍ଭରେ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇଥିବା ଭାରତର ପ୍ରଥମ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ କେଉଁଟି?",
+          "options": [
+            "ସୁନ୍ଦରବନ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ନୀଳଗିରି ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ନନ୍ଦା ଦେବୀ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ମନ୍ନାର ଉପସାଗର ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ"
+          ],
+          "explanation": "ନୀଳଗିରି ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ ୧୯୮୬ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା ଏବଂ ୨୦୦୦ ମସିହାରେ ୟୁନେସ୍କୋର ୱାର୍ଲ୍ଡ ନେଟୱାର୍କ ଅଫ୍ ବାୟୋସ୍ଫିୟର୍ ରିଜର୍ଭରେ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇଥିବା ଭାରତର ପ୍ରଥମ ଜୈବମଣ୍ଡଳ ଅଞ୍ଚଳ ଥିଲା।"
+        }
+      }
     }
   ]
 }
