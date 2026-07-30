@@ -5877,6 +5877,176 @@
       "answer": 1,
       "explanation": "The Reserve Bank - Integrated Ombudsman Scheme, 2021 amalgamated three existing schemes: (1) The Banking Ombudsman Scheme, 2006, (2) The Ombudsman Scheme for Non-Banking Financial Companies, 2018, and (3) The Ombudsman Scheme for Digital Transactions, 2019.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-0",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which national park in India is the world's only floating national park and the natural habitat of the endangered Sangai deer?",
+      "options": [
+        "Kaziranga National Park",
+        "Keibul Lamjao National Park",
+        "Namdapha National Park",
+        "Dachigam National Park"
+      ],
+      "answer": 1,
+      "explanation": "Keibul Lamjao National Park, located on Loktak Lake in Manipur, is the world's only floating national park and is famous for being the home of the Sangai deer (brow-antlered deer)."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-1",
+      "section": "General Awareness",
+      "topic": "Capitals & Currencies",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the official currency of South Korea?",
+      "options": [
+        "Yen",
+        "Yuan",
+        "Won",
+        "Ringgit"
+      ],
+      "answer": 2,
+      "explanation": "The official currency of South Korea is the South Korean Won (KRW)."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-2",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the primary scientific objective of ISRO's 'XPoSat' (X-ray Polarimeter Satellite) mission launched in January 2024?",
+      "options": [
+        "To measure the polarization of intense celestial X-ray sources",
+        "To map lunar surface water ice deposits in high resolution",
+        "To provide precise positioning signals for civil aviation",
+        "To monitor soil moisture and vegetation cover globally"
+      ],
+      "answer": 0,
+      "explanation": "XPoSat is India's dedicated polarimetry mission designed to study the polarization of celestial X-ray sources such as black holes, neutron stars, and active galactic nuclei."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-3",
+      "section": "General Awareness",
+      "topic": "National & International Organizations",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Where is the headquarters of the New Development Bank (NDB), established by the BRICS countries, located?",
+      "options": [
+        "Beijing, China",
+        "Shanghai, China",
+        "Moscow, Russia",
+        "New Delhi, India"
+      ],
+      "answer": 1,
+      "explanation": "The New Development Bank (NDB), formerly known as the BRICS Development Bank, has its headquarters located in Shanghai, China."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-4",
+      "section": "General Awareness",
+      "topic": "Books & Authors",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who authored the novel 'The White Tiger', which won the prestigious Man Booker Prize in 2008?",
+      "options": [
+        "Arundhati Roy",
+        "Aravind Adiga",
+        "Kiran Desai",
+        "Salman Rushdie"
+      ],
+      "answer": 1,
+      "explanation": "'The White Tiger' is the debut novel by Indian author Aravind Adiga, which won the 40th Man Booker Prize in 2008."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-5",
+      "section": "General Awareness",
+      "topic": "Important Days & Themes",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In India, 'National Good Governance Day' is celebrated annually on December 25th to mark the birth anniversary of which former Prime Minister?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Atal Bihari Vajpayee",
+        "Lal Bahadur Shastri",
+        "Rajiv Gandhi"
+      ],
+      "answer": 1,
+      "explanation": "Good Governance Day is observed every year on December 25 in India to honor the birth anniversary of former Prime Minister Atal Bihari Vajpayee."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-6",
+      "section": "General Awareness",
+      "topic": "Awards & Honours",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who was the first recipient of the Rajiv Gandhi Khel Ratna Award (now renamed Major Dhyan Chand Khel Ratna Award) introduced in 1991–92?",
+      "options": [
+        "Sachin Tendulkar",
+        "Viswanathan Anand",
+        "Leander Paes",
+        "Karnam Malleswari"
+      ],
+      "answer": 1,
+      "explanation": "Grandmaster Viswanathan Anand was the first recipient of the Khel Ratna Award in the inaugural year 1991–92 for his outstanding performance in chess."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-7",
+      "section": "General Awareness",
+      "topic": "Sports & Tournaments",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which country won its historic maiden Thomas Cup title in May 2022 by defeating 14-time champions Indonesia in the final?",
+      "options": [
+        "Malaysia",
+        "Denmark",
+        "India",
+        "Japan"
+      ],
+      "answer": 2,
+      "explanation": "The Indian men's badminton team scripted history in May 2022 by winning their first-ever Thomas Cup title after defeating 14-time champions Indonesia 3-0 in Bangkok."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-8",
+      "section": "General Awareness",
+      "topic": "Space & Defence (ISRO, DRDO)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Project 75 (P-75) of the Indian Navy, six Scorpène-class diesel-electric attack submarines were constructed by MDL. Which of the following is the sixth and final submarine delivered under this project?",
+      "options": [
+        "INS Kalvari",
+        "INS Karanj",
+        "INS Vagsheer",
+        "INS Vagir"
+      ],
+      "answer": 2,
+      "explanation": "The six P-75 submarines are Kalvari, Khanderi, Karanj, Vela, Vagir, and Vagsheer. INS Vagsheer is the sixth and final submarine of the Project 75 sequence."
+    },
+    {
+      "id": "sbi-clerk-gk-1785385191939-9",
+      "section": "General Awareness",
+      "topic": "Environment & Ecology",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "The Nagoya Protocol, a supplementary agreement to the UN Convention on Biological Diversity (CBD), primarily provides a framework for which of the following?",
+      "options": [
+        "Control of transboundary movements of hazardous wastes and their disposal",
+        "Fair and equitable sharing of benefits arising from the utilization of genetic resources",
+        "Phasing out the production and consumption of ozone-depleting substances",
+        "Establishing binding national targets for greenhouse gas emission reductions"
+      ],
+      "answer": 1,
+      "explanation": "The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) aims to ensure fair sharing of benefits derived from genetic resources."
     }
   ]
 }

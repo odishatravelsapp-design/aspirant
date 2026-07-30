@@ -3119,6 +3119,261 @@
           "explanation": "'A-not-B ତ୍ରୁଟି' ସାଧାରଣତଃ ଉପ-ପର୍ଯ୍ୟାୟ ୪ (ଦ୍ୱିତୀୟକ ବୃତ୍ତାକାର ପ୍ରତିକ୍ରିୟାର ସମନ୍ୱୟ, ପ୍ରାୟ ୮-୧୨ ମାସ) ରେ ଦେଖାଯାଏ, ଯେଉଁଠାରେ ଶିଶୁଟି ଏକ ଲୁଚାଯାଇଥିବା ବସ୍ତୁକୁ 'स्थान B' କୁ ସ୍ଥାନାନ୍ତର କରାଯାଉଥିବା ଦେଖିବା ପରେ ମଧ୍ୟ ପୂର୍ବରୁ ମିଳିଥିବା 'स्थान A' ରେ ହିଁ ଖୋଜିଥାଏ।"
         }
       }
+    },
+    {
+      "id": "tgt-edu-1785385160123-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which branch of psychology focuses specifically on the scientific study of human learning processes, pedagogical interventions, and psychological aspects of educational settings?",
+      "options": [
+        "Clinical Psychology",
+        "Educational Psychology",
+        "Social Psychology",
+        "Abnormal Psychology"
+      ],
+      "answer": 1,
+      "explanation": "Educational Psychology is the branch of psychology concerned with how human beings learn in educational settings, evaluating instructional techniques, and understanding individual differences in learning."
+    },
+    {
+      "id": "tgt-edu-1785385160123-1",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to developmental psychology, the 'Cephalocaudal' trend of physical development dictates that motor control and growth proceed from:",
+      "options": [
+        "The center of the body outward to extremities",
+        "Head downwards towards the feet",
+        "General motor responses to specific responses",
+        "Inanimate awareness to self-awareness"
+      ],
+      "answer": 1,
+      "explanation": "The cephalocaudal principle states that development proceeds from top to bottom; a child gains control over head and facial movements before legs and feet."
+    },
+    {
+      "id": "tgt-edu-1785385160123-2",
+      "section": "Teaching Aptitude",
+      "topic": "Child Development & Pedagogy",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which developmental principle states that physical growth and development proceed outward from the central longitudinal axis of the body toward the extremities?",
+      "options": [
+        "Cephalocaudal principle",
+        "Proximodistal principle",
+        "Principle of Differentiation",
+        "Principle of Interdependence"
+      ],
+      "answer": 1,
+      "explanation": "The proximodistal principle of development asserts that growth proceeds from the center of the body outward (e.g., control over arms before fingers)."
+    },
+    {
+      "id": "tgt-edu-1785385160123-3",
+      "section": "Teaching Aptitude",
+      "topic": "Piaget's Cognitive Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Jean Piaget's theory, when a child understands that the quantity of a liquid remains the same despite being poured into a tall, narrow glass from a short, wide beaker, the child has developed:",
+      "options": [
+        "Object Permanence",
+        "Conservation",
+        "Egocentrism",
+        "Hypothetico-deductive reasoning"
+      ],
+      "answer": 1,
+      "explanation": "Conservation is the realization that fundamental physical properties (mass, volume, quantity) remain constant even when outward appearance changes, achieved in the Concrete Operational stage."
+    },
+    {
+      "id": "tgt-edu-1785385160123-4",
+      "section": "Teaching Aptitude",
+      "topic": "Piaget's Cognitive Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Piaget's preoperational stage analysis, a young child's belief that non-living physical objects (such as the Sun or a doll) possess intentions, emotions, and life-like qualities is known as:",
+      "options": [
+        "Animism",
+        "Artificialism",
+        "Transductive reasoning",
+        "Phenomenalism"
+      ],
+      "answer": 0,
+      "explanation": "Animism is the tendency of preoperational children to attribute human feelings, intentions, and consciousness to inanimate objects."
+    },
+    {
+      "id": "tgt-edu-1785385160123-5",
+      "section": "Teaching Aptitude",
+      "topic": "Vygotsky's Sociocultural Theory",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Lev Vygotsky's Sociocultural Theory, what does the acronym 'ZPD' stand for?",
+      "options": [
+        "Zone of Proximal Development",
+        "Zone of Primary Development",
+        "Zone of Physical Development",
+        "Zone of Psychological Distance"
+      ],
+      "answer": 0,
+      "explanation": "ZPD stands for the Zone of Proximal Development, defined as the distance between actual independent problem-solving ability and potential development under guidance."
+    },
+    {
+      "id": "tgt-edu-1785385160123-6",
+      "section": "Teaching Aptitude",
+      "topic": "Vygotsky's Sociocultural Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Vygotskyian pedagogy, temporary instructional support given by a teacher or more competent peer, which is gradually removed as the student gains autonomy, is termed:",
+      "options": [
+        "Assimilation",
+        "Scaffolding",
+        "Operant conditioning",
+        "Vicarious learning"
+      ],
+      "answer": 1,
+      "explanation": "Scaffolding (a term popularized by Jerome Bruner in connection with Vygotsky's work) refers to tailored support provided to learners within their ZPD."
+    },
+    {
+      "id": "tgt-edu-1785385160123-7",
+      "section": "Teaching Aptitude",
+      "topic": "Kohlberg's Moral Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Lawrence Kohlberg's theory, an individual who obeys rules purely to avoid physical punishment is operating at which level of moral development?",
+      "options": [
+        "Pre-conventional level",
+        "Conventional level",
+        "Post-conventional level",
+        "Universal ethical level"
+      ],
+      "answer": 0,
+      "explanation": "Stage 1 (Punishment and Obedience Orientation) falls under the Pre-conventional level, where moral decisions are determined by direct physical consequences."
+    },
+    {
+      "id": "tgt-edu-1785385160123-8",
+      "section": "Teaching Aptitude",
+      "topic": "Kohlberg's Moral Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Lawrence Kohlberg's stage model, Stage 5 (Social Contract and Individual Rights) belongs to which broader level of moral reasoning?",
+      "options": [
+        "Pre-conventional Morality",
+        "Conventional Morality",
+        "Post-conventional Morality",
+        "Sub-conventional Morality"
+      ],
+      "answer": 2,
+      "explanation": "Stage 5 (Social Contract and Individual Rights) and Stage 6 (Universal Ethical Principles) comprise Level III: Post-conventional Morality."
+    },
+    {
+      "id": "tgt-edu-1785385160123-9",
+      "section": "Teaching Aptitude",
+      "topic": "Behaviourism (Pavlov, Skinner)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Ivan Pavlov's classical conditioning experiments, before any conditioning took place, the sound of the bell initially served as a/an:",
+      "options": [
+        "Unconditioned Stimulus (UCS)",
+        "Conditioned Stimulus (CS)",
+        "Neutral Stimulus (NS)",
+        "Unconditioned Response (UCR)"
+      ],
+      "answer": 2,
+      "explanation": "Before association with meat powder, the sound of the bell elicited no salivation response and acted strictly as a Neutral Stimulus (NS)."
+    },
+    {
+      "id": "tgt-edu-1785385160123-10",
+      "section": "Teaching Aptitude",
+      "topic": "Behaviourism (Pavlov, Skinner)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In B.F. Skinner's Operant Conditioning framework, removing an unpleasant stimulus (such as exempting a student from a hated chore) after a desired behavior occurs is an application of:",
+      "options": [
+        "Positive Reinforcement",
+        "Negative Reinforcement",
+        "Positive Punishment",
+        "Negative Punishment"
+      ],
+      "answer": 1,
+      "explanation": "Negative Reinforcement involves strengthening a behavior by removing or suppressing an aversive or unpleasant stimulus."
+    },
+    {
+      "id": "tgt-edu-1785385160123-11",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitivism & Information Processing",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Atkinson and Shiffrin's stage model of memory, which memory structure has an virtually unlimited capacity and can retain information over extended periods?",
+      "options": [
+        "Sensory Register",
+        "Short-Term Memory",
+        "Working Memory",
+        "Long-Term Memory"
+      ],
+      "answer": 3,
+      "explanation": "Long-Term Memory (LTM) is considered to have unlimited capacity and long duration, storing information across days, years, or a lifetime."
+    },
+    {
+      "id": "tgt-edu-1785385160123-12",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitivism & Information Processing",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Sweller's Cognitive Load Theory, which type of cognitive load refers specifically to the inherent complexity and internal structure of the instructional material itself?",
+      "options": [
+        "Extraneous Cognitive Load",
+        "Intrinsic Cognitive Load",
+        "Germane Cognitive Load",
+        "Generative Cognitive Load"
+      ],
+      "answer": 1,
+      "explanation": "Intrinsic Cognitive Load is generated by the inherent difficulty and element interactivity of the material to be learned, independent of instructional design."
+    },
+    {
+      "id": "tgt-edu-1785385160123-13",
+      "section": "Teaching Aptitude",
+      "topic": "Constructivism",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which fundamental principle best defines Ernst von Glasersfeld's perspective of Radical Constructivism?",
+      "options": [
+        "Knowledge is passively received from external reality through direct observation",
+        "Knowledge is actively built up by the cognizing subject, not passively received from the environment",
+        "Learning is driven exclusively by observable stimulus-response contingencies",
+        "Cognitive development is entirely predetermined by genetic maturation"
+      ],
+      "answer": 1,
+      "explanation": "Radical Constructivism, formulated by von Glasersfeld, posits that knowledge is actively constructed by the learner rather than passively absorbed from an objective reality."
+    },
+    {
+      "id": "tgt-edu-1785385160123-14",
+      "section": "Teaching Aptitude",
+      "topic": "Constructivism",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the widely adopted 5E Constructivist Instructional Model (Engage, Explore, Explain, Elaborate, Evaluate), which phase explicitly aims to uncover prior knowledge and activate curiosity?",
+      "options": [
+        "Explore",
+        "Engage",
+        "Explain",
+        "Elaborate"
+      ],
+      "answer": 1,
+      "explanation": "The 'Engage' phase is the first step of the 5E Model, designed to spark student interest, capture attention, and reveal existing prior conceptions."
     }
   ]
 }
