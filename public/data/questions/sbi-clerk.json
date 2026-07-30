@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -5746,6 +5746,136 @@
       ],
       "answer": 1,
       "explanation": "Section 22 of the Reserve Bank of India Act, 1934 states that the Reserve Bank of India shall have the sole right to issue bank notes in India.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785382838601-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average score of a student in 5 subjects is 68. If the highest and lowest scores are excluded, the average score of the remaining 3 subjects becomes 70. If the difference between the highest and lowest scores is 24, what is the highest score?",
+      "options": [
+        "77",
+        "72",
+        "81",
+        "65"
+      ],
+      "answer": 0,
+      "explanation": "Total score in 5 subjects = 5 * 68 = 340. Total score in remaining 3 subjects = 3 * 70 = 210. Sum of highest (H) and lowest (L) scores = 340 - 210 = 130. Given H - L = 24. Adding the two equations: 2H = 154 => H = 77."
+    },
+    {
+      "id": "sbi-clerk-ai-1785382838601-1",
+      "section": "Quant",
+      "topic": "Profit, Loss & Mixtures",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper buys two varieties of tea, Variety A at ₹160 per kg and Variety B at ₹260 per kg. He mixes them in a certain ratio and sells the mixture at ₹230 per kg, earning a profit of 15%. If he interchanges the ratio of the two varieties in the new mixture and sells it at ₹209 per kg, what is his profit or loss percentage?",
+      "options": [
+        "5% Profit",
+        "5% Loss",
+        "10% Profit",
+        "10% Loss"
+      ],
+      "answer": 1,
+      "explanation": "Cost Price (CP) of original mixture = 230 / 1.15 = ₹200/kg. Using allegation: (Cost of B - CP) : (CP - Cost of A) = (260 - 200) : (200 - 160) = 60 : 40 = 3 : 2. So, Variety A : Variety B = 3 : 2. Interchanging the ratio gives Variety A : Variety B = 2 : 3. New CP = (2 * 160 + 3 * 260) / 5 = (320 + 780) / 5 = ₹220/kg. New SP = ₹209/kg. Loss = 220 - 209 = ₹11/kg. Loss % = (11 / 220) * 100 = 5%."
+    },
+    {
+      "id": "sbi-clerk-ai-1785382854374-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions numbered I and II. You have to take the given statements to be true even if they seem to be at variance from commonly known facts.\n\nStatements:\nOnly a few Pens are Pencils.\nAll Pencils are Erasers.\nNo Eraser is a Marker.\n\nConclusions:\nI. Some Pens are not Erasers.\nII. No Pencil is a Marker.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Pens are Pencils' means Some Pens are Pencils and Some Pens are not Pencils. Since All Pencils are Erasers, the Pencil part of Pens is inside Erasers, but all Pens can still potentially be Erasers. Thus, Conclusion I does not definitely follow.\n2. Since All Pencils are inside Erasers and No Eraser is a Marker, no Pencil can ever be a Marker. Thus, Conclusion II definitely follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1785382854374-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven friends—K, L, M, N, O, P, and Q—scored different marks in an examination.\n- M scored more than only two persons.\n- Q scored less than only N.\n- P scored more than M but less than O.\n- L scored more than K.\n\nWho among the following scored the third highest marks?",
+      "options": [
+        "O",
+        "P",
+        "Q",
+        "L"
+      ],
+      "answer": 0,
+      "explanation": "Arranging the 7 friends in descending order of marks:\n1. 'M scored more than only two persons' places M at 5th position from the top: _ > _ > _ > _ > M > _ > _.\n2. 'Q scored less than only N' means N is 1st and Q is 2nd: N > Q > _ > _ > M > _ > _.\n3. 'P scored more than M but less than O' places O in 3rd and P in 4th position: N > Q > O > P > M > _ > _.\n4. 'L scored more than K' places L in 6th and K in 7th position: N > Q > O > P > M > L > K.\n\nThus, O scored the third highest marks."
+    },
+    {
+      "id": "sbi-clerk-ai-1785382862029-0",
+      "section": "English",
+      "topic": "Phrase Replacement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the phrases (A), (B), (C), and (D) given below should replace the underlined phrase in the sentence to make it grammatically correct?\n\nSentence: Had the management taken timely action, the crisis **could be avoided** yesterday.",
+      "options": [
+        "could have been avoided",
+        "can be avoided",
+        "will have avoided",
+        "had avoided"
+      ],
+      "answer": 0,
+      "explanation": "The sentence uses an inverted third conditional structure ('Had + subject + past participle...'), which expresses an unfulfilled past condition. The main clause requires 'could/would/might + have + been + past participle' to convey passive past action. Therefore, 'could have been avoided' is grammatically correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1785382862029-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that logically and grammatically completes the given sentence:\n\nThe scientist's ________ research paper was widely acclaimed for its ________ analysis of climate data, leaving little room for skepticism.",
+      "options": [
+        "rudimentary ... superficial",
+        "groundbreaking ... rigorous",
+        "speculative ... ambiguous",
+        "obsolete ... detailed"
+      ],
+      "answer": 1,
+      "explanation": "The sentence mentions that the paper was 'widely acclaimed' and left 'little room for skepticism', which demands positive and strong adjectives. 'Groundbreaking' (pioneering/innovative) perfectly fits the first blank, and 'rigorous' (thorough/meticulous) fits the second blank."
+    },
+    {
+      "id": "sbi-clerk-ai-1785382875833-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the maximum limit of deposit insurance provided to a depositor by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per bank in India?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "The DICGC, a wholly owned subsidiary of the Reserve Bank of India, provides deposit insurance up to a maximum of ₹5 lakh for both principal and interest amounts held by a depositor in each insured bank.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785382875833-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS) launched in November 2021 integrated how many existing RBI ombudsman schemes into a single 'One Nation One Ombudsman' framework?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "The Reserve Bank - Integrated Ombudsman Scheme, 2021 amalgamated three existing schemes: (1) The Banking Ombudsman Scheme, 2006, (2) The Ombudsman Scheme for Non-Banking Financial Companies, 2018, and (3) The Ombudsman Scheme for Digital Transactions, 2019.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -8873,6 +8873,234 @@
             "ଲୁହାପଥର"
           ],
           "explanation": "ଯାଜପୁର ଜିଲ୍ଲାର ସୁକିନ୍ଦା ଉପତ୍ୟକାରେ ଭାରତର ମୋଟ ଗଚ୍ଛିତ କ୍ରୋମାଇଟ୍ ସମ୍ପଦର ପ୍ରାୟ ୯୮% ରହିଛି, ଯାହା ଓଡ଼ିଶାକୁ ଦେଶର ପ୍ରମୁଖ କ୍ରୋମାଇଟ୍ ଉତ୍ପାଦକ ରାଜ୍ୟ ଭାବେ ପରିଗଣିତ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383024578-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism and Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Aristotle's 'Poetics', which element of tragedy is identified as the second most important element following Plot ('Mythos')?",
+      "options": [
+        "Character ('Ethos')",
+        "Thought ('Dianoia')",
+        "Diction ('Lexis')",
+        "Spectacle ('Opsis')"
+      ],
+      "answer": 0,
+      "explanation": "According to Aristotle's 'Poetics', the six constituent elements of tragedy in descending order of importance are Plot ('Mythos'), Character ('Ethos'), Thought ('Dianoia'), Diction ('Lexis'), Song ('Melos'), and Spectacle ('Opsis').",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଆରିଷ୍ଟୋଟଲଙ୍କ 'ପୋଏଟିକ୍ସ' (Poetics) ରେ, ଟ୍ରାଜେଡିର କେଉଁ ଉପାଦାନଟି କାହାଣୀ/ପ୍ଲଟ୍ ('Mythos') ପରେ ଦ୍ୱିତୀୟ ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଉପାଦାନ ଭାବରେ ଚିହ୍ନଟ ହୋଇଛି?",
+          "options": [
+            "ଚରିତ୍ର ('Ethos')",
+            "ଚିନ୍ତାଧାରା ('Dianoia')",
+            "ଶବ୍ଦ ଶୈଳୀ ('Lexis')",
+            "ଦୃଶ୍ୟ ('Opsis')"
+          ],
+          "explanation": "ଆରିଷ୍ଟୋଟଲଙ୍କ 'ପୋଏଟିକ୍ସ' ଅନୁସାରେ, ଟ୍ରାଜେଡିର ଛଅଟି ଉପାଦାନ ଗୁରୁତ୍ୱ ଅନୁସାରେ ହେଉଛି: ପ୍ଲଟ୍ ('Mythos'), ଚରିତ୍ର ('Ethos'), ଚିନ୍ତାଧାରା ('Dianoia'), ଶବ୍ଦ ଶୈଳୀ ('Lexis'), ସଙ୍ଗୀତ ('Melos'), ଏବଂ ଦୃଶ୍ୟ ('Opsis')।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383024578-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian Writing in English",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Mulk Raj Anand's 1935 novel 'Untouchable', which prominent figure's arrival and speech near the end of the narrative offers one of the potential solutions to Bakha's plight?",
+      "options": [
+        "Mahatma Gandhi",
+        "B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Swami Vivekananda"
+      ],
+      "answer": 0,
+      "explanation": "At the climax of Mulk Raj Anand's 'Untouchable', Bakha listens to a public address by Mahatma Gandhi, who speaks against untouchability and advocates for the dignity of sweepers (calling them Harijans), offering a moral perspective on resolving untouchability alongside modern technological advancement (the flush toilet).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମୁଲ୍କ ରାଜ ଆନନ୍ଦଙ୍କ ୧୯୩୫ ର ଉପନ୍ୟାସ 'ଅନ୍‌ଟଚେବଲ୍' (Untouchable) ର ଶେଷ ଭାଗରେ, କେଉଁ ପ୍ରମୁଖ ବ୍ୟକ୍ତିତ୍ୱଙ୍କ ଆଗମନ ଏବଂ ଭାଷଣ ବାଖା (Bakha) ର ସମସ୍ୟାର ଏକ ସମ୍ଭାବ୍ୟ ସମାଧାନ ପ୍ରସ୍ତାବ କରେ?",
+          "options": [
+            "ମହାତ୍ମା ଗାନ୍ଧୀ",
+            "ବି. ଆର. ଆମ୍ବେଦକର",
+            "ଜବାହରଲାଲ ନେହେରୁ",
+            "ସ୍ୱାମୀ ବିବେକାନନ୍ଦ"
+          ],
+          "explanation": "ମୁଲ୍କ ରାଜ ଆନନ୍ଦଙ୍କ 'ଅନ୍‌ଟଚେବଲ୍' ଉପନ୍ୟାସର ଶେଷରେ, ବାଖା ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କର ଏକ ଜନସଭାରେ ଭାଷଣ ଶୁଣେ, ଯେଉଁଥିରେ ଗାନ୍ଧିଜୀ ଅସ୍ପୃଶ୍ୟତା ବିରୋଧରେ କହିବା ସହ ସଫାଇ କର୍ମଚାରୀଙ୍କ ମର୍ଯ୍ୟାଦା ବିଷୟରେ ଆଲୋଚନା କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383045003-0",
+      "section": "Teaching Aptitude",
+      "topic": "David Ausubel's Advance Organizer Model",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to David Ausubel's Meaningful Verbal Learning Theory, what is the primary purpose of an 'Advance Organizer'?",
+      "options": [
+        "To serve as a mental bridge between new learning material and the learner's existing cognitive structure.",
+        "To provide a drill-and-practice routine to ensure rote memorization of concepts.",
+        "To measure student achievement at the end of an instructional unit.",
+        "To reward positive behavior and extinguish undesirable classroom behaviors."
+      ],
+      "answer": 0,
+      "explanation": "David Ausubel introduced 'Advance Organizers' as cognitive instructional tools presented prior to learning to help bridge the gap between what the learner already knows (their existing cognitive structure) and what needs to be learned (new material).",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ 'ଅର୍ଥପୂର୍ଣ୍ଣ ଶାବ୍ଦିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ' (Meaningful Verbal Learning Theory) ଅନୁସାରେ, ଏକ 'ଅଗ୍ରିମ ଆୟୋଜକ' (Advance Organizer) ର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ କ’ଣ?",
+          "options": [
+            "ନୂତନ ଶିକ୍ଷଣ ସାମଗ୍ରୀ ଏବଂ ଶିକ୍ଷାର୍ଥୀର ବିଦ୍ୟମାନ ଜ୍ଞାନାତ୍ମକ ସଂରଚନା ମଧ୍ୟରେ ଏକ ମାନସିକ ସେତୁ ଭାବରେ କାର୍ଯ୍ୟ କରିବା।",
+            "ଧାରଣାଗୁଡ଼ିକର ଘୋଷା ମନେରଖିବା ସୁନିଶ୍ଚିତ କରିବା ପାଇଁ ଅଭ୍ୟାସ କାର୍ଯ୍ୟ ଯୋଗାଇବା।",
+            "ଏକ ଶିକ୍ଷାଦାନ ଏକକ (unit) ର ଶେଷରେ ଛାତ୍ରର କୃତିତ୍ୱ ମାପିବା।",
+            "ସକାରାତ୍ମକ ବ୍ୟବହାରକୁ ପୁରସ୍କୃତ କରିବା ଏବଂ ଶ୍ରେଣୀଗୃହର ଅବାଞ୍ଛିତ ବ୍ୟବହାରକୁ ଦୂର କରିବା।"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଆସୁବେଲ ଶିକ୍ଷଣ ପୂର୍ବରୁ ପ୍ରଦତ୍ତ ଜ୍ଞାନାତ୍ମକ ଶିକ୍ଷାଦାନ ଉପକରଣ ଭାବରେ 'ଆଡଭାନ୍ସ ଅର୍ଗାନାଇଜର' ର ପ୍ରବର୍ତ୍ତନ କରିଥିଲେ, ଯାହା ଶିକ୍ଷାର୍ଥୀ ପୂର୍ବରୁ ଜାଣିଥିବା ଜ୍ଞାନ (ବିଦ୍ୟମାନ ଜ୍ଞାନାତ୍ମକ ସଂରଚନା) ଏବଂ ନୂତନ ଭାବେ ଶିଖିବାକୁ ଥିବା ସାମଗ୍ରୀ ମଧ୍ୟରେ ଥିବା ପାର୍ଥକ୍ୟକୁ ପୂରଣ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383045003-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders Interaction Analysis Category System (FIACS)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Category System (FIACS) used for observing classroom verbal interaction, how many total categories are specifically designated for 'Teacher Talk'?",
+      "options": [
+        "5 categories",
+        "7 categories",
+        "2 categories",
+        "10 categories"
+      ],
+      "answer": 1,
+      "explanation": "FIACS consists of 10 categories in total to analyze classroom verbal behavior: 7 categories for Teacher Talk (4 for Indirect Influence and 3 for Direct Influence), 2 categories for Student Talk, and 1 category for Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ଶାବ୍ଦିକ ପାରସ୍ପରିକ କ୍ରିୟା ପର୍ଯ୍ୟବେକ୍ଷଣ ପାଇଁ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଦ୍ୱାରା ବିକଶିତ 'ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍' (FIACS) ରେ ମୋଟ କେତୋଟି ବର୍ଗ ସ୍ୱତନ୍ତ୍ର ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥୋପକଥନ' (Teacher Talk) ପାଇଁ ନିର୍ଦ୍ଧାରିତ?",
+          "options": [
+            "୫ ଟି ବର୍ଗ",
+            "୭ ଟି ବର୍ଗ",
+            "୨ ଟି ବର୍ଗ",
+            "୧୦ ଟି ବର୍ଗ"
+          ],
+          "explanation": "FIACS ରେ ଶ୍ରେଣୀଗୃହର ଶାବ୍ଦିକ ବ୍ୟବହାରର ବିଶ୍ଳେଷଣ ପାଇଁ ମୋଟ ୧୦ ଟି ବର୍ଗ ରହିଛି: ଶିକ୍ଷକଙ୍କ କଥୋପକଥନ (Teacher Talk) ପାଇଁ ୭ ଟି ବର୍ଗ (୪ ଟି ପରୋକ୍ଷ ପ୍ରଭାବ ଏବଂ ୩ ଟି ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ), ଛାତ୍ରଙ୍କ କଥୋପକଥନ (Student Talk) ପାଇଁ ୨ ଟି ବର୍ଗ ଏବଂ ନୀରବତା କିମ୍ବା ବିଭ୍ରାନ୍ତି (Silence or Confusion) ପାଇଁ ୧ ଟି ବର୍ଗ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383059276-0",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which river in Odisha was historically referred to as the 'Sorrow of Odisha' due to its frequent causing of severe floods prior to the construction of the Hirakud Dam?",
+      "options": [
+        "Brahmani",
+        "Mahanadi",
+        "Baitarani",
+        "Subarnarekha"
+      ],
+      "answer": 1,
+      "explanation": "The Mahanadi River was historically called the 'Sorrow of Odisha' due to severe flooding in the delta region. The construction of the Hirakud Dam near Sambalpur in 1957 significantly helped control these floods.",
+      "translations": {
+        "or": {
+          "question": "ହିରାକୁଦ ବନ୍ଧ ନିର୍ମାଣ ପୂର୍ବରୁ ବାରମ୍ବାର ଭୟଙ୍କର ବନ୍ୟା ସୃଷ୍ଟି କରୁଥିବାରୁ ଓଡ଼ିଶାର କେଉଁ ନଦୀକୁ ଐତିହାସିକ ଭାବେ 'ଓଡ଼ିଶାର ଦୁଃଖ' କୁହାଯାଉଥିଲା?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ",
+            "ମହାନଦୀ",
+            "ବୈତରଣୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ମହାନଦୀକୁ ଐତିହାସିକ ଭାବେ 'ଓଡ଼ିଶାର ଦୁଃଖ' କୁହାଯାଉଥିଲା କାରଣ ଏହା ଉପକୂଳବର୍ତ୍ତୀ ଅଞ୍ଚଳରେ ପ୍ରଳୟଙ୍କରୀ ବନ୍ୟା ସୃଷ୍ଟି କରୁଥିଲା। ୧୯୫୭ ମସିହାରେ ସମ୍ବଲପୁର ନିକଟରେ ବହୁମୁଖୀ ହିରାକୁଦ ବନ୍ଧ ନିର୍ମାଣ ପରେ ଏହି ବନ୍ୟା ନିୟନ୍ତ୍ରଣ ହୋଇପାରିଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383059276-1",
+      "section": "General Studies",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who presided over the historic first session of the Utkal Sammilani (Utkal Union Conference) held at Cuttack in December 1903?",
+      "options": [
+        "Maharaja Shriram Chandra Bhanj Deo",
+        "Utkal Gourab Madhusudan Das",
+        "Raja Baikuntha Nath De",
+        "Gopabandhu Das"
+      ],
+      "answer": 0,
+      "explanation": "The first session of the Utkal Sammilani (Utkal Union Conference) was held at Cuttack on December 30–31, 1903. While Utkal Gourab Madhusudan Das was the key organizer and founder, the session was presided over by Maharaja Shriram Chandra Bhanj Deo of Mayurbhanj.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୩ ମସିହା ଡିସେମ୍ବର ମାସରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ଉତ୍କଳ ସମ୍ମିଳନୀର ଐତିହାସିକ ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ଅଧ୍ୟକ୍ଷତା କରିଥିଲେ?",
+          "options": [
+            "ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ",
+            "ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସ",
+            "ରାଜା ବୈକୁଣ୍ଠ ନାଥ ଦେ",
+            "ଗୋପବନ୍ଧୁ ଦାସ"
+          ],
+          "explanation": "ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ୧୯୦୩ ମସିହା ଡିସେମ୍ବର ୩୦-୩୧ ତାରିଖରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା। ଏହା ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା ଆୟୋଜିତ ହୋଇଥିଲା ଏବଂ ଏଥିରେ ମୟୂରଭଞ୍ଜର ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ ଅଧ୍ୟକ୍ଷତା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383079235-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography and Administration",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many Revenue Divisions is the state of Odisha divided into for administrative convenience?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "Odisha is divided into 3 Revenue Divisions: Central Division (headquartered at Cuttack), Northern Division (headquartered at Sambalpur), and Southern Division (headquartered at Berhampur). Each division is headed by a Revenue Divisional Commissioner (RDC).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଶାସନିକ ସୁବିଧା ପାଇଁ ଓଡ଼ିଶା ରାଜ୍ୟକୁ କେତୋଟି ରାଜସ୍ୱ ଭାଗ (Revenue Divisions) ରେ ବିଭାଜିତ କରାଯାଇଛି?",
+          "options": [
+            "୩",
+            "୫",
+            "୭",
+            "୧୦"
+          ],
+          "explanation": "ଓଡ଼ିଶା ୩ ଟି ରାଜସ୍ୱ ଭାଗରେ ବିଭାଜିତ: ମଧ୍ୟାଞ୍ଚଳ ଭାଗ (ମୁଖ୍ୟାଳୟ: କଟକ), ଉତ୍ତରାଞ୍ଚଳ ଭାଗ (ମୁଖ୍ୟାଳୟ: ସମ୍ବଲପୁର) ଏବଂ ଦକ୍ଷିଣାଞ୍ଚଳ ଭାଗ (ମୁଖ୍ୟାଳୟ: ବ୍ରହ୍ମପୁର)। ପ୍ରତ୍ୟେକ ଭାଗର ମୁଖ୍ୟ ରାଜସ୍ୱ ଆୟୁକ୍ତ (RDC) ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785383079235-1",
+      "section": "Odisha GK",
+      "topic": "Freedom Struggle in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following freedom fighters was the primary leader of the historic Prajamandal Movement in the princely state of Dhenkanal in 1938?",
+      "options": [
+        "Baishnab Charan Patnaik",
+        "Pabitra Mohan Pradhan",
+        "Radhanath Rath",
+        "Gangadhar Paikaray"
+      ],
+      "answer": 0,
+      "explanation": "Baishnab Charan Patnaik (popularly known as Veer Baishnab Patnaik) led the revolt against the oppressive rule of the local monarch during the Dhenkanal Prajamandal Movement in 1938. Pabitra Mohan Pradhan was a key leader of the Prajamandal Movement in Talcher.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୮ ମସିହାରେ ଢେଙ୍କାନାଳ ଗଡ଼ଜାତ ରାଜ୍ୟରେ ହୋଇଥିବା ଐତିହାସିକ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନର ମୁଖ୍ୟ ନେତା ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ବୈଷ୍ଣବ ଚରଣ ପଟ୍ଟନାୟକ",
+            "ପବିତ୍ର ମୋହନ ପ୍ରଧାନ",
+            "ରାଧାନାଥ ରଥ",
+            "ଗଙ୍ଗାଧର ପାଇକରାୟ"
+          ],
+          "explanation": "ବୈଷ୍ଣବ ଚରଣ ପଟ୍ଟନାୟକ (ବୀର ବୈଷ୍ଣବ ପଟ୍ଟନାୟକ ଭାବରେ ପ୍ରସିଦ୍ଧ) ୧୯୩୮ ମସିହାରେ ଢେଙ୍କାନାଳ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ରାଜାଙ୍କ ଅତ୍ୟାଚାରୀ ଶାସନ ବିରୋଧରେ ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେଇଥିଲେ। ପବିତ୍ର ମୋହନ ପ୍ରଧାନ ତାଳଚେର ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନର ମୁଖ୍ୟ ନେତା ଥିଲେ।"
         }
       }
     }

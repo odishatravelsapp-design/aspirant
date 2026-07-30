@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -6167,6 +6167,174 @@
             "ମନ୍ନାର ଉପସାଗର ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ"
           ],
           "explanation": "ନୀଳଗିରି ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ ୧୯୮୬ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା ଏବଂ ୨୦୦୦ ମସିହାରେ ୟୁନେସ୍କୋର ୱାର୍ଲ୍ଡ ନେଟୱାର୍କ ଅଫ୍ ବାୟୋସ୍ଫିୟର୍ ରିଜର୍ଭରେ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇଥିବା ଭାରତର ପ୍ରଥମ ଜୈବମଣ୍ଡଳ ଅଞ୍ଚଳ ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785383115539-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to the standard model of Microteaching developed by the National Council of Educational Research and Training (NCERT), what is the total prescribed duration for one complete microteaching cycle?",
+      "options": [
+        "24 minutes",
+        "36 minutes",
+        "45 minutes",
+        "50 minutes"
+      ],
+      "answer": 1,
+      "explanation": "The NCERT model of microteaching prescribes a total duration of 36 minutes for a complete cycle: Teach (6 min), Feedback (6 min), Re-plan (12 min), Re-teach (6 min), and Re-feedback (6 min).",
+      "translations": {
+        "or": {
+          "question": "ଜାତୀୟ ଶିକ୍ଷା ଗବେଷଣା ଓ ପ୍ରଶିକ୍ଷଣ ପରିଷଦ (NCERT) ଦ୍ୱାରା ବିକଶିତ ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ) ର ମାନକ ମଡେଲ ଅନୁଯାୟୀ, ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ର ପାଇଁ ମୋଟ କେତେ ସମୟ ନିର୍ଦ୍ଧାରିତ ହୋଇଛି?",
+          "options": [
+            "24 ମିନିଟ୍",
+            "36 ମିନିଟ୍",
+            "45 ମିନିଟ୍",
+            "50 ମିନିଟ୍"
+          ],
+          "explanation": "NCERT ର ମାଇକ୍ରୋଟିଚିଂ ମଡେଲରେ ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ଚକ୍ର ପାଇଁ ମୋଟ 36 ମିନିଟ୍ ସମୟ ନିର୍ଦ୍ଧାରିତ: ଶିକ୍ଷଣ (6 ମିନିଟ୍), ପ୍ରତିପୋଷଣ/ଫିଡବ୍ୟାକ୍ (6 ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (12 ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷଣ (6 ମିନିଟ୍) ଏବଂ ପୁନଃ-ପ୍ରତିପୋଷଣ (6 ମିନିଟ୍)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785383115539-1",
+      "section": "Teaching Aptitude",
+      "topic": "Meaningful Verbal Learning Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to David Ausubel's Subsumption Theory of Meaningful Verbal Learning, which type of subsumption takes place when new instructional material is acquired as a direct specific example or illustrative instance of an already established concept in the learner's cognitive structure?",
+      "options": [
+        "Derivative subsumption",
+        "Correlative subsumption",
+        "Superordinate learning",
+        "Combinatorial learning"
+      ],
+      "answer": 0,
+      "explanation": "In David Ausubel's theory, derivative subsumption occurs when new information is learned as a direct illustrative instance or specific example of a concept already established in the learner's cognitive structure. Correlative subsumption occurs when new material alters, extends, or elaborates an existing concept.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ 'ଅର୍ଥପୂର୍ଣ୍ଣ ଶାବ୍ଦିକ ଶିକ୍ଷଣ ସିଦ୍ଧାନ୍ତ' (Subsumption Theory) ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ଶିକ୍ଷଣୀୟ ବିଷୟବସ୍ତୁ ଶିକ୍ଷାର୍ଥୀଙ୍କ ସଂଜ୍ଞାନାତ୍ମକ ସଂରଚନାରେ ପୂର୍ବରୁ ଥିବା ଏକ ଧାରଣାର ସିଧାସଳଖ ନିର୍ଦ୍ଦିଷ୍ଟ ଉଦାହରଣ ଭାବରେ ଆହରଣ କରାଯାଏ, ସେତେବେଳେ କେଉଁ ପ୍ରକାରର 'ସବସମ୍ପସନ୍' (ସମାବେଶ) ଘଟିଥାଏ?",
+          "options": [
+            "ଡେରିଭେଟିଭ୍ ସବସମ୍ପସନ୍ (Derivative subsumption)",
+            "କୋରିଲେଟିଭ୍ ସବସମ୍ପସନ୍ (Correlative subsumption)",
+            "ସୁପରଅର୍ଡିନେଟ୍ ଲର୍ନିଂ (Superordinate learning)",
+            "କମ୍ବିନେଟୋରିଆଲ୍ ଲର୍ନିଂ (Combinatorial learning)"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ ସିଦ୍ଧାନ୍ତ ଅନୁସାରେ, ଡେରିଭେଟିଭ୍ ସବସମ୍ପସନ୍ (Derivative subsumption) ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ନୂତନ ତଥ୍ୟ ଶିକ୍ଷାର୍ଥୀ ଜାଣିଥିବା ଏକ ଧାରଣାର ସିଧାସଳଖ ଉଦାହରଣ ଭାବରେ ଶିକ୍ଷା କରାଯାଏ। କୋରିଲେଟିଭ୍ ସବସମ୍ପସନ୍ ପୂର୍ବରୁ ଥିବା ଧାରଣାକୁ ବିସ୍ତାରିତ କିମ୍ବା ପରିବର୍ତ୍ତିତ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785383418562-0",
+      "section": "Child Development",
+      "topic": "Child Temperament",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the longitudinal study on temperament conducted by Alexander Thomas and Stella Chess, which temperament constellation is characterized by regular biological functions, a positive approach to new stimuli, high adaptability, and a predominantly mild-to-moderate positive mood?",
+      "options": [
+        "The Slow-to-Warm-Up child",
+        "The Easy child",
+        "The Difficult child",
+        "The Disorganized child"
+      ],
+      "answer": 1,
+      "explanation": "Alexander Thomas and Stella Chess categorized infant temperament into three primary clusters: Easy (40%), Difficult (10%), and Slow-to-Warm-Up (15%). The 'Easy child' quickly establishes regular routines in infancy, is generally cheerful, and adapts easily to new experiences.",
+      "translations": {
+        "or": {
+          "question": "ଆଲେକ୍ସଜାଣ୍ଡାର୍ ଥୋମାସ୍ ଏବଂ ଷ୍ଟେଲା ଚେସ୍‌ଙ୍କ ଦ୍ୱାରା ଶିଶୁର ବ୍ୟବହାର (temperament) ଉପରେ କରାଯାଇଥିବା ଅନୁଧ୍ୟାନ ଅନୁସାରେ, ନିୟମିତ ଜୈବିକ ପ୍ରକ୍ରିୟା, ନୂତନ ଉଦ୍ଦୀପକ ପ୍ରତି ସକାରାତ୍ମକ ମନୋଭାବ, ଉଚ୍ଚ ଅଭିଯୋଜନ କ୍ଷମତା ଏବଂ ସାଧାରଣତଃ ମୃଦୁ-ମଧ୍ୟମ ସକାରାତ୍ମକ ମାନସିକ ସ୍ଥିତି କେଉଁ ପ୍ରକାରର ଶିଶୁ ବ୍ୟବହାରର ଲକ୍ଷଣ?",
+          "options": [
+            "'ସ୍ଲୋ-ଟୁ-ୱାର୍ମ-ଅପ୍' ଶିଶୁ (Slow-to-Warm-Up child)",
+            "'ଇଜି' ଶିଶୁ (Easy child)",
+            "'ଡିଫିକଲ୍ଟ' ଶିଶୁ (Difficult child)",
+            "'ଡିସଅର୍ଗାନାଇଜ୍ଡ' ଶିଶୁ (Disorganized child)"
+          ],
+          "explanation": "ଆଲେକ୍ସଜାଣ୍ଡାର୍ ଥୋମାସ୍ ଏବଂ ଷ୍ଟେଲା ଚେସ୍ ଶିଶୁର ବ୍ୟବହାରକୁ ତିନୋଟି ମୁଖ୍ୟ ଶ୍ରେଣୀରେ ବିଭକ୍ତ କରିଥିଲେ: ଇଜି (୪୦%), ଡିଫିକଲ୍ଟ (୧୦%) ଏବଂ ସ୍ଲୋ-ଟୁ-ୱାର୍ମ-ଅପ୍ (୧୫%)। 'ଇଜି ଶିଶୁ' ସହଜରେ ନିୟମିତ ଅଭ୍ୟାସ ଗଠନ କରେ, ସାଧାରଣତଃ ହସଖୁସି ରହେ ଏବଂ ନୂତନ ଅନୁଭୂତି ସହିତ ଶୀଘ୍ର ଖାପଖୁଆଇ ନିଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785383418562-1",
+      "section": "Child Development",
+      "topic": "Perceptual Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Eleanor and James Gibson's ecological theory of perceptual development, what does the term 'affordance' specifically refer to?",
+      "options": [
+        "The cognitive schema constructed by infants to interpret sensory inputs through assimilation.",
+        "The action possibilities that a given object or environment offers to an organism, perceived directly without complex cognitive processing.",
+        "The learned association between a neutral stimulus and an unconditioned stimulus during infancy.",
+        "The innate biological timetable that determines the sequence of visual acuity maturation."
+      ],
+      "answer": 1,
+      "explanation": "According to Eleanor and James Gibson's ecological model, 'affordances' are the actionable properties of objects and environments relative to the individual (e.g., a flat surface affords walking, a handle affords grasping). Perception involves directly detecting these opportunities for action in the surrounding world.",
+      "translations": {
+        "or": {
+          "question": "ଏଲିନୋର ଏବଂ ଜେମ୍ସ ଗିବସନଙ୍କ ପ୍ରତ୍ୟକ୍ଷାତ୍ମକ ବିକାଶର ପାରିସ୍ଥିତିକ ସିଦ୍ଧାନ୍ତ (ecological theory of perceptual development) ରେ, 'ଆଫୋର୍ଡାନ୍ସ' (affordance) ଶବ୍ଦଟି ବିଶେଷ ଭାବରେ କାହାକୁ ସୂଚାଏ?",
+          "options": [
+            "ସଂବେଦନଶୀଳ ଇନପୁଟଗୁଡ଼ିକୁ ଆତ୍ମସାତକରଣ ମାଧ୍ୟମରେ ବୁଝିବା ପାଇଁ ଶିଶୁମାନଙ୍କ ଦ୍ୱାରା ଗଠିତ ଜ୍ଞାନାତ୍ମକ ସ୍କିମା।",
+            "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ବସ୍ତୁ କିମ୍ବା ପରିବେଶ ଏକ ଜୀବକୁ ପ୍ରଦାନ କରୁଥିବା କାର୍ଯ୍ୟର ସମ୍ଭାବନା, ଯାହା ଜଟିଳ ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟା ବିନା ପ୍ରତ୍ୟକ୍ଷ ଭାବରେ ଅନୁଭୂତ ହୁଏ।",
+            "ଶୈଶବାବସ୍ଥାରେ ଏକ ନିରପେକ୍ଷ ଉଦ୍ଦୀପକ ଏବଂ ଅନୁବନ୍ଧିତ-ବିହୀନ ଉଦ୍ଦୀପକ ମଧ୍ୟରେ ଶିଖାଯାଇଥିବା ସମ୍ପର୍କ।",
+            "ଜନ୍ମଗତ ଜୈବିକ ସମୟସାରଣୀ ଯାହା ଦୃଷ୍ଟିଶକ୍ତିର ପରିପକ୍ୱତା କ୍ରମ ନିର୍ଦ୍ଧାରଣ କରେ।"
+          ],
+          "explanation": "ଏଲିନୋର ଏବଂ ଜେମ୍ସ ଗିବସନଙ୍କ ପାରିସ୍ଥିତିକ ମୋଡେଲ ଅନୁସାରେ, 'ଆଫୋର୍ଡାନ୍ସ' ହେଉଛି ଜଣେ ବ୍ୟକ୍ତିଙ୍କ ତୁଳନାରେ ବସ୍ତୁ ଏବଂ ପରିବେଶର କାର୍ଯ୍ୟକ୍ଷମ ଗୁଣ (ଯେପରିକି, ଏକ ସମତଳ ପୃଷ୍ଠ ଚାଲିବାର ସୁଯୋଗ ଦିଏ, ଏକ ହ୍ୟାଣ୍ଡେଲ ଧରିବାର ସୁଯୋଗ ଦିଏ)। ପ୍ରତ୍ୟକ୍ଷୀକରଣରେ ପରିବେଶରୁ ଏହିସବୁ କାର୍ଯ୍ୟ ସମ୍ଭାବନାଗୁଡ଼ିକୁ ସିଧାସଳଖ ଚିହ୍ନଟ କରିବା ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785383473965-0",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following rivers flows through the Silent Valley National Park in Kerala?",
+      "options": [
+        "Bhavani",
+        "Kunthipuzha",
+        "Periyar",
+        "Kabini"
+      ],
+      "answer": 1,
+      "explanation": "The Kunthipuzha River originates in the Silent Valley National Park in Kerala and flows through its entire length before eventually merging into the Bharathapuzha River.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନଦୀ କେରଳର ସାଇଲେଣ୍ଟ ଭ୍ୟାଲି ଜାତୀୟ ଉଦ୍ୟାନ ମଧ୍ୟଦେଇ ପ୍ରବାହିତ ହୁଏ?",
+          "options": [
+            "ଭବାନୀ",
+            "କୁନ୍ତିପୁଝା",
+            "ପେରିୟାର",
+            "କାବିନୀ"
+          ],
+          "explanation": "କୁନ୍ତିପୁଝା ନଦୀ କେରଳର ସାଇଲେଣ୍ଟ ଭ୍ୟାଲି ଜାତୀୟ ଉଦ୍ୟାନରୁ ଉତ୍ପନ୍ନ ହୋଇ ଏହାର ସମ୍ପୂର୍ଣ୍ଣ ଦୈର୍ଘ୍ୟ ଦେଇ ପ୍ରବାହିତ ହୁଏ ଏବଂ ପରେ ଭାରତପୁଝା ନଦୀ ସହିତ ମିଶିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785383473965-1",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which of the following committees of the Lok Sabha is/are chaired ex-officio by the Speaker of the Lok Sabha?\n1. Business Advisory Committee\n2. Rules Committee\n3. Committee on Privileges\n4. General Purposes Committee\n\nSelect the correct answer using the code given below:",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 4 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 1,
+      "explanation": "The Speaker of the Lok Sabha is the ex-officio Chairman of the Business Advisory Committee, the Rules Committee, and the General Purposes Committee. The Chairman of the Committee on Privileges is nominated by the Speaker from among its members.",
+      "translations": {
+        "or": {
+          "question": "ଲୋକସଭାର ନିମ୍ନଲିଖିତ କମିଟିଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି/କେଉଁଗୁଡ଼ିକର ଅଧ୍ୟକ୍ଷତା ସ୍ୱୟଂ ଲୋକସଭା ବାଚସ୍ପତି ପଦବୀଗତ (ex-officio) ଭାବେ କରନ୍ତି?\n୧. ବ୍ୟବସାୟ ପରାମର୍ଶଦାତା କମିଟି (Business Advisory Committee)\n୨. ନିୟମାବଳୀ କମିଟି (Rules Committee)\n୩. ବିଶେଷାଧିକାର କମିଟି (Committee on Privileges)\n୪. ସାଧାରଣ ଉଦ୍ଦେଶ୍ୟ କମିଟି (General Purposes Committee)\n\nତଳେ ଦିଆଯାଇଥିବା ସଙ୍କେତ ବ୍ୟବହାର କରି ସଠିକ୍ ଉତ୍ତର ବାଛନ୍ତୁ:",
+          "options": [
+            "କେବଳ ୧ ଏବଂ ୨",
+            "କେବଳ ୧, ୨ ଏବଂ ୪",
+            "କେବଳ ୨, ୩ ଏବଂ ୪",
+            "୧, ୨, ୩ ଏବଂ ୪"
+          ],
+          "explanation": "ଲୋକସଭା ବାଚସ୍ପତି ସ୍ୱୟଂ ବ୍ୟବସାୟ ପରାମର୍ଶଦାତା କମିଟି, ନିୟମାବଳୀ କମିଟି ଏବଂ ସାଧାରଣ ଉଦ୍ଦେଶ୍ୟ କମିଟିର ପଦବୀଗତ (ex-officio) ଅଧ୍ୟକ୍ଷ ଅଟନ୍ତି। ବିଶେଷାଧିକାର କମିଟିର ଅଧ୍ୟକ୍ଷ ବାଚସ୍ପତିଙ୍କ ଦ୍ୱାରା ମନୋନୀତ ହୁଅନ୍ତି।"
         }
       }
     }

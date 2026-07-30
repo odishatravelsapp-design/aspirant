@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -6700,6 +6700,234 @@
             "ନରସିଂହଦେବ ଚତୁର୍ଥ"
           ],
           "explanation": "ଗଜପତି ମୁକୁନ୍ଦଦେବ (ମୁକୁନ୍ଦ ହରିଚନ୍ଦନ) ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଶାର ଶେଷ ସ୍ୱାଧୀନ ହିନ୍ଦୁ ଶାସକ ଥିଲେ। ୧୫୬୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ବଙ୍ଗଳାର ସୁଲତାନ ସୁଲେମାନ କରାନୀଙ୍କ ସେନାପତି କାଲାପାହାଡ଼ଙ୍କ ଆକ୍ରମଣ ଏବଂ ଅନ୍ତର୍ଦ୍ବନ୍ଦ୍ବ ଯୋଗୁଁ ତାଙ୍କର ପରାଜୟ ଘଟିଥିଲା ଓ ଓଡ଼ିଶାର ସ୍ୱାଧୀନତାର ଅନ୍ତ ଘଟିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785382958829-0",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A train 240 m long passes a pole in 12 seconds. How long will it take to pass a platform 360 m long at the same speed?",
+      "options": [
+        "24 seconds",
+        "28 seconds",
+        "30 seconds",
+        "36 seconds"
+      ],
+      "answer": 2,
+      "explanation": "Speed of the train = Length of train / Time = 240 / 12 = 20 m/s. Total distance to cross the platform = Length of train + Length of platform = 240 + 360 = 600 m. Time required = Total distance / Speed = 600 / 20 = 30 seconds.",
+      "translations": {
+        "or": {
+          "question": "୨୪୦ ମିଟର ଲମ୍ବର ଗୋଟିଏ ଟ୍ରେନ୍ ଗୋଟିଏ ଖୁଣ୍ଟକୁ ୧୨ ସେକେଣ୍ଡରେ ଅତିକ୍ରମ କରେ। ଏହି ସମାନ ଗତିରେ ୩୬୦ ମିଟର ଲମ୍ବର ଗୋଟିଏ ପ୍ଲାଟଫର୍ମକୁ ଅତିକ୍ରମ କରିବା ପାଇଁ ଏହାକୁ କେତେ ସମୟ ଲାଗିବ?",
+          "options": [
+            "୨୪ ସେକେଣ୍ଡ",
+            "୨୮ ସେକେଣ୍ଡ",
+            "୩୦ ସେକେଣ୍ଡ",
+            "୩୬ ସେକେଣ୍ଡ"
+          ],
+          "explanation": "ଟ୍ରେନ୍‌ର ଗତି = ୨୪୦ / ୧୨ = ୨୦ ମିଟର/ସେକେଣ୍ଡ। ପ୍ଲାଟଫର୍ମକୁ ଅତିକ୍ରମ କରିବା ପାଇଁ ମୋଟ ଦୂରତା = ୨୪୦ + ୩୬୦ = ୬୦୦ ମିଟର। ଆବଶ୍ୟକ ସମୟ = ୬୦୦ / ୨୦ = ୩୦ ସେକେଣ୍ଡ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785382958830-1",
+      "section": "Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and simple interest on a certain sum of money for 3 years at 10% per annum is Rs. 93. What is the sum?",
+      "options": [
+        "Rs. 2,500",
+        "Rs. 3,000",
+        "Rs. 3,500",
+        "Rs. 4,000"
+      ],
+      "answer": 1,
+      "explanation": "For 3 years, CI - SI = P * (r/100)^2 * (3 + r/100). Given CI - SI = 93, r = 10%. So, 93 = P * (10/100)^2 * (3 + 10/100) => 93 = P * (1/100) * (31/10) => 93 = P * (31/1000) => P = (93 * 1000) / 31 = Rs. 3,000.",
+      "translations": {
+        "or": {
+          "question": "ବାର୍ଷିକ ୧୦% ସୁଧ ହାରରେ ୩ ବର୍ଷ ପାଇଁ ଗୋଟିଏ ନିର୍ଦ୍ଦିଷ୍ଟ ମୂଳଧନ ଉପରେ ଚକ୍ରବୃଦ୍ଧି ସୁଧ (ବାର୍ଷିକ ଗଣନା) ଏବଂ ସରଳ ସୁଧ ମଧ୍ୟରେ ଅନ୍ତର ୯୩ ଟଙ୍କା। ସେହି ମୂଳଧନ କେତେ?",
+          "options": [
+            "୨,୫୦୦ ଟଙ୍କା",
+            "୩,୦୦୦ ଟଙ୍କା",
+            "୩,୫୦୦ ଟଙ୍କା",
+            "୪,୦୦୦ ଟଙ୍କା"
+          ],
+          "explanation": "୩ ବର୍ଷ ପାଇଁ, CI - SI = P × (r/100)² × (3 + r/100)। ଏଠାରେ, ୯୩ = P × (୧୦/୧୦୦)² × (୩ + ୧୦/୧୦୦) => ୯୩ = P × (୧/୧୦୦) × (୩୧/୧୦) => ୯୩ = P × (୩୧/୧୦୦୦) => P = (୯୩ × ୧୦୦୦) / ୩୧ = ୩,୦୦୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785382984061-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A person starts from Point A and walks 8 km towards East. He then turns right and walks 6 km to reach Point B. What is the shortest distance between Point A and Point B?",
+      "options": [
+        "10 km",
+        "14 km",
+        "2 km",
+        "12 km"
+      ],
+      "answer": 0,
+      "explanation": "Using Pythagoras theorem, the shortest distance between A and B = √(8² + 6²) = √(64 + 36) = √100 = 10 km.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି A ବିନ୍ଦୁରୁ ଯାତ୍ରା ଆରମ୍ଭ କରି ପୂର୍ବ ଦିଗକୁ ୮ କିଲୋମିଟର ଯାଆନ୍ତି। ତା’ପରେ ସେ ଡାହାଣକୁ ବୁଲି B ବିନ୍ଦୁରେ ପହଞ୍ଚିବା ପାଇଁ ୬ କିଲୋମିଟର ଚାଲନ୍ତି। A ବିନ୍ଦୁ ଏବଂ B ବିନ୍ଦୁ ମଧ୍ୟରେ ସର୍ବନିମ୍ନ ଦୂରତା କେତେ?",
+          "options": [
+            "୧୦ କିଲୋମିଟର",
+            "୧୪ କିଲୋମିଟର",
+            "୨ କିଲୋମିଟର",
+            "୧୨ କିଲୋମିଟର"
+          ],
+          "explanation": "ପାଇଥାଗୋରସ୍ ଉପପାଦ୍ୟ ଅନୁସାରେ, A ଏବଂ B ମଧ୍ୟରେ ସର୍ବନିମ୍ନ ଦୂରତା = √(୮² + ୬²) = √(୬୪ + ୩୬) = √୧୦୦ = ୧୦ କିଲୋମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785382984061-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the center. B sits third to the right of A. Only two persons sit between B and H. D sits second to the left of H. C is an immediate neighbor of neither B nor H. F sits second to the right of E. G is not an immediate neighbor of H. Who sits third to the left of G?",
+      "options": [
+        "F",
+        "E",
+        "C",
+        "A"
+      ],
+      "answer": 0,
+      "explanation": "Positioning clockwise 1 to 8: Let A = 1. B is 3rd to right of A => B = 6. Only two between B and H => H = 3. D is 2nd to left of H => D = 5. C is neighbor of neither B nor H => C = 8. F is 2nd to right of E => E = 4, F = 2. G is not neighbor of H => G = 7. Therefore, 3rd to the left of G(7) is F(2).",
+      "translations": {
+        "or": {
+          "question": "ଆଠ ଜଣ ବ୍ୟକ୍ତି A, B, C, D, E, F, G, ଏବଂ H ଗୋଟିଏ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବସିଛନ୍ତି। B, A ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। B ଏବଂ H ମଧ୍ୟରେ କେବଳ ଦୁଇଜଣ ବ୍ୟକ୍ତି ବସିଛନ୍ତି। D, H ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। C, B କିମ୍ବା H କାହାରି ବି ନିକଟତମ ପଡ଼ୋଶୀ ନୁହଁନ୍ତି। F, E ର ଡାହାଣରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। G, H ର ନିକଟତମ ପଡ଼ୋଶୀ ନୁହଁନ୍ତି। G ର ବାମରେ ତୃତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "F",
+            "E",
+            "C",
+            "A"
+          ],
+          "explanation": "ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ ୧ ରୁ ୮ ସ୍ଥାନ ଗ୍ରହଣ କଲେ: A = ୧। A ର ଡାହାଣରେ ୩ୟ = B (୬)। B ଏବଂ H ମଧ୍ୟରେ ୨ ଜଣ = H (୩)। H ର ବାମରେ ୨ୟ = D (୫)। C, B କିମ୍ବା H ର ପଡ଼ୋଶୀ ନୁହେଁ = C (୮)। F, E ର ଡାହାଣରେ ୨ୟ = E (୪), F (୨)। ଅବଶିଷ୍ଟ G = ୭। ତେଣୁ, G(୭) ର ବାମରେ ୩ୟ ସ୍ଥାନରେ F(୨) ବସିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785383000521-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Brahmani River, the second longest river in Odisha, is formed by the confluence of which two rivers at Vedvyas near Rourkela?",
+      "options": [
+        "Sankh and South Koel",
+        "Tel and Ib",
+        "Baitarani and Salandi",
+        "Rushikulya and Vamsadhara"
+      ],
+      "answer": 0,
+      "explanation": "The Brahmani River is formed by the confluence of the Sankh and South Koel rivers at Vedvyas near Rourkela in Sundargarh district, Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଦ୍ୱିତୀୟ ଦୀର୍ଘତମ ନଦୀ ବ୍ରାହ୍ମଣୀ, ରାଉରକେଲା ନିକଟସ୍ଥ ବେଦବ୍ୟାସଠାରେ କେଉଁ ଦୁଇଟି ନଦୀର ମିଳନରୁ ସୃଷ୍ଟି ହୋଇଛି?",
+          "options": [
+            "ଶଙ୍ଖ ଏବଂ ଦକ୍ଷିଣ କୋଏଲ",
+            "ତେଲ ଏବଂ ଇବ",
+            "ବୈତରଣୀ ଏବଂ ସାଳନ୍ଦୀ",
+            "ରୁଷିକୂଲ୍ୟା ଏବଂ ବଂଶଧାରା"
+          ],
+          "explanation": "ବ୍ରାହ୍ମଣୀ ନଦୀ ସୁନ୍ଦରଗଡ଼ ଜିଲ୍ଲାର ରାଉରକେଲା ନିକଟସ୍ଥ ବେଦବ୍ୟାସଠାରେ ଶଙ୍ଖ ଏବଂ ଦକ୍ଷିଣ କୋଏଲ ନଦୀର ମିଳନ ସ୍ଥଳରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785383000521-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who among the following was the FIRST female ruler of the Bhauma-Kara Dynasty in ancient Odisha?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Gauri Mahadevi",
+        "Dandi Mahadevi"
+      ],
+      "answer": 0,
+      "explanation": "Tribhuvana Mahadevi I (also known as Paramavaishnavi Tribhuvana Mahadevi) was the first female ruler of the Bhauma-Kara dynasty, ascending the throne after the death of her son Subhakaradeva II and ruler Santikaradeva I.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ପ୍ରାଚୀନ ଓଡ଼ିଶାର ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ ଥିଲେ?",
+          "options": [
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ",
+            "ପୃଥ୍ବୀ ମହାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ",
+            "ଦଣ୍ଡୀ ମହାଦେବୀ"
+          ],
+          "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ (ପରମବୈଷ୍ଣବୀ ତ୍ରିଭୁବନ ମହାଦେବୀ) ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ ଥିଲେ, ଯିଏ ଶାସକ ଶାନ୍ତିକରଦେବ ପ୍ରଥମଙ୍କ ମୃତ୍ୟୁ ପରେ ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785383015076-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which waterfall located in the Similipal National Park of Mayurbhanj district is the second highest waterfall in India?",
+      "options": [
+        "Joranda Waterfall",
+        "Barehipani Waterfall",
+        "Khandadhar Waterfall",
+        "Badaghagara Waterfall"
+      ],
+      "answer": 1,
+      "explanation": "Barehipani Waterfall, located in the Similipal National Park in Mayurbhanj district, Odisha, is a two-tiered waterfall with a total height of 399 meters (1,309 ft) and is considered the second highest waterfall in India.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାର ଶିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନରେ ଅବସ୍ଥିତ କେଉଁ ଜଳପ୍ରପାତ ଭାରତର ଦ୍ୱିତୀୟ ଉଚ୍ଚତମ ଜଳପ୍ରପାତ?",
+          "options": [
+            "ଜୋରନ୍ଦା ଜଳପ୍ରପାତ",
+            "ବାରେହିପାଣି ଜଳପ୍ରପାତ",
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ବଡ଼ଘାଗରା ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାସ୍ଥିତ ଶିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନରେ ଅବସ୍ଥିତ ବାରେହିପାଣି ଜଳପ୍ରପାତର ମୋଟ ଉଚ୍ଚତା ପ୍ରାୟ ୩୯୯ ମିଟର ଏବଂ ଏହା ଭାରତର ଦ୍ୱିତୀୟ ଉଚ୍ଚତମ ଜଳପ୍ରପାତ ଭାବରେ ଗଣ୍ୟ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785383015076-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Somavamsi dynasty is credited with performing the historic 'Dashashwamedha Yajna' on the banks of the Baitarani river at Jajpur?",
+      "options": [
+        "Janamejaya I",
+        "Yayati I",
+        "Dharmaratha",
+        "Uddyotakesari"
+      ],
+      "answer": 1,
+      "explanation": "Somavamsi king Yayati I (also known in regional traditions as Jajati Keshari) performed the Dashashwamedha Yajna on the banks of the Baitarani River at Jajpur and brought 10,000 Brahmins from Kanyakubja (Kannauj) to settle in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସୋମବଂଶୀ ରାଜବଂଶର କେଉଁ ଶାସକ ଯାଜପୁରର ବୈତରଣୀ ନଦୀ କୂଳରେ ଐତିହାସିକ 'ଦଶାଶ୍ୱମେଧ ଯଜ୍ଞ' ସମ୍ପାଦନ କରିଥିଲେ?",
+          "options": [
+            "ଜନମେଜୟ ପ୍ରଥମ",
+            "ଯଯାତି ପ୍ରଥମ",
+            "ଧର୍ମରଥ",
+            "ଉଦ୍ଦ୍ୟୋତକେଶରୀ"
+          ],
+          "explanation": "ସୋମବଂଶୀ ରାଜା ଯଯାତି ପ୍ରଥମ (ଯଯାତି କେଶରୀ) ଯାଜପୁରର ବୈତରଣୀ ନଦୀ କୂଳରେ ଦଶାଶ୍ୱମେଧ ଯଜ୍ଞ କରିଥିଲେ ଏବଂ ଓଡ଼ିଶାରେ ବସବାସ କରିବା ପାଇଁ କନ୍ୟାକୁବ୍ଜ (କନୌଜ)ରୁ ୧୦,୦୦୦ ବ୍ରାହ୍ମଣଙ୍କୁ ନିମନ୍ତ୍ରଣ କରିଥିଲେ।"
         }
       }
     }

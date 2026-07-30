@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -5704,6 +5704,136 @@
       ],
       "answer": 1,
       "explanation": "The Standing Deposit Facility (SDF) is an uncollateralized liquidity-absorption mechanism that allows the RBI to absorb surplus liquidity from commercial banks without providing government securities as collateral. Its rate is positioned 25 basis points below the Policy Repo Rate.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785382902141-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper marks up his goods by 20% above the cost price and gives a discount of 10% to the customer. However, he also uses a false weight that measures 900 grams instead of 1 kg while selling. What is his overall profit percentage?",
+      "options": [
+        "18%",
+        "20%",
+        "22.5%",
+        "25%"
+      ],
+      "answer": 1,
+      "explanation": "Let the CP of 1000g = Rs. 1000.\nMarked Price of 1000g = Rs. 1200.\nSelling Price per claimed 1 kg = 1200 - (10% of 1200) = Rs. 1080.\nActual weight delivered = 900g, whose actual CP = Rs. 900.\nOverall Profit = SP - Actual CP = 1080 - 900 = Rs. 180.\nProfit % = (180 / 900) * 100 = 20%."
+    },
+    {
+      "id": "ibps-po-ai-1785382902141-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A box contains 5 red, 4 blue, and 3 green balls. Three balls are drawn at random one after another without replacement. What is the probability that the third ball drawn is red, given that at least one of the first two balls drawn was green?",
+      "options": [
+        "7/20",
+        "9/20",
+        "2/5",
+        "11/20"
+      ],
+      "answer": 1,
+      "explanation": "Total balls = 12 (5 Red, 4 Blue, 3 Green).\n\nStep 1: Find the total number of outcomes for 3 draws where at least one of the first two balls is Green.\nNumber of ways to draw 2 non-green balls first = 9 * 8 = 72.\nTotal ways to draw any 2 balls first = 12 * 11 = 132.\nWays where at least one of first two is Green = 132 - 72 = 60.\nSince a 3rd ball is drawn from the remaining 10 balls, total outcomes = 60 * 10 = 600.\n\nStep 2: Count favorable outcomes where the 3rd ball is Red AND at least one of the first two is Green:\n- (G, G, R): 3 * 2 * 5 = 30\n- (G, B, R): 3 * 4 * 5 = 60\n- (G, R, R): 3 * 5 * 4 = 60\n- (B, G, R): 4 * 3 * 5 = 60\n- (R, G, R): 5 * 3 * 4 = 60\nTotal favorable outcomes = 30 + 60 + 60 + 60 + 60 = 270.\n\nRequired conditional probability = 270 / 600 = 9/20."
+    },
+    {
+      "id": "ibps-po-ai-1785382922700-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements:\nP ≥ Q > R = S; T < R ≤ U\n\nConclusions:\nI. P > S\nII. U ≥ S",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "1. For Conclusion I (P > S): From the given statements, P ≥ Q > R = S. Since P ≥ Q > R, it implies P > R. As R = S, we get P > S. Hence, Conclusion I is definitely true.\n2. For Conclusion II (U ≥ S): From the statements, R ≤ U and R = S. Substituting R = S into R ≤ U gives S ≤ U, which means U ≥ S. Hence, Conclusion II is also definitely true.\nTherefore, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-po-ai-1785382922700-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons — A, B, C, D, E, F, and G — are sitting in a straight row facing North.\n- F sits third to the right of C.\n- Exactly two persons sit between F and A.\n- G sits second to the left of A.\n- B sits to the immediate left of D.\n\nWho sits to the immediate right of G?",
+      "options": [
+        "F",
+        "A",
+        "E",
+        "D"
+      ],
+      "answer": 2,
+      "explanation": "1. F sits third to the right of C: C is at position 1 and F is at position 4.\n2. Exactly two persons sit between F and A: If A were to the left of F, A would overlap with C. Therefore, A must sit to the right of F at position 7.\n3. G sits second to the left of A: Since A is at position 7, G sits at position 5.\n4. B sits to the immediate left of D: The only adjacent empty spots left for B and D are positions 2 and 3 respectively.\n5. The remaining person E takes position 6.\n\nThe final linear order from left to right is: C(1) - B(2) - D(3) - F(4) - G(5) - E(6) - A(7).\nThus, E sits to the immediate right of G."
+    },
+    {
+      "id": "ibps-po-ai-1785382935393-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the option that best expresses the meaning of the bolded idiom in the given sentence:\n\n'The company's triumph in the aggressive lawsuit turned out to be a **Pyrrhic victory**, as the astronomical legal expenses led them straight into insolvency.'",
+      "options": [
+        "A victory that brings long-lasting peace and stability",
+        "A success attained through deceitful and corrupt strategies",
+        "A victory that is offset by devastating losses, rendering it effectively a defeat",
+        "An unexpected stroke of good fortune following a series of failures"
+      ],
+      "answer": 2,
+      "explanation": "A 'Pyrrhic victory' refers to a victory or success that comes at such a devastatingly high cost to the victor that it is tantamount to a defeat."
+    },
+    {
+      "id": "ibps-po-ai-1785382935393-1",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Select the option corresponding to the part containing the error.\n\nHaving spent (A) / decades researching marine biology, (B) / the rapid destruction of coral reefs was meticulously documented (C) / in Professor Vance's final treatise. (D)",
+      "options": [
+        "Having spent",
+        "decades researching marine biology,",
+        "the rapid destruction of coral reefs was meticulously documented",
+        "in Professor Vance's final treatise."
+      ],
+      "answer": 2,
+      "explanation": "Part (C) contains a dangling modifier error. The introductory participial phrase 'Having spent decades researching marine biology' must modify the agent performing the action. As written, it incorrectly modifies 'the rapid destruction'. The main clause should be restructured so that 'Professor Vance' is the subject."
+    },
+    {
+      "id": "ibps-po-ai-1785382946330-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (RBI) guidelines, non-individual borrowers having an aggregate exposure of what minimum threshold from banks and All-India Financial Institutions (AIFIs) are required to obtain a 20-digit Legal Entity Identifier (LEI) code?",
+      "options": [
+        "₹5 crore",
+        "₹10 crore",
+        "₹25 crore",
+        "₹50 crore"
+      ],
+      "answer": 0,
+      "explanation": "According to RBI guidelines on the Legal Entity Identifier (LEI) system for borrowers, non-individual borrowers having total aggregate exposure (fund-based and non-fund based) of ₹5 crore and above from Scheduled Commercial Banks, AIFIs, and NBFCs are required to obtain a 20-digit LEI code.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785382946330-1",
+      "section": "General Awareness",
+      "topic": "Development Financial Institutions",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "As per the National Bank for Financing Infrastructure and Development (NaBFID) Act, 2021, what is the authorized share capital of NaBFID?",
+      "options": [
+        "₹20,000 crore",
+        "₹50,000 crore",
+        "₹1,00,000 crore",
+        "₹2,00,000 crore"
+      ],
+      "answer": 2,
+      "explanation": "Under Section 4(1) of the NaBFID Act, 2021, the National Bank for Financing Infrastructure and Development (NaBFID) was established with an authorized share capital of ₹1,00,000 crore (₹1 lakh crore) and an initial paid-up capital of ₹20,000 crore.",
       "status": "pending"
     }
   ]

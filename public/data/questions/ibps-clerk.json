@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -6162,6 +6162,136 @@
       ],
       "answer": 0,
       "explanation": "The RBI Act, 1934 was amended in 2016 to introduce Section 45ZB, which empowers the Central Government to constitute a six-member Monetary Policy Committee (MPC) to determine the policy interest rate.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785382783197-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present age of a father is 3 times the present age of his son. 10 years ago, the father's age was 5 times his son's age. What is the present age of the father?",
+      "options": [
+        "45 years",
+        "50 years",
+        "60 years",
+        "75 years"
+      ],
+      "answer": 2,
+      "explanation": "Let the son's present age be x years. Then, the father's present age = 3x years. 10 years ago, Son's age = (x - 10) and Father's age = (3x - 10). According to the question, 3x - 10 = 5(x - 10) => 3x - 10 = 5x - 50 => 2x = 40 => x = 20. Therefore, Father's present age = 3 * 20 = 60 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1785382783197-1",
+      "section": "Quant",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A car left point A for point B at a speed of 60 km/h. At the same time, another car left point B for point A at a speed of 40 km/h. After meeting each other on the way, the first car took 4 hours to reach point B. How long did the second car take to reach point A after they met?",
+      "options": [
+        "6 hours",
+        "8 hours",
+        "9 hours",
+        "10 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let the time taken after meeting be t1 and t2 for the first and second car respectively, and their speeds be v1 and v2. The relation between speeds and time taken after meeting is (v1 / v2)^2 = t2 / t1. Given v1 = 60 km/h, v2 = 40 km/h, and t1 = 4 hours. So, (60 / 40)^2 = t2 / 4 => (3 / 2)^2 = t2 / 4 => 9 / 4 = t2 / 4 => t2 = 9 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1785382796607-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a row of 50 students facing North, A is 15th from the left end and B is 22nd from the right end. How many students are sitting between A and B?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 2,
+      "explanation": "Total students = 50. Position of A from left = 15. Position of B from right = 22. Sum of positions = 15 + 22 = 37. Since Total > Sum of positions, there is no overlap. Number of students between A and B = Total - (Left + Right) = 50 - 37 = 13."
+    },
+    {
+      "id": "ibps-clerk-ai-1785382796607-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Red are Blue.\nAll Blue are Green.\nNo Green is Yellow.\n\nConclusions:\nI. Some Red can never be Yellow.\nII. All Blue being Red is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "1. 'Only a few Red are Blue' means 'Some Red are Blue' and 'Some Red are not Blue'. The part of Red that is Blue lies inside Green. Since No Green is Yellow, that portion of Red can never be Yellow. Hence, Conclusion I follows.\n2. 'Only a few Red are Blue' restricts 'All Red being Blue', but it allows 'All Blue being Red'. Thus, Conclusion II is a valid possibility and follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1785382811137-0",
+      "section": "English",
+      "topic": "Single Filler in Multiple Contexts",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the single word from the options that can fill both the blanks appropriately to make the sentences grammatically correct and contextually meaningful.\n\n1. The CEO was known for making __________ decisions that, while high-risk, frequently outperformed market expectations.\n2. Her __________ approach to negotiations earned her a reputation as a fearless leader in the corporate sector.",
+      "options": [
+        "Audacious",
+        "Hesitant",
+        "Mundane",
+        "Redundant"
+      ],
+      "answer": 0,
+      "explanation": "'Audacious' means showing a willingness to take surprisingly bold risks, which fits seamlessly in both sentences describing high-risk decisions and a fearless leader."
+    },
+    {
+      "id": "ibps-clerk-ai-1785382811137-1",
+      "section": "English",
+      "topic": "Grammatical Correctness",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pick the sentence that is grammatically CORRECT among the given choices.",
+      "options": [
+        "Neither the manager nor his assistants was aware of the new policy changes implemented last week.",
+        "Scarcely had the speaker finished his speech than the audience broke into applause.",
+        "Not only did she pass the entrance examination, but she also secured the highest rank in the state.",
+        "If I was the Director of the bank, I would have approved the loan request immediately."
+      ],
+      "answer": 2,
+      "explanation": "Option C is grammatically correct. In Option A, 'assistants' is plural and closer to the verb, so the verb should be 'were'. In Option B, 'Scarcely' pairs with 'when' or 'before', not 'than'. In Option D, a hypothetical condition requires the subjunctive verb 'were' instead of 'was'."
+    },
+    {
+      "id": "ibps-clerk-ai-1785382822053-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which wholly-owned subsidiary of the Reserve Bank of India operates the currency note printing presses located at Mysuru (Karnataka) and Salboni (West Bengal)?",
+      "options": [
+        "Security Printing and Minting Corporation of India Limited (SPMCIL)",
+        "Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL)",
+        "Deposit Insurance and Credit Guarantee Corporation (DICGC)",
+        "National Payments Corporation of India (NPCI)"
+      ],
+      "answer": 1,
+      "explanation": "Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL), a wholly-owned subsidiary of the RBI, manages the two currency printing presses at Mysuru and Salboni. The other two main presses at Dewas and Nashik are owned by SPMCIL (a Government of India corporation).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785382822053-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework issued by the Reserve Bank of India for Scheduled Commercial Banks, which of the following parameters is NOT one of the core financial metrics used to monitor bank health?",
+      "options": [
+        "Capital to Risk-weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (Net NPA) Ratio",
+        "Tier 1 Leverage Ratio",
+        "Loan-to-Value (LTV) Ratio"
+      ],
+      "answer": 3,
+      "explanation": "The RBI's Prompt Corrective Action (PCA) framework evaluates banks based on three key area parameters: Capital (CRAR / CET-1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Tier 1 Leverage Ratio). Loan-to-Value (LTV) ratio is a prudential lending guideline for specific loans, not a PCA monitoring metric.",
       "status": "pending"
     }
   ]

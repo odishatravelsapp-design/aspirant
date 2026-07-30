@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -3063,6 +3063,62 @@
       ],
       "answer": 3,
       "explanation": "Carl Rogers identified three core conditions: Congruence (genuineness), Unconditional Positive Regard (acceptance), and Empathic Understanding. Directive/diagnostic interpretation is explicitly avoided in non-directive counselling."
+    },
+    {
+      "id": "tgt-ai-1785383483902-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the standard time duration allocated for the 'Teach' phase in the Indian model of Microteaching developed by NCERT?",
+      "options": [
+        "5 minutes",
+        "6 minutes",
+        "10 minutes",
+        "12 minutes"
+      ],
+      "answer": 1,
+      "explanation": "In the NCERT model of Microteaching, the standard cycle consists of 36 minutes total: Teaching (6 min), Feedback (6 min), Re-plan (12 min), Re-teach (6 min), and Re-feedback (6 min). Thus, the 'Teach' phase is allocated 6 minutes.",
+      "translations": {
+        "or": {
+          "question": "NCERT ଦ୍ୱାରା ବିକଶିତ ଭାରତୀୟ ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ) ମଡେଲରେ 'ଶିକ୍ଷାଦାନ' (Teach) ପର୍ଯ୍ୟାୟ ପାଇଁ ନିର୍ଦ୍ଧାରିତ ମାନକ ସମୟସୀମା କେତେ?",
+          "options": [
+            "୫ ମିନିଟ୍",
+            "୬ ମିନିଟ୍",
+            "୧୦ ମିନିଟ୍",
+            "୧୨ ମିନିଟ୍"
+          ],
+          "explanation": "NCERT ର ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ ମଡେଲରେ ସମୁଦାୟ ଚକ୍ର ୩୬ ମିନିଟର ଅଟେ: ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଏବଂ ପୁନଃ-ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍)। ତେଣୁ, 'ଶିକ୍ଷାଦାନ' ପର୍ଯ୍ୟାୟ ପାଇଁ ୬ ମିନିଟ୍ ନିର୍ଦ୍ଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785383483902-1",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Jean Piaget's theory of cognitive development, at which sub-stage of the Sensorimotor stage does a child first demonstrate 'A-not-B error' behavior?",
+      "options": [
+        "Sub-stage 2: Primary Circular Reactions",
+        "Sub-stage 3: Secondary Circular Reactions",
+        "Sub-stage 4: Coordination of Secondary Circular Reactions",
+        "Sub-stage 5: Tertiary Circular Reactions"
+      ],
+      "answer": 2,
+      "explanation": "The 'A-not-B error' (or perseverative error) typically occurs in Sub-stage 4 (Coordination of Secondary Circular Reactions, around 8–12 months), where an infant searches for a hidden object in location A (where it was previously found) even after watching it being moved to location B.",
+      "translations": {
+        "or": {
+          "question": "ଜାଁ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ସେନ୍ସୋରୀମୋଟର (ସଂବେଦୀ-ପ୍ରେରକ) ପର୍ଯ୍ୟାୟର କେଉଁ ଉପ-ପର୍ଯ୍ୟାୟରେ ଶିଶୁ ପ୍ରଥମେ 'A-not-B ତ୍ରୁଟି' (A-not-B error) ଆଚରଣ ପ୍ରଦର୍ଶନ କରେ?",
+          "options": [
+            "ଉପ-ପର୍ଯ୍ୟାୟ ୨: ପ୍ରାଥମିକ ବୃତ୍ତାକାର ପ୍ରତିକ୍ରିୟା (Primary Circular Reactions)",
+            "ଉପ-ପର୍ଯ୍ୟାୟ ୩: ଦ୍ୱିତୀୟକ ବୃତ୍ତାକାର ପ୍ରତିକ୍ରିୟା (Secondary Circular Reactions)",
+            "ଉପ-ପର୍ଯ୍ୟାୟ ୪: ଦ୍ୱିତୀୟକ ବୃତ୍ତାକାର ପ୍ରତିକ୍ରିୟାର ସମନ୍ୱୟ (Coordination of Secondary Circular Reactions)",
+            "ଉପ-ପର୍ଯ୍ୟାୟ ୫: ତୃତୀୟକ ବୃତ୍ତାକାର ପ୍ରତିକ୍ରିୟା (Tertiary Circular Reactions)"
+          ],
+          "explanation": "'A-not-B ତ୍ରୁଟି' ସାଧାରଣତଃ ଉପ-ପର୍ଯ୍ୟାୟ ୪ (ଦ୍ୱିତୀୟକ ବୃତ୍ତାକାର ପ୍ରତିକ୍ରିୟାର ସମନ୍ୱୟ, ପ୍ରାୟ ୮-୧୨ ମାସ) ରେ ଦେଖାଯାଏ, ଯେଉଁଠାରେ ଶିଶୁଟି ଏକ ଲୁଚାଯାଇଥିବା ବସ୍ତୁକୁ 'स्थान B' କୁ ସ୍ଥାନାନ୍ତର କରାଯାଉଥିବା ଦେଖିବା ପରେ ମଧ୍ୟ ପୂର୍ବରୁ ମିଳିଥିବା 'स्थान A' ରେ ହିଁ ଖୋଜିଥାଏ।"
+        }
+      }
     }
   ]
 }
