@@ -1,254 +1,254 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-30",
   "items": [
     {
-      "id": "ca-1785212029556-0",
+      "id": "ca-1785384224360-0",
       "category": "National",
-      "title": "Govt Introduces Bill in Lok Sabha to Curb Paper Leaks",
-      "summary": "The Union Government has introduced a Bill in the Lok Sabha aimed at implementing stricter measures and legal penalties to check paper leaks in public examinations.",
-      "source": "The New Indian Express",
+      "title": "Lok Sabha Passes Public Examinations Amendment Bill 2026",
+      "summary": "The Lok Sabha passed the Public Examinations Amendment Bill 2026, introducing strict legal measures including a minimum of 5 years in jail for exam malpractices.",
+      "source": "Live Law",
       "translations": {
         "or": {
-          "title": "ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ରୋକିବା ପାଇଁ ଲୋକସଭାରେ ବିଲ୍ ଆଗତ କଲେ ସରକାର",
-          "summary": "ସାର୍ବଜନୀନ ପରୀକ୍ଷାରେ ପ୍ରଶ୍ନପତ୍ର ଲିକ୍ ରୋକିବା ପାଇଁ କଡ଼ା ପଦକ୍ଷେପ ଏବଂ ଆଇନଗତ ଦଣ୍ଡବିଧାନ ପାଇଁ କେନ୍ଦ୍ର ସରକାର ଲୋକସଭାରେ ଏକ ବିଲ୍ ଆଗତ କରିଛନ୍ତି।"
+          "title": "ଲୋକସଭାରେ ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ପାରିତ",
+          "summary": "ଲୋକସଭା ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ପାରିତ କରିଛି, ଯେଉଁଥିରେ ପରୀକ୍ଷା ଜାଲିଆତି ପାଇଁ ସର୍ବନିମ୍ନ ୫ ବର୍ଷର ଜେଲ ଦଣ୍ଡର ପ୍ରାବଧାନ ରହିଛି।"
         }
       }
     },
     {
-      "id": "ca-1785212029556-1",
+      "id": "ca-1785384224360-1",
+      "category": "National",
+      "title": "Karnataka Released Excess Cauvery Water to Tamil Nadu Over Past 10 Years",
+      "summary": "Reports indicate that Karnataka released excess Cauvery river water to Tamil Nadu over the past decade beyond prescribed allocations.",
+      "source": "Deccan Herald",
+      "translations": {
+        "or": {
+          "title": "ବିଗତ ୧୦ ବର୍ଷରେ କର୍ଣ୍ଣାଟକ ତାମିଲନାଡୁକୁ ଅତିରିକ୍ତ କାବେରୀ ଜଳ ଛାଡ଼ିଛି",
+          "summary": "ରିପୋର୍ଟ ଅନୁଯାୟୀ, ବିଗତ ୧୦ ବର୍ଷ ମଧ୍ୟରେ କର୍ଣ୍ଣାଟକ ତାମିଲନାଡୁକୁ ଧାର୍ଯ୍ୟ ପରିମାଣଠାରୁ ଅଧିକ କାବେରୀ ନଦୀ ଜଳ ନିଷ୍କାସିତ କରିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1785384224360-2",
+      "category": "National",
+      "title": "Jagdish Aphale Appointed Ram Temple Trust's First Secretary",
+      "summary": "IIT Bombay alumnus Jagdish Aphale has been named the first secretary of the Ram temple trust, where he will oversee financial transactions.",
+      "source": "The Times of India",
+      "translations": {
+        "or": {
+          "title": "ଜଗଦୀଶ ଆଫଲେ ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ପ୍ରଥମ ସଚିବ ଭାବେ ନିଯୁକ୍ତ",
+          "summary": "ଆଇଆଇଟି ବମ୍ବେର ପୂର୍ବତନ ଛାତ୍ର ଜଗଦୀଶ ଆଫଲେଙ୍କୁ ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ପ୍ରଥମ ସଚିବ ଭାବରେ ନାମିତ କରାଯାଇଛି, ଯିଏ ଆର୍ଥିକ କାରବାରଗୁଡ଼ିକର ତଦାରଖ କରିବେ।"
+        }
+      }
+    },
+    {
+      "id": "ca-1785384224360-3",
       "category": "Banking",
-      "title": "RBI Gets Govt Approval for Polymer Rs 10 and Rs 20 Note Trials",
-      "summary": "The Reserve Bank of India has obtained approval from the Central Government to conduct field trials for polymer-based currency notes in Rs 10 and Rs 20 denominations.",
-      "source": "Firstpost",
+      "title": "Paytm Payments Bank Set for Winding Up Following RBI Licence Revocation",
+      "summary": "Paytm Payments Bank is set to be wound up following the revocation of its licence by the Reserve Bank of India.",
+      "source": "Yahoo Finance",
       "translations": {
         "or": {
-          "title": "ପଲିମର୍ ୧୦ ଟଙ୍କିଆ ଓ ୨୦ ଟଙ୍କିଆ ନୋଟ୍ ପରୀକ୍ଷଣ ପାଇଁ RBI କୁ ସରକାରୀ ମଞ୍ଜୁରୀ",
-          "summary": "୧୦ ଟଙ୍କା ଏବଂ ୨୦ ଟଙ୍କା ମୂଲ୍ୟର ପଲିମର ମୁଦ୍ରା ନୋଟର କ୍ଷେତ୍ର ପରୀକ୍ଷଣ କରିବା ପାଇଁ ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) କେନ୍ଦ୍ର ସରକାରଙ୍କ ଅନୁମୋଦନ ପାଇଛି।"
+          "title": "ଆରବିଆଇ ଲାଇସେନ୍ସ ବାତିଲ ପରେ ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ ବନ୍ଦ ହେବା ମାର୍ଗରେ",
+          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ଦ୍ୱାରା ଲାଇସେନ୍ସ ବାତିଲ କରାଯିବା ପରେ ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ ବନ୍ଦ ହେବାକୁ ଯାଉଛି।"
         }
       }
     },
     {
-      "id": "ca-1785212029556-2",
+      "id": "ca-1785384224360-4",
       "category": "Economy",
-      "title": "Developed Economy Requires Developed Financial Markets: RBI Dy Governor",
-      "summary": "RBI Deputy Governor Jain highlighted that for India to transition into a developed economy, building robust and well-developed financial markets is an essential prerequisite.",
-      "source": "BusinessLine",
+      "title": "Finance Ministry Highlights Resilience Amid Global Economic Risks",
+      "summary": "The Finance Ministry's latest economic outlook emphasizes building resilience as global risks continue to test India's economy.",
+      "source": "Telegraph India",
       "translations": {
         "or": {
-          "title": "ବିକଶିତ ଅର୍ଥବ୍ୟବସ୍ଥା ପାଇଁ ବିକଶିତ ଆର୍ଥିକ ବଜାର ଆବଶ୍ୟକ: RBI ଡେପୁଟି ଗଭର୍ଣ୍ଣର",
-          "summary": "ଭାରତ ଏକ ବିକଶିତ ଅର୍ଥବ୍ୟବସ୍ଥାରେ ପରିଣତ ହେବା ପାଇଁ ପ୍ରଥମେ ସୁଦୃଢ଼ ଏବଂ ବିକଶିତ ଆର୍ଥିକ ବଜାର ପ୍ରତିଷ୍ଠା କରିବା ଆବଶ୍ୟକ ବୋଲି RBI ଡେପୁଟି ଗଭର୍ଣ୍ଣର ଜୈନ କହିଛନ୍ତି।"
+          "title": "ବିଶ୍ୱ ଅର୍ଥନୈତିକ ଝୁଙ୍କି ମଧ୍ୟରେ ସହନଶୀଳତା ଉପରେ ଅର୍ଥ ମନ୍ତ୍ରଣାଳୟର ଗୁରୁତ୍ୱ",
+          "summary": "ବିଶ୍ୱସ୍ତରୀୟ ଆହ୍ୱାନଗୁଡ଼ିକ ଭାରତୀୟ ଅର୍ଥବ୍ୟବସ୍ଥାକୁ ପରୀକ୍ଷା କରୁଥିବା ବେଳେ ଅର୍ଥ ମନ୍ତ୍ରଣାଳୟ ଏହାର ସହନଶୀଳତା ବୃଦ୍ଧି ଉପରେ ଗୁରୁତ୍ୱାରୋପ କରିଛି।"
         }
       }
     },
     {
-      "id": "ca-1785212029556-3",
-      "category": "Banking",
-      "title": "RBI Encourages PSU Banks to Pool Overseas Networks for FCNR(B)",
-      "summary": "The Reserve Bank of India is encouraging public sector banks to pool foreign networks, dollar liquidity, and treasury support to boost FCNR(B) deposit mobilisation.",
-      "source": "BFSI News",
-      "translations": {
-        "or": {
-          "title": "FCNR(B) ଜମା ବୃଦ୍ଧି ପାଇଁ ବୈଦେଶିକ ନେଟୱାର୍କ ସଂଗଠିତ କରିବାକୁ PSU ବ୍ୟାଙ୍କଗୁଡ଼ିକୁ RBI ର ଉତ୍ସାହ",
-          "summary": "ବୈଦେଶିକ ମୁଦ୍ରା ଅଣ-ନିବାସୀ (ବ୍ୟାଙ୍କ) ଜମା ସଂଗ୍ରହ ବୃଦ୍ଧି ପାଇଁ ସରକାରୀ ବ୍ୟାଙ୍କଗୁଡ଼ିକୁ ସେମାନଙ୍କ ବୈଦେଶିକ ଶାଖା ଏବଂ ଡଲାର ଲିକ୍ବିଡିଟିର ମିଳିତ ବ୍ୟବହାର କରିବାକୁ RBI ଉତ୍ସାହିତ କରୁଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1785212029556-4",
+      "id": "ca-1785384224360-5",
       "category": "Odisha",
-      "title": "Odisha Cabinet Approves 'Ama Similipal Yojana' for 200 Villages",
-      "summary": "The Odisha government has approved the 'Ama Similipal Yojana' to boost local infrastructure and eco-tourism across 200 peripheral villages surrounding the Similipal biosphere.",
+      "title": "Odisha and Japan's Tottori Prefecture Partner for Business and HR Exchange",
+      "summary": "Odisha is set to tie up with Japan’s Tottori Prefecture to foster collaboration in business initiatives and human resource exchange.",
       "source": "The New Indian Express",
       "translations": {
         "or": {
-          "title": "୨୦୦ଟି ସୀମାନ୍ତ ଗ୍ରାମ ପାଇଁ ଓଡ଼ିଶା ସରକାରଙ୍କ 'ଆମ ସିମିଳିପାଳ ଯୋଜନା'କୁ ମଞ୍ଜୁରୀ",
-          "summary": "ସିମିଳିପାଳ ଅଭୟାରଣ୍ୟର ପାର୍ଶ୍ୱବର୍ତ୍ତୀ ୨୦୦ଟି ଗ୍ରାମର ଭିତ୍ତିଭୂମି ଓ ପରିବେଶ-ପର୍ଯ୍ୟଟନର ବିକାଶ ପାଇଁ ଓଡ଼ିଶା ସରକାର 'ଆମ ସିମିଳିପାଳ ଯୋଜନା'କୁ ଅନୁମୋଦନ କରିଛନ୍ତି।"
+          "title": "ବ୍ୟବସାୟ ଓ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନ ପାଇଁ ଓଡ଼ିଶା ଏବଂ ଜାପାନର ତୋତ୍ତୋରୀ ପ୍ରିଫେକ୍ଚର ମଧ୍ୟରେ ସହବନ୍ଧନ",
+          "summary": "ବ୍ୟବସାୟିକ ଉଦ୍ୟମ ଏବଂ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ ଓଡ଼ିଶା ଜାପାନର ତୋତ୍ତୋରୀ ପ୍ରିଫେକ୍ଚର ସହିତ ସହବନ୍ଧନ କରିବାକୁ ଯାଉଛି।"
         }
       }
     },
     {
-      "id": "ca-1785212029556-5",
+      "id": "ca-1785384224360-6",
       "category": "Odisha",
-      "title": "Tata Power Selects Odisha for 10 GW Ingot Manufacturing Plant",
-      "summary": "Tata Power has finalized Odisha over Andhra Pradesh as the destination for setting up its massive 10 GW ingot manufacturing plant.",
-      "source": "The Economic Times",
+      "title": "50,000 Villages in Odisha to Get Optical Fibre Network by 2029",
+      "summary": "Under a new digital infrastructure initiative, 50,000 villages across Odisha are targeted to be connected with an optical fibre network by 2029.",
+      "source": "The New Indian Express",
       "translations": {
         "or": {
-          "title": "୧୦ GW ଇଙ୍ଗଟ୍ ପ୍ଲାଣ୍ଟ ପାଇଁ ଆନ୍ଧ୍ରପ୍ରଦେଶ ପରିବର୍ତ୍ତେ ଓଡ଼ିଶାକୁ ବାଛିଲା ଟାଟା ପାୱାର",
-          "summary": "ଟାଟା ପାୱାର ନିଜର ୧୦ ଗିଗାୱାଟ (GW) ଇଙ୍ଗଟ୍ ଉତ୍ପାଦନ ପ୍ଲାଣ୍ଟ ସ୍ଥାପନ ପାଇଁ ଆନ୍ଧ୍ରପ୍ରଦେଶ ବଦଳରେ ଓଡ଼ିଶାକୁ ଚୟନ କରିଛି।"
+          "title": "୨୦୨୯ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମରେ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ",
+          "summary": "ଏକ ନୂତନ ଡିଜିଟାଲ ଭିତ୍ତିଭୂମି ଯୋଜନା ଅଧୀନରେ ୨୦୨୯ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମକୁ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ ସହିତ ଯୋଡ଼ାଯିବ।"
         }
       }
     },
     {
-      "id": "ca-1785212029556-6",
+      "id": "ca-1785384224360-7",
       "category": "Odisha",
-      "title": "SC Orders Pan-India Rollout of Odisha HC Ruling on APAAR ID Consent",
-      "summary": "The Supreme Court has ordered the nationwide implementation of the Odisha High Court's verdict concerning mandatory consent forms for APAAR ID generation.",
-      "source": "Internet Freedom Foundation (IFF)",
+      "title": "Heavy Rain and Floods Hit Five Districts in Odisha",
+      "summary": "Swollen rivers and severe rainfall have resulted in fresh flooding across five districts in Odisha, affecting over 5.5 lakh people.",
+      "source": "India Today",
       "translations": {
         "or": {
-          "title": "APAAR ID ସମ୍ମତି ଫର୍ମ ଉପରେ ଓଡ଼ିଶା ହାଇକୋର୍ଟଙ୍କ ରାୟ ସାରା ଦେଶରେ ଲାଗୁ କରିବାକୁ ସୁପ୍ରିମକୋର୍ଟଙ୍କ ନିର୍ଦ୍ଦେଶ",
-          "summary": "APAAR ID ସୃଷ୍ଟି ପାଇଁ ସମ୍ମତି ଫର୍ମ ଆବଶ୍ୟକତା ସମ୍ପର୍କରେ ଓଡ଼ିଶା ହାଇକୋର୍ଟଙ୍କ ନିଷ୍ପତ୍ତିକୁ ସାରା ଦେଶରେ ଲାଗୁ କରିବାକୁ ସୁପ୍ରିମକୋର୍ଟ ନିର୍ଦ୍ଦେଶ ଦେଇଛନ୍ତି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1785212029556-7",
-      "category": "Odisha",
-      "title": "Land Acquisition Starts for Rs 58,042 Cr Petrochemical Complex Near Paradip",
-      "summary": "Odisha has initiated the land acquisition process for establishing a major petrochemical complex near Paradip with an investment of Rs 58,042 crore.",
-      "source": "Maritime Gateway",
-      "translations": {
-        "or": {
-          "title": "୫୮,୦୪୨ କୋଟି ଟଙ୍କାର ପେଟ୍ରୋକେମିକାଲ୍ କମ୍ପ୍ଲେକ୍ସ ପାଇଁ ଓଡ଼ିଶାରେ ଜମି ଅଧିଗ୍ରହଣ ଆରମ୍ଭ",
-          "summary": "ପାରାଦୀପ ନିକଟରେ ୫୮,୦୪୨ କୋଟି ଟଙ୍କାର ଏକ ବିଶାଳ ପେଟ୍ରୋକେମିକାଲ୍ ପ୍ରକଳ୍ପ ସ୍ଥାପନ ପାଇଁ ଓଡ଼ିଶା ସରକାର ଜମି ଅଧିଗ୍ରହଣ ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିଛନ୍ତି।"
+          "title": "ଓଡ଼ିଶାର ୫ଟି ଜିଲ୍ଲାରେ ବନ୍ୟା ପରିସ୍ଥିତି, ୫.୫ ଲକ୍ଷରୁ ଅଧିକ ଲୋକ ପ୍ରଭାବିତ",
+          "summary": "ପ୍ରବଳ ବର୍ଷା ଓ ନଦୀଗୁଡ଼ିକରେ ଜଳସ୍ତର ବୃଦ୍ଧି ଯୋଗୁଁ ଓଡ଼ିଶାର ୫ଟି ଜିଲ୍ଲାରେ ବନ୍ୟା ପରିସ୍ଥିତି ସୃଷ୍ଟି ହୋଇଛି, ଯାହାଦ୍ୱାରା ୫.୫ ଲକ୍ଷରୁ ଅଧିକ ଲୋକ ପ୍ରଭାବିତ ହୋଇଛନ୍ତି।"
         }
       }
     }
   ],
   "quiz": [
     {
-      "id": "ca-q-1785212029556-0",
-      "section": "Current Affairs",
-      "topic": "Banking",
-      "difficulty": "easy",
-      "source": "ai",
-      "status": "pending",
-      "question": "For which denominations of currency notes has the RBI received government approval to conduct field trials using polymer?",
-      "options": [
-        "Rs 50 and Rs 100",
-        "Rs 10 and Rs 20",
-        "Rs 100 and Rs 200",
-        "Rs 20 and Rs 50"
-      ],
-      "answer": 1,
-      "explanation": "The Reserve Bank of India has obtained approval from the government to conduct field trials for polymer notes in Rs 10 and Rs 20 denominations.",
-      "translations": {
-        "or": {
-          "question": "କେଉଁ ମୂଲ୍ୟର କାଗଜ ନୋଟ୍ ପାଇଁ ପଲିମର ନୋଟ୍ କ୍ଷେତ୍ର ପରୀକ୍ଷଣ କରିବାକୁ RBI କେନ୍ଦ୍ର ସରକାରଙ୍କ ଅନୁମୋଦନ ପାଇଛି?",
-          "options": [
-            "୫୦ ଟଙ୍କା ଏବଂ ୧୦୦ ଟଙ୍କା",
-            "୧୦ ଟଙ୍କା ଏବଂ ୨୦ ଟଙ୍କା",
-            "୧୦୦ ଟଙ୍କା ଏବଂ ୨୦୦ ଟଙ୍କା",
-            "୨୦ ଟଙ୍କା ଏବଂ ୫୦ ଟଙ୍କା"
-          ],
-          "explanation": "୧୦ ଟଙ୍କା ଏବଂ ୨୦ ଟଙ୍କା ମୂଲ୍ୟର ପଲିମର ମୁଦ୍ରା ନୋଟର ପରୀକ୍ଷଣ ପାଇଁ RBI କେନ୍ଦ୍ର ସରକାରଙ୍କ ମଞ୍ଜୁରୀ ପାଇଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1785212029556-1",
-      "section": "Current Affairs",
-      "topic": "Odisha",
-      "difficulty": "medium",
-      "source": "ai",
-      "status": "pending",
-      "question": "Which scheme was recently approved by the Odisha government benefiting 200 peripheral villages?",
-      "options": [
-        "Ama Similipal Yojana",
-        "Ama Jungle Yojana",
-        "Similipal Vikas Yojana",
-        "Ama Grama Yojana"
-      ],
-      "answer": 0,
-      "explanation": "The Odisha government approved 'Ama Similipal Yojana' to benefit 200 peripheral villages surrounding the Similipal biosphere.",
-      "translations": {
-        "or": {
-          "question": "୨୦୦ଟି ସୀମାନ୍ତ ଗ୍ରାମର ଉନ୍ନତି ପାଇଁ ନିକଟରେ ଓଡ଼ିଶା ସରକାର କେଉଁ ଯୋଜନାକୁ ଅନୁମୋଦନ ଦେଇଛନ୍ତି?",
-          "options": [
-            "ଆମ ସିମିଳିପାଳ ଯୋଜନା",
-            "ଆମ ଜଙ୍ଗଲ ଯୋଜନା",
-            "ସିମିଳିପାଳ ବିକାଶ ଯୋଜନା",
-            "ଆମ ଗ୍ରାମ ଯୋଜନା"
-          ],
-          "explanation": "ଓଡ଼ିଶା ସରକାର ସିମିଳିପାଳର ପାର୍ଶ୍ୱବର୍ତ୍ତୀ ୨୦୦ଟି ଗ୍ରାମ ପାଇଁ 'ଆମ ସିମିଳିପାଳ ଯୋଜନା'କୁ ଅନୁମୋଦନ କରିଛନ୍ତି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1785212029556-2",
-      "section": "Current Affairs",
-      "topic": "Odisha",
-      "difficulty": "medium",
-      "source": "ai",
-      "status": "pending",
-      "question": "Tata Power selected Odisha over which state for setting up a 10 GW ingot manufacturing plant?",
-      "options": [
-        "Gujarat",
-        "Andhra Pradesh",
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "answer": 1,
-      "explanation": "Tata Power picked Odisha over Andhra Pradesh for setting up its 10 GW ingot manufacturing plant.",
-      "translations": {
-        "or": {
-          "question": "୧୦ GW ଇଙ୍ଗଟ୍ ଉତ୍ପାଦନ ପ୍ଲାଣ୍ଟ ସ୍ଥାପନ ପାଇଁ ଟାଟା ପାୱାର କେଉଁ ରାଜ୍ୟ ପରିବର୍ତ୍ତେ ଓଡ଼ିଶାକୁ ଚୟନ କରିଛି?",
-          "options": [
-            "ଗୁଜରାଟ",
-            "ଆନ୍ଧ୍ରପ୍ରଦେଶ",
-            "କର୍ଣ୍ଣାଟକ",
-            "ତାମିଲନାଡୁ"
-          ],
-          "explanation": "ଟାଟା ପାୱାର ନିଜର ୧୦ GW ଇଙ୍ଗଟ୍ ପ୍ଲାଣ୍ଟ ପାଇଁ ଆନ୍ଧ୍ରପ୍ରଦେଶ ବଦଳରେ ଓଡ଼ିଶାକୁ ବାଛିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1785212029556-3",
-      "section": "Current Affairs",
-      "topic": "Odisha",
-      "difficulty": "hard",
-      "source": "ai",
-      "status": "pending",
-      "question": "What is the total estimated investment for the proposed Petrochemical Complex near Paradip for which Odisha has started land acquisition?",
-      "options": [
-        "Rs 45,000 Crore",
-        "Rs 58,042 Crore",
-        "Rs 62,500 Crore",
-        "Rs 35,000 Crore"
-      ],
-      "answer": 1,
-      "explanation": "Odisha has initiated the land acquisition process for a Rs 58,042 crore Petrochemical Complex near Paradip.",
-      "translations": {
-        "or": {
-          "question": "ପାରାଦୀପ ନିକଟରେ ପ୍ରସ୍ତାବିତ ପେଟ୍ରୋକେମିକାଲ୍ କମ୍ପ୍ଲେକ୍ସ ପାଇଁ ଆକଳିତ ମୋଟ ନିବେଶ କେତେ, ଯାହା ପାଇଁ ଜମି ଅଧିଗ୍ରହଣ ଆରମ୍ଭ ହୋଇଛି?",
-          "options": [
-            "୪୫,୦୦୦ କୋଟି ଟଙ୍କା",
-            "୫୮,୦୪୨ କୋଟି ଟଙ୍କା",
-            "୬୨,୫୦୦ କୋଟି ଟଙ୍କା",
-            "୩୫,୦୦୦ କୋଟି ଟଙ୍କା"
-          ],
-          "explanation": "ପାରାଦୀପ ନିକଟରେ ୫୮,୦୪୨ କୋଟି ଟଙ୍କାର ପେଟ୍ରୋକେମିକାଲ କମ୍ପ୍ଲେକ୍ସ ପାଇଁ ଓଡ଼ିଶାରେ ଜମି ଅଧିଗ୍ରହଣ ଆରମ୍ଭ ହୋଇଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-q-1785212029556-4",
+      "id": "ca-q-1785384224360-0",
       "section": "Current Affairs",
       "topic": "National",
       "difficulty": "easy",
       "source": "ai",
       "status": "pending",
-      "question": "Which High Court's ruling regarding the consent form for APAAR ID was ordered by the Supreme Court to be implemented pan-India?",
+      "question": "According to the Public Examinations Amendment Bill 2026 passed by the Lok Sabha, what is the minimum jail term for exam malpractices?",
       "options": [
-        "Delhi High Court",
-        "Odisha High Court",
-        "Bombay High Court",
-        "Madras High Court"
+        "2 years",
+        "3 years",
+        "5 years",
+        "7 years"
       ],
-      "answer": 1,
-      "explanation": "The Supreme Court ordered the nationwide implementation of the Odisha High Court's ruling regarding APAAR ID consent forms.",
+      "answer": 2,
+      "explanation": "The Public Examinations Amendment Bill 2026 passed by the Lok Sabha mandates a minimum jail sentence of 5 years for exam malpractices.",
       "translations": {
         "or": {
-          "question": "APAAR ID ସମ୍ମତି ଫର୍ମ ସମ୍ପର୍କରେ କେଉଁ ହାଇକୋର୍ଟଙ୍କ ରାୟକୁ ସମଗ୍ର ଭାରତରେ ଲାଗୁ କରିବାକୁ ସୁପ୍ରିମକୋର୍ଟ ଆଦେଶ ଦେଇଛନ୍ତି?",
+          "question": "ଲୋକସଭା ଦ୍ୱାରା ପାରିତ ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ଅନୁଯାୟୀ, ପରୀକ୍ଷା ଜାଲିଆତି ପାଇଁ ସର୍ବନିମ୍ନ କେତେ ବର୍ଷର ଜେଲ ଦଣ୍ଡର ପ୍ରାବଧାନ ରହିଛି?",
           "options": [
-            "ଦିଲ୍ଲୀ ହାଇକୋର୍ଟ",
-            "ଓଡ଼ିଶା ହାଇକୋର୍ଟ",
-            "ବମ୍ବେ ହାଇକୋର୍ଟ",
-            "ମନ୍ଦ୍ରାଜ ହାଇକୋର୍ଟ"
+            "୨ ବର୍ଷ",
+            "୩ ବର୍ଷ",
+            "୫ ବର୍ଷ",
+            "୭ ବର୍ଷ"
           ],
-          "explanation": "APAAR ID ସମ୍ମତି ଫର୍ମ ଉପରେ ଓଡ଼ିଶା ହାଇକୋର୍ଟଙ୍କ ରାୟକୁ ସାରା ଦେଶରେ ଲାଗୁ କରିବାକୁ ସୁପ୍ରିମକୋର୍ଟ ନିର୍ଦ୍ଦେଶ ଦେଇଛନ୍ତି।"
+          "explanation": "ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ଅନୁଯାୟୀ ପରୀକ୍ଷା ଜାଲିଆତି ପାଇଁ ସର୍ବନିମ୍ନ ୫ ବର୍ଷ ଜେଲ ଦଣ୍ଡର ନିୟମ ରହିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1785384224360-1",
+      "section": "Current Affairs",
+      "topic": "Banking",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which entity is set for winding up following the revocation of its licence by the Reserve Bank of India (RBI)?",
+      "options": [
+        "Airtel Payments Bank",
+        "Paytm Payments Bank",
+        "Jio Payments Bank",
+        "Fino Payments Bank"
+      ],
+      "answer": 1,
+      "explanation": "Paytm Payments Bank is set for winding up following the revocation of its operating licence by the RBI.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ଦ୍ୱାରା ଲାଇସେନ୍ସ ବାତିଲ କରାଯିବା ପରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ବନ୍ଦ ହେବାକୁ ଯାଉଛି?",
+          "options": [
+            "ଏୟାରଟେଲ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ",
+            "ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ",
+            "ଜିଓ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ",
+            "ଫିନୋ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ"
+          ],
+          "explanation": "ଆରବିଆଇ ଦ୍ୱାରା ଲାଇସେନ୍ସ ବାତିଲ ହେବା ପରେ ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ ବନ୍ଦ ହେବାକୁ ଯାଉଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1785384224360-2",
+      "section": "Current Affairs",
+      "topic": "Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Odisha has partnered with which Japanese prefecture for business and human resource exchange?",
+      "options": [
+        "Osaka",
+        "Tokyo",
+        "Tottori",
+        "Kyoto"
+      ],
+      "answer": 2,
+      "explanation": "Odisha and Japan's Tottori Prefecture have agreed to tie up for business and human resource exchange.",
+      "translations": {
+        "or": {
+          "question": "ବ୍ୟବସାୟ ଏବଂ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନ ପାଇଁ ଓଡ଼ିଶା ଜାପାନର କେଉଁ ପ୍ରିଫେକ୍ଚର ସହିତ ସହବନ୍ଧନ କରିଛି?",
+          "options": [
+            "ଓସାକା",
+            "ଟୋକିଓ",
+            "ତୋତ୍ତୋରୀ",
+            "କ୍ୟୋଟୋ"
+          ],
+          "explanation": "ବ୍ୟବସାୟ ଏବଂ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନ ପାଇଁ ଓଡ଼ିଶା ଜାପାନର ତୋତ୍ତୋରୀ ପ୍ରିଫେକ୍ଚର ସହିତ ସହବନ୍ଧନ କରିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1785384224360-3",
+      "section": "Current Affairs",
+      "topic": "Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "By which year does Odisha target to connect 50,000 villages with an optical fibre network?",
+      "options": [
+        "2026",
+        "2027",
+        "2028",
+        "2029"
+      ],
+      "answer": 3,
+      "explanation": "Odisha targets to connect 50,000 villages with an optical fibre network by the year 2029.",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ବର୍ଷ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମକୁ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ ସହିତ ଯୋଡ଼ିବା ପାଇଁ ଲକ୍ଷ୍ୟ ରଖାଯାଇଛି?",
+          "options": [
+            "୨୦୨୬",
+            "୨୦୨୭",
+            "୨୦୨୮",
+            "୨୦୨୯"
+          ],
+          "explanation": "୨୦୨୯ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମକୁ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ ସହିତ ଯୋଡ଼ିବାକୁ ଲକ୍ଷ୍ୟ ରଖାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-q-1785384224360-4",
+      "section": "Current Affairs",
+      "topic": "National",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who was appointed as the Ram temple trust's first secretary to oversee financial transactions?",
+      "options": [
+        "Prashant Kishor",
+        "Jagdish Aphale",
+        "Amit Shah",
+        "Rahul Gandhi"
+      ],
+      "answer": 1,
+      "explanation": "IIT Bombay alumnus Jagdish Aphale was named the Ram temple trust's first secretary to oversee financial transactions.",
+      "translations": {
+        "or": {
+          "question": "ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ଆର୍ଥିକ କାରବାରଗୁଡ଼ିକର ତଦାରଖ କରିବା ପାଇଁ ପ୍ରଥମ ସଚିବ ଭାବରେ କାହାକୁ ନିଯୁକ୍ତ କରାଯାଇଛି?",
+          "options": [
+            "ପ୍ରଶାନ୍ତ କିଶୋର",
+            "ଜଗଦୀଶ ଆଫଲେ",
+            "ଅମିତ ଶାହ",
+            "ରାହୁଲ ଗାନ୍ଧୀ"
+          ],
+          "explanation": "ଆଇଆଇଟି ବମ୍ବେର ପୂର୍ବତନ ଛାତ୍ର ଜଗଦୀଶ ଆଫଲେଙ୍କୁ ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ପ୍ରଥମ ସଚିବ ଭାବରେ ନିଯୁକ୍ତ କରାଯାଇଛି।"
         }
       }
     }
