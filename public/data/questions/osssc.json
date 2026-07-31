@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -6928,6 +6928,234 @@
             "ଉଦ୍ଦ୍ୟୋତକେଶରୀ"
           ],
           "explanation": "ସୋମବଂଶୀ ରାଜା ଯଯାତି ପ୍ରଥମ (ଯଯାତି କେଶରୀ) ଯାଜପୁରର ବୈତରଣୀ ନଦୀ କୂଳରେ ଦଶାଶ୍ୱମେଧ ଯଜ୍ଞ କରିଥିଲେ ଏବଂ ଓଡ଼ିଶାରେ ବସବାସ କରିବା ପାଇଁ କନ୍ୟାକୁବ୍ଜ (କନୌଜ)ରୁ ୧୦,୦୦୦ ବ୍ରାହ୍ମଣଙ୍କୁ ନିମନ୍ତ୍ରଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470518342-0",
+      "section": "Arithmetic",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 12 hours, Pipe B can fill it in 15 hours, and Pipe C can empty the full tank in 20 hours. If all three pipes are opened together at 7:00 AM, at what time will the tank be completely filled?",
+      "options": [
+        "3:00 PM",
+        "4:00 PM",
+        "5:00 PM",
+        "6:00 PM"
+      ],
+      "answer": 2,
+      "explanation": "In 1 hour, portion filled by A, B, and C together = (1/12 + 1/15 - 1/20) = (5 + 4 - 3)/60 = 6/60 = 1/10. Therefore, the entire tank will be filled in 10 hours. Adding 10 hours to 7:00 AM gives 5:00 PM.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ପାଇପ୍ A ଟାଙ୍କିକୁ ୧୨ ଘଣ୍ଟାରେ, ପାଇପ୍ B ୧୫ ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରେ ଏବଂ ପାଇପ୍ C ପୂର୍ଣ୍ଣ ଟାଙ୍କିକୁ ୨୦ ଘଣ୍ଟାରେ ଖାଲି କରିପାରେ। ଯଦି ସମସ୍ତ ତିନୋଟି ପାଇପ୍‌କୁ ସକାଳ ୭:୦୦ ଟାରେ ଏକାଠି ଖୋଲାଯାଏ, ତେବେ ଟାଙ୍କିଟି କେଉଁ ସମୟରେ ସମ୍ପୂର୍ଣ୍ଣ ପୂର୍ଣ୍ଣ ହେବ?",
+          "options": [
+            "ଅପରାହ୍ନ ୩:୦୦",
+            "ଅପରାହ୍ନ ୪:୦୦",
+            "ଅପରାହ୍ନ ୫:୦୦",
+            "ଅପରାହ୍ନ ୬:୦୦"
+          ],
+          "explanation": "୧ ଘଣ୍ଟାରେ, A, B ଏବଂ C ଦ୍ୱାରା ପୂର୍ଣ୍ଣ ହେଉଥିବା ଅଂଶ = (1/12 + 1/15 - 1/20) = (5 + 4 - 3)/60 = 6/60 = 1/10। ତେଣୁ, ସମ୍ପୂର୍ଣ୍ଣ ଟାଙ୍କି ପୂର୍ଣ୍ଣ ହେବାକୁ ୧୦ ଘଣ୍ଟା ସମୟ ଲାଗିବ। ସକାଳ ୭:୦୦ ରେ ୧୦ ଘଣ୍ଟା ଯୋଗ କଲେ ଅପରାହ୍ନ ୫:୦୦ ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470518342-1",
+      "section": "Arithmetic",
+      "topic": "LCM and HCF",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the smallest 4-digit number which when divided by 12, 15, 18, and 27 leaves a remainder of 7 in each case?",
+      "options": [
+        "1080",
+        "1087",
+        "1073",
+        "1127"
+      ],
+      "answer": 1,
+      "explanation": "LCM of 12, 15, 18, and 27 = 540. The smallest 4-digit multiple of 540 is 540 * 2 = 1080. Since a remainder of 7 is required in each case, the required number is 1080 + 7 = 1087.",
+      "translations": {
+        "or": {
+          "question": "୧୨, ୧୫, ୧୮ ଏବଂ ୨୭ ଦ୍ୱାରା ଭାଗ କଲେ ପ୍ରତ୍ୟେକ କ୍ଷେତ୍ରରେ ୭ ଅବଶିଷ୍ଟ ରହୁଥିବା କ୍ଷୁଦ୍ରତମ ୪-ଅଙ୍କ ବିଶିଷ୍ଟ ସଂଖ୍ୟାଟି କେତେ?",
+          "options": [
+            "୧୦୮୦",
+            "୧୦୮୭",
+            "୧୦୭୩",
+            "୧୧୨୭"
+          ],
+          "explanation": "୧୨, ୧୫, ୧୮ ଏବଂ ୨୭ ର ଲ.ସା.ଗୁ = ୫୪୦। ୫୪୦ ର ସବୁଠାରୁ ଛୋଟ ୪-ଅଙ୍କ ବିଶିଷ୍ଟ ଗୁଣିତକ ହେଉଛି ୫୪୦ * ୨ = ୧୦୮୦। ପ୍ରତ୍ୟେକ କ୍ଷେତ୍ରରେ ୭ ଅବଶିଷ୍ଟ ରହୁଥିବାରୁ, ନିର୍ଣ୍ଣେୟ ସଂଖ୍ୟା = ୧୦୮୦ + ୭ = ୧୦୮୭।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470555416-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'BALASORE' is coded as 'CBMBTPSF'. How will 'SAMBALPUR' be coded in that language?",
+      "options": [
+        "TBNCBMSVS",
+        "TBNCCMTVT",
+        "UCODCNTWT",
+        "TBNBAMSVS"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by 1 position in the English alphabetical series (+1 logic):\nB+1=C, A+1=B, L+1=M, A+1=B, S+1=T, O+1=P, R+1=S, E+1=F.\nApplying the same logic to 'SAMBALPUR':\nS+1=T, A+1=B, M+1=N, B+1=C, A+1=B, L+1=M, P+1=Q, U+1=V, R+1=S.\nThus, SAMBALPUR becomes TBNCBMSVS.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'BALASORE' କୁ 'CBMBTPSF' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି କୋଡ୍ ଭାଷାରେ 'SAMBALPUR' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "TBNCBMSVS",
+            "TBNCCMTVT",
+            "UCODCNTWT",
+            "TBNBAMSVS"
+          ],
+          "explanation": "ଶବ୍ଦର ପ୍ରତ୍ୟେକ ଅକ୍ଷର ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାରେ ୧ ସ୍ଥାନ ଆଗକୁ ବୃଦ୍ଧି ପାଇଛି (+1 ତର୍କ):\nB+1=C, A+1=B, L+1=M, A+1=B, S+1=T, O+1=P, R+1=S, E+1=F।\nସେହିପରି 'SAMBALPUR' ପାଇଁ:\nS+1=T, A+1=B, M+1=N, B+1=C, A+1=B, L+1=M, P+1=Q, U+1=V, R+1=S।\nତେଣୁ, SAMBALPUR ହେଉଛି TBNCBMSVS।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470555416-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. Some rivers are mountains.\n2. All mountains are forests.\n3. No forest is a desert.\n\nConclusions:\nI. No mountain is a desert.\nII. Some rivers are forests.\nIII. Some deserts are rivers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Only conclusions I and II follow",
+        "All conclusions I, II and III follow"
+      ],
+      "answer": 2,
+      "explanation": "1. All mountains are forests and no forest is a desert, which means no mountain can be a desert. So, conclusion I follows.\n2. Some rivers are mountains and all mountains are forests, which implies that the part of rivers that are mountains must also be forests. So, conclusion II follows.\n3. No direct or definite relation between deserts and rivers can be established from the statements. So, conclusion III does not follow.\nTherefore, only conclusions I and II follow.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତ୍ତି ଏବଂ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହିତ ପଢ଼ନ୍ତୁ। ବିବୃତ୍ତିରେ ଦିଆଯାଇଥିବା ସୂଚନା ସତ୍ୟ ବୋଲି ଧରି ନିଅନ୍ତୁ, ଏବଂ ନିର୍ଣ୍ଣୟ କରନ୍ତୁ ଯେ କେଉଁ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକ ବିବୃତ୍ତିରୁ ଯୁକ୍ତିଯୁକ୍ତ ଭାବରେ ଅନୁସରଣ କରେ।\n\nବିବୃତ୍ତି:\n1. କିଛି ନଦୀ ପାହାଡ଼ ଅଟନ୍ତି।\n2. ସମସ୍ତ ପାହାଡ଼ ଜଙ୍ଗଲ ଅଟନ୍ତି।\n3. କୌଣସି ଜଙ୍ଗଲ ମରୁଭୂମି ନୁହେଁ।\n\nସିଦ୍ଧାନ୍ତ:\nI. କୌଣସି ପାହାଡ଼ ମରୁଭୂମି ନୁହେଁ।\nII. କିଛି ନଦୀ ଜଙ୍ଗଲ ଅଟନ୍ତି।\nIII. କିଛି ମରୁଭୂମି ନଦୀ ଅଟନ୍ତି।",
+          "options": [
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ II ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଏବଂ II ଅନୁସରଣ କରନ୍ତି",
+            "ସମସ୍ତ ସିଦ୍ଧାନ୍ତ I, II ଏବଂ III ଅନୁସରଣ କରନ୍ତି"
+          ],
+          "explanation": "୧. ସମସ୍ତ ପାହାଡ଼ ଜଙ୍ଗଲ ଅଟନ୍ତି ଏବଂ କୌଣସି ଜଙ୍ଗଲ ମରୁଭୂମି ନୁହେଁ, ଅର୍ଥାତ୍ କୌଣସି ପାହାଡ଼ ମରୁଭୂମି ହୋଇପାରିବ ନାହିଁ। ତେଣୁ ସିଦ୍ଧାନ୍ତ I ଅନୁସରଣ କରେ।\n୨. କିଛି ନଦୀ ପାହାଡ଼ ଅଟନ୍ତି ଏବଂ ସମସ୍ତ ପାହାଡ଼ ଜଙ୍ଗଲ ଅଟନ୍ତି, ଯାହାର ଅର୍ଥ ପାହାଡ଼ ହୋଇଥିବା ନଦୀଗୁଡ଼ିକ ଜଙ୍ଗଲ ମଧ୍ୟ ଅଟନ୍ତି। ତେଣୁ ସିଦ୍ଧାନ୍ତ II ଅନୁସରଣ କରେ।\n୩. ମରୁଭୂମି ଏବଂ ନଦୀ ମଧ୍ୟରେ କୌଣସି ନିଶ୍ଚିତ ସମ୍ପର୍କ ସ୍ଥାପନ କରାଯାଇପାରିବ ନାହିଁ। ତେଣୁ ସିଦ୍ଧାନ୍ତ III ଅନୁସରଣ କରେ ନାହିଁ।\nତେଣୁ କେବଳ ସିଦ୍ଧାନ୍ତ I ଏବଂ II ଅନୁସରଣ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470598608-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which sanctuary in Odisha is world-famous as the largest mass nesting site (Arribada) of Olive Ridley sea turtles?",
+      "options": [
+        "Bhitarkanika Wildlife Sanctuary",
+        "Gahirmatha Marine Sanctuary",
+        "Similipal Tiger Reserve",
+        "Baisipalli Wildlife Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Gahirmatha Marine Sanctuary is globally renowned as the world's largest rookery and mass nesting site (Arribada) for the endangered Olive Ridley sea turtles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଅଭୟାରଣ୍ୟ ଅଲିଭ୍ ରିଡଲେ ସମୁଦ୍ର କାଛୁମାନଙ୍କର ବିଶାଳ ସମୂହ ବସା ବାନ୍ଧିବା ସ୍ଥଳ (ଆରିବାଡା) ପାଇଁ ବିଶ୍ୱପ୍ରସିଦ୍ଧ?",
+          "options": [
+            "ଭିତରକନିକା ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ",
+            "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ",
+            "ଶିମିଳିପାଳ ବ୍ୟାଘ୍ର ସଂରକ୍ଷିତ ପ୍ରକଳ୍ପ",
+            "ବାଇସିପାଲି ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଅଲିଭ୍ ରିଡଲେ ସମୁଦ୍ର କାଛୁମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ସମୂହ ବସା ବାନ୍ଧିବା ସ୍ଥାନ (ଆରିବାଡା) ଭାବରେ ଜଣାଶୁଣା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470598608-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History & Architecture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following was the chief architect of the iconic Sun Temple at Konark, built under the patronage of King Narasimhadeva I?",
+      "options": [
+        "Bisu Maharana",
+        "Dharmapada",
+        "Kandarpa Maharana",
+        "Rama Maharana"
+      ],
+      "answer": 0,
+      "explanation": "Bisu Maharana was the chief architect (Mukhya Sthapati) appointed by Eastern Ganga King Narasimhadeva I to construct the world-famous Sun Temple at Konark.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରାଜା ପ୍ରଥମ ନରସିଂହଦେବଙ୍କ ପୃଷ୍ଠପୋଷକତାରେ ନିର୍ମିତ କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିରର ମୁଖ୍ୟ ସ୍ଥପତି ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ବିଷୁ ମହାରାଣା",
+            "ଧର୍ମପଦ",
+            "କନ୍ଦର୍ପ ମହାରାଣା",
+            "ରାମ ମହାରାଣା"
+          ],
+          "explanation": "ବିଷୁ ମହାରାଣା ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀରେ ଗଙ୍ଗବଂଶୀୟ ରାଜା ପ୍ରଥମ ନରସିଂହଦେବଙ୍କ ଦ୍ୱାରା କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର ନିର୍ମାଣ ପାଇଁ ନିଯୁକ୍ତ ମୁଖ୍ୟ ସ୍ଥପତି ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470610086-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography & Wildlife",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which bird sanctuary in Odisha is located on an island inside Chilika Lake and is famous for migratory birds?",
+      "options": [
+        "Nalabana Bird Sanctuary",
+        "Mangalajodi",
+        "Vetnai",
+        "Karlapat Sanctuary"
+      ],
+      "answer": 0,
+      "explanation": "Nalabana Bird Sanctuary was notified in 1987 under the Wildlife Protection Act and is located on Nalabana Island within Chilika Lake, serving as a major wintering ground for migratory birds.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ ଚିଲିକା ହ୍ରଦ ମଧ୍ୟରେ ଥିବା ଏକ ଦ୍ୱୀପରେ ଅବସ୍ଥିତ ଏବଂ ପରିବ୍ରାଜକ ପକ୍ଷୀମାନଙ୍କ ପାଇଁ ପ୍ରସିଦ୍ଧ?",
+          "options": [
+            "ନଳବଣ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+            "ମଙ୍ଗଳାଯୋଡ଼ି",
+            "ଭେଟନୋଇ",
+            "କାର୍ଲାପାଟ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "ନଳବଣ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ ୧୯୮୭ ମସିହାରେ ବନ୍ୟପ୍ରାଣୀ ସଂରକ୍ଷଣ ଆଇନ ଅଧୀନରେ ଘୋଷିତ ହୋଇଥିଲା। ଏହା ଚିଲିକା ହ୍ରଦର ନଳବଣ ଦ୍ୱୀପରେ ଅବସ୍ଥିତ ଏବଂ ପରିବ୍ରାଜକ ପକ୍ଷୀମାନଙ୍କ ପାଇଁ ଏକ ପ୍ରମୁଖ ଆଶ୍ରୟସ୍ଥଳ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785470610086-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following Bhauma-Kara rulers was the first female monarch to ascend the throne of the Bhauma-Kara kingdom?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Gauri Mahadevi",
+        "Dandi Mahadevi"
+      ],
+      "answer": 0,
+      "explanation": "Tribhuvana Mahadevi I (also known as Paramavaishnavi) was the first female ruler of the Bhauma-Kara dynasty, ascending the throne in the 9th century CE after the death of her son Subhakaradeva III.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୌମକର ବଂଶର ନିମ୍ନଲିଖିତ ଶାସକମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଭୌମକର ସାମ୍ରାଜ୍ୟର ସିଂହାସନ ଆରୋହଣ କରିଥିବା ପ୍ରଥମ ମହିଳା ଶାସକ ଥିଲେ?",
+          "options": [
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ",
+            "ପୃଥ୍ୱୀ ମହାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ",
+            "ଦଣ୍ଡୀ ମହାଦେବୀ"
+          ],
+          "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ (ପରମବୈଷ୍ଣବୀ ଭାବରେ ମଧ୍ୟ ପରିଚିତ) ନିଜ ପୁତ୍ର ଶୁଭାକରଦେବ ତୃତୀୟଙ୍କ ମୃତ୍ୟୁ ପରେ ନବମ ଶତାବ୍ଦୀରେ ସିଂହାସନ ଆରୋହଣ କରି ଓଡ଼ିଶାର ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ ହୋଇଥିଲେ।"
         }
       }
     }

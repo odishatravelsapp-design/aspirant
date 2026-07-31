@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -6592,6 +6592,62 @@
       ],
       "answer": 1,
       "explanation": "The 'Engage' phase is the first step of the 5E Model, designed to spark student interest, capture attention, and reveal existing prior conceptions."
+    },
+    {
+      "id": "pgt-ai-1785471613206-0",
+      "section": "Child Development",
+      "topic": "Gardner's Theory of Multiple Intelligences",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Howard Gardner's Theory of Multiple Intelligences, which type of intelligence involves the capacity to analyze problems logically, carry out mathematical operations, and investigate issues scientifically?",
+      "options": [
+        "Spatial Intelligence",
+        "Logical-Mathematical Intelligence",
+        "Bodily-Kinesthetic Intelligence",
+        "Interpersonal Intelligence"
+      ],
+      "answer": 1,
+      "explanation": "Logical-Mathematical intelligence in Howard Gardner's framework refers to the ability to analyze problems logically, perform mathematical operations, and investigate issues scientifically.",
+      "translations": {
+        "or": {
+          "question": "ହୋୱାର୍ଡ ଗାର୍ଡନରଙ୍କ ବହୁବିଧ ବୁଦ୍ଧିମତ୍ତା (Multiple Intelligences) ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, କେଉଁ ପ୍ରକାରର ବୁଦ୍ଧିମତ୍ତାରେ ସମସ୍ୟାଗୁଡ଼ିକର ଯୁକ୍ତିଯୁକ୍ତ ବିଶ୍ଲେଷଣ, ଗାଣିତିକ କାର୍ଯ୍ୟ ସମ୍ପାଦନ ଏବଂ ବୈଜ୍ଞାନିକ ଅନୁସନ୍ଧାନ କରିବାର କ୍ଷମତା ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "ସ୍ପାସିଆଲ୍ ବୁଦ୍ଧିମତ୍ତା (Spatial Intelligence)",
+            "ଲଜିକାଲ୍-ମ୍ୟାଥମେଟିକାଲ୍ ବୁଦ୍ଧିମତ୍ତା (Logical-Mathematical Intelligence)",
+            "ବଡିଲି-କିନେସ୍ଥେଟିକ୍ ବୁଦ୍ଧିମତ୍ତା (Bodily-Kinesthetic Intelligence)",
+            "ଇଣ୍ଟରପର୍ସନାଲ୍ ବୁଦ୍ଧିମତ୍ତା (Interpersonal Intelligence)"
+          ],
+          "explanation": "ହୋୱାର୍ଡ ଗାର୍ଡନରଙ୍କ ଅନୁଯାୟୀ, ଲଜିକାଲ୍-ମ୍ୟାଥମେଟିକାଲ୍ ବୁଦ୍ଧିମତ୍ତା ସମସ୍ୟାର ଯୁକ୍ତିଯୁକ୍ତ ବିଶ୍ଲେଷଣ, ଗାଣିତିକ ହିସାବ ଏବଂ ବୈଜ୍ଞାନିକ ଅନୁସନ୍ଧାନ କରିବାର ଦକ୍ଷତାକୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785471613206-1",
+      "section": "Child Development",
+      "topic": "Freud's Psychosexual Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Sigmund Freud's psychosexual theory of development, during which stage does the child experience the Oedipus or Electra complex, leading to identification with the same-sex parent?",
+      "options": [
+        "Oral Stage",
+        "Anal Stage",
+        "Phallic Stage",
+        "Latency Stage"
+      ],
+      "answer": 2,
+      "explanation": "The phallic stage (roughly ages 3 to 6 years) is characterized by the Oedipus complex in boys and Electra complex in girls, where children develop unconscious sexual desires for the opposite-sex parent and eventually resolve this conflict by identifying with the same-sex parent.",
+      "translations": {
+        "or": {
+          "question": "ସିଗମଣ୍ଡ ଫ୍ରଏଡଙ୍କ ମନୋଲିଙ୍ଗିକ (psychosexual) ବିକାଶ ସିଦ୍ଧାନ୍ତରେ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଶିଶୁ ଇଡିପସ୍ (Oedipus) କିମ୍ବା ଇଲେକ୍ଟ୍ରା (Electra) ଜଟିଳତାର ସମ୍ମୁଖୀନ ହୋଇ ସମାନ ଲିଙ୍ଗର ପିତାମାତାଙ୍କ ସହ ନିଜକୁ ଚିହ୍ନଟ କରେ?",
+          "options": [
+            "ମୌଖିକ ପର୍ଯ୍ୟାୟ (Oral Stage)",
+            "ପାୟୁ ପର୍ଯ୍ୟାୟ (Anal Stage)",
+            "ଫାଲିକ୍ ପର୍ଯ୍ୟାୟ (Phallic Stage)",
+            "ସୁପ୍ତ ପର୍ଯ୍ୟାୟ (Latency Stage)"
+          ],
+          "explanation": "ଫାଲିକ୍ ପର୍ଯ୍ୟାୟ (ପ୍ରାୟ ୩ ରୁ ୬ ବର୍ଷ) ରେ ବାଳକମାନଙ୍କଠାରେ ଇଡିପସ୍ କମ୍ପ୍ଲେକ୍ସ ଏବଂ ବାଳିକାମାନଙ୍କଠାରେ ଇଲେକ୍ଟ୍ରା କମ୍ପ୍ଲେକ୍ସ ଦେଖାଯାଏ, ଯାହା ଶେଷରେ ସମାନ ଲିଙ୍ଗର ପିତାମାତାଙ୍କ ସହ ଆତ୍ମସାତ୍ କିମ୍ବା ପରିଚୟ ସୃଷ୍ଟି କରି ସମାଧାନ ହୋଇଥାଏ।"
+        }
+      }
     }
   ]
 }

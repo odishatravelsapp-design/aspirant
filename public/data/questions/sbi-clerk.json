@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6047,6 +6047,136 @@
       ],
       "answer": 1,
       "explanation": "The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) aims to ensure fair sharing of benefits derived from genetic resources."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470366058-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of money invested at simple interest becomes double of itself in 8 years. In how many years will it become 4 times of itself at the same rate of interest per annum?",
+      "options": [
+        "16 years",
+        "20 years",
+        "24 years",
+        "32 years"
+      ],
+      "answer": 2,
+      "explanation": "Let the principal be P. Since the sum doubles in 8 years, the Simple Interest earned is equal to P in 8 years. Interest earned per year = P / 8. For the amount to become 4 times the principal (4P), the interest required is 4P - P = 3P. Time taken = Total Interest required / Interest per year = 3P / (P / 8) = 24 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470366058-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red balls, 4 green balls, and 3 blue balls. If 3 balls are drawn at random without replacement, what is the probability that all three balls are of different colors?",
+      "options": [
+        "3/11",
+        "4/11",
+        "5/22",
+        "9/44"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 5 + 4 + 3 = 12. Total ways to choose 3 balls out of 12 = 12C3 = (12 × 11 × 10) / (3 × 2 × 1) = 220. Favorable outcomes (selecting 1 red, 1 green, and 1 blue ball) = 5C1 × 4C1 × 3C1 = 5 × 4 × 3 = 60. Required Probability = 60 / 220 = 3/11."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470390823-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a row of 35 students facing North, A is 12th from the left end and B is 18th from the right end. How many students are sitting between A and B?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "Position of A from the left end = 12. Position of B from the right end = 18. Sum of their positions = 12 + 18 = 30. Since the sum (30) is less than the total number of students (35), there is no overlap. Number of students sitting between A and B = Total students - (Position of A from left + Position of B from right) = 35 - 30 = 5."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470390823-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons—P, Q, R, S, T, U, V, and W—are sitting around a circular table facing the center.\n• S sits third to the right of R.\n• Only two persons sit between R and T.\n• U sits to the immediate left of T.\n• P sits second to the right of U.\n• Q sits second to the left of V.\n• V is not an immediate neighbor of S.\n\nWho sits to the immediate right of W?",
+      "options": [
+        "S",
+        "V",
+        "P",
+        "Q"
+      ],
+      "answer": 0,
+      "explanation": "Placing the positions clockwise from 1 to 8:\n- Let R = 1. Since all face center, right is anti-clockwise and left is clockwise.\n- S is 3rd to the right of R -> S = 6.\n- Two persons sit between R(1) and T -> T = 4.\n- U sits immediate left of T(4) -> U = 5.\n- P sits 2nd to the right of U(5) -> P = 3.\n- Q sits 2nd to the left of V and V is not adjacent to S(6) -> V = 8, Q = 2.\n- The remaining position 7 is occupied by W.\n- Final arrangement clockwise: 1: R, 2: Q, 3: P, 4: T, 5: U, 6: S, 7: W, 8: V.\n- Immediate right of W(7) is position 6, where S is seated."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470401327-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that correctly replaces the bolded phrase in the given sentence to make it grammatically correct:\n\n'No sooner had the chief guest **stepped out of the car when** the crowd erupted in applause.'",
+      "options": [
+        "stepped out of the car than",
+        "stepped out of the car then",
+        "step out of the car when",
+        "stepped off the car than"
+      ],
+      "answer": 0,
+      "explanation": "The correlative conjunction 'No sooner' is always paired with 'than', not 'when' or 'then'. Therefore, 'stepped out of the car than' is the grammatically correct option."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470401327-1",
+      "section": "English",
+      "topic": "Antonyms",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following words is most nearly OPPOSITE in meaning to the word 'FASTIDIOUS'?",
+      "options": [
+        "Meticulous",
+        "Negligent",
+        "Discriminating",
+        "Punctilious"
+      ],
+      "answer": 1,
+      "explanation": "'Fastidious' means giving excessive attention to detail or being extremely careful/hard to please. 'Negligent' means failing to take proper care or being careless, making it the direct antonym. 'Meticulous' and 'Punctilious' are synonyms."
+    },
+    {
+      "id": "sbi-clerk-ai-1785470414180-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In banking terminology, what does the abbreviation 'LCR' stand for under the Basel III framework implemented by the Reserve Bank of India?",
+      "options": [
+        "Liquidity Coverage Ratio",
+        "Loan Credit Ratio",
+        "Liquid Capital Reserve",
+        "Leverage Coverage Ratio"
+      ],
+      "answer": 0,
+      "explanation": "Liquidity Coverage Ratio (LCR) is a Basel III requirement where banks are required to hold an amount of high-quality liquid assets (HQLA) that can cover total net cash outflows over a 30-day stress period.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785470414180-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines on Priority Sector Lending (PSL), what is the target percentage of Adjusted Net Bank Credit (ANBC) mandated for domestic Scheduled Commercial Banks (excluding RRBs and Small Finance Banks) towards total Priority Sector?",
+      "options": [
+        "30%",
+        "35%",
+        "40%",
+        "75%"
+      ],
+      "answer": 2,
+      "explanation": "For Domestic Scheduled Commercial Banks (excluding Regional Rural Banks and Small Finance Banks) and Foreign Banks with 20 branches and above, the overall PSL target is 40 percent of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
+      "status": "pending"
     }
   ]
 }

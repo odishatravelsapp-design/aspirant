@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -6463,6 +6463,136 @@
       ],
       "answer": 1,
       "explanation": "The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) aims to ensure fair sharing of benefits derived from genetic resources."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470300721-0",
+      "section": "Quant",
+      "topic": "Quadratic Equations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, two equations numbered I and II are given. You have to solve both the equations and establish the relationship between x and y:\nEquation I: x² - 7x + 12 = 0\nEquation II: y² - 9y + 20 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y"
+      ],
+      "answer": 3,
+      "explanation": "Solving Equation I: x² - 7x + 12 = 0 => (x - 3)(x - 4) = 0 => x = 3, 4.\nSolving Equation II: y² - 9y + 20 = 0 => (y - 4)(y - 5) = 0 => y = 4, 5.\nComparing x and y:\nWhen x = 3: x < 4 and x < 5 (x < y).\nWhen x = 4: x = 4 and x < 5 (x ≤ y).\nOverall, x ≤ y."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470300721-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The length and breadth of a rectangular field are in the ratio 5 : 3. If the perimeter of the field is 160 meters and a path of uniform width 2 meters is constructed all around the outside of the field, what is the area of the path?",
+      "options": [
+        "312 m²",
+        "336 m²",
+        "348 m²",
+        "360 m²"
+      ],
+      "answer": 1,
+      "explanation": "Let length l = 5x and breadth b = 3x.\nPerimeter = 2(l + b) = 2(5x + 3x) = 16x = 160 meters => x = 10.\nSo, Length = 50 m and Breadth = 30 m.\nArea of inner rectangular field = 50 × 30 = 1500 m².\nOuter length with path = 50 + 2(2) = 54 m.\nOuter breadth with path = 30 + 2(2) = 34 m.\nArea of outer rectangle = 54 × 34 = 1836 m².\nArea of path = Outer Area - Inner Area = 1836 - 1500 = 336 m²."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470313992-0",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Point M is 12m to the West of Point N. Point O is 5m to the North of Point N. Point P is 12m to the East of Point O. Point Q is 5m to the South of Point P. What is the distance between Point M and Point Q?",
+      "options": [
+        "12m",
+        "24m",
+        "17m",
+        "29m"
+      ],
+      "answer": 1,
+      "explanation": "Taking M as origin (0,0):\nPoint N is 12m East of M -> (12, 0).\nPoint O is 5m North of N -> (12, 5).\nPoint P is 12m East of O -> (24, 5).\nPoint Q is 5m South of P -> (24, 0).\nThe distance between M (0,0) and Q (24,0) is 24m."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470313992-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons K, L, M, N, O, P, Q, and R are sitting in a straight line facing North. M sits third to the right of K. Neither M nor K sits at an extreme end. Only two persons sit between M and R. O sits second to the left of R. P sits to the immediate left of N. Q sits at one of the positions to the right of O. Who sits at the extreme left end of the line?",
+      "options": [
+        "L",
+        "P",
+        "K",
+        "Q"
+      ],
+      "answer": 0,
+      "explanation": "Numbering positions from 1 to 8 (Left to Right):\n1. M sits third to the right of K, and neither sits at an extreme end. Possibilities for (K, M) are (2, 5), (3, 6), or (4, 7).\n2. Only two persons sit between M and R. Since K already occupies the spot 3 steps away from M, R must be on the other side. Position 8 is available only when M is at 5. Thus, K is at 2, M is at 5, and R is at 8.\n3. O sits second to the left of R, so O is at 6.\n4. P sits to the immediate left of N. The only consecutive vacant spots are 3 and 4, so P is at 3 and N is at 4.\n5. Q sits to the right of O, so Q is at 7.\n6. The remaining person L must sit at position 1 (the extreme left end).\nThe final order from left to right is: L, K, P, N, M, O, Q, R."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470323828-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the appropriate phrasal verb to complete the sentence: 'The board members decided to __________ the meeting until next Monday due to the unforeseen emergency.'",
+      "options": [
+        "put off",
+        "put out",
+        "put up",
+        "put away"
+      ],
+      "answer": 0,
+      "explanation": "'Put off' means to postpone or delay an event to a later time. 'Put out' means to extinguish, 'put up' means to lodge or erect, and 'put away' means to store something."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470323828-1",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the given connectors best joins the two independent statements below to express a logical contrast?\nStatement 1: 'The startup faced severe financial constraints during its initial months.'\nStatement 2: 'It successfully managed to deliver the project ahead of the deadline.'",
+      "options": [
+        "Nevertheless",
+        "Consequently",
+        "Furthermore",
+        "Therefore"
+      ],
+      "answer": 0,
+      "explanation": "'Nevertheless' is a conjunctive adverb used to introduce a statement that contrasts with what was previously mentioned. 'Consequently' and 'Therefore' show cause and effect, while 'Furthermore' adds reinforcing information."
+    },
+    {
+      "id": "ibps-clerk-ai-1785470341879-0",
+      "section": "General Awareness",
+      "topic": "Payment Systems",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the maximum per-transaction limit for a UPI Lite payment?",
+      "options": [
+        "₹200",
+        "₹500",
+        "₹1,000",
+        "₹2,000"
+      ],
+      "answer": 1,
+      "explanation": "In August 2023, the Reserve Bank of India increased the upper limit for a single UPI Lite transaction from ₹200 to ₹500, while retaining the overall wallet balance limit at ₹2,000.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785470341879-1",
+      "section": "General Awareness",
+      "topic": "Banking Institutions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The National Bank for Agriculture and Rural Development (NABARD) was established in July 1982 based on the recommendations of which committee?",
+      "options": [
+        "Narasimham Committee",
+        "B. Sivaraman Committee",
+        "Hilton Young Commission",
+        "A. M. Khusro Committee"
+      ],
+      "answer": 1,
+      "explanation": "NABARD was set up on July 12, 1982, on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), which was chaired by B. Sivaraman.",
+      "status": "pending"
     }
   ]
 }

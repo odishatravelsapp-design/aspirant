@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6005,6 +6005,136 @@
       ],
       "answer": 1,
       "explanation": "The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) aims to ensure fair sharing of benefits derived from genetic resources."
+    },
+    {
+      "id": "ibps-po-ai-1785470437629-0",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains 120 liters of a mixture of milk and water in the ratio 7 : 5. From this, 24 liters of the mixture is removed and replaced with 12 liters of pure milk and 12 liters of water. If 24 liters of the new mixture is then drawn out, what is the final quantity of water remaining in the vessel?",
+      "options": [
+        "41.6 liters",
+        "43.2 liters",
+        "38.4 liters",
+        "45.0 liters"
+      ],
+      "answer": 0,
+      "explanation": "Initial quantities: Milk = (7/12) * 120 = 70 liters, Water = (5/12) * 120 = 50 liters.\nWhen 24 liters of mixture is drawn out:\nMilk removed = (7/12) * 24 = 14 liters;\nWater removed = (5/12) * 24 = 10 liters.\nRemaining Milk = 70 - 14 = 56 liters;\nRemaining Water = 50 - 10 = 40 liters.\n\nAfter adding 12 liters of milk and 12 liters of water:\nNew Milk = 56 + 12 = 68 liters;\nNew Water = 40 + 12 = 52 liters;\nTotal volume = 120 liters.\nRatio of Milk to Water in the new mixture = 68 : 52 = 17 : 13.\n\nWhen 24 liters of this new mixture is drawn out:\nWater removed = (13/30) * 24 = 10.4 liters.\nFinal Water remaining = 52 - 10.4 = 41.6 liters."
+    },
+    {
+      "id": "ibps-po-ai-1785470437629-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A total sum of Rs. 37,000 is divided into two parts and invested in two schemes, X and Y. Scheme X offers Simple Interest at 10% p.a. for 3 years, while Scheme Y offers Compound Interest (compounded annually) at 20% p.a. for 2 years. If the total interest earned from Scheme X is equal to the total interest earned from Scheme Y, what is the sum invested in Scheme Y?",
+      "options": [
+        "Rs. 15,000",
+        "Rs. 22,000",
+        "Rs. 18,000",
+        "Rs. 12,000"
+      ],
+      "answer": 0,
+      "explanation": "Let the amounts invested in Scheme X and Scheme Y be Rs. P1 and Rs. P2 respectively.\nTotal sum: P1 + P2 = 37,000.\n\nInterest from Scheme X (SI) = (P1 * 10 * 3) / 100 = 0.30 * P1.\nInterest rate for Scheme Y (CI) in 2 years at 20% p.a.:\nEffective CI rate = 20 + 20 + (20 * 20 / 100) = 44% = 0.44.\nInterest from Scheme Y = 0.44 * P2.\n\nGiven that the interests are equal:\n0.30 * P1 = 0.44 * P2\n15 * P1 = 22 * P2\nP1 / P2 = 22 / 15.\n\nRatio of P1 : P2 = 22 : 15.\nTotal ratio parts = 22 + 15 = 37 parts.\nSince 37 parts = Rs. 37,000, 1 part = Rs. 1,000.\nInvestment in Scheme Y (P2) = 15 parts = Rs. 15,000."
+    },
+    {
+      "id": "ibps-po-ai-1785470448414-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions numbered I and II. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\nOnly a few Pens are Pencils.\nAll Pencils are Erasers.\nNo Eraser is a Sharpener.\n\nConclusions:\nI. All Pens can never be Erasers.\nII. Some Pens are not Sharpeners.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1) 'Only a few Pens are Pencils' implies Some Pens are Pencils and Some Pens are not Pencils. Since all Pencils are Erasers, it is possible for all Pens to be Erasers (all Pens inside Erasers while Pencils remain a subset of Erasers and a part of Pens). Thus, Conclusion I ('All Pens can never be Erasers') does not follow.\n2) Pens that are Pencils are also Erasers. Since No Eraser is a Sharpener, those Pens can never be Sharpeners. Thus, 'Some Pens are not Sharpeners' definitely follows."
+    },
+    {
+      "id": "ibps-po-ai-1785470448414-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following statement and select the option that most strongly supports the decision taken.\n\nStatement: The City Traffic Authority recently introduced a heavy congestion fee for all private four-wheeler vehicles entering the Central Business District (CBD) during peak hours.\n\nWhich of the following statements, if true, provides the strongest support for the Authority's decision?",
+      "options": [
+        "The public bus service connecting to the CBD is currently at full capacity and cannot handle more passengers.",
+        "A similar congestion fee implemented in a comparable city resulted in a 30% reduction in traffic volume and improved air quality.",
+        "Many private car owners have expressed dissatisfaction regarding the financial burden of the fee.",
+        "Nearby suburban business hubs reported a minor increase in footfall following the announcement."
+      ],
+      "answer": 1,
+      "explanation": "Option B provides concrete, relevant empirical evidence showing that such a fee successfully achieves the desired goals (traffic reduction and environmental benefits) in a comparable context, thereby strongly supporting the policy. Option A undermines the move (no alternative transit available), Option C shows opposition rather than support, and Option D is irrelevant to solving CBD traffic."
+    },
+    {
+      "id": "ibps-po-ai-1785470486702-0",
+      "section": "English",
+      "topic": "Vocabulary in Context",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence provided below, choose the word that is closest in meaning to the highlighted word 'specious':\n\n'The board members were dismayed by the specious arguments presented by the consultant, which appeared plausible at first glance but were fundamentally flawed upon closer inspection.'",
+      "options": [
+        "Fallacious",
+        "Genuine",
+        "Meticulous",
+        "Irrefutable"
+      ],
+      "answer": 0,
+      "explanation": "'Specious' means superficially plausible, but actually wrong or misleading. 'Fallacious' means based on a mistaken belief or unsound argument, making it the closest synonym in this context."
+    },
+    {
+      "id": "ibps-po-ai-1785470486702-1",
+      "section": "English",
+      "topic": "Para Jumbles",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Rearrange the following four sentences (A, B, C, D) to construct a coherent paragraph and select the correct order:\n\n(A) This shift is primarily driven by advancements in artificial intelligence and machine learning algorithms.\n(B) As a result, traditional data analysis methodologies are rapidly becoming obsolete in modern financial institutions.\n(C) Risk assessment models now rely heavily on real-time data processing to predict market volatility accurately.\n(D) Consequently, financial analysts must upskill continuously to keep pace with these automated analytical systems.",
+      "options": [
+        "C-A-B-D",
+        "A-C-B-D",
+        "C-B-A-D",
+        "C-A-D-B"
+      ],
+      "answer": 0,
+      "explanation": "Sentence C introduces the main topic (risk assessment models relying on real-time data). Sentence A logically follows by explaining what drives 'this shift' (advancements in AI). Sentence B discusses the result of this shift (traditional methods becoming obsolete). Sentence D provides the final concluding consequence for financial analysts."
+    },
+    {
+      "id": "ibps-po-ai-1785470504093-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which regulatory authority in India is responsible for regulating and supervising Non-Banking Financial Company-Microfinance Institutions (NBFC-MFIs)?",
+      "options": [
+        "Reserve Bank of India (RBI)",
+        "Securities and Exchange Board of India (SEBI)",
+        "National Bank for Agriculture and Rural Development (NABARD)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)"
+      ],
+      "answer": 0,
+      "explanation": "The Reserve Bank of India (RBI) is the sole regulatory and supervisory authority for Non-Banking Financial Company-Microfinance Institutions (NBFC-MFIs) in India.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785470504093-1",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) Amendment Act, 2021, within how many days from the date an RBI moratorium is imposed on a bank must the DICGC pay the insured deposit amount (up to ₹5 lakh) to eligible depositors?",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "answer": 2,
+      "explanation": "The DICGC (Amendment) Act, 2021 mandates that DICGC must provide access to insured deposits up to ₹5 lakh within 90 days of an RBI-imposed moratorium on a distressed bank (45 days to collect/verify details and 45 days for DICGC to process payouts).",
+      "status": "pending"
     }
   ]
 }

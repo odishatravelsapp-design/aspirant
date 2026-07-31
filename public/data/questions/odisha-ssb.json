@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -9358,6 +9358,120 @@
       ],
       "answer": 1,
       "explanation": "The 'Engage' phase is the first step of the 5E Model, designed to spark student interest, capture attention, and reveal existing prior conceptions."
+    },
+    {
+      "id": "odisha-ssb-ai-1785470642140-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In T. S. Eliot's essay 'Tradition and the Individual Talent' (1919), which chemical element is used as an analogy for the mind of the poet acting as a catalyst in poetic creation?",
+      "options": [
+        "Gold",
+        "Platinum",
+        "Silver",
+        "Copper"
+      ],
+      "answer": 1,
+      "explanation": "T. S. Eliot uses the analogy of a filament of platinum acting as a catalyst in the combination of oxygen and sulfur dioxide to illustrate how the mind of the poet acts as an agent that remains unaffected and unchanged while creating poetry.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଟି. ଏସ. ଏଲିଅଟଙ୍କ ୧୯୧୯ ର ପ୍ରବନ୍ଧ 'ଟ୍ରାଡିସନ ଆଣ୍ଡ ଦି ଇଣ୍ଡିଭିଜୁଆଲ ଟ୍ୟାଲେଣ୍ଟ' (Tradition and the Individual Talent) ରେ କବିଙ୍କ ମନକୁ କାବ୍ୟିକ ସୃଷ୍ଟିରେ ଉତ୍ପ୍ରେରକ (catalyst) ଭାବରେ ଦର୍ଶାଇବା ପାଇଁ କେଉଁ ରାସାୟନିକ ମୌଳିକର ଉଦାହରଣ ଦିଆଯାଇଛି?",
+          "options": [
+            "ସୁନା (Gold)",
+            "ପ୍ଲାଟିନମ (Platinum)",
+            "ରୂପା (Silver)",
+            "ତମ୍ବା (Copper)"
+          ],
+          "explanation": "ଟି. ଏସ. ଏଲିଅଟ୍ କବିଙ୍କ ମନକୁ ପ୍ଲାଟିନମର ଏକ ତାର ସହିତ ତୁଳନା କରିଛନ୍ତି, ଯାହା ଅକ୍ସିଜେନ ଏବଂ ସଲଫର ଡାଇଅକ୍ସାଇଡ୍‌ର ମିଶ୍ରଣରେ ନିଜେ ଅପରିବର୍ତ୍ତିତ ରହି ଏକ ଉତ୍ପ୍ରେରକ (catalyst) ଭାବରେ କାର୍ଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785470642140-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian Aesthetics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Bharata Muni's 'Natyasastra', how many primary Rasas (aesthetic emotions) are enumerated in the original text before later commentators introduced 'Shanta Rasa'?",
+      "options": [
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine"
+      ],
+      "answer": 2,
+      "explanation": "The foundational text of Bharata Muni's 'Natyasastra' enumerates eight primary Rasas (Sringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, and Adbhuta). The ninth Rasa, 'Shanta Rasa' (tranquility), was formulated and integrated by later commentators, most prominently Abhinavagupta.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭରତ ମୁନିଙ୍କ 'ନାଟ୍ୟଶାସ୍ତ୍ର' ର ମୂଳ ଗ୍ରନ୍ଥରେ, ପରବର୍ତ୍ତୀ ଆଲୋଚକମାନଙ୍କ ଦ୍ୱାରା 'ଶାନ୍ତ ରସ' ଯୋଡ଼ାଯିବା ପୂର୍ବରୁ, କେତୋଟି ପ୍ରାଥମିକ 'ରସ' ର ବର୍ଣ୍ଣନା କରାଯାଇଛି?",
+          "options": [
+            "ଛଅ (Six)",
+            "ସାତ (Seven)",
+            "ଆଠ (Eight)",
+            "ନଅ (Nine)"
+          ],
+          "explanation": "ଭରତ ମୁନିଙ୍କ ମୂଳ 'ନାଟ୍ୟଶାସ୍ତ୍ର'ରେ ଆଠଟି ପ୍ରାଥମିକ ରସ (ଶ୍ରୃଙ୍ଗାର, ହାସ୍ୟ, କରୁଣ, ରୌଦ୍ର, ବୀର, ଭୟାନକ, ବିଭତ୍ସ, ଏବଂ ଅଦ୍ଭୁତ) ବର୍ଣ୍ଣନା କରାଯାଇଛି। ନବମ ରସ 'ଶାନ୍ତ ରସ' ପରବର୍ତ୍ତୀ ସମୟରେ ମୁଖ୍ୟତଃ ଅଭିନବଗୁପ୍ତଙ୍କ ଦ୍ୱାରା ସଂଯୋଜିତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785470667916-0",
+      "section": "Teaching Aptitude",
+      "topic": "Micro-teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Dwight Allen's Micro-teaching model, what is the correct chronological sequence of steps followed during a complete micro-teaching cycle?",
+      "options": [
+        "Plan -> Teach -> Feedback -> Re-plan -> Re-teach -> Re-feedback",
+        "Teach -> Feedback -> Plan -> Re-teach -> Re-plan -> Re-feedback",
+        "Plan -> Feedback -> Teach -> Re-plan -> Re-teach -> Re-feedback",
+        "Teach -> Plan -> Feedback -> Re-teach -> Re-plan -> Re-feedback"
+      ],
+      "answer": 0,
+      "explanation": "The standard micro-teaching cycle introduced by Dwight Allen and further adapted by NCERT follows the sequential steps: Planning, Teaching (6 min), Feedback (6 min), Re-planning (12 min), Re-teaching (6 min), and Re-feedback (6 min).",
+      "translations": {
+        "or": {
+          "question": "ଡ୍ୱାଇଟ୍ ଆଲେନ୍‌ଙ୍କ ମାଇକ୍ରୋ-ଟିଚିଂ (Micro-teaching) ମଡେଲରେ, ଏକ ସମ୍ପୂର୍ଣ୍ଣ ମାଇକ୍ରୋ-ଟିଚିଂ ଚକ୍ର ସମୟରେ ଅନୁସୃତ ପଦକ୍ଷେପଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମାନୁସାରୀ ପର୍ଯ୍ୟାୟ କେଉଁଟି?",
+          "options": [
+            "ଯୋଜନା (Plan) -> ଶିକ୍ଷାଦାନ (Teach) -> ଫିଡବ୍ୟାକ୍ (Feedback) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach) -> ପୁନଃ-ଫିଡବ୍ୟାକ୍ (Re-feedback)",
+            "ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଯୋଜନା -> ଫିଡବ୍ୟାକ୍ -> ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଶିକ୍ଷାଦାନ -> ଯୋଜନା -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଫିଡବ୍ୟାକ୍"
+          ],
+          "explanation": "ଡ୍ୱାଇଟ୍ ଆଲେନ୍‌ଙ୍କ ଦ୍ୱାରା ପ୍ରବର୍ତ୍ତିତ ଏବଂ NCERT ଦ୍ୱାରା ଗ୍ରହଣ କରାଯାଇଥିବା ମାନକ ମାଇକ୍ରୋ-ଟିଚିଂ ଚକ୍ରର ସଠିକ୍ କ୍ରମ ହେଉଛି: ଯୋଜନା -> ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍) -> ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍) -> ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍) -> ପୁନଃ-ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍) ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785470667916-1",
+      "section": "Teaching Aptitude",
+      "topic": "Taxonomy of Educational Objectives",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to David Krathwohl's taxonomy of the Affective Domain (1964), which of the following options represents the correct hierarchical order from the lowest to the highest level of complexity?",
+      "options": [
+        "Receiving -> Responding -> Valuing -> Organization -> Characterization",
+        "Responding -> Receiving -> Valuing -> Characterization -> Organization",
+        "Receiving -> Valuing -> Responding -> Organization -> Characterization",
+        "Valuing -> Receiving -> Responding -> Characterization -> Organization"
+      ],
+      "answer": 0,
+      "explanation": "Krathwohl's Affective Domain taxonomy categorizes emotional and attitudinal learning into five hierarchical levels of increasing internalization: 1. Receiving, 2. Responding, 3. Valuing, 4. Organization, and 5. Characterization by value or value complex.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କ୍ରାଥୱୋଲଙ୍କ ଆବେଗାତ୍ମକ କ୍ଷେତ୍ର (Affective Domain) ର ବର୍ଗୀକରଣ (୧୯୬୪) ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ସର୍ବନିମ୍ନରୁ ସର୍ବୋଚ୍ଚ ଜଟିଳତା ସ୍ତର ପର୍ଯ୍ୟନ୍ତ ସଠିକ୍ କ୍ରମାନୁସାରୀ ସ୍ତରକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ଗ୍ରହଣ କରିବା (Receiving) -> ପ୍ରତିକ୍ରିୟା ଦେବା (Responding) -> ମୂଲ୍ୟାଙ୍କନ (Valuing) -> ସଂଗଠନ (Organization) -> ଚରିତ୍ରଗଠନ (Characterization)",
+            "ପ୍ରତିକ୍ରିୟା ଦେବା -> ଗ୍ରହଣ କରିବା -> ମୂଲ୍ୟାଙ୍କନ -> ଚରିତ୍ରଗଠନ -> ସଂଗଠନ",
+            "ଗ୍ରହଣ କରିବା -> ମୂଲ୍ୟାଙ୍କନ -> ପ୍ରତିକ୍ରିୟା ଦେବା -> ସଂଗଠନ -> ଚରିତ୍ରଗଠନ",
+            "ମୂଲ୍ୟାଙ୍କନ -> ଗ୍ରହଣ କରିବା -> ପ୍ରତିକ୍ରିୟା ଦେବା -> ଚରିତ୍ରଗଠନ -> ସଂଗଠନ"
+          ],
+          "explanation": "କ୍ରାଥୱୋଲଙ୍କ ଆବେଗାତ୍ମକ କ୍ଷେତ୍ରର ବର୍ଗୀକରଣ ଅନୁଯାୟୀ ପାଞ୍ଚଟି କ୍ରମୋଚ୍ଚ ସ୍ତର ହେଉଛି: ୧. ଗ୍ରହଣ କରିବା (Receiving), ୨. ପ୍ରତିକ୍ରିୟା ଦେବା (Responding), ୩. ମୂଲ୍ୟାଙ୍କନ/ମୂଲ୍ୟ ଆରୋପଣ (Valuing), ୪. ସଂଗଠନ (Organization), ଏବଂ ୫. ମୂଲ୍ୟ ପ୍ରଣାଳୀ ଦ୍ୱାରା ଚରିତ୍ରଗଠନ (Characterization)।"
+        }
+      }
     }
   ]
 }
