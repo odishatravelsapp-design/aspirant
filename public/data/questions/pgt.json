@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -6646,6 +6646,232 @@
             "ସୁପ୍ତ ପର୍ଯ୍ୟାୟ (Latency Stage)"
           ],
           "explanation": "ଫାଲିକ୍ ପର୍ଯ୍ୟାୟ (ପ୍ରାୟ ୩ ରୁ ୬ ବର୍ଷ) ରେ ବାଳକମାନଙ୍କଠାରେ ଇଡିପସ୍ କମ୍ପ୍ଲେକ୍ସ ଏବଂ ବାଳିକାମାନଙ୍କଠାରେ ଇଲେକ୍ଟ୍ରା କମ୍ପ୍ଲେକ୍ସ ଦେଖାଯାଏ, ଯାହା ଶେଷରେ ସମାନ ଲିଙ୍ଗର ପିତାମାତାଙ୍କ ସହ ଆତ୍ମସାତ୍ କିମ୍ବା ପରିଚୟ ସୃଷ୍ଟି କରି ସମାଧାନ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557053918-0",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The Heuristic Method of teaching, which emphasizes learning through self-discovery and problem-solving, was originally proposed by which educational scholar?",
+      "options": [
+        "H.E. Armstrong",
+        "John Dewey",
+        "Friedrich Froebel",
+        "Maria Montessori"
+      ],
+      "answer": 0,
+      "explanation": "The Heuristic Method of teaching was advocated by Henry Edward Armstrong (H.E. Armstrong). Under this student-centered method, pupils are placed in the role of independent discoverers and investigators to acquire knowledge through their own efforts.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଦାନର 'ହିଉରିଷ୍ଟିକ୍ ପଦ୍ଧତି' (Heuristic Method), ଯାହା ଆତ୍ମ-ଆବିଷ୍କାର ଏବଂ ସମସ୍ୟା ସମାଧାନ ମାଧ୍ୟମରେ ଶିକ୍ଷଣ ଉପରେ ଗୁରୁତ୍ୱ ଦିଏ, ତାହା ମୂଳତଃ କେଉଁ ଶିକ୍ଷାବିତ୍‌ଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତାବିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଏଚ୍. ଇ. ଆର୍ମଷ୍ଟ୍ରଙ୍ଗ",
+            "ଜନ୍ ଡିୱି",
+            "ଫ୍ରେଡ୍ରିକ୍ ଫ୍ରୋବେଲ",
+            "ମାରିଆ ମୋଣ୍ଟେସୋରୀ"
+          ],
+          "explanation": "ଶିକ୍ଷାଦାନର ହିଉରିଷ୍ଟିକ୍ ପଦ୍ଧତି ହେନରୀ ଏଡୱାର୍ଡ ଆର୍ମଷ୍ଟ୍ରଙ୍ଗ (H.E. Armstrong) ଙ୍କ ଦ୍ୱାରା ପ୍ରବର୍ତ୍ତିତ ହୋଇଥିଲା। ଏହି ଶିକ୍ଷାର୍ଥୀ-କେନ୍ଦ୍ରିକ ପଦ୍ଧତିରେ, ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ନିଜ ଉଦ୍ୟମରେ ଜ୍ଞାନ ଆହରଣ କରିବା ପାଇଁ ସ୍ୱାଧୀନ ଆବିଷ୍କାରକ ଭାବରେ କାର୍ଯ୍ୟ କରିବାର ସୁଯୋଗ ଦିଆଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557053918-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Robert Sternberg's Triarchic Theory of Intelligence, which specific mental process under the Componential Subtheory is responsible for executive planning, monitoring, and evaluating problem-solving activities?",
+      "options": [
+        "Performance components",
+        "Knowledge-acquisition components",
+        "Metacomponents",
+        "Selective encoding components"
+      ],
+      "answer": 2,
+      "explanation": "In Sternberg's Triarchic Theory, Componential (Analytical) Intelligence involves three information-processing components: Metacomponents (executive processes that direct mental planning, monitoring, and decision-making), Performance components (non-executive processes that carry out instructions), and Knowledge-acquisition components (processes used in learning new information).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଷ୍ଟର୍ନବର୍ଗଙ୍କ ବୁଦ୍ଧିମତ୍ତାର ତ୍ରିପାକ୍ଷିକ ତତ୍ତ୍ୱ (Triarchic Theory of Intelligence) ରେ, କମ୍ପୋନେଣ୍ଟିଆଲ୍ ସବ୍-ଥେଓରୀ ଅଧୀନରେ କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ମାନସିକ ପ୍ରକ୍ରିୟା ନିର୍ବାହୀ ଯୋଜନା, ନିରୀକ୍ଷଣ ଏବଂ ସମସ୍ୟା ସମାଧାନ କାର୍ଯ୍ୟର ମୂଲ୍ୟାଙ୍କନ ପାଇଁ ଉତ୍ତରଦାୟୀ?",
+          "options": [
+            "ପରଫରମାନ୍ସ କମ୍ପୋନେଣ୍ଟସ (Performance components)",
+            "ନଲେଜ୍-ଆକ୍ୱିଜିସନ୍ କମ୍ପୋନେଣ୍ଟସ (Knowledge-acquisition components)",
+            "ମେଟାକମ୍ପୋନେଣ୍ଟସ (Metacomponents)",
+            "ସିଲେକ୍ଟିଭ୍ ଏନକୋଡିଂ କମ୍ପୋନେଣ୍ଟସ (Selective encoding components)"
+          ],
+          "explanation": "ଷ୍ଟର୍ନବର୍ଗଙ୍କ ତ୍ରିପାକ୍ଷିକ ତତ୍ତ୍ୱରେ, କମ୍ପୋନେଣ୍ଟିଆଲ୍ (ବିଶ୍ଳେଷଣାତ୍ମକ) ସବ୍-ଥେଓରୀ ତିନୋଟି ସୂଚନା-ପ୍ରସେସିଂ ଉପାଦାନକୁ ନେଇ ଗଠିତ: ମେଟାକମ୍ପୋନେଣ୍ଟସ (ଯୋଜନା ଓ ନିଷ୍ପତ୍ତି ନେବା ପରି ନିର୍ବାହୀ ପ୍ରକ୍ରିୟା), ପରଫରମାନ୍ସ ଉପାଦାନ (ଯୋଜନାକୁ କାର୍ଯ୍ୟକାରୀ କରୁଥିବା ପ୍ରକ୍ରିୟା), ଏବଂ ନଲେଜ୍-ଆକ୍ୱିଜିସନ୍ ଉପାଦାନ (ନୂତନ ଜ୍ଞାନ ଆହରଣ ପାଇଁ ବ୍ୟବହୃତ ପ୍ରକ୍ରିୟା)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557291484-0",
+      "section": "Subject Knowledge",
+      "topic": "Coordination Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following neutral ligands acts as a pi-acid (pi-acceptor) ligand?",
+      "options": [
+        "Ammonia (NH3)",
+        "Water (H2O)",
+        "Carbon monoxide (CO)",
+        "Ethylenediamine (en)"
+      ],
+      "answer": 2,
+      "explanation": "Carbon monoxide (CO) is a classic pi-acid (pi-acceptor) ligand because it possesses low-energy, empty pi* antibonding molecular orbitals that accept electron density back-donated from filled metal d-orbitals.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନିରପେକ୍ଷ ଲିଗାଣ୍ଡଟି ଏକ pi-ଅମ୍ଳ (pi-ଗ୍ରହୀତା) ଲିଗାଣ୍ଡ ଭାବରେ କାର୍ଯ୍ୟ କରେ?",
+          "options": [
+            "ଆମୋନିଆ (NH3)",
+            "ଜଳ (H2O)",
+            "କାର୍ବନ୍ ମୋନୋକ୍ସାଇଡ୍ (CO)",
+            "ଇଥିଲିନ୍‌ଡାଇଆମାଇନ୍ (en)"
+          ],
+          "explanation": "କାର୍ବନ୍ ମୋନୋକ୍ସାଇଡ୍ (CO) ହେଉଛି ଏକ ଶକ୍ତିଶାଳୀ pi-ଗ୍ରହୀତା (pi-ଅମ୍ଳ) ଲିଗାଣ୍ଡ, କାରଣ ଏହାର ଖାଲି pi* ଆଣ୍ଟିବଣ୍ଡିଂ ଅରବିଟାଲ୍ ଧାତୁ d-ଅରବିଟାଲରୁ ଇଲେକ୍ଟ୍ରନ୍ ଗ୍ରହଣ କରିପାରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557291484-1",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the Michaelis-Menten mechanism for enzyme catalysis, E + S <==> ES -> P + E (with rate constants k1 for forward ES formation, k-1 for reverse, and k2 for product formation), what is the correct expression for the Michaelis constant (Km) under the steady-state approximation?",
+      "options": [
+        "Km = (k-1 + k2) / k1",
+        "Km = k1 / (k-1 + k2)",
+        "Km = (k1 * k2) / k-1",
+        "Km = k-1 / (k1 + k2)"
+      ],
+      "answer": 0,
+      "explanation": "Applying the steady-state approximation to the intermediate enzyme-substrate complex [ES], d[ES]/dt = k1[E][S] - (k-1 + k2)[ES] = 0. Solving for [E][S]/[ES] defines the Michaelis constant Km = (k-1 + k2) / k1.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏଞ୍ଜାଇମ୍ ଉତ୍ପ୍ରେରଣ ପାଇଁ ମାଇକେଲିସ୍-ମେଣ୍ଟେନ୍ କ୍ରିୟାବିଧି E + S <==> ES -> P + E (ଯେଉଁଠାରେ ସମ୍ମୁଖ ES ଗଠନ ପାଇଁ ହାର ସ୍ଥିରାଙ୍କ k1, ପଶ୍ଚାତ୍ ପାଇଁ k-1, ଏବଂ ଉତ୍ପାଦ ଗଠନ ପାଇଁ k2) ରେ, ସ୍ଥିର-ଅବସ୍ଥା ଆନୁମାନିକ ଅଧୀନରେ ମାଇକେଲିସ୍ ସ୍ଥିରାଙ୍କ (Km) ର ସୂତ୍ର କ’ଣ?",
+          "options": [
+            "Km = (k-1 + k2) / k1",
+            "Km = k1 / (k-1 + k2)",
+            "Km = (k1 * k2) / k-1",
+            "Km = k-1 / (k1 + k2)"
+          ],
+          "explanation": "ମଧ୍ୟବର୍ତ୍ତୀ ଏଞ୍ଜାଇମ୍-ସବଷ୍ଟ୍ରେଟ୍ କମ୍ପ୍ଲେକ୍ସ [ES] ଉପରେ ସ୍ଥିର-ଅବସ୍ଥା ଆନୁମାନିକ ପ୍ରୟୋଗ କଲେ, d[ES]/dt = k1[E][S] - (k-1 + k2)[ES] = 0 ମିଳେ। ଏଥିରୁ [E][S]/[ES] ନିର୍ଣ୍ଣୟ କଲେ ମାଇକେଲିସ୍ ସ୍ଥିରାଙ୍କ Km = (k-1 + k2) / k1 ପ୍ରାପ୍ତ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557359584-0",
+      "section": "Child Development",
+      "topic": "Identity Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to James Marcia's theory of adolescent identity statuses, which status is characterized by high commitment to an identity without having experienced prior exploration or identity crisis?",
+      "options": [
+        "Identity Diffusion",
+        "Identity Foreclosure",
+        "Identity Moratorium",
+        "Identity Achievement"
+      ],
+      "answer": 1,
+      "explanation": "Identity Foreclosure occurs when an adolescent commits to an identity, role, or goal (often chosen by parents or societal figures) without having personally engaged in exploration or experienced an identity crisis.",
+      "translations": {
+        "or": {
+          "question": "ଜେମ୍ସ ମାର୍ସିଆଙ୍କ କିଶୋର ପରିଚୟ ସ୍ଥିତି (Identity Status) ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ପୂର୍ବ ଅନୁସନ୍ଧାନ କିମ୍ବା ସଙ୍କଟର ସମ୍ମୁଖୀନ ନ ହୋଇ ଗୃହୀତ କୌଣସି ପରିଚୟ ପ୍ରତି ଉଚ୍ଚ ପ୍ରତିବଦ୍ଧତା (commitment) ଦର୍ଶାଉଥିବା ସ୍ଥିତିକୁ କ'ଣ କୁହାଯାଏ?",
+          "options": [
+            "ପରିଚୟ ପ୍ରସାରଣ (Identity Diffusion)",
+            "ପରିଚୟ ପୂର୍ବବନ୍ଧ (Identity Foreclosure)",
+            "ପରିଚୟ ସ୍ଥଗିତାବସ୍ଥା (Identity Moratorium)",
+            "ପରିଚୟ ପ୍ରାପ୍ତି (Identity Achievement)"
+          ],
+          "explanation": "ମାର୍ସିଆଙ୍କ ଅନୁଯାୟୀ, 'ଆଇଡେଣ୍ଟିଟି ଫୋରକ୍ଲୋଜର' (Identity Foreclosure) ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ଜଣେ କିଶୋର କୌଣସି ବିକଳ୍ପର ଅନୁସନ୍ଧାନ କିମ୍ବା ସଙ୍କଟ ଦେଇ ନ ଯାଇ, ମୁଖ୍ୟତଃ ପିତାମାତା କିମ୍ବା ସମାଜର ପ୍ରଭାବରେ ଏକ ପରିଚୟ କିମ୍ବା ଲକ୍ଷ୍ୟ ପ୍ରତି ପ୍ରତିବଦ୍ଧ ହୋଇଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557359584-1",
+      "section": "Child Development",
+      "topic": "Social Cognition / Perspective-Taking",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robert Selman's developmental model of social perspective-taking, at which stage does an individual first acquire the ability to step outside a two-person interaction and view the relationship from the objective perspective of a neutral third party?",
+      "options": [
+        "Stage 1: Social-informational perspective-taking",
+        "Stage 2: Self-reflective perspective-taking",
+        "Stage 3: Mutual / Third-person perspective-taking",
+        "Stage 4: Societal / In-depth perspective-taking"
+      ],
+      "answer": 2,
+      "explanation": "In Selman's Stage 3 (Mutual / Third-person perspective-taking, typically around ages 10–12), children can step outside a two-person interaction and view themselves and the interaction from the perspective of a neutral, objective third person.",
+      "translations": {
+        "or": {
+          "question": "ରୋବର୍ଟ ସେଲମ୍ୟାନ୍‌ଙ୍କ ସାମାଜିକ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (Social Perspective-Taking) ମୋଡେଲ ଅନୁଯାୟୀ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଜଣେ ବ୍ୟକ୍ତି ଦୁଇ-ଜଣିଆ ପାରସ୍ପରିକ କ୍ରିୟାରୁ ବାହାରି ଏକ ନିରପେକ୍ଷ ତୃତୀୟ ପକ୍ଷର ବସ୍ତୁନିଷ୍ଠ ଦୃଷ୍ଟିକୋଣରୁ ସମ୍ପର୍କକୁ ଦେଖିବାର ଦକ୍ଷତା ହାସଲ କରେ?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୧: ସାମାଜିକ-ସୂଚନାତ୍ମକ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (Social-informational perspective-taking)",
+            "ପର୍ଯ୍ୟାୟ ୨: ଆତ୍ମ-ପ୍ରତିଫଳିତ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (Self-reflective perspective-taking)",
+            "ପର୍ଯ୍ୟାୟ ୩: ପାରସ୍ପରିକ / ତୃତୀୟ-ପକ୍ଷ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (Mutual / Third-person perspective-taking)",
+            "ପର୍ଯ୍ୟାୟ ୪: ସାମାଜିକ / ଗଭୀର ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ (Societal / In-depth perspective-taking)"
+          ],
+          "explanation": "ସେଲମ୍ୟାନ୍‌ଙ୍କ ପର୍ଯ୍ୟାୟ ୩ (ପାରସ୍ପରିକ / ତୃତୀୟ-ପକ୍ଷ ଦୃଷ୍ଟିକୋଣ-ଗ୍ରହଣ, ବୟସ ୧୦-୧୨ ବର୍ଷ) ରେ, ଶିଶୁମାନେ ଦୁଇଜଣଙ୍କ ଆଲୋଚନା ବା କ୍ରିୟାକଳାପକୁ ଏକ ନିରପେକ୍ଷ ତୃତୀୟ-ପକ୍ଷ ପ୍ରେକ୍ଷାପଟରୁ ସମସାମୟିକ ଭାବେ ଅବଲୋକନ ଏବଂ ମୂଲ୍ୟାଙ୍କନ କରିବାର କ୍ଷମତା ହାସଲ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557377335-0",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the Governor-General of India when the Vernacular Press Act was enacted in 1878?",
+      "options": [
+        "Lord Ripon",
+        "Lord Lytton",
+        "Lord Curzon",
+        "Lord Dufferin"
+      ],
+      "answer": 1,
+      "explanation": "The Vernacular Press Act was passed in 1878 during the viceroyalty of Lord Lytton (1876–1880) to curtail the freedom of the Indian-language press. It was later repealed by Lord Ripon in 1882.",
+      "translations": {
+        "or": {
+          "question": "୧୮୭୮ ମସିହାରେ ବର୍ଣ୍ଣାକ୍ୟୁଲାର ପ୍ରେସ ଆକ୍ଟ (Vernacular Press Act) ପାରିତ ହେବା ସମୟରେ ଭାରତର ଗଭର୍ଣ୍ଣର-ଜେନେରାଲ କିଏ ଥିଲେ?",
+          "options": [
+            "ଲର୍ଡ ରିପନ୍",
+            "ଲର୍ଡ ଲିଟନ୍",
+            "ଲର୍ଡ କର୍ଜନ୍",
+            "ଲର୍ଡ ଡଫ୍ରିନ୍"
+          ],
+          "explanation": "୧୮୭୮ ମସିହାରେ ଲର୍ଡ ଲିଟନଙ୍କ ଗଭର୍ଣ୍ଣର-ଜେନେରାଲସିପ୍ ସମୟରେ ଭାରତୀୟ ଭାଷାର ସମ୍ବାଦପତ୍ରଗୁଡ଼ିକର ସ୍ୱାଧୀନତାକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ବର୍ଣ୍ଣାକ୍ୟୁଲାର ପ୍ରେସ ଆକ୍ଟ ପାରିତ ହୋଇଥିଲା। ୧୮୮୨ ମସିହାରେ ଲର୍ଡ ରିପନ୍ ଏହାକୁ ରଦ୍ଦ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785557377335-1",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following mountain passes is situated at the tri-junction of India, China, and Myanmar borders in Arunachal Pradesh?",
+      "options": [
+        "Diphu Pass",
+        "Nathu La Pass",
+        "Bum La Pass",
+        "Jelep La Pass"
+      ],
+      "answer": 0,
+      "explanation": "Diphu Pass is a strategic mountain pass located in eastern Arunachal Pradesh at the tri-junction area of the borders between India, China, and Myanmar.",
+      "translations": {
+        "or": {
+          "question": "ଅରୁଣାଚଳ ପ୍ରଦେଶରେ ଭାରତ, ଚୀନ୍ ଏବଂ ମ୍ୟାଁମାର ସୀମାର ତ୍ରି-ସଙ୍ଗମ (tri-junction) ନିକଟରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଗିରିପଥ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଦିଫୁ ପାସ୍ (Diphu Pass)",
+            "ନାଥୁ ଲା ପାସ୍ (Nathu La Pass)",
+            "ବମ୍ ଲା ପାସ୍ (Bum La Pass)",
+            "ଜେଲେପ୍ ଲା ପାସ୍ (Jelep La Pass)"
+          ],
+          "explanation": "ଦିଫୁ ପାସ୍ (Diphu Pass) ଅରୁଣାଚଳ ପ୍ରଦେଶର ପୂର୍ବ ଭାଗରେ ଭାରତ, ଚୀନ୍ ଏବଂ ମ୍ୟାଁମାର ସୀମାର ତ୍ରି-ସଙ୍ଗମ ଅଞ୍ଚଳରେ ଅବସ୍ଥିତ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ କୌଶଳଗତ ଗିରିପଥ।"
         }
       }
     }

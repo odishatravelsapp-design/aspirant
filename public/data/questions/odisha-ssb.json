@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -9470,6 +9470,205 @@
             "ମୂଲ୍ୟାଙ୍କନ -> ଗ୍ରହଣ କରିବା -> ପ୍ରତିକ୍ରିୟା ଦେବା -> ଚରିତ୍ରଗଠନ -> ସଂଗଠନ"
           ],
           "explanation": "କ୍ରାଥୱୋଲଙ୍କ ଆବେଗାତ୍ମକ କ୍ଷେତ୍ରର ବର୍ଗୀକରଣ ଅନୁଯାୟୀ ପାଞ୍ଚଟି କ୍ରମୋଚ୍ଚ ସ୍ତର ହେଉଛି: ୧. ଗ୍ରହଣ କରିବା (Receiving), ୨. ପ୍ରତିକ୍ରିୟା ଦେବା (Responding), ୩. ମୂଲ୍ୟାଙ୍କନ/ମୂଲ୍ୟ ଆରୋପଣ (Valuing), ୪. ସଂଗଠନ (Organization), ଏବଂ ୫. ମୂଲ୍ୟ ପ୍ରଣାଳୀ ଦ୍ୱାରା ଚରିତ୍ରଗଠନ (Characterization)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785556978820-0",
+      "section": "Subject Knowledge",
+      "topic": "Augustan Satire",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Jonathan Swift's satirical novel 'Gulliver's Travels' (1726), what is the name of the race of intelligent, rational horses that rule over the degraded human-like Yahoos?",
+      "options": [
+        "Brobdingnagians",
+        "Houyhnhnms",
+        "Laputians",
+        "Lilliputians"
+      ],
+      "answer": 1,
+      "explanation": "In Part IV of Jonathan Swift's 'Gulliver's Travels', Gulliver visits the Country of the Houyhnhnms, where intelligent, rational horses called Houyhnhnms govern the degraded, brute human-like creatures called Yahoos.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜୋନାଥନ୍ ସ୍ୱିଫ୍ଟଙ୍କ ବ୍ୟଙ୍ଗାତ୍ମକ ଉପନ୍ୟାସ 'ଗଲିଭର୍ସ ଟ୍ରାଭେଲ୍ସ' (୧୭୨୬) ରେ, ନୀଚ ମାନବସଦୃଶ ୟାହୁ (Yahoos) ମାନଙ୍କ ଉପରେ ଶାସନ କରୁଥିବା ବୁଦ୍ଧିମାନ, ତର୍କସଙ୍ଗତ ଘୋଡ଼ା ଜାତିର ନାମ କ'ଣ?",
+          "options": [
+            "ବ୍ରୋବଡିଙ୍ଗନାଗିଆନ୍ସ (Brobdingnagians)",
+            "ହୋଇହନମ୍ସ (Houyhnhnms)",
+            "ଲାପୁଟିଆନ୍ସ (Laputians)",
+            "ଲିଲିପୁଟିଆନ୍ସ (Lilliputians)"
+          ],
+          "explanation": "ଜୋନାଥନ୍ ସ୍ୱିଫ୍ଟଙ୍କ 'ଗଲିଭର୍ସ ଟ୍ରାଭେଲ୍ସ'ର ଚତୁର୍ଥ ଭାଗରେ, ଗଲିଭର୍ ହୋଇହନମ୍ସ ଦେଶ ପରିଦର୍ଶନ କରନ୍ତି, ଯେଉଁଠାରେ ହୋଇହନମ୍ସ ନାମକ ବୁଦ୍ଧିମାନ ଘୋଡ଼ାମାନେ ୟାହୁ ନାମକ ପଶୁତୁଲ୍ୟ ମାନବସଦୃଶ ଜୀବମାନଙ୍କ ଉପରେ ଶାସନ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785556978820-1",
+      "section": "Subject Knowledge",
+      "topic": "Indian English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Salman Rushdie's Booker Prize-winning novel 'Midnight's Children' (1981), which character is born at the exact midnight hour alongside Saleem Sinai and swapped with him at birth by nurse Mary Pereira?",
+      "options": [
+        "Shiva",
+        "Parvati the Witch",
+        "Aadam Sinai",
+        "Cyrus the Great"
+      ],
+      "answer": 0,
+      "explanation": "In 'Midnight's Children', Saleem Sinai and Shiva are born at the exact stroke of midnight on August 15, 1947. Mary Pereira, a nurse, deliberately swaps their nametags at birth, causing Shiva (born to rich parents) to be raised in poverty, and Saleem (born to a poor mother) to be raised in a wealthy family.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସଲମାନ ରୁଷଦିଙ୍କ ବୁକର ପୁରସ୍କାର ପ୍ରାପ୍ତ ଉପନ୍ୟାସ 'ମିଡନାଇଟ୍ସ ଚିଲଡ୍ରେନ' (୧୯୮୧) ରେ, ସଲିମ ସିନାଇଙ୍କ ସହିତ ଠିକ୍ ମଧ୍ୟରାତ୍ରିରେ ଜନ୍ମଗ୍ରହଣ କରିଥିବା ଏବଂ ନର୍ସ ମେରୀ ପେରେରାଙ୍କ ଦ୍ୱାରା ଜନ୍ମ ସମୟରେ ବଦଳାଯାଇଥିବା ଚରିତ୍ରଟିର ନାମ କ'ଣ?",
+          "options": [
+            "ଶିବ (Shiva)",
+            "ପାର୍ବତୀ ଦି ୱିଚ୍ (Parvati the Witch)",
+            "ଆଦମ ସିନାଇ (Aadam Sinai)",
+            "ସାଇରସ ଦି ଗ୍ରେଟ (Cyrus the Great)"
+          ],
+          "explanation": "'ମିଡନାଇଟ୍ସ ଚିଲଡ୍ରେନ'ରେ, ୧୯୪୭ ଅଗଷ୍ଟ ୧୫ ତାରିଖ ମଧ୍ୟରାତ୍ରିରେ ସଲିମ ସିନାଇ ଏବଂ ଶିବ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ। ମେରୀ ପେରେରା ନାମ୍ନୀ ଜଣେ ନର୍ସ ଜନ୍ମ ସମୟରେ ସେମାନଙ୍କର ନାମ ଟ୍ୟାଗ୍ ବଦଳାଇ ଦେଇଥିଲେ, ଯାହା ଫଳରେ ଗରିବ ପରିବାରର ସଲିମ ଧନୀ ପରିବାରରେ ଏବଂ ଧନୀ ପରିବାରର ଶିବ ଗରିବ ପରିବାରରେ ବଢ଼ିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785556993531-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Evaluation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which type of evaluation is primarily conducted during the instructional process to monitor learning progress and provide ongoing feedback to both teachers and students?",
+      "options": [
+        "Formative Evaluation",
+        "Summative Evaluation",
+        "Diagnostic Evaluation",
+        "Placement Evaluation"
+      ],
+      "answer": 0,
+      "explanation": "Formative evaluation is conducted during the process of instruction to monitor learning progress and provide continuous feedback to improve both teaching and learning before final assessment.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ଚାଲିଥିବା ସମୟରେ ଶିକ୍ଷଣର ପ୍ରଗତି ଅନୁଧ୍ୟାନ କରିବା ଏବଂ ଶିକ୍ଷକ ଓ ଛାତ୍ର ସଭିଁଙ୍କୁ ନିରନ୍ତର ଫିଡବ୍ୟାକ୍ ପ୍ରଦାନ କରିବା ପାଇଁ ମୁଖ୍ୟତଃ କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ କରାଯାଏ?",
+          "options": [
+            "ଫର୍ମେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ (Formative Evaluation)",
+            "ସମେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ (Summative Evaluation)",
+            "ନିଦାନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Diagnostic Evaluation)",
+            "ସ୍ଥାନନ ମୂଲ୍ୟାଙ୍କନ (Placement Evaluation)"
+          ],
+          "explanation": "ଫର୍ମେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ସମୟରେ କରାଯାଏ, ଯାହା ଶିକ୍ଷଣ ପ୍ରଗତିର ଅନୁଧ୍ୟାନ କରିବା ସହ ଉଭୟ ଶିକ୍ଷକ ଓ ଛାତ୍ରଙ୍କୁ ସୁଧାର ପାଇଁ ନିରନ୍ତର ଫିଡବ୍ୟାକ୍ ଯୋଗାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785556993531-1",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research in Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who among the following is credited with applying and introducing the concept of 'Action Research' specifically to the field of education to improve school and classroom practices?",
+      "options": [
+        "Stephen M. Corey",
+        "Kurt Lewin",
+        "Carl Rogers",
+        "John Dewey"
+      ],
+      "answer": 0,
+      "explanation": "While Kurt Lewin originally conceptualized Action Research in social psychology, Stephen M. Corey (1953) adapted and popularized its use specifically in the educational sector to allow teachers and administrators to systematically reflect on and improve classroom practices.",
+      "translations": {
+        "or": {
+          "question": "ବିଦ୍ୟାଳୟ ଏବଂ ଶ୍ରେଣୀଗୃହର କାର୍ଯ୍ୟପନ୍ଥାରେ ସୁଧାର ଆଣିବା ପାଇଁ ଶିକ୍ଷା କ୍ଷେତ୍ରରେ 'କ୍ରିୟାତ୍ମକ ଗବେଷଣା' (Action Research) ଧାରଣାକୁ ନିମ୍ନଲିଖିତ କିଏ ପ୍ରୟୋଗ ଓ ପ୍ରବର୍ତ୍ତନ କରିଥିଲେ?",
+          "options": [
+            "ଷ୍ଟିଫେନ୍ ଏମ୍. କୋରେ (Stephen M. Corey)",
+            "କୁର୍ଟ ଲେୱିନ୍ (Kurt Lewin)",
+            "କାର୍ଲ ରୋଜର୍ସ (Carl Rogers)",
+            "ଜନ୍ ଡିୱି (John Dewey)"
+          ],
+          "explanation": "କୁର୍ଟ ଲେୱିନ୍ ସାମାଜିକ ମନୋବିଜ୍ଞାନରେ କ୍ରିୟାତ୍ମକ ଗବେଷଣା ପ୍ରବର୍ତ୍ତନ କରିଥିବା ବେଳେ, ଷ୍ଟିଫେନ୍ ଏମ୍. କୋରେ (1953) ପ୍ରଥମେ ଶିକ୍ଷା କ୍ଷେତ୍ରରେ ଶ୍ରେଣୀଗୃହ କାର୍ଯ୍ୟଧାରାର ସୁଧାର ପାଇଁ ଏହାକୁ ପ୍ରୟୋଗ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785557007989-0",
+      "section": "General Studies",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The historic 'Eram Massacre', popularly known as the 'Jallianwala Bagh of Odisha', took place in which present-day district of Odisha during the Quit India Movement in 1942?",
+      "options": [
+        "Balasore",
+        "Bhadrak",
+        "Cuttack",
+        "Puri"
+      ],
+      "answer": 1,
+      "explanation": "On 28th September 1942, during the Quit India Movement, 28 people were killed when British police opened fire on a peaceful gathering at Eram in the Basudevpur block of present-day Bhadrak district. Due to the high death toll in a single incident, it is known as the 'Jallianwala Bagh of Odisha'.",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୨ ମସିହାର ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ 'ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍' ଭାବରେ ପରିଚିତ ଐତିହାସିକ 'ଇରମ ଗୁଳିକାଣ୍ଡ' ବର୍ତ୍ତମାନର କେଉଁ ଜିଲ୍ଲାରେ ସଂଘଟିତ ହୋଇଥିଲା?",
+          "options": [
+            "ବାଲେଶ୍ୱର",
+            "ଭଦ୍ରକ",
+            "କଟକ",
+            "ପୁରୀ"
+          ],
+          "explanation": "୨୮ ସେପ୍ଟେମ୍ବର ୧୯୪୨ ରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ, ବର୍ତ୍ତମାନର ଭଦ୍ରକ ଜିଲ୍ଲାର ବାସୁଦେବପୁର ବ୍ଲକ୍ ଅନ୍ତର୍ଗତ ଇରମଠାରେ ଏକ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସମାବେଶ ଉପରେ ବ୍ରିଟିଶ ପୋଲିସ ଗୁଳିଚାଳନା କରିବାରୁ ୨୮ ଜଣ ସହିଦ ହୋଇଥିଲେ। ଗୋଟିଏ ଘଟଣାରେ ଏତେ ସଂଖ୍ୟକ ଲୋକଙ୍କ ପ୍ରାଣହାନି ହୋଇଥିବାରୁ ଏହାକୁ 'ଓଡ଼ିଶାର ଜାଲିଆନାୱାଲା ବାଗ୍' କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785557007989-1",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following leaders led the armed resistance against the British East India Company during the Tapang Rebellion of 1827 in Odisha?",
+      "options": [
+        "Samanta Madhab Chandra Routray",
+        "Bakshi Jagabandhu",
+        "Dharani Dhar Naik",
+        "Laxman Nayak"
+      ],
+      "answer": 0,
+      "explanation": "Samanta Madhab Chandra Routray, the Dalbehera (commander) of Tapang near Khordha, led the local armed resistance against British forces in 1827, which is historically celebrated as the Tapang Rebellion.",
+      "translations": {
+        "or": {
+          "question": "୧୮୨୭ ମସିହାରେ ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୋଧରେ ହୋଇଥିବା ତାପଙ୍ଗ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନିମ୍ନଲିଖିତ କେଉଁ ନେତା ନେଇଥିଲେ?",
+          "options": [
+            "ସାମନ୍ତ ମାଧବ ଚନ୍ଦ୍ର ରାଉତରାୟ",
+            "ବକ୍ସି ଜଗବନ୍ଧୁ",
+            "ଧରଣୀଧର ନାୟକ",
+            "ଲକ୍ଷ୍ମଣ ନାୟକ"
+          ],
+          "explanation": "ଖୋର୍ଦ୍ଧା ନିକଟସ୍ଥ ତାପଙ୍ଗର ଦଳବେହେରା ସାମନ୍ତ ମାଧବ ଚନ୍ଦ୍ର ରାଉତରାୟ ୧୮୨୭ ମସିହାରେ ବ୍ରିଟିଶ ସେନା ବିରୋଧରେ ସଶସ୍ତ୍ର ପ୍ରତିରୋଧର ନେତୃତ୍ୱ ନେଇଥିଲେ, ଯାହା ଐତିହାସିକ ଭାବେ ତାପଙ୍ଗ ବିଦ୍ରୋହ ନାମରେ ପରିଚିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785557021155-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Suryavamsi Gajapati ruler of Odisha assumed the grand imperial title of 'Gaudesvara Navakoti Karnata Kalavargesvara' following his extensive military conquests?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Govinda Vidyadhara"
+      ],
+      "answer": 0,
+      "explanation": "Kapilendra Deva (1434–1467 CE), the founder of the Suryavamsi Gajapati dynasty, took the title 'Gaudesvara Navakoti Karnata Kalavargesvara' (Lord of Gauda, Nine Crore Karnatas, and Kalavaraga/Gulbarga) after expanding his empire from Bengal to Deep South India.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିଜର ବ୍ୟାପକ ସୈନ୍ୟ ବିଜୟ ଅଭିଯାନ ପରେ ଓଡ଼ିଶାର କେଉଁ ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ଶାସକ 'ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଲବର୍ଗେଶ୍ୱର' ର ମହାନ୍ ରାଜକୀୟ ଉପାଧି ଧାରଣ କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ବଂଶର ପ୍ରତିଷ୍ଠାତା କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୪-୧୪୬୭ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ବଙ୍ଗଳାରୁ ଦକ୍ଷିଣ ଭାରତ ପର୍ଯ୍ୟନ୍ତ ନିଜ ସାମ୍ରାଜ୍ୟ ବିସ୍ତାର କରିବା ପରେ 'ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଲବର୍ଗେଶ୍ୱର' ଉପାଧି ଧାରଣ କରିଥିଲେ।"
         }
       }
     }

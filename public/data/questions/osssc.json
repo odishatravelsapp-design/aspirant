@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -7156,6 +7156,234 @@
             "ଦଣ୍ଡୀ ମହାଦେବୀ"
           ],
           "explanation": "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ (ପରମବୈଷ୍ଣବୀ ଭାବରେ ମଧ୍ୟ ପରିଚିତ) ନିଜ ପୁତ୍ର ଶୁଭାକରଦେବ ତୃତୀୟଙ୍କ ମୃତ୍ୟୁ ପରେ ନବମ ଶତାବ୍ଦୀରେ ସିଂହାସନ ଆରୋହଣ କରି ଓଡ଼ିଶାର ଭୌମକର ବଂଶର ପ୍ରଥମ ମହିଳା ଶାସକ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556905746-0",
+      "section": "Arithmetic",
+      "topic": "Percentages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "If the price of petrol increases by 25%, by what percentage should a driver reduce his consumption so that the expenditure on petrol remains unchanged?",
+      "options": [
+        "15%",
+        "20%",
+        "22.5%",
+        "25%"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial price be Rs. 100 and consumption be 100 units. Initial expenditure = 100 × 100 = Rs. 10,000. New price = Rs. 125. To keep expenditure at Rs. 10,000, new consumption = 10,000 / 125 = 80 units. Percentage reduction in consumption = ((100 - 80) / 100) × 100 = 20%.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ପେଟ୍ରୋଲର ମୂଲ୍ୟ ୨୫% ବୃଦ୍ଧି ପାଏ, ତେବେ ପେଟ୍ରୋଲ ବାବଦରେ ହେଉଥିବା ଖର୍ଚ୍ଚ ଅପରିବର୍ତ୍ତିତ ରଖିବା ପାଇଁ ଜଣେ ଡ୍ରାଇଭରଙ୍କୁ ତାଙ୍କର ବ୍ୟବହାର କେତେ ପ୍ରତିଶତ ହ୍ରାସ କରିବାକୁ ପଡ଼ିବ?",
+          "options": [
+            "୧୫%",
+            "୨୦%",
+            "୨୨.୫%",
+            "୨୫%"
+          ],
+          "explanation": "ମନେକର ପ୍ରାରମ୍ଭିକ ମୂଲ୍ୟ ୧୦୦ ଟଙ୍କା ଏବଂ ବ୍ୟବହାର ୧୦୦ ୟୁନିଟ୍। ପ୍ରାରମ୍ଭିକ ଖର୍ଚ୍ଚ = ୧୦୦ × ୧୦୦ = ୧୦,୦୦୦ ଟଙ୍କା। ନୂଆ ମୂଲ୍ୟ = ୧୨୫ ଟଙ୍କା। ଖର୍ଚ୍ଚ ୧୦,୦୦୦ ଟଙ୍କାରେ ସ୍ଥିର ରଖିବାକୁ ହେଲେ, ନୂଆ ବ୍ୟବହାର = ୧୦,୦୦୦ / ୧୨୫ = ୮୦ ୟୁନିଟ୍। ବ୍ୟବହାରରେ ହ୍ରାସ ହାର = ((୧୦୦ - ୮୦) / ୧୦୦) × ୧୦୦ = ୨୦%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556905746-1",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a work individually in 24, 36, and 48 days respectively. They started the work together, but C left 4 days after the start and A left 3 days before the completion of the work. In how many days was the whole work completed?",
+      "options": [
+        "12 days",
+        "14 days",
+        "15 days",
+        "18 days"
+      ],
+      "answer": 2,
+      "explanation": "Total work = LCM(24, 36, 48) = 144 units. One day work of A = 144/24 = 6 units, B = 144/36 = 4 units, C = 144/48 = 3 units. Let total time taken be 'x' days. Work done by C in 4 days = 4 × 3 = 12 units. Work done by A in (x - 3) days = 6(x - 3) units. Work done by B in x days = 4x units. Total work equation: 12 + 6(x - 3) + 4x = 144 => 10x - 6 = 144 => 10x = 150 => x = 15 days.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଯଥାକ୍ରମେ ୨୪, ୩୬ ଏବଂ ୪୮ ଦିନରେ ଗୋଟିଏ କାମ ଏକାକୀ ଶେଷ କରିପାରନ୍ତି। ସେମାନେ ଏକାଠି କାମ ଆରମ୍ଭ କଲେ, କିନ୍ତୁ କାମ ଆରମ୍ଭ ହେବାର ୪ ଦିନ ପରେ C ଚାଲିଗଲା ଏବଂ କାମ ଶେଷ ହେବାର ୩ ଦିନ ପୂର୍ବରୁ A ଚାଲିଗଲା। ସମ୍ପୂର୍ଣ୍ଣ କାମଟି କେତେ ଦିନରେ ଶେଷ ହୋଇଥିଲା?",
+          "options": [
+            "୧୨ ଦିନ",
+            "୧୪ ଦିନ",
+            "୧୫ ଦିନ",
+            "୧୮ ଦିନ"
+          ],
+          "explanation": "ମୋଟ କାମ = LCM(୨୪, ୩୬, ୪୮) = ୧୪୪ ୟୁନିଟ୍। A ର ୧ ଦିନର କାମ = ୬ ୟୁନିଟ୍, B ର ୧ ଦିନର କାମ = ୪ ୟୁନିଟ୍, C ର ୧ ଦିନର କାମ = ୩ ୟୁନିଟ୍। ମନେକର ମୋଟ ସମୟ 'x' ଦିନ। C ଦ୍ୱାରା ୪ ଦିନରେ ହୋଇଥିବା କାମ = ୪ × ୩ = ୧୨ ୟୁନିଟ୍। A ଦ୍ୱାରା (x - ୩) ଦିନରେ ହୋଇଥିବା କାମ = ୬(x - ୩) ୟୁନିଟ୍। B ଦ୍ୱାରା x ଦିନରେ ହୋଇଥିବା କାମ = ୪x ୟୁନିଟ୍। ମୋଟ କାମ: ୧୨ + ୬(x - ୩) + ୪x = ୧୪୪ => ୧୦x - ୬ = ୧୪୪ => ୧୦x = ୧୫୦ => x = ୧୫ ଦିନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556933366-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the missing number in the given series: 4, 9, 20, 43, 90, ?",
+      "options": [
+        "180",
+        "185",
+        "182",
+        "189"
+      ],
+      "answer": 1,
+      "explanation": "The pattern in the series is: 4 × 2 + 1 = 9; 9 × 2 + 2 = 20; 20 × 2 + 3 = 43; 43 × 2 + 4 = 90; 90 × 2 + 5 = 185. Therefore, the missing number is 185.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ସିରିଜ୍‌ରେ ଲୁପ୍ତ ସଂଖ୍ୟାଟି ନିର୍ଣ୍ଣୟ କରନ୍ତୁ: 4, 9, 20, 43, 90, ?",
+          "options": [
+            "180",
+            "185",
+            "182",
+            "189"
+          ],
+          "explanation": "ସିରିଜର ପ୍ୟାଟର୍ନ ହେଉଛି: 4 × 2 + 1 = 9; 9 × 2 + 2 = 20; 20 × 2 + 3 = 43; 43 × 2 + 4 = 90; 90 × 2 + 5 = 185। ତେଣୁ, ଲୁପ୍ତ ସଂଖ୍ୟାଟି ହେଉଛି 185।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556933366-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Eight friends P, Q, R, S, T, U, V, and W are sitting around a circular table facing either the centre or outside. Q faces Outside and P sits third to the right of Q. Both P and Q face the same direction. R sits second to the left of P. S sits third to the right of R (where R faces Inside). T sits second to the right of S (where S faces Inside), and T faces Inside. U is an immediate neighbor of neither P nor Q. V sits second to the left of U (where U faces Inside). If W occupies the remaining seat, who sits second to the left of T?",
+      "options": [
+        "S",
+        "U",
+        "V",
+        "R"
+      ],
+      "answer": 0,
+      "explanation": "1. Q faces Outside at position 1. P sits 3rd to the right (clockwise) of Q at position 4 and faces Outside.\n2. R sits 2nd to the left (anticlockwise) of P at position 2.\n3. R faces Inside, so 3rd to the right (anticlockwise) of R is position 7, which is S.\n4. S faces Inside, so 2nd to the right (anticlockwise) of S is position 5, which is T (facing Inside).\n5. U is not adjacent to P or Q, so U sits at position 6.\n6. U faces Inside, so 2nd to the left (clockwise) of U is position 8, which is V.\n7. T faces Inside at position 5. Left of T (facing Inside) is clockwise. Thus, 1st to the left is U (position 6) and 2nd to the left is S (position 7).",
+      "translations": {
+        "or": {
+          "question": "ଆଠ ଜଣ ବନ୍ଧୁ P, Q, R, S, T, U, V, ଏବଂ W ଏକ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ କେନ୍ଦ୍ରକୁ କିମ୍ବା ବାହାରକୁ ମୁହଁ କରି ବସିଛନ୍ତି। Q ବାହାରକୁ ମୁହଁ କରିଛି ଏବଂ P, Q ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛି। P ଏବଂ Q ଉଭୟ ସମାନ ଦିଗକୁ ମୁହଁ କରିଛନ୍ତି। R, P ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛି। S, R ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛି (ଯେଉଁଠାରେ R କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି)। T, S ର ଡାହାଣରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛି (ଯେଉଁଠାରେ S କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି), ଏବଂ T କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି। U, P କିମ୍ବା Q କାହାରି ବି ନିକଟତମ ପଡ଼ୋଶୀ ନୁହେଁ। V, U ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛି (ଯେଉଁଠାରେ U କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି)। ଯଦି W ବାକି ଥିବା ସ୍ଥାନରେ ବସେ, ତେବେ T ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛି?",
+          "options": [
+            "S",
+            "U",
+            "V",
+            "R"
+          ],
+          "explanation": "1. Q ସ୍ଥାନ 1 ରେ ବାହାରକୁ ମୁହଁ କରିଛି। P, Q ର ଡାହାଣରେ (ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ) 3ୟ ସ୍ଥାନ 4 ରେ ବସିଛି ଏବଂ ବାହାରକୁ ମୁହଁ କରିଛି।\n2. R, P ର ବାମରେ (ଘଣ୍ଟା କଣ୍ଟାର ବିପରୀତ ଦିଗରେ) 2ୟ ସ୍ଥାନ 2 ରେ ବସିଛି।\n3. R କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି, ତେଣୁ R ର ଡାହାଣରେ 3ୟ ସ୍ଥାନ 7 ହେଉଛି S।\n4. S କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି, ତେଣୁ S ର ଡାହାଣରେ 2ୟ ସ୍ଥାନ 5 ହେଉଛି T (କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି)।\n5. U, P କିମ୍ବା Q ର ପଡ଼ୋଶୀ ନୁହେଁ, ତେଣୁ U ସ୍ଥାନ 6 ରେ ବସିଛି।\n6. U କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି, ତେଣୁ U ର ବାମରେ 2ୟ ସ୍ଥାନ 8 ହେଉଛି V।\n7. T ସ୍ଥାନ 5 ରେ କେନ୍ଦ୍ରକୁ ମୁହଁ କରିଛି। T ର ବାମ ପାଶ୍ୱର୍ ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ ଅଟେ। ତେଣୁ 1ମ ବାମରେ U (ସ୍ଥାନ 6) ଏବଂ 2ୟ ବାମରେ S (ସ୍ଥାନ 7) ବସିଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556949347-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Literature",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who among the following prominent Odia literary figures is revered with the title 'Kabi Samrat'?",
+      "options": [
+        "Upendra Bhanja",
+        "Radhanath Ray",
+        "Gangadhar Meher",
+        "Fakir Mohan Senapati"
+      ],
+      "answer": 0,
+      "explanation": "Upendra Bhanja is hailed as 'Kabi Samrat' (The Emperor of Poets) for his grand poetic compositions in classical Odia literature during the Riti Yuga.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଓଡ଼ିଆ ସାହିତ୍ୟିକମାନଙ୍କ ମଧ୍ୟରୁ କାହାକୁ 'କବି ସମ୍ରାଟ' ଉପାଧିରେ ସମ୍ମାନିତ କରାଯାଏ?",
+          "options": [
+            "ଉପେନ୍ଦ୍ର ଭଞ୍ଜ",
+            "ରାଧାନାଥ ରାୟ",
+            "ଗଙ୍ଗାଧର ମେହେର",
+            "ଫକୀର ମୋହନ ସେନାପତି"
+          ],
+          "explanation": "ରୀତି ଯୁଗରେ ଓଡ଼ିଆ ସାହିତ୍ୟରେ ତାଙ୍କର ଅତୁଳନୀୟ କାବ୍ୟ କୃତି ପାଇଁ ଉପେନ୍ଦ୍ର ଭଞ୍ଜଙ୍କୁ 'କବି ସମ୍ରାଟ' ଭାବରେ ସମ୍ମାନିତ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556949347-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The catastrophic 'Na'anka Durbhiksha' (The Great Orissa Famine) occurred during which of the following years, resulting in immense loss of human lives?",
+      "options": [
+        "1857",
+        "1866",
+        "1872",
+        "1899"
+      ],
+      "answer": 1,
+      "explanation": "The 'Na'anka Durbhiksha' occurred in 1866 during the 9th regnal year (Na'anka) of Puri King Dibyasingha Deva III, taking a heavy toll on the population of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୟଙ୍କର 'ଣ'ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' କେଉଁ ମସିହାରେ ସଂଘଟିତ ହୋଇଥିଲା, ଯାହା ଫଳରେ ପ୍ରଚୁର ଧନଜୀବନ ହାନି ଘଟିଥିଲା?",
+          "options": [
+            "୧୮୫୭",
+            "୧୮୬୬",
+            "୧୮୭୨",
+            "୧୮୯୯"
+          ],
+          "explanation": "ପୁରୀର ଗଜପତି ମହାରାଜା ତୃତୀୟ ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ୯ମ ଅଙ୍କ (ଣ'ଅଙ୍କ) ସମୟରେ ୧୮୬୬ ମସିହାରେ ଓଡ଼ିଶାରେ 'ଣ'ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ସଂଘଟିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556963718-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the British Commissioner of Odisha during the devastating 'Na'Anka Durbhiksha' (Orissa Famine) of 1866?",
+      "options": [
+        "T. E. Ravenshaw",
+        "George Campbell",
+        "Henry Ricketts",
+        "John Beames"
+      ],
+      "answer": 0,
+      "explanation": "Thomas Edward Ravenshaw was serving as the Officiating Commissioner of the Orissa Division during the tragic Na'Anka Durbhiksha (Orissa Famine) of 1866.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାର ଭୟଙ୍କର 'ନ'ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ସମୟରେ ଓଡ଼ିଶାର ବ୍ରିଟିଶ କମିଶନର କିଏ ଥିଲେ?",
+          "options": [
+            "ଟି. ଇ. ରାଭେନ୍ସା",
+            "ଜର୍ଜ କ୍ୟାମ୍ପବେଲ",
+            "ହେନ୍ରୀ ରିକେଟ୍ସ",
+            "ଜନ୍ ବିମ୍ସ"
+          ],
+          "explanation": "୧୮୬୬ ମସିହାର ଦୁଃଖଦାୟକ ନ'ଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଟି. ଇ. ରାଭେନ୍ସା (ଥୋମାସ ଏଡୱାର୍ଡ ରାଭେନ୍ସା) ଓଡ଼ିଶା ଡିଭିଜନର କମିଶନର ଭାବରେ କାର୍ଯ୍ୟ କରୁଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785556963718-1",
+      "section": "Odisha GK",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who presided over the first session of the Orissa States' People's Conference held in Cuttack in June 1931?",
+      "options": [
+        "Sarala Devi",
+        "Bhubanananda Das",
+        "Harekrushna Mahatab",
+        "Sarangadhar Das"
+      ],
+      "answer": 1,
+      "explanation": "The first session of the Orissa States' People's Conference (Garjat Praja Sammilani) was held at Cuttack in June 1931 under the presidency of Bhubanananda Das.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୧ ଜୁନ୍ ମାସରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ 'ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀ'ର ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ଅଧ୍ୟକ୍ଷତା କରିଥିଲେ?",
+          "options": [
+            "ସାରଳା ଦେବୀ",
+            "ଭୁବନାନନ୍ଦ ଦାସ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ସାରଙ୍ଗଧର ଦାସ"
+          ],
+          "explanation": "୧୯୩୧ ଜୁନ୍ ମାସରେ କଟକଠାରେ ଭୁବନାନନ୍ଦ ଦାସଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଓଡ଼ିଶା ଗଡ଼ଜାତ ପ୍ରଜା ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନ ଅନୁଷ୍ଠିତ ହୋଇଥିଲା।"
         }
       }
     }

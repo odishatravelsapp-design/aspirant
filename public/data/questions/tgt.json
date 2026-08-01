@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -3374,6 +3374,120 @@
       ],
       "answer": 1,
       "explanation": "The 'Engage' phase is the first step of the 5E Model, designed to spark student interest, capture attention, and reveal existing prior conceptions."
+    },
+    {
+      "id": "tgt-ai-1785557535281-0",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders Interaction Analysis Categories System",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Categories System (FIACS), how many total categories are dedicated specifically to 'Teacher Talk'?",
+      "options": [
+        "5 categories",
+        "7 categories",
+        "10 categories",
+        "3 categories"
+      ],
+      "answer": 1,
+      "explanation": "FIACS consists of a total of 10 categories: 7 categories for Teacher Talk (4 for Indirect Influence and 3 for Direct Influence), 2 categories for Student Talk, and 1 category for Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ 'ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କାଟେଗୋରୀ ସିଷ୍ଟମ୍' (FIACS) ରେ, 'ଶିକ୍ଷକଙ୍କ କଥା' (Teacher Talk) ପାଇଁ ସମୋଟ କେତୋଟି ବର୍ଗ ନିର୍ଦ୍ଦିଷ୍ଟ କରାଯାଇଛି?",
+          "options": [
+            "୫ ଟି ବର୍ଗ",
+            "୭ ଟି ବର୍ଗ",
+            "୧୦ ଟି ବର୍ଗ",
+            "୩ ଟି ବର୍ଗ"
+          ],
+          "explanation": "FIACS ରେ ମୋଟ ୧୦ ଟି ବର୍ଗ ରହିଛି: ଶିକ୍ଷକଙ୍କ କଥା ପାଇଁ ୭ ଟି ବର୍ଗ (ଅପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ ପାଇଁ ୪ ଟି ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ ପାଇଁ ୩ ଟି), ଛାତ୍ରଙ୍କ କଥା ପାଇଁ ୨ ଟି ବର୍ଗ ଏବଂ ନୀରବତା କିମ୍ବା ଦ୍ବନ୍ଦ୍ବ ପାଇଁ ୧ ଟି ବର୍ଗ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785557535281-1",
+      "section": "Teaching Aptitude",
+      "topic": "Gagné's Nine Events of Instruction",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robert Gagné's Nine Events of Instruction, which instructional event directly follows 'Presenting the Content'?",
+      "options": [
+        "Providing Learning Guidance",
+        "Eliciting Performance",
+        "Stimulating Recall of Prior Learning",
+        "Providing Feedback"
+      ],
+      "answer": 0,
+      "explanation": "Gagné's Nine Events of Instruction follow a specific sequence: 1. Gain attention, 2. Inform learners of objectives, 3. Stimulate recall of prior learning, 4. Present the content, 5. Provide learning guidance, 6. Elicit performance, 7. Provide feedback, 8. Assess performance, 9. Enhance retention and transfer. Therefore, providing learning guidance (Event 5) directly follows presenting the content (Event 4).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେ (Robert Gagné) ଙ୍କ 'ଶିକ୍ଷାଦାନର ନଅଟି ପର୍ଯ୍ୟାୟ' (Nine Events of Instruction) ଅନୁସାରେ, 'ବିଷୟବସ୍ତୁ ପ୍ରସ୍ତୁତ କରିବା' (Presenting the Content) ପରେ କେଉଁ ପର୍ଯ୍ୟାୟଟି ସିଧାସଳଖ ଆସିଥାଏ?",
+          "options": [
+            "ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା (Providing Learning Guidance)",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରକାଶ କରିବା (Eliciting Performance)",
+            "ପୂର୍ବ ଶିକ୍ଷଣର ସ୍ମରଣକୁ ଉଦ୍ଦୀପିତ କରିବା (Stimulating Recall of Prior Learning)",
+            "ପ୍ରତିପୋଷଣ ପ୍ରଦାନ କରିବା (Providing Feedback)"
+          ],
+          "explanation": "ଗାଗ୍ନେଙ୍କ ନଅଟି ପର୍ଯ୍ୟାୟର କ୍ରମ ହେଉଛି: ୧. ଧ୍ୟାନ ଆକର୍ଷଣ କରିବା, ୨. ଉଦ୍ଦେଶ୍ୟ ବିଷୟରେ ଜଣାଇବା, ୩. ପୂର୍ବ ଶିକ୍ଷଣକୁ ସ୍ମରଣ କରାଇବା, ୪. ବିଷୟବସ୍ତୁ ପ୍ରସ୍ତୁତ କରିବା, ୫. ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା, ୬. କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରକାଶ କରାଇବା, ୭. ପ୍ରତିପୋଷଣ ଯୋଗାଇବା, ୮. କାର୍ଯ୍ୟଦକ୍ଷତାର ମୂଲ୍ୟାଙ୍କନ କରିବା, ୯. ଧାରଣ ଏବଂ ସ୍ଥାନାନ୍ତର ବୃଦ୍ଧି କରିବା। ତେଣୁ ବିଷୟବସ୍ତୁ ପ୍ରସ୍ତୁତି ପରେ ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା ଆସିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785557549771-0",
+      "section": "Subject Knowledge",
+      "topic": "English Literature - Shakespearean Drama",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following plays by William Shakespeare is known as his shortest tragedy?",
+      "options": [
+        "Hamlet",
+        "Macbeth",
+        "Othello",
+        "King Lear"
+      ],
+      "answer": 1,
+      "explanation": "Among William Shakespeare's major tragedies, 'Macbeth' is the shortest, consisting of only about 2,477 lines and approximately 17,000 words.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ଶେକ୍ସପିୟରଙ୍କ ନିମ୍ନଲିଖିତ ନାଟକଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ତାଙ୍କର ସବୁଠାରୁ କ୍ଷୁଦ୍ରତମ ଟ୍ରାଜେଡି ଭାବରେ ଜଣାଶୁଣା?",
+          "options": [
+            "ହ୍ୟାମଲେଟ୍ (Hamlet)",
+            "ମ୍ୟାକବେଥ୍ (Macbeth)",
+            "ଓଥେଲୋ (Othello)",
+            "କିଙ୍ଗ୍ ଲିୟର୍ (King Lear)"
+          ],
+          "explanation": "ୱିଲିୟମ୍ ଶେକ୍ସପିୟରଙ୍କ ପ୍ରମୁଖ ଟ୍ରାଜେଡିଗୁଡ଼ିକ ମଧ୍ୟରେ 'ମ୍ୟାକବେଥ୍' ସବୁଠାରୁ କ୍ଷୁଦ୍ରତମ ଅଟେ, ଯେଉଁଥିରେ ପ୍ରାୟ ୨,୪୭୭ ଟି ଧାଡ଼ି ଏବଂ ପାଖାପାଖି ୧୭,୦୦୦ ଶବ୍ଦ ରହିଛି।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785557549771-1",
+      "section": "Subject Knowledge",
+      "topic": "Organic Chemistry - Carbocation Stability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following carbocations is the most stable due to complete octet resonance stabilization?",
+      "options": [
+        "Tert-butyl cation [(CH3)3C+]",
+        "Methoxy methyl cation [CH3-O-CH2+]",
+        "Benzyl cation [C6H5-CH2+]",
+        "Allyl cation [CH2=CH-CH2+]"
+      ],
+      "answer": 1,
+      "explanation": "In the methoxy methyl cation (CH3-O-CH2+), the unshared electron pair on the oxygen atom forms a pi bond with the adjacent positive carbon atom (CH3-O+=CH2). In this resonance contributor, every atom possesses a complete octet of valence electrons, making it exceptionally stable compared to carbocations stabilized only by hyperconjugation or simple aromatic resonance.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ଣ୍ଣ ଅଷ୍ଟକ ରେଜୋନାନ୍ସ ସ୍ଥିରତା (complete octet resonance stabilization) ଯୋଗୁଁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ କାର୍ବୋକାଟାୟନ୍ ସବୁଠାରୁ ଅଧିକ ସ୍ଥିର?",
+          "options": [
+            "ଟର୍ଟ-ବ୍ୟୁଟାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ [(CH3)3C+]",
+            "ମେଥୋକ୍ସି ମେଥାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ [CH3-O-CH2+]",
+            "ବେଞ୍ଜାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ [C6H5-CH2+]",
+            "ଆଲାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ [CH2=CH-CH2+]"
+          ],
+          "explanation": "ମେଥୋକ୍ସି ମେଥାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ (CH3-O-CH2+) ରେ, ଅକ୍ସିଜେନ୍ ପରମାଣୁର ଏକକ ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗ୍ମ ପାଖରେ ଥିବା ଧନାତ୍ମକ ଚାର୍ଜିତ କାର୍ବନ ସହିତ ଏକ ପାଇ (pi) ବନ୍ଧନ ଗଠନ କରେ (CH3-O+=CH2)। ଏହି ରେଜୋନାନ୍ସ ସଂରଚନାରେ ପ୍ରତ୍ୟେକ ପରମାଣୁର ଅଷ୍ଟକ ପୂର୍ଣ୍ଣ ହୋଇଥାଏ, ଯାହା ଏହାକୁ ଅତ୍ୟନ୍ତ ସ୍ଥିର କରିଥାଏ।"
+        }
+      }
     }
   ]
 }

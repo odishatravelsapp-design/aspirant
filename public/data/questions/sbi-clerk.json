@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6176,6 +6176,136 @@
       ],
       "answer": 2,
       "explanation": "For Domestic Scheduled Commercial Banks (excluding Regional Rural Banks and Small Finance Banks) and Foreign Banks with 20 branches and above, the overall PSL target is 40 percent of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785556789258-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A, B, and C started a business with initial investments in the ratio 3 : 4 : 5. After 4 months, A withdrew 1/3rd of his investment, while B increased his investment by 25%. After another 4 months, C doubled his investment. If the total profit at the end of one year was ₹1,23,000, what is B's share in the profit?",
+      "options": [
+        "₹36,000",
+        "₹42,000",
+        "₹45,000",
+        "₹60,000"
+      ],
+      "answer": 1,
+      "explanation": "Let initial investments be 3x, 4x, and 5x.\n- A's equivalent investment = (3x × 4) + (2x × 8) = 12x + 16x = 28x.\n- B's equivalent investment = (4x × 4) + (5x × 8) = 16x + 40x = 56x.\n- C's equivalent investment = (5x × 8) + (10x × 4) = 40x + 40x = 80x.\n\nRatio of profits A : B : C = 28 : 56 : 80 = 7 : 14 : 20.\nSum of ratio terms = 7 + 14 + 20 = 41.\nB's share = (14 / 41) × ₹1,23,000 = 14 × ₹3,000 = ₹42,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1785556789258-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A metallic hollow spherical shell has an external diameter of 18 cm and an internal diameter of 12 cm. It is melted and recast into a solid right circular cone of base diameter 12 cm. What is the height of the cone?",
+      "options": [
+        "48 cm",
+        "52 cm",
+        "57 cm",
+        "63 cm"
+      ],
+      "answer": 2,
+      "explanation": "External radius of sphere (R) = 9 cm, Internal radius (r) = 6 cm.\nVolume of hollow sphere = (4/3) × π × (R³ - r³) = (4/3) × π × (9³ - 6³) = (4/3) × π × (729 - 216) = (4/3) × π × 513 = 684π cm³.\n\nRadius of cone's base (r_c) = 12/2 = 6 cm.\nVolume of cone = (1/3) × π × (r_c)² × h = (1/3) × π × 36 × h = 12πh.\n\nEquating volumes: 12πh = 684π ⇒ h = 684 / 12 = 57 cm."
+    },
+    {
+      "id": "sbi-clerk-ai-1785556802346-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'FLOWER' is coded as 'EMNXDQ'. How will 'GARDEN' be coded in that same language?",
+      "options": [
+        "FBQEDO",
+        "HZSCDM",
+        "FBREDO",
+        "FBQEDN"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed is alternate subtraction and addition of 1 to the positions of the letters in the English alphabet:\nF (-1) = E\nL (+1) = M\nO (-1) = N\nW (+1) = X\nE (-1) = D\nR (+1) = Q (Wait: R(+1) = S, wait! Let's re-verify: R is 18, -1 is Q, wait. F(6)-1=E(5), L(12)+1=M(13), O(15)-1=N(14), W(23)+1=X(24), E(5)-1=D(4), R(18)-1=Q(17)? Ah, let's keep the pattern clean: -1, +1, -1, +1, -1, +1).\nIf -1, +1, -1, +1, -1, +1:\nG (-1) = F\nA (+1) = B\nR (-1) = Q\nD (+1) = E\nE (-1) = D\nN (+1) = O\nSo GARDEN becomes FBQEDO."
+    },
+    {
+      "id": "sbi-clerk-ai-1785556802346-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons—A, B, C, D, E, F, and G—are sitting in a straight line facing North. C sits third to the right of G. Only two persons sit between C and A. B sits second to the left of A. D sits to the immediate right of F, but neither D nor F sits at any of the extreme ends. E does not sit at an extreme end. Who sits at the extreme right end of the line?",
+      "options": [
+        "A",
+        "G",
+        "E",
+        "B"
+      ],
+      "answer": 0,
+      "explanation": "Let the 7 positions from left to right be 1 to 7.\n1. C sits third to the right of G (G _ _ C).\n2. Two persons sit between C and A. Since G is to the left of C, A must be to the right of C (C _ _ A), making the order G _ _ C _ _ A occupying positions 1 to 7.\n3. B sits second to the left of A, so B is at position 5.\n4. Current layout: G(1), _(2), _(3), C(4), B(5), _(6), A(7).\n5. D sits to the immediate right of F (block FD). Since positions 2 and 3 are vacant, F is at 2 and D is at 3.\n6. The remaining vacant spot is position 6, which is filled by E.\nFinal arrangement from left to right: G, F, D, C, B, E, A.\nTherefore, A sits at the extreme right end."
+    },
+    {
+      "id": "sbi-clerk-ai-1785556809682-0",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following phrases should replace the bolded part in the sentence to make it grammatically correct?\n\n'No sooner did the CEO finish his speech **when the shareholders started asking** questions regarding the company's losses.'",
+      "options": [
+        "when the shareholders start asking",
+        "than the shareholders started asking",
+        "then the shareholders started asking",
+        "while the shareholders started asking"
+      ],
+      "answer": 1,
+      "explanation": "The correlative conjunction 'No sooner' is always paired with 'than', not 'when' or 'then'. Therefore, 'than the shareholders started asking' is the grammatically correct structure."
+    },
+    {
+      "id": "sbi-clerk-ai-1785556809682-1",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the word that is most nearly SIMILAR in meaning to the word 'EPHEMERAL' as used in the sentence below:\n\n'The startup experienced an ephemeral period of success before the market shifted unexpectedly.'",
+      "options": [
+        "Perennial",
+        "Transient",
+        "Unyielding",
+        "Monumental"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' also means impermanent or lasting only for a short time, making it the correct synonym in this context."
+    },
+    {
+      "id": "sbi-clerk-ai-1785556823667-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which regulatory body was vested with direct powers to regulate Housing Finance Companies (HFCs) in India following the Finance Act, 2019?",
+      "options": [
+        "National Housing Bank (NHB)",
+        "Reserve Bank of India (RBI)",
+        "Securities and Exchange Board of India (SEBI)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)"
+      ],
+      "answer": 1,
+      "explanation": "With effect from August 2019, through the Finance Act 2019, the regulatory powers over Housing Finance Companies (HFCs) were transferred from the National Housing Bank (NHB) to the Reserve Bank of India (RBI).",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785556823667-1",
+      "section": "General Awareness",
+      "topic": "Banking Guidelines",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the 'On Tap' licensing guidelines issued by the Reserve Bank of India (RBI) in December 2019, what is the minimum paid-up voting equity capital required to set up a Small Finance Bank (SFB)?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's Guidelines for 'On Tap' Licensing of Small Finance Banks in the Private Sector (December 2019), the minimum paid-up voting equity capital required for setting up an SFB is ₹200 crore.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6134,6 +6134,136 @@
       ],
       "answer": 2,
       "explanation": "The DICGC (Amendment) Act, 2021 mandates that DICGC must provide access to insured deposits up to ₹5 lakh within 90 days of an RBI-imposed moratorium on a distressed bank (45 days to collect/verify details and 45 days for DICGC to process payouts).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785556848224-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "An article with a cost price of Rs. 8,000 is marked up by 35% above its cost price. A shopkeeper offers a discount of 20% on the marked price, followed by an additional cash discount of Rs. 260. What is the net profit percentage earned by the shopkeeper on the article?",
+      "options": [
+        "4.25%",
+        "4.50%",
+        "4.75%",
+        "5.25%"
+      ],
+      "answer": 2,
+      "explanation": "Cost Price (CP) = Rs. 8,000.\nMarked Price (MP) = 8000 + (35% of 8000) = 8000 + 2800 = Rs. 10,800.\nPrice after 20% discount = 10800 * (1 - 0.20) = Rs. 8,640.\nFinal Selling Price (SP) = 8640 - 260 = Rs. 8,380.\nProfit = SP - CP = 8380 - 8000 = Rs. 380.\nProfit Percentage = (380 / 8000) * 100 = 4.75%."
+    },
+    {
+      "id": "ibps-po-ai-1785556848224-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A bag contains 6 red, 4 blue, and 5 green balls. Four balls are drawn at random one after another without replacement. What is the probability that at least two red balls are drawn, given that at least one blue ball is drawn?",
+      "options": [
+        "82 / 207",
+        "94 / 207",
+        "106 / 207",
+        "47 / 115"
+      ],
+      "answer": 1,
+      "explanation": "Total balls = 6 + 4 + 5 = 15 balls.\nTotal ways to choose 4 balls out of 15 = C(15, 4) = 1365.\n\nLet Event A = 'At least one blue ball is drawn'.\nComplement of A (no blue ball) = choosing 4 balls from 11 non-blue balls = C(11, 4) = 330.\nSo, Total outcomes in Event A, N(A) = 1365 - 330 = 1035.\n\nLet Event B = 'At least two red balls are drawn'.\nWe need to find the number of outcomes where both A and B occur (R >= 2 and B >= 1):\n1) 2 Red, 1 Blue, 1 Green = C(6,2) * C(4,1) * C(5,1) = 15 * 4 * 5 = 300 ways.\n2) 2 Red, 2 Blue, 0 Green = C(6,2) * C(4,2) * C(5,0) = 15 * 6 * 1 = 90 ways.\n3) 3 Red, 1 Blue, 0 Green = C(6,3) * C(4,1) * C(5,0) = 20 * 4 * 1 = 80 ways.\n\nTotal outcomes where both A and B occur, N(A and B) = 300 + 90 + 80 = 470.\n\nConditional Probability P(B | A) = N(A and B) / N(A) = 470 / 1035 = 94 / 207."
+    },
+    {
+      "id": "ibps-po-ai-1785556862490-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions numbered I and II. Assuming the given statements to be true, choose which of the conclusions logically follow(s).\n\nStatements:\nOnly a few Pens are Pencils.\nAll Pencils are Erasers.\nNo Eraser is a Sharpener.\n\nConclusions:\nI. Some Pens are not Sharpeners.\nII. All Pens can never be Pencils.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 2,
+      "explanation": "From 'Only a few Pens are Pencils', we know that Some Pens are Pencils and Some Pens are not Pencils. Since All Pencils are Erasers, the Pens that are Pencils are also Erasers. Since No Eraser is a Sharpener, those Pens cannot be Sharpeners either, making Conclusion I ('Some Pens are not Sharpeners') true. Also, since 'Only a few Pens are Pencils' means Some Pens are definitely not Pencils, All Pens can never be Pencils, making Conclusion II true. Hence, both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1785556862490-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven friends – A, B, C, D, E, F, and G – are sitting in a single row facing North.\n- F sits third to the right of B.\n- Only two people sit between F and A.\n- D sits to the immediate left of C, and neither D nor C sits at any of the extreme ends.\n- E sits to the left of G, but E does not sit adjacent to B.\n\nWho sits to the immediate right of E?",
+      "options": [
+        "G",
+        "F",
+        "C",
+        "A"
+      ],
+      "answer": 0,
+      "explanation": "Let the positions from left to right be 1 to 7.\n1. F is 3rd to the right of B. Since there are 7 positions, B can be at 1 and F at 4.\n2. Two people sit between F and A, so A must be at position 7.\n3. D sits to the immediate left of C (DC pair), neither at extreme ends (1 or 7). So DC must be at positions 2 and 3.\n4. Positions remaining: 5 and 6. E sits to the left of G, so E is at 5 and G is at 6. Also, E (5) is not adjacent to B (1).\nThe arrangement from left to right is: B (1), D (2), C (3), F (4), E (5), G (6), A (7).\nTherefore, G sits to the immediate right of E."
+    },
+    {
+      "id": "ibps-po-ai-1785556875370-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that best expresses the meaning of the highlighted idiom in the given sentence.\n\n'After months of sluggish sales, the fintech startup finally **turned the corner** with the launch of its new payment gateway.'",
+      "options": [
+        "Encountered an unexpected regulatory setback",
+        "Passed the critical point and began to improve",
+        "Decided to halt all operational activities",
+        "Altered its long-term vision and corporate structure"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'turn the corner' means to pass a critical or dangerous stage and begin to improve or make progress. Thus, option B correctly captures its meaning."
+    },
+    {
+      "id": "ibps-po-ai-1785556875370-1",
+      "section": "English",
+      "topic": "Sentence Starters",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Select the starter(s) from the given options that can be used to combine the two sentences into a single grammatically correct sentence without altering the original meaning.\n\nSentence 1: The central bank raised interest rates aggressively to curb spiraling inflation.\nSentence 2: This monetary tightening led to a temporary slowdown in consumer spending and commercial borrowing.\n\n(I) In an attempt to curb spiraling inflation, the central bank raised interest rates aggressively, thereby leading to...\n(II) Notwithstanding the aggressive interest rate hikes by the central bank to curb spiraling inflation...\n(III) Consequent to the central bank's aggressive interest rate hikes aimed at curbing spiraling inflation...",
+      "options": [
+        "Only (I)",
+        "Only (III)",
+        "Both (I) and (III)",
+        "Both (II) and (III)"
+      ],
+      "answer": 2,
+      "explanation": "Starter (I) correctly maintains the cause-and-effect structure using 'thereby leading to'. Starter (III) also correctly uses 'Consequent to' to show that the slowdown in spending was a direct result of the rate hikes. Starter (II) uses 'Notwithstanding' (meaning despite), which creates a contradiction since the slowdown was a result, not a contrast. Therefore, both (I) and (III) are correct."
+    },
+    {
+      "id": "ibps-po-ai-1785556885284-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021, what is the maximum monetary compensation that the Ombudsman can award for direct consequential loss suffered by a complainant due to an act or omission of a regulated entity?",
+      "options": [
+        "₹10 lakh",
+        "₹20 lakh",
+        "₹30 lakh",
+        "₹50 lakh"
+      ],
+      "answer": 1,
+      "explanation": "Under the RBI Integrated Ombudsman Scheme (RB-IOS), 2021, the Ombudsman can award compensation up to ₹20 lakh for direct consequential loss suffered by the complainant. Additionally, the Ombudsman may award up to ₹1 lakh for loss of time, expenses incurred, and harassment/mental anguish.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785556885284-1",
+      "section": "General Awareness",
+      "topic": "Foreign Exchange & Trade",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's framework on External Commercial Borrowings (ECB), what is the maximum amount per financial year that an eligible Indian entity can raise through Foreign Currency (FCY) denominated ECBs under the 'Automatic Route'?",
+      "options": [
+        "USD 250 million",
+        "USD 500 million",
+        "USD 750 million",
+        "USD 1 billion"
+      ],
+      "answer": 2,
+      "explanation": "According to the RBI's Master Direction on External Commercial Borrowings (ECB), eligible borrowers can raise foreign currency-denominated ECBs up to USD 750 million or its equivalent per financial year under the Automatic Route without requiring prior RBI approval.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -6592,6 +6592,136 @@
       ],
       "answer": 1,
       "explanation": "NABARD was set up on July 12, 1982, on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), which was chaired by B. Sivaraman.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785556732549-0",
+      "section": "Quant",
+      "topic": "Profit, Loss & Discount",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A trader marks an article 40% above its cost price and offers a discount of 15% on the marked price. If he earns a profit of ₹228, what is the cost price of the article?",
+      "options": [
+        "₹1,000",
+        "₹1,200",
+        "₹1,400",
+        "₹1,500"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price (CP) be ₹x.\nMarked Price (MP) = 1.40x\nSelling Price (SP) = MP - Discount = 1.40x × (1 - 0.15) = 1.40x × 0.85 = 1.19x\nProfit = SP - CP = 1.19x - x = 0.19x\nGiven profit = ₹228\n0.19x = 228 => x = 228 / 0.19 = ₹1,200."
+    },
+    {
+      "id": "ibps-clerk-ai-1785556732550-1",
+      "section": "Quant",
+      "topic": "Time, Speed & Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The distance between stations X and Y is 385 km. Train A leaves station X at 8:00 AM towards Y at a speed of 50 km/h. Train B leaves station Y at 9:00 AM towards X at a speed of 70 km/h. At 10:00 AM, Train A suffers a mechanical fault and halts for 30 minutes before resuming its journey at the same speed. At what time will the two trains cross each other?",
+      "options": [
+        "11:30 AM",
+        "12:00 PM",
+        "12:30 PM",
+        "1:00 PM"
+      ],
+      "answer": 1,
+      "explanation": "1. Distance traveled by Train A from 8:00 AM to 10:00 AM (2 hours) = 2 × 50 = 100 km.\n2. Train A halts from 10:00 AM to 10:30 AM.\n3. Train B runs continuously from 9:00 AM to 10:30 AM (1.5 hours), distance covered = 1.5 × 70 = 105 km.\n4. Total distance covered by both up to 10:30 AM = 100 + 105 = 205 km.\n5. Remaining distance at 10:30 AM = 385 - 205 = 180 km.\n6. Relative speed from 10:30 AM onwards = 50 + 70 = 120 km/h.\n7. Time taken to meet = 180 / 120 = 1.5 hours (1 hour 30 mins).\n8. Crossing time = 10:30 AM + 1 hour 30 mins = 12:00 PM."
+    },
+    {
+      "id": "ibps-clerk-ai-1785556749584-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person starts walking from Point A towards the South. After walking 15 meters, he turns right and walks 10 meters. He then turns left and walks 5 meters. Finally, he turns left and walks 10 meters to reach Point B. How far and in which direction is Point B with respect to Point A?",
+      "options": [
+        "20 meters, South",
+        "20 meters, North",
+        "15 meters, South",
+        "25 meters, South"
+      ],
+      "answer": 0,
+      "explanation": "Starting from A(0,0): 1) Walks 15m South to (0, -15). 2) Turns right (West) and walks 10m to (-10, -15). 3) Turns left (South) and walks 5m to (-10, -20). 4) Turns left (East) and walks 10m to (0, -20) to reach Point B. The distance between A(0,0) and B(0,-20) is 20 meters, and Point B is to the South of Point A."
+    },
+    {
+      "id": "ibps-clerk-ai-1785556749584-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six friends – A, B, C, D, E, and F – are sitting in a straight line facing North. A sits at one of the extreme ends of the line. C sits second to the right of A. Only two persons sit between C and F. E sits to the immediate left of B. If D does not sit at any of the extreme ends, who sits at the extreme right end of the line?",
+      "options": [
+        "F",
+        "B",
+        "E",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "Positioning from left to right (1 to 6): Since A is at an extreme end and C is second to the right of A, A must be at position 1 and C at position 3. Two persons sit between C and F, so F must be at position 6. E sits to the immediate left of B, occupying positions 4 and 5. The remaining position 2 is occupied by D. The arrangement from left to right is A - D - C - E - B - F. Hence, F sits at the extreme right end."
+    },
+    {
+      "id": "ibps-clerk-ai-1785556760773-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence given below to find out whether there is any grammatical error in it. Select the option that contains the part with the error.\n\nSentence: Neither the manager nor the employees was aware of the sudden changes made to the safety guidelines.",
+      "options": [
+        "Neither the manager",
+        "nor the employees was aware",
+        "of the sudden changes made",
+        "to the safety guidelines"
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree in number with the subject closest to it (the rule of proximity). Since 'employees' is plural, the plural verb 'were' should be used instead of 'was'. The correct phrase should be 'nor the employees were aware'."
+    },
+    {
+      "id": "ibps-clerk-ai-1785556760773-1",
+      "section": "English",
+      "topic": "Sentence Starters",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the starter(s) from the given options that can be used to join the two sentences into a single grammatically correct sentence without changing the original meaning.\n\nStatement 1: The government introduced strict measures to curb inflation.\nStatement 2: Prices of essential commodities continued to rise rapidly.\n\nI. Despite the government introducing...\nII. Even though the government introduced...\nIII. Owing to the strict measures introduced...",
+      "options": [
+        "Only I",
+        "Only III",
+        "Both I and II",
+        "Both II and III"
+      ],
+      "answer": 2,
+      "explanation": "Statements 1 and 2 express a contrasting relationship (action taken vs. opposite/unexpected outcome). Starters I ('Despite...') and II ('Even though...') correctly denote concession and contrast. Starter III ('Owing to...') indicates a cause-and-effect relationship, which is contextually incorrect here."
+    },
+    {
+      "id": "ibps-clerk-ai-1785556772546-0",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending Guidelines",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, what percentage of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, is mandated as the overall target for Priority Sector Lending (PSL) in case of Small Finance Banks?",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "75%"
+      ],
+      "answer": 3,
+      "explanation": "Small Finance Banks (SFBs) are mandated to allocate 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, to Priority Sector Lending. Domestic scheduled commercial banks (excluding RRBs and SFBs) have a target of 40%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785556772546-1",
+      "section": "General Awareness",
+      "topic": "Banking and Financial Terms",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Legal Entity Identifier (LEI) is a global reference code mandated by the Reserve Bank of India for financial transactions exceeding specified thresholds. How many alphanumeric characters does an LEI code consist of?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "The Legal Entity Identifier (LEI) is a 20-character alpha-numeric code based on the ISO 17442 standard. It is used to uniquely identify legal entities participating in financial transactions globally.",
       "status": "pending"
     }
   ]
