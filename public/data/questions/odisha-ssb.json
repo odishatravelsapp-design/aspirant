@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -9669,6 +9669,234 @@
             "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
           ],
           "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ବଂଶର ପ୍ରତିଷ୍ଠାତା କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୪-୧୪୬୭ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ବଙ୍ଗଳାରୁ ଦକ୍ଷିଣ ଭାରତ ପର୍ଯ୍ୟନ୍ତ ନିଜ ସାମ୍ରାଜ୍ୟ ବିସ୍ତାର କରିବା ପରେ 'ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଲବର୍ଗେଶ୍ୱର' ଉପାଧି ଧାରଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643569219-0",
+      "section": "Subject Knowledge",
+      "topic": "Geoffrey Chaucer's Canterbury Tales",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Geoffrey Chaucer's 'The General Prologue' to The Canterbury Tales, which character is described as an epicurean who loved a 'sopp in wyn' for breakfast and possessed a sanguine temperament?",
+      "options": [
+        "The Franklin",
+        "The Reeve",
+        "The Miller",
+        "The Merchant"
+      ],
+      "answer": 0,
+      "explanation": "Chaucer describes the Franklin as a cheerful, hospitable landowner of sanguine temperament ('sangwyn was his hewe') who loved to soak bread in wine for breakfast ('Wel loved he by the morwe a sopp in wyn').",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେଫ୍ରି ଚସର୍‌ଙ୍କ 'ଦି କ୍ୟାଣ୍ଟରବରୀ ଟେଲ୍ସ'ର 'ଦି ଜେନେରାଲ୍ ପ୍ରୋଲୋଗ୍'ରେ, କେଉଁ ଚରିତ୍ରଙ୍କୁ ଜଣେ ଆନନ୍ଦପ୍ରିୟ ବ୍ୟକ୍ତି, ଯିଏ ଜଳଖିଆରେ 'ସପ୍ ଇନ୍ ୱାଇନ୍' (ମଦରେ ଓଦା ରୁଟି) ପସନ୍ଦ କରୁଥିଲେ ଏବଂ ତାଙ୍କର ଉତ୍ସାହୀ (ସାଙ୍ଗୁଇନ୍) ସ୍ୱଭାବ ଥିଲା, ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି?",
+          "options": [
+            "ଦି ଫ୍ରାଙ୍କଲିନ୍ (The Franklin)",
+            "ଦି ରିଭ୍ (The Reeve)",
+            "ଦି ମିଲର (The Miller)",
+            "ଦି ମର୍ଚାଣ୍ଟ (The Merchant)"
+          ],
+          "explanation": "ଚସର୍ ଫ୍ରାଙ୍କଲିନ୍‌ଙ୍କୁ ଜଣେ ଆନନ୍ଦଦାୟକ, ଅତିଥିପରାୟଣ ଜମିଦାର ଭାବରେ ବର୍ଣ୍ଣନା କରିଛନ୍ତି, ଯାହାଙ୍କର ସ୍ୱଭାବ ଉତ୍ସାହୀ ଥିଲା ଏବଂ ସେ ସକାଳେ ମଦରେ ରୁଟି ବୁଡ଼ାଇ ଖାଇବାକୁ ଭଲ ପାଉଥିଲେ ('Wel loved he by the morwe a sopp in wyn')।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643569219-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory & Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Wolfgang Iser's reader-response theory, which term describes the unwritten element or missing connection in a literary text that prompts the reader's active participation to construct meaning?",
+      "options": [
+        "Horizon of expectations",
+        "Blanks or Gaps",
+        "Interpretive community",
+        "Affective fallacy"
+      ],
+      "answer": 1,
+      "explanation": "Wolfgang Iser's concept of 'blanks' or 'gaps' (German: Leerstellen) refers to the implicit, unwritten elements in a text that require the reader to actively engage, interpret, and connect narrative segments to construct meaning. 'Horizon of expectations' was formulated by Hans Robert Jauss, 'Interpretive community' by Stanley Fish, and 'Affective fallacy' by Wimsatt and Beardsley.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱୁଲ୍‌ଫଗ୍ୟାଙ୍ଗ୍ ଇସର୍‌ଙ୍କ ପାଠକ-ପ୍ରତିକ୍ରିୟା ତତ୍ତ୍ୱ (reader-response theory) ରେ, ସାହିତ୍ୟିକ ପାଠ୍ୟରେ ଥିବା କେଉଁ ଅଲିଖିତ ଉପାଦାନ କିମ୍ବା ହଜିଯାଇଥିବା ସଂଯୋଗକୁ ବୁଝାଇବା ପାଇଁ କେଉଁ ଶବ୍ଦ ବ୍ୟବହୃତ ହୁଏ, ଯାହା ପାଠକଙ୍କୁ ଅର୍ଥ ଗଠନ କରିବା ପାଇଁ ସକ୍ରିୟ ଭାବରେ ଭାଗ ନେବାକୁ ପ୍ରେରିତ କରେ?",
+          "options": [
+            "ହରାଇଜନ୍ ଅଫ୍ ଏକ୍ସପେକ୍ଟେସନ୍ସ (Horizon of expectations)",
+            "ବ୍ଲାଙ୍କ୍ସ କିମ୍ବା ଗ୍ୟାପ୍ସ (Blanks or Gaps)",
+            "ଇଣ୍ଟରପ୍ରିଟିଭ୍ କମ୍ୟୁନିଟି (Interpretive community)",
+            "ଏଫେକ୍ଟିଭ୍ ଫାଲାସି (Affective fallacy)"
+          ],
+          "explanation": "ୱୁଲ୍‌ଫଗ୍ୟାଙ୍ଗ୍ ଇସର୍‌ଙ୍କ 'ବ୍ଲାଙ୍କ୍ସ' କିମ୍ବା 'ଗ୍ୟାପ୍ସ' (ଜର୍ମାନ: Leerstellen) ଧାରଣା ପାଠ୍ୟର ଅନ୍ତର୍ନିହିତ, ଅଲିଖିତ ଉପାଦାନଗୁଡ଼ିକୁ ସୂଚିତ କରେ ଯାହା ପାଠକଙ୍କୁ ଅର୍ଥ ଗଠନ କରିବା ପାଇଁ କାହାଣୀର ଅଂଶଗୁଡ଼ିକୁ ଯୋଡ଼ିବାକୁ ପ୍ରୋତ୍ସାହିତ କରେ। 'ହରାଇଜନ୍ ଅଫ୍ ଏକ୍ସପେକ୍ଟେସନ୍ସ' ହାନ୍ସ ରୋବର୍ଟ ଜସ୍, 'ଇଣ୍ଟରପ୍ରିଟିଭ୍ କମ୍ୟୁନିଟି' ଷ୍ଟାନ୍‌ଲି ଫିସ୍, ଏବଂ 'ଏଫେକ୍ଟିଭ୍ ଫାଲାସି' ୱିମସାଟ୍ ଓ ବାର୍ଡସଲିଙ୍କ ଦ୍ୱାରା ପ୍ରଦତ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643577261-0",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment and Evaluation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which type of assessment is explicitly designed to measure a student's performance against a predetermined standard or learning objective, rather than comparing them with their peers?",
+      "options": [
+        "Norm-Referenced Assessment",
+        "Criterion-Referenced Assessment",
+        "Ipsative Assessment",
+        "Diagnostic Assessment"
+      ],
+      "answer": 1,
+      "explanation": "Criterion-referenced assessment measures a student's performance against a fixed set of predetermined criteria or learning standards, without comparing them to other students.",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ ସହପାଠୀମାନଙ୍କ ସହିତ ତୁଳନା କରିବା ପରିବର୍ତ୍ତେ ଏକ ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ ମାନଦଣ୍ଡ କିମ୍ବା ଶିକ୍ଷଣ ଉଦ୍ଦେଶ୍ୟ ଆଧାରରେ ଜଣେ ଛାତ୍ରର ପ୍ରଦର୍ଶନକୁ ମାପିବା ପାଇଁ ସ୍ପଷ୍ଟ ଭାବରେ ପ୍ରସ୍ତୁତ କରାଯାଇଥାଏ?",
+          "options": [
+            "ନର୍ମ-ରେଫରେନ୍ସଡ୍ ମୂଲ୍ୟାଙ୍କନ (Norm-Referenced Assessment)",
+            "କ୍ରାଇଟେରିୟନ୍-ରେଫରେନ୍ସଡ୍ ମୂଲ୍ୟାଙ୍କନ (Criterion-Referenced Assessment)",
+            "ଇପସେଟିଭ୍ ମୂଲ୍ୟାଙ୍କନ (Ipsative Assessment)",
+            "ନିଦାନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Diagnostic Assessment)"
+          ],
+          "explanation": "କ୍ରାଇଟେରିୟନ୍-ରେଫରେନ୍ସଡ୍ ମୂଲ୍ୟାଙ୍କନ ଅନ୍ୟ ଛାତ୍ରମାନଙ୍କ ସହିତ ତୁଳନା ନକରି, ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ ମାନଦଣ୍ଡ କିମ୍ବା ଶିକ୍ଷଣ ଲକ୍ଷ୍ୟ ଆଧାରରେ ଜଣେ ଛାତ୍ରର ପ୍ରଦର୍ଶନକୁ ମାପିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643577261-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who developed the 'Inquiry Training Model' of teaching, which aims to help students process information logically, analyze cause-and-effect relationships, and build scientific inquiry skills?",
+      "options": [
+        "Richard Suchman",
+        "Hilda Taba",
+        "Jerome Bruner",
+        "David Ausubel"
+      ],
+      "answer": 0,
+      "explanation": "Richard Suchman developed the Inquiry Training Model to train students in independent inquiry, hypothesis testing, and logical analysis of cause-and-effect relationships.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଦାନର 'ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମଡେଲ' (Inquiry Training Model) କିଏ ବିକଶିତ କରିଥିଲେ, ଯାହାର ଉଦ୍ଦେଶ୍ୟ ହେଉଛି ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ଯୁକ୍ତିଯୁକ୍ତ ଭାବରେ ତଥ୍ୟ ପ୍ରକ୍ରିୟାକରଣ କରିବାରେ, କାରଣ-ଏବଂ-ପ୍ରଭାବ ସମ୍ପର୍କ ବିଶ୍ଳେଷଣ କରିବାରେ ଏବଂ ବୈଜ୍ଞାନିକ ଅନୁସନ୍ଧାନ ଦକ୍ଷତା ନିର୍ମାଣ କରିବାରେ ସାହାଯ୍ୟ କରିବା?",
+          "options": [
+            "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ (Richard Suchman)",
+            "ହିଲ୍ଡା ଟାବା (Hilda Taba)",
+            "ଜେରୋମ୍ ବ୍ରୁନର୍ (Jerome Bruner)",
+            "ଡେଭିଡ୍ ଆସୁବେଲ୍ (David Ausubel)"
+          ],
+          "explanation": "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ସ୍ବାଧୀନ ଅନୁସନ୍ଧାନ, ପ୍ରକଳ୍ପ ପରୀକ୍ଷଣ ଏବଂ କାରଣ-ଏବଂ-ପ୍ରଭାବ ସମ୍ପର୍କର ଯୁକ୍ତିଯୁକ୍ତ ବିଶ୍ଳେଷଣରେ ପ୍ରଶିକ୍ଷିତ କରିବା ପାଇଁ ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମଡେଲ ବିକଶିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643597508-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography & Wildlife",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which wildlife sanctuary in Odisha was officially declared the state's first marine sanctuary in September 1997 to protect the endangered Olive Ridley sea turtles?",
+      "options": [
+        "Gahirmatha Marine Sanctuary",
+        "Astaranga Marine Sanctuary",
+        "Satkosia Gorge Sanctuary",
+        "Chandipur Marine Sanctuary"
+      ],
+      "answer": 0,
+      "explanation": "Gahirmatha Marine Sanctuary was officially notified in September 1997 as the first and only marine sanctuary of Odisha. It extends from Dhamra River mouth in the north to Mahanadi River mouth in the south and is world-famous as the largest mass-nesting site (Arribada) for Olive Ridley sea turtles.",
+      "translations": {
+        "or": {
+          "question": "ବିପନ୍ନ ଅଲିଭ୍ ରିଡଲେ ସମୁଦ୍ର କାଛୁମାନଙ୍କ ସୁରକ୍ଷା ପାଇଁ 1997 ସେପ୍ଟେମ୍ବରରେ ଓଡ଼ିଶାର କେଉଁ ବନ୍ୟପ୍ରାଣୀ ଅଭୟାରଣ୍ୟକୁ ରାଜ୍ୟର ପ୍ରଥମ ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଭାବରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ଘୋଷଣା କରାଯାଇଥିଲା?",
+          "options": [
+            "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ",
+            "ଅସ୍ତରଙ୍ଗ ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ",
+            "ସାତକୋଶିଆ ଗଣ୍ଡ ଅଭୟାରଣ୍ୟ",
+            "ଚାନ୍ଦିପୁର ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "1997 ସେପ୍ଟେମ୍ବରରେ ଗହିରମଥାକୁ ଓଡ଼ିଶାର ପ୍ରଥମ ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଭାବରେ ଘୋଷିତ କରାଯାଇଥିଲା। ଏହା ଉତ୍ତରରେ ଧାମରା ନଦୀ ମୁହାଣରୁ ଦକ୍ଷିଣରେ ମହାନଦୀ ମୁହାଣ ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତୃତ ଏବଂ ଅଲିଭ୍ ରିଡଲେ କାଛୁଙ୍କ ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ସମୂହ ଅଣ୍ଡାଦାନ ସ୍ଥଳ (ଆରିବାଡା) ଭାବରେ ପ୍ରସିଦ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643597508-1",
+      "section": "General Studies",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The famous Neulpur copperplate inscription, which serves as a major source of information about the Bhauma-Kara dynasty of Odisha, was issued by which of the following rulers?",
+      "options": [
+        "Subhakaradeva I",
+        "Khemankaradeva",
+        "Sivakaradeva I",
+        "Dandi Mahadevi"
+      ],
+      "answer": 0,
+      "explanation": "The Neulpur copperplate charter was issued by the Bhauma-Kara ruler King Subhakaradeva I in his 8th regnal year. Discovered in Jajpur district, it records the grant of two villages in Northern Tosali to 200 Brahmins and reveals that Subhakaradeva I was a devout Buddhist (Paramasaugata) who also patronized Brahmanism.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଭୌମକର ବଂଶ ବିଷୟରେ ଜାଣିବାର ଏକ ମୁଖ୍ୟ ଐତିହାସିକ ଉତ୍ସ ଭାବରେ ବିବେଚିତ ପ୍ରସିଦ୍ଧ 'ନେଉଳପୁର ତାମ୍ରଫଳକ ଅଭିଲେଖ' ନିମ୍ନଲିଖିତ କେଉଁ ଶାସକଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା?",
+          "options": [
+            "ଶୁଭକରଦେବ ପ୍ରଥମ",
+            "କ୍ଷେମଙ୍କରଦେବ",
+            "ଶିବକରଦେବ ପ୍ରଥମ",
+            "ଦଣ୍ଡୀ ମହାଦେବୀ"
+          ],
+          "explanation": "ନେଉଳପୁର ତାମ୍ରଫଳକ ଅଭିଲେଖ ଭୌମକର ରାଜା ଶୁଭକରଦେବ ପ୍ରଥମଙ୍କ ଦ୍ୱାରା ତାଙ୍କ ଶାସନର ୮ମ ବର୍ଷରେ ଜାରି କରାଯାଇଥିଲା। ଯାଜପୁର ଜିଲ୍ଲାରୁ ମିଳିଥିବା ଏହି ଅଭିଲେଖରୁ ଜଣାପଡ଼େ ଯେ ସେ ଜଣେ ପରମସୌଗତ (ବୌଦ୍ଧଧର୍ମାବଲମ୍ବୀ) ଥିଲେ ମଧ୍ୟ ବ୍ରାହ୍ମଣଧର୍ମକୁ ପୃଷ୍ଠପୋଷକତା ପ୍ରଦାନ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643607776-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was sworn in as the first Governor of Odisha when it became a separate province on 1st April 1936?",
+      "options": [
+        "Sir John Austen Hubback",
+        "Sir George Townsend Boag",
+        "Sir Howarth Lewis",
+        "Sir Chandulal Madhavlal Trivedi"
+      ],
+      "answer": 0,
+      "explanation": "Sir John Austen Hubback served as the first Governor of the Orissa Province after it was carved out as a separate linguistic province on April 1, 1936. His tenure lasted from April 1936 to March 1941.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହା ଅପ୍ରେଲ ୧ ତାରିଖରେ ଓଡ଼ିଶା ଏକ ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଭାବରେ ଗଠିତ ହେବା ସମୟରେ ଓଡ଼ିଶାର ପ୍ରଥମ ରାଜ୍ୟପାଳ (ଗଭର୍ଣ୍ଣର) ଭାବରେ କିଏ ଶପଥ ଗ୍ରହଣ କରିଥିଲେ?",
+          "options": [
+            "ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍",
+            "ସାର୍ ଜର୍ଜ ଟାଉନସେଣ୍ଡ ବୋଆଗ୍",
+            "ସାର୍ ହାୱାର୍ଥ ଲୁଇସ୍",
+            "ସାର୍ ଚନ୍ଦୁଲାଲ ମାଧବଲାଲ ତ୍ରିବେଦୀ"
+          ],
+          "explanation": "୧୯୩୬ ମସିହା ଅପ୍ରେଲ ୧ ରେ ଓଡ଼ିଶା ଏକ ସ୍ୱତନ୍ତ୍ର ଭାଷାଭିତ୍ତିକ ପ୍ରଦେଶ ଭାବରେ ଗଠିତ ହେବା ପରେ ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବାକ୍ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ରାଜ୍ୟପାଳ ଭାବରେ କାର୍ଯ୍ୟଭାର ଗ୍ରହଣ କରିଥିଲେ। ତାଙ୍କର କାର୍ଯ୍ୟକାଳ ଅପ୍ରେଲ ୧୯୩୬ ରୁ ମାର୍ଚ୍ଚ ୧୯୪୧ ପର୍ଯ୍ୟନ୍ତ ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785643607776-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Temple Architecture",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A fully developed Kalinga style temple in Odisha typically comprises four major architectural components. Which of the following represents the correct order of these structures from the front entrance leading towards the innermost sanctum (Garbhagriha)?",
+      "options": [
+        "Bhoga Mandapa -> Nata Mandapa -> Jagamohana -> Vimana",
+        "Vimana -> Jagamohana -> Nata Mandapa -> Bhoga Mandapa",
+        "Jagamohana -> Bhoga Mandapa -> Nata Mandapa -> Vimana",
+        "Nata Mandapa -> Bhoga Mandapa -> Jagamohana -> Vimana"
+      ],
+      "answer": 0,
+      "explanation": "In a fully developed Kalinga style temple structure (such as the Jagannath Temple in Puri or Lingaraj Temple in Bhubaneswar), the alignment along the longitudinal axis from the exterior entrance to the interior sanctum is: Bhoga Mandapa (Hall of Offering) -> Nata Mandapa (Dance Hall) -> Jagamohana (Assembly Hall) -> Vimana / Deula (Sanctum Sanctorum containing the deity).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଏକ ପୂର୍ଣ୍ଣାଙ୍ଗ କଳିଙ୍ଗ ଶୈଳୀର ମନ୍ଦିରରେ ସାଧାରଣତଃ ଚାରୋଟି ମୁଖ୍ୟ ସ୍ଥାପତ୍ୟ ଅଙ୍ଗ ଥାଏ। ସମ୍ମୁଖ ପ୍ରବେଶ ଦ୍ୱାରରୁ ମୁଖ୍ୟ ଗର୍ଭଗୃହ ଆଡ଼କୁ ଏହି ସଂରଚନାଗୁଡ଼ିକର ସଠିକ୍ ଅନୁକ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି?",
+          "options": [
+            "ଭୋଗ ମଣ୍ଡପ -> ନାଟ ମଣ୍ଡପ -> ଜଗମୋହନ -> ବିମାନ",
+            "ବିମାନ -> ଜଗମୋହନ -> ନାଟ ମଣ୍ଡପ -> ଭୋଗ ମଣ୍ଡପ",
+            "ଜଗମୋହନ -> ଭୋଗ ମଣ୍ଡପ -> ନାଟ ମଣ୍ଡପ -> ବିମାନ",
+            "ନାଟ ମଣ୍ଡପ -> ଭୋଗ ମଣ୍ଡପ -> ଜଗମୋହନ -> ବିମାନ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର ପୂର୍ଣ୍ଣାଙ୍ଗ କଳିଙ୍ଗ ସ୍ଥାପତ୍ୟ ଶୈଳୀରେ (ଯେପରିକି ପୁରୀର ଶ୍ରୀଜଗନ୍ନାଥ ମନ୍ଦିର କିମ୍ବା ଭୁବନେଶ୍ୱରର ଲିଙ୍ଗରାଜ ମନ୍ଦିର) ବାହ୍ୟ ପ୍ରବେଶ ଦ୍ୱାରରୁ ମୁଖ୍ୟ ଗର୍ଭଗୃହ ଆଡ଼କୁ କ୍ରମାନ୍ୱୟରେ ଏହି ଚାରୋଟି ସଂରଚନା ରହିଥାଏ: ଭୋଗ ମଣ୍ଡପ -> ନାଟ ମଣ୍ଡପ -> ଜଗମୋହନ -> ବିମାନ (ଗର୍ଭଗୃହ)।"
         }
       }
     }

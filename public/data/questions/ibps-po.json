@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6264,6 +6264,136 @@
       ],
       "answer": 2,
       "explanation": "According to the RBI's Master Direction on External Commercial Borrowings (ECB), eligible borrowers can raise foreign currency-denominated ECBs up to USD 750 million or its equivalent per financial year under the Automatic Route without requiring prior RBI approval.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785643460497-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A shopkeeper bought an article for Rs. 1,200. He marked up the price by 40% above the cost price and then sold it after offering two successive discounts of 10% and 15%. What is the overall profit percentage earned by the shopkeeper?",
+      "options": [
+        "7.1%",
+        "6.5%",
+        "8.2%",
+        "5.4%"
+      ],
+      "answer": 0,
+      "explanation": "Cost Price (CP) = Rs. 1200.\nMarked Price (MP) = 1200 × 1.40 = Rs. 1680.\nPrice after 1st discount of 10% = 1680 × 0.90 = Rs. 1512.\nSelling Price (SP) after 2nd discount of 15% = 1512 × 0.85 = Rs. 1285.20.\nProfit = SP - CP = 1285.20 - 1200 = Rs. 85.20.\nProfit Percentage = (85.20 / 1200) × 100 = 7.1%."
+    },
+    {
+      "id": "ibps-po-ai-1785643460497-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Pipes A and B together can fill a tank in 12 hours. If Pipe A is opened for 4 hours and then closed, Pipe B takes 16 hours to fill the remaining part of the tank. A leak at the bottom can empty the full tank in 60 hours. If Pipe A operates at 50% increased efficiency, Pipe B operates at 25% reduced efficiency, and the leak is also open, how long will it take to fill the empty tank completely?",
+      "options": [
+        "12 hours",
+        "15 hours",
+        "18 hours",
+        "20 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let filling rates per hour of A and B be 'a' and 'b' respectively.\na + b = 1/12 ... (i)\n4a + 16b = 1 ... (ii)\nMultiplying (i) by 4 gives 4a + 4b = 1/3.\nSubtracting from (ii): 12b = 1 - 1/3 = 2/3 ⇒ b = 1/18 tank/hr.\nThen a = 1/12 - 1/18 = 1/36 tank/hr.\n\nNew rate of A = (1/36) × 1.5 = 1/24 tank/hr.\nNew rate of B = (1/18) × 0.75 = 1/24 tank/hr.\nLeak rate = 1/60 tank/hr.\n\nNet filling rate = 1/24 + 1/24 - 1/60 = 1/12 - 1/60 = 4/60 = 1/15 tank/hr.\nTotal time taken to fill the tank = 15 hours."
+    },
+    {
+      "id": "ibps-po-ai-1785643473866-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions numbered I and II. Assuming the statements to be true, decide which of the conclusions logically follow(s).\n\nStatements:\nOnly a few Books are Pens.\nAll Pens are Erasers.\nNo Eraser is a Pencil.\n\nConclusions:\nI. Some Books are not Pens.\nII. No Pen is a Pencil.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "The statement 'Only a few Books are Pens' means 'Some Books are Pens' and 'Some Books are not Pens'. Therefore, Conclusion I logically follows. Since 'All Pens are Erasers' and 'No Eraser is a Pencil', there is no overlap possible between Pens and Pencils. Thus, 'No Pen is a Pencil' (Conclusion II) also logically follows."
+    },
+    {
+      "id": "ibps-po-ai-1785643473866-1",
+      "section": "Reasoning",
+      "topic": "Floor and Flat Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A 4-storey building has four floors numbered 1 to 4 from bottom to top. Each floor has two flats: Flat A and Flat B. Flat A is to the west of Flat B.\nEight persons — A, B, C, D, E, F, G, and H — live in these flats, one in each flat, but not necessarily in the same order.\n\nClues:\n1. A lives on Floor 3 in Flat B.\n2. B lives on Floor 2 in Flat A.\n3. C lives to the west of D on the topmost floor.\n4. E lives immediately above F in the same flat type.\n5. G lives on a floor above H in the same flat type.\n\nWho among the following lives in Flat A on Floor 3?",
+      "options": [
+        "G",
+        "H",
+        "C",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "From the clues:\n- Topmost floor (Floor 4): C is to the west of D, so Floor 4 Flat A = C, Floor 4 Flat B = D.\n- Floor 3 Flat B = A.\n- Floor 2 Flat A = B.\n- E is immediately above F in the same flat type. Since 2A is B and 4B is D, the only available vertically adjacent spots in the same flat are Floor 2 Flat B (E) and Floor 1 Flat B (F).\n- G lives above H in the same flat type. The remaining empty spots are Floor 3 Flat A and Floor 1 Flat A. Thus, G lives on Floor 3 Flat A, and H lives on Floor 1 Flat A.\nTherefore, G lives in Flat A on Floor 3."
+    },
+    {
+      "id": "ibps-po-ai-1785643483952-0",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, a word is given in bold followed by three sentences. Choose the option that indicates the sentence(s) in which the word has been used correctly.\n\nLUCID\n1. She gave a clear and lucid explanation of the complex financial policy.\n2. After waking up from the surgery, his mind was lucid enough to recognize his family.\n3. The basement was dark and lucid, making it nearly impossible to see anything.",
+      "options": [
+        "Only 1",
+        "Only 1 and 2",
+        "Only 2 and 3",
+        "All 1, 2, and 3"
+      ],
+      "answer": 1,
+      "explanation": "'Lucid' means expressed clearly or easy to understand, and also mentally sound or rational. Thus, sentences 1 and 2 use 'lucid' correctly. Sentence 3 misuses 'lucid' as a synonym for dim or gloomy, which is incorrect."
+    },
+    {
+      "id": "ibps-po-ai-1785643483952-1",
+      "section": "English",
+      "topic": "Sentence Correction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the sentence among the given options that is grammatically correct and contextually meaningful.",
+      "options": [
+        "Hardly had the speaker stepped onto the stage than the audience broke into thunderous applause.",
+        "Neither the manager nor the employees was aware of the sudden change in company policy.",
+        "The committee has decided to postpone the meeting until further notice due to a lack of quorum.",
+        "One of the major issue raised during the conference was the lack of sustainable funding."
+      ],
+      "answer": 2,
+      "explanation": "Option C is grammatically correct. In Option A, 'Hardly' should be followed by 'when', not 'than'. In Option B, 'Neither... nor' requires the verb to agree with the nearest subject ('employees'), so it should be 'were' instead of 'was'. In Option D, 'One of the' must be followed by a plural noun ('issues')."
+    },
+    {
+      "id": "ibps-po-ai-1785643494950-0",
+      "section": "General Awareness",
+      "topic": "Financial Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, what is the minimum paid-up equity capital required for an entity setting up and operating a Trade Receivables Discounting System (TReDS) platform?",
+      "options": [
+        "₹10 crore",
+        "₹25 crore",
+        "₹50 crore",
+        "₹100 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines for setting up and operating the Trade Receivables Discounting System (TReDS), the minimum paid-up equity capital required for an applicant entity is ₹25 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785643494950-1",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The National Bank for Agriculture and Rural Development (NABARD) was established in July 1982 based on the recommendations of which committee?",
+      "options": [
+        "Narasimham Committee",
+        "B. Sivaraman Committee",
+        "Tarapore Committee",
+        "Y. V. Reddy Committee"
+      ],
+      "answer": 1,
+      "explanation": "NABARD was established on July 12, 1982, based on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), chaired by B. Sivaraman.",
       "status": "pending"
     }
   ]

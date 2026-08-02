@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -6872,6 +6872,176 @@
             "ଜେଲେପ୍ ଲା ପାସ୍ (Jelep La Pass)"
           ],
           "explanation": "ଦିଫୁ ପାସ୍ (Diphu Pass) ଅରୁଣାଚଳ ପ୍ରଦେଶର ପୂର୍ବ ଭାଗରେ ଭାରତ, ଚୀନ୍ ଏବଂ ମ୍ୟାଁମାର ସୀମାର ତ୍ରି-ସଙ୍ଗମ ଅଞ୍ଚଳରେ ଅବସ୍ଥିତ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ କୌଶଳଗତ ଗିରିପଥ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785643692730-0",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Interaction Analysis",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Category System (FIACS) used for observing classroom climate, how many categories out of the total ten categories are specifically classified under 'Teacher Talk'?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "Flanders' Interaction Analysis Category System (FIACS) consists of 10 categories: 7 categories dedicated to Teacher Talk (Categories 1–4 for Indirect Influence and Categories 5–7 for Direct Influence), 2 categories for Student Talk (Categories 8–9), and 1 category for Silence or Confusion (Category 10).",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହ ପରିବେଶ ଅନୁଧ୍ୟାନ ପାଇଁ ବ୍ୟବହୃତ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, ମୋଟ ୧୦ଟି ବର୍ଗ ମଧ୍ୟରୁ କେତୋଟି ବର୍ଗ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (Teacher Talk) ଅନ୍ତର୍ଗତ?",
+          "options": [
+            "୫",
+            "୬",
+            "୭",
+            "୮"
+          ],
+          "explanation": "FIACS ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ରହିଛି: ଯେଉଁଥିରୁ ୭ଟି ବର୍ଗ ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା (୧ ରୁ ୪ ଅପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ ଏବଂ ୫ ରୁ ୭ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ), ୨ଟି ବର୍ଗ ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା (୮-୯) ଏବଂ ୧ଟି ବର୍ଗ ନୀରବତା କିମ୍ବା ଦ୍ୱନ୍ଦ୍ୱ (୧୦) ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785643692730-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Evaluation Models",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Daniel Stufflebeam's CIPP Evaluation Model, which specific evaluation component focuses primarily on monitoring, documenting, and assessing the implementation of a program to identify operational defects and guide execution?",
+      "options": [
+        "Context Evaluation",
+        "Input Evaluation",
+        "Process Evaluation",
+        "Product Evaluation"
+      ],
+      "answer": 2,
+      "explanation": "In Stufflebeam's CIPP (Context, Input, Process, Product) model, Process Evaluation checks the continuous implementation of the plan, provides feedback about the execution of activities, documents procedural defects, and guides ongoing operations.",
+      "translations": {
+        "or": {
+          "question": "ଡାନିଏଲ୍ ଷ୍ଟଫଲବିମ୍‌ଙ୍କ CIPP ମୂଲ୍ୟାଙ୍କନ ମଡେଲରେ, କାର୍ଯ୍ୟାନ୍ୱୟନରେ ଥିବା ତ୍ରୁଟି ଚିହ୍ନଟ କରିବା ଏବଂ କାର୍ଯ୍ୟକାରିତାକୁ ମାର୍ଗଦର୍ଶନ କରିବା ପାଇଁ ଚାଲୁଥିବା କାର୍ଯ୍ୟକ୍ରମର ଅନୁଧ୍ୟାନ, ନଥିକରଣ ଓ ଆକଳନ କରୁଥିବା ମୂଲ୍ୟାଙ୍କନ ଉପାଦାନଟି କ'ଣ?",
+          "options": [
+            "ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାଙ୍କନ (Context Evaluation)",
+            "ଇନପୁଟ୍ ମୂଲ୍ୟାଙ୍କନ (Input Evaluation)",
+            "ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାଙ୍କନ (Process Evaluation)",
+            "ଉତ୍ପାଦ ମୂଲ୍ୟାଙ୍କନ (Product Evaluation)"
+          ],
+          "explanation": "ଷ୍ଟଫଲବିମ୍‌ଙ୍କ CIPP ମଡେଲରେ, 'ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାଙ୍କନ' (Process Evaluation) ଚାଲୁଥିବା କାର୍ଯ୍ୟକ୍ରମର କାର୍ଯ୍ୟାନ୍ୱୟନକୁ ଅନୁଧ୍ୟାନ ଓ ନଥିକରଣ କରେ, ଯାହା ଦ୍ୱାରା ପ୍ରକ୍ରିୟାଗତ ତ୍ରୁଟିଗୁଡ଼ିକୁ ଚିହ୍ନଟ କରି ସୁଧାରାଯାଇପାରିବ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785643750911-0",
+      "section": "Subject Knowledge",
+      "topic": "Organic Chemistry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the primary product formed when phenol is treated with chloroform and aqueous sodium hydroxide, followed by acidification?",
+      "options": [
+        "Salicylic acid",
+        "Salicylaldehyde",
+        "Benzaldehyde",
+        "Benzoic acid"
+      ],
+      "answer": 1,
+      "explanation": "The reaction of phenol with chloroform (CHCl3) in the presence of aqueous sodium hydroxide (NaOH) is known as the Reimer-Tiemann reaction. It introduces a formyl group (-CHO) ortho to the hydroxyl group, yielding salicylaldehyde as the major product.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଫିନୋଲ୍ କୁ କ୍ଲୋରୋଫର୍ମ ଏବଂ ଜଳୀୟ ସୋଡିୟମ୍ ହାଇଡ୍ରୋକ୍ସାଇଡ୍ ସହିତ ପ୍ରତିକ୍ରିୟା କରାଇ, ପରେ ଅମ୍ଳୀକରଣ କଲେ ମୁଖ୍ୟତଃ କେଉଁ ଉତ୍ପାଦ ମିଳିଥାଏ?",
+          "options": [
+            "ସାଲିସିଲିକ୍ ଏସିଡ୍ (Salicylic acid)",
+            "ସାଲିସିଲାଲ୍ଡିହାଇଡ୍ (Salicylaldehyde)",
+            "ବେଞ୍ଜାଲ୍ଡିହାଇଡ୍ (Benzaldehyde)",
+            "ବେଞ୍ଜୋଇକ୍ ଏସିଡ୍ (Benzoic acid)"
+          ],
+          "explanation": "ଫିନୋଲ୍ ସହିତ କ୍ଲୋରୋଫର୍ମ ଏବଂ ଜଳୀୟ ସୋଡିୟମ୍ ହାଇଡ୍ରୋକ୍ସାଇଡର ପ୍ରତିକ୍ରିୟାକୁ ରାଇମର୍-ଟିମ୍ୟାନ୍ (Reimer-Tiemann) ପ୍ରତିକ୍ରିୟା କୁହାଯାଏ, ଯାହା ମୁଖ୍ୟ ଉତ୍ପାଦ ଭାବରେ ସାଲିସିଲାଲ୍ଡିହାଇଡ୍ ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785643750911-1",
+      "section": "Subject Knowledge",
+      "topic": "Photochemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Stark-Einstein law of photochemical equivalence, what is the total light energy absorbed per mole of a substance undergoing a photochemical reaction at wavelength λ?",
+      "options": [
+        "E = hc / λ",
+        "E = N_A hc / λ",
+        "E = h λ / c",
+        "E = N_A h λ / c"
+      ],
+      "answer": 1,
+      "explanation": "According to the Stark-Einstein law, each molecule undergoing a photochemical reaction absorbs one quantum (photon) of radiation. For one mole of molecules, the total absorbed energy (known as one einstein) is E = N_A h ν = N_A hc / λ, where N_A is Avogadro's number, h is Planck's constant, c is the speed of light, and λ is the wavelength.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଫୋଟୋକେମିକାଲ୍ ସମତୁଲ୍ୟତାର ଷ୍ଟାର୍କ-ଆଇନ୍‌ଷ୍ଟାଇନ୍ (Stark-Einstein) ନିୟମ ଅନୁସାରେ, λ ତରଙ୍ଗଦୈର୍ଘ୍ୟରେ ଫୋଟୋକେମିକାଲ୍ ପ୍ରତିକ୍ରିୟା କରୁଥିବା ଗୋଟିଏ ମୋଲ୍ ପଦାର୍ଥ ଦ୍ୱାରା ଶୋଷିତ ହେଉଥିବା ମୋଟ ଶକ୍ତିର ପରିମାଣ କେତେ?",
+          "options": [
+            "E = hc / λ",
+            "E = N_A hc / λ",
+            "E = h λ / c",
+            "E = N_A h λ / c"
+          ],
+          "explanation": "ଷ୍ଟାର୍କ-ଆଇନ୍‌ଷ୍ଟାଇନ୍ ନିୟମ ଅନୁଯାୟୀ, ପ୍ରତ୍ୟେକ ଅଣୁ ଗୋଟିଏ ଫୋଟନ୍ ଶୋଷଣ କରେ | ଗୋଟିଏ ମୋଲ୍ ଅଣୁ ପାଇଁ, ଶୋଷିତ ମୋଟ ଶକ୍ତି (୧ ଆଇନ୍‌ଷ୍ଟାଇନ୍) E = N_A h ν = N_A hc / λ ଅଟେ, ଯେଉଁଠାରେ N_A ହେଉଛି ଆଭୋଗାଡ୍ରୋ ସଂଖ୍ୟା, h ହେଉଛି ପ୍ଲାଙ୍କଙ୍କ ସ୍ଥିରାଙ୍କ, c ହେଉଛି ଆଲୋକର ବେଗ ଏବଂ λ ହେଉଛି ତରଙ୍ଗଦୈର୍ଘ୍ୟ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785644003284-0",
+      "section": "General Studies",
+      "topic": "Indian National Movement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following established the 'Mukti Mission' in Pune in 1889 to aid destitute women and young widows?",
+      "options": [
+        "Pandita Ramabai",
+        "Savitribai Phule",
+        "Tarabai Shinde",
+        "Anandi Gopal Joshi"
+      ],
+      "answer": 0,
+      "explanation": "Pandita Ramabai established the Mukti Mission in 1889 at Kedgaon near Pune as a refuge and learning center for young widows and destitute women.",
+      "translations": {
+        "or": {
+          "question": "1889 ମସିହାରେ ପୁଣେଠାରେ ନିରାଶ୍ରୟା ମହିଳା ଏବଂ ଯୁବ ବିଧବାମାନଙ୍କ ସହାୟତା ପାଇଁ ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ 'ମୁକ୍ତି ମିଶନ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ପଣ୍ଡିତା ରମାବାଈ",
+            "ସାବିତ୍ରୀବାଈ ଫୁଲେ",
+            "ତାରାବାଈ ସିନ୍ଧେ",
+            "ଆନନ୍ଦୀ ଗୋପାଳ ଯୋଶୀ"
+          ],
+          "explanation": "ପଣ୍ଡିତା ରମାବାଈ 1889 ମସିହାରେ ପୁଣେ ନିକଟସ୍ଥ କେଡ଼ଗାଓଁଠାରେ ଯୁବ ବିଧବା ଏବଂ ନିରାଶ୍ରୟା ମହିଳାମାନଙ୍କ ରହିବା ଓ ଶିକ୍ଷା ପାଇଁ 'ମୁକ୍ତି ମିଶନ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785644003284-1",
+      "section": "General Studies",
+      "topic": "Environment & Ecology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "With reference to the Ramsar Wetlands in India, which of the following is the largest Ramsar Site in terms of total surface area?",
+      "options": [
+        "Sundarbans Wetland",
+        "Vembanad-Kol Wetland",
+        "Chilika Lake",
+        "Renuka Wetland"
+      ],
+      "answer": 0,
+      "explanation": "Sundarbans Wetland in West Bengal covers an area of approximately 4,230 square kilometers, making it the largest Ramsar site in India.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତର ରାମସର ଆର୍ଦ୍ରଭୂମି ସନ୍ଦର୍ଭରେ, ମୋଟ ପୃଷ୍ଠଭୂମି କ୍ଷେତ୍ରଫଳ ଦୃଷ୍ଟିରୁ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଭାରତର ସବୁଠାରୁ ବଡ଼ ରାମସର ସାଇଟ୍?",
+          "options": [
+            "ସୁନ୍ଦରବନ ଆର୍ଦ୍ରଭୂମି",
+            "ଭେମ୍ବନାଡ-କୋଲ ଆର୍ଦ୍ରଭୂମି",
+            "ଚିଲିକା ହ୍ରଦ",
+            "ରେଣୁକା ଆର୍ଦ୍ରଭୂମି"
+          ],
+          "explanation": "ପଶ୍ଚିମବଙ୍ଗର ସୁନ୍ଦରବନ ଆର୍ଦ୍ରଭୂମି ପ୍ରାୟ 4,230 ବର୍ଗ କିଲୋମିଟର କ୍ଷେତ୍ରଫଳ ପରିବ୍ୟାପ୍ତ, ଯାହା ଏହାକୁ ଭାରତର ସବୁଠାରୁ ବଡ଼ ରାମସର ସାଇଟ୍ କରିଥାଏ।"
         }
       }
     }

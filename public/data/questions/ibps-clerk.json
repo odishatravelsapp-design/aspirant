@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -6722,6 +6722,136 @@
       ],
       "answer": 2,
       "explanation": "The Legal Entity Identifier (LEI) is a 20-character alpha-numeric code based on the ISO 17442 standard. It is used to uniquely identify legal entities participating in financial transactions globally.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785643342401-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A can complete a piece of work in 15 days, and B can complete the same work in 30 days. Working together, in how many days can they complete the work?",
+      "options": [
+        "8 days",
+        "10 days",
+        "12 days",
+        "15 days"
+      ],
+      "answer": 1,
+      "explanation": "A's 1-day work = 1/15. B's 1-day work = 1/30. Combined 1-day work = 1/15 + 1/30 = (2 + 1)/30 = 3/30 = 1/10. Therefore, working together they can complete the work in 10 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1785643342401-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper buys an item for ₹1,200. He marks it up by 50% above the cost price and then offers two successive discounts of 20% and 10% on the marked price. What is the net profit percentage earned by the shopkeeper?",
+      "options": [
+        "5% profit",
+        "8% profit",
+        "10% profit",
+        "12% profit"
+      ],
+      "answer": 1,
+      "explanation": "Cost Price (CP) = ₹1,200. Marked Price (MP) = 1,200 × 1.50 = ₹1,800. Selling Price (SP) after successive discounts = 1,800 × (1 - 0.20) × (1 - 0.10) = 1,800 × 0.80 × 0.90 = ₹1,296. Profit = SP - CP = ₹1,296 - ₹1,200 = ₹96. Profit Percentage = (96 / 1200) × 100 = 8%."
+    },
+    {
+      "id": "ibps-clerk-ai-1785643361684-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a test, five students – P, Q, R, S, and T – scored different marks. Q scored more than S but less than P. R scored more than T but less than S. Who among them scored the second highest marks?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "answer": 1,
+      "explanation": "Based on the given statements:\n1. Q scored more than S but less than P: P > Q > S\n2. R scored more than T but less than S: S > R > T\nCombining both conditions: P > Q > S > R > T.\nThe highest score is P, and the second highest score is Q."
+    },
+    {
+      "id": "ibps-clerk-ai-1785643361684-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language, 'DESIGN' is coded as 'FCUGIL'. How will 'REPORT' be coded in that same language?",
+      "options": [
+        "TCRMTR",
+        "TDRMTR",
+        "TCRNTR",
+        "UCRMTR"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed is an alternating addition and subtraction of 2 to the alphabetical positions of letters (+2, -2, +2, -2, +2, -2):\nD (+2) -> F\nE (-2) -> C\nS (+2) -> U\nI (-2) -> G\nG (+2) -> I\nN (-2) -> L\n\nApplying the same pattern to REPORT:\nR (+2) -> T\nE (-2) -> C\nP (+2) -> R\nO (-2) -> M\nR (+2) -> T\nT (-2) -> R\n\nThus, REPORT is coded as TCRMTR."
+    },
+    {
+      "id": "ibps-clerk-ai-1785643372010-0",
+      "section": "English",
+      "topic": "Grammar - Subject-Verb Agreement",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Identify the part of the sentence that contains a grammatical error:\n\n'Neither the manager nor the team members was present at the annual conference yesterday.'",
+      "options": [
+        "Neither the manager",
+        "nor the team members",
+        "was present at the",
+        "annual conference yesterday."
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are connected by 'neither... nor', the verb must agree with the subject closest to it. Here, 'team members' is plural, so the plural verb 'were' should be used instead of 'was'."
+    },
+    {
+      "id": "ibps-clerk-ai-1785643372010-1",
+      "section": "English",
+      "topic": "Vocabulary - Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that best completes the sentence contextually and grammatically:\n\nThe researcher's __________ arguments failed to convince the panel, who deemed her methodology __________ and lacking in empirical support.",
+      "options": [
+        "specious, dubious",
+        "cogent, flawless",
+        "lucid, rigorous",
+        "trenchant, sound"
+      ],
+      "answer": 0,
+      "explanation": "'Specious' means superficially plausible but actually misleading or wrong, and 'dubious' means questionable or suspect. Both words fit the negative context of an argument failing to convince a panel due to lack of evidence."
+    },
+    {
+      "id": "ibps-clerk-ai-1785643383531-0",
+      "section": "General Awareness",
+      "topic": "Banking Insurance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following types of financial institutions is NOT covered under the deposit insurance scheme of the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+      "options": [
+        "Small Finance Banks",
+        "Primary Agricultural Credit Societies",
+        "Regional Rural Banks",
+        "Local Area Banks"
+      ],
+      "answer": 1,
+      "explanation": "DICGC covers all commercial banks operating in India (including Regional Rural Banks, Small Finance Banks, Local Area Banks, and foreign bank branches) as well as insured cooperative banks. Primary Agricultural Credit Societies (PACS) operate at the grassroots level and are not covered under the DICGC deposit insurance scheme.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785643383531-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes & RBI Guidelines",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme administered by the Reserve Bank of India, what is the maximum permissible subscription limit per fiscal year for Trusts and similar notified entities?",
+      "options": [
+        "4 kg",
+        "8 kg",
+        "10 kg",
+        "20 kg"
+      ],
+      "answer": 3,
+      "explanation": "According to RBI guidelines for the Sovereign Gold Bond Scheme, the maximum limit of subscription per fiscal year (April-March) is set at 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for Trusts and similar notified entities.",
       "status": "pending"
     }
   ]

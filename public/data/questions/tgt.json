@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -3486,6 +3486,62 @@
             "ଆଲାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ [CH2=CH-CH2+]"
           ],
           "explanation": "ମେଥୋକ୍ସି ମେଥାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ (CH3-O-CH2+) ରେ, ଅକ୍ସିଜେନ୍ ପରମାଣୁର ଏକକ ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗ୍ମ ପାଖରେ ଥିବା ଧନାତ୍ମକ ଚାର୍ଜିତ କାର୍ବନ ସହିତ ଏକ ପାଇ (pi) ବନ୍ଧନ ଗଠନ କରେ (CH3-O+=CH2)। ଏହି ରେଜୋନାନ୍ସ ସଂରଚନାରେ ପ୍ରତ୍ୟେକ ପରମାଣୁର ଅଷ୍ଟକ ପୂର୍ଣ୍ଣ ହୋଇଥାଏ, ଯାହା ଏହାକୁ ଅତ୍ୟନ୍ତ ସ୍ଥିର କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785644724351-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following Constitutional Amendment Acts added the languages Bodo, Dogri, Maithili, and Santhali to the Eighth Schedule of the Constitution of India?",
+      "options": [
+        "91st Constitutional Amendment Act, 2003",
+        "92nd Constitutional Amendment Act, 2003",
+        "71st Constitutional Amendment Act, 1992",
+        "21st Constitutional Amendment Act, 1967"
+      ],
+      "answer": 1,
+      "explanation": "The 92nd Constitutional Amendment Act of 2003 added four new languages—Bodo, Dogri, Maithili, and Santhali—to the Eighth Schedule, raising the total number of officially recognized languages in India to 22.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ସଂଶୋଧନ ଆଇନ ଦ୍ୱାରା ଅଷ୍ଟମ ଅନୁସୂଚୀରେ ବୋଡୋ, ଡୋଗ୍ରୀ, ମୈଥିଲୀ ଏବଂ ସନ୍ତାଳୀ ଭାଷା ଯୋଡ଼ାଯାଇଥିଲା?",
+          "options": [
+            "୯୧ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଆଇନ, ୨୦୦୩",
+            "୯୨ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଆଇନ, ୨୦୦୩",
+            "୭୧ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଆଇନ, ୧୯୯୨",
+            "୨୧ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଆଇନ, ୧୯୬୭"
+          ],
+          "explanation": "୨୦୦୩ ମସିହାର ୯୨ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଆଇନ ଦ୍ୱାରା ଭାରତୀୟ ସମ୍ବିଧାନର ଅଷ୍ଟମ ଅନୁସୂଚୀରେ ବୋଡୋ, ଡୋଗ୍ରୀ, ମୈଥିଲୀ ଏବଂ ସନ୍ତାଳୀ ଭାଷା ସାମିଲ କରାଯାଇଥିଲା, ଯାହାଫଳରେ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ ଭାଷା ସଂଖ୍ୟା ୨୨ କୁ ବୃଦ୍ଧି ପାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785644724351-1",
+      "section": "General Studies",
+      "topic": "Indian National Movement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the context of the Indian Freedom Struggle, who among the following founded the 'Indian Independence League' in Tokyo in March 1942?",
+      "options": [
+        "Rash Behari Bose",
+        "Subhas Chandra Bose",
+        "Mohan Singh",
+        "Lala Hardayal"
+      ],
+      "answer": 0,
+      "explanation": "Rash Behari Bose founded the Indian Independence League during a conference held in Tokyo in March 1942 to organize Indians living outside India for the liberation of their homeland. He later handed over its leadership to Subhas Chandra Bose.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମ ସନ୍ଦର୍ଭରେ, ୧୯୪୨ ମସିହା ମାର୍ଚ୍ଚ ମାସରେ ଟୋକିଓଠାରେ 'ଇଣ୍ଡିଆନ୍ ଇଣ୍ଡିପେଣ୍ଡେନ୍ସ ଲିଗ୍'ର ପ୍ରତିଷ୍ଠା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ କରିଥିଲେ?",
+          "options": [
+            "ରାସ ବିହାରୀ ବୋସ",
+            "ସୁଭାଷ ଚନ୍ଦ୍ର ବୋସ",
+            "ମୋହନ ସିଂହ",
+            "ଲାଲା ହରଦୟାଲ"
+          ],
+          "explanation": "୧୯୪୨ ମସିହା ମାର୍ଚ୍ଚ ମାସରେ ଟୋକିଓରେ ଅନୁଷ୍ଠିତ ଏକ ସମ୍ମିଳନୀରେ ରାସ ବିହାରୀ ବୋସ 'ଇଣ୍ଡିଆନ୍ ଇଣ୍ଡିପେଣ୍ଡେନ୍ସ ଲିଗ୍' ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ପରବର୍ତ୍ତୀ ସମୟରେ, ସେ ଏହାର ନେତୃତ୍ୱ ସୁଭାଷ ଚନ୍ଦ୍ର ବୋସଙ୍କୁ ହସ୍ତାନ୍ତର କରିଥିଲେ।"
         }
       }
     }

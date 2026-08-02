@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6306,6 +6306,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI's Guidelines for 'On Tap' Licensing of Small Finance Banks in the Private Sector (December 2019), the minimum paid-up voting equity capital required for setting up an SFB is ₹200 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785643401934-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "An article is marked at 50% above its cost price. The shopkeeper gives a discount of 20% on the marked price and an additional cash discount of ₹50. If the shopkeeper still makes a profit of 10%, what is the cost price of the article?",
+      "options": [
+        "₹400",
+        "₹500",
+        "₹600",
+        "₹750"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price (CP) be ₹x.\nMarked Price (MP) = 1.5x.\nSelling Price (SP) after a 20% discount = 1.5x * 0.80 = 1.2x.\nFinal SP after additional ₹50 discount = 1.2x - 50.\nSince profit is 10%, SP = 1.1x.\nTherefore, 1.2x - 50 = 1.1x\n0.1x = 50 => x = 500.\nThus, the cost price of the article is ₹500."
+    },
+    {
+      "id": "sbi-clerk-ai-1785643401934-1",
+      "section": "Quant",
+      "topic": "Races and Games",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a 1200 m race, A beats B by 200 m or 20 seconds. In the same 1200 m race, B beats C by 200 m or 25 seconds. By how many seconds does A beat C in the 1200 m race?",
+      "options": [
+        "30 seconds",
+        "45 seconds",
+        "50 seconds",
+        "65 seconds"
+      ],
+      "answer": 2,
+      "explanation": "1. Speed of B = 200 m / 20 s = 10 m/s.\nTime taken by B for 1200 m = 1200 / 10 = 120 seconds.\nSince A beats B by 20 seconds, Time taken by A = 120 - 20 = 100 seconds.\n\n2. Speed of C = 200 m / 25 s = 8 m/s.\nTime taken by C for 1200 m = 1200 / 8 = 150 seconds.\n\n3. Time difference between A and C = 150 seconds - 100 seconds = 50 seconds.\nHence, A beats C by 50 seconds."
+    },
+    {
+      "id": "sbi-clerk-ai-1785643411953-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rohan walks 8 km towards South from Point A to reach Point B. From Point B, he turns right and walks 6 km to reach Point C. Then, he turns North and walks 12 km to reach Point D. Finally, he turns right and walks 6 km to reach Point E. What is the shortest distance between Point A and Point E, and in which direction is Point E with respect to Point A?",
+      "options": [
+        "4 km, North",
+        "5 km, North-East",
+        "4 km, South",
+        "10 km, North"
+      ],
+      "answer": 0,
+      "explanation": "Let Point A be at coordinates (0, 0).\n1. Rohan walks 8 km South to B: B = (0, -8).\n2. Turns right (West) and walks 6 km to C: C = (-6, -8).\n3. Turns North and walks 12 km to D: D = (-6, -8 + 12) = (-6, 4).\n4. Turns right (East) and walks 6 km to E: E = (-6 + 6, 4) = (0, 4).\n\nThe distance AE = sqrt((0 - 0)^2 + (4 - 0)^2) = 4 km.\nSince E is at (0, 4) relative to A (0, 0), Point E is directly North of Point A."
+    },
+    {
+      "id": "sbi-clerk-ai-1785643411953-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Study the following symbol definitions carefully:\n'P + Q' means 'P is the father of Q'\n'P - Q' means 'P is the sister of Q'\n'P * Q' means 'P is the brother of Q'\n'P ÷ Q' means 'P is the mother of Q'\n\nWhich of the following expressions correctly shows that 'M is the maternal uncle of R'?",
+      "options": [
+        "M + K ÷ R",
+        "M * K + R",
+        "M * K ÷ R",
+        "M - K ÷ R"
+      ],
+      "answer": 2,
+      "explanation": "To prove 'M is the maternal uncle of R', M must be male and the brother of R's mother.\nIn 'M * K ÷ R':\n- 'M * K' implies M is the brother of K.\n- 'K ÷ R' implies K is the mother of R.\nThus, M is the brother of R's mother (K), making M the maternal uncle of R."
+    },
+    {
+      "id": "sbi-clerk-ai-1785643424155-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Identify the segment in the sentence which contains a grammatical error: 'The manager along with his team members are attending the conference in Mumbai today.'",
+      "options": [
+        "The manager along with",
+        "his team members",
+        "are attending the conference",
+        "in Mumbai today"
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are joined by phrases like 'along with', 'together with', or 'as well as', the verb must agree with the first subject ('The manager', which is singular). Therefore, 'are attending' should be replaced with 'is attending'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785643424155-1",
+      "section": "English",
+      "topic": "Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following words is most nearly OPPOSITE in meaning to the word 'EQUANIMITY'?",
+      "options": [
+        "Tranquility",
+        "Agitation",
+        "Serenity",
+        "Aplomb"
+      ],
+      "answer": 1,
+      "explanation": "'Equanimity' refers to mental calmness, composure, and evenness of temper, especially in a difficult situation. 'Agitation' means a state of anxiety or nervous excitement, making it the antonym. 'Tranquility', 'Serenity', and 'Aplomb' are synonyms or near-synonyms."
+    },
+    {
+      "id": "sbi-clerk-ai-1785643435864-0",
+      "section": "General Awareness",
+      "topic": "Banking Institutions",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Where is the headquarters of the Small Industries Development Bank of India (SIDBI) situated?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Lucknow",
+        "Kolkata"
+      ],
+      "answer": 2,
+      "explanation": "The headquarters of the Small Industries Development Bank of India (SIDBI), established in 1990, is located in Lucknow, Uttar Pradesh.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785643435864-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations & Stressed Assets",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the RBI's Prudential Framework for Resolution of Stressed Assets (June 7, 2019), what is the minimum percentage required by value of total outstanding credit facilities for a decision to be binding on all lenders under the Inter-Creditor Agreement (ICA)?",
+      "options": [
+        "60%",
+        "66%",
+        "75%",
+        "80%"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI's Prudential Framework for Resolution of Stressed Assets issued on June 7, 2019, decisions under the Inter-Creditor Agreement (ICA) require approval from lenders representing at least 75% by value of total outstanding credit facilities and 60% of lenders by number to be binding on all signing lenders.",
       "status": "pending"
     }
   ]
