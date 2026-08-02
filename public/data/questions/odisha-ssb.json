@@ -9899,6 +9899,261 @@
           "explanation": "ଓଡ଼ିଶାର ପୂର୍ଣ୍ଣାଙ୍ଗ କଳିଙ୍ଗ ସ୍ଥାପତ୍ୟ ଶୈଳୀରେ (ଯେପରିକି ପୁରୀର ଶ୍ରୀଜଗନ୍ନାଥ ମନ୍ଦିର କିମ୍ବା ଭୁବନେଶ୍ୱରର ଲିଙ୍ଗରାଜ ମନ୍ଦିର) ବାହ୍ୟ ପ୍ରବେଶ ଦ୍ୱାରରୁ ମୁଖ୍ୟ ଗର୍ଭଗୃହ ଆଡ଼କୁ କ୍ରମାନ୍ୱୟରେ ଏହି ଚାରୋଟି ସଂରଚନା ରହିଥାଏ: ଭୋଗ ମଣ୍ଡପ -> ନାଟ ମଣ୍ଡପ -> ଜଗମୋହନ -> ବିମାନ (ଗର୍ଭଗୃହ)।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-0",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which leadership style in classroom management involves giving complete freedom to students with minimal teacher intervention or direct instruction?",
+      "options": [
+        "Authoritarian style",
+        "Democratic style",
+        "Laissez-faire style",
+        "Authoritative style"
+      ],
+      "answer": 2,
+      "explanation": "The Laissez-faire leadership style allows students complete freedom to make decisions without direct guidance, structure, or intervention from the teacher."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-1",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which term was coined by educational theorist Jacob Kounin to describe a teacher's skill in communicating to students that they are aware of everything occurring in the classroom at all times?",
+      "options": [
+        "Overlapping",
+        "Withitness",
+        "Smoothness",
+        "Flip-flopping"
+      ],
+      "answer": 1,
+      "explanation": "Jacob Kounin introduced 'Withitness' to describe a teacher's acute awareness of classroom activities and prompt addressing of misbehavior."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-2",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the correct sequential order of the four fundamental steps in the Action Research cycle?",
+      "options": [
+        "Plan, Act, Observe, Reflect",
+        "Observe, Plan, Act, Reflect",
+        "Reflect, Plan, Observe, Act",
+        "Act, Plan, Observe, Reflect"
+      ],
+      "answer": 0,
+      "explanation": "The standard Action Research cycle follows a continuous spiral process of Plan, Act, Observe, and Reflect."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-3",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which methodological feature is LEAST appropriate for a classroom-based Action Research project carried out by a school teacher?",
+      "options": [
+        "Immediate application to local classroom problems",
+        "Cyclical and reflective self-evaluation",
+        "Complex multi-stage probability sampling for external generalization",
+        "Use of qualitative observational checklists and diagnostic tests"
+      ],
+      "answer": 2,
+      "explanation": "Action Research aims at immediate local context problem-solving, not large-scale generalization that requires complex multi-stage probability sampling."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-4",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the National Education Policy (NEP) 2020, what is the new pedagogical and curricular structure replacing the former 10+2 system?",
+      "options": [
+        "5+3+3+4",
+        "3+5+3+4",
+        "5+4+3+3",
+        "4+3+3+5"
+      ],
+      "answer": 0,
+      "explanation": "NEP 2020 restructures school education into 5 years (Foundational) + 3 years (Preparatory) + 3 years (Middle) + 4 years (Secondary)."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-5",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under NEP 2020, what does the acronym 'PARAKH' stand for in the context of student assessment?",
+      "options": [
+        "Performance Assessment, Review, and Analysis of Knowledge for Holistic Development",
+        "Program for Academic Assessment, Review, and Knowledge Enhancement",
+        "Pedagogical Assessment, Rating, and Analysis of Knowledge for Higher Education",
+        "Performance Appraisal, Recognition, and Assessment of Knowledge for High-schools"
+      ],
+      "answer": 0,
+      "explanation": "PARAKH stands for Performance Assessment, Review, and Analysis of Knowledge for Holistic Development, set up as a National Assessment Centre."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-6",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to the Schedule of the Right of Children to Free and Compulsory Education (RTE) Act 2009, what is the prescribed Pupil-Teacher Ratio (PTR) for primary schools (Classes I to V) with enrollment up to 200 children?",
+      "options": [
+        "20:1",
+        "30:1",
+        "35:1",
+        "40:1"
+      ],
+      "answer": 1,
+      "explanation": "The RTE Act 2009 prescribes a Pupil-Teacher Ratio (PTR) of 30:1 for primary schools for an enrollment up to 200 students."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-7",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which specific section of the Right to Education (RTE) Act 2009 explicitly prohibits physical punishment and mental harassment of children in schools?",
+      "options": [
+        "Section 13",
+        "Section 16",
+        "Section 17",
+        "Section 28"
+      ],
+      "answer": 2,
+      "explanation": "Section 17 of the RTE Act 2009 prohibits physical punishment and mental harassment of children and makes it a punishable offense."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-8",
+      "section": "Teaching Aptitude",
+      "topic": "National Curriculum Framework (NCF)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The National Curriculum Framework 2005 (NCF 2005) was prepared under the chairmanship of which eminent academician?",
+      "options": [
+        "Prof. Yash Pal",
+        "Dr. K. Kasturirangan",
+        "Prof. D.S. Kothari",
+        "Dr. S. Radhakrishnan"
+      ],
+      "answer": 0,
+      "explanation": "NCF 2005 was drafted by the National Steering Committee under the leadership of renowned physicist and educationist Prof. Yash Pal."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-9",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which measure of central tendency represents the score that occurs with the highest frequency in a given distribution?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Variance"
+      ],
+      "answer": 2,
+      "explanation": "The mode is defined as the most frequently occurring score in a set of data."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-10",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In a standard normal distribution curve, approximately what percentage of the total observations falls within one standard deviation above and below the mean (±1 SD)?",
+      "options": [
+        "50.00%",
+        "68.26%",
+        "95.44%",
+        "99.72%"
+      ],
+      "answer": 1,
+      "explanation": "Under a normal curve, approximately 68.26% of the values fall within ±1 standard deviation of the mean."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-11",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "When a test score distribution is negatively skewed (skewed to the left), what is the correct relative magnitude relationship among Mean, Median, and Mode?",
+      "options": [
+        "Mean > Median > Mode",
+        "Mode > Median > Mean",
+        "Mean = Median = Mode",
+        "Median > Mean > Mode"
+      ],
+      "answer": 1,
+      "explanation": "In a negatively skewed distribution, extreme low scores pull the Mean to the left, making Mean < Median < Mode (or Mode > Median > Mean)."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-12",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who proposed the Nativist theory of language acquisition featuring the concept of an innate Language Acquisition Device (LAD)?",
+      "options": [
+        "B.F. Skinner",
+        "Noam Chomsky",
+        "Jean Piaget",
+        "Stephen Krashen"
+      ],
+      "answer": 1,
+      "explanation": "Noam Chomsky proposed that humans possess an innate capacity for language acquisition through a hypothetical Language Acquisition Device (LAD)."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-13",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Stephen Krashen's theory of second language acquisition, which hypothesis argues that language learning occurs best when input is one step beyond the learner's current stage of competence (i + 1)?",
+      "options": [
+        "The Monitor Hypothesis",
+        "The Natural Order Hypothesis",
+        "The Input Hypothesis",
+        "The Affective Filter Hypothesis"
+      ],
+      "answer": 2,
+      "explanation": "The Input Hypothesis states that language acquisition takes place when a learner receives 'comprehensible input' that is slightly above their current level (i + 1)."
+    },
+    {
+      "id": "odisha-ssb-edu-1785645412611-14",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "What form of memory interference occurs when newly learned material interferes with the recall of previously stored information?",
+      "options": [
+        "Proactive Interference",
+        "Retroactive Interference",
+        "Anterograde Amnesia",
+        "Motivated Forgetting"
+      ],
+      "answer": 1,
+      "explanation": "Retroactive interference happens when new information acts backward to disrupt the retrieval of previously learned information."
     }
   ]
 }
