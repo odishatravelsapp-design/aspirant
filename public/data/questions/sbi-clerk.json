@@ -6437,6 +6437,176 @@
       "answer": 2,
       "explanation": "Under the RBI's Prudential Framework for Resolution of Stressed Assets issued on June 7, 2019, decisions under the Inter-Creditor Agreement (ICA) require approval from lenders representing at least 75% by value of total outstanding credit facilities and 60% of lenders by number to be binding on all signing lenders.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-0",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n√(784) + 12.5% of 640 - 23 = ? × 17",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "√(784) = 28\n12.5% of 640 = (1/8) × 640 = 80\nExpression: 28 + 80 - 23 = 85\n85 = ? × 17 => ? = 85 / 17 = 5."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-1",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value will come in place of the question mark (?) in the following expression?\n(343)^(2/3) × (49)^(3/2) ÷ (7)^4 = 7^(? - 2)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "(343)^(2/3) = (7^3)^(2/3) = 7^2\n(49)^(3/2) = (7^2)^(3/2) = 7^3\nLHS: 7^2 × 7^3 ÷ 7^4 = 7^(2+3-4) = 7^1\nSince 7^1 = 7^(? - 2), we get 1 = ? - 2 => ? = 3."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-2",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In an election between two candidates, 15% of the total voters did not cast their vote and 10% of the polled votes were declared invalid. The winning candidate got 60% of the valid votes and won by a majority of 3060 votes. Find the total number of voters on the voting list.",
+      "options": [
+        "18,000",
+        "20,000",
+        "22,500",
+        "25,000"
+      ],
+      "answer": 1,
+      "explanation": "Let total voters = 100x.\nPolled votes = 85x.\nValid votes = 90% of 85x = 76.5x.\nWinner's share - Loser's share = 60% - 40% = 20% of valid votes.\n20% of 76.5x = 15.3x.\nGiven 15.3x = 3060 => x = 200.\nTotal voters = 100x = 20,000."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-3",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A person spends 20% of his monthly income on house rent, 25% of the remaining on food, and 10% of the remaining on children's education. Out of the remaining amount, he invests in mutual funds and keeps in a savings account in the ratio 5:4. If the difference between the amount spent on house rent and the amount kept in the savings account is Rs. 1,200, what is his monthly income?",
+      "options": [
+        "Rs. 25,000",
+        "Rs. 28,000",
+        "Rs. 30,000",
+        "Rs. 36,000"
+      ],
+      "answer": 2,
+      "explanation": "Let total income = 100x.\nRent = 20x, Remaining = 80x.\nFood = 25% of 80x = 20x, Remaining = 60x.\nEducation = 10% of 60x = 6x, Remaining = 54x.\nSavings = (4/9) × 54x = 24x.\nDifference between Savings and Rent = |24x - 20x| = 4x.\n4x = 1200 => x = 300.\nMonthly income = 100x = Rs. 30,000."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-4",
+      "section": "Predicted",
+      "topic": "Blood Relation",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Pointing to a photograph of a boy, Aakash said, 'His mother is the only daughter-in-law of my mother.' How is Aakash related to the boy in the photograph?",
+      "options": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Grandfather"
+      ],
+      "answer": 0,
+      "explanation": "Aakash's mother's only daughter-in-law is Aakash's wife. Since the boy's mother is Aakash's wife, Aakash is the father of the boy."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-5",
+      "section": "Predicted",
+      "topic": "Blood Relation",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Read the following information:\n'A + B' means 'A is the brother of B'\n'A - B' means 'A is the sister of B'\n'A × B' means 'A is the father of B'\n'A ÷ B' means 'A is the mother of B'\nWhich of the following expressions indicates that 'P is the maternal grandfather of S'?",
+      "options": [
+        "P × Q ÷ S",
+        "P ÷ Q × S",
+        "P × Q + S",
+        "P - Q ÷ S"
+      ],
+      "answer": 0,
+      "explanation": "'P × Q' means P is the father of Q. 'Q ÷ S' means Q is the mother of S. Therefore, P is the father of S's mother, which makes P the maternal grandfather of S."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-6",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the missing number in the given series:\n12, 13, 22, 47, 96, ?",
+      "options": [
+        "165",
+        "177",
+        "182",
+        "196"
+      ],
+      "answer": 1,
+      "explanation": "The pattern adds squares of consecutive odd numbers:\n12 + 1² = 13\n13 + 3² = 22\n22 + 5² = 47\n47 + 7² = 96\n96 + 9² = 96 + 81 = 177."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-7",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the wrong term in the following number series:\n18, 20, 43, 133, 535, 2691",
+      "options": [
+        "20",
+        "43",
+        "133",
+        "535"
+      ],
+      "answer": 3,
+      "explanation": "The pattern is:\n18 × 1 + 2 = 20\n20 × 2 + 3 = 43\n43 × 3 + 4 = 133\n133 × 4 + 5 = 537 (not 535)\n537 × 5 + 6 = 2691\nHence, 535 is the wrong term."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-8",
+      "section": "Predicted",
+      "topic": "Antonyms",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the most appropriate ANTONYM of the given word:\nOBSTINATE",
+      "options": [
+        "Stubborn",
+        "Rigid",
+        "Flexible",
+        "Dogmatic"
+      ],
+      "answer": 2,
+      "explanation": "'Obstinate' means stubbornly refusing to change one's opinion or chosen course of action. Its antonym is 'Flexible' (adaptable, yielding)."
+    },
+    {
+      "id": "sbi-clerk-pred-1785649831516-9",
+      "section": "Predicted",
+      "topic": "Antonyms",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the most appropriate ANTONYM of the given word:\nEPHEMERAL",
+      "options": [
+        "Transient",
+        "Perpetual",
+        "Fleeting",
+        "Evanescent"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time. Its antonym is 'Perpetual' (never ending or changing, eternal). 'Transient', 'Fleeting', and 'Evanescent' are synonyms."
     }
   ]
 }

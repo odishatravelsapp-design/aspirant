@@ -6853,6 +6853,176 @@
       "answer": 3,
       "explanation": "According to RBI guidelines for the Sovereign Gold Bond Scheme, the maximum limit of subscription per fiscal year (April-March) is set at 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for Trusts and similar notified entities.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-0",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value will come in place of the question mark (?) in the following expression?\n(18² + 12 × 15) ÷ √144 = ?",
+      "options": [
+        "38",
+        "42",
+        "46",
+        "52"
+      ],
+      "answer": 1,
+      "explanation": "First, calculate inside the parentheses: 18² = 324 and 12 × 15 = 180. Sum = 324 + 180 = 504. √144 = 12. Finally, 504 ÷ 12 = 42."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-1",
+      "section": "Predicted",
+      "topic": "Simplification",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What value should come in place of the question mark (?) in the following equation?\n45% of 800 + ?% of 750 = 60% of 1100 - 60",
+      "options": [
+        "28",
+        "32",
+        "35",
+        "40"
+      ],
+      "answer": 1,
+      "explanation": "45% of 800 = 360. 60% of 1100 = 660. Equation becomes: 360 + (x/100) × 750 = 660 - 60 => 360 + 7.5x = 600 => 7.5x = 240 => x = 32."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-2",
+      "section": "Predicted",
+      "topic": "Average",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The average score of a batsman in 5 innings is 40 runs. If he scores 70 runs in the 6th inning, what is his new average?",
+      "options": [
+        "42",
+        "44",
+        "45",
+        "48"
+      ],
+      "answer": 2,
+      "explanation": "Total runs in 5 innings = 5 × 40 = 200. Total runs after 6th inning = 200 + 70 = 270. New average = 270 / 6 = 45."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-3",
+      "section": "Predicted",
+      "topic": "Average",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The average age of a group of 8 members is 40 years. A member aged 55 years leaves the group and a new member joins. As a result, the average age of the group decreases by 2 years. What is the age of the new member?",
+      "options": [
+        "35 years",
+        "39 years",
+        "41 years",
+        "43 years"
+      ],
+      "answer": 1,
+      "explanation": "Initial total age = 8 × 40 = 320 years. New average = 40 - 2 = 38 years. New total age = 8 × 38 = 304 years. Age of new member = 304 - (320 - 55) = 39 years."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-4",
+      "section": "Predicted",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a certain code language, 'STATION' is coded as 'UVCVKQP'. How will 'BANKING' be coded in that same language?",
+      "options": [
+        "DCPMKPI",
+        "DCPMKQI",
+        "DBPMKPI",
+        "DCQMKPI"
+      ],
+      "answer": 0,
+      "explanation": "Each letter is shifted forward by 2 positions (+2). B(+2)->D, A(+2)->C, N(+2)->P, K(+2)->M, I(+2)->K, N(+2)->P, G(+2)->I. So, 'BANKING' becomes 'DCPMKPI'."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-5",
+      "section": "Predicted",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In a specific code language, 'GLAMOUR' is coded as 'JODPXRU'. Following the same rule, how is 'ROUTINE' coded?",
+      "options": [
+        "URXWLQH",
+        "VRXWLQH",
+        "URXWMQH",
+        "USXWLQH"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in 'GLAMOUR' is moved forward by 3 places (+3) in alphabetical order. Applying +3 to each letter in 'ROUTINE': R(+3)->U, O(+3)->R, U(+3)->X, T(+3)->W, I(+3)->L, N(+3)->Q, E(+3)->H. Thus, the code is 'URXWLQH'."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-6",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "easy",
+      "source": "predicted",
+      "status": "pending",
+      "question": "What should come in place of the question mark (?) in the following number series?\n7, 14, 28, 56, 112, ?",
+      "options": [
+        "212",
+        "224",
+        "236",
+        "248"
+      ],
+      "answer": 1,
+      "explanation": "Each term in the series is multiplied by 2. 7 × 2 = 14, 14 × 2 = 28, 28 × 2 = 56, 56 × 2 = 112, 112 × 2 = 224."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-7",
+      "section": "Predicted",
+      "topic": "Series",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Find the wrong number in the following number series:\n4, 11, 25, 53, 109, 223, 445",
+      "options": [
+        "53",
+        "109",
+        "223",
+        "445"
+      ],
+      "answer": 2,
+      "explanation": "The pattern is: (Previous term × 2) + 3. \n4 × 2 + 3 = 11; \n11 × 2 + 3 = 25; \n25 × 2 + 3 = 53; \n53 × 2 + 3 = 109; \n109 × 2 + 3 = 221 (Not 223); \n221 × 2 + 3 = 445. Hence, 223 is incorrect."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-8",
+      "section": "Predicted",
+      "topic": "Synonyms",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the word that is MOST SIMILAR in meaning to the word highlighted in bold:\n'The manager appreciated her **CANDID** feedback during the meeting.'",
+      "options": [
+        "Frank",
+        "Deceptive",
+        "Arrogant",
+        "Secretive"
+      ],
+      "answer": 0,
+      "explanation": "'CANDID' means truthful, straightforward, and frank. Thus, 'Frank' is the correct synonym."
+    },
+    {
+      "id": "ibps-clerk-pred-1785649673909-9",
+      "section": "Predicted",
+      "topic": "Synonyms",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the word that is MOST SIMILAR in meaning to the word 'PRUDENT'.",
+      "options": [
+        "Careless",
+        "Discreet",
+        "Foolish",
+        "Rash"
+      ],
+      "answer": 1,
+      "explanation": "'PRUDENT' means acting with or showing care and thought for the future (wise, cautious, discreet). 'Discreet' is the closest synonym among the given options."
     }
   ]
 }
