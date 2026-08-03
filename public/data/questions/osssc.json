@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -7612,6 +7612,234 @@
             "୧୯୧୯"
           ],
           "explanation": "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ ୧୯୦୯ ମସିହା ଅଗଷ୍ଟ ୧୨ ତାରିଖରେ ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ମୁକ୍ତାକାଶ ଗୁରୁକୁଳ ପରମ୍ପରାର 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730138574-0",
+      "section": "Arithmetic",
+      "topic": "Percentage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A number is increased by 20% and then the increased number is decreased by 20%. Find the net percentage change in the number.",
+      "options": [
+        "4% increase",
+        "4% decrease",
+        "No change",
+        "2% decrease"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial number be 100. After a 20% increase, it becomes 120. After a 20% decrease on 120, it becomes 120 - (20% of 120) = 120 - 24 = 96. Net change = 100 - 96 = 4% decrease.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଗୋଟିଏ ସଂଖ୍ୟାକୁ ୨୦% ବୃଦ୍ଧି କରାଯାଏ ଏବଂ ତା'ପରେ ବୃଦ୍ଧି ପାଇଥିବା ସଂଖ୍ୟାକୁ ୨୦% ହ୍ରାସ କରାଯାଏ, ତେବେ ମୋଟ ଉପରେ ସଂଖ୍ୟାଟିର କେତେ ପ୍ରତିଶତ ପରିବର୍ତ୍ତନ ହେବ?",
+          "options": [
+            "୪% ବୃଦ୍ଧି",
+            "୪% ହ୍ରାସ",
+            "କୌଣସି ପରିବର୍ତ୍ତନ ନାହିଁ",
+            "୨% ହ୍ରାସ"
+          ],
+          "explanation": "ମନେକର ପ୍ରାରମ୍ଭିକ ସଂଖ୍ୟାଟି ୧୦୦। ୨୦% ବୃଦ୍ଧି ପରେ ଏହା ୧୨୦ ହୁଏ। ୧୨୦ ରୁ ୨୦% ହ୍ରାସ କଲେ = ୧୨୦ - ୨୪ = ୯୬। ନିଟ୍ ପରିବର୍ତ୍ତନ = ୧୦୦ - ୯୬ = ୪% ହ୍ରାସ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730138574-1",
+      "section": "Arithmetic",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two runners A and B start running simultaneously from the same point on a circular track of length 1200 m in opposite directions with speeds of 18 km/h and 27 km/h respectively. After how many seconds will they meet for the first time anywhere on the track?",
+      "options": [
+        "80 seconds",
+        "96 seconds",
+        "120 seconds",
+        "144 seconds"
+      ],
+      "answer": 1,
+      "explanation": "Speed of A = 18 × (5/18) = 5 m/s. Speed of B = 27 × (5/18) = 7.5 m/s. Since they move in opposite directions, relative speed = 5 + 7.5 = 12.5 m/s. Time to meet = Track Length / Relative Speed = 1200 / 12.5 = 96 seconds.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଜଣ ଧାବକ A ଏବଂ B ୧୨୦୦ ମିଟର ଦୈର୍ଘ୍ୟ ବିଶିଷ୍ଟ ଗୋଟିଏ ବୃତ୍ତାକାର ଟ୍ରାକ୍‌ରେ ଗୋଟିଏ ବିନ୍ଦୁରୁ ବିପରୀତ ଦିଗରେ ଯଥାକ୍ରମେ ୧୮ କିମି/ଘଣ୍ଟା ଏବଂ ୨୭ କିମି/ଘଣ୍ଟା ବେଗରେ ଦୌଡ଼ିବା ଆରମ୍ଭ କରନ୍ତି। କେତେ ସେକେଣ୍ଡ ପରେ ସେମାନେ ପ୍ରଥମ ଥର ପାଇଁ ପରସ୍ପରକୁ ଭେଟିବେ?",
+          "options": [
+            "୮୦ ସେକେଣ୍ଡ",
+            "୯୬ ସେକେଣ୍ଡ",
+            "୧୨୦ ସେକେଣ୍ଡ",
+            "୧୪୪ ସେକେଣ୍ଡ"
+          ],
+          "explanation": "A ର ବେଗ = ୧୮ × (୫/୧୮) = ୫ ମି/ସେ। B ର ବେଗ = ୨୭ × (୫/୧୮) = ୭.୫ ମି/ସେ। ବିପରୀତ ଦିଗରେ ଗତି କରୁଥିବାରୁ ଆପେକ୍ଷିକ ବେଗ = ୫ + ୭.୫ = ୧୨.୫ ମି/ସେ। ସାକ୍ଷାତ ହେବାର ସମୟ = ୧୨୦୦ / ୧୨.୫ = ୯୬ ସେକେଣ୍ଡ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730151826-0",
+      "section": "Reasoning",
+      "topic": "Letter Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the letter-cluster that can replace the question mark (?) in the following series:\nAZ, CX, EV, GT, ?",
+      "options": [
+        "HS",
+        "IR",
+        "JQ",
+        "KP"
+      ],
+      "answer": 1,
+      "explanation": "The pattern follows two rules: The first letter moves forward by +2 (A -> C -> E -> G -> I), and the second letter moves backward by -2 (Z -> X -> V -> T -> R). Therefore, the next letter-cluster is IR.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଶ୍ରେଣୀରେ ପ୍ରଶ୍ନବାଚୀ ଚିହ୍ନ (?) ସ୍ଥାନରେ ଆସିପାରୁଥିବା ଅକ୍ଷର-ଗୁଚ୍ଛ ବାଛନ୍ତୁ:\nAZ, CX, EV, GT, ?",
+          "options": [
+            "HS",
+            "IR",
+            "JQ",
+            "KP"
+          ],
+          "explanation": "ପ୍ରଥମ ଅକ୍ଷରଗୁଡ଼ିକ +2 କ୍ରମରେ ବୃଦ୍ଧି ପାଉଛି (A -> C -> E -> G -> I) ଏବଂ ଦ୍ୱିତୀୟ ଅକ୍ଷରଗୁଡ଼ିକ -2 କ୍ରମରେ ହ୍ରାସ ପାଉଛି (Z -> X -> V -> T -> R)। ତେଣୁ, ପରବର୍ତ୍ତୀ ଅକ୍ଷର-ଗୁଚ୍ଛ ହେଉଛି IR।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730151826-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. Some pens are pencils.\n2. All pencils are erasers.\n3. No eraser is a sharpener.\n\nConclusions:\nI. No pencil is a sharpener.\nII. Some pens are erasers.\nIII. Some erasers are pens.",
+      "options": [
+        "Only conclusion I and II follow",
+        "Only conclusion II and III follow",
+        "All conclusions I, II and III follow",
+        "Only conclusion I and III follow"
+      ],
+      "answer": 2,
+      "explanation": "1. Since all pencils are erasers and no eraser is a sharpener, no pencil can be a sharpener (Conclusion I follows).\n2. Since some pens are pencils and all pencils are erasers, those pens which are pencils are also erasers, so some pens are erasers (Conclusion II follows).\n3. Since some pens are erasers, it directly implies that some erasers are pens (Conclusion III follows).\nHence, all conclusions I, II and III follow.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତି ଏବଂ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହ ପଢ଼ନ୍ତୁ। ବିବୃତିରେ ଦିଆଯାଇଥିବା ତଥ୍ୟକୁ ସତ୍ୟ ବୋଲି ଧରିନେଇ, ନିମ୍ନଲିଖିତ କେଉଁ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକ ତାର୍କିକ ଭାବେ ଅନୁସରଣ କରେ ନିର୍ଣ୍ଣୟ କରନ୍ତୁ।\n\nବିବୃତି:\n1. କିଛି କଲମ ହେଉଛି ପେନ୍ସିଲ୍।\n2. ସମସ୍ତ ପେନ୍ସିଲ୍ ହେଉଛି ରବର।\n3. କୌଣସି ରବର କଟର ନୁହେଁ।\n\nସିଦ୍ଧାନ୍ତ:\nI. କୌଣସି ପେନ୍ସିଲ୍ କଟର ନୁହେଁ।\nII. କିଛି କଲମ ହେଉଛି ରବର।\nIII. କିଛି ରବର ହେଉଛି କଲମ।",
+          "options": [
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଏବଂ II ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ II ଏବଂ III ଅନୁସରଣ କରେ",
+            "ସମସ୍ତ ସିଦ୍ଧାନ୍ତ I, II ଏବଂ III ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଏବଂ III ଅନୁସରଣ କରେ"
+          ],
+          "explanation": "୧. ଯେହେତୁ ସମସ୍ତ ପେନ୍ସିଲ୍ ରବର ଅଟନ୍ତି ଏବଂ କୌଣସି ରବର କଟର ନୁହେଁ, ତେଣୁ କୌଣସି ପେନ୍ସିଲ୍ କଟର ହୋଇପାରିବ ନାହିଁ (ସିଦ୍ଧାନ୍ତ I ସତ୍ୟ)।\n୨. ଯେହେତୁ କିଛି କଲମ ପେନ୍ସିଲ୍ ଏବଂ ସମସ୍ତ ପେନ୍ସିଲ୍ ରବର, ତେଣୁ କିଛି କଲମ ରବର ଅଟନ୍ତି (ସିଦ୍ଧାନ୍ତ II ସତ୍ୟ)।\n୩. ଯେହେତୁ କିଛି କଲମ ରବର, ତେଣୁ କିଛି ରବର ମଧ୍ୟ କଲମ ଅଟନ୍ତି (ସିଦ୍ଧାନ୍ତ III ସତ୍ୟ)।\nତେଣୁ, ସମସ୍ତ ସିଦ୍ଧାନ୍ତ I, II ଏବଂ III ଅନୁସରଣ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730163609-0",
+      "section": "General Knowledge",
+      "topic": "Rivers and Dams of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Mandira Dam in Odisha is constructed across which of the following rivers to supply water to the Rourkela Steel Plant?",
+      "options": [
+        "Sankh River",
+        "South Koel River",
+        "Baitarani River",
+        "Tel River"
+      ],
+      "answer": 0,
+      "explanation": "Mandira Dam is located near Kansbahal in Sundargarh district, Odisha, and is built across the Sankh River. It was primarily constructed to store and supply water to the Rourkela Steel Plant.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରାଉରକେଲା ଇସ୍ପାତ କାରଖାନାକୁ ଜଳ ଯୋଗାଇବା ପାଇଁ ଓଡ଼ିଶାର ମନ୍ଦିରା ଡ୍ୟାମ୍ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି?",
+          "options": [
+            "ଶଙ୍ଖ ନଦୀ",
+            "ଦକ୍ଷିଣ କୋଏଲ ନଦୀ",
+            "ବୈତରଣୀ ନଦୀ",
+            "ତେଲ ନଦୀ"
+          ],
+          "explanation": "ମନ୍ଦିରା ଡ୍ୟାମ୍ ସୁନ୍ଦରଗଡ଼ ଜିଲ୍ଲାର ଶଙ୍ଖ ନଦୀ ଉପରେ ନିର୍ମିତ, ଯାହା ରାଉରକେଲା ଇସ୍ପାତ କାରଖାନା (RSP) କୁ ଜଳ ଯୋଗାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730163609-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Polity and History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who served as the first Speaker of the Odisha Legislative Assembly when it was constituted in 1937?",
+      "options": [
+        "Mukunda Prasad Das",
+        "Nanda Kishore Das",
+        "Radhanath Rath",
+        "Biswanath Das"
+      ],
+      "answer": 0,
+      "explanation": "Mukunda Prasad Das was elected as the first Speaker of the first Odisha Legislative Assembly on July 28, 1937, while Nanda Kishore Das served as the Deputy Speaker.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ମସିହାରେ ଓଡ଼ିଶା ବିଧାନସଭା ପ୍ରଥମ ଥର ପାଇଁ ଗଠିତ ହେବା ସମୟରେ ଏହାର ପ୍ରଥମ ବାଚସ୍ପତି (Speaker) କିଏ ଥିଲେ?",
+          "options": [
+            "ମୁକୁନ୍ଦ ପ୍ରସାଦ ଦାସ",
+            "ନନ୍ଦ କିଶୋର ଦାସ",
+            "ରାଧାନାଥ ରଥ",
+            "ବିଶ୍ୱନାଥ ଦାସ"
+          ],
+          "explanation": "୧୯୩୭ ମସିହା ଜୁଲାଇ ୨୮ ରେ ମୁକୁନ୍ଦ ପ୍ରସାଦ ଦାସ ଓଡ଼ିଶା ବିଧାନସଭାର ପ୍ରଥମ ବାଚସ୍ପତି ଭାବରେ ନିର୍ବାଚିତ ହୋଇଥିଲେ ଏବଂ ନନ୍ଦ କିଶୋର ଦାସ ଉପ-ବାଚସ୍ପତି ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730174624-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Monuments",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which district of Odisha is the UNESCO World Heritage Site 'Konark Sun Temple' located?",
+      "options": [
+        "Puri",
+        "Khurda",
+        "Cuttack",
+        "Ganjam"
+      ],
+      "answer": 0,
+      "explanation": "The Konark Sun Temple is situated in the Puri district of Odisha, about 35 kilometres northeast from the city of Puri.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ୟୁନେସ୍କୋ ବିଶ୍ୱ ଐତିହ୍ୟ ସ୍ଥଳ 'କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର' ଅବସ୍ଥିତ?",
+          "options": [
+            "ପୁରୀ",
+            "ଖୋର୍ଦ୍ଧା",
+            "କଟକ",
+            "ଗଞ୍ଜାମ"
+          ],
+          "explanation": "କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର ଓଡ଼ିଶାର ପୁରୀ ଜିଲ୍ଲାରେ, ପୁରୀ ସହରଠାରୁ ପ୍ରାୟ ୩୫ କିଲୋମିଟର ଉତ୍ତର-ପୂର୍ବରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785730174624-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Medieval History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga dynasty shifted the capital from Kalinganagara to Abhinava Varanasi Kataka (present-day Cuttack)?",
+      "options": [
+        "Anantavarman Chodagangadeva",
+        "Anangabhima Deva III",
+        "Narasimhadeva I",
+        "Bhanudeva I"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhima Deva III shifted the capital of the Eastern Ganga Empire from Kalinganagara to Abhinava Varanasi Kataka (modern Cuttack) in the early 13th century.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ବର୍ତ୍ତମାନର କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ ଚୋଡ଼ଗଙ୍ଗଦେବ",
+            "ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ",
+            "ନରସିଂହଦେବ ପ୍ରଥମ",
+            "ଭାନୁଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ପୂର୍ବ ଗଙ୍ଗ ଶାସକ ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ ୧୩ଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ ନିଜର ରାଜଧାନୀ କଳିଙ୍ଗନଗରରୁ ନବନିର୍ମିତ ଅଭିନବ ବାରାଣସୀ କଟକକୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
         }
       }
     }

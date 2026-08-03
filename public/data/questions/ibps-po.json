@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6394,6 +6394,136 @@
       ],
       "answer": 1,
       "explanation": "NABARD was established on July 12, 1982, based on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), chaired by B. Sivaraman.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785730049321-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The radius of a solid circular cylinder is equal to the side of a square whose area is 196 cm². If the height of the cylinder is twice its radius, what is the total surface area of the cylinder (in cm²)? (Use π = 22/7)",
+      "options": [
+        "3696 cm²",
+        "3432 cm²",
+        "2464 cm²",
+        "3168 cm²"
+      ],
+      "answer": 0,
+      "explanation": "Side of square = √196 = 14 cm. Radius of cylinder (r) = 14 cm. Height of cylinder (h) = 2 × 14 = 28 cm. Total Surface Area of cylinder = 2 * π * r * (r + h) = 2 * (22/7) * 14 * (14 + 28) = 2 * 22 * 2 * 42 = 3696 cm²."
+    },
+    {
+      "id": "ibps-po-ai-1785730049321-1",
+      "section": "Quant",
+      "topic": "Profit, Loss & Mixture",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper buys two varieties of tea, Type A at Rs. 160 per kg and Type B at Rs. 260 per kg, and mixes them in the ratio 3 : 2. He marks up the mixed tea by 30% above its effective cost price and then offers a discount of 10% on the marked price. If his total profit from selling the entire mixture is Rs. 1,020, find the total quantity of Type A tea in the mixture.",
+      "options": [
+        "12 kg",
+        "15 kg",
+        "18 kg",
+        "24 kg"
+      ],
+      "answer": 2,
+      "explanation": "Effective CP per kg of mixture = (3 * 160 + 2 * 260) / (3 + 2) = (480 + 520) / 5 = Rs. 200 per kg. Marked Price (MP) per kg = 200 * 1.30 = Rs. 260. Selling Price (SP) per kg = 260 * (1 - 0.10) = Rs. 234. Profit per kg = 234 - 200 = Rs. 34. Total weight of mixture = Total Profit / Profit per kg = 1020 / 34 = 30 kg. Quantity of Type A tea = (3 / 5) * 30 = 18 kg."
+    },
+    {
+      "id": "ibps-po-ai-1785730098491-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are correct.\n\nDefinitions:\nP @ Q means P is not smaller than Q (P ≥ Q)\nP # Q means P is neither greater than nor equal to Q (P < Q)\nP $ Q means P is neither smaller than nor greater than Q (P = Q)\nP % Q means P is not greater than Q (P ≤ Q)\nP & Q means P is neither smaller than nor equal to Q (P > Q)\n\nStatements:\nM @ N, N & O, O $ P, P % Q\n\nConclusions:\nI. M & O\nII. N & P",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Neither conclusion I nor II is true",
+        "Both conclusions I and II are true"
+      ],
+      "answer": 3,
+      "explanation": "Decoding the statements:\nM @ N => M ≥ N\nN & O => N > O\nO $ P => O = P\nP % Q => P ≤ Q\nCombining them: M ≥ N > O = P ≤ Q\n\nChecking Conclusions:\nI. M & O => M > O: Since M ≥ N > O, M > O is definitely true.\nII. N & P => N > P: Since N > O = P, N > P is definitely true.\n\nHence, both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-po-ai-1785730098491-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons — A, B, C, D, E, F, G, and H — are sitting in a straight row facing North.\n- Only three persons sit between A and D.\n- G sits third to the right of D.\n- B sits second to the left of G.\n- As many persons sit to the left of B as to the right of F.\n- H sits to the immediate left of C.\n- C does not sit at any of the extreme ends.\n- E sits at one of the positions to the right of H.\n\nWho sits third to the right of C?",
+      "options": [
+        "B",
+        "F",
+        "G",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "Let the 8 positions from left to right be 1 to 8:\n1. G sits third to the right of D, and B sits second to the left of G => D at 3, B at 4, G at 6.\n2. Three persons sit between A and D => A is at 7.\n3. As many persons sit to the left of B (3 persons: 1, 2, 3) as to the right of F => F is at 5.\n4. H sits to the immediate left of C => H is at 1, C is at 2.\n5. E sits to the right of H => E is at 8.\n\nThe final arrangement from position 1 to 8 is: H, C, D, B, F, G, A, E.\nC is at position 2. Third to the right of C is position 5, where F is sitting."
+    },
+    {
+      "id": "ibps-po-ai-1785730111193-0",
+      "section": "English",
+      "topic": "Grammar - Conditionals",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following options should replace the phrase in bold to make the sentence grammatically correct?\n\n\"Had the management implemented the security protocols earlier, the data breach **would prevent** without incurring such heavy operational losses.\"",
+      "options": [
+        "would have been prevented",
+        "will be prevented",
+        "had been prevented",
+        "would be preventing"
+      ],
+      "answer": 0,
+      "explanation": "In an inverted third conditional structure starting with 'Had + subject + past participle', the main clause requires 'would have + past participle'. Because the subject 'data breach' is the recipient of the action, the passive construction 'would have been prevented' is required."
+    },
+    {
+      "id": "ibps-po-ai-1785730111193-1",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the phrasal verb that best completes the given sentence contextually:\n\nThe board of directors decided to ________ the proposed acquisition until the audit committee completed its detailed financial evaluation.",
+      "options": [
+        "hold off on",
+        "call out for",
+        "carry through with",
+        "bring around to"
+      ],
+      "answer": 0,
+      "explanation": "'Hold off on' means to delay or postpone doing something. In the given context, the board is postponing the acquisition pending a financial evaluation. 'Call out for' means to demand, 'carry through with' means to complete, and 'bring around to' means to persuade."
+    },
+    {
+      "id": "ibps-po-ai-1785730120456-0",
+      "section": "General Awareness",
+      "topic": "Sovereign Gold Bond Scheme",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme issued by the Reserve Bank of India, what is the maximum limit of subscription permitted per fiscal year for individual investors and Hindu Undivided Families (HUFs)?",
+      "options": [
+        "1 kg",
+        "2 kg",
+        "4 kg",
+        "20 kg"
+      ],
+      "answer": 2,
+      "explanation": "According to the Sovereign Gold Bond (SGB) Scheme guidelines issued by the Reserve Bank of India (RBI), the maximum limit of subscription per fiscal year (April-March) is 4 kg for individuals and HUFs, and 20 kg for trusts and similar entities.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785730120456-1",
+      "section": "General Awareness",
+      "topic": "Money Market Instruments",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, Commercial Papers (CPs) can be issued in minimum denominations of which amount and in multiples thereof?",
+      "options": [
+        "₹1 lakh",
+        "₹5 lakh",
+        "₹10 lakh",
+        "₹25 lakh"
+      ],
+      "answer": 1,
+      "explanation": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note. Under RBI guidelines, CPs are issued in minimum denominations of ₹5 lakh and in multiples of ₹5 lakh thereafter.",
       "status": "pending"
     }
   ]

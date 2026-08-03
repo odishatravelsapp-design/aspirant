@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6607,6 +6607,119 @@
       ],
       "answer": 1,
       "explanation": "'Ephemeral' means lasting for a very short time. Its antonym is 'Perpetual' (never ending or changing, eternal). 'Transient', 'Fleeting', and 'Evanescent' are synonyms."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729941141-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A is 50% more efficient than B. If working together, they can complete a piece of work in 12 days, in how many days can A alone complete the same work?",
+      "options": [
+        "18 days",
+        "20 days",
+        "25 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the efficiency of B be 2 units/day. Since A is 50% more efficient than B, A's efficiency = 2 + 50% of 2 = 3 units/day. Combined efficiency of A and B = 3 + 2 = 5 units/day. Total work = Combined efficiency × Number of days = 5 × 12 = 60 units. Time taken by A alone = Total work / A's efficiency = 60 / 3 = 20 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729941141-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person invests a total sum of ₹15,000 in two schemes, A and B. Scheme A offers simple interest at 12% per annum, while Scheme B offers compound interest at 10% per annum (compounded annually). If the total interest earned from both schemes combined after 2 years is ₹3,372, what was the amount invested in Scheme B?",
+      "options": [
+        "₹7,200",
+        "₹7,400",
+        "₹7,600",
+        "₹7,800"
+      ],
+      "answer": 2,
+      "explanation": "Let the amount invested in Scheme B be ₹x. Then the amount invested in Scheme A is ₹(15000 - x). Effective SI rate for 2 years at 12% p.a. = 12% × 2 = 24%. Effective CI rate for 2 years at 10% p.a. = 10 + 10 + (10×10)/100 = 21%. Total Interest = SI from A + CI from B => 0.24 × (15000 - x) + 0.21 × x = 3372 => 3600 - 0.24x + 0.21x = 3372 => 0.03x = 228 => x = 228 / 0.03 = 7600. Therefore, the amount invested in Scheme B is ₹7,600."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729960929-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a family of six members—A, B, C, D, E, and F—there are two married couples. D is the mother of B and grandmother of A. C is the wife of B and mother of F. F is the granddaughter of E. How is E related to B?",
+      "options": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Son"
+      ],
+      "answer": 0,
+      "explanation": "D is the mother of B, and C is the wife of B. B and C are the parents of F. Since F is the granddaughter of E, and D is the grandmother of F, E must be D's husband (and F's grandfather). Therefore, since E is the husband of B's mother (D), E is B's father."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729960930-1",
+      "section": "Reasoning",
+      "topic": "Scheduling Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Four persons—W, X, Y, and Z—attend a seminar on two different dates, 12th and 27th, of two different months, March and April of the same year. No two persons attend on the same date. Y attends on an even-numbered date of a month having 31 days. Exactly two persons attend between Y and X. W attends on an odd-numbered date immediately before Z. Who attends the seminar on 12th April?",
+      "options": [
+        "W",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "answer": 3,
+      "explanation": "March has 31 days and April has 30 days. Y attends on an even-numbered date of March, which means Y attends on March 12th. Exactly two persons attend between Y and X, which places X on April 27th. W attends on an odd-numbered date (March 27th) immediately before Z. Therefore, Z attends the seminar on April 12th."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729971377-0",
+      "section": "English",
+      "topic": "Spotting Errors",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the following sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Mark the part with the error as your answer.\n\nNeither the managing director (A) / nor the board members (B) / was present at (C) / the annual general meeting. (D)",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": 2,
+      "explanation": "In sentences using 'neither... nor', the verb must agree with the subject closest to it. Here, 'board members' is plural, so the singular verb 'was' in part (C) should be replaced with the plural verb 'were'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729971377-1",
+      "section": "English",
+      "topic": "Contextual Word Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, a word is given in bold followed by three sentences. Choose the option that indicates the sentence(s) in which the word has been used correctly.\n\nPERSPICACIOUS\n\nI. Her perspicacious analysis of the market trends allowed the company to avoid a severe financial crisis.\nII. The perspicacious noise coming from the construction site disrupted the ongoing board meeting.\nIII. Known for being a perspicacious reader, he could easily identify subtle themes and implicit arguments in complex philosophical texts.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and III",
+        "Both II and III"
+      ],
+      "answer": 2,
+      "explanation": "'Perspicacious' means having a ready insight into and understanding of things (shrewd, insightful). It correctly fits sentences I and III. In sentence II, using 'perspicacious' to describe noise is incorrect; a word like 'cacophonous' or 'persistent' would be appropriate."
+    },
+    {
+      "id": "sbi-clerk-ai-1785729981615-1",
+      "section": "General Awareness",
+      "topic": "RBI & Monetary Policy",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India (RBI) introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. What primary feature distinguishes the SDF from the traditional Reverse Repo facility?",
+      "options": [
+        "SDF requires banks to park collateral G-Secs with RBI to absorb liquidity.",
+        "SDF allows RBI to absorb excess liquidity from banks without providing collateral government securities.",
+        "SDF operates exclusively for Non-Banking Financial Companies (NBFCs) and Regional Rural Banks (RRBs).",
+        "SDF carries a mandatory lock-in period of 14 days for all commercial bank deposits."
+      ],
+      "answer": 1,
+      "explanation": "Unlike the Reverse Repo facility where the RBI provides government securities as collateral to banks depositing funds, the Standing Deposit Facility (SDF) is a collateral-free liquidity absorption mechanism introduced under Section 17 of the RBI Act, 1934.",
+      "status": "pending"
     }
   ]
 }

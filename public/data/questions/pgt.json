@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -7299,6 +7299,120 @@
       ],
       "answer": 1,
       "explanation": "Retroactive interference happens when new information acts backward to disrupt the retrieval of previously learned information."
+    },
+    {
+      "id": "pgt-ai-1785730693125-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Psychology - Constructivism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Lev Vygotsky's Social Development Theory, the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance is known as the:",
+      "options": [
+        "Zone of Proximal Development (ZPD)",
+        "Scaffolding",
+        "More Knowledgeable Other (MKO)",
+        "Cognitive Dissonance"
+      ],
+      "answer": 0,
+      "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the distance between the actual developmental level determined by independent problem solving and the level of potential development determined through problem solving under adult guidance or in collaboration with more capable peers.",
+      "translations": {
+        "or": {
+          "question": "ଲେଭ୍ ଭିଗୋଟ୍ସ୍କିଙ୍କ (Lev Vygotsky) ସାମାଜିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ସ୍ୱାଧୀନ ସମସ୍ୟା ସମାଧାନ ଦ୍ୱାରା ନିର୍ଦ୍ଧାରିତ ପ୍ରକୃତ ବିକାଶ ସ୍ତର ଏବଂ ବୟସ୍କଙ୍କ ମାର୍ଗଦର୍ଶନରେ ସମସ୍ୟା ସମାଧାନ ଦ୍ୱାରା ନିର୍ଦ୍ଧାରିତ ସମ୍ଭାବ୍ୟ ବିକାଶ ସ୍ତର ମଧ୍ୟରେ ଥିବା ବ୍ୟବଧାନକୁ କ’ଣ କୁହାଯାଏ?",
+          "options": [
+            "ସାମୀପ୍ୟ ବିକାଶର କ୍ଷେତ୍ର (Zone of Proximal Development)",
+            "ସ୍କାଫୋଲ୍ଡିଂ (Scaffolding)",
+            "ଅଧିକ ଜ୍ଞାନୀ ବ୍ୟକ୍ତି (More Knowledgeable Other)",
+            "ଜ୍ଞାନାତ୍ମକ ଦ୍ୱନ୍ଦ୍ୱ (Cognitive Dissonance)"
+          ],
+          "explanation": "ଲେଭ୍ ଭିଗୋଟ୍ସ୍କି ସାମୀପ୍ୟ ବିକାଶର କ୍ଷେତ୍ର (Zone of Proximal Development) କୁ ସ୍ୱାଧୀନ ସମସ୍ୟା ସମାଧାନ ଦ୍ୱାରା ନିର୍ଦ୍ଧାରିତ ପ୍ରକୃତ ବିକାଶ ସ୍ତର ଏବଂ ବୟସ୍କ କିମ୍ବା ଅଧିକ ଦକ୍ଷ ସାଥୀଙ୍କ ମାର୍ଗଦର୍ଶନରେ ହାସଲ ହୋଇପାରୁଥିବା ସମ୍ଭାବ୍ୟ ବିକାଶ ସ୍ତର ମଧ୍ୟରେ ଥିବା ପାର୍ଥକ୍ୟ ଭାବରେ ସଂଜ୍ଞାୟିତ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785730693125-1",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Learning Theories",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In David Ausubel's Subsumption Theory of Meaningful Verbal Learning, which specific type of subsumption occurs when new material is learned as an extension, elaboration, or modification of a previously learned concept?",
+      "options": [
+        "Derivative Subsumption",
+        "Correlative Subsumption",
+        "Superordinate Subsumption",
+        "Combinatorial Subsumption"
+      ],
+      "answer": 1,
+      "explanation": "Correlative Subsumption occurs when new learning material is an extension, elaboration, or qualification of previously learned concepts, requiring the higher-level concept in the cognitive structure to be modified or expanded to incorporate the new knowledge.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ (David Ausubel) ସାର୍ଥକ ମୌଖିକ ଶିକ୍ଷଣର ସବ୍‌ସମ୍ପସନ୍ ସିଦ୍ଧାନ୍ତ (Subsumption Theory) ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ବିଷୟବସ୍ତୁ ପୂର୍ବରୁ ଶିଖାଯାଇଥିବା ଧାରଣାର ଏକ ବିସ୍ତାର, ପରିବର୍ଦ୍ଧନ କିମ୍ବା ସଂଶୋଧନ ଭାବରେ ଶିଖାଯାଏ, ତାହାକୁ କେଉଁ ପ୍ରକାରର ସବ୍‌ସମ୍ପସନ୍ କୁହାଯାଏ?",
+          "options": [
+            "ଡେରିଭେଟିଭ୍ ସବ୍‌ସମ୍ପସନ୍ (Derivative Subsumption)",
+            "କୋରିଲେଟିଭ୍ ସବ୍‌ସମ୍ପସନ୍ (Correlative Subsumption)",
+            "ସୁପରଅର୍ଡିନେଟ୍ ସବ୍‌ସମ୍ପସନ୍ (Superordinate Subsumption)",
+            "କମ୍ବିନେଟୋରିଆଲ୍ ସବ୍‌ସମ୍ପସନ୍ (Combinatorial Subsumption)"
+          ],
+          "explanation": "କୋରିଲେଟିଭ୍ ସବ୍‌ସମ୍ପସନ୍ (Correlative Subsumption) ସେତେବେଳେ ଘଟିଥାଏ ଯେତେବେଳେ ନୂତନ ଶିକ୍ଷଣ ବିଷୟବସ୍ତୁ ପୂର୍ବରୁ ଶିଖାଯାଇଥିବା ଧାରଣାର ଏକ ବିସ୍ତାର କିମ୍ବା ପରିବର୍ଦ୍ଧନ ହୋଇଥାଏ, ଯାହା ନୂତନ ଜ୍ଞାନକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରିବା ପାଇଁ ଜ୍ଞାନାତ୍ମକ ସଂରଚନାରେ ଥିବା ଉଚ୍ଚ-ସ୍ତରର ଧାରଣାକୁ ସଂଶୋଧିତ କିମ୍ବା ବିସ୍ତାରିତ କରିବାକୁ ଦାବି କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785730762083-0",
+      "section": "Subject Knowledge",
+      "topic": "Organometallic Chemistry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following mononuclear transition metal carbonyl complexes obeys the 18-electron rule?",
+      "options": [
+        "[V(CO)6]",
+        "[Cr(CO)6]",
+        "[Mn(CO)5]",
+        "[Fe(CO)4]"
+      ],
+      "answer": 1,
+      "explanation": "Chromium (Cr) is a Group 6 element with 6 valence electrons. Each of the 6 carbon monoxide (CO) ligands donates 2 electrons, giving a total valence electron count of 6 + (6 × 2) = 18. Thus, [Cr(CO)6] obeys the 18-electron rule. In contrast, [V(CO)6] has 17 electrons, [Mn(CO)5] has 17 electrons, and [Fe(CO)4] has 16 electrons.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଏକକ-କେନ୍ଦ୍ରୀୟ ସଂକ୍ରମଣ ଧାତୁ କାର୍ବୋନିଲ୍ କମ୍ପ୍ଲେକ୍ସଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ୧୮-ଇଲେକ୍ଟ୍ରନ୍ ନିୟମ ପାଳନ କରେ?",
+          "options": [
+            "[V(CO)6]",
+            "[Cr(CO)6]",
+            "[Mn(CO)5]",
+            "[Fe(CO)4]"
+          ],
+          "explanation": "କ୍ରୋମିଅମ୍ (Cr) ହେଉଛି ଗ୍ରୁପ୍ ୬ ର ଏକ ମୌଳିକ, ଯାହାର ୬ଟି ଭାଲେନ୍ସ ଇଲେକ୍ଟ୍ରନ୍ ଅଛି | ୬ଟି କାର୍ବନ୍ ମୋନୋକ୍ସାଇଡ୍ (CO) ଲିଗାଣ୍ଡରୁ ପ୍ରତ୍ୟେକ ୨ଟି ଇଲେକ୍ଟ୍ରନ୍ ଦାନ କରନ୍ତି, ଯାହା ମୋଟ ଭାଲେନ୍ସ ଇଲେକ୍ଟ୍ରନ୍ ସଂଖ୍ୟା ୬ + (୬ × ୨) = ୧୮ ଦିଏ | ତେଣୁ, [Cr(CO)6] ୧୮-ଇଲେକ୍ଟ୍ରନ୍ ନିୟମ ପାଳନ କରେ | [V(CO)6] ରେ ୧୭ଟି, [Mn(CO)5] ରେ ୧୭ଟି ଏବଂ [Fe(CO)4] ରେ ୧୬ଟି ଇଲେକ୍ଟ୍ରନ୍ ଥାଏ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785730762083-1",
+      "section": "Subject Knowledge",
+      "topic": "NMR Spectroscopy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the 1H-NMR spectrum of an AB spin system, four line positions are observed at 460 Hz, 490 Hz, 510 Hz, and 540 Hz. What are the values of the spin-spin coupling constant (J_AB) and the chemical shift difference (Δν) between the two nuclei?",
+      "options": [
+        "J_AB = 30 Hz and Δν = 40 Hz",
+        "J_AB = 20 Hz and Δν = 50 Hz",
+        "J_AB = 30 Hz and Δν = 50 Hz",
+        "J_AB = 40 Hz and Δν = 30 Hz"
+      ],
+      "answer": 0,
+      "explanation": "For an AB spin system with line frequencies ν1 = 460 Hz, ν2 = 490 Hz, ν3 = 510 Hz, and ν4 = 540 Hz, the coupling constant J_AB = ν2 - ν1 = 490 - 460 = 30 Hz. The quantity 2C is given by (ν4 - ν1 + ν3 - ν2)/2 = (80 + 20)/2 = 50 Hz. Since (2C)^2 = (Δν)^2 + (J_AB)^2, we have 50^2 = (Δν)^2 + 30^2, which gives (Δν)^2 = 2500 - 900 = 1600, so Δν = 40 Hz.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏକ AB ସ୍ପିନ୍ ସିଷ୍ଟମର 1H-NMR ସ୍ପେକ୍ଟ୍ରମ୍ରେ, ଚାରୋଟି ଲାଇନ୍ ସ୍ଥିତି 460 Hz, 490 Hz, 510 Hz, ଏବଂ 540 Hz ରେ ଦେଖାଯାଏ | ଦୁଇଟି ନ୍ୟୁକ୍ଲିଅସ୍ ମଧ୍ୟରେ ସ୍ପିନ୍-ସ୍ପିନ୍ କପଲିଂ କନଷ୍ଟାଣ୍ଟ (J_AB) ଏବଂ କେମିକାଲ୍ ସିଫ୍ଟ ପାର୍ଥକ୍ୟ (Δν) ର ମୂଲ୍ୟ କେତେ?",
+          "options": [
+            "J_AB = 30 Hz ଏବଂ Δν = 40 Hz",
+            "J_AB = 20 Hz ଏବଂ Δν = 50 Hz",
+            "J_AB = 30 Hz ଏବଂ Δν = 50 Hz",
+            "J_AB = 40 Hz ଏବଂ Δν = 30 Hz"
+          ],
+          "explanation": "AB ସ୍ପିନ୍ ସିଷ୍ଟମରେ ଲାଇନ୍ ଆବୃତ୍ତି ν1 = 460 Hz, ν2 = 490 Hz, ν3 = 510 Hz, ଏବଂ ν4 = 540 Hz ହୋଇଥିବାରୁ, କପଲିଂ କନଷ୍ଟାଣ୍ଟ J_AB = ν2 - ν1 = 490 - 460 = 30 Hz | 2C ର ମୂଲ୍ୟ (ν4 - ν1 + ν3 - ν2)/2 = (80 + 20)/2 = 50 Hz | (2C)^2 = (Δν)^2 + (J_AB)^2 ସୂତ୍ର ଅନୁସାରେ, 50^2 = (Δν)^2 + 30^2, ଯାହାଦ୍ୱାରା (Δν)^2 = 2500 - 900 = 1600, ଅର୍ଥାତ୍ Δν = 40 Hz ହେବ |"
+        }
+      }
     }
   ]
 }

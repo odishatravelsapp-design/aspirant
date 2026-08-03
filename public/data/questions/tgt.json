@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -3799,6 +3799,62 @@
       ],
       "answer": 1,
       "explanation": "Retroactive interference happens when new information acts backward to disrupt the retrieval of previously learned information."
+    },
+    {
+      "id": "tgt-ai-1785731414494-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to NCERT norms, what is the total duration allocated for one complete cycle of Microteaching in teacher training?",
+      "options": [
+        "30 minutes",
+        "36 minutes",
+        "42 minutes",
+        "45 minutes"
+      ],
+      "answer": 1,
+      "explanation": "As per the Indian (NCERT) model of microteaching, a full cycle takes 36 minutes, broken down as: Teaching (6 min), Feedback (6 min), Re-planning (12 min), Re-teaching (6 min), and Re-feedback (6 min).",
+      "translations": {
+        "or": {
+          "question": "NCERT ନିୟମ ଅନୁଯାୟୀ, ଶିକ୍ଷକ ପ୍ରଶିକ୍ଷଣରେ ମାଇକ୍ରୋଟିଚିଂ (Microteaching) ର ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ଚକ୍ର ପାଇଁ ମୋଟ କେତେ ସମୟ ବରାଦ କରାଯାଇଛି?",
+          "options": [
+            "30 ମିନିଟ୍",
+            "36 ମିନିଟ୍",
+            "42 ମିନିଟ୍",
+            "45 ମିନିଟ୍"
+          ],
+          "explanation": "ଭାରତୀୟ (NCERT) ମାଇକ୍ରୋଟିଚିଂ ମଡେଲ୍ ଅନୁଯାୟୀ, ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ଚକ୍ରର ମୋଟ ଅବଧି ହେଉଛି 36 ମିନିଟ୍: ଶିକ୍ଷାଦାନ (6 ମିନିଟ୍), ପ୍ରତିପୁଷ୍ଟି (6 ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (12 ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷାଦାନ (6 ମିନିଟ୍), ଏବଂ ପୁନଃ-ପ୍ରତିପୁଷ୍ଟି (6 ମିନିଟ୍)।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1785731414494-1",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy (Affective Domain)",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In David Krathwohl's taxonomy of the Affective Domain, which level represents the highest hierarchical stage where an individual acts consistently in accordance with an internalized system of values?",
+      "options": [
+        "Valuing",
+        "Organization",
+        "Characterization by Value or Value Complex",
+        "Responding"
+      ],
+      "answer": 2,
+      "explanation": "Krathwohl's Affective Domain consists of five levels in ascending order: Receiving, Responding, Valuing, Organization, and Characterization by Value or Value Complex. The highest level, Characterization, occurs when a person's behaviour is consistently guided by their internal value system.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କ୍ରାଥୱୋଲଙ୍କ (David Krathwohl) ଭାବାତ୍ମକ କ୍ଷେତ୍ର (Affective Domain) ର ବର୍ଗୀକରଣରେ, କେଉଁ ସ୍ତରଟି ସର୍ବୋଚ୍ଚ ପଦାନୁକ୍ରମିକ ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ଵ କରେ ଯେଉଁଠାରେ ଜଣେ ବ୍ୟକ୍ତି ନିଜର ଆଭ୍ୟନ୍ତରୀଣ ମୂଲ୍ୟବୋଧ ପ୍ରଣାଳୀ ଅନୁଯାୟୀ ନିରନ୍ତର କାର୍ଯ୍ୟ କରେ?",
+          "options": [
+            "ମୂଲ୍ୟାଙ୍କନ (Valuing)",
+            "ସଂଗଠନ (Organization)",
+            "ମୂଲ୍ୟବୋଧ ଦ୍ୱାରା ଚରିତ୍ରଗଠନ (Characterization by Value or Value Complex)",
+            "ଅନୁକ୍ରିୟା (Responding)"
+          ],
+          "explanation": "କ୍ରାଥୱୋଲଙ୍କ ଭାବାତ୍ମକ କ୍ଷେତ୍ରରେ ଆରୋହୀ କ୍ରମରେ ୫ଟି ସ୍ତର ରହିଛି: ଗ୍ରହଣ କରିବା (Receiving), ଅନୁକ୍ରିୟା (Responding), ମୂଲ୍ୟାଙ୍କନ (Valuing), ସଂଗଠନ (Organization), ଏବଂ ମୂଲ୍ୟବୋଧ ଦ୍ୱାରା ଚରିତ୍ରଗଠନ (Characterization by Value) ଯାହା ସର୍ବୋଚ୍ଚ ସ୍ତର ଅଟେ।"
+        }
+      }
     }
   ]
 }

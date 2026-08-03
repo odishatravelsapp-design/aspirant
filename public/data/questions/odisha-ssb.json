@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -10154,6 +10154,176 @@
       ],
       "answer": 1,
       "explanation": "Retroactive interference happens when new information acts backward to disrupt the retrieval of previously learned information."
+    },
+    {
+      "id": "odisha-ssb-ai-1785730194559-0",
+      "section": "Subject Knowledge",
+      "topic": "Romantic Literature",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In William Wordsworth's 'Preface to Lyrical Ballads', poetry is famously defined as:",
+      "options": [
+        "the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility",
+        "the best words in the best order",
+        "a criticism of life under the conditions fixed for such a criticism by the laws of poetic truth",
+        "an imitation of human actions, passions, and experiences conveyed through harmonious rhythm"
+      ],
+      "answer": 0,
+      "explanation": "William Wordsworth famously defined poetry in his 'Preface to Lyrical Ballads' (1800) as 'the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility.'",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ୱାର୍ଡ଼ସୱର୍ଥଙ୍କ 'ପ୍ରିଫେସ୍ ଟୁ ଲିରିକାଲ୍ ବାଲାଡ୍ସ' (Preface to Lyrical Ballads) ରେ କବିତାକୁ କିପରି ସଂଜ୍ଞାୟିତ କରାଯାଇଛି?",
+          "options": [
+            "ଶକ୍ତିଶାଳୀ ଭାବନାର ସ୍ୱତଃସ୍ଫୂର୍ତ୍ତ ପ୍ରବାହ: ଏହା ପ୍ରଶାନ୍ତତାରେ ସ୍ମରଣ କରାଯାଇଥିବା ଆବେଗରୁ ଉତ୍ପନ୍ନ ହୁଏ",
+            "ସର୍ବୋତ୍ତମ କ୍ରମରେ ସର୍ବୋତ୍ତମ ଶବ୍ଦ",
+            "କାବ୍ୟିକ ସତ୍ୟର ନିୟମ ଦ୍ୱାରା ନିର୍ଦ୍ଧାରିତ ସର୍ତ୍ତ ଅଧୀନରେ ଜୀବନର ସମାଲୋଚନା",
+            "ସୁସଂଗତ ଛନ୍ଦ ମାଧ୍ୟମରେ ମାନବୀୟ କାର୍ଯ୍ୟ, ଆବେଗ ଏବଂ ଅନୁଭୂତିର ଅନୁକରଣ"
+          ],
+          "explanation": "ୱିଲିୟମ୍ ୱାର୍ଡ଼ସୱର୍ଥ ତାଙ୍କର 'ପ୍ରିଫେସ୍ ଟୁ ଲିରିକାଲ୍ ବାଲାଡ୍ସ' ରେ କବିତାକୁ 'ଶକ୍ତିଶାଳୀ ଭାବନାର ସ୍ୱତଃସ୍ଫୂର୍ତ୍ତ ପ୍ରବାହ: ଏହା ପ୍ରଶାନ୍ତତାରେ ସ୍ମରଣ କରାଯାଇଥିବା ଆବେଗରୁ ଉତ୍ପନ୍ନ ହୁଏ' ଭାବରେ ପ୍ରସିଦ୍ଧ ସଂଜ୍ଞା ଦେଇଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785730194559-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism & New Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In their seminal 1946 essay 'The Intentional Fallacy', W.K. Wimsatt Jr. and Monroe Beardsley argue that:",
+      "options": [
+        "the emotional response of the reader is the only valid criterion for evaluating a poem",
+        "the author's intention or design is neither available nor desirable as a standard for judging a literary work",
+        "a text must always be interpreted in light of the historical and biographical circumstances of its composition",
+        "meaning in literature is inherently unstable due to the arbitrary nature of linguistic signs"
+      ],
+      "answer": 1,
+      "explanation": "In 'The Intentional Fallacy' (1946), W.K. Wimsatt Jr. and Monroe Beardsley argue that evaluating a literary work based on the author's intended meaning is misleading, asserting that the text itself is the primary source of meaning.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଡବ୍ଲୁ.କେ. ୱିମସାଟ୍ ଜୁନିୟର ଏବଂ ମୋନରୋ ବିୟାର୍ଡସଲିଙ୍କ ପ୍ରସିଦ୍ଧ ୧୯୪୬ ରଚନା 'ଦି ଇଣ୍ଟେନସନାଲ୍ ଫାଲାସି' (The Intentional Fallacy) ରେ କ’ଣ ଯୁକ୍ତି କରାଯାଇଛି?",
+          "options": [
+            "ପାଠକଙ୍କ ଭାବନାତ୍ମକ ପ୍ରତିକ୍ରିୟା ହେଉଛି ଗୋଟିଏ କବିତାର ଆକଳନ କରିବାର ଏକମାତ୍ର ବୈଧ ମାପଦଣ୍ଡ",
+            "ସାହିତ୍ୟିକ କଳାକୃତିର ସଫଳତା ଆକଳନ କରିବା ପାଇଁ ଲେଖକଙ୍କ ଉଦ୍ଦେଶ୍ୟ ବା ଇଚ୍ଛା କୌଣସି ମାନଦଣ୍ଡ ଭାବରେ ଉପଲବ୍ଧ କିମ୍ବା ଗ୍ରହଣୀୟ ନୁହେଁ",
+            "ଏକ ପାଠ୍ୟକୁ ସର୍ବଦା ଏହାର ସୃଷ୍ଟିର ଐତିହାସିକ ଏବଂ ଜୀବନୀ ସମ୍ବନ୍ଧୀୟ ପରିସ୍ଥିତି ଆଲୋକରେ ବ୍ୟାଖ୍ୟା କରାଯିବା ଉଚିତ",
+            "ଭାଷାଗତ ସଙ୍କେତର ସ୍ୱେଚ୍ଛାଚାରୀ ପ୍ରକୃତି ହେତୁ ସାହିତ୍ୟରେ ଅର୍ଥ ଅସ୍ଥାୟୀ ଅଟେ"
+          ],
+          "explanation": "'ଦି ଇଣ୍ଟେନସନାଲ୍ ଫାଲାସି' (୧୯୪୬) ରେ ୱିମସାଟ୍ ଏବଂ ବିୟାର୍ଡସଲି ଦାବି କରିଛନ୍ତି ଯେ ସାହିତ୍ୟିକ ପାଠ୍ୟର ମୂଲ୍ୟାଙ୍କନ ପାଇଁ ଲେଖକଙ୍କ ଉଦ୍ଦେଶ୍ୟକୁ ମାନଦଣ୍ଡ ଭାବରେ ବ୍ୟବହାର କରାଯାଇପାରିବ ନାହିଁ, କାରଣ ପାଠ୍ୟ ନିଜେ ଅର୍ଥର ମୁଖ୍ୟ ଉତ୍ସ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785730206658-0",
+      "section": "Teaching Aptitude",
+      "topic": "Interaction Analysis in Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned A. Flanders' Interaction Analysis Category System (FIACS), how many categories are devoted to 'Teacher Talk' out of the total 10 categories?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "Ned A. Flanders developed a 10-category system for observing classroom interaction. Out of the 10 categories, 7 are dedicated to Teacher Talk (4 for Indirect Influence and 3 for Direct Influence), 2 for Student Talk, and 1 for Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ନେଡ୍ ଏ. ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, ମୋଟ ୧୦ଟି କାଟେଗୋରୀ ମଧ୍ୟରୁ କେତୋଟି 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (Teacher Talk) ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ?",
+          "options": [
+            "୫",
+            "୬",
+            "୭",
+            "୮"
+          ],
+          "explanation": "ନେଡ୍ ଏ. ଫ୍ଲାଣ୍ଡର୍ସ ଶ୍ରେଣୀଗୃହର ଆଲୋଚନା ଅନୁଧ୍ୟାନ ପାଇଁ ୧୦ଟି କାଟେଗୋରୀର ବିଶ୍ଳେଷଣ ପ୍ରଣାଳୀ ପ୍ରସ୍ତୁତ କରିଥିଲେ। ଏଥିମଧ୍ୟରୁ ୭ଟି କାଟେଗୋରୀ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (୪ଟି ଅପ୍ରତ୍ୟକ୍ଷ ଏବଂ ୩ଟି ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ), ୨ଟି 'ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା' ଏବଂ ୧ଟି 'ନୀରବତା କିମ୍ବା ଦ୍ୱନ୍ଦ' ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785730206659-1",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Theories of Learning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Jerome Bruner's theory of cognitive growth, what is the correct chronological order of the three modes of representation from earliest to latest?",
+      "options": [
+        "Enactive, Iconic, Symbolic",
+        "Iconic, Enactive, Symbolic",
+        "Symbolic, Enactive, Iconic",
+        "Enactive, Symbolic, Iconic"
+      ],
+      "answer": 0,
+      "explanation": "Jerome Bruner proposed three modes of representation in child development: Enactive (action-based representation, predominant in infancy), Iconic (image-based representation, developed around ages 1–6), and Symbolic (language/code-based representation, developed around age 7 onwards).",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ୍ ବ୍ରୁନରଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି ମୋଡ୍ (Modes of Representation) ର ସଠିକ୍ ପୂର୍ବାପର କ୍ରମ କେଉଁଟି?",
+          "options": [
+            "ଇନାକ୍ଟିଭ୍, ଆଇକନିକ୍, ସିମ୍ବୋଲିକ୍",
+            "ଆଇକନିକ୍, ଇନାକ୍ଟିଭ୍, ସିମ୍ବୋଲିକ୍",
+            "ସିମ୍ବୋଲିକ୍, ଇନାକ୍ଟିଭ୍, ଆଇକନିକ୍",
+            "ଇନାକ୍ଟିଭ୍, ସିମ୍ବୋଲିକ୍, ଆଇକନିକ୍"
+          ],
+          "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍ ଶିଶୁର ଜ୍ଞାନାତ୍ମକ ବିକାଶ ପାଇଁ ତିନୋଟି ମୋଡ୍ ଦର୍ଶାଇଥିଲେ: ଇନାକ୍ଟିଭ୍ (କାର୍ଯ୍ୟ-ଆଧାରିତ, ଶୈଶବବାସ୍ଥା), ଆଇକନିକ୍ (ଛବି-ଆଧାରିତ, ୧-୬ ବର୍ଷ), ଏବଂ ସିମ୍ବୋଲିକ୍ (ଭାଷା/ସଙ୍କେତ-ଆଧାରିତ, ୭ ବର୍ଷରୁ ଉର୍ଦ୍ଧ୍ୱ)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785730273546-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Badaghagara and Sanaghagara waterfalls are located in which district of Odisha?",
+      "options": [
+        "Mayurbhanj",
+        "Keonjhar",
+        "Sundargarh",
+        "Kandhamal"
+      ],
+      "answer": 1,
+      "explanation": "Badaghagara and Sanaghagara waterfalls are popular scenic tourist spots located in the Keonjhar (Kendujhar) district of Odisha.",
+      "translations": {
+        "or": {
+          "question": "ବଡ଼ଘାଗରା ଏବଂ ସାନଘାଗରା ଜଳପ୍ରପାତ ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ମୟୂରଭଞ୍ଜ",
+            "କେନ୍ଦୁଝର",
+            "ସୁନ୍ଦରଗଡ଼",
+            "କନ୍ଧମାଳ"
+          ],
+          "explanation": "ବଡ଼ଘାଗରା ଏବଂ ସାନଘାଗରା ଜଳପ୍ରପାତ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785730273546-1",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Eastern Ganga ruler shifted the capital of his empire from Kalinganagara to Abhinava Varanasi Kataka (modern-day Cuttack) around 1230 CE?",
+      "options": [
+        "Anantavarman Chodagangadeva",
+        "Anangabhimadeva III",
+        "Narasimhadeva I",
+        "Bhanudeva I"
+      ],
+      "answer": 1,
+      "explanation": "King Anangabhimadeva III of the Eastern Ganga dynasty shifted the imperial capital from Kalinganagara to Abhinava Varanasi Kataka (present-day Cuttack) in 1230 CE.",
+      "translations": {
+        "or": {
+          "question": "୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦ ପାଖାପାଖି କେଉଁ ପୂର୍ବ ଗଙ୍ଗବଂଶୀୟ ଶାସକ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ୍ ଚୋଡ଼ଗଙ୍ଗଦେବ",
+            "ଅନଙ୍ଗଭୀମଦେବ ତୃତୀୟ",
+            "ନରସିଂହଦେବ ପ୍ରଥମ",
+            "ଭାନୁଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ରାଜା ଅନଙ୍ଗଭୀମଦେବ ତୃତୀୟ ୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ବର୍ତ୍ତମାନର କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ।"
+        }
+      }
     }
   ]
 }
