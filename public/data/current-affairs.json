@@ -1,254 +1,254 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-04",
   "items": [
     {
-      "id": "ca-1785384224360-0",
+      "id": "ca-1785817737565-0",
       "category": "National",
-      "title": "Lok Sabha Passes Public Examinations Amendment Bill 2026",
-      "summary": "The Lok Sabha passed the Public Examinations Amendment Bill 2026, introducing strict legal measures including a minimum of 5 years in jail for exam malpractices.",
+      "title": "Lok Sabha passes bill to increase Supreme Court judges' strength from 34 to 38",
+      "summary": "The Lok Sabha has passed a bill to expand the sanctioned strength of Supreme Court judges, including the Chief Justice of India (CJI), from 34 to 38.",
       "source": "Live Law",
       "translations": {
         "or": {
-          "title": "ଲୋକସଭାରେ ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ପାରିତ",
-          "summary": "ଲୋକସଭା ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ପାରିତ କରିଛି, ଯେଉଁଥିରେ ପରୀକ୍ଷା ଜାଲିଆତି ପାଇଁ ସର୍ବନିମ୍ନ ୫ ବର୍ଷର ଜେଲ ଦଣ୍ଡର ପ୍ରାବଧାନ ରହିଛି।"
+          "title": "ସୁପ୍ରିମକୋର୍ଟ ବିଚାରପତିଙ୍କ ସଂଖ୍ୟା ୩୪ ରୁ ୩୮ କୁ ବୃଦ୍ଧି ପାଇଁ ଲୋକସଭାରେ ବିଲ୍ ପାରିତ",
+          "summary": "ଭାରତର ମୁଖ୍ୟ ବିଚାରପତି (CJI) ଙ୍କ ସମେତ ସୁପ୍ରିମକୋର୍ଟର ଅନୁମୋଦିତ ବିଚାରପତି ସଂଖ୍ୟା ୩୪ ରୁ ୩୮ କୁ ବୃଦ୍ଧି କରିବା ପାଇଁ ଲୋକସଭାରେ ଏକ ବିଲ୍ ପାରିତ ହୋଇଛି।"
         }
       }
     },
     {
-      "id": "ca-1785384224360-1",
-      "category": "National",
-      "title": "Karnataka Released Excess Cauvery Water to Tamil Nadu Over Past 10 Years",
-      "summary": "Reports indicate that Karnataka released excess Cauvery river water to Tamil Nadu over the past decade beyond prescribed allocations.",
-      "source": "Deccan Herald",
-      "translations": {
-        "or": {
-          "title": "ବିଗତ ୧୦ ବର୍ଷରେ କର୍ଣ୍ଣାଟକ ତାମିଲନାଡୁକୁ ଅତିରିକ୍ତ କାବେରୀ ଜଳ ଛାଡ଼ିଛି",
-          "summary": "ରିପୋର୍ଟ ଅନୁଯାୟୀ, ବିଗତ ୧୦ ବର୍ଷ ମଧ୍ୟରେ କର୍ଣ୍ଣାଟକ ତାମିଲନାଡୁକୁ ଧାର୍ଯ୍ୟ ପରିମାଣଠାରୁ ଅଧିକ କାବେରୀ ନଦୀ ଜଳ ନିଷ୍କାସିତ କରିଛି।"
-        }
-      }
-    },
-    {
-      "id": "ca-1785384224360-2",
-      "category": "National",
-      "title": "Jagdish Aphale Appointed Ram Temple Trust's First Secretary",
-      "summary": "IIT Bombay alumnus Jagdish Aphale has been named the first secretary of the Ram temple trust, where he will oversee financial transactions.",
-      "source": "The Times of India",
-      "translations": {
-        "or": {
-          "title": "ଜଗଦୀଶ ଆଫଲେ ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ପ୍ରଥମ ସଚିବ ଭାବେ ନିଯୁକ୍ତ",
-          "summary": "ଆଇଆଇଟି ବମ୍ବେର ପୂର୍ବତନ ଛାତ୍ର ଜଗଦୀଶ ଆଫଲେଙ୍କୁ ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ପ୍ରଥମ ସଚିବ ଭାବରେ ନାମିତ କରାଯାଇଛି, ଯିଏ ଆର୍ଥିକ କାରବାରଗୁଡ଼ିକର ତଦାରଖ କରିବେ।"
-        }
-      }
-    },
-    {
-      "id": "ca-1785384224360-3",
+      "id": "ca-1785817737565-1",
       "category": "Banking",
-      "title": "Paytm Payments Bank Set for Winding Up Following RBI Licence Revocation",
-      "summary": "Paytm Payments Bank is set to be wound up following the revocation of its licence by the Reserve Bank of India.",
-      "source": "Yahoo Finance",
+      "title": "India achieves 99.92% banking coverage across inhabited villages",
+      "summary": "India has attained near-universal banking accessibility, with 99.92% of inhabited villages across the country now having access to formal banking services.",
+      "source": "DD News",
       "translations": {
         "or": {
-          "title": "ଆରବିଆଇ ଲାଇସେନ୍ସ ବାତିଲ ପରେ ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ ବନ୍ଦ ହେବା ମାର୍ଗରେ",
-          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ଦ୍ୱାରା ଲାଇସେନ୍ସ ବାତିଲ କରାଯିବା ପରେ ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ ବନ୍ଦ ହେବାକୁ ଯାଉଛି।"
+          "title": "ଭାରତର ୯୯.୯୨% ବସବାସପୂର୍ଣ୍ଣ ଗ୍ରାମରେ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସେବା ପହଞ୍ଚିଲା",
+          "summary": "ଦେଶର ୯୯.୯୨% ବସବାସପୂର୍ଣ୍ଣ ଗ୍ରାମରେ ଆନୁଷ୍ଠାନିକ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସେବା ଉପଲବ୍ଧ ହେବା ସହ ଭାରତ ପ୍ରାୟ-ସାର୍ବଜନୀନ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସୁବିଧା ହାସଲ କରିଛି।"
         }
       }
     },
     {
-      "id": "ca-1785384224360-4",
+      "id": "ca-1785817737565-2",
+      "category": "Banking",
+      "title": "FCNR(B) deposits nearly double to USD 60.5 billion after RBI relaxation",
+      "summary": "Foreign Currency Non-Resident (Bank) deposits nearly doubled to reach USD 60.5 billion following regulatory relaxations by the Reserve Bank of India, with HSBC, SBI, and ICICI leading inflows.",
+      "source": "BFSI News",
+      "translations": {
+        "or": {
+          "title": "ଆରବିଆଇ କୋହଳ ନୀତି ପରେ FCNR(B) ଜମା ୬୦.୫ ବିଲିୟନ ଡଲାରରେ ପହଞ୍ଚିଲା",
+          "summary": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କର ନିୟମାବଳୀ କୋହଳ ପରେ ବୈଦେଶିକ ମୁଦ୍ରା ଅଣ-ନିବାସୀ (ବ୍ୟାଙ୍କ) ଜମା ପ୍ରାୟ ଦ୍ୱିଗୁଣିତ ହୋଇ ୬୦.୫ ବିଲିୟନ ଡଲାରରେ ପହଞ୍ଚିଛି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1785817737565-3",
       "category": "Economy",
-      "title": "Finance Ministry Highlights Resilience Amid Global Economic Risks",
-      "summary": "The Finance Ministry's latest economic outlook emphasizes building resilience as global risks continue to test India's economy.",
-      "source": "Telegraph India",
+      "title": "RBI sells $14.9 billion during Jan-May to check rupee volatility",
+      "summary": "The Reserve Bank of India (RBI) sold $14.9 billion in foreign exchange between January and May to mitigate excess volatility in the Indian Rupee.",
+      "source": "The Hindu",
       "translations": {
         "or": {
-          "title": "ବିଶ୍ୱ ଅର୍ଥନୈତିକ ଝୁଙ୍କି ମଧ୍ୟରେ ସହନଶୀଳତା ଉପରେ ଅର୍ଥ ମନ୍ତ୍ରଣାଳୟର ଗୁରୁତ୍ୱ",
-          "summary": "ବିଶ୍ୱସ୍ତରୀୟ ଆହ୍ୱାନଗୁଡ଼ିକ ଭାରତୀୟ ଅର୍ଥବ୍ୟବସ୍ଥାକୁ ପରୀକ୍ଷା କରୁଥିବା ବେଳେ ଅର୍ଥ ମନ୍ତ୍ରଣାଳୟ ଏହାର ସହନଶୀଳତା ବୃଦ୍ଧି ଉପରେ ଗୁରୁତ୍ୱାରୋପ କରିଛି।"
+          "title": "ଟଙ୍କାର ଅସ୍ଥିରତା ରୋକିବାକୁ ଜାନୁଆରୀ-ମେ ମଧ୍ୟରେ ଆରବିଆଇ ୧୪.୯ ବିଲିୟନ ଡଲାର ବିକ୍ରି କଲା",
+          "summary": "ଭାରତୀୟ ଟଙ୍କାରେ ଅତ୍ୟାଧିକ ଅସ୍ଥିରତା ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଜାନୁଆରୀରୁ ମେ ମଧ୍ୟରେ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ୧୪.୯ ବିଲିୟନ ଡଲାରର ବୈଦେଶିକ ମୁଦ୍ରା ବିକ୍ରି କରିଛି।"
         }
       }
     },
     {
-      "id": "ca-1785384224360-5",
+      "id": "ca-1785817737565-4",
       "category": "Odisha",
-      "title": "Odisha and Japan's Tottori Prefecture Partner for Business and HR Exchange",
-      "summary": "Odisha is set to tie up with Japan’s Tottori Prefecture to foster collaboration in business initiatives and human resource exchange.",
-      "source": "The New Indian Express",
+      "title": "Adani Group proposes ₹1 Trillion AI Data Centre in Odisha",
+      "summary": "The Adani Group has proposed an investment of ₹1 trillion to set up an Artificial Intelligence (AI) Data Centre project in Odisha and has sought land allocation.",
+      "source": "Indiatimes",
       "translations": {
         "or": {
-          "title": "ବ୍ୟବସାୟ ଓ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନ ପାଇଁ ଓଡ଼ିଶା ଏବଂ ଜାପାନର ତୋତ୍ତୋରୀ ପ୍ରିଫେକ୍ଚର ମଧ୍ୟରେ ସହବନ୍ଧନ",
-          "summary": "ବ୍ୟବସାୟିକ ଉଦ୍ୟମ ଏବଂ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ ଓଡ଼ିଶା ଜାପାନର ତୋତ୍ତୋରୀ ପ୍ରିଫେକ୍ଚର ସହିତ ସହବନ୍ଧନ କରିବାକୁ ଯାଉଛି।"
+          "title": "ଓଡ଼ିଶାରେ ୧ ଟ୍ରିଲିୟନ ଟଙ୍କାର ଏଆଇ ଡାଟା ସେଣ୍ଟର ପ୍ରସ୍ତାବ ଦେଲା ଅଦାନୀ ଗ୍ରୁପ୍",
+          "summary": "ଓଡ଼ିଶାରେ ଏକ ଆର୍ଟିଫିସିଆଲ୍ ଇଣ୍ଟେଲିଜେନ୍ସ (AI) ଡାଟା ସେଣ୍ଟର ପ୍ରକଳ୍ପ ସ୍ଥାପନ ପାଇଁ ଅଦାନୀ ଗ୍ରୁପ୍ ୧ ଟ୍ରିଲିୟନ୍ ଟଙ୍କାର ବିନିଯୋଗ ପ୍ରସ୍ତାବ ଦେଇଛି।"
         }
       }
     },
     {
-      "id": "ca-1785384224360-6",
+      "id": "ca-1785817737565-5",
       "category": "Odisha",
-      "title": "50,000 Villages in Odisha to Get Optical Fibre Network by 2029",
-      "summary": "Under a new digital infrastructure initiative, 50,000 villages across Odisha are targeted to be connected with an optical fibre network by 2029.",
-      "source": "The New Indian Express",
+      "title": "Odisha seeks UNESCO Intangible Cultural Heritage tag for Puri Rath Yatra",
+      "summary": "The Government of Odisha has initiated steps to seek a UNESCO Intangible Cultural Heritage tag for the annual Puri Rath Yatra festival.",
+      "source": "The Hindu",
       "translations": {
         "or": {
-          "title": "୨୦୨୯ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମରେ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ",
-          "summary": "ଏକ ନୂତନ ଡିଜିଟାଲ ଭିତ୍ତିଭୂମି ଯୋଜନା ଅଧୀନରେ ୨୦୨୯ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମକୁ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ ସହିତ ଯୋଡ଼ାଯିବ।"
+          "title": "ପୁରୀ ରଥଯାତ୍ରା ପାଇଁ ୟୁନେସ୍କୋ ଐତିହ୍ୟ ମାନ୍ୟତା ଦାବି କଲା ଓଡ଼ିଶା",
+          "summary": "ବିଶ୍ୱପ୍ରସିଦ୍ଧ ପୁରୀ ରଥଯାତ୍ରା ପାଇଁ ୟୁନେସ୍କୋର ଅମୂର୍ତ୍ତ ସାଂସ୍କୃତିକ ଐତିହ୍ୟ ମାନ୍ୟତା ହାସଲ କରିବାକୁ ଓଡ଼ିଶା ସରକାର ପ୍ରକ୍ରିୟା ଆରମ୍ଭ କରିଛନ୍ତି।"
         }
       }
     },
     {
-      "id": "ca-1785384224360-7",
-      "category": "Odisha",
-      "title": "Heavy Rain and Floods Hit Five Districts in Odisha",
-      "summary": "Swollen rivers and severe rainfall have resulted in fresh flooding across five districts in Odisha, affecting over 5.5 lakh people.",
-      "source": "India Today",
+      "id": "ca-1785817737565-6",
+      "category": "National",
+      "title": "Supreme Court permits Calcutta HC to requisition judges from Jharkhand and Odisha",
+      "summary": "The Supreme Court of India has allowed the Calcutta High Court to requisition judges from the High Courts of Jharkhand and Odisha to handle case backlogs.",
+      "source": "News On AIR",
       "translations": {
         "or": {
-          "title": "ଓଡ଼ିଶାର ୫ଟି ଜିଲ୍ଲାରେ ବନ୍ୟା ପରିସ୍ଥିତି, ୫.୫ ଲକ୍ଷରୁ ଅଧିକ ଲୋକ ପ୍ରଭାବିତ",
-          "summary": "ପ୍ରବଳ ବର୍ଷା ଓ ନଦୀଗୁଡ଼ିକରେ ଜଳସ୍ତର ବୃଦ୍ଧି ଯୋଗୁଁ ଓଡ଼ିଶାର ୫ଟି ଜିଲ୍ଲାରେ ବନ୍ୟା ପରିସ୍ଥିତି ସୃଷ୍ଟି ହୋଇଛି, ଯାହାଦ୍ୱାରା ୫.୫ ଲକ୍ଷରୁ ଅଧିକ ଲୋକ ପ୍ରଭାବିତ ହୋଇଛନ୍ତି।"
+          "title": "ଝାଡ଼ଖଣ୍ଡ ଓ ଓଡ଼ିଶାରୁ ବିଚାରପତି ଆଣିବାକୁ କଲିକତା ହାଇକୋର୍ଟଙ୍କୁ ସୁପ୍ରିମକୋର୍ଟଙ୍କ ଅନୁମତି",
+          "summary": "ମାମଲା ପେଣ୍ଡିଂ ସମସ୍ୟାର ସମାଧାନ ପାଇଁ ଝାଡ଼ଖଣ୍ଡ ଓ ଓଡ଼ିଶା ହାଇକୋର୍ଟରୁ ବିଚାରପତିଙ୍କୁ ଆଣିବା ପାଇଁ ସୁପ୍ରିମକୋର୍ଟ କଲିକତା ହାଇକୋର୍ଟଙ୍କୁ ଅନୁମତି ଦେଇଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "ca-1785817737565-7",
+      "category": "Banking",
+      "title": "RBI issues new cybersecurity framework for commercial banks",
+      "summary": "The Reserve Bank of India (RBI) has released an updated cybersecurity framework for commercial banks to enhance digital operational resilience.",
+      "source": "MediaNama",
+      "translations": {
+        "or": {
+          "title": "ବାଣିଜ୍ୟିକ ବ୍ୟାଙ୍କଗୁଡ଼ିକ ପାଇଁ ଆରବିଆଇର ନୂଆ ସାଇବର ସୁରକ୍ଷା ଫ୍ରେମୱାର୍କ",
+          "summary": "ଡିଜିଟାଲ୍ ସୁରକ୍ଷାକୁ ସୁଦୃଢ଼ କରିବା ଏବଂ ସାଇବର ବିପଦ ହ୍ରାସ କରିବା ପାଇଁ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ବାଣିଜ୍ୟିକ ବ୍ୟାଙ୍କଗୁଡ଼ିକ ପାଇଁ ନୂତନ ସାଇବର ସୁରକ୍ଷା ନିର୍ଦ୍ଦେଶାବଳୀ ଜାରି କରିଛି।"
         }
       }
     }
   ],
   "quiz": [
     {
-      "id": "ca-q-1785384224360-0",
+      "id": "ca-q-1785817737565-0",
       "section": "Current Affairs",
       "topic": "National",
       "difficulty": "easy",
       "source": "ai",
       "status": "pending",
-      "question": "According to the Public Examinations Amendment Bill 2026 passed by the Lok Sabha, what is the minimum jail term for exam malpractices?",
+      "question": "By how much is the sanctioned strength of Supreme Court judges, including the CJI, proposed to be increased as per the bill passed by the Lok Sabha?",
       "options": [
-        "2 years",
-        "3 years",
-        "5 years",
-        "7 years"
+        "From 30 to 34",
+        "From 34 to 38",
+        "From 32 to 36",
+        "From 34 to 40"
       ],
-      "answer": 2,
-      "explanation": "The Public Examinations Amendment Bill 2026 passed by the Lok Sabha mandates a minimum jail sentence of 5 years for exam malpractices.",
+      "answer": 1,
+      "explanation": "The Lok Sabha passed a bill to increase the sanctioned strength of Supreme Court judges, including the Chief Justice of India, from 34 to 38.",
       "translations": {
         "or": {
-          "question": "ଲୋକସଭା ଦ୍ୱାରା ପାରିତ ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ଅନୁଯାୟୀ, ପରୀକ୍ଷା ଜାଲିଆତି ପାଇଁ ସର୍ବନିମ୍ନ କେତେ ବର୍ଷର ଜେଲ ଦଣ୍ଡର ପ୍ରାବଧାନ ରହିଛି?",
+          "question": "ଲୋକସଭାରେ ପାରିତ ବିଲ୍ ଅନୁଯାୟୀ, ମୁଖ୍ୟ ବିଚାରପତିଙ୍କ ସମେତ ସୁପ୍ରିମକୋର୍ଟର ବିଚାରପତିଙ୍କ ଅନୁମୋଦିତ ସଂଖ୍ୟା କେତେରୁ କେତେକୁ ବୃଦ୍ଧି କରିବାକୁ ପ୍ରସ୍ତାବ ଦିଆଯାଇଛି?",
           "options": [
-            "୨ ବର୍ଷ",
-            "୩ ବର୍ଷ",
-            "୫ ବର୍ଷ",
-            "୭ ବର୍ଷ"
+            "୩୦ ରୁ ୩୪",
+            "୩୪ ରୁ ୩୮",
+            "୩୨ ରୁ ୩୬",
+            "୩୪ ରୁ ୪୦"
           ],
-          "explanation": "ପବ୍ଲିକ ଏଗଜାମିନେସନ୍ସ ସଂଶୋଧନ ବିଲ୍ ୨୦୨୬ ଅନୁଯାୟୀ ପରୀକ୍ଷା ଜାଲିଆତି ପାଇଁ ସର୍ବନିମ୍ନ ୫ ବର୍ଷ ଜେଲ ଦଣ୍ଡର ନିୟମ ରହିଛି।"
+          "explanation": "ଲୋକସଭାରେ ସୁପ୍ରିମକୋର୍ଟର ମୁଖ୍ୟ ବିଚାରପତିଙ୍କ ସମେତ ବିଚାରପତିଙ୍କ ସଂଖ୍ୟା ୩୪ ରୁ ୩୮ କୁ ବୃଦ୍ଧି କରିବା ପାଇଁ ବିଲ୍ ପାରିତ ହୋଇଛି।"
         }
       }
     },
     {
-      "id": "ca-q-1785384224360-1",
+      "id": "ca-q-1785817737565-1",
       "section": "Current Affairs",
       "topic": "Banking",
       "difficulty": "medium",
       "source": "ai",
       "status": "pending",
-      "question": "Which entity is set for winding up following the revocation of its licence by the Reserve Bank of India (RBI)?",
+      "question": "What percentage of inhabited villages in India have gained access to banking services, achieving near-universal banking coverage?",
       "options": [
-        "Airtel Payments Bank",
-        "Paytm Payments Bank",
-        "Jio Payments Bank",
-        "Fino Payments Bank"
+        "95.50%",
+        "98.75%",
+        "99.92%",
+        "100%"
       ],
-      "answer": 1,
-      "explanation": "Paytm Payments Bank is set for winding up following the revocation of its operating licence by the RBI.",
+      "answer": 2,
+      "explanation": "India achieved near-universal banking coverage as 99.92% of inhabited villages gained access to formal banking services.",
       "translations": {
         "or": {
-          "question": "ଭାରତୀୟ ରିଜର୍ଭ ବ୍ୟାଙ୍କ (RBI) ଦ୍ୱାରା ଲାଇସେନ୍ସ ବାତିଲ କରାଯିବା ପରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ବନ୍ଦ ହେବାକୁ ଯାଉଛି?",
+          "question": "ସାମ୍ପ୍ରତିକ ରିପୋର୍ଟ ଅନୁଯାୟୀ, ଭାରତର କେତେ ପ୍ରତିଶତ ବସବାସପୂର୍ଣ୍ଣ ଗ୍ରାମରେ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସେବା ପହଞ୍ଚିପାରିଛି?",
           "options": [
-            "ଏୟାରଟେଲ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ",
-            "ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ",
-            "ଜିଓ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ",
-            "ଫିନୋ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ"
+            "୯୫.୫୦%",
+            "୯୮.୭୫%",
+            "୯୯.୯୨%",
+            "୧୦୦%"
           ],
-          "explanation": "ଆରବିଆଇ ଦ୍ୱାରା ଲାଇସେନ୍ସ ବାତିଲ ହେବା ପରେ ପେଟିଏମ୍ ପେମେଣ୍ଟସ ବ୍ୟାଙ୍କ ବନ୍ଦ ହେବାକୁ ଯାଉଛି।"
+          "explanation": "ଭାରତର ୯୯.୯୨% ବସବାସପୂର୍ଣ୍ଣ ଗ୍ରାମରେ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସେବା ଉପଲବ୍ଧ ହେବା ସହ ଦେଶ ପ୍ରାୟ-ସାର୍ବଜନୀନ ବ୍ୟାଙ୍କିଙ୍ଗ୍ ସୁବିଧା ହାସଲ କରିଛି।"
         }
       }
     },
     {
-      "id": "ca-q-1785384224360-2",
+      "id": "ca-q-1785817737565-2",
       "section": "Current Affairs",
-      "topic": "Odisha",
+      "topic": "Economy",
       "difficulty": "medium",
       "source": "ai",
       "status": "pending",
-      "question": "Odisha has partnered with which Japanese prefecture for business and human resource exchange?",
+      "question": "How much foreign exchange did the Reserve Bank of India sell between January and May to check excess volatility in the rupee?",
       "options": [
-        "Osaka",
-        "Tokyo",
-        "Tottori",
-        "Kyoto"
+        "$10.5 billion",
+        "$12.0 billion",
+        "$14.9 billion",
+        "$20.0 billion"
       ],
       "answer": 2,
-      "explanation": "Odisha and Japan's Tottori Prefecture have agreed to tie up for business and human resource exchange.",
+      "explanation": "The RBI sold $14.9 billion in foreign exchange during the January-May period to curb excess volatility in the rupee.",
       "translations": {
         "or": {
-          "question": "ବ୍ୟବସାୟ ଏବଂ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନ ପାଇଁ ଓଡ଼ିଶା ଜାପାନର କେଉଁ ପ୍ରିଫେକ୍ଚର ସହିତ ସହବନ୍ଧନ କରିଛି?",
+          "question": "ଟଙ୍କାର ଅସ୍ଥିରତା ନିୟନ୍ତ୍ରଣ ପାଇଁ ଜାନୁଆରୀରୁ ମେ ମଧ୍ୟରେ ଆରବିଆଇ କେତେ ପରିମାଣର ବୈଦେଶିକ ମୁଦ୍ରା ବିକ୍ରି କରିଥିଲା?",
           "options": [
-            "ଓସାକା",
-            "ଟୋକିଓ",
-            "ତୋତ୍ତୋରୀ",
-            "କ୍ୟୋଟୋ"
+            "$୧୦.୫ ବିଲିୟନ",
+            "$୧୨.୦ ବିଲିୟନ",
+            "$୧୪.୯ ବିଲିୟନ",
+            "$୨୦.୦ ବିଲିୟନ"
           ],
-          "explanation": "ବ୍ୟବସାୟ ଏବଂ ମାନବ ସମ୍ବଳ ଆଦାନପ୍ରଦାନ ପାଇଁ ଓଡ଼ିଶା ଜାପାନର ତୋତ୍ତୋରୀ ପ୍ରିଫେକ୍ଚର ସହିତ ସହବନ୍ଧନ କରିଛି।"
+          "explanation": "ଟଙ୍କାରେ ଅତ୍ୟାଧିକ ଅସ୍ଥିରତା ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଜାନୁଆରୀରୁ ମେ ମଧ୍ୟରେ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ୧୪.୯ ବିଲିୟନ ଡଲାରର ବୈଦେଶିକ ମୁଦ୍ରା ବିକ୍ରି କରିଥିଲା।"
         }
       }
     },
     {
-      "id": "ca-q-1785384224360-3",
+      "id": "ca-q-1785817737565-3",
       "section": "Current Affairs",
       "topic": "Odisha",
       "difficulty": "easy",
       "source": "ai",
       "status": "pending",
-      "question": "By which year does Odisha target to connect 50,000 villages with an optical fibre network?",
+      "question": "What is the proposed investment amount by the Adani Group to set up an AI Data Centre project in Odisha?",
       "options": [
-        "2026",
-        "2027",
-        "2028",
-        "2029"
+        "₹50,000 Crore",
+        "₹75,000 Crore",
+        "₹1 Trillion",
+        "₹2 Trillion"
       ],
-      "answer": 3,
-      "explanation": "Odisha targets to connect 50,000 villages with an optical fibre network by the year 2029.",
+      "answer": 2,
+      "explanation": "Adani Group has proposed an investment of ₹1 trillion to establish an AI Data Centre project in Odisha.",
       "translations": {
         "or": {
-          "question": "କେଉଁ ବର୍ଷ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମକୁ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ ସହିତ ଯୋଡ଼ିବା ପାଇଁ ଲକ୍ଷ୍ୟ ରଖାଯାଇଛି?",
+          "question": "ଓଡ଼ିଶାରେ ଏକ AI ଡାଟା ସେଣ୍ଟର ସ୍ଥାପନ ପାଇଁ ଅଦାନୀ ଗ୍ରୁପ୍ କେତେ ଟଙ୍କାର ବିନିଯୋଗ ପ୍ରସ୍ତାବ ଦେଇଛି?",
           "options": [
-            "୨୦୨୬",
-            "୨୦୨୭",
-            "୨୦୨୮",
-            "୨୦୨୯"
+            "₹୫୦,୦୦୦ କୋଟି",
+            "₹୭୫,୦୦୦ କୋଟି",
+            "₹୧ ଟ୍ରିଲିୟନ",
+            "₹୨ ଟ୍ରିଲିୟନ"
           ],
-          "explanation": "୨୦୨୯ ସୁଦ୍ଧା ଓଡ଼ିଶାର ୫୦,୦୦୦ ଗ୍ରାମକୁ ଅପ୍ଟିକାଲ ଫାଇବର ନେଟୱାର୍କ ସହିତ ଯୋଡ଼ିବାକୁ ଲକ୍ଷ୍ୟ ରଖାଯାଇଛି।"
+          "explanation": "ଓଡ଼ିଶାରେ ଏକ AI ଡାଟା ସେଣ୍ଟର ପ୍ରକଳ୍ପ ସ୍ଥାପନ ପାଇଁ ଅଦାନୀ ଗ୍ରୁପ୍ ୧ ଟ୍ରିଲିୟନ ଟଙ୍କାର ବିନିଯୋଗ ପ୍ରସ୍ତାବ ଦେଇଛି।"
         }
       }
     },
     {
-      "id": "ca-q-1785384224360-4",
+      "id": "ca-q-1785817737565-4",
       "section": "Current Affairs",
       "topic": "National",
       "difficulty": "hard",
       "source": "ai",
       "status": "pending",
-      "question": "Who was appointed as the Ram temple trust's first secretary to oversee financial transactions?",
+      "question": "Which High Court has been permitted by the Supreme Court to requisition judges from Jharkhand and Odisha High Courts?",
       "options": [
-        "Prashant Kishor",
-        "Jagdish Aphale",
-        "Amit Shah",
-        "Rahul Gandhi"
+        "Patna High Court",
+        "Calcutta High Court",
+        "Bombay High Court",
+        "Madras High Court"
       ],
       "answer": 1,
-      "explanation": "IIT Bombay alumnus Jagdish Aphale was named the Ram temple trust's first secretary to oversee financial transactions.",
+      "explanation": "The Supreme Court of India permitted the Calcutta High Court to requisition judges from Jharkhand and Odisha High Courts.",
       "translations": {
         "or": {
-          "question": "ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ଆର୍ଥିକ କାରବାରଗୁଡ଼ିକର ତଦାରଖ କରିବା ପାଇଁ ପ୍ରଥମ ସଚିବ ଭାବରେ କାହାକୁ ନିଯୁକ୍ତ କରାଯାଇଛି?",
+          "question": "ଝାଡ଼ଖଣ୍ଡ ଏବଂ ଓଡ଼ିଶାରୁ ବିଚାରପତି ଆଣିବା ପାଇଁ ସୁପ୍ରିମକୋର୍ଟ କେଉଁ ହାଇକୋର୍ଟଙ୍କୁ ଅନୁମତି ଦେଇଛନ୍ତି?",
           "options": [
-            "ପ୍ରଶାନ୍ତ କିଶୋର",
-            "ଜଗଦୀଶ ଆଫଲେ",
-            "ଅମିତ ଶାହ",
-            "ରାହୁଲ ଗାନ୍ଧୀ"
+            "ପାଟଣା ହାଇକୋର୍ଟ",
+            "କଲିକତା ହାଇକୋର୍ଟ",
+            "ବମ୍ବେ ହାଇକୋର୍ଟ",
+            "ମାନ୍ଦ୍ରାଜ ହାଇକୋର୍ଟ"
           ],
-          "explanation": "ଆଇଆଇଟି ବମ୍ବେର ପୂର୍ବତନ ଛାତ୍ର ଜଗଦୀଶ ଆଫଲେଙ୍କୁ ରାମ ମନ୍ଦିର ଟ୍ରଷ୍ଟର ପ୍ରଥମ ସଚିବ ଭାବରେ ନିଯୁକ୍ତ କରାଯାଇଛି।"
+          "explanation": "ଝାଡ଼ଖଣ୍ଡ ଏବଂ ଓଡ଼ିଶା ହାଇକୋର୍ଟରୁ ବିଚାରପତିଙ୍କୁ ଆଣିବା ପାଇଁ ସୁପ୍ରିମକୋର୍ଟ କଲିକତା ହାଇକୋର୍ଟଙ୍କୁ ଅନୁମତି ଦେଇଛନ୍ତି।"
         }
       }
     }
