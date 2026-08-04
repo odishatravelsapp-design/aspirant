@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -10322,6 +10322,122 @@
             "ଭାନୁଦେବ ପ୍ରଥମ"
           ],
           "explanation": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ରାଜା ଅନଙ୍ଗଭୀମଦେବ ତୃତୀୟ ୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ବର୍ତ୍ତମାନର କଟକ) କୁ ସ୍ଥାନାନ୍ତର କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785815533197-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Robert Browning's dramatic monologue 'My Last Duchess', who is mentioned as the painter of the Duchess's portrait?",
+      "options": [
+        "Claus of Innsbruck",
+        "Fra Pandolf",
+        "Andrea del Sarto",
+        "Fra Lippo Lippi"
+      ],
+      "answer": 1,
+      "explanation": "In Robert Browning's poem 'My Last Duchess', the Duke specifically mentions 'Fra Pandolf' as the fictional painter who created the portrait of his late wife.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ ପ୍ରସିଦ୍ଧ ଡ୍ରାମାଟିକ୍ ମୋନୋଲଗ୍ 'ମାଇଁ ଲାଷ୍ଟ ଡଚେସ୍' (My Last Duchess) ରେ, ଡଚେସଙ୍କ ଚିତ୍ରପଟର ଚିତ୍ରକର ଭାବରେ କାହାର ନାମ ଉଲ୍ଲେଖ କରାଯାଇଛି?",
+          "options": [
+            "କ୍ଲଜ୍ ଅଫ୍ ଇନସବ୍ରୁକ୍ (Claus of Innsbruck)",
+            "ଫ୍ରା ପାଣ୍ଡୋଲଫ୍ (Fra Pandolf)",
+            "ଆଣ୍ଡ୍ରିଆ ଡେଲ୍ ସାର୍ଟୋ (Andrea del Sarto)",
+            "ଫ୍ରା ଲିପୋ ଲିପି (Fra Lippo Lippi)"
+          ],
+          "explanation": "ରବର୍ଟ ବ୍ରାଉନିଂଙ୍କ କବିତା 'ମାଇଁ ଲାଷ୍ଟ ଡଚେସ୍'ରେ, ଡ୍ୟୁକ୍ ତାଙ୍କର ମୃତ ପତ୍ନୀଙ୍କ ଚିତ୍ରପଟ ତିଆରି କରିଥିବା କାଳ୍ପନିକ ଚିତ୍ରକର ଭାବରେ 'ଫ୍ରା ପାଣ୍ଡୋଲଫ୍'ଙ୍କ ନାମ ଉଲ୍ଲେଖ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785815533197-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory & Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Edward Said's foundational postcolonial text 'Orientalism' (1978), whose conceptual framework of 'discourse' and 'power/knowledge' is primarily adopted to analyze Western representations of the Orient?",
+      "options": [
+        "Jacques Derrida",
+        "Michel Foucault",
+        "Louis Althusser",
+        "Jacques Lacan"
+      ],
+      "answer": 1,
+      "explanation": "Edward Said explicitly draws upon Michel Foucault's notions of 'discourse' and the nexus between power and knowledge to explain how the West created, restructured, and controlled the concept of the 'Orient'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏଡୱାର୍ଡ ସାଇଦ୍‌ଙ୍କ ପ୍ରସିଦ୍ଧ ଉତ୍ତର-ଉପନିବେଶବାଦୀ ଗ୍ରନ୍ଥ 'ଓରିଏଣ୍ଟାଲିଜିମ୍' (1978) ରେ, ପ୍ରାଚ୍ୟ (Orient) ର ପାଶ୍ଚାତ୍ୟ ଉପସ୍ଥାପନାକୁ ବିଶ୍ଳେଷଣ କରିବା ପାଇଁ ମୁଖ୍ୟତଃ କାହାର 'ଡିସକୋର୍ସ' (discourse) ଏବଂ 'କ୍ଷମତା/ଜ୍ଞାନ' (power/knowledge) ର ଅବଧାରଣାକୁ ଗ୍ରହଣ କରାଯାଇଛି?",
+          "options": [
+            "ଜାକ୍ ଡେରିଡା (Jacques Derrida)",
+            "ମିସେଲ୍ ଫୁକୋ (Michel Foucault)",
+            "ଲୁଇ ଆଲଥୁସର (Louis Althusser)",
+            "ଜାକ୍ ଲାକାଁ (Jacques Lacan)"
+          ],
+          "explanation": "ଏଡୱାର୍ଡ ସାଇଦ୍ ବିଶେଷ ଭାବରେ ମିସେଲ୍ ଫୁକୋଙ୍କ 'ଡିସକୋର୍ସ' ଏବଂ କ୍ଷମତା ଓ ଜ୍ଞାନ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କର ଅବଧାରଣାକୁ ବ୍ୟବହାର କରି ପାଶ୍ଚାତ୍ୟ ଜଗତ କିପରି 'ପ୍ରାଚ୍ୟ' ର ସଂଜ୍ଞା ନିରୂପଣ ଓ ନିୟନ୍ତ୍ରଣ କରିଥିଲା ତାହା ବ୍ୟାଖ୍ୟା କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785815965462-0",
+      "section": "Odisha GK",
+      "topic": "Geography & Wildlife",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Gahirmatha Sanctuary, located in the Kendrapara district of Odisha, was designated as a marine sanctuary in 1997 primarily to protect which species?",
+      "options": [
+        "Irrawaddy Dolphin",
+        "Saltwater Crocodile",
+        "Olive Ridley Sea Turtle",
+        "Ganges River Dolphin"
+      ],
+      "answer": 2,
+      "explanation": "Gahirmatha Marine Sanctuary is the world's largest nesting beach (rookery) for Olive Ridley Sea Turtles. It extends from the Dhamra River mouth in the north to the Mahanadi River mouth in the south.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗହିରମଥା ଅଭୟାରଣ୍ୟକୁ ୧୯୯୭ ମସିହାରେ ମୁଖ୍ୟତଃ କେଉଁ ପ୍ରଜାତିର ସୁରକ୍ଷା ପାଇଁ ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା?",
+          "options": [
+            "ଇରାବତୀ ଡଲଫିନ୍",
+            "ବୋଲିଆ କୁମ୍ଭୀର",
+            "ଓଲିଭ୍ ରିଡଲେ ସାମୁଦ୍ରିକ କାଚିମ",
+            "ଗଙ୍ଗା ନଦୀ ଡଲଫିନ୍"
+          ],
+          "explanation": "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ହେଉଛି ଓଲିଭ୍ ରିଡଲେ ସାମୁଦ୍ରିକ କାଚିମମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ସାମୂହିକ ବସା ବାନ୍ଧିବା ସ୍ଥାନ (ରୁକେରୀ)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785815965462-1",
+      "section": "Odisha GK",
+      "topic": "Ancient Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The famous Asanapat stone inscription, which provides valuable historical accounts of King Satrubhanja and contains one of the earliest Nataraja images in Odisha, was discovered in which district?",
+      "options": [
+        "Mayurbhanj",
+        "Keonjhar",
+        "Sundargarh",
+        "Koraput"
+      ],
+      "answer": 1,
+      "explanation": "The Asanapat stone inscription was discovered in 1959 in the Champua subdivision of Keonjhar district. Dating back to around the 4th-5th century AD, it highlights the achievements of King Satrubhanja and depicts a thirteen-armed Nataraja.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରସିଦ୍ଧ ଆସନପାଟ ପ୍ରସ୍ତର ଅଭିଲେଖ, ଯାହା ରାଜା ଶତ୍ରୁଭଞ୍ଜଙ୍କ ବିଷୟରେ ମୂଲ୍ୟବାନ ଐତିହାସିକ ତଥ୍ୟ ପ୍ରଦାନ କରେ ଏବଂ ଓଡ଼ିଶାର ପ୍ରାଚୀନତମ ନଟରାଜ ମୂର୍ତ୍ତି ଧାରଣ କରିଛି, ତାହା କେଉଁ ଜିଲ୍ଲାରୁ ଆବିଷ୍କୃତ ହୋଇଥିଲା?",
+          "options": [
+            "ମୟୂରଭଞ୍ଜ",
+            "କେନ୍ଦୁଝର",
+            "ସୁନ୍ଦରଗଡ଼",
+            "କୋରାପୁଟ"
+          ],
+          "explanation": "ଆସନପାଟ ପ୍ରସ୍ତର ଅଭିଲେଖ ୧୯୫୯ ମସିହାରେ କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଚମ୍ପୁଆ ଉପଖଣ୍ଡରୁ ଆବିଷ୍କୃତ ହୋଇଥିଲା। ଚତୁର୍ଥ-ପଞ୍ଚମ ଶତାବ୍ଦୀର ଏହି ଶିଳାଲେଖରେ ରାଜା ଶତ୍ରୁଭଞ୍ଜଙ୍କ କୀର୍ତ୍ତି ଓ ତ୍ରୟୋଦଶ-ଭୁଜ ବିଶିଷ୍ଟ ନଟରାଜଙ୍କ ପ୍ରତିମା ଖୋଦିତ ହୋଇଛି।"
         }
       }
     }

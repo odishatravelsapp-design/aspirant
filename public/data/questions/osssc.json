@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -7840,6 +7840,234 @@
             "ଭାନୁଦେବ ପ୍ରଥମ"
           ],
           "explanation": "ପୂର୍ବ ଗଙ୍ଗ ଶାସକ ଅନଙ୍ଗଭୀମ ଦେବ ତୃତୀୟ ୧୩ଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ ନିଜର ରାଜଧାନୀ କଳିଙ୍ଗନଗରରୁ ନବନିର୍ମିତ ଅଭିନବ ବାରାଣସୀ କଟକକୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815386697-0",
+      "section": "Arithmetic",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The ratio of the present ages of a father and his son is 5 : 2. After 6 years, the ratio of their ages will become 2 : 1. What is the present age of the father (in years)?",
+      "options": [
+        "25",
+        "30",
+        "36",
+        "40"
+      ],
+      "answer": 1,
+      "explanation": "Let the present ages of the father and son be 5x and 2x respectively. After 6 years, (5x + 6) / (2x + 6) = 2 / 1. Solving this gives 5x + 6 = 4x + 12, so x = 6. Therefore, the father's present age is 5 * 6 = 30 years.",
+      "translations": {
+        "or": {
+          "question": "ପିତା ଏବଂ ପୁତ୍ରଙ୍କ ବର୍ତ୍ତମାନ ବୟସର ଅନୁପାତ ୫ : ୨। ୬ ବର୍ଷ ପରେ, ସେମାନଙ୍କ ବୟସର ଅନୁପାତ ୨ : ୧ ହେବ। ପିତାଙ୍କ ବର୍ତ୍ତମାନ ବୟସ (ବର୍ଷରେ) କେତେ?",
+          "options": [
+            "୨୫",
+            "୩୦",
+            "୩୬",
+            "୪୦"
+          ],
+          "explanation": "ମନେକରନ୍ତୁ ପିତାଙ୍କ ବର୍ତ୍ତମାନ ବୟସ ୫x ଏବଂ ପୁତ୍ରଙ୍କ ବର୍ତ୍ତମାନ ବୟସ ୨x। ୬ ବର୍ଷ ପରେ, (୫x + ୬) / (୨x + ୬) = ୨ / ୧। ଏହାକୁ ସମାଧାନ କଲେ ୫x + ୬ = ୪x + ୧୨, ଅର୍ଥାତ୍ x = ୬। ତେଣୁ, ପିତାଙ୍କ ବର୍ତ୍ତମାନ ବୟସ = ୫ * ୬ = ୩୦ ବର୍ଷ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815386697-1",
+      "section": "Arithmetic",
+      "topic": "Mixtures and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains 80 liters of pure milk. From this vessel, 8 liters of milk are drawn out and replaced with water. This process is repeated one more time. What is the ratio of milk to water in the final mixture?",
+      "options": [
+        "81 : 19",
+        "9 : 1",
+        "16 : 9",
+        "81 : 100"
+      ],
+      "answer": 0,
+      "explanation": "Amount of milk left = Initial Quantity * (1 - x/V)^n = 80 * (1 - 8/80)^2 = 80 * (0.9)^2 = 80 * 0.81 = 64.8 liters. Amount of water in final mixture = 80 - 64.8 = 15.2 liters. Ratio of Milk to Water = 64.8 : 15.2 = 648 : 152 = 81 : 19.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ପାତ୍ରରେ ୮୦ ଲିଟର ବିଶୁଦ୍ଧ ଖୀର ଅଛି। ଏହି ପାତ୍ରରୁ ୮ ଲିଟର ଖୀର କାଢ଼ି ନିଆଗଲା ଏବଂ ସେତିକି ପରିମାଣର ପାଣି ମିଶାଗଲା। ଏହି ପ୍ରକ୍ରିୟା ଆଉ ଥରେ ପୁନରାବୃତ୍ତି କରାଗଲା। ଶେଷ ମିଶ୍ରଣରେ ଖୀର ଏବଂ ପାଣିର ଅନୁପାତ କେତେ?",
+          "options": [
+            "୮୧ : ୧୯",
+            "୯ : ୧",
+            "୧୬ : ୯",
+            "୮୧ : ୧୦୦"
+          ],
+          "explanation": "ବଳକା ଖୀରର ପରିମାଣ = ପ୍ରାରମ୍ଭିକ ପରିମାଣ * (୧ - x/V)^n = ୮୦ * (୧ - ୮/୮୦)² = ୮୦ * (୦.୯)² = ୬୪.୮ ଲିଟର। ଶେଷ ମିଶ୍ରଣରେ ପାଣିର ପରିମାଣ = ୮୦ - ୬୪.୮ = ୧୫.୨ ଲିଟର। ଖୀର : ପାଣି = ୬୪.୮ : ୧୫.୨ = ୬୪୮ : ୧୫୨ = ୮୧ : ୧୯।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815422975-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the number that can replace the question mark (?) in the following series: 15, 23, 31, 39, ?",
+      "options": [
+        "45",
+        "47",
+        "48",
+        "46"
+      ],
+      "answer": 1,
+      "explanation": "The series follows an addition pattern where 8 is added to each term to get the next term:\n15 + 8 = 23\n23 + 8 = 31\n31 + 8 = 39\n39 + 8 = 47\nTherefore, the missing number is 47.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଶ୍ରେଣୀରେ ପ୍ରଶ୍ନବାଚୀ ଚିହ୍ନ (?) ସ୍ଥାନରେ ଆସିପାରୁଥିବା ସଂଖ୍ୟାଟି ବାଛନ୍ତୁ: 15, 23, 31, 39, ?",
+          "options": [
+            "45",
+            "47",
+            "48",
+            "46"
+          ],
+          "explanation": "ଏହି ଶ୍ରେଣୀରେ ପ୍ରତ୍ୟେକ ପଦ ସହିତ 8 ଯୋଗ କରାଯାଇ ପରବର୍ତ୍ତୀ ପଦ ପ୍ରାପ୍ତ ହୁଏ:\n15 + 8 = 23\n23 + 8 = 31\n31 + 8 = 39\n39 + 8 = 47\nତେଣୁ, ଅନୁପସ୍ଥିତ ସଂଖ୍ୟାଟି ହେଉଛି 47।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815422975-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons A, B, C, D, E, F, and G are sitting in a straight row facing North. C sits third to the right of G. B sits to the immediate left of C. Only two persons sit between B and E. F sits second to the left of A. D does not sit at any of the extreme ends. Who sits at the extreme right end of the row?",
+      "options": [
+        "A",
+        "D",
+        "E",
+        "F"
+      ],
+      "answer": 0,
+      "explanation": "Arranging the 7 positions from left to right (1 to 7):\n- G sits at position 1, C at position 4 (C is third to the right of G).\n- B is at position 3 (immediate left of C).\n- E is at position 6 (two persons sit between B and E).\n- F is at position 5 and A is at position 7 (F is second to the left of A).\n- D is at position 2 (not at an extreme end).\nThe final arrangement from left to right is: G, D, B, C, F, E, A.\nTherefore, A sits at the extreme right end of the row.",
+      "translations": {
+        "or": {
+          "question": "ସାତ ଜଣ ବ୍ୟକ୍ତି A, B, C, D, E, F, ଏବଂ G ଉତ୍ତର ଦିଗକୁ ମୁହଁ କରି ଗୋଟିଏ ସିଧା ଧାଡ଼ିରେ ବସିଛନ୍ତି। C, G ର ଡାହାଣ ପଟେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। B, C ର ଠିକ୍ ବାମ ପଟେ ବସିଛନ୍ତି। B ଏବଂ E ମଧ୍ୟରେ କେବଳ ଦୁଇଜଣ ବ୍ୟକ୍ତି ବସିଛନ୍ତି। F, A ର ବାମ ପଟେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। D କୌଣସି ଶେଷ ସୀମାରେ ବସିନାହାଁନ୍ତି। ଧାଡ଼ିର ଏକଦମ୍ ଡାହାଣ ଶେଷରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "A",
+            "D",
+            "E",
+            "F"
+          ],
+          "explanation": "ବାମରୁ ଡାହାଣକୁ ୭ଟି ସ୍ଥାନ (୧ ରୁ ୭) ସଜାଇଲେ:\n- G ୧ମ ସ୍ଥାନରେ ଏବଂ C ୪ର୍ଥ ସ୍ଥାନରେ ବସିଛନ୍ତି।\n- B ୩ୟ ସ୍ଥାନରେ (C ର ଠିକ୍ ବାମରେ) ବସିଛନ୍ତି।\n- E ୬ଷ୍ଠ ସ୍ଥାନରେ (B ଏବଂ E ମଧ୍ୟରେ ଦୁଇଜଣ) ବସିଛନ୍ତି।\n- F ୫ମ ସ୍ଥାନରେ ଏବଂ A ୭ମ ସ୍ଥାନରେ (F, A ର ବାମରେ ଦ୍ୱିତୀୟ) ବସିଛନ୍ତି।\n- D ୨ୟ ସ୍ଥାନରେ ବସିଛନ୍ତି (ଶେଷ ସୀମାରେ ନୁହଁନ୍ତି)।\nବାମରୁ ଡାହାଣକୁ ଚୂଡ଼ାନ୍ତ କ୍ରମ ହେଉଛି: G, D, B, C, F, E, A।\nତେଣୁ, A ଧାଡ଼ିର ଏକଦମ୍ ଡାହାଣ ଶେଷରେ ବସିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815445796-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Literature",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who among the following was the first recipient of the prestigious Jnanpith Award for Odia literature?",
+      "options": [
+        "Gopinath Mohanty",
+        "Sachidananda Routray",
+        "Sitakant Mahapatra",
+        "Pratibha Ray"
+      ],
+      "answer": 0,
+      "explanation": "Gopinath Mohanty was the first Odia writer to receive the Jnanpith Award in 1973 for his famous novel 'Matimatal'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଆ ସାହିତ୍ୟ ପାଇଁ ସମ୍ମାନଜନକ ଜ୍ଞାନପୀଠ ପୁରସ୍କାର ପାଇବାରେ ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ ପ୍ରଥମ ବ୍ୟକ୍ତି କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋପୀନାଥ ମହାନ୍ତି",
+            "ସଚ୍ଚିଦାନନ୍ଦ ରାଉତରାୟ",
+            "ସୀତାକାନ୍ତ ମହାପାତ୍ର",
+            "ପ୍ରତିଭା ରାୟ"
+          ],
+          "explanation": "୧୯୭୩ ମସିହାରେ ତାଙ୍କର ପ୍ରସିଦ୍ଧ ଉପନ୍ୟାସ 'ମାଟିମଟାଳ' ପାଇଁ ଗୋପୀନାଥ ମହାନ୍ତି ଓଡ଼ିଶାର ପ୍ରଥମ ସାହିତ୍ୟିକ ଭାବରେ ଜ୍ଞାନପୀଠ ପୁରସ୍କାର ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815445796-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Medieval History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Gajapati ruler of Odisha authored the Sanskrit drama 'Abhinava Veni Samharam'?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kakharua Deva"
+      ],
+      "answer": 1,
+      "explanation": "Gajapati Purushottama Deva, the second ruler of the Suryavamshi Gajapati dynasty, was a scholar-king who composed the Sanskrit drama 'Abhinava Veni Samharam'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଗଜପତି ଶାସକ ସଂସ୍କୃତ ନାଟକ 'ଅଭିନବ ବେଣୀ ସଂହାରମ୍' ରଚନା କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କଖାରୁଆ ଦେବ"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜବଂଶର ଦ୍ୱିତୀୟ ଶାସକ ଗଜପତି ପୁରୁଷୋତ୍ତମ ଦେବ ଜଣେ ବିଦ୍ୱାନ ରାଜା ଥିଲେ ଏବଂ ସେ 'ଅଭିନବ ବେଣୀ ସଂହାରମ୍' ନାମକ ସଂସ୍କୃତ ନାଟକ ରଚନା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815463687-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Modern History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who established the 'Utkal Sammilani' in December 1903 to campaign for the unification of Odia-speaking areas?",
+      "options": [
+        "Utkal Gourav Madhusudan Das",
+        "Utkalmani Gopabandhu Das",
+        "Maharaja Krushna Chandra Gajapati",
+        "Radhanath Ray"
+      ],
+      "answer": 0,
+      "explanation": "Utkal Sammilani was founded by Utkal Gourav Madhusudan Das in December 1903 at Cuttack to spearhead the movement for uniting all Odia-speaking tracts under a single province.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଆ-ଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକର ଏକତ୍ରୀକରଣ ପାଇଁ ୧୯୦୩ ଡିସେମ୍ବରରେ 'ଉତ୍କଳ ସମ୍ମିଳନୀ' କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସ",
+            "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ରାଧାନାଥ ରାୟ"
+          ],
+          "explanation": "ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସ ୧୯୦୩ ଡିସେମ୍ବରରେ କଟକଠାରେ ଓଡ଼ିଆ-ଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକର ଏକତ୍ରୀକରଣ ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେବା ପାଇଁ 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785815463687-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography & Environment",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the Bhitarkanika Mangroves designated as a Ramsar Site of International Importance?",
+      "options": [
+        "1998",
+        "2002",
+        "2005",
+        "2010"
+      ],
+      "answer": 1,
+      "explanation": "Bhitarkanika Mangroves was designated as a Ramsar Wetland of International Importance on 19 August 2002, becoming Odisha's second Ramsar site after Chilika Lake.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭିତରକନିକା ମ୍ୟାଙ୍ଗ୍ରୋଭକୁ କେଉଁ ବର୍ଷ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ବପୂର୍ଣ୍ଣ 'ରାମସର ସାଇଟ୍' (Ramsar Site) ଭାବରେ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "୧୯୯୮",
+            "୨୦୦୨",
+            "୨୦୦୫",
+            "୨୦୧୦"
+          ],
+          "explanation": "ଭିତରକନିକା ମ୍ୟାଙ୍ଗ୍ରୋଭକୁ ୧୯ ଅଗଷ୍ଟ ୨୦୦୨ରେ ରାମସର ସାଇଟ୍ ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା, ଯାହା ଚିଲିକା ହ୍ରଦ ପରେ ଓଡ଼ିଶାର ଦ୍ୱିତୀୟ ରାମସର ସାଇଟ୍ ଅଟେ।"
         }
       }
     }

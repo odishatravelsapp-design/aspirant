@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6719,6 +6719,136 @@
       ],
       "answer": 1,
       "explanation": "Unlike the Reverse Repo facility where the RBI provides government securities as collateral to banks depositing funds, the Standing Deposit Facility (SDF) is a collateral-free liquidity absorption mechanism introduced under Section 17 of the RBI Act, 1934.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785815187929-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 12 hours, and Pipe B can fill the same tank in 15 hours. If both pipes are opened together, but Pipe A is closed after 4 hours, how many more hours will Pipe B take to fill the remaining part of the tank?",
+      "options": [
+        "5 hours",
+        "6 hours",
+        "7 hours",
+        "8 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let total capacity of the tank = LCM(12, 15) = 60 units.\nEfficiency of Pipe A = 60 / 12 = 5 units/hr\nEfficiency of Pipe B = 60 / 15 = 4 units/hr\n\nCombined efficiency of A and B = 5 + 4 = 9 units/hr.\nWork done in first 4 hours = 4 × 9 = 36 units.\nRemaining work = 60 - 36 = 24 units.\n\nTime taken by Pipe B to complete remaining work = 24 / 4 = 6 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1785815187929-1",
+      "section": "Quant",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Train A (length 250 m) and Train B (length 350 m) are running on parallel tracks in opposite directions. The speed of Train A is 54 km/h and the speed of Train B is 36 km/h. How much time will Train A take to completely pass a passenger sitting in Train B, and how much total time will the two trains take to cross each other completely?",
+      "options": [
+        "10 seconds and 24 seconds",
+        "12 seconds and 24 seconds",
+        "10 seconds and 20 seconds",
+        "14 seconds and 28 seconds"
+      ],
+      "answer": 0,
+      "explanation": "Relative speed of two trains moving in opposite directions = 54 km/h + 36 km/h = 90 km/h.\nIn m/s, Relative speed = 90 × (5/18) = 25 m/s.\n\n1) Time taken by Train A to pass a passenger in Train B:\nDistance = Length of Train A = 250 m.\nTime = 250 / 25 = 10 seconds.\n\n2) Total time taken by the two trains to cross each other completely:\nTotal Distance = Length of Train A + Length of Train B = 250 + 350 = 600 m.\nTime = 600 / 25 = 24 seconds.\n\nTherefore, the required times are 10 seconds and 24 seconds."
+    },
+    {
+      "id": "sbi-clerk-ai-1785815243974-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Pointing to a photograph of a man, a woman said, \"His mother is the only daughter-in-law of my mother-in-law's husband.\" How is the man in the photograph related to the woman?",
+      "options": [
+        "Father",
+        "Son",
+        "Brother",
+        "Husband"
+      ],
+      "answer": 1,
+      "explanation": "Break down the statement step-by-step:\n1. 'My mother-in-law's husband' = Woman's father-in-law.\n2. 'The only daughter-in-law of my father-in-law' = The woman herself (since she is the only daughter-in-law).\n3. 'His mother is [the woman herself]'.\nTherefore, the man in the photograph is the woman's Son."
+    },
+    {
+      "id": "sbi-clerk-ai-1785815243974-1",
+      "section": "Reasoning",
+      "topic": "Floor & Box Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Seven boxes—A, B, C, D, E, F, and G—are kept one above another in a stack, but not necessarily in the same order.\n- Box B is kept immediately below Box G.\n- Box G is kept above Box E.\n- Exactly three boxes are kept between Box E and Box F.\n- Box A is kept immediately above Box F.\n- Box E is kept immediately above Box D.\n- Only one box is kept between Box D and Box A.\n- Box C is kept below Box D.\n\nWhich box is kept at the 4th position from the top of the stack?",
+      "options": [
+        "Box C",
+        "Box D",
+        "Box E",
+        "Box B"
+      ],
+      "answer": 1,
+      "explanation": "Let's arrange the stack from top (7) to bottom (1):\n1. Box A is immediately above Box F, so they form the block (A, F).\n2. Box E is immediately above Box D, so they form the block (E, D).\n3. Only one box is between Box D and Box A, and 3 boxes are between Box E and Box F. Combining these gives the 5-box sequence: E - D - C - A - F.\n4. Since Box B is immediately below Box G (G, B) and Box G is above Box E, G and B must take the top two positions (7 and 6).\n\nFinal order from Top (7) to Bottom (1):\n7: Box G\n6: Box B\n5: Box E\n4: Box D\n3: Box C\n2: Box A\n1: Box F\n\nThe box at the 4th position from the top (position 4) is Box D."
+    },
+    {
+      "id": "sbi-clerk-ai-1785815253691-0",
+      "section": "English",
+      "topic": "Vocabulary / Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most appropriate word to fill in the blank to make the sentence meaningfully complete:\n\n'The recent surge in crude oil prices has __________ the economic recovery of several developing nations, forcing governments to revise their growth forecasts downwards.'",
+      "options": [
+        "expedited",
+        "stymied",
+        "augmented",
+        "proliferated"
+      ],
+      "answer": 1,
+      "explanation": "'Stymied' means prevented from making progress or impeded, which fits the context of forced downward growth forecasts due to rising oil prices. 'Expedited' means accelerated, 'augmented' means increased, and 'proliferated' means grew rapidly, all of which contradict the negative impact described."
+    },
+    {
+      "id": "sbi-clerk-ai-1785815253691-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Rearrange the given five segments (A), (B), (C), (D), and (E) to form a coherent sentence and select the correct sequence from the options provided:\n\n(A) to mitigate climate change risks\n(B) despite severe budget constraints,\n(C) the committee recommended implementing\n(D) renewable energy infrastructure projects\n(E) stringent regulations along with investing in",
+      "options": [
+        "BCEDA",
+        "CBEDA",
+        "CEDAB",
+        "EDCBA"
+      ],
+      "answer": 0,
+      "explanation": "The proper sequence is BCEDA. 'Despite severe budget constraints,' (B) introduces the introductory clause. 'the committee recommended implementing' (C) supplies the subject and main verb. 'stringent regulations along with investing in' (E) acts as the object of 'implementing'. 'renewable energy infrastructure projects' (D) acts as the object of 'investing in'. 'to mitigate climate change risks' (A) concludes the sentence by stating the goal."
+    },
+    {
+      "id": "sbi-clerk-ai-1785815267302-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the context of monetary policy instruments used by the Reserve Bank of India (RBI), what does the letter 'C' stand for in the abbreviation 'CRR'?",
+      "options": [
+        "Credit",
+        "Cash",
+        "Capital",
+        "Currency"
+      ],
+      "answer": 1,
+      "explanation": "In CRR, 'C' stands for 'Cash'. CRR refers to Cash Reserve Ratio, which is the specified minimum percentage of a bank's total reserves that must be maintained as cash deposits with the Reserve Bank of India.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785815267302-1",
+      "section": "General Awareness",
+      "topic": "Financial Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's Prompt Corrective Action (PCA) framework for Non-Banking Financial Companies (NBFCs), which condition triggers 'Risk Threshold 1' for applicable NBFCs?",
+      "options": [
+        "CRAR falling below the prescribed minimum by up to 300 bps OR Net NPA ratio exceeding 6%",
+        "CRAR falling below the prescribed minimum by 301 to 600 bps OR Net NPA ratio exceeding 9%",
+        "CRAR falling below the prescribed minimum by more than 600 bps OR Net NPA ratio exceeding 12%",
+        "Tier 1 Capital Ratio falling below 6% irrespective of Net NPA ratio"
+      ],
+      "answer": 0,
+      "explanation": "Under the RBI PCA Framework for NBFCs (effective October 1, 2022), Risk Threshold 1 is triggered if the Capital to Risk-Weighted Assets Ratio (CRAR) falls below the regulatory minimum by up to 300 basis points (bps) OR the Net NPA ratio exceeds 6%.",
       "status": "pending"
     }
   ]

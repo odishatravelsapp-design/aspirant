@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6524,6 +6524,136 @@
       ],
       "answer": 1,
       "explanation": "Commercial Paper (CP) is an unsecured money market instrument issued in the form of a promissory note. Under RBI guidelines, CPs are issued in minimum denominations of ₹5 lakh and in multiples of ₹5 lakh thereafter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785815305420-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A can complete a piece of work in 20 days, while B can complete the same work in 30 days. They start working together, but after 6 days, A leaves the work. In how many additional days will B complete the remaining work?",
+      "options": [
+        "12 days",
+        "15 days",
+        "18 days",
+        "10 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total work = LCM(20, 30) = 60 units.\nEfficiency of A = 60 / 20 = 3 units/day.\nEfficiency of B = 60 / 30 = 2 units/day.\nCombined efficiency of A and B = 3 + 2 = 5 units/day.\nWork completed in the first 6 days by (A + B) = 6 * 5 = 30 units.\nRemaining work = 60 - 30 = 30 units.\nTime taken by B alone to finish the remaining work = 30 / 2 = 15 days."
+    },
+    {
+      "id": "ibps-po-ai-1785815305420-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains x red balls, (x + 3) blue balls, and 3 green balls. If two balls are drawn at random one after another without replacement from the bag, the probability that both balls drawn are blue is 2/9. Find the total number of balls in the bag initially.",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = x + (x + 3) + 3 = 2x + 6.\nProbability of drawing the 1st blue ball = (x + 3) / (2x + 6) = (x + 3) / [2(x + 3)] = 1/2.\nProbability of drawing the 2nd blue ball = (x + 2) / (2x + 5).\nGiven P(both blue) = 2/9:\n(1/2) * [(x + 2) / (2x + 5)] = 2/9\n(x + 2) / (2x + 5) = 4/9\n9(x + 2) = 4(2x + 5)\n9x + 18 = 8x + 20 => x = 2.\nTotal initial balls = 2(2) + 6 = 10."
+    },
+    {
+      "id": "ibps-po-ai-1785815323836-0",
+      "section": "Reasoning",
+      "topic": "Circular Seating Arrangement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Eight friends — A, B, C, D, E, F, G, and H — are sitting around a circular table facing the center. B sits third to the right of A. F sits second to the left of B. D is not an immediate neighbor of A or B. C sits third to the left of H. E sits to the immediate right of C. Who sits second to the right of D?",
+      "options": [
+        "F",
+        "E",
+        "G",
+        "H"
+      ],
+      "answer": 1,
+      "explanation": "Arranging the 8 persons facing center in positions 1 to 8 (clockwise = left, counter-clockwise = right):\n1. Place A at position 1.\n2. B sits 3rd to the right of A -> pos 4.\n3. F sits 2nd to the left of B -> pos 2.\n4. D cannot be adjacent to A (pos 8, 2) or B (pos 3, 5). So D must be at pos 6 or 7.\n5. C sits 3rd to the left of H, and E sits to the immediate right of C. Placing H at pos 3 gives C at pos 6 and E at pos 5.\n6. D then takes pos 7, and G takes pos 8.\nPositions: 1:A, 2:F, 3:H, 4:B, 5:E, 6:C, 7:D, 8:G.\nD is at pos 7. The person sitting second to the right (counter-clockwise) of D is at pos 5, which is E."
+    },
+    {
+      "id": "ibps-po-ai-1785815323836-1",
+      "section": "Reasoning",
+      "topic": "Coded Direction Sense",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Read the following coded relationships carefully:\n'P @ Q' means 'P is 12m to the North of Q'\n'P # Q' means 'P is 7m to the South of Q'\n'P $ Q' means 'P is 9m to the East of Q'\n'P % Q' means 'P is 6m to the West of Q'\n\nBased on the statement 'E @ F, D % E, C # D, B $ C, A # B', what is the shortest distance between A and F, and in which direction is A with respect to F?",
+      "options": [
+        "5m, South-East",
+        "5m, North-West",
+        "13m, South-East",
+        "7m, South-West"
+      ],
+      "answer": 0,
+      "explanation": "Taking F as the origin (0, 0):\n1. E @ F => E is 12m North of F => E = (0, 12)\n2. D % E => D is 6m West of E => D = (-6, 12)\n3. C # D => C is 7m South of D => C = (-6, 5)\n4. B $ C => B is 9m East of C => B = (3, 5)\n5. A # B => A is 9m South of B => A = (3, -4)\n\nShortest distance between A(3, -4) and F(0, 0) = sqrt((3 - 0)^2 + (-4 - 0)^2) = sqrt(9 + 16) = sqrt(25) = 5m.\nWith respect to F(0, 0), point A(3, -4) lies in the South-East direction."
+    },
+    {
+      "id": "ibps-po-ai-1785815361336-0",
+      "section": "English",
+      "topic": "Contextual Word Usage & Spelling",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence below, four words are highlighted in bold as (A), (B), (C), and (D). Identify the word that is either misspelt or contextually inappropriate.\n\n'The company’s decision to **diversify** (A) its investments proved **judicious** (B) during the financial downturn, as it shielded them from **imminent** (C) insolvency and restored investor **confidents** (D).'",
+      "options": [
+        "diversify",
+        "judicious",
+        "imminent",
+        "confidents"
+      ],
+      "answer": 3,
+      "explanation": "The word 'confidents' is contextually and grammatically incorrect. The abstract noun 'confidence' (meaning trust or belief) is required after the modifier 'investor' to form the noun phrase 'investor confidence'. 'Confidents' is an incorrect form (confidants refers to trusted friends)."
+    },
+    {
+      "id": "ibps-po-ai-1785815361336-1",
+      "section": "English",
+      "topic": "Critical Reasoning - Passage Inference",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the passage given below and answer the question that follows:\n\n'While central banks across emerging economies have aggressively raised benchmark interest rates to curb persistent inflation, this monetary tightening has simultaneously escalated borrowing costs for small enterprises. Consequently, domestic private investment has stagnated, threatening long-term employment generation despite achieving short-term price stability.'\n\nWhich of the following is an accurate logical inference based on the passage?",
+      "options": [
+        "Central banks should completely refrain from using rate hikes during inflationary cycles.",
+        "Persistent inflation in emerging economies is caused primarily by private sector investments.",
+        "Policy measures aimed at curbing inflation through monetary tightening involve a trade-off with investment and employment growth.",
+        "Small enterprises are generally unaffected by macro-level monetary policy shifts."
+      ],
+      "answer": 2,
+      "explanation": "The passage outlines that monetary tightening curbs inflation (price stability) but simultaneously increases borrowing costs, leading to stagnated private investment and threatened employment. This directly implies a trade-off between inflation control and economic growth/investment."
+    },
+    {
+      "id": "ibps-po-ai-1785815370557-0",
+      "section": "General Awareness",
+      "topic": "Digital Payments & RBI Guidelines",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the maximum per-transaction limit for UPI Lite (on-device wallet) transactions without requiring an Additional Factor of Authentication (AFA)?",
+      "options": [
+        "₹200",
+        "₹500",
+        "₹1,000",
+        "₹2,000"
+      ],
+      "answer": 1,
+      "explanation": "In August 2023, the Reserve Bank of India (RBI) increased the per-transaction limit for UPI Lite from ₹200 to ₹500 to promote digital payments in small-value transactions. However, the overall wallet balance limit for UPI Lite remains capped at ₹2,000 at any given point.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785815370557-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy & Financial Concepts",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. What is the key distinction between the SDF and the traditional Fixed Rate Reverse Repo facility?",
+      "options": [
+        "SDF is a collateral-free liquidity absorption tool where RBI does not provide government securities to banks, unlike Reverse Repo.",
+        "SDF requires commercial banks to pledge collateral with the RBI to deposit excess funds, whereas Reverse Repo is uncollateralized.",
+        "SDF rate is always kept higher than the Repo rate, whereas Reverse Repo rate is kept lower.",
+        "SDF is accessible only to Primary Dealers and Urban Co-operative Banks, excluding Scheduled Commercial Banks."
+      ],
+      "answer": 0,
+      "explanation": "The Standing Deposit Facility (SDF) allows the RBI to absorb surplus liquidity from commercial banks without providing government securities as collateral. In contrast, under the traditional Reverse Repo facility, the RBI had to transfer government securities as collateral to banks against their deposits.",
       "status": "pending"
     }
   ]

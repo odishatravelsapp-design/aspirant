@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7152,6 +7152,136 @@
       ],
       "answer": 1,
       "explanation": "The Global Financial Stability Report (GFSR) is published semi-annually (in April and October) by the International Monetary Fund (IMF) to provide an assessment of global financial market developments and risks.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785815133206-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A trader marks an article such that after offering a discount of 20% on the marked price, he still makes a profit of 20%. If the cost price of the article is ₹750, what is its marked price?",
+      "options": [
+        "₹1,050",
+        "₹1,125",
+        "₹1,200",
+        "₹1,150"
+      ],
+      "answer": 1,
+      "explanation": "Cost Price (CP) = ₹750. Profit = 20%, so Selling Price (SP) = 750 × (120/100) = ₹900. Let Marked Price be MP. Discount = 20%, so SP = 80% of MP. Therefore, 0.80 × MP = ₹900 => MP = 900 / 0.8 = ₹1,125."
+    },
+    {
+      "id": "ibps-clerk-ai-1785815133207-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 7 : 3. If 20 liters of this mixture is taken out and replaced with 12 liters of pure water, the ratio of milk to water becomes 7 : 5. What was the initial total quantity of the mixture in the vessel?",
+      "options": [
+        "60 liters",
+        "70 liters",
+        "80 liters",
+        "90 liters"
+      ],
+      "answer": 2,
+      "explanation": "Let initial mixture = V liters. Milk = 0.7V, Water = 0.3V. When 20 L mixture is removed, milk removed = 0.7 × 20 = 14 L, water removed = 0.3 × 20 = 6 L. Remaining milk = 0.7V - 14. Remaining water = 0.3V - 6. After adding 12 L water, new water = 0.3V + 6. New ratio (0.7V - 14) / (0.3V + 6) = 7 / 5. Simplifying gives 5 × (0.1V - 2) = 0.3V + 6 => 0.5V - 10 = 0.3V + 6 => 0.2V = 16 => V = 80 liters."
+    },
+    {
+      "id": "ibps-clerk-ai-1785815147543-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
+      "options": [
+        "A",
+        "C",
+        "B",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Since E is the daughter of B and D is the brother of E, both D and E are the children of B. A is the brother of B, which makes A the uncle of D."
+    },
+    {
+      "id": "ibps-clerk-ai-1785815147543-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Five persons – P, Q, R, S, and T – live on five different floors of a five-storey building, where the ground floor is numbered 1 and the topmost floor is 5. S lives on an odd-numbered floor above floor 1. Only two persons live between S and T. P lives immediately above R. Q does not live on an even-numbered floor. Who lives on floor number 5?",
+      "options": [
+        "P",
+        "Q",
+        "S",
+        "T"
+      ],
+      "answer": 2,
+      "explanation": "S lives on an odd floor above floor 1, so S can be on floor 3 or 5. If S is on floor 3, T cannot be placed with two persons between them. Thus, S must be on floor 5. Two persons live between S (floor 5) and T, placing T on floor 2. P lives immediately above R, placing P on floor 4 and R on floor 3. The remaining person Q lives on floor 1. Therefore, S lives on floor 5."
+    },
+    {
+      "id": "ibps-clerk-ai-1785815156487-0",
+      "section": "English",
+      "topic": "Synonyms",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Choose the word that is MOST SIMILAR in meaning to the word 'BENEVOLENT'.",
+      "options": [
+        "Malevolent",
+        "Kindhearted",
+        "Apathetic",
+        "Hostile"
+      ],
+      "answer": 1,
+      "explanation": "'Benevolent' means well-meaning and kindly. Therefore, 'Kindhearted' is its closest synonym. 'Malevolent' and 'Hostile' are antonyms, while 'Apathetic' means showing no interest or concern."
+    },
+    {
+      "id": "ibps-clerk-ai-1785815156487-1",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence below to find out whether there is any grammatical error in it. Mark the part containing the error as your answer.\n\nHardly had the announcement been made (1) / when the crowd has rushed (2) / towards the main stage (3) / to greet the performers. (4)",
+      "options": [
+        "Hardly had the announcement been made",
+        "when the crowd has rushed",
+        "towards the main stage",
+        "to greet the performers"
+      ],
+      "answer": 1,
+      "explanation": "When using the structure 'Hardly had + subject + past participle ... when ...', the second clause following 'when' must be in the Simple Past tense. Therefore, 'has rushed' should be replaced with 'rushed'."
+    },
+    {
+      "id": "ibps-clerk-ai-1785815169365-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "At which rate does the Reserve Bank of India (RBI) lend money to commercial banks against approved government securities to meet their short-term liquidity needs?",
+      "options": [
+        "Repo Rate",
+        "Reverse Repo Rate",
+        "Bank Rate",
+        "Marginal Standing Facility Rate"
+      ],
+      "answer": 0,
+      "explanation": "Repo Rate (Repurchase Option Rate) is the key policy interest rate at which the Reserve Bank of India (RBI) provides short-term loans to commercial banks against government securities to manage liquidity.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785815169365-1",
+      "section": "General Awareness",
+      "topic": "Financial Institutions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Small Industries Development Bank of India (SIDBI) serves as the principal financial institution for the MSME sector. Where is the headquarters of SIDBI located?",
+      "options": [
+        "Mumbai, Maharashtra",
+        "Lucknow, Uttar Pradesh",
+        "New Delhi",
+        "Kolkata, West Bengal"
+      ],
+      "answer": 1,
+      "explanation": "The Small Industries Development Bank of India (SIDBI) was set up on April 2, 1990, under an Act of the Indian Parliament. Its headquarters is located in Lucknow, Uttar Pradesh.",
       "status": "pending"
     }
   ]

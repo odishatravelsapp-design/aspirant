@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -7411,6 +7411,62 @@
             "J_AB = 40 Hz ଏବଂ Δν = 30 Hz"
           ],
           "explanation": "AB ସ୍ପିନ୍ ସିଷ୍ଟମରେ ଲାଇନ୍ ଆବୃତ୍ତି ν1 = 460 Hz, ν2 = 490 Hz, ν3 = 510 Hz, ଏବଂ ν4 = 540 Hz ହୋଇଥିବାରୁ, କପଲିଂ କନଷ୍ଟାଣ୍ଟ J_AB = ν2 - ν1 = 490 - 460 = 30 Hz | 2C ର ମୂଲ୍ୟ (ν4 - ν1 + ν3 - ν2)/2 = (80 + 20)/2 = 50 Hz | (2C)^2 = (Δν)^2 + (J_AB)^2 ସୂତ୍ର ଅନୁସାରେ, 50^2 = (Δν)^2 + 30^2, ଯାହାଦ୍ୱାରା (Δν)^2 = 2500 - 900 = 1600, ଅର୍ଥାତ୍ Δν = 40 Hz ହେବ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785816021402-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Indian NCERT model of Microteaching, what is the standard total duration prescribed for one complete microteaching cycle?",
+      "options": [
+        "30 minutes",
+        "36 minutes",
+        "42 minutes",
+        "45 minutes"
+      ],
+      "answer": 1,
+      "explanation": "The standard Microteaching cycle developed by NCERT in India consists of 6 specific phases: Teaching (6 min), Feedback (6 min), Re-planning (12 min), Re-teaching (6 min), and Re-feedback (6 min), taking a total duration of 36 minutes.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ NCERT ର ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଅଧ୍ୟାପନା) ମଡେଲ୍ ଅନୁଯାୟୀ, ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ର ପାଇଁ ନିର୍ଦ୍ଧାରିତ ମାନକ ସମୋଟ ସମୟ କେତେ?",
+          "options": [
+            "୩୦ ମିନିଟ୍",
+            "୩୬ ମିନିଟ୍",
+            "୪୨ ମିନିଟ୍",
+            "୪୫ ମିନିଟ୍"
+          ],
+          "explanation": "ଭାରତରେ NCERT ଦ୍ୱାରା ବିକଶିତ ମାନକ ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ରରେ ୬ ଟି ନିର୍ଦ୍ଦିଷ୍ଟ ପର୍ଯ୍ୟାୟ ରହିଛି: ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ପ୍ରତିପୋଷଣ/ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷାଦାନ (୬ ମିନିଟ୍), ଏବଂ ପୁନଃ-ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍), ଯାହା ସମୋଟ ୩୬ ମିନିଟ୍ ସମୟ ନେଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785816021402-1",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Development Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Jerome Bruner's theory of cognitive growth, in which mode of representation do learners represent objects and events predominantly through direct, physical action and motor responses?",
+      "options": [
+        "Iconic representation",
+        "Enactive representation",
+        "Symbolic representation",
+        "Intuitive representation"
+      ],
+      "answer": 1,
+      "explanation": "Jerome Bruner proposed three modes of cognitive representation: Enactive (action-based, learning through direct physical movement), Iconic (image-based, learning through visual models), and Symbolic (language-based, learning through abstract symbols).",
+      "translations": {
+        "or": {
+          "question": "ଜେରୋମ୍ ବ୍ରୁନରଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, କେଉଁ ପ୍ରତିନିଧିତ୍ୱ ରୂପ (mode of representation) ରେ ଶିକ୍ଷାର୍ଥୀମାନେ ପ୍ରତ୍ୟକ୍ଷ ଶାରୀରିକ କାର୍ଯ୍ୟ ଏବଂ ମୋଟର ପ୍ରତିକ୍ରିୟା ମାଧ୍ୟମରେ ବସ୍ତୁ ଏବଂ ଘଟଣାଗୁଡ଼ିକୁ ପ୍ରଦର୍ଶିତ କରିଥାନ୍ତି?",
+          "options": [
+            "ଆଇକନିକ୍ ପ୍ରତିନିଧିତ୍ୱ (Iconic representation)",
+            "ଏନାକ୍ଟିଭ୍ ପ୍ରତିନିଧିତ୍ୱ (Enactive representation)",
+            "ସିମ୍ବୋଲିକ୍ ପ୍ରତିନିଧିତ୍ୱ (Symbolic representation)",
+            "ଇଣ୍ଟୁଇଟିଭ୍ ପ୍ରତିନିଧିତ୍ୱ (Intuitive representation)"
+          ],
+          "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍ ଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି ପର୍ଯ୍ୟାୟ ପ୍ରସ୍ତାବ କରିଛନ୍ତି: ଏନାକ୍ଟିଭ୍ (କାର୍ଯ୍ୟ-ଆଧାରିତ, ଶାରୀରିକ ଗତିବିଧି ମାଧ୍ୟମରେ ଶିଖିବା), ଆଇକନିକ୍ (ଚିତ୍ର-ଆଧାରିତ, ଦୃଶ୍ୟମାନ ପ୍ରତିବିମ୍ବ ମାଧ୍ୟମରେ ଶିଖିବା), ଏବଂ ସିମ୍ବୋଲିକ୍ (ଭାଷା-ଆଧାରିତ, ବିମୂର୍ତ୍ତ ସଙ୍କେତ ମାଧ୍ୟମରେ ଶିଖିବା)।"
         }
       }
     }
