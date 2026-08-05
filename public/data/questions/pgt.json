@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -7467,6 +7467,232 @@
             "ଇଣ୍ଟୁଇଟିଭ୍ ପ୍ରତିନିଧିତ୍ୱ (Intuitive representation)"
           ],
           "explanation": "ଜେରୋମ୍ ବ୍ରୁନର୍ ଜ୍ଞାନାତ୍ମକ ପ୍ରତିନିଧିତ୍ୱର ତିନୋଟି ପର୍ଯ୍ୟାୟ ପ୍ରସ୍ତାବ କରିଛନ୍ତି: ଏନାକ୍ଟିଭ୍ (କାର୍ଯ୍ୟ-ଆଧାରିତ, ଶାରୀରିକ ଗତିବିଧି ମାଧ୍ୟମରେ ଶିଖିବା), ଆଇକନିକ୍ (ଚିତ୍ର-ଆଧାରିତ, ଦୃଶ୍ୟମାନ ପ୍ରତିବିମ୍ବ ମାଧ୍ୟମରେ ଶିଖିବା), ଏବଂ ସିମ୍ବୋଲିକ୍ (ଭାଷା-ଆଧାରିତ, ବିମୂର୍ତ୍ତ ସଙ୍କେତ ମାଧ୍ୟମରେ ଶିଖିବା)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901642765-0",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Revised Taxonomy",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Lorin Anderson and David Krathwohl's revised version of Bloom's Taxonomy (2001), which level represents the highest order of the cognitive domain?",
+      "options": [
+        "Evaluating",
+        "Creating",
+        "Analyzing",
+        "Applying"
+      ],
+      "answer": 1,
+      "explanation": "In the 2001 revised version of Bloom's Taxonomy by Anderson and Krathwohl, the highest cognitive level was changed from 'Evaluation' to 'Creating' (putting elements together to form a coherent or functional whole).",
+      "translations": {
+        "or": {
+          "question": "ଲୋରିନ୍ ଆଣ୍ଡରସନ୍ ଏବଂ ଡେଭିଡ୍ କ୍ରାଥୱୋଲଙ୍କ ଦ୍ୱାରା ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମି (୨୦୦୧) ରେ, କେଉଁ ସ୍ତରଟି ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର (Cognitive Domain) ସର୍ବୋଚ୍ଚ ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ମୂଲ୍ୟାଙ୍କନ (Evaluating)",
+            "ସୃଜନ (Creating)",
+            "ବିଶ୍ଳେଷଣ (Analyzing)",
+            "ପ୍ରୟୋଗ (Applying)"
+          ],
+          "explanation": "ଆଣ୍ଡରସନ୍ ଏବଂ କ୍ରାଥୱୋଲଙ୍କ ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମି (୨୦୦୧) ରେ 'ସୃଜନ' (Creating) ହେଉଛି ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର ସର୍ବୋଚ୍ଚ ସ୍ତର, ଯାହା ମୂଲ୍ୟାଙ୍କନ (Evaluating) ସ୍ତରର ଉପରେ ସ୍ଥାନିତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901642765-1",
+      "section": "Teaching Aptitude",
+      "topic": "Flanders' Interaction Analysis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Flanders' Interaction Analysis Categories System (FIACS), which specific category corresponds to indirect teacher talk that involves 'accepting or using ideas of pupils'?",
+      "options": [
+        "Category 1",
+        "Category 2",
+        "Category 3",
+        "Category 4"
+      ],
+      "answer": 2,
+      "explanation": "In FIACS, Category 3 represents 'Accepts or uses ideas of pupils' under Indirect Teacher Talk. Category 1 is 'Accepts feeling', Category 2 is 'Praises or encourages', and Category 4 is 'Asks questions'.",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରଆକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, କେଉଁ ବର୍ଗଟି ଛାତ୍ରମାନଙ୍କ ଚିନ୍ତାଧାରାକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା ସହ ଜଡ଼ିତ ପରୋକ୍ଷ ଶିକ୍ଷକ କଥୋପକଥନକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ବର୍ଗ ୧ (Category 1)",
+            "ବର୍ଗ ୨ (Category 2)",
+            "ବର୍ଗ ୩ (Category 3)",
+            "ବର୍ଗ ୪ (Category 4)"
+          ],
+          "explanation": "FIACS ରେ, ବର୍ଗ ୩ (Category 3) 'ଛାତ୍ରମାନଙ୍କ ଚିନ୍ତାଧାରା ଗ୍ରହଣ କିମ୍ବା ବ୍ୟବହାର କରିବା' କୁ ପ୍ରତିନିଧିତ୍ୱ କରେ, ଯାହା ପରୋକ୍ଷ ଶିକ୍ଷକ କଥୋପକଥନ (Indirect Teacher Talk) ର ଅଂଶ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901701791-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "For a first-order reaction, the time required for 99.9% completion is approximately how many times the half-life period (t_{1/2}) of the reaction?",
+      "options": [
+        "3 times",
+        "5 times",
+        "10 times",
+        "100 times"
+      ],
+      "answer": 2,
+      "explanation": "For a first-order reaction, t_{99.9%} = (2.303 / k) * log(100 / (100 - 99.9)) = (2.303 * 3) / k = 6.909 / k. Since the half-life period t_{1/2} = 0.693 / k, the ratio t_{99.9%} / t_{1/2} = 6.909 / 0.693 ≈ 10. Thus, the time required for 99.9% completion is approximately 10 times the half-life.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏକ ପ୍ରଥମ-କ୍ରମ ପ୍ରତିକ୍ରିୟା (first-order reaction) ପାଇଁ, 99.9% ସମ୍ପୂର୍ଣ୍ଣ ହେବାକୁ ଲାଗୁଥିବା ସମୟ ଏହାର ଅର୍ଦ୍ଧ-ଜୀବନ କାଳ (t_{1/2}) ର ପ୍ରାୟ କେତେ ଗୁଣ?",
+          "options": [
+            "3 ଗୁଣ",
+            "5 ଗୁଣ",
+            "10 ଗୁଣ",
+            "100 ଗୁଣ"
+          ],
+          "explanation": "ପ୍ରଥମ-କ୍ରମ ପ୍ରତିକ୍ରିୟା ପାଇଁ, t_{99.9%} = (2.303 / k) * log(100 / (100 - 99.9)) = (2.303 * 3) / k = 6.909 / k। ଯେହେତୁ ଅର୍ଦ୍ଧ-ଜୀବନ କାଳ t_{1/2} = 0.693 / k, ଅନୁପାତ t_{99.9%} / t_{1/2} = 6.909 / 0.693 ≈ 10 । ତେଣୁ, 99.9% ସମ୍ପୂର୍ଣ୍ଣ ହେବାକୁ ଲାଗୁଥିବା ସମୟ ଅର୍ଦ୍ଧ-ଜୀବନ କାଳର ପ୍ରାୟ 10 ଗୁଣ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901701791-1",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "For a particle of mass m confined in a one-dimensional box of length L, what is the probability of finding the particle in the region 0 <= x <= L/4 in its ground state (n = 1)?",
+      "options": [
+        "(π - 2) / (4π)",
+        "1 / 4",
+        "(π + 2) / (4π)",
+        "1 / (2π)"
+      ],
+      "answer": 0,
+      "explanation": "The normalized ground state wave function is ψ_1(x) = sqrt(2/L) * sin(π*x / L). The probability P = ∫_0^(L/4) |ψ_1(x)|^2 dx = (2/L) ∫_0^(L/4) sin^2(π*x / L) dx = (1/L) ∫_0^(L/4) (1 - cos(2*π*x / L)) dx = (1/L) [ x - (L / (2*π)) * sin(2*π*x / L) ]_0^(L/4) = (1/L) [ L/4 - (L / (2*π)) * sin(π/2) ] = 1/4 - 1/(2*π) = (π - 2) / (4*π).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "L ଲମ୍ବର ଏକ-ବିମୀୟ ବାକ୍ସ (one-dimensional box) ରେ ଆବଦ୍ଧ m ଭରର ଏକ କଣିକା ପାଇଁ, ଏହାର ଭୂମି ସ୍ତର (n = 1) ରେ 0 <= x <= L/4 ଅନ୍ତରାଳରେ କଣିକାଟି ମିଳିବାର ସମ୍ଭାବ୍ୟତା (probability) କେତେ?",
+          "options": [
+            "(π - 2) / (4π)",
+            "1 / 4",
+            "(π + 2) / (4π)",
+            "1 / (2π)"
+          ],
+          "explanation": "ନର୍ମାଲାଇଜଡ୍ ଭୂମି ସ୍ତର ତରଙ୍ଗ ଫଳନ ହେଉଛି ψ_1(x) = sqrt(2/L) * sin(π*x / L)। ସମ୍ଭାବ୍ୟତା P = ∫_0^(L/4) |ψ_1(x)|^2 dx = (2/L) ∫_0^(L/4) sin^2(π*x / L) dx = (1/L) ∫_0^(L/4) (1 - cos(2*π*x / L)) dx = (1/L) [ x - (L / (2*π)) * sin(2*π*x / L) ]_0^(L/4) = (1/L) [ L/4 - (L / (2*π)) * sin(π/2) ] = 1/4 - 1/(2*π) = (π - 2) / (4*π)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901820617-0",
+      "section": "Child Development",
+      "topic": "Language Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which stage of pre-linguistic speech development typically occurs around 6 months of age and is characterized by the repetition of consonant-vowel combinations such as \"ba-ba\" or \"da-da\"?",
+      "options": [
+        "Cooing",
+        "Babbling",
+        "Holophrastic speech",
+        "Telegraphic speech"
+      ],
+      "answer": 1,
+      "explanation": "Babbling typically emerges around 6 months of age and involves the rhythmic repetition of consonant-vowel syllables like \"ba-ba\" or \"da-da\". Cooing consists mainly of vowel sounds appearing around 6-8 weeks, while holophrastic and telegraphic speech occur later in linguistic development.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରାକ୍-ଭାଷାଗତ କଥନ ବିକାଶର କେଉଁ ପର୍ଯ୍ୟାୟ ସାଧାରଣତଃ ୬ ମାସ ବୟସ ପାଖାପାଖି ଦେଖାଯାଏ, ଯାହା \"ବା-ବା\" କିମ୍ବା \"ଦା-ଦା\" ଭଳି ବ୍ୟଞ୍ଜନ-ସ୍ୱରବର୍ଣ୍ଣର ସଂଯୋଜନାର ପୁନରାବୃତ୍ତି ଦ୍ୱାରା ଚିହ୍ନିତ ହୋଇଥାଏ?",
+          "options": [
+            "କୁଇଙ୍ଗ୍ (Cooing)",
+            "ବ୍ୟାବ୍ଲିଙ୍ଗ୍ (Babbling)",
+            "ହୋଲୋଫ୍ରାଷ୍ଟିକ୍ କଥନ (Holophrastic speech)",
+            "ଟେଲିଗ୍ରାଫିକ୍ କଥନ (Telegraphic speech)"
+          ],
+          "explanation": "ବ୍ୟାବ୍ଲିଙ୍ଗ୍ (Babbling) ସାଧାରଣତଃ ୬ ମାସ ବୟସରେ ଆରମ୍ଭ ହୋଇଥାଏ ଏବଂ ଏଥିରେ \"ବା-ବା\" କିମ୍ବା \"ଦା-ଦା\" ଭଳି ବ୍ୟଞ୍ଜନ-ସ୍ୱରବର୍ଣ୍ଣର ସଂଯୋଜନାର ପୁନରାବୃତ୍ତି ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901820617-1",
+      "section": "Child Development",
+      "topic": "Neo-Piagetian Cognitive Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robbie Case's neo-Piagetian theory of cognitive development, what is the primary mechanism responsible for increasing the functional capacity of the Short-Term Storage Space (STSS) as children mature?",
+      "options": [
+        "Structural expansion of total processing space in the prefrontal cortex",
+        "Increased operational efficiency and automaticity, which frees up processing resources",
+        "Maturation of myelination that specifically increases the capacity of long-term memory",
+        "Gradual decline of assimilation mechanisms in favor of accommodation"
+      ],
+      "answer": 1,
+      "explanation": "Robbie Case proposed that total processing space consists of operating space plus short-term storage space (STSS), and total space remains constant across development. As children gain experience and brain maturation occurs, operational efficiency and automaticity increase, requiring less operating space and thereby freeing up functional STSS capacity.",
+      "translations": {
+        "or": {
+          "question": "ରବି କେସ୍ (Robbie Case) ଙ୍କ ନବ-ପିଆଜେଟିଆନ୍ (neo-Piagetian) ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଶିଶୁର ବିକାଶ ସହିତ ସ୍ୱଳ୍ପକାଳୀନ ସଂରକ୍ଷଣ ସ୍ଥାନ (STSS) ର କାର୍ଯ୍ୟକାରୀ କ୍ଷମତା ବୃଦ୍ଧି ପାଇଁ ମୁଖ୍ୟ କାରଣ କ’ଣ?",
+          "options": [
+            "ପ୍ରିଫ୍ରଣ୍ଟାଲ୍ କୋର୍ଟେକ୍ସରେ ମୋଟ ପ୍ରକ୍ରିୟାକରଣ ସ୍ଥାନର ଗଠନମୂଳକ ସମ୍ପ୍ରସାରଣ",
+            "କାର୍ଯ୍ୟକାରୀ ଦକ୍ଷତା ଏବଂ ସ୍ୱୟଂକ୍ରିୟତାର ବୃଦ୍ଧି, ଯାହା ପ୍ରକ୍ରିୟାକରଣ ସମ୍ବଳକୁ ମୁକ୍ତ କରିଥାଏ",
+            "ମାଇଲିନେସନ୍‌ର ପରିପକ୍ୱତା ଯାହା ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ ଦୀର୍ଘକାଳୀନ ସ୍ମୃତିର ଆକାର ବୃଦ୍ଧି କରିଥାଏ",
+            "ଆତ୍ମସାତ୍କରଣ ପ୍ରକ୍ରିୟାର କ୍ରମାଗତ ହ୍ରାସ ଏବଂ ସମାୟୋଜନର ବୃଦ୍ଧି"
+          ],
+          "explanation": "ରବି କେସ୍‌ଙ୍କ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ମୋଟ ପ୍ରକ୍ରିୟାକରଣ ସ୍ଥାନ ସ୍ଥିର ରହିଥାଏ। ଅଭ୍ୟାସ ଏବଂ ପରିପକ୍ୱତା ସହିତ ମାନସିକ କାର୍ଯ୍ୟଗୁଡ଼ିକ ଅଧିକ ଦକ୍ଷ ଏବଂ ସ୍ୱୟଂକ୍ରିୟ ହୋଇଯାଏ, ଯାହା ଦ୍ୱାରା କାର୍ଯ୍ୟକାରୀ ସ୍ଥାନର ଆବଶ୍ୟକତା କମିଯାଏ ଏବଂ ସ୍ୱଳ୍ପକାଳୀନ ସଂରକ୍ଷଣ ସ୍ଥାନ (STSS) ର କ୍ଷମତା ବୃଦ୍ଧି ପାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901831019-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Article of the Constitution of India provides for the creation of All India Services common to both the Union and the States?",
+      "options": [
+        "Article 312",
+        "Article 315",
+        "Article 320",
+        "Article 324"
+      ],
+      "answer": 0,
+      "explanation": "Article 312 of the Constitution of India empowers the Parliament to create All India Services common to both the Union and the States, if the Rajya Sabha passes a resolution supported by not less than two-thirds of the members present and voting.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଅନୁଚ୍ଛେଦ କେନ୍ଦ୍ର ଏବଂ ରାଜ୍ୟଗୁଡ଼ିକ ପାଇଁ ସାଧାରଣ ସର୍ବଭାରତୀୟ ସେବା (All India Services) ସୃଷ୍ଟି ପାଇଁ ବ୍ୟବସ୍ଥା କରେ?",
+          "options": [
+            "ଅନୁଚ୍ଛେଦ ୩୧୨",
+            "ଅନୁଚ୍ଛେଦ ୩୧୫",
+            "ଅନୁଚ୍ଛେଦ ୩୨୦",
+            "ଅନୁଚ୍ଛେଦ ୩୨୪"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଅନୁଚ୍ଛେଦ ୩୧୨ ଅନୁଯାୟୀ, ଯଦି ରାଜ୍ୟସଭା ଉପସ୍ଥିତ ଏବଂ ମତଦାନ କରୁଥିବା ସଦସ୍ୟଙ୍କ ଅତି କମରେ ଦୁଇ-ତୃତୀୟାଂଶ ବହୁମତରେ ଏକ ପ୍ରସ୍ତାବ ପାରିତ କରେ, ତେବେ ସଂସଦ ଆଇନ ଦ୍ୱାରା ନୂତନ ସର୍ବଭାରତୀୟ ସେବା ସୃଷ୍ଟି କରିପାରିବ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785901831019-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following founded the 'Satya Shodhak Samaj' in Maharashtra in the year 1873?",
+      "options": [
+        "Gopal Hari Deshmukh",
+        "Jyotirao Phule",
+        "Atmaram Pandurang",
+        "Maharshi Karve"
+      ],
+      "answer": 1,
+      "explanation": "Jyotirao Phule founded the Satya Shodhak Samaj (Truth-seekers' Society) in Pune, Maharashtra, in 1873 to propagate social equality and promote education and social rights for the underprivileged sections of society.",
+      "translations": {
+        "or": {
+          "question": "୧୮୭୩ ମସିହାରେ ମହାରାଷ୍ଟ୍ରରେ 'ସତ୍ୟଶୋଧକ ସମାଜ' ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଗୋପାଳ ହରି ଦେଶମୁଖ",
+            "ଜ୍ୟୋତିରାଓ ଫୁଲେ",
+            "ଆତ୍ମାରାମ ପାଣ୍ଡୁରଙ୍ଗ",
+            "ମହର୍ଷି କାର୍ଭେ"
+          ],
+          "explanation": "ଜ୍ୟୋତିରାଓ ଫୁଲେ ୧୮୭୩ ମସିହାରେ ମହାରାଷ୍ଟ୍ରର ପୁଣେଠାରେ ସତ୍ୟଶୋଧକ ସମାଜ ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ଏହାର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ ଥିଲା ସାମାଜିକ ସମାନତା ପ୍ରଚାର କରିବା ଏବଂ ଅବହେଳିତ ବର୍ଗଙ୍କ ଶିକ୍ଷା ଓ ଅଧିକାର ପାଇଁ କାର୍ଯ୍ୟ କରିବା।"
         }
       }
     }

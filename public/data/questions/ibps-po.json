@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6654,6 +6654,136 @@
       ],
       "answer": 0,
       "explanation": "The Standing Deposit Facility (SDF) allows the RBI to absorb surplus liquidity from commercial banks without providing government securities as collateral. In contrast, under the traditional Reverse Repo facility, the RBI had to transfer government securities as collateral to banks against their deposits.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785901467170-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of money amounts to Rs. 8,400 in 2 years and Rs. 12,000 in 5 years at simple interest. What is the rate of interest per annum?",
+      "options": [
+        "12%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explanation": "Simple interest for 3 years (5 years - 2 years) = Rs. 12,000 - Rs. 8,400 = Rs. 3,600. Therefore, Simple Interest for 1 year = 3600 / 3 = Rs. 1,200. Simple Interest for 2 years = 1200 * 2 = Rs. 2,400. Principal = Amount after 2 years - SI for 2 years = 8400 - 2400 = Rs. 6,000. Rate of Interest = (1200 / 6000) * 100 = 20% p.a."
+    },
+    {
+      "id": "ibps-po-ai-1785901467170-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a piece of work individually in 18 days, 24 days, and 36 days respectively. They started working together, but A left 3 days before the completion of the work and B left 2 days before the completion of the work. In how many days was the entire work completed?",
+      "options": [
+        "8 days",
+        "10 days",
+        "12 days",
+        "15 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total work = LCM(18, 24, 36) = 72 units. Efficiency of A = 72 / 18 = 4 units/day. Efficiency of B = 72 / 24 = 3 units/day. Efficiency of C = 72 / 36 = 2 units/day. Let total days taken be 'x'. A worked for (x - 3) days, B worked for (x - 2) days, and C worked for x days. Total work done: 4(x - 3) + 3(x - 2) + 2(x) = 72 => 4x - 12 + 3x - 6 + 2x = 72 => 9x - 18 = 72 => 9x = 90 => x = 10 days."
+    },
+    {
+      "id": "ibps-po-ai-1785901485073-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Pens are Pencils.\nAll Pencils are Erasers.\nNo Eraser is a Sharpener.\n\nConclusions:\nI. Some Pencils being Sharpeners is a possibility.\nII. All Erasers being Pens is a possibility.\n\nWhich of the given conclusions logically follow(s)?",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1) All Pencils are Erasers and No Eraser is a Sharpener, which means No Pencil is a Sharpener. Thus, 'Some Pencils being Sharpeners is a possibility' is definitively false.\n2) 'Only a few Pens are Pencils' means 'Some Pens are Pencils' and 'Some Pens are not Pencils'. This restriction applies to Pens, not Erasers. Erasers can completely overlap with Pens as long as Pens still have some elements outside Pencils/Erasers. Thus, 'All Erasers being Pens is a possibility' is true."
+    },
+    {
+      "id": "ibps-po-ai-1785901485073-1",
+      "section": "Reasoning",
+      "topic": "Input-Output",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A word and number arrangement machine when given an input line rearranges them step-by-step following a specific rule:\n\nInput: 24 clear 73 apex 51 focus 38 grand\nStep I: apex 73 24 clear 51 focus 38 grand\nStep II: apex 73 clear 51 24 focus 38 grand\nStep III: apex 73 clear 51 focus 38 24 grand\nStep IV: apex 73 clear 51 focus 38 grand 24\nStep IV is the final step.\n\nBased on the rules followed above, answer the question for the following input:\nInput: 68 bright 14 cosmic 82 flight 43 direct\n\nWhich element is 3rd to the left of the element which is 2nd from the right end in Step III?",
+      "options": [
+        "direct",
+        "68",
+        "cosmic",
+        "43"
+      ],
+      "answer": 1,
+      "explanation": "Rule: In each step, one word (in alphabetical order) and one number (in descending order) are arranged together from left to right.\n\nWords: bright, cosmic, direct, flight\nNumbers: 82, 68, 43, 14\n\nInput: 68 bright 14 cosmic 82 flight 43 direct\nStep I: bright 82 68 14 cosmic flight 43 direct\nStep II: bright 82 cosmic 68 14 flight 43 direct\nStep III: bright 82 cosmic 68 direct 43 14 flight\n\nIn Step III, the 2nd element from the right end is '14'.\nThe element 3rd to the left of '14' is '68'."
+    },
+    {
+      "id": "ibps-po-ai-1785901494180-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Four words in the sentence below are marked as (1), (2), (3), and (4). Determine which pair of words should be interchanged to render the sentence grammatically sound and contextually meaningful:\n\n'The regulatory comply (1) issued a stern (2) warning to financial institutions (3) that fail to body (4) with anti-money laundering protocols.'",
+      "options": [
+        "1 - 4",
+        "2 - 3",
+        "1 - 3",
+        "No interchange required"
+      ],
+      "answer": 0,
+      "explanation": "The word 'comply' is a verb and does not fit after the adjective 'regulatory'. Conversely, 'body' is a noun that fits after 'regulatory', and 'comply' is a verb that fits before 'with anti-money laundering protocols'. Swapping (1) and (4) restores correct grammar and context: 'regulatory body... fail to comply'."
+    },
+    {
+      "id": "ibps-po-ai-1785901494180-1",
+      "section": "English",
+      "topic": "Paragraph Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the options provided below best logically completes the given passage?\n\n'Decentralized finance (DeFi) offers unprecedented financial autonomy by removing traditional intermediaries like banks. However, this absence of oversight exposes users to heightened risks of smart contract vulnerabilities, algorithmic failures, and unrecoverable fraud. Consequently, while DeFi promises democratization of finance, ____________.'",
+      "options": [
+        "it completely eliminates the necessity for risk assessment in modern investment strategies.",
+        "its widespread adoption remains hindered by the lack of institutional safeguards and consumer protection.",
+        "central banks have decided to fully integrate DeFi protocols into traditional retail banking systems.",
+        "investors are guaranteed higher returns compared to conventional regulated financial markets."
+      ],
+      "answer": 1,
+      "explanation": "The passage sets up a contrast between the benefits of DeFi (autonomy/democratization) and its risks (lack of oversight, vulnerabilities, fraud). The blank requires a logical conclusion reflecting this paradox. Option B appropriately concludes that these risks hinder mainstream adoption due to missing safeguards."
+    },
+    {
+      "id": "ibps-po-ai-1785901508145-0",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (RBI) guidelines, what is the mandatory Priority Sector Lending (PSL) target for Regional Rural Banks (RRBs) as a percentage of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE)?",
+      "options": [
+        "40%",
+        "60%",
+        "75%",
+        "80%"
+      ],
+      "answer": 2,
+      "explanation": "Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) are required to allocate 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, to Priority Sector Lending.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785901508145-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & NPAs",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (RBI) prudential norms on Income Recognition, Asset Classification and Provisioning (IRACP), an agricultural loan extended for short-duration crops is classified as a Non-Performing Asset (NPA) if the interest or installment of principal remains overdue for how long?",
+      "options": [
+        "One crop season",
+        "Two crop seasons",
+        "Three crop seasons",
+        "180 days from the due date"
+      ],
+      "answer": 1,
+      "explanation": "According to RBI guidelines on IRACP norms, a loan granted for short-duration crops is classified as an NPA if the installment of principal or interest thereon remains overdue for two crop seasons. For long-duration crops, it is classified as an NPA if overdue for one crop season.",
       "status": "pending"
     }
   ]

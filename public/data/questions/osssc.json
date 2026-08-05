@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -8068,6 +8068,205 @@
             "୨୦୧୦"
           ],
           "explanation": "ଭିତରକନିକା ମ୍ୟାଙ୍ଗ୍ରୋଭକୁ ୧୯ ଅଗଷ୍ଟ ୨୦୦୨ରେ ରାମସର ସାଇଟ୍ ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା, ଯାହା ଚିଲିକା ହ୍ରଦ ପରେ ଓଡ଼ିଶାର ଦ୍ୱିତୀୟ ରାମସର ସାଇଟ୍ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901524212-0",
+      "section": "Arithmetic",
+      "topic": "Average",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average of 7 consecutive odd numbers is 27. What is the product of the smallest and the largest of these numbers?",
+      "options": [
+        "621",
+        "693",
+        "713",
+        "735"
+      ],
+      "answer": 1,
+      "explanation": "For 7 consecutive odd numbers, the average is the middle (4th) number, which is 27. Thus, the numbers are 21, 23, 25, 27, 29, 31, 33. The smallest number is 21 and the largest number is 33. Their product is 21 × 33 = 693.",
+      "translations": {
+        "or": {
+          "question": "୭ଟି କ୍ରମାଗତ ଅଯୁଗ୍ମ ସଂଖ୍ୟାର ହାରାହାରି ୨୭ ଅଟେ। ଏହି ସଂଖ୍ୟାଗୁଡ଼ିକ ମଧ୍ୟରୁ କ୍ଷୁଦ୍ରତମ ଏବଂ ବୃହତ୍ତମ ସଂଖ୍ୟାର ଗୁଣଫଳ କେତେ?",
+          "options": [
+            "୬୨୧",
+            "୬୯୩",
+            "୭୧୩",
+            "୭୩୫"
+          ],
+          "explanation": "କ୍ରମାଗତ ୭ଟି ଅଯୁଗ୍ମ ସଂଖ୍ୟାର ହାରାହାରି ହେଉଛି ମଝି ସଂଖ୍ୟା (୪ର୍ଥ ସଂଖ୍ୟା) = ୨୭। ତେଣୁ ସଂଖ୍ୟାଗୁଡ଼ିକ ହେଲେ: ୨୧, ୨୩, ୨୫, ୨୭, ୨୯, ୩୧, ୩୩। କ୍ଷୁଦ୍ରତମ ସଂଖ୍ୟା = ୨୧, ବୃହତ୍ତମ ସଂଖ୍ୟା = ୩୩। ସେମାନଙ୍କର ଗୁଣଫଳ = ୨୧ × ୩୩ = ୬୯୩।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901524212-1",
+      "section": "Arithmetic",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat covers 30 km downstream and 20 km upstream in 7 hours. The same boat covers 40 km downstream and 25 km upstream in 9 hours. What is the speed of the boat in still water?",
+      "options": [
+        "6.5 km/h",
+        "7.5 km/h",
+        "8.0 km/h",
+        "8.5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let downstream speed be D and upstream speed be U. From the problem: 30/D + 20/U = 7 and 40/D + 25/U = 9. Solving these equations simultaneously gives D = 10 km/h and U = 5 km/h. Speed of boat in still water = (D + U) / 2 = (10 + 5) / 2 = 7.5 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଡଙ୍ଗା ସ୍ରୋତର ଅନୁକୂଳରେ ୩୦ କିମି ଏବଂ ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୨୦ କିମି ଯିବାକୁ ୭ ଘଣ୍ଟା ସମୟ ନିଏ। ସେହି ଡଙ୍ଗାଟି ସ୍ରୋତର ଅନୁକୂଳରେ ୪୦ କିମି ଏବଂ ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୨୫ କିମି ଯିବାକୁ ୯ ଘଣ୍ଟା ସମୟ ନିଏ। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ କେତେ?",
+          "options": [
+            "୬.୫ କିମି/ଘଣ୍ଟା",
+            "୭.୫ କିମି/ଘଣ୍ଟା",
+            "୮.୦ କିମି/ଘଣ୍ଟା",
+            "୮.୫ କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକର ଅନୁକୂଳ ବେଗ = D ଏବଂ ପ୍ରତିକୂଳ ବେଗ = U। ପ୍ରଶ୍ନାନୁସାରେ: 30/D + 20/U = 7 ଏବଂ 40/D + 25/U = 9। ଏହି ସମୀକରଣ ଦ୍ୱୟକୁ ସମାଧାନ କଲେ, D = 10 କିମି/ଘଣ୍ଟା ଏବଂ U = 5 କିମି/ଘଣ୍ଟା ମିଳେ। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ = (D + U) / 2 = (10 + 5) / 2 = 7.5 କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901538696-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. All books are pens.\n2. Some pens are pencils.\n\nConclusions:\nI. Some pens are books.\nII. Some pencils are books.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "Since 'All books are pens', by conversion, 'Some pens are books' is definitely true. However, there is no direct or definite relationship given between pencils and books, so conclusion II does not necessarily follow. Thus, only conclusion I follows.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତି ଏବଂ ନିଷ୍କର୍ଷଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହ ପଢ଼ନ୍ତୁ। ବିବୃତିରେ ଦିଆଯାଇଥିବା ସୂଚନାକୁ ସତ୍ୟ ମାନି ନିର୍ଦ୍ଧାରଣ କରନ୍ତୁ ଯେ କେଉଁ ନିଷ୍କର୍ଷଗୁଡ଼ିକ ତାର୍କିକ ରୂପେ ସଠିକ୍।\n\nବିବୃତି:\n୧. ସମସ୍ତ ବହି ହେଉଛନ୍ତି କଲମ।\n୨. କିଛି କଲମ ହେଉଛନ୍ତି ପେନ୍ସିଲ।\n\nନିଷ୍କର୍ଷ:\nI. କିଛି କଲମ ହେଉଛନ୍ତି ବହି।\nII. କିଛି ପେନ୍ସିଲ ହେଉଛନ୍ତି ବହି।",
+          "options": [
+            "କେବଳ ନିଷ୍କର୍ଷ I ସଠିକ୍",
+            "କେବଳ ନିଷ୍କର୍ଷ II ସଠିକ୍",
+            "ଉଭୟ ନିଷ୍କର୍ଷ I ଏବଂ II ସଠିକ୍",
+            "ନିଷ୍କର୍ଷ I କିମ୍ବା II କୌଣସିଟି ବି ସଠିକ୍ ନୁହେଁ"
+          ],
+          "explanation": "ଯେହେତୁ 'ସମସ୍ତ ବହି ହେଉଛନ୍ତି କଲମ', ଏହାର ପରିବର୍ତ୍ତନ ଅନୁଯାୟୀ 'କିଛି କଲମ ହେଉଛନ୍ତି ବହି' ନିଶ୍ଚିତ ଭାବରେ ସତ୍ୟ। କିନ୍ତୁ ପେନ୍ସିଲ ଏବଂ ବହି ମଧ୍ୟରେ କୌଣସି ପ୍ରତ୍ୟକ୍ଷ ସମ୍ପର୍କ ନାହିଁ, ତେଣୁ ନିଷ୍କର୍ଷ II ନିଶ୍ଚିତ ନୁହେଁ। ତେଣୁ, କେବଳ ନିଷ୍କର୍ଷ I ସଠିକ୍।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901538696-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a family of six persons – A, B, C, D, E, and F – there are two married couples. D is the grandmother of A and mother of B. C is the wife of B and mother of F. F is the granddaughter of E. How is E related to C?",
+      "options": [
+        "Father-in-law",
+        "Father",
+        "Uncle",
+        "Brother-in-law"
+      ],
+      "answer": 0,
+      "explanation": "B is married to C, and F is their child. D is the mother of B (grandmother of A and F). Since F is the granddaughter of E and D is already the grandmother, E must be F's grandfather and D's husband. Therefore, E is B's father. Since C is B's wife, E is C's father-in-law.",
+      "translations": {
+        "or": {
+          "question": "ଛଅ ଜଣ ସଦସ୍ୟ - A, B, C, D, E, ଏବଂ F ଥିବା ଏକ ପରିବାରରେ ଦୁଇଟି ବିବାହିତ ଦମ୍ପତି ଅଛନ୍ତି। D ହେଉଛନ୍ତି A ଙ୍କ ଜେଜେମା/ଆଈ ଏବଂ B ଙ୍କ ମାଆ। C ହେଉଛନ୍ତି B ଙ୍କ ସ୍ତ୍ରୀ ଏବଂ F ଙ୍କ ମାଆ। F ହେଉଛନ୍ତି E ଙ୍କ ନାତୁଣୀ। E, C ଙ୍କ ସହିତ କିପରି ସମ୍ପର୍କିତ?",
+          "options": [
+            "ଶ୍ୱଶୁର",
+            "ବାପା",
+            "ଦାଦା",
+            "ଭିଣୋଇ/ଶାଳକ"
+          ],
+          "explanation": "B, C ଙ୍କୁ ବିବାହ କରିଛନ୍ତି ଏବଂ F ସେମାନଙ୍କର ସନ୍ତାନ। D ହେଉଛନ୍ତି B ଙ୍କ ମାଆ। ଯେହେତୁ F ହେଉଛନ୍ତି E ଙ୍କ ନାତୁଣୀ ଏବଂ D ପୂର୍ବରୁ ଜେଜେମା, E ହେଉଛନ୍ତି F ଙ୍କ ଜେଜେବାପା ଏବଂ D ଙ୍କ ସ୍ୱାମୀ। ତେଣୁ, E ହେଉଛନ୍ତି B ଙ୍କ ବାପା। C, B ଙ୍କ ସ୍ତ୍ରୀ ହୋଇଥିବାରୁ E ହେଉଛନ୍ତି C ଙ୍କ ଶ୍ୱଶୁର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901546969-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which district of Odisha is the famous Hirakud Dam, built across the Mahanadi River, located?",
+      "options": [
+        "Sambalpur",
+        "Jharsuguda",
+        "Cuttack",
+        "Bargarh"
+      ],
+      "answer": 0,
+      "explanation": "The Hirakud Dam, built across the Mahanadi River, is located in the Sambalpur district of Odisha. It is one of the longest major earthen dams in the world.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମହାନଦୀ ଉପରେ ନିର୍ମିତ ପ୍ରସିଦ୍ଧ ହୀରାକୁଦ ବନ୍ଧ ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ସମ୍ବଲପୁର",
+            "ଝାରସୁଗୁଡ଼ା",
+            "କଟକ",
+            "ବରଗଡ଼"
+          ],
+          "explanation": "ହୀରାକୁଦ ବନ୍ଧ ମହାନଦୀ ଉପରେ ନିର୍ମିତ ଏବଂ ଏହା ଓଡ଼ିଶାର ସମ୍ବଲପୁର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଏହା ବିଶ୍ୱର ଅନ୍ୟତମ ଦୀର୍ଘତମ ମାଟି ବନ୍ଧ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901565060-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following led the historic Paika Rebellion of 1817 against British colonial rule in Odisha?",
+      "options": [
+        "Laxman Nayak",
+        "Bakshi Jagabandhu",
+        "Veer Surendra Sai",
+        "Chakra Bisoi"
+      ],
+      "answer": 1,
+      "explanation": "Bakshi Jagabandhu (Bidyadhar Mohapatra Bhramarabar Ray) was the commander of the forces of the King of Khurda and led the historic Paika Rebellion of 1817 against British rule in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ୍ ଉପନିବେଶିକ ଶାସନ ବିରୋଧରେ ୧୮୧୭ ମସିହାର ଐତିହାସିକ ପାଇକ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ବକ୍ସି ଜଗବନ୍ଧୁ",
+            "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ",
+            "ଚକ୍ର ବିଷୋୟୀ"
+          ],
+          "explanation": "ବକ୍ସି ଜଗବନ୍ଧୁ (ବିଦ୍ୟାଧର ମହାପାତ୍ର ଭ୍ରମରବର ରାୟ) ଖୋର୍ଦ୍ଧା ରାଜାଙ୍କ ସେନାପତି ଥିଲେ ଏବଂ ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ୧୮୧୭ ମସିହାର ଐତିହାସିକ ପାଇକ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785901565060-1",
+      "section": "Odisha GK",
+      "topic": "Freedom Movement in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year did the historic 'Eram Massacre', popularly known as the 'Rakta Tirtha' of Odisha, occur during the Quit India Movement?",
+      "options": [
+        "1930",
+        "1939",
+        "1942",
+        "1944"
+      ],
+      "answer": 2,
+      "explanation": "On September 28, 1942, British police opened fire on a peaceful gathering of freedom fighters at Eram village in Bhadrak district, killing 29 people. This tragic incident is commemorated as the 'Eram Massacre' or 'Rakta Tirtha'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ଓଡ଼ିଶାର 'ରକ୍ତ ତୀର୍ଥ' ଭାବରେ ଜଣାଶୁଣା ଐତିହାସିକ 'ଇରମ୍ ଗୁଳିକାଣ୍ଡ' କେଉଁ ମସିହାରେ ଘଟିଥିଲା?",
+          "options": [
+            "୧୯୩୦",
+            "୧୯୩୯",
+            "୧୯୪୨",
+            "୧୯୪୪"
+          ],
+          "explanation": "୧୯୪୨ ମସିହା ସେପ୍ଟେମ୍ବର ୨୮ ତାରିଖରେ ଭଦ୍ରକ ଜିଲ୍ଲାର ଇରମ୍ ଗ୍ରାମରେ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀଙ୍କ ଏକ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସମାବେଶ ଉପରେ ବ୍ରିଟିଶ ପୋଲିସ ଗୁଳିଚାଳନା କରିଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ପ୍ରାଣ ହରାଇଥିଲେ। ଏହି ଘଟଣାକୁ 'ଇରମ୍ ଗୁଳିକାଣ୍ଡ' କିମ୍ବା 'ରକ୍ତ ତୀର୍ଥ' କୁହାଯାଏ।"
         }
       }
     }

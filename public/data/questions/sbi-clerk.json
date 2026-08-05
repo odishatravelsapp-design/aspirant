@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6849,6 +6849,136 @@
       ],
       "answer": 0,
       "explanation": "Under the RBI PCA Framework for NBFCs (effective October 1, 2022), Risk Threshold 1 is triggered if the Capital to Risk-Weighted Assets Ratio (CRAR) falls below the regulatory minimum by up to 300 basis points (bps) OR the Net NPA ratio exceeds 6%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785901369688-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A shopkeeper marks an article 25% above its cost price and offers a discount of 10% on the marked price. What is his net profit percentage?",
+      "options": [
+        "12.5%",
+        "15%",
+        "10%",
+        "12%"
+      ],
+      "answer": 0,
+      "explanation": "Let the Cost Price (CP) be ₹100. Marked Price (MP) = 100 + 25% of 100 = ₹125. Selling Price (SP) = MP - Discount = 125 - (10% of 125) = 125 - 12.5 = ₹112.5. Profit = SP - CP = 112.5 - 100 = ₹12.5. Profit percentage = (12.5 / 100) * 100 = 12.5%."
+    },
+    {
+      "id": "sbi-clerk-ai-1785901369688-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 20 hours and Pipe B can fill it in 30 hours. Pipe C is an outlet pipe. When all three pipes are opened together, the tank is filled completely in 24 hours. In how many hours can Pipe C alone empty 60% capacity of the tank?",
+      "options": [
+        "12 hours 30 minutes",
+        "14 hours 24 minutes",
+        "16 hours 48 minutes",
+        "18 hours 12 minutes"
+      ],
+      "answer": 1,
+      "explanation": "Combined rate of (A + B - C) = 1/24. Rate of A = 1/20 and Rate of B = 1/30. So, (1/20 + 1/30) - 1/C = 1/24. (3 + 2)/60 - 1/C = 1/24 => 1/12 - 1/C = 1/24 => 1/C = 1/12 - 1/24 = 1/24. Thus, Pipe C can empty the full tank in 24 hours. To empty 60% of the tank, C requires 60% of 24 hours = 0.6 * 24 = 14.4 hours = 14 hours and 24 minutes."
+    },
+    {
+      "id": "sbi-clerk-ai-1785901426955-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'STATION' is coded as 'URCRKMP'. How will 'JOURNEY' be coded in that same language?",
+      "options": [
+        "LMWPPCA",
+        "LMXQQCB",
+        "KNVQQDB",
+        "LMVQPCA"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed is alternating (+2, -2) for each letter:\nS (+2) -> U\nT (-2) -> R\nA (+2) -> C\nT (-2) -> R\nI (+2) -> K\nO (-2) -> M\nN (+2) -> P\n\nApplying the same pattern to JOURNEY:\nJ (+2) -> L\nO (-2) -> M\nU (+2) -> W\nR (-2) -> P\nN (+2) -> P\nE (-2) -> C\nY (+2) -> A\n\nHence, 'JOURNEY' is coded as 'LMWPPCA'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785901426955-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons—A, B, C, D, E, F, and G—live on seven different floors of a building numbered 1 to 7 from bottom to top.\n- A lives on an odd-numbered floor above floor 4.\n- Three persons live between A and C.\n- D lives immediately above B.\n- G lives on an even-numbered floor above C.\n- Two persons live between G and F.\n- E lives on a floor below C.\n\nWho lives on the 5th floor?",
+      "options": [
+        "D",
+        "B",
+        "G",
+        "E"
+      ],
+      "answer": 1,
+      "explanation": "1. A lives on an odd floor above floor 4, so A can be on Floor 5 or Floor 7.\n2. If A is on Floor 5, C would be on Floor 1 (3 persons between them). But E must live below C, which is impossible if C is on Floor 1. Thus, A must be on Floor 7.\n3. Since A is on Floor 7, C is on Floor 3.\n4. G lives on an even floor above C (Floor 3), so G can be on Floor 4 or Floor 6. If G is on Floor 6, F would be on Floor 3 (2 persons between them), which conflicts with C on Floor 3. Thus, G is on Floor 4.\n5. With G on Floor 4, F is on Floor 1.\n6. E lives below C (Floor 3), so E is on Floor 2.\n7. D lives immediately above B, which leaves Floor 6 for D and Floor 5 for B.\n\nFinal floor arrangement from top to bottom (7 to 1): A(7), D(6), B(5), G(4), C(3), E(2), F(1).\nTherefore, B lives on the 5th floor."
+    },
+    {
+      "id": "sbi-clerk-ai-1785901438116-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Two sentences are given below with one blank each. Choose the single word from the options that fits correctly in both blanks.\n\nI. The bank decided to ________ the loan interest rates to attract more customers during the festive season.\nII. She attempted to ________ her voice so that the sleeping baby would not be awakened.",
+      "options": [
+        "lower",
+        "raise",
+        "waive",
+        "elevate"
+      ],
+      "answer": 0,
+      "explanation": "The word 'lower' fits both contexts correctly: 1) Banks 'lower' interest rates to attract customers, and 2) One 'lowers' their voice to avoid waking someone up."
+    },
+    {
+      "id": "sbi-clerk-ai-1785901438116-1",
+      "section": "English",
+      "topic": "Column Matching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Match the sentence fragments in Column 1 with those in Column 2 to form grammatically correct and coherent sentences.\n\nColumn 1:\n(A) The economic slowdown was so severe that\n(B) Despite facing several initial setbacks,\n(C) Had the management taken timely action,\n\nColumn 2:\n(D) the team managed to complete the project before the deadline.\n(E) many small-scale enterprises were forced to liquidate their assets.\n(F) the crisis could have been averted.",
+      "options": [
+        "A-E only",
+        "B-D and C-F only",
+        "A-E, B-D, and C-F",
+        "A-F and B-E only"
+      ],
+      "answer": 2,
+      "explanation": "All three pairs form meaningful and grammatically sound sentences: (A)-(E) connects cause and effect regarding the economic slowdown; (B)-(D) uses 'despite' to contrast setbacks with timely completion; (C)-(F) uses the third conditional structure ('Had + subject + past participle ... could have + past participle') correctly."
+    },
+    {
+      "id": "sbi-clerk-ai-1785901446258-0",
+      "section": "General Awareness",
+      "topic": "Money Market Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the context of the Indian Money Market, what is the duration of borrowing or lending funds in the 'Notice Money' segment?",
+      "options": [
+        "1 day (Overnight)",
+        "2 days to 14 days",
+        "15 days to 90 days",
+        "91 days to 364 days"
+      ],
+      "answer": 1,
+      "explanation": "In the Indian money market, funds borrowed or lent for a single day (overnight) are called 'Call Money', while funds borrowed or lent for a period between 2 days and 14 days are referred to as 'Notice Money'. Funds transacted for 15 days or more are termed 'Term Money'.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785901446258-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Standards",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India (RBI) guidelines for financial transactions, what is the total number of characters/digits in a Legal Entity Identifier (LEI) code?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "The Legal Entity Identifier (LEI) is a 20-character/digit unique alphanumeric code based on the ISO 17442 standard. It is used to globally identify distinct legal entities engaging in financial transactions to improve systemic risk management.",
       "status": "pending"
     }
   ]

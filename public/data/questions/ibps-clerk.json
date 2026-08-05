@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7282,6 +7282,119 @@
       ],
       "answer": 1,
       "explanation": "The Small Industries Development Bank of India (SIDBI) was set up on April 2, 1990, under an Act of the Indian Parliament. Its headquarters is located in Lucknow, Uttar Pradesh.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785901306839-0",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The difference between compound interest (compounded annually) and simple interest on a certain sum of money for 2 years at 10% per annum is ₹65. What is the sum of money?",
+      "options": [
+        "₹5,500",
+        "₹6,000",
+        "₹6,500",
+        "₹7,200"
+      ],
+      "answer": 2,
+      "explanation": "The formula for the difference between compound interest and simple interest for 2 years is Difference = P * (R / 100)^2. Here, Difference = ₹65 and R = 10%. Substituting the values: 65 = P * (10 / 100)^2 => 65 = P * (1 / 100) => P = 65 * 100 = ₹6,500."
+    },
+    {
+      "id": "ibps-clerk-ai-1785901306840-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B together can complete a work in 12 days, while B and C together can complete the same work in 16 days. A worked at it for 5 days and B worked at it for 7 days. C completed the remaining work in 13 days. In how many days can C alone complete the entire work?",
+      "options": [
+        "18 days",
+        "24 days",
+        "32 days",
+        "36 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total work = LCM(12, 16) = 48 units. Efficiency of (A + B) = 48 / 12 = 4 units/day. Efficiency of (B + C) = 48 / 16 = 3 units/day. Work done by A in 5 days + B in 7 days + C in 13 days = Total work. We can re-group this as: 5 days of (A + B) + 2 days of (B + C) + 11 days of C = 48 units. Substituting efficiencies: 5(4) + 2(3) + 11(C) = 48 => 20 + 6 + 11(C) = 48 => 11(C) = 22 => C's efficiency = 2 units/day. Time taken by C alone to complete the work = 48 / 2 = 24 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1785901332623-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'FLOWER' is coded as 'EKNVDQ'. How will 'GARDEN' be coded in that same language?",
+      "options": [
+        "FYQBDM",
+        "FZQCDM",
+        "HBSEFO",
+        "FZQBDM"
+      ],
+      "answer": 1,
+      "explanation": "Each letter of the word is shifted one position backward (-1) in the alphabetical series: F-1=E, L-1=K, O-1=N, W-1=V, E-1=D, R-1=Q. Applying the same logic to GARDEN: G-1=F, A-1=Z, R-1=Q, D-1=C, E-1=D, N-1=M. Thus, 'GARDEN' is coded as 'FZQCDM'."
+    },
+    {
+      "id": "ibps-clerk-ai-1785901332624-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequality",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nSymbols mean:\n'P @ Q' means 'P is greater than or equal to Q'\n'P # Q' means 'P is greater than Q'\n'P $ Q' means 'P is less than Q'\n'P % Q' means 'P is less than or equal to Q'\n'P & Q' means 'P is equal to Q'\n\nStatements: M # N @ O & P; P $ Q % R\n\nConclusions:\nI. M # P\nII. O $ R\nIII. N @ P\nIV. M # R",
+      "options": [
+        "Only I and II follow",
+        "Only I, II and III follow",
+        "Only I and III follow",
+        "All I, II, III and IV follow"
+      ],
+      "answer": 1,
+      "explanation": "Decoding the statements:\nM > N >= O = P and P < Q <= R.\nCombining them gives: M > N >= O = P < Q <= R.\n\nEvaluating conclusions:\nI. M # P => M > P. Since M > N >= O = P, M > P is definitely TRUE.\nII. O $ R => O < R. Since O = P < Q <= R, O < R is definitely TRUE.\nIII. N @ P => N >= P. Since N >= O = P, N >= P is definitely TRUE.\nIV. M # R => M > R. Since the sign changes direction at P, no definite relationship can be established between M and R (FALSE).\n\nTherefore, only conclusions I, II and III follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1785901342272-0",
+      "section": "English",
+      "topic": "Match the Columns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are given containing three phrases each. Match the phrases from Column 1 with those in Column 2 to form grammatically correct and meaningful sentences.\n\nColumn 1:\n(A) The financial restructuring plan was designed to reduce debt\n(B) Due to unforeseen circumstances, the organizers had to call\n(C) The new legislation aims to protect consumers against\n\nColumn 2:\n(D) deceptive marketing practices prevalent in the digital era.\n(E) off the annual cultural fest until further notice.\n(F) while simultaneously boosting operational efficiency.",
+      "options": [
+        "A-F, B-E, and C-D",
+        "A-D and B-F",
+        "A-E and C-D",
+        "B-D and C-F"
+      ],
+      "answer": 0,
+      "explanation": "Phrase A pairs correctly with F ('reduce debt while simultaneously boosting operational efficiency'); phrase B pairs with E ('call off the annual cultural fest'); phrase C pairs with D ('protect consumers against deceptive marketing practices'). Thus, all three combinations (A-F, B-E, C-D) form grammatically correct and meaningful sentences."
+    },
+    {
+      "id": "ibps-clerk-ai-1785901342272-1",
+      "section": "English",
+      "topic": "Spelling Error",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the sentence given below, four words are printed in bold and labeled (A), (B), (C), and (D). Select the word that is misspelt.\n\n'The committee expressed severe **concerns** (A) regarding the **laxity** (B) in security protocols that allowed **unauthorized** (C) access to the **confidencial** (D) documents.'",
+      "options": [
+        "concerns",
+        "laxity",
+        "unauthorized",
+        "confidencial"
+      ],
+      "answer": 3,
+      "explanation": "The word 'confidencial' is misspelt. The correct spelling is 'confidential'. All other bold words ('concerns', 'laxity', 'unauthorized') are spelled correctly."
+    },
+    {
+      "id": "ibps-clerk-ai-1785901352396-1",
+      "section": "General Awareness",
+      "topic": "Indian Banking History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Regional Rural Banks (RRBs) were first established in India in October 1975 based on the recommendations of which of the following committees or working groups?",
+      "options": [
+        "M. Narasimham Working Group",
+        "B. Sivaraman Committee",
+        "A. M. Khusro Committee",
+        "C. Rangarajan Committee"
+      ],
+      "answer": 0,
+      "explanation": "The Regional Rural Banks were established following the recommendations of the Narasimham Working Group (1975) to meet the credit needs of rural populations. The first RRB, Prathama Bank, was set up on October 2, 1975.",
       "status": "pending"
     }
   ]

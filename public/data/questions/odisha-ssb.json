@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -10438,6 +10438,234 @@
             "କୋରାପୁଟ"
           ],
           "explanation": "ଆସନପାଟ ପ୍ରସ୍ତର ଅଭିଲେଖ ୧୯୫୯ ମସିହାରେ କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଚମ୍ପୁଆ ଉପଖଣ୍ଡରୁ ଆବିଷ୍କୃତ ହୋଇଥିଲା। ଚତୁର୍ଥ-ପଞ୍ଚମ ଶତାବ୍ଦୀର ଏହି ଶିଳାଲେଖରେ ରାଜା ଶତ୍ରୁଭଞ୍ଜଙ୍କ କୀର୍ତ୍ତି ଓ ତ୍ରୟୋଦଶ-ଭୁଜ ବିଶିଷ୍ଟ ନଟରାଜଙ୍କ ପ୍ରତିମା ଖୋଦିତ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901574144-0",
+      "section": "Subject Knowledge",
+      "topic": "Victorian Poetry",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Alfred, Lord Tennyson's elegiac poem 'In Memoriam A.H.H.', whose sudden death inspired the work?",
+      "options": [
+        "Arthur Henry Hallam",
+        "Arthur Hugh Clough",
+        "Arthur Schopenhauer",
+        "Arthur Conan Doyle"
+      ],
+      "answer": 0,
+      "explanation": "Alfred, Lord Tennyson wrote 'In Memoriam A.H.H.' over a period of 17 years to commemorate his close Cambridge friend Arthur Henry Hallam, who died suddenly in 1833 at the age of 22.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଆଲଫ୍ରେଡ, ଲର୍ଡ ଟେନିସନଙ୍କ ଶୋକକବିତା 'ଇନ୍ ମେମୋରିଆମ୍ ଏ.ଏଚ୍.ଏଚ୍.' (In Memoriam A.H.H.) କାହାର ଆକସ୍ମିକ ମୃତ୍ୟୁ ଦ୍ୱାରା ପ୍ରେରିତ ହୋଇଥିଲା?",
+          "options": [
+            "ଆର୍ଥର ହେନରୀ ହାଲାମ୍",
+            "ଆର୍ଥର ହ୍ୟୁ କ୍ଲଫ୍",
+            "ଆର୍ଥର ସୋପେନହାଉଅର୍",
+            "ଆର୍ଥର କୋନାନ୍ ଡଏଲ୍"
+          ],
+          "explanation": "ଆଲଫ୍ରେଡ, ଲର୍ଡ ଟେନିସନ୍ ତାଙ୍କର ପ୍ରିୟ କେମ୍ବ୍ରିଜ୍ ବନ୍ଧୁ ଆର୍ଥର ହେନରୀ ହାଲାମଙ୍କ ୧୮୩୩ ମସିହାରେ ୨୨ ବର୍ଷ ବୟସରେ ହୋଇଥିବା ଆକସ୍ମିକ ମୃତ୍ୟୁର ସ୍ମୃତିରେ ୧୭ ବର୍ଷ ଧରି 'ଇନ୍ ମେମୋରିଆମ୍ ଏ.ଏଚ୍.ଏଚ୍.' ରଚନା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901574144-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory and Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which critic authored 'Renaissance Self-Fashioning: From More to Shakespeare' (1980), a foundational text of New Historicism?",
+      "options": [
+        "Stephen Greenblatt",
+        "Clifford Geertz",
+        "Louis Montrose",
+        "Jonathan Dollimore"
+      ],
+      "answer": 0,
+      "explanation": "'Renaissance Self-Fashioning: From More to Shakespeare' (1980) was written by Stephen Greenblatt and played a pivotal role in establishing New Historicism in literary criticism.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନୂତନ ଐତିହାସିକତାବାଦ (New Historicism) ର ଭିତ୍ତିପ୍ରସ୍ତର ସ୍ଥାପନକାରୀ ଗ୍ରନ୍ଥ 'ରେନେସାଁ ସେଲ୍ଫ-ଫ୍ୟାଶନିଂ: ଫ୍ରମ୍ ମୋର୍ ଟୁ ଷେକ୍ସପିଅର୍' (1980) କେଉଁ ସମାଲୋଚକ ରଚନା କରିଥିଲେ?",
+          "options": [
+            "ଷ୍ଟିଫେନ୍ ଗ୍ରୀନ୍‌ବ୍ଲାଟ୍",
+            "କ୍ଲିଫୋର୍ଡ ଗୀର୍ଟଜ୍",
+            "ଲୁଇସ୍ ମୋଣ୍ଟ୍ରୋଜ୍",
+            "ଜୋନାଥନ୍ ଡଲିମୋର୍"
+          ],
+          "explanation": "'ରେନେସାଁ ସେଲ୍ଫ-ଫ୍ୟାଶନିଂ: ଫ୍ରମ୍ ମୋର୍ ଟୁ ଷେକ୍ସପିଅର୍' (୧୯୮୦) ଷ୍ଟିଫେନ୍ ଗ୍ରୀନ୍‌ବ୍ଲାଟ୍‌ଙ୍କ ଦ୍ୱାରା ଲିଖିତ, ଯାହା ସାହିତ୍ୟ ସମାଲୋଚନାରେ ନୂତନ ଐତିହାସିକତାବାଦ ପ୍ରତିଷ୍ଠା କରିବାରେ ମୁଖ୍ୟ ଭୂମିକା ଗ୍ରହଣ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901589027-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who is credited with developing the technique of 'Microteaching' at Stanford University in 1963?",
+      "options": [
+        "Dwight W. Allen",
+        "N.L. Gage",
+        "Robert Mager",
+        "B.F. Skinner"
+      ],
+      "answer": 0,
+      "explanation": "Microteaching was developed by Dwight W. Allen and his colleagues at Stanford University in 1963 as a scaled-down teacher training technique to allow teachers to practice specific teaching skills.",
+      "translations": {
+        "or": {
+          "question": "୧୯୬୩ ମସିହାରେ ଷ୍ଟାନଫୋର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ 'ମାଇକ୍ରୋଟିଚିଂ' (Microteaching) କୌଶଳ ବିକଶିତ କରିବାର ଶ୍ରେୟ କାହାକୁ ଦିଆଯାଏ?",
+          "options": [
+            "ଡ୍ୱାଇଟ୍ ଡବ୍ଲୁ. ଆଲେନ୍",
+            "ଏନ୍.ଏଲ୍. ଗେଜ୍",
+            "ରବର୍ଟ ମେଗର୍",
+            "ବି.ଏଫ୍. ସ୍କିନର୍"
+          ],
+          "explanation": "୧୯୬୩ ମସିହାରେ ଷ୍ଟାନଫୋର୍ଡ ବିଶ୍ୱବିଦ୍ୟାଳୟରେ ଡ୍ୱାଇଟ୍ ଡବ୍ଲୁ. ଆଲେନ୍ ଏବଂ ତାଙ୍କ ସହକର୍ମୀମାନଙ୍କ ଦ୍ୱାରା ଶିକ୍ଷକ ତାଲିମ ପାଇଁ ମାଇକ୍ରୋଟିଚିଂ କୌଶଳ ଆରମ୍ଭ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901589028-1",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the revised version of Bloom's Taxonomy framework (Anderson & Krathwohl, 2001), which cognitive category was placed at the highest position of the hierarchy?",
+      "options": [
+        "Evaluating",
+        "Synthesizing",
+        "Creating",
+        "Analyzing"
+      ],
+      "answer": 2,
+      "explanation": "In Anderson and Krathwohl's 2001 revision of Bloom's Taxonomy, the top level of the cognitive domain hierarchy became 'Creating', replacing the original top level 'Evaluation' (which became 'Evaluating' at the fifth level).",
+      "translations": {
+        "or": {
+          "question": "ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମିର ସଂଶୋଧିତ ସଂସ୍କରଣ (ଆଣ୍ଡରସନ୍ ଏବଂ କ୍ରାଥୱୋଲ୍, ୨୦୦୧) ରେ, ଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର (Cognitive Domain) ସବୁଠାରୁ ଉଚ୍ଚ ସ୍ତରରେ କେଉଁ ବିଭାଗକୁ ରଖାଯାଇଛି?",
+          "options": [
+            "ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluating)",
+            "ସଂଶ୍ଳେଷଣ କରିବା (Synthesizing)",
+            "ସୃଜନ କରିବା (Creating)",
+            "ବିଶ୍ଳେଷଣ କରିବା (Analyzing)"
+          ],
+          "explanation": "୨୦୦୧ ମସିହାରେ ଆଣ୍ଡରସନ୍ ଏବଂ କ୍ରାଥୱୋଲ୍‌ଙ୍କ ଦ୍ୱାରା ସଂଶୋଧିତ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମିରେ 'Creating' (ସୃଜନ କରିବା) କୁ ଜ୍ଞାନାତ୍ମକ ସ୍ତରର ଶୀର୍ଷରେ ରଖାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901599823-0",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which prominent waterfall in Odisha is formed by the Machkund River and is situated along the border of Odisha and Andhra Pradesh?",
+      "options": [
+        "Barehipani Falls",
+        "Duduma Falls",
+        "Khandadhar Falls",
+        "Joranda Falls"
+      ],
+      "answer": 1,
+      "explanation": "Duduma Falls, standing at approximately 157 meters, is formed by the Machkund River in the Koraput district of Odisha near the Andhra Pradesh border.",
+      "translations": {
+        "or": {
+          "question": "ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା ଏବଂ ଓଡ଼ିଶା ଓ ଆନ୍ଧ୍ରପ୍ରଦେଶ ସୀମା ନିକଟରେ ଅବସ୍ଥିତ ଓଡ଼ିଶାର କେଉଁ ପ୍ରସିଦ୍ଧ ଜଳପ୍ରପାତ?",
+          "options": [
+            "ବାରେହିପାଣି ପ୍ରପାତ",
+            "ଡୁଡୁମା ପ୍ରପାତ",
+            "ଖଣ୍ଡାଧାର ପ୍ରପାତ",
+            "ଯୋରନ୍ଦା ପ୍ରପାତ"
+          ],
+          "explanation": "ଡୁଡୁମା ଜଳପ୍ରପାତ (ପ୍ରାୟ ୧୫୭ ମିଟର ଉଚ୍ଚତା) ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଆନ୍ଧ୍ରପ୍ରଦେଶ ସୀମା ନିକଟରେ ସୃଷ୍ଟି ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901599823-1",
+      "section": "General Studies",
+      "topic": "History and Literature of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who among the following Gajapati rulers of Odisha authored the Sanskrit drama 'Parashurama Vijaya'?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Narasimha Deva I"
+      ],
+      "answer": 0,
+      "explanation": "Gajapati Kapilendra Deva (reigned 1434–1466 CE), founder of the Suryavamsi Gajapati Dynasty, composed the Sanskrit play 'Parashurama Vijaya', which notably features the earliest recorded usage of Odia songs in a Sanskrit drama.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ କେଉଁ ଗଜପତି ଶାସକ ସଂସ୍କୃତ ନାଟକ 'ପରଶୁରାମ ବିଜୟ' ରଚନା କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ପ୍ରଥମ ନରସିଂହ ଦେବ"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ସାମ୍ରାଜ୍ୟର ପ୍ରତିଷ୍ଠାତା ଗଜପତି କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୪-୧୪୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ସଂସ୍କୃତ ନାଟକ 'ପରଶୁରାମ ବିଜୟ' ରଚନା କରିଥିଲେ, ଯେଉଁଥିରେ ପ୍ରଥମ ଥର ପାଇଁ ଓଡ଼ିଆ ଗୀତର ପ୍ରୟୋଗ ଦେଖିବାକୁ ମିଳେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901618145-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which among the following is the highest mountain peak in Odisha, located in the Koraput district?",
+      "options": [
+        "Deomali",
+        "Mahendragiri",
+        "Malayagiri",
+        "Niyamgiri"
+      ],
+      "answer": 0,
+      "explanation": "Deomali, standing at an elevation of 1,672 meters above sea level in the Koraput district, is the highest mountain peak in the state of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ?",
+          "options": [
+            "ଦେଓମାଳୀ",
+            "ମହେନ୍ଦ୍ରଗିରି",
+            "ମଳୟଗିରି",
+            "ନିୟମଗିରି"
+          ],
+          "explanation": "ସମୁଦ୍ର ପତ୍ତନରୁ ୧,୬୭୨ ମିଟର ଉଚ୍ଚତାରେ କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଦେଓମାଳୀ ହେଉଛି ଓଡ଼ିଶା ରାଜ୍ୟର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785901618145-1",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The historic site 'Eram', famously known as the 'Raktatirtha' (Blood Pilgrimage) of Odisha where 29 freedom fighters were killed in police firing during the Quit India Movement, is located in which present-day district?",
+      "options": [
+        "Bhadrak",
+        "Balasore",
+        "Kendrapara",
+        "Mayurbhanj"
+      ],
+      "answer": 0,
+      "explanation": "On 28 September 1942, during the Quit India Movement, 29 freedom fighters were killed in police firing at Eram in the Basudevpur block of present-day Bhadrak district. This heroic sacrifice led to the place being memorialized as 'Raktatirtha'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ପୋଲିସ ଗୁଳିଚାଳନାରେ ୨୯ ଜଣ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ ସହିଦ ହୋଇଥିବା ଓଡ଼ିଶାର 'ରକ୍ତତୀର୍ଥ' ଭାବେ ପରିଚିତ ଐତିହାସିକ ସ୍ଥାନ 'ଇରମ' ବର୍ତ୍ତମାନର କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଭଦ୍ରକ",
+            "ବାଲେଶ୍ୱର",
+            "କେନ୍ଦ୍ରାପଡ଼ା",
+            "ମୟୂରଭଞ୍ଜ"
+          ],
+          "explanation": "୧୯୪୨ ମସିହା ସେପ୍ଟେମ୍ବର ୨୮ ତାରିଖରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ବର୍ତ୍ତମାନର ଭଦ୍ରକ ଜିଲ୍ଲା ବାସୁଦେବପୁର ବ୍ଲକ ଅନ୍ତର୍ଗତ ଇରମଠାରେ ବ୍ରିଟିଶ ପୋଲିସର ଗୁଳିଚାଳନାରେ ୨୯ ଜଣ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ ସହିଦ ହୋଇଥିଲେ। ଏହି ଗଣ-ଆତ୍ମବଳିଦାନ ପାଇଁ ଏହି ସ୍ଥାନକୁ 'ରକ୍ତତୀର୍ଥ' କୁହାଯାଏ।"
         }
       }
     }
