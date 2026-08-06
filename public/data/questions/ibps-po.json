@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6784,6 +6784,136 @@
       ],
       "answer": 1,
       "explanation": "According to RBI guidelines on IRACP norms, a loan granted for short-duration crops is classified as an NPA if the installment of principal or interest thereon remains overdue for two crop seasons. For long-duration crops, it is classified as an NPA if overdue for one crop season.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785988181729-0",
+      "section": "Quant",
+      "topic": "Speed, Distance & Time",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A motorboat takes a total of 10 hours to cover 48 km upstream and 72 km downstream. If the ratio of the speed of the motorboat in still water to the speed of the stream is 5 : 1, what is the speed of the stream?",
+      "options": [
+        "2.4 km/h",
+        "3.2 km/h",
+        "4.0 km/h",
+        "1.8 km/h"
+      ],
+      "answer": 0,
+      "explanation": "Let the speed of the boat in still water be 5x and the speed of the stream be x.\nUpstream speed = 5x - x = 4x\nDownstream speed = 5x + x = 6x\nTotal time taken = (Distance upstream / Upstream speed) + (Distance downstream / Downstream speed)\n10 = (48 / 4x) + (72 / 6x)\n10 = (12 / x) + (12 / x)\n10 = 24 / x\nx = 2.4 km/h.\nTherefore, the speed of the stream is 2.4 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1785988181729-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A solid metallic sphere of radius R is melted and recast into N identical small solid cones, each having base radius r and height h = r√3. If the total surface area of all N cones combined is 3 times the surface area of the original sphere, what is the value of N?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "For each cone:\nSlant height l = √(r² + h²) = √(r² + 3r²) = 2r.\nTotal Surface Area (TSA) of 1 cone = πr² + πrl = πr² + 2πr² = 3πr².\nTSA of N cones = 3Nπr².\nSurface area of sphere = 4πR².\nGiven: 3Nπr² = 3 × (4πR²) ⇒ N r² = 4 R² ⇒ R = (√N / 2) r.\n\nNow, by conservation of volume:\nVolume of sphere = N × Volume of 1 cone\n(4/3)πR³ = N × (1/3)πr²h\n4 R³ = N r² (r√3) = √3 N r³\n\nSubstituting R = (√N / 2) r into the volume equation:\n4 × [(√N / 2) r]³ = √3 N r³\n4 × (N^(3/2) / 8) = √3 N\n(1/2) N^(3/2) = √3 N\n√N / 2 = √3\n√N = 2√3\nN = (2√3)² = 12."
+    },
+    {
+      "id": "ibps-po-ai-1785988220171-0",
+      "section": "Reasoning",
+      "topic": "Coded Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the following coded direction definitions carefully:\n'A # B' means 'A is 5m North of B'\n'A $ B' means 'A is 8m South of B'\n'A % B' means 'A is 6m East of B'\n'A & B' means 'A is 10m West of B'\n\nBased on the expression 'P # Q % R $ S & T', what is the shortest distance between point P and point T, and in which direction is point P with respect to point T?",
+      "options": [
+        "5m, South-West",
+        "5m, North-East",
+        "10m, South-West",
+        "13m, North-West"
+      ],
+      "answer": 0,
+      "explanation": "From the given expression:\n1) P # Q => P is 5m North of Q.\n2) Q % R => Q is 6m East of R (R is 6m West of Q).\n3) R $ S => R is 8m South of S (S is 8m North of R).\n4) S & T => S is 10m West of T (T is 10m East of S).\n\nLet Q be at coordinates (0, 0):\n- P = (0, 5)\n- R = (-6, 0)\n- S = (-6, 8)\n- T = (-6 + 10, 8) = (4, 8)\n\nPosition of P relative to T:\nHorizontal distance = 0 - 4 = -4 (West)\nVertical distance = 5 - 8 = -3 (South)\nShortest distance = sqrt((-4)^2 + (-3)^2) = sqrt(16 + 9) = 5m.\nDirection of P from T is South-West."
+    },
+    {
+      "id": "ibps-po-ai-1785988220171-1",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Each of the questions below consists of a question followed by two statements numbered I and II. You have to decide whether the data provided in the statements are sufficient to answer the question.\n\nQuestion: Seven persons — P, Q, R, S, T, U, and V — are sitting in a single row facing North. Who sits at the extreme left end of the row?\n\nStatement I: R sits third to the right of P. Q sits second to the right of R. U sits to the immediate right of Q.\nStatement II: T sits to the immediate left of Q. S sits second to the left of R. V sits to the immediate right of P.",
+      "options": [
+        "Statement I alone is sufficient to answer the question, while Statement II alone is not sufficient.",
+        "Statement II alone is sufficient to answer the question, while Statement I alone is not sufficient.",
+        "Either Statement I alone or Statement II alone is sufficient to answer the question.",
+        "Both Statements I and II together are necessary to answer the question."
+      ],
+      "answer": 0,
+      "explanation": "From Statement I:\n- R sits 3rd to the right of P => Position of R = P + 3\n- Q sits 2nd to the right of R => Position of Q = R + 2 = P + 5\n- U sits to the immediate right of Q => Position of U = Q + 1 = P + 6\nSince there are only 7 positions (1 to 7 from left to right) and U <= 7:\nP + 6 <= 7 => P <= 1. Since positions start at 1, P must sit at position 1 (extreme left end).\nThus, Statement I alone is sufficient.\n\nFrom Statement II:\nIt gives relative positions (T = Q - 1, S = R - 2, V = P + 1) but does not pin down any position to the ends of the 7-person row. Thus, Statement II alone is not sufficient."
+    },
+    {
+      "id": "ibps-po-ai-1785988231163-0",
+      "section": "English",
+      "topic": "Vocabulary (Antonyms)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Determine the antonym of the highlighted word in the statement: 'The auditor’s perspicacious analysis revealed subtle discrepancies in the company's annual financial statements that previous teams had overlooked.'",
+      "options": [
+        "Discerning",
+        "Obtuse",
+        "Astute",
+        "Sagacious"
+      ],
+      "answer": 1,
+      "explanation": "'Perspicacious' means having keen mental perception and understanding (discerning, astute, sagacious). 'Obtuse' means slow to understand or insensitive, which is the direct antonym."
+    },
+    {
+      "id": "ibps-po-ai-1785988231163-1",
+      "section": "English",
+      "topic": "Critical Reasoning (Weakening Arguments)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Consider the following passage:\n'The central bank recently reduced the cash reserve ratio (CRR) to inject liquidity into the banking system. However, commercial banks are reluctant to lower lending rates due to high levels of non-performing assets (NPAs) and weak credit demand from risk-averse corporates.'\n\nWhich of the following statements, if true, most strongly weakens the central bank's assumption that reducing the CRR will spur economic investment?",
+      "options": [
+        "Corporates prefer issuing corporate bonds over seeking bank loans when credit demand is weak.",
+        "Commercial banks will utilize the freed-up capital to purchase low-risk government securities rather than extending loans to businesses.",
+        "Lowering the CRR increases the overall profitability of commercial banks regardless of corporate demand.",
+        "A reduction in interest rates on fixed deposits usually precedes any changes made to the CRR."
+      ],
+      "answer": 1,
+      "explanation": "The central bank assumes that injecting liquidity via CRR reduction will lead to increased lending and business investment. Option B shows that banks will divert this liquidity into risk-free government securities instead of lending to businesses, thereby breaking the link between CRR reduction and economic investment."
+    },
+    {
+      "id": "ibps-po-ai-1785988243431-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Master Direction issued by the Reserve Bank of India (RBI) on Money Market Instruments, what is the minimum maturity period for a Certificate of Deposit (CD) issued by Scheduled Commercial Banks?",
+      "options": [
+        "7 days",
+        "14 days",
+        "15 days",
+        "30 days"
+      ],
+      "answer": 0,
+      "explanation": "According to RBI's Master Directions on Money Market Instruments, Certificates of Deposit (CDs) issued by eligible Scheduled Commercial Banks must have a minimum tenor of 7 days and a maximum tenor of up to 1 year.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1785988243431-1",
+      "section": "General Awareness",
+      "topic": "International Financial System",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Special Drawing Right (SDR) is an international reserve asset created by the International Monetary Fund (IMF). Effective from which date was the Chinese Renminbi (RMB) officially included in the IMF's SDR currency basket?",
+      "options": [
+        "October 1, 2014",
+        "October 1, 2016",
+        "January 1, 2018",
+        "November 30, 2015"
+      ],
+      "answer": 1,
+      "explanation": "The IMF Executive Board decided to include the Chinese Renminbi (RMB) in the SDR basket in November 2015. The decision officially took effect on October 1, 2016, making it the fifth currency in the basket alongside the US Dollar, Euro, Japanese Yen, and British Pound.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7395,6 +7395,103 @@
       ],
       "answer": 0,
       "explanation": "The Regional Rural Banks were established following the recommendations of the Narasimham Working Group (1975) to meet the credit needs of rural populations. The first RRB, Prathama Bank, was set up on October 2, 1975.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1785988064233-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A boat covers a distance of 48 km downstream in 3 hours. If the speed of the stream is 2 km/h, how much time (in hours) will the boat take to cover a distance of 36 km upstream?",
+      "options": [
+        "3 hours",
+        "4 hours",
+        "2.5 hours",
+        "4.5 hours"
+      ],
+      "answer": 0,
+      "explanation": "Downstream speed = 48 / 3 = 16 km/h.\nSpeed of boat in still water (u) + Speed of stream (v) = 16 km/h.\nGiven v = 2 km/h, so u = 16 - 2 = 14 km/h.\nUpstream speed = u - v = 14 - 2 = 12 km/h.\nTime required to cover 36 km upstream = 36 / 12 = 3 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1785988064234-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Container A contains a mixture of acid and water in the ratio 5 : 3, and Container B contains a mixture of acid and water in the ratio 3 : 2. X liters from Container A and Y liters from Container B are mixed together to form a 180-liter mixture C containing acid and water in the ratio 11 : 7. What is the value of (Y - X)?",
+      "options": [
+        "15 liters",
+        "20 liters",
+        "25 liters",
+        "30 liters"
+      ],
+      "answer": 1,
+      "explanation": "Total volume of mixture C = X + Y = 180 liters.\nAcid in C = (11 / 18) * 180 = 110 liters.\nAcid from A = (5/8) * X and Acid from B = (3/5) * Y.\nSo, (5/8)X + (3/5)Y = 110  =>  25X + 24Y = 4400 ... (Equation 1)\nAlso, X + Y = 180  =>  24X + 24Y = 4320 ... (Equation 2)\nSubtracting Equation 2 from Equation 1:\nX = 80 liters.\nThen Y = 180 - 80 = 100 liters.\nThus, Y - X = 100 - 80 = 20 liters."
+    },
+    {
+      "id": "ibps-clerk-ai-1785988080775-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Eight friends – P, Q, R, S, T, U, V, and W – are sitting around a circular table. Four of them face the center and four face outside. W faces the center and P sits third to the right of W. Only two people sit between P and S. S faces the opposite direction of W. R sits to the immediate left of S. U sits second to the left of R. T sits third to the right of U. Both immediate neighbors of Q face the same direction. V faces the same direction as U. Q does not sit adjacent to P. Who sits third to the left of Q?",
+      "options": [
+        "V",
+        "T",
+        "U",
+        "R"
+      ],
+      "answer": 0,
+      "explanation": "Tracing positions clockwise starting from W (at Position 1 facing Center):\n1: W (Center)\n2: U (Center)\n3: V (Center)\n4: P (Outside)\n5: T (Outside)\n6: Q (Outside)\n7: S (Outside)\n8: R (Center)\n\nSince Q is at position 6 and faces Outside, going counter-clockwise gives the left direction for Q:\n1st left of Q = T (Pos 5)\n2nd left of Q = P (Pos 4)\n3rd left of Q = V (Pos 3)\n\nTherefore, V sits third to the left of Q."
+    },
+    {
+      "id": "ibps-clerk-ai-1785988088855-0",
+      "section": "English",
+      "topic": "Antonyms",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the word that is MOST OPPOSITE in meaning to the word 'EPHEMERAL'.",
+      "options": [
+        "Transient",
+        "Permanent",
+        "Fleeting",
+        "Evanescent"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time. 'Permanent' means lasting or intended to last indefinitely, making it the direct antonym. 'Transient', 'Fleeting', and 'Evanescent' are all synonyms of ephemeral."
+    },
+    {
+      "id": "ibps-clerk-ai-1785988088855-1",
+      "section": "English",
+      "topic": "Grammar - Inversion Rules",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following phrases correctly fills the blank to make the sentence grammatically accurate?\n\n'Scarcely ________ the stadium when the match was called off due to heavy rain.'",
+      "options": [
+        "had the spectators entered",
+        "the spectators had entered",
+        "did the spectators entered",
+        "spectators have entered"
+      ],
+      "answer": 0,
+      "explanation": "When restrictive negative adverbs such as 'Scarcely', 'Hardly', or 'Barely' begin a sentence, the inverted word order must be used (auxiliary verb before the subject). Therefore, 'had the spectators entered' is grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1785988099587-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness - Payments Banks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the maximum end-of-day balance limit permitted per individual customer for Payments Banks in India?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹3,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "In April 2021, the Reserve Bank of India (RBI) enhanced the maximum end-of-day balance limit for Payments Banks from ₹1 lakh to ₹2 lakh per individual customer to further financial inclusion and cater to customer needs.",
       "status": "pending"
     }
   ]

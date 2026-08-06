@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -7693,6 +7693,232 @@
             "ମହର୍ଷି କାର୍ଭେ"
           ],
           "explanation": "ଜ୍ୟୋତିରାଓ ଫୁଲେ ୧୮୭୩ ମସିହାରେ ମହାରାଷ୍ଟ୍ରର ପୁଣେଠାରେ ସତ୍ୟଶୋଧକ ସମାଜ ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ଏହାର ମୁଖ୍ୟ ଉଦ୍ଦେଶ୍ୟ ଥିଲା ସାମାଜିକ ସମାନତା ପ୍ରଚାର କରିବା ଏବଂ ଅବହେଳିତ ବର୍ଗଙ୍କ ଶିକ୍ଷା ଓ ଅଧିକାର ପାଇଁ କାର୍ଯ୍ୟ କରିବା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988451398-0",
+      "section": "Teaching Aptitude",
+      "topic": "Types of Evaluation",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which type of evaluation is conducted continuously during the instructional process to monitor student learning and provide ongoing feedback?",
+      "options": [
+        "Formative Evaluation",
+        "Summative Evaluation",
+        "Diagnostic Evaluation",
+        "Placement Evaluation"
+      ],
+      "answer": 0,
+      "explanation": "Formative evaluation takes place during the teaching-learning process. Its primary goal is to monitor student learning and provide continuous feedback that can be used by instructors to improve their teaching and by students to improve their learning.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟା ସମୟରେ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଶିଖିବା ପ୍ରକ୍ରିୟାକୁ ନିରୀକ୍ଷଣ କରିବା ଏବଂ ନିରନ୍ତର ପ୍ରତିପୋଷଣ (feedback) ପ୍ରଦାନ କରିବା ପାଇଁ କେଉଁ ପ୍ରକାରର ମୂଲ୍ୟାଙ୍କନ କରାଯାଏ?",
+          "options": [
+            "ଗଠନମୂଳକ ମୂଲ୍ୟାଙ୍କନ (Formative Evaluation)",
+            "ସମାପ୍ତିସୂଚକ ମୂଲ୍ୟାଙ୍କନ (Summative Evaluation)",
+            "ନିଦାନାତ୍ମକ ମୂଲ୍ୟାଙ୍କନ (Diagnostic Evaluation)",
+            "ସ୍ଥାନନ ମୂଲ୍ୟାଙ୍କନ (Placement Evaluation)"
+          ],
+          "explanation": "ଗଠନମୂଳକ ମୂଲ୍ୟାଙ୍କନ (Formative Evaluation) ଶିକ୍ଷଣ ପଦ୍ଧତି ଚାଲୁଥିବା ସମୟରେ ନିରନ୍ତର ଭାବରେ କରାଯାଏ, ଯାହା ଦ୍ୱାରା ଶିକ୍ଷାର୍ଥୀଙ୍କ ଦୁର୍ବଳତା ସୁଧାରିବା ପାଇଁ ଶିକ୍ଷକ ଏବଂ ଛାତ୍ର ଉଭୟଙ୍କୁ ନିୟମିତ ପ୍ରତିପୋଷଣ ମିଳିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988451398-1",
+      "section": "Teaching Aptitude",
+      "topic": "Gagné's Hierarchy of Learning",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robert Gagné's Conditions of Learning, which type of learning occupies the highest level (8th level) in his hierarchy of learning types?",
+      "options": [
+        "Rule Learning",
+        "Concept Learning",
+        "Problem Solving",
+        "Principle Learning"
+      ],
+      "answer": 2,
+      "explanation": "Robert Gagné proposed an eight-level hierarchy of learning types. From lowest to highest, they are: 1. Signal learning, 2. Stimulus-response learning, 3. Chaining, 4. Verbal association, 5. Multiple discrimination, 6. Concept learning, 7. Rule learning, and 8. Problem solving ( highest level).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେ (Robert Gagné)ଙ୍କ 'ସର୍ତ୍ତମୂଳକ ଶିକ୍ଷଣ ସିଦ୍ଧାନ୍ତ' (Conditions of Learning) ଅନୁସାରେ, ତାଙ୍କର ଆଠ-ସ୍ତରୀୟ ଶିକ୍ଷଣ କ୍ରମରେ କେଉଁ ସ୍ତରଟି ସବୁଠାରୁ ଉଚ୍ଚ ସ୍ତର (୮ମ ସ୍ତର)ରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ନିୟମ ଶିକ୍ଷଣ (Rule Learning)",
+            "ଧାରଣା ଶିକ୍ଷଣ (Concept Learning)",
+            "ସମସ୍ୟା ସମାଧାନ ଶିକ୍ଷଣ (Problem Solving)",
+            "ସିଦ୍ଧାନ୍ତ ଶିକ୍ଷଣ (Principle Learning)"
+          ],
+          "explanation": "ଗାଗ୍ନେଙ୍କ ଶିକ୍ଷଣ ଶ୍ରେଣୀବିଭାଗରେ ଆଠଟି ସ୍ତର ରହିଛି। ଏଥିରେ 'ସମସ୍ୟା ସମାଧାନ ଶିକ୍ଷଣ' (Problem Solving) ହେଉଛି ୮ମ ତଥା ସବୁଠାରୁ ଉଚ୍ଚ ସ୍ତରର ଶିକ୍ଷଣ, ଯାହା ପୂର୍ବରୁ ଶିଖିଥିବା ନିୟମଗୁଡ଼ିକର ପ୍ରୟୋଗ ଉପରେ ଆଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988465752-0",
+      "section": "Subject Knowledge",
+      "topic": "Solid State Chemistry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the fluorite crystal structure (CaF2), what are the coordination numbers of Ca2+ and F- ions, respectively?",
+      "options": [
+        "4 and 8",
+        "8 and 4",
+        "6 and 6",
+        "8 and 8"
+      ],
+      "answer": 1,
+      "explanation": "In the fluorite (CaF2) structure, Ca2+ ions form a face-centered cubic (fcc) lattice while F- ions occupy all 8 tetrahedral voids. Consequently, each Ca2+ ion is surrounded by 8 F- ions, and each F- ion is surrounded by 4 Ca2+ ions, giving coordination numbers of 8 and 4, respectively.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଫ୍ଲୋରାଇଟ୍ ସଫାଟିକ ସଂରଚନାରେ (CaF2), Ca2+ ଏବଂ F- ଆୟନଗୁଡ଼ିକର ସଂଯୋଜକ ସଂଖ୍ୟା (coordination numbers) ଯଥାକ୍ରମେ କେତେ?",
+          "options": [
+            "4 ଏବଂ 8",
+            "8 ଏବଂ 4",
+            "6 ଏବଂ 6",
+            "8 ଏବଂ 8"
+          ],
+          "explanation": "ଫ୍ଲୋରାଇଟ୍ ସଂରଚନାରେ (CaF2), Ca2+ ଆୟନଗୁଡ଼ିକ fcc ଜାଲକ ଗଠନ କରନ୍ତି ଏବଂ F- ଆୟନଗୁଡ଼ିକ ସମସ୍ତ 8ଟି ଚତୁଷ୍କୋଣୀୟ ରିକ୍ତ ସ୍ଥାନ (tetrahedral voids) ଦଖଲ କରନ୍ତି। ଫଳରେ, ପ୍ରତ୍ୟେକ Ca2+ ଆୟନ 8ଟି F- ଆୟନ ଦ୍ୱାରା ଏବଂ ପ୍ରତ୍ୟେକ F- ଆୟନ 4ଟି Ca2+ ଆୟନ ଦ୍ୱାରା ଘେରି ରହିଥାଏ। ତେଣୁ ସଂଯୋଜକ ସଂଖ୍ୟା ଯଥାକ୍ରମେ 8 ଏବଂ 4 ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988465752-1",
+      "section": "Subject Knowledge",
+      "topic": "Quantum Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "For the H2+ molecule ion, using the Linear Combination of Atomic Orbitals (LCAO) approximation with normalized 1s atomic wavefunctions ϕA and ϕB, what is the normalization constant N+ for the bonding molecular orbital ψ+ = N+(ϕA + ϕB), where S = <ϕA|ϕB> is the overlap integral?",
+      "options": [
+        "1 / sqrt(2(1 + S))",
+        "1 / sqrt(2(1 - S))",
+        "1 / (2(1 + S))",
+        "1 / sqrt(1 + S^2)"
+      ],
+      "answer": 0,
+      "explanation": "The normalization condition requires <ψ+|ψ+> = 1. Expanding N+^2 <ϕA + ϕB|ϕA + ϕB> = 1 gives N+^2 [<ϕA|ϕA> + <ϕB|ϕB> + 2<ϕA|ϕB>] = 1. Since ϕA and ϕB are normalized (<ϕA|ϕA> = <ϕB|ϕB> = 1) and <ϕA|ϕB> = S, this simplifies to N+^2 (2 + 2S) = 1, leading to N+ = 1 / sqrt(2(1 + S)).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "H2+ ଆଣବିକ ଆୟନ ପାଇଁ, ନର୍ମାଲାଇଜ୍‌ଡ୍ 1s ପାରମାଣବିକ ତରଙ୍ଗ ଫଳନ ϕA ଏବଂ ϕB ସହିତ ଆଣବିକ କକ୍ଷକଗୁଡ଼ିକର ରୈଖିକ ସଂଯୋଜନ (LCAO) ଆନୁମାନିକତା ବ୍ୟବହାର କରି, ବନ୍ଧନକାରୀ ଆଣବିକ କକ୍ଷକ ψ+ = N+(ϕA + ϕB) ର ନର୍ମାଲାଇଜେସନ୍ ସ୍ଥିରାଙ୍କ N+ ର ସୂତ୍ର କ'ଣ, ଯେଉଁଠାରେ S = <ϕA|ϕB> ହେଉଛି ଓଭରଲ୍ୟାପ୍ ଇଣ୍ଟେଗ୍ରାଲ୍?",
+          "options": [
+            "1 / sqrt(2(1 + S))",
+            "1 / sqrt(2(1 - S))",
+            "1 / (2(1 + S))",
+            "1 / sqrt(1 + S^2)"
+          ],
+          "explanation": "ବନ୍ଧନକାରୀ ଆଣବିକ କକ୍ଷକ ψ+ = N+(ϕA + ϕB) ର ନର୍ମାଲାଇଜେସନ୍ ସର୍ତ୍ତ ହେଉଛି <ψ+|ψ+> = 1। ଏହାକୁ ବିସ୍ତାର କଲେ N+^2 [<ϕA|ϕA> + <ϕB|ϕB> + 2<ϕA|ϕB>] = 1 ମିଳେ। ଯେହେତୁ ϕA ଏବଂ ϕB ନର୍ମାଲାଇଜ୍‌ଡ୍ (<ϕA|ϕA> = <ϕB|ϕB> = 1) ଏବଂ <ϕA|ϕB> = S, ଏହା N+^2 (2 + 2S) = 1 ରେ ପରିଣତ ହୁଏ, ଯାହାଦ୍ୱାରା N+ = 1 / sqrt(2(1 + S)) ମିଳିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988698219-0",
+      "section": "Child Development",
+      "topic": "Vygotsky's Socio-Cultural Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Lev Vygotsky's socio-cultural theory, what primary function does 'private speech' (self-talk) serve in young children?",
+      "options": [
+        "It reflects cognitive immaturity and egocentrism, as proposed by Jean Piaget.",
+        "It serves as an important tool for self-regulation, helping children guide their own thinking and behavior.",
+        "It indicates a developmental delay in social communication skills.",
+        "It acts as a mechanism solely designed to seek adult assistance during problem-solving."
+      ],
+      "answer": 1,
+      "explanation": "Lev Vygotsky argued that private speech is a critical developmental bridge between external social communication and internal thought. Children use private speech to regulate their own cognitive processes, plan strategies, and guide their behavior during complex tasks.",
+      "translations": {
+        "or": {
+          "question": "ଲେଭ୍ ଭାଇଗୋଟ୍ସ୍କିଙ୍କ (Lev Vygotsky) ସାମାଜିକ-ସାଂସ୍କୃତିକ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଛୋଟ ପିଲାମାନଙ୍କ ମଧ୍ୟରେ 'ବ୍ୟକ୍ତିଗତ କଥୋପକଥନ' (private speech / ସ୍ୱ-ଆଲୋଚନା) ର ମୁଖ୍ୟ କାର୍ଯ୍ୟ କ’ଣ?",
+          "options": [
+            "ଜାଁ ପିଆଜେଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତାବିତ ହୋଇଥିବା ଭଳି ଏହା ଜ୍ଞାନାତ୍ମକ ଅପରିପକ୍ୱତା ଏବଂ ଆତ୍ମକେନ୍ଦ୍ରିକତାକୁ ଦର୍ଶାଏ |",
+            "ଏହା ଆତ୍ମ-ନିୟନ୍ତ୍ରଣ ପାଇଁ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସାଧନ ଭାବରେ କାର୍ଯ୍ୟ କରେ, ଯାହା ପିଲାମାନଙ୍କୁ ସେମାନଙ୍କର ନିଜସ୍ୱ ଚିନ୍ତନ ଏବଂ ବ୍ୟବହାରକୁ ମାର୍ଗଦର୍ଶନ କରିବାରେ ସାହାଯ୍ୟ କରେ |",
+            "ଏହା ସାମାଜିକ ଯୋଗାଯୋଗ ଦକ୍ଷତାରେ ବିକାଶମୂଳକ ବିଳମ୍ବକୁ ସୂଚିତ କରେ |",
+            "ଏହା କେବଳ ସମସ୍ୟା ସମାଧାନ ସମୟରେ ବୟସ୍କଙ୍କ ସହାୟତା ଲୋଡ଼ିବା ପାଇଁ ଏକ ମାଧ୍ୟମ ଭାବରେ କାର୍ଯ୍ୟ କରେ |"
+          ],
+          "explanation": "ଲେଭ୍ ଭାଇଗୋଟ୍ସ୍କିଙ୍କ ମତରେ ବ୍ୟକ୍ତିଗତ କଥୋପକଥନ (private speech) ସାମାଜିକ ଯୋଗାଯୋଗ ଏବଂ ଆଭ୍ୟନ୍ତରୀଣ ଚିନ୍ତନ ମଧ୍ୟରେ ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସେତୁ ଅଟେ | ପିଲାମାନେ ନିଜର ବ୍ୟବହାରକୁ ନିୟନ୍ତ୍ରଣ କରିବା, ଯୋଜନା ପ୍ରସ୍ତୁତ କରିବା ଏବଂ ଚିନ୍ତାଧାରାକୁ ମାର୍ଗଦର୍ଶନ କରିବା ପାଇଁ ଏହି ସ୍ୱ-ଆଲୋଚନାର ବ୍ୟବହାର କରନ୍ତି |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988698219-1",
+      "section": "Child Development",
+      "topic": "Memory Development and Information Processing",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Charles Brainerd and Valerie Reyna's Fuzzy-Trace Theory, how does memory processing shift from early childhood to adolescence?",
+      "options": [
+        "Younger children rely predominantly on gist traces, while adolescents rely almost exclusively on verbatim traces.",
+        "Younger children rely more on verbatim traces, whereas older children and adolescents increasingly rely on fuzzy gist traces.",
+        "Both verbatim and gist traces develop simultaneously in early infancy and remain unchanged throughout development.",
+        "Verbatim traces replace gist traces entirely as working memory capacity expands during adolescence."
+      ],
+      "answer": 1,
+      "explanation": "Fuzzy-Trace Theory posits two types of memory representations: verbatim traces (precise, exact literal details) and gist traces (fuzzy, essential semantic meanings). As children mature, there is a developmental shift from relying primarily on verbatim traces toward a greater reliance on gist traces, which are more efficient for reasoning and less susceptible to forgetting.",
+      "translations": {
+        "or": {
+          "question": "ଚାର୍ଲ୍ସ ବ୍ରେନର୍ଡ ଏବଂ ଭାଲେରୀ ରେନାଙ୍କ (Brainerd and Reyna) 'ଫଜି-ଟ୍ରେସ୍ ସିଦ୍ଧାନ୍ତ' (Fuzzy-Trace Theory) ଅନୁଯାୟୀ, ପ୍ରାରମ୍ଭିକ ଶୈଶବରୁ କିଶୋରାବସ୍ଥା ମଧ୍ୟରେ ସ୍ମୃତି ପ୍ରକ୍ରିୟାକରଣ କିପରି ପରିବର୍ତ୍ତିତ ହୋଇଥାଏ?",
+          "options": [
+            "ଛୋଟ ପିଲାମାନେ ମୁଖ୍ୟତଃ ଗିଷ୍ଟ (gist) ଟ୍ରେସ୍ ଉପରେ ନିର୍ଭର କରନ୍ତି, ଯେଉଁଠାରେ କିଶୋରମାନେ କେବଳ ଭର୍ବାଟିମ୍ (verbatim) ଟ୍ରେସ୍ ଉପରେ ନିର୍ଭର କରନ୍ତି |",
+            "ଛୋଟ ପିଲାମାନେ ଅଧିକ ଭର୍ବାଟିମ୍ (verbatim) ଟ୍ରେସ୍ ଉପରେ ନିର୍ଭର କରନ୍ତି, ଯେଉଁଠାରେ ବୟସ୍କ ପିଲା ଏବଂ କିଶୋରମାନେ ସ୍ମୃତି ପ୍ରକ୍ରିୟାକରଣ ପାଇଁ ଅଧିକରୁ ଅଧିକ ଫଜି ଗିଷ୍ଟ (gist) ଟ୍ରେସ୍ ଉପରେ ନିର୍ଭର କରନ୍ତି |",
+            "ଭର୍ବାଟିମ୍ ଏବଂ ଗିଷ୍ଟ ଉଭୟ ଟ୍ରେସ୍ ପ୍ରାରମ୍ଭିକ ଶୈଶବରେ ଏକ ସମୟରେ ବିକଶିତ ହୁଏ ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ବିକାଶ ସମୟରେ ଅପରିବର୍ତ୍ତିତ ରହେ |",
+            "କିଶୋରାବସ୍ଥାରେ କାର୍ଯ୍ୟକାରୀ ସ୍ମୃତି କ୍ଷମତା ବୃଦ୍ଧି ପାଇବା ସହିତ ଭର୍ବାଟିମ୍ ଟ୍ରେସ୍ ଗୁଡ଼ିକ ଗିଷ୍ଟ ଟ୍ରେସକୁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ପ୍ରତିସ୍ଥାପିତ କରନ୍ତି |"
+          ],
+          "explanation": "ଫଜି-ଟ୍ରେସ୍ ସିଦ୍ଧାନ୍ତ ଦୁଇ ପ୍ରକାରର ସ୍ମୃତି ପ୍ରତିନିଧିତ୍ୱର ପ୍ରସ୍ତାବ ଦିଏ: ଭର୍ବାଟିମ୍ ଟ୍ରେସ୍ (ବିସ୍ତୃତ, ସଠିକ୍ ତଥ୍ୟ) ଏବଂ ଗିଷ୍ଟ ଟ୍ରେସ୍ (ମୂଳ, ଅସଲି ସାମାନ୍ୟ ଅର୍ଥ) | ପିଲାମାନଙ୍କ ବିକାଶ ସହିତ, ସେମାନେ ଭର୍ବାଟିମ୍ ଟ୍ରେସ୍ ଉପରେ ନିର୍ଭରଶୀଳତା କମାଇ ଗିଷ୍ଟ ଟ୍ରେସ୍ ଉପରେ ଅଧିକ ନିର୍ଭରଶୀଳ ହୁଅନ୍ତି, ଯାହା ଯୁକ୍ତିଯୁକ୍ତ ଚିନ୍ତନ ପାଇଁ ଅଧିକ ଦକ୍ଷ ଏବଂ ସମୟ ସହିତ ଭୁଲିଯିବାର ସମ୍ଭାବନା କମ୍ ଥାଏ |"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988753225-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which schedule of the Constitution of India contains provisions regarding the administration and control of Scheduled Areas and Scheduled Tribes in states other than Assam, Meghalaya, Tripura, and Mizoram?",
+      "options": [
+        "Fifth Schedule",
+        "Sixth Schedule",
+        "Seventh Schedule",
+        "Eighth Schedule"
+      ],
+      "answer": 0,
+      "explanation": "The Fifth Schedule of the Constitution of India deals with the administration and control of Scheduled Areas and Scheduled Tribes in all states except Assam, Meghalaya, Tripura, and Mizoram, which are governed under the Sixth Schedule.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଅନୁସୂଚୀରେ ଆସାମ, ମେଘାଳୟ, ତ୍ରିପୁରା ଏବଂ ମିଜୋରାମ ବ୍ୟତୀତ ଅନ୍ୟ ରାଜ୍ୟଗୁଡ଼ିକରେ ଥିବା ଅନୁସୂଚିତ ଏରିଆ ଏବଂ ଅନୁସୂଚିତ ଜନଜାତିଙ୍କ ପ୍ରଶାସନ ଓ ନିୟନ୍ତ୍ରଣ ସମ୍ବନ୍ଧୀୟ ବ୍ୟବସ୍ଥା ରହିଛି?",
+          "options": [
+            "ପଞ୍ଚମ ଅନୁସୂଚୀ",
+            "ଷଷ୍ଠ ଅନୁସୂଚୀ",
+            "ସପ୍ତମ ଅନୁସୂଚୀ",
+            "ଅଷ୍ଟମ ଅନୁସୂଚୀ"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ପଞ୍ଚମ ଅନୁସୂଚୀରେ ଆସାମ, ମେଘାଳୟ, ତ୍ରିପୁରା ଏବଂ ମିଜୋରାମ ବ୍ୟତୀତ ଅନ୍ୟ ରାଜ୍ୟଗୁଡ଼ିକରେ ଅନୁସୂଚିତ ଏରିଆ ଏବଂ ଅନୁସୂଚିତ ଜନଜାତିଙ୍କ ପ୍ରଶାସନ ଏବଂ ନିୟନ୍ତ୍ରଣ ସମ୍ବନ୍ଧରେ ଆଲୋଚନା କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1785988753225-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following founded the 'Anushilan Samiti' in Calcutta in 1902 as a revolutionary secret society?",
+      "options": [
+        "Barindra Kumar Ghosh",
+        "Pramathanath Mitra",
+        "Rash Behari Bose",
+        "Sachindra Nath Sanyal"
+      ],
+      "answer": 1,
+      "explanation": "The Anushilan Samiti was established in Calcutta in March 1902 primarily by Pramathanath Mitra (P. Mitra), along with Jatindranath Banerjee, Barindra Kumar Ghosh, and Satish Chandra Basu. Pramathanath Mitra served as its first president.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୨ ମସିହାରେ କୋଲକାତାରେ ଏକ ବିପ୍ଳବୀ ଗୁପ୍ତ ସଂଗଠନ ଭାବରେ 'ଅନୁଶୀଳନ ସମିତି' କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ବାରୀନ୍ଦ୍ର କୁମାର ଘୋଷ",
+            "ପ୍ରମଥନାଥ ମିତ୍ର",
+            "ରାସବିହାରୀ ବୋଷ",
+            "ଶଚୀନ୍ଦ୍ର ନାଥ ସାନ୍ୟାଲ"
+          ],
+          "explanation": "ମାର୍ଚ୍ଚ ୧୯୦୨ରେ କୋଲକାତାରେ ପ୍ରମଥନାଥ ମିତ୍ର (ପି. ମିତ୍ର) ଜତୀନ୍ଦ୍ରନାଥ ବାନାର୍ଜୀ, ବାରୀନ୍ଦ୍ର କୁମାର ଘୋଷ ଏବଂ ସତୀଶ ଚନ୍ଦ୍ର ବସୁଙ୍କ ସହିତ 'ଅନୁଶୀଳନ ସମିତି' ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ପ୍ରମଥନାଥ ମିତ୍ର ଏହାର ପ୍ରଥମ ସଭାପତି ଥିଲେ।"
         }
       }
     }

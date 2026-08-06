@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -6979,6 +6979,136 @@
       ],
       "answer": 2,
       "explanation": "The Legal Entity Identifier (LEI) is a 20-character/digit unique alphanumeric code based on the ISO 17442 standard. It is used to globally identify distinct legal entities engaging in financial transactions to improve systemic risk management.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785988123053-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present ages of A and B are in the ratio 3 : 4. Five years ago, the ratio of their ages was 5 : 7. What is the present age of A?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the present ages of A and B be 3x and 4x respectively. Five years ago, their ages were (3x - 5) and (4x - 5). Given (3x - 5) / (4x - 5) = 5 / 7. Cross-multiplying gives 7(3x - 5) = 5(4x - 5) => 21x - 35 = 20x - 25 => x = 10. Thus, the present age of A = 3x = 30 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1785988123053-1",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of money invested at compound interest, compounded annually, amounts to ₹18,600 after 3 years and to ₹27,900 after 6 years. What is the principal sum invested?",
+      "options": [
+        "₹11,200",
+        "₹12,400",
+        "₹13,500",
+        "₹14,600"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal sum be P and the annual rate multiplier factor for 3 years be K = (1 + r/100)^3. So, P * K = 18600 and P * K^2 = 27900. Dividing the second equation by the first gives K = 27900 / 18600 = 3/2. Substituting K back into the first equation: P * (3/2) = 18600 => P = (18600 * 2) / 3 = ₹12,400."
+    },
+    {
+      "id": "sbi-clerk-ai-1785988130643-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A person starts walking from point P towards the West. After walking 10 meters, he takes a left turn and walks 15 meters to reach point Q. From point Q, he takes a left turn and walks 10 meters to reach point R. How far and in which direction is point R with respect to point P?",
+      "options": [
+        "15 meters, North",
+        "15 meters, South",
+        "10 meters, South",
+        "25 meters, West"
+      ],
+      "answer": 1,
+      "explanation": "Starting from point P(0,0), walking 10 meters West leads to (-10, 0). Turning left (facing South) and walking 15 meters reaches point Q at (-10, -15). Turning left (facing East) and walking 10 meters reaches point R at (0, -15). Point R is 15 meters directly to the South of point P."
+    },
+    {
+      "id": "sbi-clerk-ai-1785988130643-1",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the options is correct.\nStatements: M ≥ N > O = P ≤ Q < R; S > P ≥ T\nConclusions:\nI. M > T\nII. R > T",
+      "options": [
+        "Only Conclusion I is true",
+        "Only Conclusion II is true",
+        "Both Conclusion I and II are true",
+        "Neither Conclusion I nor II is true"
+      ],
+      "answer": 2,
+      "explanation": "Combining the paths:\n1) For M and T: M ≥ N > O = P ≥ T, which simplifies to M > T. Thus, Conclusion I is true.\n2) For R and T: R > Q ≥ P ≥ T, which simplifies to R > T. Thus, Conclusion II is true."
+    },
+    {
+      "id": "sbi-clerk-ai-1785988150992-0",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the connector from the options provided that can combine the two sentences given below into a single coherent sentence without altering their meaning.\n\nSentence 1: The government implemented strict regulations on carbon emissions.\nSentence 2: Several major industrial units failed to comply with the new environmental standards.",
+      "options": [
+        "Although",
+        "Consequently",
+        "Furthermore",
+        "Provided that"
+      ],
+      "answer": 0,
+      "explanation": "'Although' is used to express contrast between two clauses. Using it correctly links the government's action with the conflicting outcome: 'Although the government implemented strict regulations on carbon emissions, several major industrial units failed to comply with the new environmental standards.'"
+    },
+    {
+      "id": "sbi-clerk-ai-1785988150992-1",
+      "section": "English",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which segment of the following sentence contains a grammatical inaccuracy?\n\n'Neither the chairperson nor the board members was aware of the financial discrepancies uncovered during the annual audit.'",
+      "options": [
+        "Neither the chairperson nor",
+        "the board members was aware",
+        "of the financial discrepancies",
+        "uncovered during the annual audit."
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are connected by 'neither... nor', the verb agrees with the subject closest to it. Here, the closer subject 'the board members' is plural, so the verb must be 'were aware' rather than 'was aware'."
+    },
+    {
+      "id": "sbi-clerk-ai-1785988159607-0",
+      "section": "General Awareness",
+      "topic": "Payments Banks Guidelines",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the maximum end-of-day deposit balance limit per individual customer allowed in a Payments Bank as per Reserve Bank of India (RBI) guidelines?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹3,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "In April 2021, the Reserve Bank of India (RBI) enhanced the maximum end-of-day deposit balance limit for Payments Banks from ₹1 lakh to ₹2 lakh per individual customer to facilitate greater financial inclusion and operational ease.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1785988159607-1",
+      "section": "General Awareness",
+      "topic": "Sovereign Gold Bond Scheme",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Sovereign Gold Bond (SGB) Scheme administered by the Reserve Bank of India, what is the maximum annual limit of subscription allowed per fiscal year for Trusts and similar entities?",
+      "options": [
+        "4 kg",
+        "8 kg",
+        "10 kg",
+        "20 kg"
+      ],
+      "answer": 3,
+      "explanation": "According to the Sovereign Gold Bond scheme rules, the maximum subscription limit per fiscal year (April-March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for Trusts and similar entities as notified by the government.",
       "status": "pending"
     }
   ]

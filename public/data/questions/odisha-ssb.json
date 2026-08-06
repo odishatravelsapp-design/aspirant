@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -10666,6 +10666,234 @@
             "ମୟୂରଭଞ୍ଜ"
           ],
           "explanation": "୧୯୪୨ ମସିହା ସେପ୍ଟେମ୍ବର ୨୮ ତାରିଖରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ବର୍ତ୍ତମାନର ଭଦ୍ରକ ଜିଲ୍ଲା ବାସୁଦେବପୁର ବ୍ଲକ ଅନ୍ତର୍ଗତ ଇରମଠାରେ ବ୍ରିଟିଶ ପୋଲିସର ଗୁଳିଚାଳନାରେ ୨୯ ଜଣ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ ସହିଦ ହୋଇଥିଲେ। ଏହି ଗଣ-ଆତ୍ମବଳିଦାନ ପାଇଁ ଏହି ସ୍ଥାନକୁ 'ରକ୍ତତୀର୍ଥ' କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988311069-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism & Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Samuel Taylor Coleridge's 'Biographia Literaria' (1817), which famous phrase is introduced in Chapter XIV to describe the reader's acceptance of fantastic or supernatural elements in poetry?",
+      "options": [
+        "Negative capability",
+        "Willing suspension of disbelief",
+        "Objective correlative",
+        "Esemplastic power"
+      ],
+      "answer": 1,
+      "explanation": "In Chapter XIV of 'Biographia Literaria', Coleridge writes about producing 'that willing suspension of disbelief for the moment, which constitutes poetic faith' to render supernatural characters believable in poetry.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସାମୁଏଲ ଟେଲର କୋଲରିଜ୍‌ଙ୍କ 'ବାୟୋଗ୍ରାଫିଆ ଲିଟରେରିଆ' (୧୮୧୭) ର ଚାପ୍ଟର XIV ରେ, କବିତାରେ କାଳ୍ପନିକ କିମ୍ବା ଅଲୌକିକ ଉପାଦାନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରିବା ପାଇଁ ପାଠକଙ୍କ ମାନସିକ ସ୍ଥିତିକୁ ବର୍ଣ୍ଣନା କରିବାକୁ କେଉଁ ପ୍ରସିଦ୍ଧ ପାରିଭାଷିକ ଶବ୍ଦ ବ୍ୟବହାର କରାଯାଇଛି?",
+          "options": [
+            "ନେଗେଟିଭ୍ କ୍ୟାପାବିଲିଟି (Negative capability)",
+            "ୱିଲିଂ ସସପେନ୍ସନ୍ ଅଫ୍ ଡିସବିଲିଫ୍ (Willing suspension of disbelief)",
+            "ଅବଜେକ୍ଟିଭ୍ କୋରିଲେଟିଭ୍ (Objective correlative)",
+            "ଏସେମ୍ପ୍ଲାଷ୍ଟିକ୍ ପାୱାର (Esemplastic power)"
+          ],
+          "explanation": "ସାମୁଏଲ ଟେଲର କୋଲରିଜ୍ 'ବାୟୋଗ୍ରାଫିଆ ଲିଟରେରିଆ' ର ଚାପ୍ଟର XIV ରେ 'willing suspension of disbelief' (ଅବିଶ୍ୱାସର ସ୍ୱେଚ୍ଛାକୃତ ସ୍ଥଗିତାଦେଶ) ଧାରଣା ପ୍ରବର୍ତ୍ତନ କରିଥିଲେ, ଯାହା କାବ୍ୟିକ ବିଶ୍ୱାସ ଗଠନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988311069-1",
+      "section": "Subject Knowledge",
+      "topic": "Deconstruction & Literary Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Jacques Derrida's seminal 1966 essay 'Structure, Sign, and Play in the Discourse of the Human Sciences', which thinker's structural anthropology is primarily analyzed and critiqued?",
+      "options": [
+        "Claude Lévi-Strauss",
+        "Ferdinand de Saussure",
+        "Michel Foucault",
+        "Roland Barthes"
+      ],
+      "answer": 0,
+      "explanation": "Derrida's landmark essay 'Structure, Sign, and Play' specifically deconstructs structuralism by analyzing the works of French anthropologist Claude Lévi-Strauss, particularly examining his notions of 'bricolage' and the opposition between nature and culture.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜାକ୍ ଡେରିଡାଙ୍କ ୧୯୬୬ ର ପ୍ରସିଦ୍ଧ ପ୍ରବନ୍ଧ 'ଷ୍ଟ୍ରକ୍ଚର, ସାଇନ୍, ଆଣ୍ଡ୍ ପ୍ଲେ ଇନ୍ ଦି ଡିସକୋର୍ସ ଅଫ୍ ଦି ହ୍ୟୁମାନ୍ ସାଇନ୍ସେସ୍' ରେ କେଉଁ ଚିନ୍ତାନାୟକଙ୍କ ସଂରଚନାତ୍ମକ ନୃବିଜ୍ଞାନ (structural anthropology) ର ମୁଖ୍ୟତଃ ବିଶ୍ଳେଷଣ ଓ ସମାଲୋଚନା କରାଯାଇଛି?",
+          "options": [
+            "କ୍ଲୋଡ୍ ଲେଭି-ଷ୍ଟ୍ରସ୍ (Claude Lévi-Strauss)",
+            "ଫର୍ଡିନାଣ୍ଡ ଡି ସୋସ୍ୟୁର (Ferdinand de Saussure)",
+            "ମିଶେଲ ଫୁକୋ (Michel Foucault)",
+            "ରୋଲାଣ୍ଡ ବାର୍ଥେସ୍ (Roland Barthes)"
+          ],
+          "explanation": "ଜାକ୍ ଡେରିଡାଙ୍କ ପ୍ରବନ୍ଧ 'ଷ୍ଟ୍ରକ୍ଚର, ସାଇନ୍, ଆଣ୍ଡ୍ ପ୍ଲେ' ମୁଖ୍ୟତଃ ଫରାସୀ ନୃବିଜ୍ଞାନୀ କ୍ଲୋଡ୍ ଲେଭି-ଷ୍ଟ୍ରସ୍‌ଙ୍କ ସଂରଚନାତ୍ମକ ମାନବବିଜ୍ଞାନ ଏବଂ ତାଙ୍କର 'ବ୍ରିକୋଲେଜ୍' (bricolage) ଧାରଣାକୁ ସମାଲୋଚନାତ୍ମକ ଭାବରେ ପରୀକ୍ଷା କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988325517-0",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Aids and Models",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Edgar Dale's 'Cone of Experience', which of the following learning experiences is placed at the apex (top), representing the most abstract form of learning?",
+      "options": [
+        "Verbal Symbols",
+        "Visual Symbols",
+        "Direct Purposeful Experiences",
+        "Motion Pictures"
+      ],
+      "answer": 0,
+      "explanation": "In Edgar Dale's Cone of Experience, verbal symbols (words, text) are positioned at the very top (apex), representing the highest level of abstraction. Direct Purposeful Experiences lie at the broad base, representing the most concrete level of experience.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର ଡେଲଙ୍କ 'ଅନୁଭୂତିର ଶଙ୍କୁ' (Cone of Experience) ରେ ସବୁଠାରୁ ବିମୂର୍ତ୍ତ (abstract) ଶିକ୍ଷଣ ଅନୁଭୂତି ଭାବରେ ଶୀର୍ଷରେ (apex) ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କାହାକୁ ସ୍ଥାନ ଦିଆଯାଇଛି?",
+          "options": [
+            "ଶାବ୍ଦିକ ପ୍ରତୀକ (Verbal Symbols)",
+            "ଦୃଶ୍ୟ ପ୍ରତୀକ (Visual Symbols)",
+            "ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅନୁଭୂତି (Direct Purposeful Experiences)",
+            "ଚଳଚ୍ଚିତ୍ର (Motion Pictures)"
+          ],
+          "explanation": "ଏଡଗାର ଡେଲଙ୍କ ଅନୁଭୂତିର ଶଙ୍କୁରେ, ଶାବ୍ଦିକ ପ୍ରତୀକଗୁଡ଼ିକ ଶଙ୍କୁର ସବୁଠାରୁ ଉପରେ (ଶୀର୍ଷରେ) ରହିଥାଏ, ଯାହା ଶିକ୍ଷଣର ସବୁଠାରୁ ବିମୂର୍ତ୍ତ ସ୍ତରକୁ ଦର୍ଶାଏ। ଅନ୍ୟପକ୍ଷରେ, ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅନୁଭୂତିଗୁଡ଼ିକ ଶଙ୍କୁର ପାଦଦେଶରେ ରହିଥାଏ, ଯାହା ସବୁଠାରୁ ମୂର୍ତ୍ତ (concrete) ସ୍ତରକୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988325517-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Assessment and Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the item analysis of a norm-referenced test, if a test item has a difficulty index (p-value) of 0.85 and a discrimination index (D-value) of -0.20, what action should the test developer ideally take regarding this item?",
+      "options": [
+        "Retain the item without any modifications because of its high facility value.",
+        "Discard or completely revise the item because it is too easy and discriminates negatively.",
+        "Modify only the correct answer option to increase the item's overall complexity.",
+        "Retain the item as a benchmark item for diagnostic purposes."
+      ],
+      "answer": 1,
+      "explanation": "A difficulty index (p-value) of 0.85 indicates the item is very easy (85% answered correctly). A negative discrimination index (-0.20) means lower-performing students answered it correctly more often than higher-performing students, indicating a defective question. Therefore, the item must be discarded or completely revised.",
+      "translations": {
+        "or": {
+          "question": "ମାନକ-ସନ୍ଦର୍ଭିତ ପରୀକ୍ଷଣର (norm-referenced test) ଆଇଟମ୍ ବିଶ୍ଳେଷଣରେ, ଯଦି ଗୋଟିଏ ପ୍ରଶ୍ନର କାଠିନ୍ୟ ସୂଚକାଙ୍କ (p-value) ୦.୮୫ ଏବଂ ପ୍ରଭେଦୀକରଣ ସୂଚକାଙ୍କ (D-value) -୦.୨୦ ହୋଇଥାଏ, ତେବେ ପ୍ରଶ୍ନ ପ୍ରସ୍ତୁତକାରୀ ଏହି ପ୍ରଶ୍ନ ପ୍ରତି କି ପ୍ରକାର ପଦକ୍ଷେପ ନେବା ଉଚିତ୍?",
+          "options": [
+            "ଉଚ୍ଚ ସହଜତା ମୂଲ୍ୟ ହେତୁ କୌଣସି ପରିବର୍ତ୍ତନ ନକରି ପ୍ରଶ୍ନଟିକୁ ରଖିବା।",
+            "ପ୍ରଶ୍ନଟି ଅତ୍ୟନ୍ତ ସହଜ ଏବଂ ଋଣାତ୍ମକ ପ୍ରଭେଦୀକରଣ ଦେଉଥିବାରୁ ଏହାକୁ ବାଦ୍ ଦେବା କିମ୍ବା ସମ୍ପୂର୍ଣ୍ଣ ସଂଶୋଧନ କରିବା।",
+            "ପ୍ରଶ୍ନର ଜଟିଳତା ବୃଦ୍ଧି କରିବା ପାଇଁ କେବଳ ସଠିକ୍ ଉତ୍ତର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରିବା।",
+            "ନିଦାନାତ୍ମକ ଉଦ୍ଦେଶ୍ୟ ପାଇଁ ପ୍ରଶ୍ନଟିକୁ ଗୋଟିଏ ବେଞ୍ଚମାର୍କ ପ୍ରଶ୍ନ ଭାବରେ ରଖିବା।"
+          ],
+          "explanation": "୦.୮୫ ର କାଠିନ୍ୟ ସୂଚକାଙ୍କ (p-value) ଦର୍ଶାଏ ଯେ ପ୍ରଶ୍ନଟି ଅତ୍ୟନ୍ତ ସହଜ (୮୫% ପରୀକ୍ଷାର୍ଥୀ ସଠିକ୍ ଉତ୍ତର ଦେଇଛନ୍ତି)। -୦.୨୦ ର ଋଣାତ୍ମକ ପ୍ରଭେଦୀକରଣ ସୂଚକାଙ୍କ (D-value) ଦର୍ଶାଏ ଯେ କମ୍ ନମ୍ବର ରଖିଥିବା ପରୀକ୍ଷାର୍ଥୀମାନେ ଉଚ୍ଚ ନମ୍ବର ରଖିଥିବା ପରୀକ୍ଷାର୍ଥୀଙ୍କ ତୁଳନାରେ ଏହି ପ୍ରଶ୍ନର ସଠିକ୍ ଉତ୍ତର ବେଶି ଦେଇଛନ୍ତି, ଯାହା ପ୍ରଶ୍ନରେ ତ୍ରୁଟିକୁ ସୂଚାଏ। ତେଣୁ, ଏହି ପ୍ରଶ୍ନକୁ ବାଦ୍ ଦେବା କିମ୍ବା ସମ୍ପୂର୍ଣ୍ଣ ସଂଶୋଧନ କରିବା ଉଚିତ୍।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988337045-0",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which among the following wetlands in Odisha was designated as the first Indian wetland of international importance under the Ramsar Convention in 1981?",
+      "options": [
+        "Bhitarkanika Mangroves",
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Tampara Lake"
+      ],
+      "answer": 1,
+      "explanation": "Chilika Lake was designated as the first Indian wetland of international importance under the Ramsar Convention on October 1, 1981, along with Keoladeo National Park.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ ଓଡ଼ିଶାର କେଉଁ ଆର୍ଦ୍ରଭୂମିକୁ ୧୯୮୧ ମସିହାରେ ରାମସର ସମ୍ମିଳନୀ ଅଧୀନରେ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆର୍ଦ୍ରଭୂମି ଭାବରେ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "ଭିତରକନିକା ହେନ୍ତାଳବନ",
+            "ଚିଲିକା ହ୍ରଦ",
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ତାମ୍ପରା ହ୍ରଦ"
+          ],
+          "explanation": "୧ ଅକ୍ଟୋବର ୧୯୮୧ ରେ ଚିଲିକା ହ୍ରଦକୁ କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ରାମସର ସମ୍ମିଳନୀ ଅଧୀନରେ ଆନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆର୍ଦ୍ରଭୂମି ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988337045-1",
+      "section": "General Studies",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Pradesh Congress Committee' (UPCC) formed with Pandit Gopabandhu Das as its first President?",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1924"
+      ],
+      "answer": 2,
+      "explanation": "Following the Nagpur session of the Indian National Congress in December 1920, the Utkal Pradesh Congress Committee (UPCC) was formed in March 1921 with Pandit Gopabandhu Das as its first President.",
+      "translations": {
+        "or": {
+          "question": "ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସଙ୍କୁ ପ୍ରଥମ ସଭାପତି ଭାବରେ ନେଇ କେଉଁ ମସିହାରେ 'ଉତ୍କଳ ପ୍ରଦେଶ କଂଗ୍ରେସ କମିଟି' (UPCC) ଗଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "1919",
+            "1920",
+            "1921",
+            "1924"
+          ],
+          "explanation": "ଡିସେମ୍ବର ୧୯୨୦ ରେ ଅନୁଷ୍ଠିତ ଭାରତୀୟ ଜାତୀୟ କଂଗ୍ରେସର ନାଗପୁର ଅଧିବେଶନ ପରେ, ମାର୍ଚ୍ଚ ୧୯୨୧ ରେ ଉତ୍କଳ ପ୍ରଦେଶ କଂଗ୍ରେସ କମିଟି (UPCC) ଗଠନ କରାଯାଇଥିଲା, ଯେଉଁଥିରେ ପଣ୍ଡିତ ଗୋପବନ୍ଧୁ ଦାସ ଏହାର ପ୍ରଥମ ସଭାପତି ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988348955-0",
+      "section": "Odisha GK",
+      "topic": "Odia Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which eminent Odia poet, widely revered as 'Swabhava Kabi', composed the renowned epic poem 'Kichaka Badha'?",
+      "options": [
+        "Gangadhar Meher",
+        "Radhanath Ray",
+        "Upendra Bhanja",
+        "Fakir Mohan Senapati"
+      ],
+      "answer": 0,
+      "explanation": "Gangadhar Meher, popularly known as 'Swabhava Kabi', composed the famous epic poem 'Kichaka Badha' in 1904. His other notable works include 'Tapaswini', 'Indumati', and 'Pranaya Vallari'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ବିଶିଷ୍ଟ ଓଡ଼ିଆ କବି, ଯାହାଙ୍କୁ 'ସ୍ୱଭାବ କବି' କୁହାଯାଏ, ପ୍ରସିଦ୍ଧ ସାହିତ୍ୟିକ କୃତି 'କୀଚକ ବଧ' ରଚନା କରିଥିଲେ?",
+          "options": [
+            "ଗଙ୍ଗାଧର ମେହେର",
+            "ରାଧାନାଥ ରାୟ",
+            "ଉପେନ୍ଦ୍ର ଭଞ୍ଜ",
+            "ଫକୀର ମୋହନ ସେନାପତି"
+          ],
+          "explanation": "ସ୍ୱଭାବ କବି ଗଙ୍ଗାଧର ମେହେର ୧୯୦୪ ମସିହାରେ 'କୀଚକ ବଧ' ରଚନା କରିଥିଲେ। ତାଙ୍କର ଅନ୍ୟାନ୍ୟ ପ୍ରସିଦ୍ଧ କୃତିଗୁଡ଼ିକ ମଧ୍ୟରେ 'ତପସ୍ୱିନୀ', 'ଇନ୍ଦୁମତୀ' ଓ 'ପ୍ରଣୟ ବଲ୍ଲରୀ' ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1785988348955-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the tribal Kandha leader who led the first phase of the historic Ghumsar Rebellion (1835–1837) against the British East India Company?",
+      "options": [
+        "Chakra Bisoi",
+        "Dora Bissoyi",
+        "Rendo Majhi",
+        "Laxman Nayak"
+      ],
+      "answer": 1,
+      "explanation": "Dora Bissoyi was the Commander-in-Chief and leader of the Kandhas who spearheaded the first phase of the Ghumsar Rebellion (1835–1837) against British rule in Odisha before being captured.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୩୫-୧୮୩୭ ମସିହାରେ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୋଧରେ ଐତିହାସିକ ଘୁମୁସର ବିଦ୍ରୋହର ପ୍ରଥମ ପର୍ଯ୍ୟାୟର ନେତୃତ୍ୱ ନେଇଥିବା କନ୍ଧ ନେତା କିଏ ଥିଲେ?",
+          "options": [
+            "ଚକ୍ର ବିଶୋୟୀ",
+            "ଦୋରା ବିଶୋୟୀ",
+            "ରେଣ୍ଡୋ ମାଝି",
+            "ଲକ୍ଷ୍ମଣ ନାୟକ"
+          ],
+          "explanation": "୧୮୩୫-୧୮୩୭ ମସିହାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ଘୁମୁସର ବିଦ୍ରୋହର ପ୍ରଥମ ପର୍ଯ୍ୟାୟର ନେତୃତ୍ୱ କନ୍ଧ ନେତା ଦୋରା ବିଶୋୟୀ ନେଇଥିଲେ।"
         }
       }
     }

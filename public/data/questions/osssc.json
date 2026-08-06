@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -8267,6 +8267,234 @@
             "୧୯୪୪"
           ],
           "explanation": "୧୯୪୨ ମସିହା ସେପ୍ଟେମ୍ବର ୨୮ ତାରିଖରେ ଭଦ୍ରକ ଜିଲ୍ଲାର ଇରମ୍ ଗ୍ରାମରେ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀଙ୍କ ଏକ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସମାବେଶ ଉପରେ ବ୍ରିଟିଶ ପୋଲିସ ଗୁଳିଚାଳନା କରିଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ପ୍ରାଣ ହରାଇଥିଲେ। ଏହି ଘଟଣାକୁ 'ଇରମ୍ ଗୁଳିକାଣ୍ଡ' କିମ୍ବା 'ରକ୍ତ ତୀର୍ଥ' କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988258876-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A shopkeeper marks an article 30% above its cost price and offers a discount of 15% on the marked price. What is his net gain percentage?",
+      "options": [
+        "10.5%",
+        "12.5%",
+        "15.0%",
+        "8.5%"
+      ],
+      "answer": 0,
+      "explanation": "Let the cost price (CP) = Rs. 100. Then the marked price (MP) = 100 + 30% of 100 = Rs. 130. Discount = 15% of 130 = Rs. 19.50. Selling Price (SP) = 130 - 19.50 = Rs. 110.50. Net gain percentage = SP - CP = 110.50 - 100 = 10.5%.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଦୋକାନୀ ଏକ ସାମଗ୍ରୀର ମୂଲ୍ୟ ତାହାର କିଣାଦାମ (Cost Price) ଠାରୁ 30% ଅଧିକ ଧାର୍ଯ୍ୟ କରନ୍ତି ଏବଂ ଧାର୍ଯ୍ୟ ମୂଲ୍ୟ ଉପରେ 15% ଛାଡ଼ (Discount) ଦିଅନ୍ତି। ତାଙ୍କର ନିଟ୍ ଲାଭ ଶତକଡ଼ା କେତେ?",
+          "options": [
+            "10.5%",
+            "12.5%",
+            "15.0%",
+            "8.5%"
+          ],
+          "explanation": "ମନେକର କିଣାଦାମ (CP) = 100 ଟଙ୍କା। ଧାର୍ଯ୍ୟ ମୂଲ୍ୟ (MP) = 130 ଟଙ୍କା। ଛାଡ଼ = 130 ର 15% = 19.50 ଟଙ୍କା। ବିକ୍ରି ମୂଲ୍ୟ (SP) = 130 - 19.50 = 110.50 ଟଙ୍କା। ଲାଭ ଶତକଡ଼ା = 110.50 - 100 = 10.5%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988258876-1",
+      "section": "Arithmetic",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A container holds a mixture of two liquids, A and B, in the ratio 7 : 5. When 9 liters of mixture are drawn off and the container is filled with liquid B, the ratio of A and B becomes 7 : 9. How many liters of liquid A was contained by the vessel initially?",
+      "options": [
+        "21 liters",
+        "25 liters",
+        "36 liters",
+        "14 liters"
+      ],
+      "answer": 0,
+      "explanation": "Let the initial quantity of A = 7x and B = 5x liters. When 9 liters of mixture is removed, quantity of A removed = 9 * (7/12) = 21/4 liters, and B removed = 9 * (5/12) = 15/4 liters. Now 9 liters of B is added. New quantity of A = 7x - 21/4 and B = (5x - 15/4) + 9 = 5x + 21/4. Given ratio: (7x - 21/4) / (5x + 21/4) = 7/9. Dividing both numerators by 7: (x - 3/4) / (5x + 21/4) = 1/9 => 9x - 27/4 = 5x + 21/4 => 4x = 48/4 = 12 => x = 3. Initial quantity of A = 7 * 3 = 21 liters.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ପାତ୍ରରେ A ଏବଂ B ନାମକ ଦୁଇଟି ତରଳ ପଦାର୍ଥ 7 : 5 ଅନୁପାତରେ ମିଶି ରହିଛି। ଯଦି ସେଥିରୁ 9 ଲିଟର ମିଶ୍ରଣ କାଢ଼ି ନିଆଯାଏ ଏବଂ ପାତ୍ରଟିକୁ ତରଳ B ଦ୍ଵାରା ପୂର୍ଣ୍ଣ କରାଯାଏ, ତେବେ A ଏବଂ B ର ଅନୁପାତ 7 : 9 ହୋଇଯାଏ। ପ୍ରାରମ୍ଭରେ ପାତ୍ରରେ କେତେ ଲିଟର A ତରଳ ଥିଲା?",
+          "options": [
+            "21 ଲିଟର",
+            "25 ଲିଟର",
+            "36 ଲିଟର",
+            "14 ଲିଟର"
+          ],
+          "explanation": "ମନେକର ପ୍ରାରମ୍ଭରେ A = 7x ଏବଂ B = 5x ଲିଟର। 9 ଲିଟର ମିଶ୍ରଣ ବାହାର କରିବା ପରେ, ବାହାରିଥିବା A = 9 * (7/12) = 21/4 ଲିଟର, ଏବଂ B = 9 * (5/12) = 15/4 ଲିଟର। ପୁନଶ୍ଚ 9 ଲିଟର B ମିଶାଯିବା ପରେ: ନୂତନ ଅନୁପାତ (7x - 21/4) / (5x + 21/4) = 7/9 => 9(x - 3/4) = 5x + 21/4 => 9x - 27/4 = 5x + 21/4 => 4x = 12 => x = 3। ପ୍ରାରମ୍ଭରେ A ର ପରିମାଣ = 7 * 3 = 21 ଲିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988267525-0",
+      "section": "Reasoning",
+      "topic": "Number Analogy",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the option that is related to the third number in the same way as the second number is related to the first number: 13 : 182 :: 17 : ?",
+      "options": [
+        "289",
+        "306",
+        "323",
+        "272"
+      ],
+      "answer": 1,
+      "explanation": "The pattern followed is n : n × (n + 1). For 13, 13 × 14 = 182. Similarly, for 17, 17 × 18 = 306.",
+      "translations": {
+        "or": {
+          "question": "ସେହି ବିକଳ୍ପଟିକୁ ଚୟନ କରନ୍ତୁ ଯାହା ତୃତୀୟ ସଂଖ୍ୟା ସହିତ ସମାନ ଭାବରେ ସମ୍ପର୍କିତ, ଯେପରି ଦ୍ୱିତୀୟ ସଂଖ୍ୟାଟି ପ୍ରଥମ ସଂଖ୍ୟା ସହିତ ସମ୍ପର୍କିତ: 13 : 182 :: 17 : ?",
+          "options": [
+            "289",
+            "306",
+            "323",
+            "272"
+          ],
+          "explanation": "ଏଠାରେ ଅନୁସରଣ କରାଯାଇଥିବା ପ୍ୟାଟର୍ନ ହେଉଛି n : n × (n + 1) । 13 ପାଇଁ, 13 × 14 = 182 । ସେହିପରି, 17 ପାଇଁ, 17 × 18 = 306 ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988267525-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pointing to a photograph, a woman said, 'He is the only son of the wife of my father's only son.' How is the person in the photograph related to the woman?",
+      "options": [
+        "Son",
+        "Nephew",
+        "Brother",
+        "Grandson"
+      ],
+      "answer": 1,
+      "explanation": "'My father's only son' refers to the woman's brother. The wife of her brother is her sister-in-law. The only son of her sister-in-law (and brother) is her nephew. Thus, the person in the photograph is her nephew.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଫୋଟୋଚିତ୍ରକୁ ଦେଖାଇ ଜଣେ ମହିଳା କହିଲେ, 'ସେ ମୋ ବାପାଙ୍କ ଏକମାତ୍ର ପୁଅଙ୍କ ସ୍ତ୍ରୀଙ୍କ ଏକମାତ୍ର ପୁଅ ।' ଫୋଟୋଚିତ୍ରରେ ଥିବା ବ୍ୟକ୍ତି ଜଣକ ମହିଳାଙ୍କର କିଏ ହେବେ?",
+          "options": [
+            "ପୁଅ",
+            "ପୁତୁରା / ଭାଣେଜ",
+            "ଭାଇ",
+            "ନାତି"
+          ],
+          "explanation": "'ମୋ ବାପାଙ୍କ ଏକମାତ୍ର ପୁଅ' ଅର୍ଥାତ୍ ମହିଳାଙ୍କ ଭାଇ । ଭାଇଙ୍କ ସ୍ତ୍ରୀ ହେଉଛନ୍ତି ଭାଉଜ । ଭାଉଜ (ଏବଂ ଭାଇ)ଙ୍କ ଏକମାତ୍ର ପୁଅ ହେଉଛନ୍ତି ମହିଳାଙ୍କ ପୁତୁରା/ଭାଣେଜ । ତେଣୁ, ଫୋଟୋଚିତ୍ରର ବ୍ୟକ୍ତି ଜଣକ ମହିଳାଙ୍କର ପୁତୁରା/ଭାଣେଜ ଅଟନ୍ତି ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988283758-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Modern History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following established the iconic 'Satyabadi Bana Vidyalaya' at Sakshigopal in 1909?",
+      "options": [
+        "Utkalmani Gopabandhu Das",
+        "Madhusudan Das",
+        "Pandit Nilakantha Das",
+        "Godabarish Mishra"
+      ],
+      "answer": 0,
+      "explanation": "Utkalmani Gopabandhu Das established the open-air school 'Satyabadi Bana Vidyalaya' at Sakshigopal in Puri district in 1909 to promote nationalistic education.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୯ ମସିହାରେ ସାକ୍ଷୀଗୋପାଳଠାରେ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ",
+            "ମଧୁସୂଦନ ଦାସ",
+            "ପଣ୍ଡିତ ନୀଳକଣ୍ଠ ଦାସ",
+            "ଗୋଦାବରୀଶ ମିଶ୍ର"
+          ],
+          "explanation": "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ ୧୯୦୯ ମସିହାରେ ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ଜାତୀୟତାବାଦୀ ଶିକ୍ଷାର ପ୍ରସାର ପାଇଁ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988283758-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Freedom Movement",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The historic Paika Rebellion (Paika Bidroha) of 1817 against the British East India Company was led by whom?",
+      "options": [
+        "Laxman Nayak",
+        "Bakshi Jagabandhu",
+        "Veer Surendra Sai",
+        "Chakra Bisoi"
+      ],
+      "answer": 1,
+      "explanation": "Bakshi Jagabandhu (Jagabandhu Bidyadhara Mohapatra Bhramarabar Raya), the military commander of the King of Khordha, led the historic Paika Rebellion in 1817 against British colonial rule.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୧୭ ମସିହାରେ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୋଧରେ ସଂଗଠିତ ଐତିହାସିକ 'ପାଇକ ବିଦ୍ରୋହ'ର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ବକ୍ସି ଜଗବନ୍ଧୁ",
+            "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ",
+            "ଚକ୍ର ବିଷୋୟୀ"
+          ],
+          "explanation": "ଖୋର୍ଦ୍ଧା ରାଜାଙ୍କ ସେନାପତି ବକ୍ସି ଜଗବନ୍ଧୁ (ଜଗବନ୍ଧୁ ବିଦ୍ୟାଧର ମହାପାତ୍ର ଭ୍ରମରବର ରାୟ) ୧୮୧୭ ମସିହାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ଐତିହାସିକ ପାଇକ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988294915-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following is the largest freshwater lake in Odisha, formed as an oxbow lake by the Mahanadi River?",
+      "options": [
+        "Chilika Lake",
+        "Ansupa Lake",
+        "Kanjia Lake",
+        "Tampara Lake"
+      ],
+      "answer": 1,
+      "explanation": "Ansupa Lake, located in the Banki sub-division of Cuttack district, is a famous horseshoe-shaped (oxbow) freshwater lake formed by the Mahanadi River.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ମହାନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟ ଓଡ଼ିଶାର ସବୁଠାରୁ ବଡ଼ ମଧୁର ଜଳ (ଅଶ୍ୱଖୁରାକୃତି) ହ୍ରଦ?",
+          "options": [
+            "ଚିଲିକା ହ୍ରଦ",
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "କାଞ୍ଜିଆ ହ୍ରଦ",
+            "ତାମ୍ପରା ହ୍ରଦ"
+          ],
+          "explanation": "କଟକ ଜିଲ୍ଲାର ବାଙ୍କୀ ଉପଖଣ୍ଡରେ ଅବସ୍ଥିତ ଅଂଶୁପା ହ୍ରଦ ହେଉଛି ମହାନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା ଏକ ପ୍ରସିଦ୍ଧ ଅଶ୍ୱଖୁରାକୃତି ମଧୁର ଜଳ ହ୍ରଦ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1785988294915-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Modern History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who served as the President of the Talcher Praja Mandal during the anti-feudal movement of 1938-39 in Odisha?",
+      "options": [
+        "Pabitra Mohan Pradhan",
+        "Sarangadhar Das",
+        "Biren Mitra",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 0,
+      "explanation": "Pabitra Mohan Pradhan was the President of the Talcher Praja Mandal formed in September 1938. He led the historic mass migration ('Hijrat') of thousands of villagers to fight against the tyrannical rule of the Talcher feudatory king.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୮-୩୯ ମସିହାରେ ଓଡ଼ିଶାରେ ସାମନ୍ତବାଦ-ବିରୋଧୀ ଆନ୍ଦୋଳନ ସମୟରେ ତାଳଚେର ପ୍ରଜା ମଣ୍ଡଳର ସଭାପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ପବିତ୍ର ମୋହନ ପ୍ରଧାନ",
+            "ସାରଙ୍ଗଧର ଦାସ",
+            "ବିରେନ ମିତ୍ର",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "୧୯୩୮ ସେପ୍ଟେମ୍ବରରେ ଗଠିତ ତାଳଚେର ପ୍ରଜା ମଣ୍ଡଳର ସଭାପତି ପବିତ୍ର ମୋହନ ପ୍ରଧାନ ଥିଲେ। ସେ ତାଳଚେର ଗଡ଼ଜାତର ଦମନମୂଳକ ଶାସନ ବିରୋଧରେ ସହସ୍ରାଧିକ ପ୍ରଜାଙ୍କ 'ହିଜରତ' (ଗ୍ରାମ ତ୍ୟାଗ) ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
         }
       }
     }
