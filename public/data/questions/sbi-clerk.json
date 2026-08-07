@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -7109,6 +7109,136 @@
       ],
       "answer": 3,
       "explanation": "According to the Sovereign Gold Bond scheme rules, the maximum subscription limit per fiscal year (April-March) is 4 kg for individuals, 4 kg for Hindu Undivided Families (HUFs), and 20 kg for Trusts and similar entities as notified by the government.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786073160350-0",
+      "section": "Quant",
+      "topic": "Quadratic Equations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, two equations I and II are given. Solve both equations and select the correct relationship between x and y.\nI. x² - 13x + 40 = 0\nII. y² - 17y + 72 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y"
+      ],
+      "answer": 3,
+      "explanation": "Solving Equation I: x² - 13x + 40 = 0 ⇒ (x - 5)(x - 8) = 0 ⇒ x = 5, 8.\nSolving Equation II: y² - 17y + 72 = 0 ⇒ (y - 8)(y - 9) = 0 ⇒ y = 8, 9.\nComparing values of x and y:\nFor x = 5: y = 8 (x < y) and y = 9 (x < y)\nFor x = 8: y = 8 (x = y) and y = 9 (x < y)\nHence, x ≤ y."
+    },
+    {
+      "id": "sbi-clerk-ai-1786073160350-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat can travel 36 km downstream and 24 km upstream in 6 hours. The same boat can travel 48 km downstream and 36 km upstream in 8.5 hours. What is the speed of the boat in still water?",
+      "options": [
+        "8 km/h",
+        "10 km/h",
+        "12 km/h",
+        "14 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let downstream speed be D km/h and upstream speed be U km/h.\nFrom the given conditions:\n1) (36/D) + (24/U) = 6 ⇒ (6/D) + (4/U) = 1\n2) (48/D) + (36/U) = 8.5\n\nMultiplying equation (1) by 18 gives: (108/D) + (72/U) = 18\nMultiplying equation (2) by 2 gives: (96/D) + (72/U) = 17\nSubtracting these equations: 12/D = 1 ⇒ D = 12 km/h.\n\nSubstituting D = 12 into (1):\n(6/12) + (4/U) = 1 ⇒ 0.5 + (4/U) = 1 ⇒ 4/U = 0.5 ⇒ U = 8 km/h.\n\nSpeed of the boat in still water = (D + U) / 2 = (12 + 8) / 2 = 10 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1786073171819-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'MONKEY' is written as 'XDJMNL'. How will 'TIGER' be written in that same code language?",
+      "options": [
+        "QDFHS",
+        "SDFHQ",
+        "QDHFS",
+        "QEFHS"
+      ],
+      "answer": 0,
+      "explanation": "Each letter of the word is shifted one step backward (-1 in alphabetical order) and then the result is written in reverse order:\n'MONKEY' -> M-1=L, O-1=N, N-1=M, K-1=J, E-1=D, Y-1=X. Reversed: XDJMNL.\nApplying the same logic to 'TIGER': T-1=S, I-1=H, G-1=F, E-1=D, R-1=Q. Reversed: QDFHS."
+    },
+    {
+      "id": "sbi-clerk-ai-1786073171819-1",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statements: P ≥ Q = R > S; T < R ≤ U\nConclusions:\nI. P ≥ T\nII. U > S\n\nWhich of the given conclusions logically follows from the statements?",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "Combining the relations: P ≥ Q = R > T and U ≥ R > S.\nFor Conclusion I: Since P ≥ R and R > T, we get P > T. Hence, 'P ≥ T' is not definitely true.\nFor Conclusion II: Since U ≥ R and R > S, we get U > S, which is definitely true.\nTherefore, only conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1786073209802-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the option that best expresses the meaning of the idiom 'to burn the candle at both ends' as used in professional contexts.",
+      "options": [
+        "To spend money recklessly on unnecessary luxury items",
+        "To work late into the night and wake up early to continue working",
+        "To incite conflict or argument between two opposing parties",
+        "To manage two separate businesses simultaneously without assistance"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'to burn the candle at both ends' means to exhaust oneself by overworking, specifically by staying up late and getting up early to work."
+    },
+    {
+      "id": "sbi-clerk-ai-1786073209802-1",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Arrange the following fragments (P, Q, R, S) to form a coherent and grammatically correct sentence:\n\nP: causing widespread disruption in urban commute\nQ: after a heavy downpour inundated the low-lying areas\nR: the city's main public transportation system came to a complete halt\nS: for nearly six hours yesterday morning",
+      "options": [
+        "RQSP",
+        "QRSP",
+        "SQRP",
+        "PQSR"
+      ],
+      "answer": 1,
+      "explanation": "The correct sequence is QRSP: 'After a heavy downpour inundated the low-lying areas (Q), the city's main public transportation system came to a complete halt (R) for nearly six hours yesterday morning (S), causing widespread disruption in urban commute (P).'"
+    },
+    {
+      "id": "sbi-clerk-ai-1786073218565-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Instruments",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following is the interest rate at which the Reserve Bank of India (RBI) lends money to commercial banks for short-term periods against approved government securities?",
+      "options": [
+        "Bank Rate",
+        "Repo Rate",
+        "Reverse Repo Rate",
+        "Marginal Standing Facility Rate"
+      ],
+      "answer": 1,
+      "explanation": "Repo Rate (Repurchase Option) is the rate at which the RBI lends money to commercial banks against short-term government securities to meet their immediate liquidity needs.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786073218565-1",
+      "section": "General Awareness",
+      "topic": "Digital Lending Guidelines",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "As per the RBI Guidelines on Digital Lending issued in 2022, what is the minimum cooling-off/look-up period that Regulated Entities must mandate for borrowers to exit a digital loan without paying a penalty for loans having a tenure of 7 days or more?",
+      "options": [
+        "1 day",
+        "3 days",
+        "5 days",
+        "7 days"
+      ],
+      "answer": 1,
+      "explanation": "Under the RBI's Digital Lending Framework (2022), a mandatory cooling-off/look-up period of not less than 3 days must be provided for digital loans with a tenure of 7 days or more, allowing borrowers to exit by paying only the principal and proportionate Annual Percentage Rate (APR).",
       "status": "pending"
     }
   ]

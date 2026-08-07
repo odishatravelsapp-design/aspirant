@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -6914,6 +6914,136 @@
       ],
       "answer": 1,
       "explanation": "The IMF Executive Board decided to include the Chinese Renminbi (RMB) in the SDR basket in November 2015. The decision officially took effect on October 1, 2016, making it the fifth currency in the basket alongside the US Dollar, Euro, Japanese Yen, and British Pound.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786073232808-0",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A sum of money invested at compound interest, compounded annually, amounts to Rs. 4,840 in 2 years and Rs. 5,324 in 3 years. What is the principal sum?",
+      "options": [
+        "Rs. 3,600",
+        "Rs. 4,000",
+        "Rs. 4,200",
+        "Rs. 4,500"
+      ],
+      "answer": 1,
+      "explanation": "Interest earned in the 3rd year = Rs. 5,324 - Rs. 4,840 = Rs. 484. The rate of interest R = (484 / 4840) * 100 = 10% per annum. Using A = P(1 + R/100)^2: 4840 = P(1 + 10/100)^2 = P * 1.21. Therefore, Principal P = 4840 / 1.21 = Rs. 4,000."
+    },
+    {
+      "id": "ibps-po-ai-1786073232808-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a task together in 10 days. A and B together are twice as efficient as C, while B and C together are thrice as efficient as A. In how many days can B alone complete the entire task?",
+      "options": [
+        "20 days",
+        "24 days",
+        "30 days",
+        "36 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total efficiency of A + B + C = E. Efficiency of C = E / 3 (since A + B = 2C). Efficiency of A = E / 4 (since B + C = 3A). Therefore, Efficiency of B = E - (E/3 + E/4) = 5E / 12. Total work = 10 * E. Time taken by B alone = Total Work / Efficiency of B = (10E) / (5E / 12) = 24 days."
+    },
+    {
+      "id": "ibps-po-ai-1786073248096-0",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the following statement and answer the question that follows:\n\nStatement: The Municipal Corporation of City X has decided to completely ban single-use plastic bags starting next month and impose heavy fines on violators in order to drastically reduce the city's urban solid waste.\n\nWhich of the following statements, if true, most seriously weakens the Municipal Corporation's rationale that this move will drastically reduce urban solid waste?",
+      "options": [
+        "Alternative biodegradable bags currently cost 15% more than standard single-use plastic bags.",
+        "Non-plastic waste, such as food debris and construction materials, constitutes over 98% of the total urban solid waste in City X.",
+        "Several neighboring municipalities have failed to enforce similar bans on plastic bags effectively.",
+        "A survey indicates that local shopkeepers are planning to protest against the heavy fines."
+      ],
+      "answer": 1,
+      "explanation": "If non-plastic waste constitutes over 98% of the total urban solid waste, plastic bags make up less than 2%. Banning them will have a negligible impact on the overall waste quantity, thereby directly weakening the claim that the move will drastically reduce the city's solid waste."
+    },
+    {
+      "id": "ibps-po-ai-1786073248096-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following symbols carefully:\n'P # Q' means 'P is the mother of Q'\n'P $ Q' means 'P is the father of Q'\n'P % Q' means 'P is the sister of Q'\n'P @ Q' means 'P is the brother of Q'\n'P & Q' means 'P is the son of Q'\n\nWhich of the following expressions correctly represents that 'K is the paternal grandfather of T'?",
+      "options": [
+        "K # M $ T @ R",
+        "K $ M $ T @ R",
+        "K $ M # T & R",
+        "K @ M $ T # R"
+      ],
+      "answer": 1,
+      "explanation": "In 'K $ M $ T @ R': 'K $ M' means K is the father of M. 'M $ T' means M is the father of T. 'T @ R' means T is the brother of R. Since M is the father of T, and K is the father of M (a male), K is the father's father, which means K is the paternal grandfather of T."
+    },
+    {
+      "id": "ibps-po-ai-1786073257471-0",
+      "section": "English",
+      "topic": "Double Blanks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that best fits in the blanks to make the sentence contextually and grammatically coherent:\n\nThe diplomat's _______ negotiations successfully prevented an escalation of hostilities, proving that a nuanced approach can often _______ even the most entrenched international disputes.",
+      "options": [
+        "adroit, defuse",
+        "clumsy, aggravate",
+        "inept, mitigate",
+        "dexterous, exacerbate"
+      ],
+      "answer": 0,
+      "explanation": "'Adroit' (skillful/clever) fits the first blank appropriately describing successful negotiations, while 'defuse' (reduce tension or danger) correctly completes the second blank regarding entrenched disputes."
+    },
+    {
+      "id": "ibps-po-ai-1786073257471-1",
+      "section": "English",
+      "topic": "Paragraph Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the sentence that logically completes the given paragraph:\n\nArtificial Intelligence is rapidly reshaping the landscape of modern medicine, from accelerating drug discovery to enabling precision diagnostics. However, the integration of algorithmic decision-making in clinical settings raises profound ethical concerns, particularly regarding algorithmic bias and data privacy. ________. Consequently, medical institutions must establish robust regulatory frameworks before fully delegating diagnostic responsibilities to AI systems.",
+      "options": [
+        "Without rigorous oversight, these technological interventions risk exacerbating existing disparities in healthcare access and quality.",
+        "Consequently, pharmaceutical companies have reported unprecedented profits due to automated clinical trials.",
+        "Furthermore, patients generally prefer human doctors regardless of the speed or accuracy of AI diagnostics.",
+        "Patients are increasingly demanding that their personal medical records be uploaded to public repositories for research."
+      ],
+      "answer": 0,
+      "explanation": "Option A logically bridges the gap between the ethical concerns (bias and privacy) mentioned prior and the concluding need for 'robust regulatory frameworks' mentioned in the subsequent sentence."
+    },
+    {
+      "id": "ibps-po-ai-1786073270320-0",
+      "section": "General Awareness",
+      "topic": "Payment Banks Framework",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines issued in April 2021, what is the maximum end-of-the-day balance limit permitted per individual customer for Payment Banks?",
+      "options": [
+        "₹1 lakh",
+        "₹2 lakh",
+        "₹3 lakh",
+        "₹5 lakh"
+      ],
+      "answer": 1,
+      "explanation": "In April 2021, the Reserve Bank of India enhanced the maximum end-of-the-day balance limit for Payment Banks from ₹1 lakh to ₹2 lakh per individual customer to foster financial inclusion.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786073270320-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India (RBI) to issue binding directions to banking companies in the public interest or to safeguard depositors' interests?",
+      "options": [
+        "Section 21",
+        "Section 35A",
+        "Section 42",
+        "Section 45"
+      ],
+      "answer": 1,
+      "explanation": "Section 35A of the Banking Regulation Act, 1949 gives the RBI comprehensive powers to issue directions to banking institutions in the public interest or to prevent the affairs of any bank from being conducted in a manner detrimental to depositors.",
       "status": "pending"
     }
   ]

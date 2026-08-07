@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7492,6 +7492,136 @@
       ],
       "answer": 1,
       "explanation": "In April 2021, the Reserve Bank of India (RBI) enhanced the maximum end-of-day balance limit for Payments Banks from ₹1 lakh to ₹2 lakh per individual customer to further financial inclusion and cater to customer needs.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786073059835-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of ₹8,000 earns a simple interest of ₹2,880 at a rate of 12% per annum. For how many years was the sum invested?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "2.5 years"
+      ],
+      "answer": 1,
+      "explanation": "Simple Interest (SI) = (P × R × T) / 100\n2880 = (8000 × 12 × T) / 100\n2880 = 960 × T\nT = 2880 / 960 = 3 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1786073059835-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B started a business with initial investments in the ratio 3 : 5. After 4 months, C joined them with an investment equal to the average of A's and B's initial investments. After 8 months from the start of the business, A increased his investment by 50% and B withdrew 20% of his investment. If the total annual profit was ₹32,500, find C's share of the profit.",
+      "options": [
+        "₹7,500",
+        "₹8,000",
+        "₹8,500",
+        "₹9,000"
+      ],
+      "answer": 1,
+      "explanation": "Let initial investments of A and B be 3x and 5x respectively.\nC's investment = (3x + 5x) / 2 = 4x.\n\nEquivalent investment ratio for 12 months:\nFor A: (3x × 8) + (3x × 1.5 × 4) = 24x + 18x = 42x\nFor B: (5x × 8) + (5x × 0.8 × 4) = 40x + 16x = 56x\nFor C: (4x × 8) = 32x\n\nProfit Ratio (A : B : C) = 42 : 56 : 32 = 21 : 28 : 16\nTotal ratio units = 21 + 28 + 16 = 65\n\nC's share = (16 / 65) × ₹32,500 = 16 × ₹500 = ₹8,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1786073113410-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'MARKET' is coded as 'NZSJFS'. How will 'SYSTEM' be coded in that language?",
+      "options": [
+        "TXTSFL",
+        "TXTRFL",
+        "TYTSFL",
+        "UXTSFL"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed is alternating addition and subtraction of 1 to the position of each letter: M (+1) = N, A (-1) = Z, R (+1) = S, K (-1) = J, E (+1) = F, T (-1) = S. Applying the same rule to SYSTEM: S (+1) = T, Y (-1) = X, S (+1) = T, T (-1) = S, E (+1) = F, M (-1) = L. Hence, the code is TXTSFL."
+    },
+    {
+      "id": "ibps-clerk-ai-1786073113410-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statements:\nAll chairs are tables.\nOnly a few tables are desks.\nNo desk is a bench.\n\nConclusions:\nI. Some chairs being desks is a possibility.\nII. All tables being benches is a possibility.\n\nWhich of the following conclusions logically follows?",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few tables are desks' implies that some tables are desks. Since no desk is a bench, the tables that are desks can never be benches. Thus, 'All tables being benches is a possibility' is false (Conclusion II fails).\n2. There is no direct negative relation between chairs and desks, so chairs can overlap with desks without violating any statement. Thus, 'Some chairs being desks is a possibility' is true (Conclusion I follows)."
+    },
+    {
+      "id": "ibps-clerk-ai-1786073123453-0",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Rearrange the given fragments (P, Q, R, S) in the correct sequence to form a coherent and meaningful sentence:\n\nP: towards sustainable development goals\nQ: the government has launched\nR: to ensure economic growth\nS: several new welfare schemes",
+      "options": [
+        "QSRP",
+        "SQPR",
+        "PQRS",
+        "RQPS"
+      ],
+      "answer": 0,
+      "explanation": "The proper subject-verb structure begins with Q ('the government has launched'), followed by the object S ('several new welfare schemes'), the objective phrase R ('to ensure economic growth'), and the qualifying prepositional phrase P ('towards sustainable development goals'). Thus, the correct order is QSRP."
+    },
+    {
+      "id": "ibps-clerk-ai-1786073123453-1",
+      "section": "English",
+      "topic": "Paragraph Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the sentence that logically completes the given short passage:\n\nIn recent years, central banks across the globe have hiked interest rates rapidly to tame persistent inflation. While these measures aim to stabilize prices, they also run the risk of dampening consumer spending and triggering an economic slowdown. _________",
+      "options": [
+        "Therefore, policymakers must carefully balance price stability with economic growth to avoid a severe recession.",
+        "As a result, inflation has dropped to zero instantly across all major developing economies.",
+        "Consequently, commercial banks have stopped offering loans to retail customers altogether.",
+        "Nevertheless, interest rate cuts always lead to immediate spikes in national savings rates."
+      ],
+      "answer": 0,
+      "explanation": "The passage outlines a delicate dilemma faced by central banks: controlling inflation versus preventing a recession. Option A logically concludes the passage by highlighting the need for policymakers to balance these competing priorities. Options B, C, and D contain illogical or extreme assertions."
+    },
+    {
+      "id": "ibps-clerk-ai-1786073133530-0",
+      "section": "General Awareness",
+      "topic": "Banking History",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which year was the Reserve Bank of India (RBI) nationalised?",
+      "options": [
+        "1935",
+        "1947",
+        "1949",
+        "1956"
+      ],
+      "answer": 2,
+      "explanation": "The Reserve Bank of India (RBI), which commenced operations on April 1, 1935, was nationalised on January 1, 1949, on the basis of the Reserve Bank of India (Transfer to Public Ownership) Act, 1948.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786073133530-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which section of the Reserve Bank of India (RBI) Act, 1934, empowers the RBI to mandate the Cash Reserve Ratio (CRR) for scheduled commercial banks?",
+      "options": [
+        "Section 17",
+        "Section 42(1)",
+        "Section 22",
+        "Section 24"
+      ],
+      "answer": 1,
+      "explanation": "Under Section 42(1) of the Reserve Bank of India Act, 1934, every scheduled commercial bank is required to maintain a Cash Reserve Ratio (CRR) with the RBI as a average daily balance percentage of its Net Demand and Time Liabilities (NDTL).",
       "status": "pending"
     }
   ]

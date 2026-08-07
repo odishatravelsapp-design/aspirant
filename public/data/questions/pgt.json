@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -7919,6 +7919,176 @@
             "ଶଚୀନ୍ଦ୍ର ନାଥ ସାନ୍ୟାଲ"
           ],
           "explanation": "ମାର୍ଚ୍ଚ ୧୯୦୨ରେ କୋଲକାତାରେ ପ୍ରମଥନାଥ ମିତ୍ର (ପି. ମିତ୍ର) ଜତୀନ୍ଦ୍ରନାଥ ବାନାର୍ଜୀ, ବାରୀନ୍ଦ୍ର କୁମାର ଘୋଷ ଏବଂ ସତୀଶ ଚନ୍ଦ୍ର ବସୁଙ୍କ ସହିତ 'ଅନୁଶୀଳନ ସମିତି' ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ପ୍ରମଥନାଥ ମିତ୍ର ଏହାର ପ୍ରଥମ ସଭାପତି ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786073604352-0",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Development Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Jean Piaget's theory of cognitive development, during which stage does a child typically develop the concept of 'Object Permanence'?",
+      "options": [
+        "Sensorimotor Stage",
+        "Preoperational Stage",
+        "Concrete Operational Stage",
+        "Formal Operational Stage"
+      ],
+      "answer": 0,
+      "explanation": "Object permanence is the understanding that objects continue to exist even when they cannot be observed. According to Jean Piaget, children develop this understanding during the Sensorimotor Stage (birth to approximately 2 years of age).",
+      "translations": {
+        "or": {
+          "question": "ଜାଁ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁସାରେ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଶିଶୁ ସାଧାରଣତଃ 'ବସ୍ତୁ ସ୍ଥାୟିତ୍ୱ' (Object Permanence) ର ଧାରଣା ବିକଶିତ କରିଥାଏ?",
+          "options": [
+            "ସେନ୍ସୋରୀମୋଟର ପର୍ଯ୍ୟାୟ (Sensorimotor Stage)",
+            "ପ୍ରାକ୍-କାର୍ଯ୍ୟକାରୀ ପର୍ଯ୍ୟାୟ (Preoperational Stage)",
+            "ମୂର୍ତ୍ତ-କାର୍ଯ୍ୟକାରୀ ପର୍ଯ୍ୟାୟ (Concrete Operational Stage)",
+            "ଐପଚାରିକ-କାର୍ଯ୍ୟକାରୀ ପର୍ଯ୍ୟାୟ (Formal Operational Stage)"
+          ],
+          "explanation": "ବସ୍ତୁ ସ୍ଥାୟିତ୍ୱ (Object Permanence) ହେଉଛି ଏପରି ଏକ ବୁଝାମଣା ଯେଉଁଥିରେ ବସ୍ତୁ ଦୃଶ୍ୟମାନ ନ ହେଲେ ମଧ୍ୟ ତାହାର ଅସ୍ତିତ୍ୱ ଥାଏ। ପିଆଜେଙ୍କ ଅନୁସାରେ, ଶିଶୁମାନେ ସେନ୍ସୋରୀମୋଟର ପର୍ଯ୍ୟାୟ (ଜନ୍ମରୁ ପ୍ରାୟ ୨ ବର୍ଷ) ମଧ୍ୟରେ ଏହି ଧାରଣା ହାସଲ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786073604352-1",
+      "section": "Teaching Aptitude",
+      "topic": "Instructional Media and Technology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Edgar Dale's 'Cone of Experience', which of the following learning experiences provides the highest level of directness and retention?",
+      "options": [
+        "Watching an educational demonstration",
+        "Participating in a direct, purposeful hands-on experience",
+        "Viewing static visual symbols and diagrams",
+        "Listening to a verbal lecture"
+      ],
+      "answer": 1,
+      "explanation": "Edgar Dale's Cone of Experience places 'Direct Purposeful Experiences' at the base of the cone, representing first-hand experiences that engage multiple senses and result in the highest rate of learning retention (around 90%).",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର ଡେଲଙ୍କ 'କୋନ୍ ଅଫ୍ ଏକ୍ସପେରିଏନ୍ସ' (Cone of Experience) ଅନୁସାରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶିକ୍ଷଣ ଅନୁଭୂତି ସବୁଠାରୁ ଅଧିକ ପ୍ରତ୍ୟକ୍ଷତା ଏବଂ ମନେରଖିବା କ୍ଷମତା ପ୍ରଦାନ କରିଥାଏ?",
+          "options": [
+            "ଏକ ଶିକ୍ଷାଗତ ପ୍ରଦର୍ଶନୀ ଦେଖିବା",
+            "ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟମୂଳକ ବାସ୍ତବ ଅନୁଭୂତିରେ ଅଂଶଗ୍ରହଣ କରିବା",
+            "ସ୍ଥିର ଦୃଶ୍ୟ ପ୍ରତୀକ ଏବଂ ଡାୟାଗ୍ରାମ୍ ଦେଖିବା",
+            "ଏକ ମୌଖିକ ବକ୍ତୃତା ଶୁଣିବା"
+          ],
+          "explanation": "ଏଡଗାର ଡେଲଙ୍କ 'କୋନ୍ ଅଫ୍ ଏକ୍ସପେରିଏନ୍ସ' ର ଭିତ୍ତିଭୂମିରେ 'ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅନୁଭୂତି' ରହିଥାଏ, ଯାହା ପ୍ରତ୍ୟକ୍ଷ ବାସ୍ତବ ଅନୁଭବ ପ୍ରଦାନ କରିବା ସହ ସବୁଠାରୁ ଅଧିକ (ପ୍ରାୟ ୯୦%) ମନେରଖିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786073772308-0",
+      "section": "Subject Knowledge",
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Debye-Hückel-Onsager equation, how does the molar conductivity (\\Lambda_m) of a strong electrolyte vary with its concentration (c)?",
+      "options": [
+        "\\Lambda_m = \\Lambda_m^\\circ - A \\sqrt{c}",
+        "\\Lambda_m = \\Lambda_m^\\circ + A \\sqrt{c}",
+        "\\Lambda_m = \\Lambda_m^\\circ - A c^2",
+        "\\Lambda_m = \\Lambda_m^\\circ / \\sqrt{c}"
+      ],
+      "answer": 0,
+      "explanation": "The Debye-Hückel-Onsager equation relates the molar conductivity (\\Lambda_m) of a strong electrolyte to its concentration (c) as \\Lambda_m = \\Lambda_m^\\circ - A \\sqrt{c}, where \\Lambda_m^\\circ$ is the limiting molar conductivity and A is a constant that depends on solvent properties and temperature.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଡେବାଇ-ହକେଲ-ଓନସାଗର (Debye-Hückel-Onsager) ସମୀକରଣ ଅନୁସାରେ, ଏକ ସବଳ ଇଲେକ୍ଟ୍ରୋଲାଇଟର ମୋଲାର ପରିବାହିତା (\\Lambda_m) ଏହାର ଗାଢ଼ତା (c) ସହିତ କିପରି ପରିବର୍ତ୍ତିତ ହୁଏ?",
+          "options": [
+            "\\Lambda_m = \\Lambda_m^\\circ - A \\sqrt{c}",
+            "\\Lambda_m = \\Lambda_m^\\circ + A \\sqrt{c}",
+            "\\Lambda_m = \\Lambda_m^\\circ - A c^2",
+            "\\Lambda_m = \\Lambda_m^\\circ / \\sqrt{c}"
+          ],
+          "explanation": "ସବଳ ଇଲେକ୍ଟ୍ରୋଲାଇଟ୍ ପାଇଁ ଡେବାଇ-ହକେଲ-ଓନସାଗର ସମୀକରଣ ହେଉଛି \\Lambda_m = \\Lambda_m^\\circ - A \\sqrt{c}, ଯେଉଁଠାରେ \\Lambda_m^\\circ ହେଉଛି ସୀମାନ୍ତ ମୋଲାର ପରିବାହିତା, c ହେଉଛି ଗାଢ଼ତା ଏବଂ A ହେଉଛି ଦ୍ରାବକର ଗୁଣ ଏବଂ ତାପମାତ୍ରା ଉପରେ ନିର୍ଭର କରୁଥିବା ଏକ ସ୍ଥିରାଙ୍କ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786073772308-1",
+      "section": "Subject Knowledge",
+      "topic": "Organometallic Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the primary product formed when ferrocene reacts with acetyl chloride in a 1:1 molar ratio in the presence of anhydrous aluminium chloride (AlCl3)?",
+      "options": [
+        "Acetylferrocene",
+        "1,1'-Diacetylferrocene",
+        "1,2-Diacetylferrocene",
+        "Ferrocenecarboxylic acid"
+      ],
+      "answer": 0,
+      "explanation": "When ferrocene undergoes Friedel-Crafts acylation with acetyl chloride and anhydrous AlCl3 in a 1:1 molar ratio, electrophilic aromatic substitution occurs on one cyclopentadienyl ring to yield acetylferrocene (monoacetylferrocene) as the major product.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଅନାର୍ଦ୍ର ଆଲୁମିନିୟମ କ୍ଲୋରାଇଡ (AlCl3) ର ଉପସ୍ଥିତିରେ ଫେରୋସିନ୍ 1:1 ମୋଲାର ଅନୁପାତରେ ଏସେଟିଲ କ୍ଲୋରାଇଡ ସହିତ ପ୍ରତିକ୍ରିୟା କଲେ ମୁଖ୍ୟତଃ କେଉଁ ଉତ୍ପାଦ ଗଠିତ ହୁଏ?",
+          "options": [
+            "ଏସେଟିଲଫେରୋସିନ୍ (Acetylferrocene)",
+            "1,1'-ଡାଇଏସେଟିଲଫେରୋସିନ୍ (1,1'-Diacetylferrocene)",
+            "1,2-ଡାଇଏସେଟିଲଫେରୋସିନ୍ (1,2-Diacetylferrocene)",
+            "ଫେରୋସିନକାର୍ବୋକ୍ସିଲିକ୍ ଏସିଡ୍ (Ferrocenecarboxylic acid)"
+          ],
+          "explanation": "ଯେତେବେଳେ ଫେରୋସିନ୍‌କୁ 1:1 ମୋଲାର ଅନୁପାତରେ ଏସେଟିଲ କ୍ଲୋରାଇଡ୍ ଏବଂ ଅନାର୍ଦ୍ର AlCl3 ସହିତ ଫ୍ରାଇଡେଲ-କ୍ରାଫ୍ଟସ ଏସିଲେସନ୍ କରାଯାଏ, ଏହା ଇଲେକ୍ଟ୍ରୋଫିଲିକ୍ ଆରୋମାଟିକ୍ ପ୍ରତିସ୍ଥାପନ ପ୍ରକ୍ରିୟା ଦେଇ ଗତି କରି ମୁଖ୍ୟ ଉତ୍ପାଦ ଭାବରେ ଏସେଟିଲଫେରୋସିନ୍ (ମୋନୋଏସେଟିଲଫେରୋସିନ୍) ପ୍ରଦାନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786073787859-0",
+      "section": "Child Development",
+      "topic": "Language Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Noam Chomsky's theory of language acquisition, what innate biological mechanism enables human children to naturally acquire language and comprehend its universal grammar?",
+      "options": [
+        "Zone of Proximal Development",
+        "Language Acquisition Device",
+        "Sensory Register",
+        "Symbolic Schema"
+      ],
+      "answer": 1,
+      "explanation": "Noam Chomsky proposed that human children are born with a Language Acquisition Device (LAD), an innate biological capacity that allows them to effortlessly acquire language and extract grammatical rules from their environment.",
+      "translations": {
+        "or": {
+          "question": "ନୋଆମ୍ ଚୋମ୍ସ୍କିଙ୍କ (Noam Chomsky) ଭାଷା ଅଧିଗ୍ରହଣ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, କେଉଁ ସହଜାତ ଜୈବିକ ପ୍ରକ୍ରିୟା ମାନବ ଶିଶୁମାନଙ୍କୁ ସ୍ଵାଭାବିକ ଭାବରେ ଭାଷା ଶିଖିବା ଏବଂ ଏହାର ସାର୍ବଜନୀନ ବ୍ୟାକରଣ ବୁଝିବାରେ ସାହାଯ୍ୟ କରେ?",
+          "options": [
+            "ସମୀପସ୍ଥ ବିକାଶର କ୍ଷେତ୍ର (Zone of Proximal Development)",
+            "ଲାଙ୍ଗୁଏଜ୍ ଏକ୍ୟୁଜିସନ୍ ଡିଭାଇସ୍ (Language Acquisition Device)",
+            "ସେନ୍ସରୀ ରେଜିଷ୍ଟର (Sensory Register)",
+            "ସିମ୍ବୋଲିକ୍ ସ୍କିମା (Symbolic Schema)"
+          ],
+          "explanation": "ନୋଆମ୍ ଚୋମ୍ସ୍କି ପ୍ରସ୍ତାବ ଦେଇଥିଲେ ଯେ ମାନବ ଶିଶୁମାନେ 'ଲାଙ୍ଗୁଏଜ୍ ଏକ୍ୟୁଜିସନ୍ ଡିଭାଇସ୍' (LAD) ସହିତ ଜନ୍ମଗ୍ରହଣ କରନ୍ତି, ଯାହା ଏକ ସହଜାତ ଜୈବିକ ପ୍ରକ୍ରିୟା ଅଟେ ଏବଂ ଏହା ସେମାନଙ୍କୁ ସ୍ଵାଭାବିକ ଭାବରେ ଭାଷା ଶିଖିବାରେ ଏବଂ ବ୍ୟାକରଣଗତ ନିୟମଗୁଡ଼ିକୁ ସହଜରେ ଗ୍ରହଣ କରିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786073787859-1",
+      "section": "Child Development",
+      "topic": "Behavioral Genetics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Sandra Scarr and Kathleen McCartney's theory of genotype-environment effects, which type of gene-environment correlation occurs when a child's inherited characteristics elicit specific environmental responses from caregivers and peers?",
+      "options": [
+        "Passive genotype-environment correlation",
+        "Evocative genotype-environment correlation",
+        "Active genotype-environment correlation",
+        "Epigenetic genotype-environment correlation"
+      ],
+      "answer": 1,
+      "explanation": "Evocative (or reactive) genotype-environment correlation occurs when a child's genetically influenced characteristics (such as a cheerful temperament or high intelligence) evoke specific reactions and social responses from individuals in their environment.",
+      "translations": {
+        "or": {
+          "question": "ସାଣ୍ଡ୍ରା ସ୍କାର୍ (Sandra Scarr) ଏବଂ କ୍ୟାଥଲିନ୍ ମ୍ୟାକକାର୍ଟନିଙ୍କ (Kathleen McCartney) ଜେନୋଟାଇପ୍-ପରିବେଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, କେଉଁ ପ୍ରକାରର ଜିନ୍-ପରିବେଶ ସମ୍ବନ୍ଧ ସେତେବେଳେ ଘଟିଥାଏ ଯେତେବେଳେ ଜଣେ ଶିଶୁର ଆନୁବଂଶିକ ଲକ୍ଷଣ ପିତାମାତା, ଶିକ୍ଷକ କିମ୍ବା ସାଥୀମାନଙ୍କଠାରୁ ନିର୍ଦ୍ଦିଷ୍ଟ ପ୍ରତିକ୍ରିୟା ସୃଷ୍ଟି କରିଥାଏ?",
+          "options": [
+            "ପାସିଭ୍ (Passive) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ",
+            "ଇଭୋକେଟିଭ୍ (Evocative) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ",
+            "ଆକ୍ଟିଭ୍ (Active) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ",
+            "ଏପିଜେନେଟିକ୍ (Epigenetic) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ"
+          ],
+          "explanation": "ଇଭୋକେଟିଭ୍ (Evocative) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ ସେତେବେଳେ ଘଟିଥାଏ ଯେତେବେଳେ ଜଣେ ଶିଶୁର ଆନୁବଂଶିକ ଲକ୍ଷଣ (ଯେପରିକି ହସଖୁସି ସ୍ଵଭାବ କିମ୍ବା ଉଚ୍ଚ ବୁଦ୍ଧିମତ୍ତା) ପରିବେଶର ଅନ୍ୟ ବ୍ୟକ୍ତିମାନଙ୍କଠାରୁ ନିର୍ଦ୍ଦିଷ୍ଟ ପ୍ରତିକ୍ରିୟା ଏବଂ ସାମାଜିକ ସହଯୋଗ ଆକର୍ଷିତ କରିଥାଏ।"
         }
       }
     }

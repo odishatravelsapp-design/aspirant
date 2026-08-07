@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -8495,6 +8495,234 @@
             "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
           ],
           "explanation": "୧୯୩୮ ସେପ୍ଟେମ୍ବରରେ ଗଠିତ ତାଳଚେର ପ୍ରଜା ମଣ୍ଡଳର ସଭାପତି ପବିତ୍ର ମୋହନ ପ୍ରଧାନ ଥିଲେ। ସେ ତାଳଚେର ଗଡ଼ଜାତର ଦମନମୂଳକ ଶାସନ ବିରୋଧରେ ସହସ୍ରାଧିକ ପ୍ରଜାଙ୍କ 'ହିଜରତ' (ଗ୍ରାମ ତ୍ୟାଗ) ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073290737-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "By selling an article for Rs. 720, a shopkeeper suffers a loss of 10%. At what price should he sell it to gain 20%?",
+      "options": [
+        "Rs. 900",
+        "Rs. 920",
+        "Rs. 960",
+        "Rs. 980"
+      ],
+      "answer": 2,
+      "explanation": "Cost Price (CP) = 720 / (1 - 0.10) = 720 / 0.90 = Rs. 800. To gain 20%, Selling Price (SP) = CP × (1 + 0.20) = 800 × 1.20 = Rs. 960.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ସାମଗ୍ରୀକୁ ୭୨୦ ଟଙ୍କାରେ ବିକ୍ରି କରିବା ଦ୍ୱାରା ଜଣେ ଦୋକାନୀ ୧୦% କ୍ଷତି ସହନ୍ତି। ୨୦% ଲାଭ ପାଇବା ପାଇଁ ସେ ଏହାକୁ କେତେ ଟଙ୍କାରେ ବିକ୍ରି କରିବା ଉଚିତ୍?",
+          "options": [
+            "୯୦୦ ଟଙ୍କା",
+            "୯୨୦ ଟଙ୍କା",
+            "୯୬୦ ଟଙ୍କା",
+            "୯୮୦ ଟଙ୍କା"
+          ],
+          "explanation": "କ୍ରୟ ମୂଲ୍ୟ (CP) = ୭୨୦ / (୧ - ୦.୧୦) = ୭୨୦ / ୦.୯୦ = ୮୦୦ ଟଙ୍କା। ୨୦% ଲାଭ ପାଇବା ପାଇଁ ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = ୮୦୦ × ୧.୨୦ = ୯୬୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073290737-1",
+      "section": "Arithmetic",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C enter into a partnership. A invests Rs. 12,000 for 6 months, B invests Rs. 16,000 for 9 months, and C invests Rs. 15,000 for 12 months. Out of the total annual profit of Rs. 99,000, A receives 10% as a managing fee for running the business. The remaining profit is distributed among them in proportion to their equivalent investments. What is C's share of the profit?",
+      "options": [
+        "Rs. 32,400",
+        "Rs. 40,500",
+        "Rs. 26,100",
+        "Rs. 36,000"
+      ],
+      "answer": 1,
+      "explanation": "Managing fee for A = 10% of Rs. 99,000 = Rs. 9,900. Remaining profit = 99,000 - 9,900 = Rs. 89,100. Ratio of investments = (12,000 × 6) : (16,000 × 9) : (15,000 × 12) = 72,000 : 144,000 : 180,000 = 2 : 4 : 5. Total ratio parts = 2 + 4 + 5 = 11. C's share = (5 / 11) × 89,100 = Rs. 40,500.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଗୋଟିଏ ଭାଗୀଦାରୀ ବ୍ୟବସାୟ ଆରମ୍ଭ କରନ୍ତି। A ୬ ମାସ ପାଇଁ ୧୨,୦୦୦ ଟଙ୍କା, B ୯ ମାସ ପାଇଁ ୧୬,୦୦୦ ଟଙ୍କା ଏବଂ C ୧୨ ମାସ ପାଇଁ ୧୫,୦୦୦ ଟଙ୍କା ନିବେଶ କରନ୍ତି। ମୋଟ ବାର୍ଷିକ ଲାଭ ୯୯,୦୦୦ ଟଙ୍କାରୁ, A ବ୍ୟବସାୟ ପରିଚାଳନା ଫି ଭାବରେ ୧୦% ପାଆନ୍ତି। ଅବଶିଷ୍ଟ ଲାଭ ସେମାନଙ୍କର ସମତୁଲ୍ୟ ନିବେଶ ଅନୁପାତରେ ବଣ୍ଟନ କରାଯାଏ। C ର ଲାଭର ଅଂଶ କେତେ?",
+          "options": [
+            "୩୨,୪୦୦ ଟଙ୍କା",
+            "୪୦,୫୦୦ ଟଙ୍କା",
+            "୨୬,୧୦୦ ଟଙ୍କା",
+            "୩୬,୦୦୦ ଟଙ୍କା"
+          ],
+          "explanation": "A ଙ୍କ ପରିଚାଳନା ଫି = ୯୯,୦୦୦ ର ୧୦% = ୯,୯୦୦ ଟଙ୍କା। ଅବଶିଷ୍ଟ ଲାଭ = ୯୯,୦୦୦ - ୯,୯୦୦ = ୮୯,୧୦୦ ଟଙ୍କା। ନିବେଶର ଅନୁପାତ = (୧୨,୦୦୦ × ୬) : (୧୬,୦୦୦ × ୯) : (୧୫,୦୦୦ × ୧୨) = ୭୨,୦୦୦ : ୧୪୪,୦୦୦ : ୧୮୦,୦୦୦ = ୨ : ୪ : ୫। ମୋଟ ଅନୁପାତ ଅଂଶ = ୨ + ୪ + ୫ = ୧୧। C ର ଅଂଶ = (୫ / ୧୧) × ୮୯,୧୦୦ = ୪୦,୫୦୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073301196-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the number that can replace the question mark (?) in the following series: 7, 13, 25, 49, 97, ?",
+      "options": [
+        "193",
+        "195",
+        "191",
+        "185"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed in the series is: multiplying the previous number by 2 and subtracting 1. (7 × 2) - 1 = 13; (13 × 2) - 1 = 25; (25 × 2) - 1 = 49; (49 × 2) - 1 = 97; (97 × 2) - 1 = 193.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଶ୍ରେଣୀରେ ପ୍ରଶ୍ନବାଚୀ ଚିହ୍ନ (?) ସ୍ଥାନରେ ଆସିପାରୁଥିବା ସଂଖ୍ୟାଟି ବାଛନ୍ତୁ: ୭, ୧୩, ୨୫, ୪୯, ୯୭, ?",
+          "options": [
+            "୧୯୩",
+            "୧୯୫",
+            "୧୯୧",
+            "୧୮୫"
+          ],
+          "explanation": "ଏହି ଶ୍ରେଣୀରେ ଅନୁସରଣ କରାଯାଇଥିବା ସୂତ୍ରଟି ହେଉଛି: ପୂର୍ବବର୍ତ୍ତୀ ସଂଖ୍ୟାକୁ ୨ ଦ୍ୱାରା ଗୁଣନ କରି ୧ ବିୟୋଗ କରିବା। (୭ × ୨) - ୧ = ୧୩; (୧୩ × ୨) - ୧ = ୨୫; (୨୫ × ୨) - ୧ = ୪୯; (୪୯ × ୨) - ୧ = ୯୭; (୯୭ × ୨) - ୧ = ୧୯୩।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073301196-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "If 'A + B' means 'A is the father of B', 'A - B' means 'A is the sister of B', 'A * B' means 'A is the brother of B', and 'A ÷ B' means 'A is the mother of B', then which of the following expressions shows that 'P is the paternal aunt of R'?",
+      "options": [
+        "P - Q + R",
+        "P + Q - R",
+        "P ÷ Q * R",
+        "P * Q + R"
+      ],
+      "answer": 0,
+      "explanation": "In expression 'P - Q + R': 'P - Q' implies P is the sister of Q, and 'Q + R' implies Q is the father of R. Since P is the sister of R's father (Q), P is the paternal aunt of R.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି 'A + B' ର ଅର୍ଥ 'A ହେଉଛନ୍ତି B ର ପିତା', 'A - B' ର ଅର୍ଥ 'A ହେଉଛନ୍ତି B ର ଭଉଣୀ', 'A * B' ର ଅର୍ଥ 'A ହେଉଛନ୍ତି B ର ଭାଇ', ଏବଂ 'A ÷ B' ର ଅର୍ଥ 'A ହେଉଛନ୍ତି B ର ମାତା', ତେବେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପ୍ରକାଶନଟି ଦର୍ଶାଏ ଯେ 'P ହେଉଛନ୍ତି R ର ପିଉସୀ'?",
+          "options": [
+            "P - Q + R",
+            "P + Q - R",
+            "P ÷ Q * R",
+            "P * Q + R"
+          ],
+          "explanation": "'P - Q + R' ପ୍ରକାଶନରେ: 'P - Q' ର ଅର୍ଥ P ହେଉଛନ୍ତି Q ର ଭଉଣୀ, ଏବଂ 'Q + R' ର ଅର୍ଥ Q ହେଉଛନ୍ତି R ର ପିତା। P, R ଙ୍କ ପିତା (Q) ଙ୍କ ଭଉଣୀ ହୋଇଥିବାରୁ, P ହେଉଛନ୍ତି R ଙ୍କ ପିଉସୀ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073312710-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which lake in Odisha was designated as the first Indian wetland of international importance under the Ramsar Convention in 1981?",
+      "options": [
+        "Ansupa Lake",
+        "Tampara Lake",
+        "Chilika Lake",
+        "Kanjia Lake"
+      ],
+      "answer": 2,
+      "explanation": "Chilika Lake was designated as the first Indian wetland of international importance under the Ramsar Convention in 1981, alongside Keoladeo National Park in Rajasthan.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୮୧ ମସିହାରେ ରାମସର ସମ୍ମିଳନୀ ଅଧୀନରେ ଅନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆର୍ଦ୍ରଭୂମି ଭାବରେ ଓଡ଼ିଶାର କେଉଁ ହ୍ରଦକୁ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ତାମ୍ପରା ହ୍ରଦ",
+            "ଚିଲିକା ହ୍ରଦ",
+            "କାଞ୍ଜିଆ ହ୍ରଦ"
+          ],
+          "explanation": "ରାଜସ୍ଥାନର କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ୧୯୮୧ ମସିହାରେ ଚିଲିକା ହ୍ରଦକୁ ରାମସର ସମ୍ମିଳନୀ ଅଧୀନରେ ଅନ୍ତର୍ଜାତୀୟ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଥମ ଭାରତୀୟ ଆର୍ଦ୍ରଭୂମି ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073312710-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Modern History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the key leader who organized the revolt of the Dhenkanal Praja Mandal in 1938 against the oppressive princely ruler?",
+      "options": [
+        "Baji Rout",
+        "Sarangadhar Das",
+        "Vaishnab Charan Patnaik",
+        "Pabitra Mohan Pradhan"
+      ],
+      "answer": 2,
+      "explanation": "Vaishnab Charan Patnaik was the primary leader who organized and spearheaded the Dhenkanal Praja Mandal movement in 1938 against the oppressive rule of King Shankar Pratap Singh Deo.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୮ ମସିହାରେ ଦମନକାରୀ ରାଜଶାସନ ବିରୋଧରେ ଢେଙ୍କାନାଳ ପ୍ରଜାମଣ୍ଡଳ ବିଦ୍ରୋହ ସଂଗଠିତ କରିଥିବା ପ୍ରମୁଖ ନେତା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ଥିଲେ?",
+          "options": [
+            "ବାଜି ରାଉତ",
+            "ସାରଙ୍ଗଧର ଦାସ",
+            "ବୈଷ୍ଣବ ଚରଣ ପଟ୍ଟନାୟକ",
+            "ପବିତ୍ର ମୋହନ ପ୍ରଧାନ"
+          ],
+          "explanation": "ରାଜା ଶଙ୍କର ପ୍ରତାପ ସିଂହ ଦେଓଙ୍କ ଅତ୍ୟାଚାରୀ ଶାସନ ବିରୋଧରେ ୧୯୩୮ ମସିହାରେ ଢେଙ୍କାନାଳ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନକୁ ବୈଷ୍ଣବ ଚରଣ ପଟ୍ଟନାୟକ ସଂଗଠିତ ଓ ପରିଚାଳିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073330309-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Tarabalo, famous for having one of the largest clusters of natural hot sulphur springs in Odisha, is located in which district?",
+      "options": [
+        "Ganjam",
+        "Nayagarh",
+        "Khordha",
+        "Angul"
+      ],
+      "answer": 1,
+      "explanation": "Tarabalo hot spring is located in the Nayagarh district of Odisha. It spans across a large area and is considered one of the state's largest hot spring clusters. In comparison, Taptapani is in Ganjam, Atri is in Khordha, and Deulajhari is in Angul.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଅନ୍ୟତମ ବୃହତ୍ତମ ପ୍ରାକୃତିକ ଉଷ୍ଣପ୍ରସ୍ରବଣ ଗୋଷ୍ଠୀ ପାଇଁ ପ୍ରସିଦ୍ଧ 'ତାରାବଲୋ' କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଗଞ୍ଜାମ",
+            "ନୟାଗଡ଼",
+            "ଖୋର୍ଦ୍ଧା",
+            "ଅନୁଗୋଳ"
+          ],
+          "explanation": "ତାରାବଲୋ ଉଷ୍ଣପ୍ରସ୍ରବଣ ଓଡ଼ିଶାର ନୟାଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଏହା ରାଜ୍ୟର ଅନ୍ୟତମ ବୃହତ୍ତମ ଉଷ୍ଣପ୍ରସ୍ରବଣ କ୍ଷେତ୍ର ଭାବରେ ଜଣାଶୁଣା। ଅନ୍ୟପକ୍ଷରେ, ତପ୍ତପାଣି ଗଞ୍ଜାମରେ, ଅଟ୍ରି ଖୋର୍ଦ୍ଧାରେ ଏବଂ ଦେଉଳଝରୀ ଅନୁଗୋଳ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786073330309-1",
+      "section": "Odisha GK",
+      "topic": "History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the founder of the Bhoi dynasty in Odisha, establishing his rule in 1541 CE after usurping the Gajapati throne?",
+      "options": [
+        "Govinda Vidyadhara",
+        "Chakrapratap",
+        "Mukunda Deva",
+        "Narasimha Jena"
+      ],
+      "answer": 0,
+      "explanation": "Govinda Vidyadhara, who served as a minister under the Suryavamsi Gajapati ruler Prataparudra Deva, usurped the throne by killing the weak Suryavamsi successors in 1541 CE and founded the Bhoi dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଗଜପତି ସିଂହାସନ କବଜା କରି ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠା କିଏ କରିଥିଲେ?",
+          "options": [
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ଚକ୍ରପ୍ରତାପ",
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "ନରସିଂହ ଜେନା"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜା ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ମନ୍ତ୍ରୀ ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଶେଷ ସୂର୍ଯ୍ୟବଂଶୀ ଉତ୍ତରାଧିକାରୀଙ୍କୁ ହତ୍ୟା କରି ସିଂହାସନ ଅଧିକାର କରିଥିଲେ ଏବଂ ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
         }
       }
     }

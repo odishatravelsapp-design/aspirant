@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -10894,6 +10894,234 @@
             "ଲକ୍ଷ୍ମଣ ନାୟକ"
           ],
           "explanation": "୧୮୩୫-୧୮୩୭ ମସିହାରେ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ଘୁମୁସର ବିଦ୍ରୋହର ପ୍ରଥମ ପର୍ଯ୍ୟାୟର ନେତୃତ୍ୱ କନ୍ଧ ନେତା ଦୋରା ବିଶୋୟୀ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073348097-0",
+      "section": "Subject Knowledge",
+      "topic": "Restoration Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Restoration comedy by William Congreve features the famous 'proviso scene' between the characters Mirabell and Millamant?",
+      "options": [
+        "The Country Wife",
+        "The Way of the World",
+        "The Rover",
+        "The Man of Mode"
+      ],
+      "answer": 1,
+      "explanation": "William Congreve's Restoration comedy 'The Way of the World' (1700) features the celebrated 'proviso scene' in Act IV, where Mirabell and Millamant bargain and set premarital terms and conditions before agreeing to marry.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ କନ୍‌ଗ୍ରୀଭ୍‌ଙ୍କ ଦ୍ୱାରା ଲିଖିତ କେଉଁ ରେଷ୍ଟୋରେସନ୍ ହାସ୍ୟରସାତ୍ମକ ନାଟକରେ ମିରାବେଲ୍ ଏବଂ ମିଲାମାଣ୍ଟ ଚରିତ୍ର ଦ୍ୱୟଙ୍କ ମଧ୍ୟରେ ପ୍ରସିଦ୍ଧ 'ପ୍ରୋଭିଜୋ ସିନ୍' (proviso scene) ରହିଛି?",
+          "options": [
+            "ଦ କଣ୍ଟ୍ରି ୱାଇଫ୍ (The Country Wife)",
+            "ଦ ୱେ ଅଫ୍ ଦ ୱାର୍ଲ୍ଡ (The Way of the World)",
+            "ଦ ରୋଭର (The Rover)",
+            "ଦ ମ୍ୟାନ୍ ଅଫ୍ ମୋଡ୍ (The Man of Mode)"
+          ],
+          "explanation": "ୱିଲିୟମ୍ କନ୍‌ଗ୍ରୀଭ୍‌ଙ୍କ ୧୭୦୦ ମସିହାର ନାଟକ 'ଦ ୱେ ଅଫ୍ ଦ ୱାର୍ଲ୍ଡ' ର ଚତୁର୍ଥ ଅଙ୍କରେ ମିରାବେଲ୍ ଏବଂ ମିଲାମାଣ୍ଟଙ୍କ ମଧ୍ୟରେ ପ୍ରସିଦ୍ଧ 'ପ୍ରୋଭିଜୋ ସିନ୍' ଦେଖିବାକୁ ମିଳେ, ଯେଉଁଥିରେ ସେମାନେ ବିବାହ ପୂର୍ବରୁ ନିଜ ନିଜର ସର୍ତ୍ତାବଳୀ ନିର୍ଦ୍ଧାରଣ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073348097-1",
+      "section": "Subject Knowledge",
+      "topic": "Renaissance Literary Criticism",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Sir Philip Sidney's critical treatise 'An Apology for Poetry' (1595), into which three general categories does he divide poets?",
+      "options": [
+        "Divine poets, Philosophical poets, and Right poets",
+        "Epic poets, Lyric poets, and Dramatic poets",
+        "Historical poets, Moral poets, and Natural poets",
+        "Pastoral poets, Satirical poets, and Heroic poets"
+      ],
+      "answer": 0,
+      "explanation": "In 'An Apology for Poetry' (or 'The Defence of Poesy'), Sir Philip Sidney categorizes poets into three kinds: Divine poets (who imitate God, like David in the Psalms), Philosophical poets (who write on matters of philosophy or history), and 'Right poets' (the true poets who teach and delight through pure creative imagination).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସର୍ ଫିଲିପ୍ ସିଡ୍ନୀଙ୍କ ସମାଲୋଚନାତ୍ମକ ଗ୍ରନ୍ଥ 'ଆନ୍ ଅପୋଲୋଜି ଫର୍ ପୋଏଟ୍ରି' (୧୫୯୫) ରେ, ସେ କବିମାନଙ୍କୁ କେଉଁ ତିନୋଟି ମୁଖ୍ୟ ଶ୍ରେଣୀରେ ବିଭକ୍ତ କରିଛନ୍ତି?",
+          "options": [
+            "ଦିବ୍ୟ କବି, ଦାର୍ଶନିକ କବି, ଏବଂ ପ୍ରକୃତ କବି (Divine, Philosophical, and Right poets)",
+            "ମହାକାବ୍ୟିକ, ଗୀତିକାବ୍ୟିକ, ଏବଂ ନାଟକୀୟ କବି (Epic, Lyric, and Dramatic poets)",
+            "ଐତିହାସିକ, ନୈତିକ, ଏବଂ ପ୍ରାକୃତିକ କବି (Historical, Moral, and Natural poets)",
+            "ପ୍ରାନ୍ତୀୟ, ବ୍ୟଙ୍ଗାତ୍ମକ, ଏବଂ ବୀରରସାତ୍ମକ କବି (Pastoral, Satirical, and Heroic poets)"
+          ],
+          "explanation": "'ଆନ୍ ଅପୋଲୋଜି ଫର୍ ପୋଏଟ୍ରି' ରେ, ସର୍ ଫିଲିପ୍ ସିଡ୍ନୀ କବିମାନଙ୍କୁ ତିନି ଭାଗରେ ବିଭକ୍ତ କରିଛନ୍ତି: ୧) ଦିବ୍ୟ କବି (ଯେଉଁମାନେ ଈଶ୍ୱରଙ୍କର ମହିମା ଗାନ କରନ୍ତି), ୨) ଦାର୍ଶନିକ କବି (ଯେଉଁମାନେ ଦର୍ଶନ କିମ୍ବା ଇତିହାସ ବିଷୟରେ ଲେଖନ୍ତି), ଏବଂ ୩) 'ପ୍ରକୃତ କବି' (Right poets - ଯେଉଁମାନେ ନିଜର ସୃଜନଶୀଳ କଳ୍ପନା ଦ୍ୱାରା ଶିକ୍ଷା ଓ ଆନନ୍ଦ ପ୍ରଦାନ କରନ୍ତି)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073478076-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching - Ausubel's Advance Organizer",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to David Ausubel's theory of meaningful verbal learning, which type of advance organizer is specifically designed to be used when the new instructional material is completely unfamiliar to the learner?",
+      "options": [
+        "Comparative advance organizer",
+        "Expository advance organizer",
+        "Narrative advance organizer",
+        "Graphic advance organizer"
+      ],
+      "answer": 1,
+      "explanation": "David Ausubel identified two primary types of advance organizers: Expository and Comparative. Expository organizers are used when the new material is completely unfamiliar, providing a broad conceptual framework to anchor the new information.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ ଅର୍ଥପୂର୍ଣ୍ଣ ଶାବ୍ଦିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ନୂତନ ଶିକ୍ଷାଦାନ ସାମଗ୍ରୀ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଅପରିଚିତ ଥିବା ସମୟରେ କେଉଁ ପ୍ରକାରର ଆଡଭାନ୍ସ ଓର୍ଗାନାଇଜର (Advance Organizer) ବ୍ୟବହାର କରାଯାଏ?",
+          "options": [
+            "ତୁଳନାତ୍ମକ ଆଡଭାନ୍ସ ଓର୍ଗାନାଇଜର (Comparative advance organizer)",
+            "ବ୍ୟାଖ୍ୟାତ୍ମକ ଆଡଭାନ୍ସ ଓର୍ଗାନାଇଜର (Expository advance organizer)",
+            "ନାରେଟିଭ୍ ଆଡଭାନ୍ସ ଓର୍ଗାନାଇଜର (Narrative advance organizer)",
+            "ଗ୍ରାଫିକ୍ ଆଡଭାନ୍ସ ଓର୍ଗାନାଇଜର (Graphic advance organizer)"
+          ],
+          "explanation": "ଆସୁବେଲଙ୍କ ଅନୁଯାୟୀ, ବ୍ୟାଖ୍ୟାତ୍ମକ ଆଡଭାନ୍ସ ଓର୍ଗାନାଇଜର (Expository advance organizer) ସେତେବେଳେ ବ୍ୟବହୃତ ହୁଏ ଯେତେବେଳେ ନୂତନ ବିଷୟବସ୍ତୁ ଶିକ୍ଷାର୍ଥୀଙ୍କ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ନୂଆ ବା ଅପରିଚିତ ହୋଇଥାଏ। ଏହା ମୁଖ୍ୟ ଧାରଣାଗୁଡ଼ିକର ଏକ ବ୍ୟାପକ ରୂପରେଖ ପ୍ରଦାନ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073478076-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching - Gordon's Synectics Model",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In William J. J. Gordon's 'Synectics' model of teaching, which metaphoric operational mechanism requires learners to identify emotionally and intellectually with an element or object of the problem under study?",
+      "options": [
+        "Direct Analogy",
+        "Personal Analogy",
+        "Symbolic Analogy",
+        "Compressed Conflict"
+      ],
+      "answer": 1,
+      "explanation": "In Gordon's Synectics Model, 'Personal Analogy' requires the learner to empathize and identify with the object or concept being studied (e.g., imagining oneself as a heart valve or an atom), bridging the gap between familiar and unfamiliar concepts to foster creativity.",
+      "translations": {
+        "or": {
+          "question": "ୱିଲିୟମ୍ ଜେ. ଜେ. ଗୋର୍ଡନଙ୍କ 'ସାଇନେକ୍ଟିକ୍ସ' (Synectics) ଶିକ୍ଷାଦାନ ମଡେଲରେ, କେଉଁ ରୂପକ (Metaphoric) କୌଶଳଟି ଶିକ୍ଷାର୍ଥୀମାନଙ୍କୁ ସମସ୍ୟାର ଏକ ଉପାଦାନ ବା ବସ୍ତୁ ସହିତ ଭାବନାତ୍ମକ ଏବଂ ବୌଦ୍ଧିକ ସ୍ତରରେ ନିଜକୁ ଯୋଡ଼ିବାକୁ (ତଦାତ୍ମ୍ୟ ସ୍ଥାପନ କରିବାକୁ) ଆବଶ୍ୟକ କରେ?",
+          "options": [
+            "ପ୍ରତ୍ୟକ୍ଷ ସାଦୃଶ୍ୟ (Direct Analogy)",
+            "ବ୍ୟକ୍ତିଗତ ସାଦୃଶ୍ୟ (Personal Analogy)",
+            "ପ୍ରତୀକାତ୍ମକ ସାଦୃଶ୍ୟ (Symbolic Analogy)",
+            "ସଂକୁଚିତ ଦ୍ୱନ୍ଦ୍ୱ (Compressed Conflict)"
+          ],
+          "explanation": "'ସାଇନେକ୍ଟିକ୍ସ' ମଡେଲରେ, ବ୍ୟକ୍ତିଗତ ସାଦୃଶ୍ୟ (Personal Analogy) କୌଶଳରେ ଶିକ୍ଷାର୍ଥୀମାନେ ନିଜକୁ କୌଣସି ଅପ୍ରାଣୀ ବସ୍ତୁ ବା ସମସ୍ୟାର ଏକ ଉପାଦାନ ଭାବରେ କଳ୍ପନା କରି ସେହି ଅନୁଭୂତିକୁ ପ୍ରକାଶ କରନ୍ତି, ଯାହା ସୃଜନଶୀଳ ଚିନ୍ତନକୁ ବୃଦ୍ଧି କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073536954-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Deomali, the highest mountain peak in Odisha, is located in which of the following districts?",
+      "options": [
+        "Rayagada",
+        "Koraput",
+        "Kandhamal",
+        "Gajapati"
+      ],
+      "answer": 1,
+      "explanation": "Deomali, situated in the Koraput district of Odisha, is the highest peak in the state with an elevation of approximately 1,672 metres above sea level.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ସବୁଠାରୁ ଉଚ୍ଚତମ ପର୍ବତ ଶୃଙ୍ଗ 'ଦେଓମାଳୀ' ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ରାୟଗଡ଼ା",
+            "କୋରାପୁଟ",
+            "କନ୍ଧମାଳ",
+            "ଗଜପତି"
+          ],
+          "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଦେଓମାଳୀ ହେଉଛି ଓଡ଼ିଶାର ସବୁଠାରୁ ଉଚ୍ଚତମ ପର୍ବତ ଶୃଙ୍ଗ, ଯାହାର ଉଚ୍ଚତା ସମୁଦ୍ର ପତ୍ତନରୁ ପ୍ରାୟ ୧,୬୭୨ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073536954-1",
+      "section": "General Studies",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the founder of the Suryavamsi Gajapati Dynasty in Odisha, establishing his rule in 1435 CE after the fall of the Eastern Ganga Dynasty?",
+      "options": [
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Kapilendra Deva",
+        "Govinda Vidyadhara"
+      ],
+      "answer": 2,
+      "explanation": "Kapilendra Deva founded the Suryavamsi Gajapati Dynasty in 1435 CE following the decline of the Eastern Ganga Dynasty under Bhanudeva IV.",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ପତନ ପରେ ୧୪୩୫ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଶାସନ ପ୍ରତିଷ୍ଠା କରି ଓଡ଼ିଶାରେ ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି රාଜବଂଶର ପ୍ରତିଷ୍ଠାତା କିଏ ଥିଲେ?",
+          "options": [
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର"
+          ],
+          "explanation": "କପିଳେନ୍ଦ୍ର ଦେବ ୧୪୩୫ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି රාଜବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ସେ ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ଶେଷ ରଜା ଭାନୁଦେବ ଚତୁର୍ଥଙ୍କ ପରେ ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073590211-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Architecture & Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The iconic Sun Temple of Konark was originally constructed near the mouth of which river?",
+      "options": [
+        "Baitarani River",
+        "Chandrabhaga River",
+        "Daya River",
+        "Rushikulya River"
+      ],
+      "answer": 1,
+      "explanation": "The Sun Temple at Konark was built in the 13th century by King Narasimhadeva I of the Eastern Ganga Dynasty on the banks of the Chandrabhaga River, near where it originally met the Bay of Bengal.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରସିଦ୍ଧ କୋଣାର୍କ ସୂର୍ଯ୍ୟ ମନ୍ଦିର ମୂଳତଃ କେଉଁ ନଦୀର ମୁହାଣ ନିକଟରେ ନିର୍ମିତ ହୋଇଥିଲା?",
+          "options": [
+            "ବୈତରଣୀ ନଦୀ",
+            "ଚନ୍ଦ୍ରଭାଗା ନଦୀ",
+            "ଦୟା ନଦୀ",
+            "ଋଷିକୂଲ୍ୟା ନଦୀ"
+          ],
+          "explanation": "କୋଣାର୍କର ସୂର୍ଯ୍ୟ ମନ୍ଦିର ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀରେ ପୂର୍ବ ଗଙ୍ଗ ବଂଶର ରାଜା ପ୍ରଥମ ନରସିଂହଦେବଙ୍କ ଦ୍ୱାରା ଚନ୍ଦ୍ରଭାଗା ନଦୀ କୂଳରେ ନିର୍ମାଣ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786073590211-1",
+      "section": "Odisha GK",
+      "topic": "Modern Odia Literature & Journalism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was the founder and editor of the famous Odia satirical journal 'Niankhunta', established in 1938?",
+      "options": [
+        "Godabarish Mohapatra",
+        "Sachi Routray",
+        "Godabarish Mishra",
+        "Kuntala Kumari Sabat"
+      ],
+      "answer": 0,
+      "explanation": "Godabarish Mohapatra founded and edited the popular Odia satirical monthly magazine 'Niankhunta' in 1938, using sharp political wit and satire to critique British colonial rule, political corruption, and social evils.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୮ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ ପ୍ରସିଦ୍ଧ ଓଡ଼ିଆ ବ୍ୟଙ୍ଗ ପତ୍ରିକା 'ନିଆଁଖୁଣ୍ଟା'ର ସଂସ୍ଥାପକ ଓ ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୋଦାବରୀଶ ମହାପାତ୍ର",
+            "ସଚ୍ଚି ରାଉତରାୟ",
+            "ଗୋଦାବରୀଶ ମିଶ୍ର",
+            "କୁନ୍ତଳା କୁମାରୀ ସାବତ"
+          ],
+          "explanation": "ଗୋଦାବରୀଶ ମହାପାତ୍ର ୧୯୩୮ ମସିହାରେ ମାସିକ ଓଡ଼ିଆ ବ୍ୟଙ୍ଗ ପତ୍ରିକା 'ନିଆଁଖୁଣ୍ଟା' ପ୍ରତିଷ୍ଠା କରି ଏହାର ସମ୍ପାଦନା କରିଥିଲେ, ଯାହା ରାଜନୈତିକ ଦୁର୍ନୀତି, ସାମାଜିକ କୁସଂସ୍କାର ଏବଂ ବ୍ରିଟିଶ ଶାସନକୁ ତୀବ୍ର ବ୍ୟଙ୍ଗ ମାଧ୍ୟମରେ ସମାଲୋଚନା କରୁଥିଲା।"
         }
       }
     }

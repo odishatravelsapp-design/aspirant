@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -3853,6 +3853,62 @@
             "ଅନୁକ୍ରିୟା (Responding)"
           ],
           "explanation": "କ୍ରାଥୱୋଲଙ୍କ ଭାବାତ୍ମକ କ୍ଷେତ୍ରରେ ଆରୋହୀ କ୍ରମରେ ୫ଟି ସ୍ତର ରହିଛି: ଗ୍ରହଣ କରିବା (Receiving), ଅନୁକ୍ରିୟା (Responding), ମୂଲ୍ୟାଙ୍କନ (Valuing), ସଂଗଠନ (Organization), ଏବଂ ମୂଲ୍ୟବୋଧ ଦ୍ୱାରା ଚରିତ୍ରଗଠନ (Characterization by Value) ଯାହା ସର୍ବୋଚ୍ଚ ସ୍ତର ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1786074072534-0",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Learning Materials",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Edgar Dale's Cone of Experience, which of the following learning experiences provides the highest level of directness and retention?",
+      "options": [
+        "Direct Purposeful Experiences",
+        "Contrived Experiences",
+        "Verbal Symbols",
+        "Educational Television"
+      ],
+      "answer": 0,
+      "explanation": "At the base of Edgar Dale's Cone of Experience lie 'Direct Purposeful Experiences'. These involve first-hand, concrete experiences where the learner uses all senses, leading to the highest degree of directness and knowledge retention.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର ଡେଲଙ୍କ 'କୋନ୍ ଅଫ୍ ଏକ୍ସପେରିଏନ୍ସ' (Cone of Experience) ଅନୁସାରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶିକ୍ଷଣ ଅନୁଭୂତି ସବୁଠାରୁ ଅଧିକ ପ୍ରତ୍ୟକ୍ଷତା ଏବଂ ମନେରଖିବା କ୍ଷମତା ପ୍ରଦାନ କରିଥାଏ?",
+          "options": [
+            "ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅନୁଭୂତି (Direct Purposeful Experiences)",
+            "କୃତ୍ରିମ / ପରିକଳ୍ପିତ ଅନୁଭୂତି (Contrived Experiences)",
+            "ଶାବ୍ଦିକ ପ୍ରତୀକ (Verbal Symbols)",
+            "ଶିକ୍ଷାଗତ ଟେଲିଭିଜନ୍ (Educational Television)"
+          ],
+          "explanation": "ଏଡଗାର ଡେଲଙ୍କ ଅନୁଭବ କୋନ୍ (Cone of Experience) ର ସବୁଠାରୁ ତଳ ଭାଗରେ 'ପ୍ରତ୍ୟକ୍ଷ ଉଦ୍ଦେଶ୍ୟମୂଳକ ଅନୁଭୂତି' ରହିଛି। ଏହା ଶିକ୍ଷାର୍ଥୀଙ୍କୁ ସବୁଠାରୁ ବାସ୍ତବ ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ଅନୁଭୂତି ପ୍ରଦାନ କରେ, ଯାହାଦ୍ୱାରା ସର୍ବାଧିକ ଧାରଣ (retention) ସମ୍ଭବ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1786074072534-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In J. P. Guilford's original (1967) Structure of Intellect (SOI) model, how many distinct mental abilities/factors were identified by combining Operations, Contents, and Products?",
+      "options": [
+        "120",
+        "150",
+        "180",
+        "100"
+      ],
+      "answer": 0,
+      "explanation": "In Guilford's original 1967 model, intelligence was conceptualized as a three-dimensional framework comprising 5 Operations, 4 Contents, and 6 Products. Multiplying these dimensions (5 × 4 × 6) yielded 120 unique factors/cells.",
+      "translations": {
+        "or": {
+          "question": "ଜେ. ପି. ଗିଲଫୋର୍ଡଙ୍କ ମୂଳ (୧୯୬୭) 'ବୁଦ୍ଧିମତ୍ତାର ସଂରଚନା' (Structure of Intellect - SOI) ମଡେଲରେ, ପ୍ରକ୍ରିୟା (Operations), ବିଷୟବସ୍ତୁ (Contents) ଏବଂ ଉତ୍ପାଦ (Products) ର ମିଶ୍ରଣ ଦ୍ୱାରା କେତୋଟି ମୋଟ ମାନସିକ କ୍ଷମତା/କାରକ ଚିହ୍ନଟ କରାଯାଇଥିଲା?",
+          "options": [
+            "120",
+            "150",
+            "180",
+            "100"
+          ],
+          "explanation": "ଗିଲଫୋର୍ଡଙ୍କ ୧୯୬୭ ର ମୂଳ SOI ମଡେଲରେ ୫ ଟି ପ୍ରକ୍ରିୟା (Operations), ୪ ଟି ବିଷୟବସ୍ତୁ (Contents) ଏବଂ ୬ ଟି ଉତ୍ପାଦ (Products) ଥିଲା, ଯାହା ମୋଟ ୫ × ୪ × ୬ = ୧୨୦ ଟି କାରକ/କୋଠରୀ ଗଠନ କରୁଥିଲା।"
         }
       }
     }
