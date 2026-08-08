@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7622,6 +7622,136 @@
       ],
       "answer": 1,
       "explanation": "Under Section 42(1) of the Reserve Bank of India Act, 1934, every scheduled commercial bank is required to maintain a Cash Reserve Ratio (CRR) with the RBI as a average daily balance percentage of its Net Demand and Time Liabilities (NDTL).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786156000336-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average score of 5 students in an examination is 68. If the highest score is excluded, the average score of the remaining 4 students becomes 64. What is the highest score?",
+      "options": [
+        "76",
+        "80",
+        "84",
+        "88"
+      ],
+      "answer": 2,
+      "explanation": "Total score of all 5 students = 5 * 68 = 340. Total score of the 4 remaining students = 4 * 64 = 256. Therefore, the highest score = 340 - 256 = 84."
+    },
+    {
+      "id": "ibps-clerk-ai-1786156000336-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 4 red balls, 5 blue balls, and 3 green balls. If three balls are drawn at random one after another without replacement, what is the probability that all three drawn balls are of different colors?",
+      "options": [
+        "3/11",
+        "4/11",
+        "5/22",
+        "6/11"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 4 + 5 + 3 = 12. Total ways to select 3 balls out of 12 = C(12, 3) = (12 * 11 * 10) / (3 * 2 * 1) = 220. Favorable ways to pick 1 Red, 1 Blue, and 1 Green ball = C(4, 1) * C(5, 1) * C(3, 1) = 4 * 5 * 3 = 60. Required probability = 60 / 220 = 3/11."
+    },
+    {
+      "id": "ibps-clerk-ai-1786156048313-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Study the following five three-digit numbers carefully and answer the question given below:\n\n428   735   516   862   394\n\nIf 1 is subtracted from the first digit of each number and 1 is added to the last digit of each number, which of the original numbers will result in the third lowest number?",
+      "options": [
+        "428",
+        "735",
+        "516",
+        "394"
+      ],
+      "answer": 2,
+      "explanation": "Applying the given operations to each number:\n- 428 becomes 329\n- 735 becomes 636\n- 516 becomes 417\n- 862 becomes 763\n- 394 becomes 295\n\nArranging the new numbers in ascending order: 295 < 329 < 417 < 636 < 763.\nThe third lowest number is 417, which comes from the original number 516."
+    },
+    {
+      "id": "ibps-clerk-ai-1786156048313-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – A, B, C, D, E, F, and G – are sitting in a straight line facing North.\n- Three persons sit between B and E.\n- F sits to the immediate right of E, and A sits to the immediate right of F.\n- C sits to the immediate left of D.\n- G sits to the immediate right of B.\n\nWho among the following sits third to the left of F?",
+      "options": [
+        "G",
+        "C",
+        "D",
+        "B"
+      ],
+      "answer": 1,
+      "explanation": "From the clues:\n1. 'F sits to the immediate right of E, and A sits to the immediate right of F' gives the block: E - F - A.\n2. 'Three persons sit between B and E' means the arrangement from left to right is: B _ _ _ E F A (total 7 positions).\n3. 'G sits to the immediate right of B' places G at position 2.\n4. 'C sits to the immediate left of D' places C and D at positions 3 and 4 respectively.\n\nThe complete order from left to right is: B, G, C, D, E, F, A.\nF is at position 6. Counting 3 places to the left of F gives position 3, which is occupied by C."
+    },
+    {
+      "id": "ibps-clerk-ai-1786156058946-0",
+      "section": "English",
+      "topic": "Spelling and Contextual Usage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the sentence given below, select the word printed in bold that is incorrectly spelt:\n\nThe **council** expressed its **reluctance** to **accuminate** more debt during the economic recession.",
+      "options": [
+        "council",
+        "reluctance",
+        "accuminate",
+        "recession"
+      ],
+      "answer": 2,
+      "explanation": "The word 'accuminate' is misspelt. The correct spelling is 'accumulate', which means to gather or acquire an increasing number or quantity of something."
+    },
+    {
+      "id": "ibps-clerk-ai-1786156058946-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, select the option that best replaces the bold phrase to make the sentence grammatically correct:\n\nHardly had the announcement been made **then the crowd erupted in joy**.",
+      "options": [
+        "than the crowd erupted in joy",
+        "when the crowd erupted in joy",
+        "while the crowd erupted in joy",
+        "that the crowd erupted in joy"
+      ],
+      "answer": 1,
+      "explanation": "The adverb 'Hardly' takes 'when' (or 'before') as its corresponding conjunction pair ('Hardly... when'), not 'then' or 'than'. Therefore, 'when the crowd erupted in joy' is grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1786156071376-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness - Payment Systems",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the minimum transaction amount required to process an electronic funds transfer through the Real Time Gross Settlement (RTGS) system in India?",
+      "options": [
+        "₹50,000",
+        "₹1 Lakh",
+        "₹2 Lakh",
+        "₹5 Lakh"
+      ],
+      "answer": 2,
+      "explanation": "Under the regulations prescribed by the Reserve Bank of India (RBI), the RTGS system is primarily meant for high-value transactions. The minimum remittance limit through RTGS is ₹2 Lakh, whereas there is no upper ceiling on transaction amounts.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786156071376-1",
+      "section": "General Awareness",
+      "topic": "Banking Legislation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which section of the Banking Regulation Act, 1949, mandates that no company shall carry on banking business in India unless it holds a license issued by the Reserve Bank of India?",
+      "options": [
+        "Section 21",
+        "Section 22",
+        "Section 35A",
+        "Section 45"
+      ],
+      "answer": 1,
+      "explanation": "Section 22 of the Banking Regulation Act, 1949 lays down the legal necessity of obtaining a license from the Reserve Bank of India before commencing or carrying on banking operations in India.",
       "status": "pending"
     }
   ]

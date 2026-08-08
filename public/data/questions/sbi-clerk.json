@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -7239,6 +7239,136 @@
       ],
       "answer": 1,
       "explanation": "Under the RBI's Digital Lending Framework (2022), a mandatory cooling-off/look-up period of not less than 3 days must be provided for digital loans with a tenure of 7 days or more, allowing borrowers to exit by paying only the principal and proportionate Annual Percentage Rate (APR).",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786156082697-0",
+      "section": "Quant",
+      "topic": "Number Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Find the missing number in the following number series: 12, 13, 21, 48, 112, ?",
+      "options": [
+        "227",
+        "237",
+        "247",
+        "257"
+      ],
+      "answer": 1,
+      "explanation": "The pattern in the series is adding the cubes of consecutive natural numbers:\n12 + 1³ = 13\n13 + 2³ = 21\n21 + 3³ = 48\n48 + 4³ = 112\n112 + 5³ = 112 + 125 = 237."
+    },
+    {
+      "id": "sbi-clerk-ai-1786156082697-1",
+      "section": "Quant",
+      "topic": "Mixture and Alligation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A container contains 80 liters of a mixture of milk and water in the ratio 7 : 3. If 20 liters of this mixture is taken out and replaced with 16 liters of pure water, what will be the ratio of milk to water in the final mixture?",
+      "options": [
+        "21 : 17",
+        "14 : 11",
+        "7 : 5",
+        "19 : 15"
+      ],
+      "answer": 0,
+      "explanation": "Initially, Milk = 80 × (7/10) = 56 L, Water = 80 × (3/10) = 24 L.\nWhen 20 L mixture is removed:\nMilk removed = 20 × (7/10) = 14 L\nWater removed = 20 × (3/10) = 6 L\nRemaining Milk = 56 - 14 = 42 L\nRemaining Water = 24 - 6 = 18 L\nNow 16 L pure water is added, so total water becomes = 18 + 16 = 34 L.\nRequired ratio of Milk to Water = 42 : 34 = 21 : 17."
+    },
+    {
+      "id": "sbi-clerk-ai-1786156094943-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Aman starts walking towards the East from Point P. After walking 12 meters, he takes a right turn and walks 5 meters to reach Point Q. What is the shortest distance between Point P and Point Q, and in which direction is Q with respect to P?",
+      "options": [
+        "13 meters, South-East",
+        "17 meters, South-East",
+        "13 meters, North-East",
+        "15 meters, South-West"
+      ],
+      "answer": 0,
+      "explanation": "The movement forms a right-angled triangle with base = 12 m and height = 5 m. Shortest distance = √(12² + 5²) = √(144 + 25) = √169 = 13 meters. Since he walked East and then turned South, Point Q is towards the South-East of Point P."
+    },
+    {
+      "id": "sbi-clerk-ai-1786156094943-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\nOnly a few Books are Pens.\nAll Pens are Erasers.\nNo Eraser is a Pencil.\n\nConclusions:\nI. Some Books are not Erasers.\nII. All Pens can never be Pencils.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Books are Pens' implies some Books are Pens and some Books are not Pens. However, all Books can still be Erasers, so Conclusion I 'Some Books are not Erasers' does not definitely follow.\n2. Since All Pens are Erasers and No Eraser is a Pencil, it is impossible for any Pen to be a Pencil. Therefore, Conclusion II 'All Pens can never be Pencils' definitely follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1786156106590-0",
+      "section": "English",
+      "topic": "Idioms & Phrases",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Choose the statement that correctly explains the meaning of the idiom 'spill the beans'.",
+      "options": [
+        "To reveal a secret, usually prematurely or unintentionally.",
+        "To perform a task inefficiently and make a mess.",
+        "To spend money excessively without planning.",
+        "To waste food due to carelessness."
+      ],
+      "answer": 0,
+      "explanation": "The idiom 'spill the beans' means to reveal secret information prematurely or unintentionally."
+    },
+    {
+      "id": "sbi-clerk-ai-1786156106590-1",
+      "section": "English",
+      "topic": "Advanced Grammar",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In which of the following sentences is the structure of inversion applied INCORRECTLY?",
+      "options": [
+        "Scarcely had the choir begun singing when the power supply was suddenly disrupted.",
+        "Seldom do we witness such extraordinary dedication in a novice apprentice.",
+        "Not only she achieved academic excellence, but she also excelled in athletics.",
+        "Little did the researchers anticipate the profound impact of their discovery."
+      ],
+      "answer": 2,
+      "explanation": "When a sentence begins with a negative or restrictive adverbial phrase like 'Not only', subject-verb inversion is mandatory. The sentence should correctly read: 'Not only did she achieve academic excellence, but she also excelled in athletics.'"
+    },
+    {
+      "id": "sbi-clerk-ai-1786156118518-0",
+      "section": "General Awareness",
+      "topic": "Indian Currency System",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following banknotes in India is issued by the Ministry of Finance and bears the signature of the Finance Secretary instead of the RBI Governor?",
+      "options": [
+        "₹1 Banknote",
+        "₹2 Banknote",
+        "₹5 Banknote",
+        "₹10 Banknote"
+      ],
+      "answer": 0,
+      "explanation": "The ₹1 note is issued directly by the Government of India (Ministry of Finance) and bears the signature of the Finance Secretary. All other denomination banknotes are issued by the RBI and carry the signature of the RBI Governor.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786156118518-1",
+      "section": "General Awareness",
+      "topic": "International Financial Organizations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Where is the headquarters of the Asian Infrastructure Investment Bank (AIIB) situated?",
+      "options": [
+        "Manila, Philippines",
+        "Shanghai, China",
+        "Beijing, China",
+        "Jakarta, Indonesia"
+      ],
+      "answer": 2,
+      "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank headquartered in Beijing, China. (Asian Development Bank is headquartered in Manila, while the New Development Bank is in Shanghai).",
       "status": "pending"
     }
   ]

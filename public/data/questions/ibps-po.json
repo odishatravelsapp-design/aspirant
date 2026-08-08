@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7044,6 +7044,136 @@
       ],
       "answer": 1,
       "explanation": "Section 35A of the Banking Regulation Act, 1949 gives the RBI comprehensive powers to issue directions to banking institutions in the public interest or to prevent the affairs of any bank from being conducted in a manner detrimental to depositors.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786156138262-0",
+      "section": "Quant",
+      "topic": "Speed Time & Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Train A, running at a speed of 72 km/h, crosses a platform of length 220 meters in 20 seconds. Train B, whose length is 30 meters less than Train A, runs at a speed of 36 km/h. Find the time taken by Train A and Train B to cross each other completely when running in opposite directions.",
+      "options": [
+        "11 seconds",
+        "14 seconds",
+        "9 seconds",
+        "12.5 seconds"
+      ],
+      "answer": 0,
+      "explanation": "Speed of Train A = 72 * (5/18) = 20 m/s.\nLength of Train A + Platform = Speed * Time\nL_A + 220 = 20 * 20 = 400 m => L_A = 180 m.\nLength of Train B = 180 - 30 = 150 m.\nSpeed of Train B = 36 * (5/18) = 10 m/s.\nTotal distance to cross each other = L_A + L_B = 180 + 150 = 330 m.\nRelative speed in opposite directions = 20 + 10 = 30 m/s.\nTime taken = 330 / 30 = 11 seconds."
+    },
+    {
+      "id": "ibps-po-ai-1786156138262-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three partners P, Q, and R entered into a business with investments in the ratio 4 : 5 : 8. After 4 months, P increased his investment by 50%, while Q withdrew 20% of his investment. After another 4 months, R increased his investment by 25%. If the total profit at the end of the year was Rs. 1,25,400, and P gets an additional 10% of the total profit as a managing fee, find the total share of P in the profit.",
+      "options": [
+        "Rs. 42,640",
+        "Rs. 45,372",
+        "Rs. 32,832",
+        "Rs. 48,120"
+      ],
+      "answer": 1,
+      "explanation": "Managing fee for P = 10% of 1,25,400 = Rs. 12,540.\nRemaining profit to distribute = 1,25,400 - 12,540 = Rs. 1,12,860.\n\nLet initial investments be 4x, 5x, and 8x.\nEffective investment of P = (4x * 4) + (6x * 8) = 16x + 48x = 64x\nEffective investment of Q = (5x * 4) + (4x * 8) = 20x + 32x = 52x\nEffective investment of R = (8x * 8) + (10x * 4) = 64x + 40x = 104x\n\nRatio of P : Q : R = 64 : 52 : 104 = 16 : 13 : 26.\nSum of ratio units = 16 + 13 + 26 = 55.\n\nP's share from investment = (16 / 55) * 1,12,860 = 16 * 2,052 = Rs. 32,832.\nTotal share of P = Profit share + Managing fee = 32,832 + 12,540 = Rs. 45,372."
+    },
+    {
+      "id": "ibps-po-ai-1786156159022-0",
+      "section": "Reasoning",
+      "topic": "Distance and Direction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point B is 7 m East of Point A. Point C is 10 m North of Point B. Point D is 19 m East of Point C. Point E is 15 m South of Point D. Point F is 14 m West of Point E. What is the shortest distance between Point A and Point F, and in which direction is Point F with respect to Point A?",
+      "options": [
+        "13 m, South-East",
+        "15 m, South-West",
+        "13 m, South-West",
+        "12 m, South-East"
+      ],
+      "answer": 0,
+      "explanation": "Taking Point A as the origin (0, 0):\n- Point B = (7, 0)\n- Point C = (7, 10)\n- Point D = (7 + 19, 10) = (26, 10)\n- Point E = (26, 10 - 15) = (26, -5)\n- Point F = (26 - 14, -5) = (12, -5)\n\nThe shortest distance between A(0,0) and F(12, -5) is sqrt(12^2 + (-5)^2) = sqrt(144 + 25) = sqrt(169) = 13 m.\nSince F is at (12, -5), it lies in the South-East direction relative to Point A."
+    },
+    {
+      "id": "ibps-po-ai-1786156159022-1",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Each of the five persons — P, Q, R, S, and T — has a different weight. Who among them is the second heaviest?\n\nStatement I: R is heavier than both S and T, but lighter than P.\nStatement II: Q is heavier than P.",
+      "options": [
+        "Statement I alone is sufficient, but Statement II alone is not sufficient",
+        "Statement II alone is sufficient, but Statement I alone is not sufficient",
+        "Either Statement I alone or Statement II alone is sufficient",
+        "Both Statement I and Statement II together are necessary"
+      ],
+      "answer": 3,
+      "explanation": "From Statement I: P > R > (S, T). Q's position relative to P is unknown, so 2nd heaviest could be P or Q. (Not sufficient)\nFrom Statement II: Q > P. No info about R, S, T. (Not sufficient)\nCombining Statement I and Statement II: We get Q > P > R > (S, T). This fixes the order of the top three weights as 1st: Q, 2nd: P, 3rd: R. Thus, P is uniquely identified as the second heaviest person."
+    },
+    {
+      "id": "ibps-po-ai-1786156167745-0",
+      "section": "English",
+      "topic": "Inversion in Grammar",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Fill in the blank with the grammatically correct option: 'Not until the committee reviewed the final audit report _________ the discrepancies in the quarterly ledger.'",
+      "options": [
+        "they had realized",
+        "did they realize",
+        "they realized",
+        "they have realized"
+      ],
+      "answer": 1,
+      "explanation": "When a sentence begins with a restrictive or negative adverbial expression such as 'Not until...', standard English grammar requires subject-verb inversion in the main clause. Since the action in the dependent clause ('reviewed') is in the simple past tense, the main clause inverted structure requires the auxiliary verb 'did' followed by the subject and base verb ('did they realize')."
+    },
+    {
+      "id": "ibps-po-ai-1786156167745-1",
+      "section": "English",
+      "topic": "Vocabulary & Contextual Usage",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Identify the word that CANNOT fit into the blank of the sentence below contextually: 'The chief negotiator remained _________ despite the escalating provocations from the opposing party, ensuring the discussions did not break down entirely.'",
+      "options": [
+        "imperturbable",
+        "phlegmatic",
+        "unflappable",
+        "fractious"
+      ],
+      "answer": 3,
+      "explanation": "'Imperturbable', 'phlegmatic', and 'unflappable' all refer to someone who remains calm, composure-bound, and unruffled under pressure or provocation. In contrast, 'fractious' means irritable, unruly, or quarrelsome, which directly contradicts the contextual demand of keeping the talks from failing."
+    },
+    {
+      "id": "ibps-po-ai-1786156195084-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation - PCA Framework",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's revised Prompt Corrective Action (PCA) framework for Commercial Banks, which of the following is NOT one of the primary financial indicators used to monitor bank financial health?",
+      "options": [
+        "Capital to Risk-weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (Net NPA) Ratio",
+        "Leverage Ratio",
+        "Loan-to-Value (LTV) Ratio"
+      ],
+      "answer": 3,
+      "explanation": "Under the RBI's revised PCA framework for commercial banks (effective January 1, 2022), the key capital and financial indicators monitored are Capital (CRAR/CET-1), Asset Quality (Net NPA Ratio), and Leverage (Tier-1 Leverage Ratio). Loan-to-Value (LTV) ratio is an individual loan-level metric, not a bank-level PCA monitoring parameter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786156195084-1",
+      "section": "General Awareness",
+      "topic": "Financial Institutions - DICGC",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year were the Deposit Insurance Corporation (DIC) and the Credit Guarantee Corporation of India Ltd. (CGCI) merged to form the Deposit Insurance and Credit Guarantee Corporation (DICGC)?",
+      "options": [
+        "1969",
+        "1978",
+        "1982",
+        "1991"
+      ],
+      "answer": 1,
+      "explanation": "The Deposit Insurance Corporation (DIC) was merged with the Credit Guarantee Corporation of India Ltd. (CGCI) on July 15, 1978, resulting in the creation of the Deposit Insurance and Credit Guarantee Corporation (DICGC).",
       "status": "pending"
     }
   ]

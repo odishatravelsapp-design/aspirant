@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -11122,6 +11122,234 @@
             "କୁନ୍ତଳା କୁମାରୀ ସାବତ"
           ],
           "explanation": "ଗୋଦାବରୀଶ ମହାପାତ୍ର ୧୯୩୮ ମସିହାରେ ମାସିକ ଓଡ଼ିଆ ବ୍ୟଙ୍ଗ ପତ୍ରିକା 'ନିଆଁଖୁଣ୍ଟା' ପ୍ରତିଷ୍ଠା କରି ଏହାର ସମ୍ପାଦନା କରିଥିଲେ, ଯାହା ରାଜନୈତିକ ଦୁର୍ନୀତି, ସାମାଜିକ କୁସଂସ୍କାର ଏବଂ ବ୍ରିଟିଶ ଶାସନକୁ ତୀବ୍ର ବ୍ୟଙ୍ଗ ମାଧ୍ୟମରେ ସମାଲୋଚନା କରୁଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156513058-0",
+      "section": "Subject Knowledge",
+      "topic": "Middle English Literature",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which 14th-century English poet wrote the famous allegorical narrative poem 'The Vision of Piers Plowman'?",
+      "options": [
+        "Geoffrey Chaucer",
+        "William Langland",
+        "John Gower",
+        "Thomas Hoccleve"
+      ],
+      "answer": 1,
+      "explanation": "'The Vision of Piers Plowman' (written c. 1370–1390) is a major Middle English allegorical narrative poem written in unrhymed alliterative verse, universally attributed to William Langland.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ଚତୁର୍ଦ୍ଦଶ ଶତାବ୍ଦୀର ଇଂରାଜୀ କବି ପ୍ରସିଦ୍ଧ ରୂପକାତ୍ମକ କାବ୍ୟ 'ଦି ଭିଜନ ଅଫ୍ ପିଅର୍ସ ପ୍ଲୋମ୍ୟାନ୍' (The Vision of Piers Plowman) ରଚନା କରିଥିଲେ?",
+          "options": [
+            "ଜିଓଫ୍ରେ ଚସର",
+            "ୱିଲିୟମ୍ ଲାଙ୍ଗଲ୍ୟାଣ୍ଡ",
+            "ଜନ୍ ଗୋୱାର",
+            "ଥୋମାସ୍ ହକ୍ଲିଭ୍"
+          ],
+          "explanation": "'ଦି ଭିଜନ ଅଫ୍ ପିଅର୍ସ ପ୍ଲୋମ୍ୟାନ୍' (ପ୍ରାୟ ୧୩୭୦-୧୩୯୦ ମଧ୍ୟରେ ଲିଖିତ) ହେଉଛି ୱିଲିୟମ୍ ଲାଙ୍ଗଲ୍ୟାଣ୍ଡଙ୍କ ଦ୍ୱାରା ରଚିତ ଏକ ପ୍ରସିଦ୍ଧ ମଧ୍ୟ-ଇଂରାଜୀ ରୂପକାତ୍ମକ କାବ୍ୟ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156513058-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory & Linguistics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In structuralist linguistics, Ferdinand de Saussure proposed that a linguistic sign is composed of which two interrelated components?",
+      "options": [
+        "Tenor and Vehicle",
+        "Signifier and Signified",
+        "Langue and Parole",
+        "Syntagm and Paradigm"
+      ],
+      "answer": 1,
+      "explanation": "In his 'Course in General Linguistics', Ferdinand de Saussure defined a linguistic sign as a two-sided psychological entity made up of the 'signifier' (sound-image or physical form) and the 'signified' (the mental concept represented).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସଂରଚନାବାଦୀ ଭାଷାବିଜ୍ଞାନରେ, ଫର୍ଡିନାଣ୍ଡ ଡି ସୋସ୍ୟୁର ଏକ ଭାଷାଗତ 'ଚିହ୍ନ' (Sign) କୁ କେଉଁ ଦୁଇଟି ପରସ୍ପର ସମ୍ବନ୍ଧିତ ଉପାଦାନର ସଂମିଶ୍ରଣ ଭାବରେ ପ୍ରସ୍ତୁତ କରିଥିଲେ?",
+          "options": [
+            "ଟେନର୍ ଏବଂ ଭେହିକିଲ୍",
+            "ସିଗ୍ନିଫାୟର୍ ଏବଂ ସିଗ୍ନିଫାଇଡ୍",
+            "ଲାଙ୍ଗ୍ ଏବଂ ପାରୋଲ୍",
+            "ସିଣ୍ଟାଗମ୍ ଏବଂ ପାରାଡାଇମ୍"
+          ],
+          "explanation": "ଫର୍ଡିନାଣ୍ଡ ଡି ସୋସ୍ୟୁର ଏକ ଭାଷାଗତ ଚିହ୍ନକୁ 'ସିଗ୍ନିଫାୟର୍' (ଧ୍ୱନି-ପ୍ରତିମା କିମ୍ବା ରୂପ) ଏବଂ 'ସିଗ୍ନିଫାଇଡ୍' (ଏହା ଦ୍ୱାରା ବୁଝାପଡ଼ୁଥିବା ମାନସିକ ଧାରଣା) ର ସଂମିଶ୍ରଣ ଭାବରେ ସଂଜ୍ଞାୟିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156523333-0",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Programmed Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who developed the concept of 'Linear Programmed Instruction' based on the principles of Operant Conditioning?",
+      "options": [
+        "B.F. Skinner",
+        "Norman A. Crowder",
+        "Ivan Pavlov",
+        "Edward Thorndike"
+      ],
+      "answer": 0,
+      "explanation": "B.F. Skinner developed Linear Programmed Instruction based on his theory of Operant Conditioning, where learning takes place through small, sequential steps with immediate reinforcement.",
+      "translations": {
+        "or": {
+          "question": "ଅପରେଣ୍ଟ କଣ୍ଡିସନିଂ (Operant Conditioning) ର ନିୟମ ଗୁଡ଼ିକ ଉପରେ ଆଧାର କରି 'ଲିନିୟର ପ୍ରୋଗ୍ରାମଡ୍ ଇନଷ୍ଟ୍ରକ୍ସନ୍' (Linear Programmed Instruction) ର ଧାରଣା କିଏ ବିକଶିତ କରିଥିଲେ?",
+          "options": [
+            "ବି.ଏଫ୍. ସ୍କିନର (B.F. Skinner)",
+            "ନର୍ମାନ ଏ. କ୍ରାଉଡର (Norman A. Crowder)",
+            "ଇଭାନ ପାଭଲଭ (Ivan Pavlov)",
+            "ଏଡୱାର୍ଡ ଥର୍ଣ୍ଣଡାଇକ (Edward Thorndike)"
+          ],
+          "explanation": "ବି.ଏଫ୍. ସ୍କିନର ଅପରେଣ୍ଟ କଣ୍ଡିସନିଂ ତତ୍ତ୍ୱ ଉପରେ ଆଧାର କରି ଲିନିୟର ପ୍ରୋଗ୍ରାମଡ୍ ଇନଷ୍ଟ୍ରକ୍ସନ୍ ବିକଶିତ କରିଥିଲେ, ଯେଉଁଥିରେ ଶିକ୍ଷଣ ଛୋଟ ଛୋଟ କ୍ରମାନ୍ୱୟ ପଦକ୍ଷେପ ମାଧ୍ୟମରେ ତୁରନ୍ତ ପୁନର୍ବଳନ (reinforcement) ସହିତ ଘଟିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156523333-1",
+      "section": "Teaching Aptitude",
+      "topic": "Evaluation & Test Construction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In test reliability estimation, which method measures internal consistency by dividing a test into two equivalent halves and applying the Spearman-Brown prophecy formula?",
+      "options": [
+        "Test-Retest Method",
+        "Parallel-Forms Method",
+        "Split-Half Method",
+        "Kuder-Richardson Formula 20 (KR-20)"
+      ],
+      "answer": 2,
+      "explanation": "The Split-Half method evaluates internal consistency by splitting a test into two comparable halves (such as odd and even items), calculating the correlation between them, and applying the Spearman-Brown prophecy formula to estimate the reliability of the total test.",
+      "translations": {
+        "or": {
+          "question": "ପରୀକ୍ଷଣ ବିଶ୍ୱସନୀୟତା (test reliability) ଆକଳନରେ, କେଉଁ ପଦ୍ଧତିଟି ଏକ ପରୀକ୍ଷଣକୁ ଦୁଇଟି ସମାନ ଭାଗରେ ବିଭକ୍ତ କରି ଏବଂ ସ୍ପିୟରମ୍ୟାନ୍-ବ୍ରାଉନ୍ ପ୍ରୋଫେସି ସୂତ୍ର ପ୍ରୟୋଗ କରି ଆଭ୍ୟନ୍ତରୀଣ ସଙ୍ଗତି (internal consistency) ମାପ କରିଥାଏ?",
+          "options": [
+            "ଟେଷ୍ଟ-ରିଟେଷ୍ଟ ପଦ୍ଧତି (Test-Retest Method)",
+            "ପାରାଲେଲ-ଫର୍ମସ ପଦ୍ଧତି (Parallel-Forms Method)",
+            "ସ୍ପ୍ଲିଟ-ହାଫ୍ ପଦ୍ଧତି (Split-Half Method)",
+            "କୁଡର-ରିଚାର୍ଡସନ୍ ଫର୍ମୁଲା ୨୦ (KR-20)"
+          ],
+          "explanation": "ସ୍ପ୍ଲିଟ-ହାଫ୍ ପଦ୍ଧତି ଏକ ପରୀକ୍ଷଣକୁ ଦୁଇଟି ସମାନ ଭାଗରେ (ଯେପରିକି ଯୁଗ୍ମ ଓ ଅଯୁଗ୍ମ ପ୍ରଶ୍ନ) ବିଭକ୍ତ କରି ସେମାନଙ୍କ ମଧ୍ୟରେ ସହସମ୍ବନ୍ଧ ନିର୍ଣ୍ଣୟ କରେ ଏବଂ ସମ୍ପୂର୍ଣ୍ଣ ପରୀକ୍ଷଣର ବିଶ୍ୱସନୀୟତା ଆକଳନ ପାଇଁ ସ୍ପିୟରମ୍ୟାନ୍-ବ୍ରାଉନ୍ ସୂତ୍ର ପ୍ରୟୋଗ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156753744-0",
+      "section": "General Studies",
+      "topic": "Odisha Freedom Struggle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who led the first batch of Salt Satyagrahis to Inchudi in Balasore district after the arrest of Gopabandhu Choudhury in April 1930?",
+      "options": [
+        "Acharya Harihar Das",
+        "Bhagirathi Mohapatra",
+        "Pranakrushna Padhiary",
+        "Rajkrushna Bose"
+      ],
+      "answer": 0,
+      "explanation": "Following the arrest of Gopabandhu Choudhury on April 8, 1930, Acharya Harihar Das took charge and led the first batch of 21 satyagrahis from Swaraj Ashram in Cuttack to Inchudi in Balasore to break the salt law on April 12, 1930.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ଏପ୍ରିଲରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀଙ୍କ ଗିରଫଦାରୀ ପରେ ବାଲେଶ୍ଵର ଜିଲ୍ଲାର ଇଞ୍ଚୁଡ଼ିକୁ ଲବଣ ସତ୍ୟାଗ୍ରହୀଙ୍କ ପ୍ରଥମ ଦଳର ନେତୃତ୍ଵ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ଭାଗୀରଥି ମହାପାତ୍ର",
+            "ପ୍ରାଣକୃଷ୍ଣ ପଢ଼ିଆରୀ",
+            "ରାଜକୃଷ୍ଣ ବୋଷ"
+          ],
+          "explanation": "୧୯୩୦ ଏପ୍ରିଲ ୮ ରେ ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ ଗିରଫ ହେବା ପରେ, ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ ଦାୟିତ୍ୱ ନେଇଥିଲେ ଏବଂ ୧୯୩୦ ଏପ୍ରିଲ ୧୨ ରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିବା ପାଇଁ କଟକ ସ୍ୱରାଜ ଆଶ୍ରମରୁ ବାଲେଶ୍ୱରର ଇଞ୍ଚୁଡ଼ି ପର୍ଯ୍ୟନ୍ତ ୨୧ ଜଣିଆ ପ୍ରଥମ ସତ୍ୟାଗ୍ରହୀ ଦଳର ନେତୃତ୍ୱ ନେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156753744-1",
+      "section": "General Studies",
+      "topic": "Ancient Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Guhesvarapataka (also known as Guhadevapataka), the historical capital city of the Bhauma-Kara dynasty of Odisha, is identified with which modern region?",
+      "options": [
+        "Jajpur",
+        "Banpur",
+        "Mukhalingam",
+        "Ratnagiri"
+      ],
+      "answer": 0,
+      "explanation": "The Bhauma-Kara rulers (8th-10th century CE) established their capital at Guhesvarapataka (or Guhadevapataka), which historians identify with modern Jajpur (located on the banks of the Vaitarani River) in Odisha.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଭୌମକର ରାଜବଂଶର ଐତିହାସିକ ରାଜଧାନୀ 'ଗୁହେଶ୍ୱରପାଟକ' (କିମ୍ବା ଗୁହାଦେବପାଟକ) ଆଧୁନିକ ସମୟର କେଉଁ ଅଞ୍ଚଳ ସହିତ ଚିହ୍ନଟ ହୋଇଛି?",
+          "options": [
+            "ଯାଜପୁର",
+            "ବାଣପୁର",
+            "ମୁଖଲିଙ୍ଗମ୍",
+            "ରତ୍ନଗିରି"
+          ],
+          "explanation": "ଭୌମକର ଶାସକମାନେ (ଅଷ୍ଟମ-ଦଶମ ଶତାବ୍ଦୀ) ଗୁହେଶ୍ୱରପାଟକ (ଗୁହାଦେବପାଟକ) ଠାରେ ସେମାନଙ୍କର ରାଜଧାନୀ ସ୍ଥାପନ କରିଥିଲେ, ଯାହାକୁ ଐତିହାସିକମାନେ ଓଡ଼ିଶାର ଆଧୁନିକ ଯାଜପୁର (ବୈତରଣୀ ନଦୀ କୂଳରେ) ବୋଲି ଚିହ୍ନଟ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156764577-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which famous waterfall in Odisha is formed by the river Machhkund and is situated in the Koraput district?",
+      "options": [
+        "Barehipani Waterfall",
+        "Duduma Waterfall",
+        "Khandadhar Waterfall",
+        "Joranda Waterfall"
+      ],
+      "answer": 1,
+      "explanation": "The Duduma Waterfall is formed by the Machhkund River in the Koraput district of Odisha near the Andhra Pradesh border.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ପ୍ରସିଦ୍ଧ ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି ଏବଂ କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ବାରେହିପାଣି ଜଳପ୍ରପାତ",
+            "ଦୁଦୁମା ଜଳପ୍ରପାତ",
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ଜୋରନ୍ଦା ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଆନ୍ଧ୍ରପ୍ରଦେଶ ସୀମା ନିକଟରେ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786156764577-1",
+      "section": "Odisha GK",
+      "topic": "History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "During the British conquest of Odisha in 1803, the British forces under the command of Colonel Harcourt captured which strategic fort in Cuttack to seal the defeat of the Marathas?",
+      "options": [
+        "Barabati Fort",
+        "Raibania Fort",
+        "Potagarh Fort",
+        "Sisupalgarh"
+      ],
+      "answer": 0,
+      "explanation": "On October 14, 1803, British troops commanded by Colonel Lieutenant Harcourt successfully captured the historic Barabati Fort in Cuttack from the Marathas, establishing British rule in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୦୩ ମସିହାରେ ବ୍ରିଟିଶମାନଙ୍କ ଦ୍ୱାରା ଓଡ଼ିଶା ଅଧିକାର ସମୟରେ, କର୍ନେଲ ହାରକୋର୍ଟଙ୍କ ନେତୃତ୍ୱରେ ବ୍ରିଟିଶ ସେନା ମରାଠାମାନଙ୍କୁ ପରାସ୍ତ କରିବା ପାଇଁ କଟକର କେଉଁ ସାମରିକ ଦୃଷ୍ଟିରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଦୁର୍ଗ ଦଖଲ କରିଥିଲେ?",
+          "options": [
+            "ବାରବାଟୀ ଦୁର୍ଗ",
+            "ରାଇବଣିଆ ଦୁର୍ଗ",
+            "ପୋତାଗଡ଼ ଦୁର୍ଗ",
+            "ଶିଶୁପାଳଗଡ଼"
+          ],
+          "explanation": "୧୪ ଅକ୍ଟୋବର ୧୮୦୩ ରେ କର୍ନେଲ ହାରକୋର୍ଟଙ୍କ ନେତୃତ୍ୱରେ ବ୍ରିଟିଶ ସେନା ମରାଠାମାନଙ୍କଠାରୁ କଟକର ଐତିହାସିକ ବାରବାଟୀ ଦୁର୍ଗ ଦଖଲ କରି ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ ଶାସନ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
         }
       }
     }

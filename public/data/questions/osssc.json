@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -8723,6 +8723,234 @@
             "ନରସିଂହ ଜେନା"
           ],
           "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ରାଜା ପ୍ରତାପରୁଦ୍ର ଦେବଙ୍କ ମନ୍ତ୍ରୀ ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଶେଷ ସୂର୍ଯ୍ୟବଂଶୀ ଉତ୍ତରାଧିକାରୀଙ୍କୁ ହତ୍ୟା କରି ସିଂହାସନ ଅଧିକାର କରିଥିଲେ ଏବଂ ଭୋଇ ବଂଶର ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156212655-0",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A shopkeeper sells a watch at a profit of 12%. If he had sold it for Rs. 108 more, he would have gained 20%. Find the cost price of the watch.",
+      "options": [
+        "Rs. 1,200",
+        "Rs. 1,350",
+        "Rs. 1,400",
+        "Rs. 1,500"
+      ],
+      "answer": 1,
+      "explanation": "Difference in profit percentage = 20% - 12% = 8%. Given that 8% of the Cost Price (CP) = Rs. 108. Therefore, CP = (108 / 8) * 100 = 13.5 * 100 = Rs. 1,350.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଦୋକାନୀ ୧୨% ଲାଭରେ ଗୋଟିଏ ଘଣ୍ଟା ବିକ୍ରି କରନ୍ତି। ଯଦି ସେ ଏହାକୁ ୧୦୮ ଟଙ୍କା ଅଧିକରେ ବିକ୍ରି କରିଥାନ୍ତେ, ତେବେ ତାଙ୍କୁ ୨୦% ଲାଭ ମିଳିଥାନ୍ତା। ଘଣ୍ଟାଟିର କ୍ରୟ ମୂଲ୍ୟ କେତେ?",
+          "options": [
+            "୧,୨୦୦ ଟଙ୍କା",
+            "୧,୩୫୦ ଟଙ୍କା",
+            "୧,୪୦୦ ଟଙ୍କା",
+            "୧,୫୦୦ ଟଙ୍କା"
+          ],
+          "explanation": "ଲାଭ ପ୍ରତିଶତର ପାର୍ଥକ୍ୟ = ୨୦% - ୧୨% = ୮% । କ୍ରୟ ମୂଲ୍ୟର ୮% = ୧୦୮ ଟଙ୍କା। ତେଣୁ, କ୍ରୟ ମୂଲ୍ୟ = (୧୦୮ / ୮) × ୧୦୦ = ୧,୩୫୦ ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156212655-1",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B can separately complete a piece of work in 20 days and 30 days respectively. They started working together, but A left the work after some days and B completed the remaining work alone in 10 days. For how many days did A work before leaving?",
+      "options": [
+        "6 days",
+        "8 days",
+        "10 days",
+        "12 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total work = LCM(20, 30) = 60 units. Efficiency of A = 60/20 = 3 units/day. Efficiency of B = 60/30 = 2 units/day. Work done by B alone in the last 10 days = 10 * 2 = 20 units. Remaining work done by A and B together = 60 - 20 = 40 units. Combined efficiency of A and B = 3 + 2 = 5 units/day. Time A and B worked together = 40 / 5 = 8 days. Hence, A worked for 8 days.",
+      "translations": {
+        "or": {
+          "question": "A ଏବଂ B ପୃଥକ ଭାବରେ ଗୋଟିଏ କାମକୁ ଯଥାକ୍ରମେ ୨୦ ଦିନ ଏବଂ ୩୦ ଦିନରେ ଶେଷ କରିପାରନ୍ତି। ସେମାନେ ଏକାଠି କାମ କରିବା ଆରମ୍ଭ କଲେ, କିନ୍ତୁ କିଛି ଦିନ ପରେ A କାମ ଛାଡିଦେଲା ଏବଂ B ଏକାକୀ ଅବଶିଷ୍ଟ କାମକୁ ୧୦ ଦିନରେ ଶେଷ କଲା। A କାମ ଛାଡିବା ପୂର୍ବରୁ କେତେ ଦିନ କାମ କରିଥିଲା?",
+          "options": [
+            "୬ ଦିନ",
+            "୮ ଦିନ",
+            "୧୦ ଦିନ",
+            "୧୨ ଦିନ"
+          ],
+          "explanation": "ମୋଟ କାମ = ୬୦ ୟୁନିଟ୍ (୨୦ ଏବଂ ୩୦ ର LCM)। A ର ଦକ୍ଷତା = ୩ ୟୁନିଟ୍/ଦିନ, B ର ଦକ୍ଷତା = ୨ ୟୁନିଟ୍/ଦିନ। ଶେଷ ୧୦ ଦିନରେ B ଦ୍ୱାରା ସମ୍ପାଦିତ କାମ = ୧୦ × ୨ = ୨୦ ୟୁନିଟ୍। A ଏବଂ B ଏକାଠି କରିଥିବା ଅବଶିଷ୍ଟ କାମ = ୬୦ - ୨୦ = ୪୦ ୟୁନିଟ୍। ଏକାଠି ନେଇଥିବା ସମୟ = ୪୦ / (୩ + ୨) = ୮ ଦିନ। ତେଣୁ, A କାମ ଛାଡିବା ପୂର୍ବରୁ ୮ ଦିନ କାମ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156222122-0",
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the number that can replace the question mark (?) in the following series: 12, 23, 45, 89, 177, ?",
+      "options": [
+        "353",
+        "355",
+        "352",
+        "354"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed in the series is: (Previous Number × 2) - 1.\n12 × 2 - 1 = 23\n23 × 2 - 1 = 45\n45 × 2 - 1 = 89\n89 × 2 - 1 = 177\n177 × 2 - 1 = 353.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଶ୍ରେଣୀରେ ପ୍ରଶ୍ନ ଚିହ୍ନ (?) ସ୍ଥାନରେ ଆସିପାରୁଥିବା ସଂଖ୍ୟାଟି ବାଛନ୍ତୁ: ୧୨, ୨୩, ୪୫, ୮୯, ୧୭୭, ?",
+          "options": [
+            "୩୫୩",
+            "୩୫୫",
+            "୩୫୨",
+            "୩୫୪"
+          ],
+          "explanation": "ଶ୍ରେଣୀରେ ଅନୁସରଣ କରାଯାଇଥିବା ପ୍ୟାଟର୍ନ ହେଉଛି: (ପୂର୍ବ ସଂଖ୍ୟା × ୨) - ୧।\n୧୨ × ୨ - ୧ = ୨୩\n୨୩ × ୨ - ୧ = ୪୫\n୪୫ × ୨ - ୧ = ୮୯\n୮୯ × ୨ - ୧ = ୧୭୭\n୧୭୭ × ୨ - ୧ = ୩୫୩।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156222122-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following information carefully:\n'P + Q' means 'P is the brother of Q'.\n'P - Q' means 'P is the mother of Q'.\n'P * Q' means 'P is the father of Q'.\n'P ÷ Q' means 'P is the sister of Q'.\n\nWhich of the following expressions represents that 'M is the maternal uncle of N'?",
+      "options": [
+        "M + K - N",
+        "M - K + N",
+        "M * K ÷ N",
+        "M ÷ K - N"
+      ],
+      "answer": 0,
+      "explanation": "In expression 'M + K - N':\n'M + K' means M is the brother of K.\n'K - N' means K is the mother of N.\nSince M is the brother of N's mother (K), M is the maternal uncle of N.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ସୂଚନାକୁ ଧ୍ୟାନସହକାରେ ପଢ଼ନ୍ତୁ:\n'P + Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ଭାଇ' ।\n'P - Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ମାଆ' ।\n'P * Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ବାପା' ।\n'P ÷ Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ଭଉଣୀ' ।\n\nନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଅଭିବ୍ୟକ୍ତି ଦର୍ଶାଏ ଯେ 'M ହେଉଛନ୍ତି N ଙ୍କ ମାମୁ'?",
+          "options": [
+            "M + K - N",
+            "M - K + N",
+            "M * K ÷ N",
+            "M ÷ K - N"
+          ],
+          "explanation": "'M + K - N' ଅଭିବ୍ୟକ୍ତିରେ:\n'M + K' ର ଅର୍ଥ M ହେଉଛନ୍ତି K ଙ୍କ ଭାଇ।\n'K - N' ର ଅର୍ଥ K ହେଉଛନ୍ତି N ଙ୍କ ମାଆ।\nM ହେଉଛନ୍ତି N ଙ୍କ ମାଆ (K) ଙ୍କ ଭାଇ, ତେଣୁ M ହେଉଛନ୍ତି N ଙ୍କ ମାମୁ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156254967-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which waterfall in Odisha, formed by the Machhkund River, is also historically known as 'Matsya Tirtha'?",
+      "options": [
+        "Barehipani Waterfall",
+        "Khandadhar Waterfall",
+        "Duduma Waterfall",
+        "Badaghagara Waterfall"
+      ],
+      "answer": 2,
+      "explanation": "The Duduma Waterfall, located on the border of Koraput district in Odisha and Visakhapatnam district in Andhra Pradesh, is formed by the Machhkund River and is traditionally revered as 'Matsya Tirtha'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜଳପ୍ରପାତ, ଯାହା ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି, ଐତିହାସିକ ଭାବେ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା?",
+          "options": [
+            "ବାରେହିପାଣି ଜଳପ୍ରପାତ",
+            "ଖଣ୍ଡାଧାର ଜଳପ୍ରପାତ",
+            "ଡୁଡୁମା ଜଳପ୍ରପାତ",
+            "ବଡ଼ଘାଗରା ଜଳପ୍ରପାତ"
+          ],
+          "explanation": "ଡୁଡୁମା ଜଳପ୍ରପାତ କୋରାପୁଟ ଜିଲ୍ଲାରେ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି ଏବଂ ଏହାକୁ ପାରମ୍ପରିକ ଭାବେ 'ମତ୍ସ୍ୟ ତୀର୍ଥ' ବୋଲି କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156254967-1",
+      "section": "General Knowledge",
+      "topic": "Modern History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who among the following established the 'Utkal Brahmo Samaj' at Cuttack in the year 1869?",
+      "options": [
+        "Haranath Bhattacharya",
+        "Biswanath Kar",
+        "Sadhucharan Mukherjee",
+        "Bhaktababi Madhusudan Rao"
+      ],
+      "answer": 0,
+      "explanation": "Haranath Bhattacharya, a professor at Cuttack College, established the Utkal Brahmo Samaj at Cuttack in 1869 to propagate Brahmo faith and social reforms in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୯ ମସିହାରେ କଟକଠାରେ 'ଉତ୍କଳ ବ୍ରାହ୍ମ ସମାଜ' ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ହରନାଥ ଭଟ୍ଟାଚାର୍ଯ୍ୟ",
+            "ବିଶ୍ୱନାଥ କର",
+            "ସାଧୁଚରଣ ମୁଖାର୍ଜୀ",
+            "ଭକ୍ତକବି ମଧୁସୂଦନ ରାଓ"
+          ],
+          "explanation": "କଟକ କଲେଜର ଅଧ୍ୟାପକ ହରନାଥ ଭଟ୍ଟାଚାର୍ଯ୍ୟ ୧୮୬୯ ମସିହାରେ କଟକଠାରେ 'ଉତ୍କଳ ବ୍ରାହ୍ମ ସମାଜ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ, ଯାହା ଓଡ଼ିଶାରେ ବ୍ରାହ୍ମ ଆନ୍ଦୋଳନ ଓ ସଂସ୍କାରର ପ୍ରସାର କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156268568-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "On which river in Odisha is the Hirakud Dam, one of the longest earthen dams in the world, constructed?",
+      "options": [
+        "Brahmani River",
+        "Mahanadi River",
+        "Baitarani River",
+        "Subarnarekha River"
+      ],
+      "answer": 1,
+      "explanation": "The Hirakud Dam is built across the Mahanadi River near Sambalpur in Odisha and is one of the longest major earthen dams in the world.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୃଥିବୀର ଅନ୍ୟତମ ଦୀର୍ଘତମ ମାଟି ଡ୍ୟାମ୍ 'ହୀରାକୁଦ ଡ୍ୟାମ୍' ଓଡ଼ିଶାର କେଉଁ ନଦୀ ଉପରେ ନିର୍ମିତ?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ ନଦୀ",
+            "ମହାନଦୀ",
+            "ବୈତରଣୀ ନଦୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା ନଦୀ"
+          ],
+          "explanation": "ହୀରାକୁଦ ଡ୍ୟାମ୍ ସମ୍ବଲପୁର ନିକଟରେ ମହାନଦୀ ଉପରେ ନିର୍ମିତ ହୋଇଛି ଏବଂ ଏହା ବିଶ୍ୱର ଅନ୍ୟତମ ଦୀର୍ଘତମ ମାଟି ଡ୍ୟାମ୍।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786156268568-1",
+      "section": "Odisha GK",
+      "topic": "Resistance Movements in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following led the Kondh uprising of Ghumsar against the British East India Company during 1835–1837?",
+      "options": [
+        "Chakra Bisoi",
+        "Dora Bisoi",
+        "Laxman Nayak",
+        "Rendo Majhi"
+      ],
+      "answer": 1,
+      "explanation": "Dora Bisoi (Kamalalochan Dora Bisoi) was the chief leader and commander of the Kondhs during the Ghumsar Rebellion (1835–1837) against the British rule.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୩୫-୧୮୩୭ ମସିହା ମଧ୍ୟରେ ବ୍ରିଟିଶ୍ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ବିରୁଦ୍ଧରେ ଘୁମୁସରର କନ୍ଧ ବିଦ୍ରୋହର ନେତୃତ୍ୱ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଚକରା ବିଷୋୟୀ",
+            "ଦୋରା ବିଷୋୟୀ",
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ରେଣ୍ଡୋ ମାଝି"
+          ],
+          "explanation": "ଦୋରା ବିଷୋୟୀ (କମଳଲୋଚନ ଦୋରା ବିଷୋୟୀ) ୧୮୩୫ ରୁ ୧୮୩୭ ମସିହା ପର୍ଯ୍ୟନ୍ତ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ଘୁମୁସର କନ୍ଧ ବିଦ୍ରୋହର ମୁଖ୍ୟ ନେତା ଥିଲେ।"
         }
       }
     }
