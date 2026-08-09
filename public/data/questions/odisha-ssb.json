@@ -11580,6 +11580,261 @@
           "explanation": "ସୋମବଂଶୀ ରାଜା ପ୍ରଥମ ଯଯାତି (ଯଯାତି କେଶରୀ) ଯାଜପୁର (ଯଯାତିନଗର)କୁ ନିଜର ରାଜଧାନୀ କରି ବୈତରଣୀ ନଦୀ କୂଳରେ ଅଶ୍ୱମେଧ ଯଜ୍ଞ କରିଥିଲେ ଏବଂ ଯଜ୍ଞ କାର୍ଯ୍ୟ ସମ୍ପାଦନ ପାଇଁ କନ୍ୟାକୁବ୍ଜରୁ ୧୦,୦୦୦ ବ୍ରାହ୍ମଣଙ୍କୁ ଆଣିଥିଲେ।"
         }
       }
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which educational scheme, formulated by Mahatma Gandhi at the Wardha Conference in 1937, emphasized craft-centric and mother-tongue-based education?",
+      "options": [
+        "Nai Talim (Basic Education)",
+        "Visva-Bharati System",
+        "Sargent Scheme",
+        "Wood's Despatch"
+      ],
+      "answer": 0,
+      "explanation": "Mahatma Gandhi introduced the Wardha Scheme of Basic Education, popularised as 'Nai Talim', in 1937. It advocated craft-centered, free, and compulsory education taught in the child's mother tongue."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In which year did Rabindranath Tagore formally establish the experimental school 'Brahmacharyasrama' (later known as Patha Bhavana) at Santiniketan?",
+      "options": [
+        "1895",
+        "1901",
+        "1911",
+        "1921"
+      ],
+      "answer": 1,
+      "explanation": "Rabindranath Tagore established his experimental school at Santiniketan on December 22, 1901, with five students. It later developed into Patha Bhavana under Visva-Bharati."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-2",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which German educator is universally recognized as the founder of the 'Kindergarten' system of early childhood education?",
+      "options": [
+        "Maria Montessori",
+        "Friedrich Froebel",
+        "John Dewey",
+        "Johann Heinrich Pestalozzi"
+      ],
+      "answer": 1,
+      "explanation": "Friedrich Froebel created the 'Kindergarten' (Garden of Children) system in Germany in 1837, emphasizing play, self-activity, and social interaction."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-3",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to John Dewey's pragmatic philosophy, how is 'education' formally defined in his seminal work 'Democracy and Education'?",
+      "options": [
+        "The gradual acquisition of universal truths and permanent values",
+        "The continuous reconstruction or reorganization of experience",
+        "The preparation of the individual for ultimate spiritual salvation",
+        "The systematic conditioning of responses to environmental stimuli"
+      ],
+      "answer": 1,
+      "explanation": "John Dewey famously defined education as 'that reconstruction or reorganization of experience which adds to the meaning of experience, and which increases ability to direct the course of subsequent experience.'"
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-4",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Maria Montessori's framework of human development, which age period constitutes the 'Second Plane of Development', characterized by the emergence of the 'Reasoning Mind' and moral consciousness?",
+      "options": [
+        "0 to 6 years",
+        "6 to 12 years",
+        "12 to 18 years",
+        "18 to 24 years"
+      ],
+      "answer": 1,
+      "explanation": "Montessori identified four distinct planes of development: First Plane (0–6 years: Absorbent Mind), Second Plane (6–12 years: Reasoning Mind), Third Plane (12–18 years: Humanistic Mind), and Fourth Plane (18–24 years: Specialized Mind)."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-5",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which specific neurodevelopmental learning disability primarily impairs a student's ability to understand, process, and perform mathematical calculations?",
+      "options": [
+        "Dyslexia",
+        "Dysgraphia",
+        "Dyscalculia",
+        "Dyspraxia"
+      ],
+      "answer": 2,
+      "explanation": "Dyscalculia is a specific learning disorder that affects a person's ability to understand number concepts, learn arithmetic rules, and perform mathematical calculations."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-6",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "A student who consistently struggles with fine motor skills required for handwriting, letter spacing, line orientation, and spatial organisation on paper is diagnosed with:",
+      "options": [
+        "Dysgraphia",
+        "Dyslexia",
+        "Aphasia",
+        "Auditory Processing Disorder"
+      ],
+      "answer": 0,
+      "explanation": "Dysgraphia is a neurological condition affecting written expression, fine motor coordination, spatial line management, and spelling ability."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-7",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016 in India, what minimum degree of disability is required to classify an individual as having a 'benchmark disability'?",
+      "options": [
+        "25%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": 2,
+      "explanation": "Section 2(r) of the RPwD Act, 2016 defines a person with 'benchmark disability' as an individual with not less than 40% of a specified disability."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-8",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In co-teaching instructional models for inclusive classrooms, which model involves both general and special educators presenting the exact same lesson simultaneously as equal leaders to the whole class?",
+      "options": [
+        "Parallel Teaching",
+        "Station Teaching",
+        "Team Teaching",
+        "Alternative Teaching"
+      ],
+      "answer": 2,
+      "explanation": "In Team Teaching (or Teaming), two teachers share equal responsibility for planning, instructing, and assessing the entire class together without dividing the room or students."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-9",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Revised Bloom's Taxonomy of Cognitive Domain (Anderson & Krathwohl, 2001), which level represents the highest order of cognitive process?",
+      "options": [
+        "Evaluating",
+        "Analyzing",
+        "Creating",
+        "Applying"
+      ],
+      "answer": 2,
+      "explanation": "In Anderson and Krathwohl's 2001 revision of Bloom's Taxonomy, 'Creating' replaced 'Evaluation' at the top of the cognitive hierarchy."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-10",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the 4-Quadrant approach designed for SWAYAM MOOC courses by the Ministry of Education, India, which quadrant specifically provides 'Self-Assessment' tools like quizzes and tests?",
+      "options": [
+        "Quadrant I",
+        "Quadrant II",
+        "Quadrant III",
+        "Quadrant IV"
+      ],
+      "answer": 2,
+      "explanation": "The 4 Quadrants of SWAYAM are: Quadrant I (E-Tutorial/Video), Quadrant II (E-Content/Reading), Quadrant III (Self-Assessment/Tests & Quizzes), and Quadrant IV (Discussion Forum)."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-11",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the primary technical objective of SCORM (Shareable Content Object Reference Model) in e-learning content administration?",
+      "options": [
+        "Encrypting student biometric attendance data",
+        "Ensuring interoperability and reusability of learning content across different Learning Management Systems (LMS)",
+        "Providing high-speed peer-to-peer video streaming",
+        "Automatically translating text-based lessons into localized spoken audio"
+      ],
+      "answer": 1,
+      "explanation": "SCORM is a standard set of technical specifications for e-learning content that ensures learning materials are interoperable, reusable, and transferable across any SCORM-compliant Learning Management System (LMS)."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-12",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which curriculum developer proposed an 'inductive' or 'grassroots' model, arguing that curriculum should be designed by teachers starting from specific learning units rather than top-down administrators?",
+      "options": [
+        "Ralph Tyler",
+        "Hilda Taba",
+        "D. K. Wheeler",
+        "John Goodlad"
+      ],
+      "answer": 1,
+      "explanation": "Hilda Taba advocated for an inductive (bottom-up/grassroots) approach to curriculum development, where teachers design learning units first before generalizing them into a broader curriculum."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-13",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who introduced the foundational conceptual distinction between 'Formative' and 'Summative' evaluation in curriculum and program evaluation in 1967?",
+      "options": [
+        "Benjamin Bloom",
+        "Michael Scriven",
+        "Robert Stake",
+        "Daniel Stufflebeam"
+      ],
+      "answer": 1,
+      "explanation": "Michael Scriven introduced the concepts and terms 'formative evaluation' and 'summative evaluation' in his 1967 paper 'The Methodology of Evaluation'."
+    },
+    {
+      "id": "odisha-ssb-edu-1786244963743-14",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Carl Rogers is widely recognized as the pioneer of which major approach to guidance and counseling?",
+      "options": [
+        "Directive Counseling",
+        "Person-Centered (Non-Directive) Counseling",
+        "Eclectic Counseling",
+        "Rational Emotive Behavior Therapy (REBT)"
+      ],
+      "answer": 1,
+      "explanation": "Carl Rogers pioneered Person-Centered (Non-Directive) Counseling, emphasizing unconditional positive regard, congruence, and counselor empathy to allow the client to lead self-discovery."
     }
   ]
 }
