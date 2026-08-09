@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -8089,6 +8089,176 @@
             "ଏପିଜେନେଟିକ୍ (Epigenetic) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ"
           ],
           "explanation": "ଇଭୋକେଟିଭ୍ (Evocative) ଜେନୋଟାଇପ୍-ପରିବେଶ ସମ୍ବନ୍ଧ ସେତେବେଳେ ଘଟିଥାଏ ଯେତେବେଳେ ଜଣେ ଶିଶୁର ଆନୁବଂଶିକ ଲକ୍ଷଣ (ଯେପରିକି ହସଖୁସି ସ୍ଵଭାବ କିମ୍ବା ଉଚ୍ଚ ବୁଦ୍ଧିମତ୍ତା) ପରିବେଶର ଅନ୍ୟ ବ୍ୟକ୍ତିମାନଙ୍କଠାରୁ ନିର୍ଦ୍ଦିଷ୍ଟ ପ୍ରତିକ୍ରିୟା ଏବଂ ସାମାଜିକ ସହଯୋଗ ଆକର୍ଷିତ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786243213011-0",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Aids and Technology",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "An Epidiascope is a teaching aid used in classrooms primarily for which of the following purposes?",
+      "options": [
+        "Projecting both opaque objects and transparent slides/images onto a screen",
+        "Displaying moving 3D digital animations with synchronized audio",
+        "Recording audio-visual responses of students during microteaching sessions",
+        "Measuring the auditory perception threshold of students with special needs"
+      ],
+      "answer": 0,
+      "explanation": "An epidiascope is an optical device capable of projecting magnified images of both opaque materials (such as printed pages, diagrams, or physical specimens) and transparent slides or transparencies onto a screen.",
+      "translations": {
+        "or": {
+          "question": "ଏପିଡିଆସ୍କୋପ୍ (Epidiascope) ହେଉଛି ଶ୍ରେଣୀଗୃହରେ ବ୍ୟବହୃତ ଏକ ଶିକ୍ଷଣ ଉପକରଣ, ଯାହା ମୁଖ୍ୟତଃ ନିମ୍ନଲିଖିତ କେଉଁ ଉଦ୍ଦେଶ୍ୟ ପାଇଁ ବ୍ୟବହୃତ ହୁଏ?",
+          "options": [
+            "ସ୍କ୍ରିନ୍‌ରେ ଅସ୍ୱଚ୍ଛ (opaque) ବସ୍ତୁ ଏବଂ ସ୍ୱଚ୍ଛ ସ୍ଲାଇଡ୍/ଛବି ଦୁଇଟିଯାକ ପ୍ରଦର୍ଶିତ (project) କରିବା ପାଇଁ",
+            "ସମକାଳୀନ ଅଡିଓ ସହିତ ଗତିଶୀଳ 3D ଡିଜିଟାଲ୍ ଆନିମେସନ୍ ପ୍ରଦର୍ଶନ କରିବା ପାଇଁ",
+            "ମାଇକ୍ରୋଟିଚିଂ ସମୟରେ ଛାତ୍ରମାନଙ୍କର ଦୃଶ୍ୟ-ଶ୍ରାବ୍ୟ ପ୍ରତିକ୍ରିୟା ରେକର୍ଡ କରିବା ପାଇଁ",
+            "ସ୍ୱତନ୍ତ୍ର ଆବଶ୍ୟକତା ଥିବା ଛାତ୍ରମାନଙ୍କର ଶ୍ରବଣ ଶକ୍ତି ମାପିବା ପାଇଁ"
+          ],
+          "explanation": "ଏପିଡିଆସ୍କୋପ୍ ହେଉଛି ଏକ ଅପ୍ଟିକାଲ୍ ଉପକରଣ, ଯାହା ସ୍କ୍ରିନ୍ ଉପରେ ଅସ୍ୱଚ୍ଛ ବସ୍ତୁ (ଯେପରିକି ବହିର ପୃଷ୍ଠା, ପ୍ରିଣ୍ଟ) ଏବଂ ସ୍ୱଚ୍ଛ ସ୍ଲାଇଡ୍ ଦୁଇଟିଯାକର ଛବି ପ୍ରଦର୍ଶନ (project) କରିବା ପାଇଁ ବ୍ୟବହୃତ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786243213011-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In J.P. Guilford's Structure of Intellect (SI) model, human intelligence is categorized along three fundamental dimensions. Which option correctly identifies these three dimensions?",
+      "options": [
+        "Operations, Contents, and Products",
+        "Verbal, Spatial, and Numerical",
+        "Primary, Secondary, and Tertiary",
+        "Fluid, Crystallized, and Emotional"
+      ],
+      "answer": 0,
+      "explanation": "J.P. Guilford's Structure of Intellect (SI) model organizes intellectual traits along three major dimensions: Operations (the mental processes performed), Contents (the broad areas of information/media), and Products (the forms in which information is processed by the discipline).",
+      "translations": {
+        "or": {
+          "question": "ଜେ.ପି. ଗିଲଫୋର୍ଡଙ୍କ (J.P. Guilford) ବୁଦ୍ଧିମତ୍ତାର ସଂରଚନା (Structure of Intellect - SI) ମଡେଲରେ, ବୌଦ୍ଧିକ ଗୁଣଗୁଡ଼ିକୁ ତିନୋଟି ମୌଳିକ ଆୟାମ (dimensions) ଅଧୀନରେ ବର୍ଗୀକୃତ କରାଯାଇଛି। ଏହି ତିନୋଟି ଆୟାମ କ’ଣ?",
+          "options": [
+            "ପ୍ରକ୍ରିୟା/ସଞ୍ଚାଳନ (Operations), ବିଷୟବସ୍ତୁ (Contents), ଏବଂ ଉତ୍ପାଦ (Products)",
+            "ମୌଖିକ (Verbal), ସ୍ଥାନିକ (Spatial), ଏବଂ ସଂଖ୍ୟାତ୍ମକ (Numerical)",
+            "ପ୍ରାଥମିକ (Primary), ମାଧ୍ୟମିକ (Secondary), ଏବଂ ତୃତୀୟକ (Tertiary)",
+            "ତରଳ (Fluid), ସ୍ଫଟିକୀକୃତ (Crystallized), ଏବଂ ଭାବନାତ୍ମକ (Emotional)"
+          ],
+          "explanation": "ଜେ.ପି. ଗିଲଫୋର୍ଡ ବୁଦ୍ଧିମତ୍ତାର ସଂରଚନା (SI) ମଡେଲ୍ ପ୍ରସ୍ତାବ କରିଥିଲେ, ଯାହା ବୁଦ୍ଧିମତ୍ତାକୁ ତିନୋଟି ମୁଖ୍ୟ ଆୟାମରେ ବିଭକ୍ତ କରେ: ପ୍ରକ୍ରିୟା/ସଞ୍ଚାଳନ (Operations), ବିଷୟବସ୍ତୁ (Contents), ଏବଂ ଉତ୍ପାଦ (Products)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786243329725-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the half-life period (t_1/2) of a first-order reaction if its rate constant (k) is 6.93 x 10^-3 s^-1?",
+      "options": [
+        "100 s",
+        "10 s",
+        "0.1 s",
+        "1000 s"
+      ],
+      "answer": 0,
+      "explanation": "For a first-order reaction, the half-life is calculated using the formula t_1/2 = 0.693 / k. Substituting k = 6.93 x 10^-3 s^-1 gives t_1/2 = 0.693 / (6.93 x 10^-3) = 100 s.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଗୋଟିଏ ପ୍ରଥମ-କ୍ରମ (first-order) ପ୍ରତିକ୍ରିୟାର ହାର ସ୍ଥିରାଙ୍କ (k) 6.93 x 10^-3 s^-1 ହୁଏ, ତେବେ ଏହାର ଅର୍ଦ୍ଧ-ଜୀବନ କାଳ (t_1/2) କେତେ ହେବ?",
+          "options": [
+            "100 s",
+            "10 s",
+            "0.1 s",
+            "1000 s"
+          ],
+          "explanation": "ପ୍ରଥମ-କ୍ରମ ପ୍ରତିକ୍ରିୟା ପାଇଁ, ଅର୍ଦ୍ଧ-ଜୀବନ କାଳ t_1/2 = 0.693 / k ସୂତ୍ର ଦ୍ୱାରା ଗଣନା କରାଯାଏ। k = 6.93 x 10^-3 s^-1 ସ୍ଥାପନ କଲେ, t_1/2 = 0.693 / (6.93 x 10^-3) = 100 s ମିଳିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786243329725-1",
+      "section": "Subject Knowledge",
+      "topic": "Inorganic Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Wade's rules (polyhedral skeletal electron pair theory), what is the structural classification of the borane cluster B5H9?",
+      "options": [
+        "Closo",
+        "Nido",
+        "Arachno",
+        "Hypho"
+      ],
+      "answer": 1,
+      "explanation": "Boranes of the formula B_n H_(n+4) are classified as nido-boranes. For B5H9, n = 5 and it has (n + 2) = 7 skeletal electron pairs, which corresponds to a nido geometry.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ୱେଡ୍‌ଙ୍କ ନିୟମ (Wade's rules) ଅନୁସାରେ, ବୋରେନ୍ କ୍ଲଷ୍ଟର୍ B5H9 ର ସଂରଚନାତ୍ମକ ବର୍ଗୀକରଣ କ’ଣ?",
+          "options": [
+            "କ୍ଲୋସୋ (Closo)",
+            "ନିଡୋ (Nido)",
+            "ଏରାକ୍ନୋ (Arachno)",
+            "ହାଇଫୋ (Hypho)"
+          ],
+          "explanation": "B_n H_(n+4) ସାଧାରଣ ସୂତ୍ର ବିଶିଷ୍ଟ ବୋରେନ୍‌ଗୁଡ଼ିକୁ ନିଡୋ-ବୋରେନ୍ (nido-borane) ଭାବରେ ବର୍ଗୀକୃତ କରାଯାଏ। B5H9 ପାଇଁ n = 5 ଏବଂ ଏହାର (n + 2) = 7 ସ୍କେଲେଟାଲ୍ ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗଳ ଥାଏ, ଯାହା ନିଡୋ ଜ୍ୟାମିତି ସହ ସମାନ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786243456157-0",
+      "section": "Child Development",
+      "topic": "Motor Development",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which directional trend in motor development describes the pattern where motor control progresses from the center of the body outward toward the extremities?",
+      "options": [
+        "Proximodistal trend",
+        "Cephalocaudal trend",
+        "Mass-to-specific trend",
+        "Differentiation trend"
+      ],
+      "answer": 0,
+      "explanation": "The proximodistal trend describes the sequence in which growth and motor control proceed from the center of the body outward (e.g., control of the trunk and arms before fine control of the fingers). Cephalocaudal refers to head-to-toe development.",
+      "translations": {
+        "or": {
+          "question": "ମୋଟର ବିକାଶର କେଉଁ ଦିଗଗତ ପ୍ରବୃତ୍ତି (directional trend) ସେହି ଢାଞ୍ଚାକୁ ବର୍ଣ୍ଣନା କରେ ଯେଉଁଥିରେ ନିୟନ୍ତ୍ରଣ ଶରୀରର କେନ୍ଦ୍ରରୁ ବାହାର ଆଡ଼କୁ ଅଙ୍ଗପ୍ରତ୍ୟଙ୍ଗ ଆଡ଼କୁ ଅଗ୍ରସର ହୁଏ?",
+          "options": [
+            "ପ୍ରୋକ୍ସିମୋଡିଷ୍ଟାଲ୍ ପ୍ରବୃତ୍ତି (Proximodistal trend)",
+            "ସେଫାଲୋକଡାଲ୍ ପ୍ରବୃତ୍ତି (Cephalocaudal trend)",
+            "ମାସ୍-ଟୁ-ସ୍ପେସିଫିକ୍ ପ୍ରବୃତ୍ତି (Mass-to-specific trend)",
+            "ବିଭେଦୀକରଣ ପ୍ରବୃତ୍ତି (Differentiation trend)"
+          ],
+          "explanation": "ପ୍ରୋକ୍ସିମୋଡିଷ୍ଟାଲ୍ ପ୍ରବୃତ୍ତି ଶରୀରର କେନ୍ଦ୍ରରୁ ବାହାର ଆଡ଼କୁ (ଅଙ୍ଗପ୍ରତ୍ୟଙ୍ଗ ଆଡ଼କୁ) ହେଉଥିବା ମୋଟର ବିକାଶକୁ ଦର୍ଶାଏ। ସେଫାଲୋକଡାଲ୍ ପ୍ରବୃତ୍ତି ମୁଣ୍ଡରୁ ପାଦ ଆଡ଼କୁ ହେଉଥିବା ବିକାଶକୁ ବୁଝାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786243456157-1",
+      "section": "Child Development",
+      "topic": "Motor Development Theories",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Esther Thelen's Dynamic Systems Theory of motor development, how do infants acquire new motor capabilities?",
+      "options": [
+        "Motor skills emerge strictly as a preprogrammed result of neurological maturation independent of environmental context.",
+        "Motor skills are self-organized patterns assembled by actively combining existing abilities to meet specific goals within environmental constraints.",
+        "Motor skills are acquired exclusively through social imitation and direct reinforcement provided by primary caregivers.",
+        "Motor skills progress through fixed cognitive stages directly tied to linear increases in total brain volume."
+      ],
+      "answer": 1,
+      "explanation": "Esther Thelen's Dynamic Systems Theory posits that motor skills are not genetically hardwired or driven solely by brain maturation. Instead, infants actively assemble motor behaviors by self-organizing multiple components (neurological, physical, developmental goals, environmental possibilities) to adaptively solve task problems.",
+      "translations": {
+        "or": {
+          "question": "ଏଷ୍ଟର ଥେଲେନ୍ (Esther Thelen)ଙ୍କ ମୋଟର ବିକାଶର 'ଡାଇନାମିକ୍ ସିଷ୍ଟମ୍ସ ଥିଓରୀ' (Dynamic Systems Theory) ଅନୁସାରେ, ଶିଶୁମାନେ ନୂତନ ମୋଟର ଦକ୍ଷତା କିପରି ହାସଲ କରନ୍ତି?",
+          "options": [
+            "ମୋଟର କୌଶଳଗୁଡ଼ିକ ପରିବେଶରୁ ସ୍ୱାଧୀନ ଭାବରେ କେବଳ ସ୍ନାୟୁଗତ ପରିପକ୍ୱତାର ଏକ ପୂର୍ବ-ନିର୍ଦ୍ଧାରିତ ପରିଣାମ ଭାବରେ ପ୍ରକାଶ ପାଏ।",
+            "ପରିବେଶର ସୀମା ମଧ୍ୟରେ ନିର୍ଦ୍ଧିଷ୍ଟ ଲକ୍ଷ୍ୟ ହାସଲ ପାଇଁ ବିଦ୍ୟମାନ ଦକ୍ଷତାଗୁଡ଼ିକୁ ସକ୍ରିୟ ଭାବରେ ସଂଯୋଗ କରି ଶିଶୁମାନେ ସ୍ୱୟଂ-ସଂଗଠିତ ମୋଟର କୌଶଳ ଗଠନ କରନ୍ତି।",
+            "ମୋଟର କୌଶଳଗୁଡ଼ିକ କେବଳ ସାମାଜିକ ଅନୁକରଣ ଏବଂ ପ୍ରାଥମିକ ଯତ୍ନନେବାକାରୀଙ୍କ ପ୍ରତ୍ୟକ୍ଷ ଦୃଢ଼ୀକରଣ ମାଧ୍ୟମରେ ହାସଲ କରାଯାଏ।",
+            "ମୋଟର କୌଶଳଗୁଡ଼ିକ ମସ୍ତିଷ୍କର ମୋଟ ଆୟତନ ବୃଦ୍ଧି ସହିତ ନିର୍ଦ୍ଧାରିତ ସ୍ଥାୟୀ ଜ୍ଞାନାତ୍ମକ ପର୍ଯ୍ୟାୟ ଦେଇ ଅଗ୍ରସର ହୁଏ।"
+          ],
+          "explanation": "ଏଷ୍ଟର ଥେଲେନ୍‌ଙ୍କ ଡାଇନାମିକ୍ ସିଷ୍ଟମ୍ସ ଥିଓରୀ ଅନୁସାରେ, ମୋଟର ବିକାଶ କେବଳ ଏକ ନିଷ୍କ୍ରିୟ ଜୈବିକ ପରିପକ୍ୱତା ନୁହେଁ। ଶିଶୁମାନେ ନିଜର ନିର୍ଦ୍ଧିଷ୍ଟ ଲକ୍ଷ୍ୟ ହାସଲ କରିବା ପାଇଁ ଶରୀର, ପରିବେଶ ଏବଂ ମାନସିକ ସାମର୍ଥ୍ୟର ପାରସ୍ପରିକ କ୍ରିୟା ଦ୍ୱାରା ସକ୍ରିୟ ଭାବରେ ନୂତନ କୌଶଳ ସଂଗଠିତ କରନ୍ତି।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -11350,6 +11350,234 @@
             "ଶିଶୁପାଳଗଡ଼"
           ],
           "explanation": "୧୪ ଅକ୍ଟୋବର ୧୮୦୩ ରେ କର୍ନେଲ ହାରକୋର୍ଟଙ୍କ ନେତୃତ୍ୱରେ ବ୍ରିଟିଶ ସେନା ମରାଠାମାନଙ୍କଠାରୁ କଟକର ଐତିହାସିକ ବାରବାଟୀ ଦୁର୍ଗ ଦଖଲ କରି ଓଡ଼ିଶାରେ ବ୍ରିଟିଶ ଶାସନ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243108165-0",
+      "section": "Subject Knowledge",
+      "topic": "Jacobean Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In John Webster's Jacobean tragedy 'The Duchess of Malfi', which character utters the famous line, \"Cover her face; mine eyes dazzle; she died young\"?",
+      "options": [
+        "Bosola",
+        "Ferdinand",
+        "The Cardinal",
+        "Antonio Bologna"
+      ],
+      "answer": 1,
+      "explanation": "In Act IV, Scene II of John Webster's tragedy 'The Duchess of Malfi', Ferdinand utters this famous line upon looking at the corpse of his twin sister, the Duchess, after having ordered her execution.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ୱେବଷ୍ଟରଙ୍କ ଜାକୋବିଆନ୍ ଟ୍ରାଜେଡି 'ଦ ଡଚେସ୍ ଅଫ୍ ମାଲଫି'ରେ କେଉଁ ଚରିତ୍ର \"Cover her face; mine eyes dazzle; she died young\" ପ୍ରସିଦ୍ଧ ଧାଡ଼ିଟି କହିଛନ୍ତି?",
+          "options": [
+            "ବୋସୋଲା",
+            "ଫର୍ଡିନାଣ୍ଡ",
+            "ଦ କାର୍ଡିନାଲ୍",
+            "ଆଣ୍ଟୋନିଓ ବୋଲୋଗ୍ନା"
+          ],
+          "explanation": "ଜନ୍ ୱେବଷ୍ଟରଙ୍କ 'ଦ ଡଚେସ୍ ଅଫ୍ ମାଲଫି'ର ଚତୁର୍ଥ ଅଙ୍କ, ଦ୍ୱିତୀୟ ଦୃଶ୍ୟରେ, ଫର୍ଡିନାଣ୍ଡ ନିଜ ଯାଆଁଳା ଭଉଣୀ ଡଚେସଙ୍କ ମୃତଦେହ ଦେଖି ଏହି ପ୍ରସିଦ୍ଧ ଉକ୍ତିଟି କହିଥିଲେ, ଯାହାଙ୍କୁ ସେ ବୋସୋଲା ଦ୍ୱାରା ହତ୍ୟା କରାଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243108165-1",
+      "section": "Subject Knowledge",
+      "topic": "Postcolonial Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which concept formulated by Homi K. Bhabha in 'The Location of Culture' (1994) describes the colonial discourse that encourages the colonized subject to copy the colonizer, resulting in a representation that is \"almost the same, but not quite\"?",
+      "options": [
+        "Hybridity",
+        "Mimicry",
+        "Third Space",
+        "Liminality"
+      ],
+      "answer": 1,
+      "explanation": "In 'The Location of Culture', Homi K. Bhabha defines colonial mimicry as the desire for a reformed, recognizable Other, as a subject of a difference that is 'almost the same, but not quite,' highlighting the ambivalence and subversive potential of colonial relationships.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ହୋମି କେ. ଭାଭାଙ୍କ ଦ୍ୱାରା 'ଦ ଲୋକେସନ୍ ଅଫ୍ କଲଚର୍' (୧୯୯୪) ରେ ଉପସ୍ଥାପିତ କେଉଁ ଅବଧାରଣା ଉପନିବେଶବାଦୀ ଆଲୋଚନାକୁ ବର୍ଣ୍ଣନା କରେ ଯାହା ଉପନିବେଶିତ ବ୍ୟକ୍ତିଙ୍କୁ ଉପନିବେଶକାରୀଙ୍କୁ ଅନୁକରଣ କରିବାକୁ ଉତ୍ସାହିତ କରେ, ଯାହାର ପରିଣାମ ସ୍ୱରୂପ \"ପ୍ରାୟ ସମାନ, କିନ୍ତୁ ସମ୍ପୂର୍ଣ୍ଣ ନୁହେଁ\" (almost the same, but not quite) ପ୍ରତିଫଳନ ସୃଷ୍ଟି ହୁଏ?",
+          "options": [
+            "ହାଇବ୍ରିଡିଟି",
+            "ମିମିକ୍ରି",
+            "ଥାର୍ଡ ସ୍ପେସ୍",
+            "ଲିମିନାଲିଟି"
+          ],
+          "explanation": "'ଦ ଲୋକେସନ୍ ଅଫ୍ କଲଚର୍'ରେ, ହୋମି କେ. ଭାଭା ଉପନିବେଶବାଦୀ ମିମିକ୍ରିକୁ ଏକ ସଂସ୍କୃତ, ଚିହ୍ନଟଯୋଗ୍ୟ ଅନ୍ୟର କାମନା ଭାବରେ ବ୍ୟାଖ୍ୟା କରିଛନ୍ତି, ଯାହା \"ପ୍ରାୟ ସମାନ, କିନ୍ତୁ ସମ୍ପୂର୍ଣ୍ଣ ନୁହେଁ\", ଯାହା ଉପନିବେଶବାଦୀ ସମ୍ପର୍କର ଅନ୍ତର୍ନିହିତ ବିରୋଧାଭାସ ଓ ଅସ୍ପଷ୍ଟତାକୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243158625-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophy & Practice",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which scholar introduced the concepts of 'reflection-in-action' and 'reflection-on-action' in his seminal book 'The Reflective Practitioner'?",
+      "options": [
+        "Donald Schön",
+        "John Dewey",
+        "Jack Mezirow",
+        "Paulo Freire"
+      ],
+      "answer": 0,
+      "explanation": "Donald Schön introduced the concepts of 'reflection-in-action' (thinking while doing) and 'reflection-on-action' (reflecting after the event) in his 1983 book 'The Reflective Practitioner'.",
+      "translations": {
+        "or": {
+          "question": "କେଉଁ ବିଦ୍ୱାନ ତାଙ୍କର ପ୍ରସିଦ୍ଧ ପୁସ୍ତକ 'ଦି ରିଫ୍ଲେକ୍ଟିଭ୍ ପ୍ରାକ୍ଟିସନର' ରେ 'ରିଫ୍ଲେକ୍ସନ୍-ଇନ୍-ଆକ୍ସନ୍' ଏବଂ 'ରିଫ୍ଲେକ୍ସନ୍-ଅନ୍-ଆକ୍ସନ୍' ର ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଥିଲେ?",
+          "options": [
+            "ଡୋନାଲ୍ଡ ଶୋନ୍",
+            "ଜନ୍ ଡିୱି",
+            "ଜ୍ୟାକ୍ ମେଜିରୋ",
+            "ପାଉଲୋ ଫ୍ରେୟାର୍"
+          ],
+          "explanation": "ଡୋନାଲ୍ଡ ଶୋନ୍ ୧୯୮୩ ମସିହାରେ ପ୍ରକାଶିତ ତାଙ୍କ ପୁସ୍ତକ 'ଦି ରିଫ୍ଲେକ୍ଟିଭ୍ ପ୍ରାକ୍ଟିସନର' ରେ 'ରିଫ୍ଲେକ୍ସନ୍-ଇନ୍-ଆକ୍ସନ୍' (କାର୍ଯ୍ୟ କରିବା ସମୟରେ ଚିନ୍ତା କରିବା) ଏବଂ 'ରିଫ୍ଲେକ୍ସନ୍-ଅନ୍-ଆକ୍ସନ୍' (କାର୍ଯ୍ୟ ଶେଷ ହେବା ପରେ ଚିନ୍ତା କରିବା) ର ସଂକଳ୍ପ ଦେଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243158625-1",
+      "section": "Teaching Aptitude",
+      "topic": "Instructional Design & Models",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Robert Gagné's Nine Events of Instruction, which event directly follows the presentation of content (stimulus material)?",
+      "options": [
+        "Providing learning guidance",
+        "Eliciting performance",
+        "Stimulating recall of prior learning",
+        "Providing feedback"
+      ],
+      "answer": 0,
+      "explanation": "In Gagné's Nine Events of Instruction, the sequence is: (1) Gain attention, (2) Inform objectives, (3) Stimulate recall, (4) Present stimulus material, (5) Provide learning guidance, (6) Elicit performance, (7) Provide feedback, (8) Assess performance, and (9) Enhance retention and transfer. Therefore, providing learning guidance directly follows presenting stimulus material.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେଙ୍କ 'ଶିକ୍ଷାଦାନର ନଅଟି ପର୍ଯ୍ୟାୟ' (Nine Events of Instruction) ଅନୁସାରେ, ବିଷୟବସ୍ତୁ (stimulus material) ଉପସ୍ଥାପନ ପରେ ପରବର୍ତ୍ତୀ ପର୍ଯ୍ୟାୟଟି କ’ଣ?",
+          "options": [
+            "ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରକାଶ କରିବା",
+            "ପୂର୍ବ ଜ୍ଞାନର ସ୍ମରଣକୁ ଉଦ୍ଦୀପିତ କରିବା",
+            "ଫିଡବ୍ୟାକ୍ (ପ୍ରତିପୋଷଣ) ପ୍ରଦାନ କରିବା"
+          ],
+          "explanation": "ଗାଗ୍ନେଙ୍କ ୯ଟି ପର୍ଯ୍ୟାୟ କ୍ରମରେ: (୧) ଧ୍ୟାନ ଆକର୍ଷଣ, (୨) ଉଦ୍ଦେଶ୍ୟ ସୂଚନା, (୩) ପୂର୍ବ ଜ୍ଞାନ ସ୍ମରଣ, (୪) ବିଷୟବସ୍ତୁ ଉପସ୍ଥାପନ, (୫) ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ, (୬) କାର୍ଯ୍ୟଦକ୍ଷତା ସମ୍ପାଦନ, (୭) ପ୍ରତିପୋଷଣ ପ୍ରଦାନ, (୮) ଆକଳନ, ଏବଂ (୯) ଧାରଣ ଓ ସ୍ଥାନାନ୍ତରଣ ବୃଦ୍ଧି। ତେଣୁ ବିଷୟବସ୍ତୁ ଉପସ୍ଥାପନ ପରେ 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ' ଆସିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243178599-0",
+      "section": "General Studies",
+      "topic": "Indian Polity & Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many seats are allocated to the state of Odisha in the Rajya Sabha (Upper House of the Parliament of India)?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "21"
+      ],
+      "answer": 0,
+      "explanation": "Odisha has 10 seats allocated in the Rajya Sabha (Upper House of Parliament), whereas it represents 21 seats in the Lok Sabha (Lower House).",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସଂସଦର ଉଚ୍ଚ ସଦନ (ରାଜ୍ୟସଭା) ରେ ଓଡ଼ିଶା ପାଇଁ କେତୋଟି ଆସନ ଆବଣ୍ଟିତ ହୋଇଛି?",
+          "options": [
+            "୧୦",
+            "୧୨",
+            "୧୫",
+            "୨୧"
+          ],
+          "explanation": "ଭାରତୀୟ ସଂସଦର ରାଜ୍ୟସଭାରେ ଓଡ଼ିଶା ପାଇଁ ୧୦ଟି ଆସନ ନିର୍ଦ୍ଧାରିତ ହୋଇଥିବା ବେଳେ ଲୋକସଭାରେ ଓଡ଼ିଶାର ୨୧ଟି ଆସନ ରହିଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243178599-1",
+      "section": "General Studies",
+      "topic": "Odisha Archaeology & History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The historical maritime trade port site of Manikapatna, known for its significant archaeological finds including Chinese porcelain and Roman amphorae, is located in which district of Odisha?",
+      "options": [
+        "Puri",
+        "Ganjam",
+        "Bhadrak",
+        "Kendrapara"
+      ],
+      "answer": 0,
+      "explanation": "Manikapatna is a celebrated ancient port site situated near the mouth of Chilika Lake in Puri district. Archaeological excavations conducted here uncovered artifacts like Chinese celadon pottery, Roman amphorae, and ancient coins, proving its prominent role in international maritime trade.",
+      "translations": {
+        "or": {
+          "question": "ଚୀନର ଚିନାମାଟି ପାତ୍ର ଏବଂ ରୋମାନ୍ ଆମ୍ଫୋରା ଭଳି ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରତ୍ନତାତ୍ତ୍ୱିକ ଆବିଷ୍କାର ପାଇଁ ଜଣାଶୁଣା ପ୍ରାଚୀନ ସାମୁଦ୍ରିକ ବାଣିଜ୍ୟ ପୋତାଶ୍ରୟ 'ମାଣିକପାଟଣା' ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ପୁରୀ",
+            "ଗଞ୍ଜାମ",
+            "ଭଦ୍ରକ",
+            "କେନ୍ଦ୍ରାପଡ଼ା"
+          ],
+          "explanation": "ମାଣିକପାଟଣା ହେଉଛି ଓଡ଼ିଶାର ପୁରୀ ଜିଲ୍ଲାରେ ଚିଲିକା ହ୍ରଦର ମୁହାଣ ନିକଟରେ ଅବସ୍ଥିତ ଏକ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ବନ୍ଦର। ଏଠାରେ ହୋଇଥିବା ଖନନରୁ ଚୀନର ସେଲାଡନ୍ ସେରାମିକ୍ସ, ରୋମାନ୍ ଆମ୍ଫୋରା ଏବଂ ବିଭିନ୍ନ ମୁଦ୍ରା ମିଳିଛି, ଯାହା ଏହାର ଆନ୍ତର୍ଜାତୀୟ ସାମୁଦ୍ରିକ ବାଣିଜ୍ୟ ସମ୍ପର୍କକୁ ପ୍ରମାଣିତ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243195371-0",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which year did the devastating 'Na'Anka Durbhiksha' (Great Odisha Famine) occur, resulting in the death of nearly one-third of the population of Odisha?",
+      "options": [
+        "1836",
+        "1857",
+        "1866",
+        "1888"
+      ],
+      "answer": 2,
+      "explanation": "The Na'Anka Durbhiksha occurred in 1866 during the 9th regnal year of Gajapati Divyasingha Deva. It was a catastrophic event that wiped out around a third of Odisha's population and spurred social, political, and educational consciousness in the state.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଐତିହାସିକ 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' କେଉଁ ମସିହାରେ ହୋଇଥିଲା, ଯାହା ଫଳରେ ରାଜ୍ୟର ପ୍ରାୟ ଏକ ତୃତୀୟାଂଶ ଜନସଂଖ୍ୟାଙ୍କର ମୃତ୍ୟୁ ଘଟିଥିଲା?",
+          "options": [
+            "1836",
+            "1857",
+            "1866",
+            "1888"
+          ],
+          "explanation": "1866 ମସିହାରେ ଗଜପତି ଦିବ୍ୟସିଂହ ଦେବଙ୍କ ୯ମ ଅଙ୍କ ରାଜତ୍ୱ କାଳରେ 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ଦେଖାଦେଇଥିଲା। ଏହି ବିପର୍ଯ୍ୟୟ ଓଡ଼ିଶାର ପ୍ରାୟ ଏକ ତୃତୀୟାଂଶ ଲୋକଙ୍କ ଜୀବନ ନେଇଥିଲା ଏବଂ ପରବର୍ତ୍ତୀ ସମୟରେ ଓଡ଼ିଶାରେ ସାମାଜିକ ଓ ସାଂସ୍କୃତିକ ଜାଗରଣର ସୂତ୍ରପାତ କରିଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786243195371-1",
+      "section": "Odisha GK",
+      "topic": "Ancient Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Somavamsi ruler is traditionally credited with performing the historic 'Aswamedha Yajna' at Jajpur and inviting 10,000 Brahmins from Kanyakubja (Kannauj) to settle in Odisha?",
+      "options": [
+        "Janamejaya I",
+        "Yayati I",
+        "Dharmaratha",
+        "Indraratha"
+      ],
+      "answer": 1,
+      "explanation": "Somavamsi King Yayati I (also known in legends as Yayati Keshari) established his capital at Yajatinagara (Jajpur), performed the sacred Aswamedha Yajna on the banks of the Baitarani river, and invited 10,000 Brahmins from Kanyakubja to conduct the rituals.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସୋମବଂଶୀ ଶାସକମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଯାଜପୁରଠାରେ ଐତିହାସିକ 'ଅଶ୍ୱମେଧ ଯଜ୍ଞ' କରିଥିଲେ ଏବଂ କନ୍ୟାକୁବ୍ଜ (କନୌଜ)ରୁ ୧୦,୦୦୦ ବ୍ରାହ୍ମଣଙ୍କୁ ଓଡ଼ିଶାରେ ବସବାସ କରିବା ପାଇଁ ନିମନ୍ତ୍ରଣ କରି ଆଣିଥିଲେ?",
+          "options": [
+            "ପ୍ରଥମ ଜନମେଜୟ",
+            "ପ୍ରଥମ ଯଯାତି",
+            "ଧର୍ମରଥ",
+            "ଇନ୍ଦ୍ରରଥ"
+          ],
+          "explanation": "ସୋମବଂଶୀ ରାଜା ପ୍ରଥମ ଯଯାତି (ଯଯାତି କେଶରୀ) ଯାଜପୁର (ଯଯାତିନଗର)କୁ ନିଜର ରାଜଧାନୀ କରି ବୈତରଣୀ ନଦୀ କୂଳରେ ଅଶ୍ୱମେଧ ଯଜ୍ଞ କରିଥିଲେ ଏବଂ ଯଜ୍ଞ କାର୍ଯ୍ୟ ସମ୍ପାଦନ ପାଇଁ କନ୍ୟାକୁବ୍ଜରୁ ୧୦,୦୦୦ ବ୍ରାହ୍ମଣଙ୍କୁ ଆଣିଥିଲେ।"
         }
       }
     }

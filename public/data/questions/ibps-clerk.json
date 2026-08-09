@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7752,6 +7752,136 @@
       ],
       "answer": 1,
       "explanation": "Section 22 of the Banking Regulation Act, 1949 lays down the legal necessity of obtaining a license from the Reserve Bank of India before commencing or carrying on banking operations in India.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786242859677-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Pipe A can fill a tank in 12 hours, and Pipe B can fill the same tank in 18 hours. If both pipes are opened together, in how many hours will the tank be completely filled?",
+      "options": [
+        "6.8 hours",
+        "7.2 hours",
+        "7.5 hours",
+        "8.0 hours"
+      ],
+      "answer": 1,
+      "explanation": "Work done by Pipe A in 1 hour = 1/12\nWork done by Pipe B in 1 hour = 1/18\nCombined work done in 1 hour = 1/12 + 1/18 = (3 + 2)/36 = 5/36\nTherefore, time required to fill the tank = 36/5 = 7.2 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1786242859677-1",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of ₹16,000 is invested at a compound interest rate of 10% per annum, compounded half-yearly. What will be the compound interest earned on this principal amount at the end of 1.5 years?",
+      "options": [
+        "₹2,400",
+        "₹2,522",
+        "₹2,610",
+        "₹2,500"
+      ],
+      "answer": 1,
+      "explanation": "Rate per half-year = 10% / 2 = 5%\nTime period (n) = 1.5 × 2 = 3 half-years\nAmount (A) = P × (1 + R/100)^n\nA = 16000 × (1 + 5/100)^3 = 16000 × (21/20)^3 = 16000 × (9261/8000) = ₹18,522\nCompound Interest (CI) = Amount - Principal = ₹18,522 - ₹16,000 = ₹2,522."
+    },
+    {
+      "id": "ibps-clerk-ai-1786242877875-0",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements:\nP ≥ Q > R = S ≤ T < U\n\nConclusions:\nI. P > S\nII. R < U",
+      "options": [
+        "Only Conclusion I follows",
+        "Only Conclusion II follows",
+        "Neither Conclusion I nor II follows",
+        "Both Conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From the given statement: P ≥ Q > R = S gives P > S (since P ≥ Q > R = S implies P > S), so Conclusion I is true. Also, R = S ≤ T < U gives R < U (since S < U and R = S), so Conclusion II is also true. Thus, both conclusions follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1786242877875-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – A, B, C, D, E, F, and G – live on seven different floors of a building (numbered 1 to 7 from bottom to top). E lives on floor 4. F lives on an odd-numbered floor above E. Exactly three persons live between F and B. A lives on an even-numbered floor immediately above C, but A does not live on floor 2. D lives above G, and D does not live on the top floor. Who lives immediately below B?",
+      "options": [
+        "A",
+        "C",
+        "D",
+        "G"
+      ],
+      "answer": 2,
+      "explanation": "E is on floor 4. F lives on an odd floor above E (7 or 5). If F is on 5, three persons between F and B places B on 1, but then A cannot be placed on floor 6 (since C would need to be on 5, occupied by F). Thus, F is on floor 7. Three persons between F(7) and B places B on floor 3. A is on an even floor immediately above C, and A ≠ 2, so A is on floor 6 and C on floor 5. D lives above G and not on top, placing D on floor 2 and G on floor 1. The floor order from 7 to 1 is F, A, C, E, B, D, G. Therefore, D lives immediately below B."
+    },
+    {
+      "id": "ibps-clerk-ai-1786242887979-0",
+      "section": "English",
+      "topic": "Vocabulary in Context",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Fill in the blank with the most appropriate word to complete the sentence meaningfully:\n\nDespite facing numerous obstacles during the initial phase of the project, the team remained __________ and successfully met the tight deadline.",
+      "options": [
+        "undaunted",
+        "submissive",
+        "redundant",
+        "indifferent"
+      ],
+      "answer": 0,
+      "explanation": "'Undaunted' means not discouraged or intimidated by difficulty or obstacles, which perfectly fits the context of overcoming challenges to meet a tight deadline."
+    },
+    {
+      "id": "ibps-clerk-ai-1786242887979-1",
+      "section": "English",
+      "topic": "Contextual Word Choice",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Complete the following sentence with the most suitable word:\n\nAlthough the diplomat was known for his usually __________ demeanor, his sharp tone during yesterday's press conference surprised everyone present.",
+      "options": [
+        "suave",
+        "bellicose",
+        "pugnacious",
+        "truculent"
+      ],
+      "answer": 0,
+      "explanation": "The sentence requires a word that contrasts with 'sharp tone' due to the conjunction 'Although'. 'Suave' means charming, smooth, and polite, providing the appropriate contrast. 'Bellicose', 'pugnacious', and 'truculent' all mean aggressive or hostile."
+    },
+    {
+      "id": "ibps-clerk-ai-1786242899599-0",
+      "section": "General Awareness",
+      "topic": "Banking & Financial Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, what is the maximum compensation amount that the Ombudsman can award to a complainant for loss of time, expenses incurred, and harassment/mental agony?",
+      "options": [
+        "Rs. 1 Lakh",
+        "Rs. 2 Lakh",
+        "Rs. 5 Lakh",
+        "Rs. 10 Lakh"
+      ],
+      "answer": 0,
+      "explanation": "Under the RBI Integrated Ombudsman Scheme (RB-IOS), 2021, the Ombudsman may award compensation up to Rs. 1 lakh for mental agony, harassment, loss of time, and expenses incurred. (The maximum compensation for direct financial loss resulting from the act/omission is up to Rs. 20 lakh).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786242899599-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's revised Prompt Corrective Action (PCA) framework for Commercial Banks, which of the following is NOT one of the key monitoring parameters?",
+      "options": [
+        "Capital Adequacy Ratio (CRAR)",
+        "Net Non-Performing Asset (Net NPA) Ratio",
+        "Leverage Ratio",
+        "Credit-to-Deposit (CD) Ratio"
+      ],
+      "answer": 3,
+      "explanation": "The revised PCA framework for commercial banks issued by the RBI focuses on three key financial parameters to monitor banks: Capital (CRAR/CET 1), Asset Quality (Net NPA Ratio), and Leverage (Leverage Ratio). Credit-to-Deposit (CD) Ratio is not a parameter under the PCA framework.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -7369,6 +7369,136 @@
       ],
       "answer": 2,
       "explanation": "The Asian Infrastructure Investment Bank (AIIB) is a multilateral development bank headquartered in Beijing, China. (Asian Development Bank is headquartered in Manila, while the New Development Bank is in Shanghai).",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786242920420-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A trader allows a discount of 15% on the marked price of an article and still makes a profit of 19%. By what percent is the marked price higher than the cost price?",
+      "options": [
+        "28%",
+        "34%",
+        "40%",
+        "45%"
+      ],
+      "answer": 2,
+      "explanation": "Let the Cost Price (CP) be ₹100. Profit = 19%, so Selling Price (SP) = ₹119. Discount = 15%, so SP = 85% of Marked Price (MP). Thus, 0.85 × MP = 119, which gives MP = 119 / 0.85 = ₹140. Therefore, the Marked Price is 40% higher than the Cost Price."
+    },
+    {
+      "id": "sbi-clerk-ai-1786242920420-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat covers 40 km upstream and 60 km downstream in a total time of 7 hours. If the speed of the stream is 5 km/h, how many hours will the boat take to travel a distance of 105 km in still water?",
+      "options": [
+        "5 hours",
+        "6 hours",
+        "7 hours",
+        "8.5 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let the speed of the boat in still water be v km/h. Upstream speed = (v - 5) km/h and downstream speed = (v + 5) km/h. Given: 40/(v - 5) + 60/(v + 5) = 7. Expanding gives 40(v + 5) + 60(v - 5) = 7(v^2 - 25), which simplifies to 100v - 100 = 7v^2 - 175, or 7v^2 - 100v - 75 = 0. Solving the quadratic equation gives (7v + 5)(v - 15) = 0, which yields v = 15 km/h. Time taken to cover 105 km in still water = 105 / 15 = 7 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1786242932439-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, all vowels are replaced with the letter two positions ahead in the alphabetical series, and all consonants are replaced with the letter one position behind in the alphabetical series. Based on this logic, 'STREAM' is coded as 'RSQGCL'. How will 'BEAUTY' be coded in that same language?",
+      "options": [
+        "AGCWSX",
+        "AGCVTW",
+        "ZEDVTX",
+        "AGCXSY"
+      ],
+      "answer": 0,
+      "explanation": "Logic: Vowels -> +2, Consonants -> -1.\nApplying to BEAUTY:\nB (Consonant) - 1 = A\nE (Vowel) + 2 = G\nA (Vowel) + 2 = C\nU (Vowel) + 2 = W\nT (Consonant) - 1 = S\nY (Consonant) - 1 = X\nHence, 'BEAUTY' is coded as 'AGCWSX'."
+    },
+    {
+      "id": "sbi-clerk-ai-1786242932439-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six friends—A, B, C, D, E, and F—have different heights. B is taller than only F. C is shorter than A but taller than D. A is not the tallest among all. The height of the second tallest person is 168 cm, and the height of the third shortest person is 152 cm. Who among the following is the tallest person?",
+      "options": [
+        "A",
+        "C",
+        "E",
+        "Cannot be determined"
+      ],
+      "answer": 2,
+      "explanation": "Arranging them from tallest (1) to shortest (6):\n1) 'B is taller than only F' means B is 5th and F is 6th: _ > _ > _ > _ > B > F.\n2) 'C is shorter than A but taller than D' gives A > C > D.\n3) Since A is not the tallest, the remaining places 1 to 4 must be filled by E, A, C, D in order: E > A > C > D > B > F.\nTherefore, E is the tallest person."
+    },
+    {
+      "id": "sbi-clerk-ai-1786242955692-0",
+      "section": "English",
+      "topic": "Spelling and Contextual Usage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the given sentence, four words are highlighted in bold. Identify the word that is either misspelt or used inappropriately in the context of the sentence:\n\nThe governance (A) body conceded (B) that the procedural (C) delay was unintentionaly (D) caused by a system outage.",
+      "options": [
+        "governance",
+        "conceded",
+        "procedural",
+        "unintentionaly"
+      ],
+      "answer": 3,
+      "explanation": "The word 'unintentionaly' is incorrectly spelt. The correct spelling is 'unintentionally' (with a double 'l'). All other bold words are contextually and grammatically correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1786242955692-1",
+      "section": "English",
+      "topic": "Grammatical Correctness",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Identify the sentence that contains a grammatical error among the given options.",
+      "options": [
+        "Had the board known about the upcoming regulatory changes, they would have postponed the acquisition.",
+        "Scarcely had the announcement been made than the investors began dumping their shares in panic.",
+        "The new policy aims to streamline administrative tasks and improve overall productivity across departments.",
+        "Not only did the team complete the project ahead of schedule, but they also managed to stay well within the allocated budget."
+      ],
+      "answer": 1,
+      "explanation": "The adverb 'Scarcely' takes the conjunction 'when' or 'before', not 'than'. 'Than' is used with 'No sooner'. The correct phrasing should be: 'Scarcely had the announcement been made when the investors began dumping their shares in panic.'"
+    },
+    {
+      "id": "sbi-clerk-ai-1786242961900-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the maximum limit of deposit insurance cover provided per depositor by the Deposit Insurance and Credit Guarantee Corporation (DICGC) across all accounts in a single insured bank?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "The Deposit Insurance and Credit Guarantee Corporation (DICGC), a fully owned subsidiary of the Reserve Bank of India, provides deposit insurance up to a maximum limit of ₹5 lakh (inclusive of both principal and interest) per depositor per bank.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786242961900-1",
+      "section": "General Awareness",
+      "topic": "Banking & Financial Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the Basel III liquidity standards implemented by the Reserve Bank of India (RBI), what is the minimum required Net Stable Funding Ratio (NSFR) that banks must maintain on an ongoing basis?",
+      "options": [
+        "90%",
+        "95%",
+        "100%",
+        "105%"
+      ],
+      "answer": 2,
+      "explanation": "The Net Stable Funding Ratio (NSFR) is designed to ensure that banks maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities over a one-year horizon. Under RBI guidelines, banks must maintain an NSFR of at least 100% on a continuous basis.",
       "status": "pending"
     }
   ]

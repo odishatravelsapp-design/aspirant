@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -8951,6 +8951,234 @@
             "ରେଣ୍ଡୋ ମାଝି"
           ],
           "explanation": "ଦୋରା ବିଷୋୟୀ (କମଳଲୋଚନ ଦୋରା ବିଷୋୟୀ) ୧୮୩୫ ରୁ ୧୮୩୭ ମସିହା ପର୍ଯ୍ୟନ୍ତ ବ୍ରିଟିଶ ଶାସନ ବିରୋଧରେ ଘୁମୁସର କନ୍ଧ ବିଦ୍ରୋହର ମୁଖ୍ୟ ନେତା ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243054813-0",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A train traveling at a speed of 72 km/h crosses a platform of length equal to that of the train in 25 seconds. What is the length of the train in meters?",
+      "options": [
+        "200 m",
+        "250 m",
+        "300 m",
+        "350 m"
+      ],
+      "answer": 1,
+      "explanation": "Speed of the train = 72 km/h = 72 * (5/18) = 20 m/s. Total distance covered in 25 seconds = Speed * Time = 20 * 25 = 500 meters. Total distance = Length of train + Length of platform = 2 * (Length of train). Therefore, length of the train = 500 / 2 = 250 meters.",
+      "translations": {
+        "or": {
+          "question": "୭୨ କିମି/ଘଣ୍ଟା ବେଗରେ ଗତି କରୁଥିବା ଗୋଟିଏ ଟ୍ରେନ୍ ତା'ର ନିଜ ଦୈର୍ଘ୍ୟ ସହିତ ସମାନ ଦୈର୍ଘ୍ୟ ବିଶିଷ୍ଟ ଗୋଟିଏ ପ୍ଲାଟଫର୍ମକୁ ୨୫ ସେକେଣ୍ଡରେ ଅତିକ୍ରମ କରେ। ଟ୍ରେନର ଦୈର୍ଘ୍ୟ ମିଟରରେ କେତେ?",
+          "options": [
+            "୨୦୦ ମିଟର",
+            "୨୫୦ ମିଟର",
+            "୩୦୦ ମିଟର",
+            "୩୫୦ ମିଟର"
+          ],
+          "explanation": "ଟ୍ରେନର ବେଗ = ୭୨ କିମି/ଘଣ୍ଟା = ୭୨ × (୫/୧୮) = ୨୦ ମି/ସେ। ୨୫ ସେକେଣ୍ଡରେ ଅତିକ୍ରାନ୍ତ ମୋଟ ଦୂରତା = ୨୦ × ୨୫ = ୫୦୦ ମିଟର। ମୋଟ ଦୂରତା = ଟ୍ରେନର ଦୈର୍ଘ୍ୟ + ପ୍ଲାଟଫର୍ମର ଦୈର୍ଘ୍ୟ = ୨ × (ଟ୍ରେନର ଦୈର୍ଘ୍ୟ)। ତେଣୁ, ଟ୍ରେନର ଦୈର୍ଘ୍ୟ = ୫୦୦ / ୨ = ୨୫୦ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243054813-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A dishonest trader marks his goods 40% above the cost price and gives a discount of 20% to the customer. While selling, he uses a false weight of 800 g instead of 1 kg. What is his overall percentage profit?",
+      "options": [
+        "32%",
+        "36%",
+        "40%",
+        "44%"
+      ],
+      "answer": 2,
+      "explanation": "Let the cost price of 1000 g be Rs. 100. Marked Price = 100 + 40% of 100 = Rs. 140. Selling Price of 1000 g (after 20% discount) = 140 * 0.80 = Rs. 112. However, he actually sells 800 g instead of 1000 g. Cost price of 800 g = Rs. 80. Thus, Selling Price = Rs. 112 and Cost Price = Rs. 80. Profit = 112 - 80 = Rs. 32. Profit percentage = (32 / 80) * 100 = 40%.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଅସାଧୁ ବ୍ୟବସାୟୀ ତାଙ୍କ ସାମଗ୍ରୀର ମୂଲ୍ୟ କ୍ରୟ ମୂଲ୍ୟଠାରୁ ୪୦% ଅଧିକ ଚିହ୍ନିତ କରନ୍ତି ଏବଂ ଗ୍ରାହକଙ୍କୁ ୨୦% ରିହାତି ଦିଅନ୍ତି। ବିକ୍ରି କରିବା ସମୟରେ, ସେ ୧ କିଲୋଗ୍ରାମ ପରିବର୍ତ୍ତେ ୮୦୦ ଗ୍ରାମର ଓଜନ ବ୍ୟବହାର କରନ୍ତି। ତାଙ୍କର ମୋଟ ଲାଭ ପ୍ରତିଶତ କେତେ?",
+          "options": [
+            "୩୨%",
+            "୩୬%",
+            "୪୦%",
+            "୪୪%"
+          ],
+          "explanation": "ମନେକର ୧୦୦୦ ଗ୍ରାମର କ୍ରୟ ମୂଲ୍ୟ = ୧୦୦ ଟଙ୍କା। ଲିଖିତ ମୂଲ୍ୟ = ୧୪୦ ଟଙ୍କା। ୨୦% ରିହାତି ପରେ ବିକ୍ରୟ ମୂଲ୍ୟ = ୧୪୦ × ୦.୮୦ = ୧୧୨ ଟଙ୍କା। କିନ୍ତୁ ସେ ୧୦୦୦ ଗ୍ରାମ ବଦଳରେ ୮୦୦ ଗ୍ରାମ ଦିଅନ୍ତି। ୮୦୦ ଗ୍ରାମର ପ୍ରକୃତ କ୍ରୟ ମୂଲ୍ୟ = ୮୦ ଟଙ୍କା। ତେଣୁ, ବିକ୍ରୟ ମୂଲ୍ୟ = ୧୧୨ ଟଙ୍କା ଏବଂ କ୍ରୟ ମୂଲ୍ୟ = ୮୦ ଟଙ୍କା। ଲାଭ = ୧୧୨ - ୮୦ = ୩୨ ଟଙ୍କା। ଲାଭ ପ୍ରତିଶତ = (୩୨ / ୮୦) × ୧୦୦ = ୪୦%।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243066060-0",
+      "section": "Reasoning",
+      "topic": "Number Analogy",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the option that is related to the third number in the same way as the second number is related to the first number:\n14 : 196 :: 18 : ?",
+      "options": [
+        "324",
+        "289",
+        "361",
+        "400"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed is: Second number = (First number)². Thus, 14² = 196. Similarly, 18² = 324.",
+      "translations": {
+        "or": {
+          "question": "ସେହି ବିକଳ୍ପଟି ଚୟନ କରନ୍ତୁ ଯାହା ତୃତୀୟ ସଂଖ୍ୟା ସହିତ ସେହିପରି ସମ୍ପର୍କିତ ଯେପରି ଦ୍ୱିତୀୟ ସଂଖ୍ୟାଟି ପ୍ରଥମ ସଂଖ୍ୟା ସହିତ ସମ୍ପର୍କିତ:\n14 : 196 :: 18 : ?",
+          "options": [
+            "324",
+            "289",
+            "361",
+            "400"
+          ],
+          "explanation": "ଏଠାରେ ବ୍ୟବହୃତ ନିୟମଟି ହେଉଛି: ଦ୍ୱିତୀୟ ସଂଖ୍ୟା = (ପ୍ରଥମ ସଂଖ୍ୟା)²। ଅର୍ଥାତ୍, 14² = 196। ସେହିଭଳି, 18² = 324।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243066060-1",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In a certain code language, 'CUTTACK' is written as 'XFGGZXP'. How will 'PURI' be written in that same code language?",
+      "options": [
+        "KFIR",
+        "KFIQ",
+        "LFIR",
+        "KGIQ"
+      ],
+      "answer": 0,
+      "explanation": "Each letter is replaced by its opposite letter in the English alphabetical order (sum of positional values = 27): C(3)↔X(24), U(21)↔F(6), T(20)↔G(7), A(1)↔Z(26), K(11)↔P(16). Applying the same logic to 'PURI': P(16)↔K(11), U(21)↔F(6), R(18)↔I(9), I(9)↔R(18). Hence, 'PURI' becomes 'KFIR'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'CUTTACK' କୁ 'XFGGZXP' ଭାବରେ ଲେଖାଯାଇଛି। ସେହି କୋଡ୍ ଭାଷାରେ 'PURI' କୁ କିପରି ଲେଖାଯିବ?",
+          "options": [
+            "KFIR",
+            "KFIQ",
+            "LFIR",
+            "KGIQ"
+          ],
+          "explanation": "ପ୍ରତ୍ୟେକ ଅକ୍ଷରକୁ ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳାର ବିପରୀତ ଅକ୍ଷର (ସ୍ଥାନାଙ୍କର ଯୋଗଫଳ = 27) ଦ୍ୱାରା ପ୍ରତିସ୍ଥାପିତ କରାଯାଇଛି: C(3)↔X(24), U(21)↔F(6), T(20)↔G(7), A(1)↔Z(26), K(11)↔P(16)। ସେହି ନିୟମ ଅନୁସାରେ 'PURI' ପାଇଁ: P(16)↔K(11), U(21)↔F(6), R(18)↔I(9), I(9)↔R(18)। ତେଣୁ 'PURI' ର କୋଡ୍ 'KFIR' ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243078424-0",
+      "section": "General Knowledge",
+      "topic": "Geography of Odisha",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Tarabalo, known for having one of the largest clusters of hot springs in Odisha, is located in which of the following districts?",
+      "options": [
+        "Ganjam",
+        "Nayagarh",
+        "Khordha",
+        "Angul"
+      ],
+      "answer": 1,
+      "explanation": "Tarabalo hot spring cluster is located in the Nayagarh district of Odisha. It is one of the largest hot spring areas in the state.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ସବୁଠାରୁ ବଡ଼ ଉଷ୍ମ ପ୍ରସ୍ରବଣ ଗୁଚ୍ଛ ମଧ୍ୟରୁ ଅନ୍ୟତମ ଭାବେ ପରିଚିତ 'ତାରାବଲୋ' ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ଗଞ୍ଜାମ",
+            "ନୟାଗଡ଼",
+            "ଖୋର୍ଦ୍ଧା",
+            "ଅନୁଗୋଳ"
+          ],
+          "explanation": "ତାରାବଲୋ ଉଷ୍ମ ପ୍ରସ୍ରବଣ ଓଡ଼ିଶାର ନୟାଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଏହା ରାଜ୍ୟର ଅନ୍ୟତମ ପ୍ରସିଦ୍ଧ ଉଷ୍ମ ପ୍ରସ୍ରବଣ ଅଞ୍ଚଳ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243078424-1",
+      "section": "General Knowledge",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following was appointed as the first Governor of the separate Odisha Province when it was created on April 1, 1936?",
+      "options": [
+        "Sir John Austen Hubback",
+        "Sir Hawthorne Lewis",
+        "Sir Chandulal Madhavlal Trivedi",
+        "Sir George Townsend Boag"
+      ],
+      "answer": 0,
+      "explanation": "Sir John Austen Hubback was appointed as the first Governor of the newly created Odisha province on April 1, 1936.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୬ ମସିହା ଅପ୍ରେଲ ୧ ତାରିଖରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠିତ ହେବା ସମୟରେ ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କାହାକୁ ପ୍ରଥମ ରାଜ୍ୟପାଳ ଭାବରେ ନିଯୁକ୍ତ କରାଯାଇଥିଲା?",
+          "options": [
+            "ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବ୍ୟାକ୍",
+            "ସାର୍ ହଥର୍ଣ୍ଣ ଲୁଇସ୍",
+            "ସାର୍ ଚନ୍ଦୁଲାଲ ମାଧବଲାଲ ତ୍ରିବେଦୀ",
+            "ସାର୍ ଜର୍ଜ ଟାଉନ୍‌ସେଣ୍ଡ ବୋଆଗ୍"
+          ],
+          "explanation": "୧୯୩୬ ମସିହା ଅପ୍ରେଲ ୧ ତାରିଖରେ ନୂତନ ଭାବେ ଗଠିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ରାଜ୍ୟପାଳ ଭାବରେ ସାର୍ ଜନ୍ ଅଷ୍ଟିନ୍ ହବ୍ୟାକ୍ ନିଯୁକ୍ତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243094165-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography and Wildlife",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following wildlife sanctuaries in Odisha is recognized as the world's largest nesting beach for Olive Ridley Sea Turtles?",
+      "options": [
+        "Debrigarh Wildlife Sanctuary",
+        "Gahirmatha Marine Sanctuary",
+        "Karlapat Wildlife Sanctuary",
+        "Hadgarh Wildlife Sanctuary"
+      ],
+      "answer": 1,
+      "explanation": "Gahirmatha Marine Sanctuary, located in the Kendrapara district of Odisha, is world-renowned as the largest mass nesting site (rookery) for Olive Ridley sea turtles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ଅଭୟାରଣ୍ୟଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଅଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କାଛେଡ଼ାମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ପ୍ରଜନନ ସ୍ଥଳ ଭାବରେ ସ୍ୱୀକୃତିପ୍ରାପ୍ତ?",
+          "options": [
+            "ଡେବ୍ରୀଗଡ଼ ଅଭୟାରଣ୍ୟ",
+            "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ",
+            "କର୍ଲାପାଟ ଅଭୟାରଣ୍ୟ",
+            "ହାଡ଼ଗଡ଼ ଅଭୟାରଣ୍ୟ"
+          ],
+          "explanation": "କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ହେଉଛି ଅଲିଭ୍ ରିଡ୍‌ଲେ ସମୁଦ୍ର କାଛେଡ଼ାମାନଙ୍କର ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ପ୍ରଜନନ ଓ ବସା ବାନ୍ଧିବା ସ୍ଥାନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786243094165-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Medieval History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which Gajapati ruler of Odisha assumed the grand title of 'Gajapati Gaudeswara Naba Koti Karnata Kalavargeswara' after his extensive military conquests?",
+      "options": [
+        "Kapilendra Deva",
+        "Purushottama Deva",
+        "Prataparudra Deva",
+        "Narasimha Deva I"
+      ],
+      "answer": 0,
+      "explanation": "Kapilendra Deva (1435–1466 CE), the founder of the Suryavamsi Gajapati Dynasty, assumed the title 'Gajapati Gaudeswara Naba Koti Karnata Kalavargeswara' following his vast empire expansion stretching from Bengal to South India.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଦକ୍ଷିଣ ଓ ଉତ୍ତର ଭାରତରେ ବ୍ୟାପକ ବିଜୟ ପରେ ଓଡ଼ିଶାର କେଉଁ ଗଜପତି ଶାସକ 'ଗଜପତି ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଲବର୍ଗେଶ୍ୱର' ଉପାଧି ଧାରଣ କରିଥିଲେ?",
+          "options": [
+            "କପିଳେନ୍ଦ୍ର ଦେବ",
+            "ପୁରୁଷୋତ୍ତମ ଦେବ",
+            "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+            "ପ୍ରଥମ ନରସିଂହ ଦେବ"
+          ],
+          "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ବଂଶର ସଂସ୍ଥାପକ କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୫-୧୪୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ନିଜର ବିଶାଳ ସାମ୍ରାଜ୍ୟ ବିସ୍ତାର ପରେ 'ଗଜପତି ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଲବର୍ଗେଶ୍ୱର' ଉପାଧି ଗ୍ରହଣ କରିଥିଲେ।"
         }
       }
     }

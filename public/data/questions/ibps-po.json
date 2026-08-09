@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7174,6 +7174,136 @@
       ],
       "answer": 1,
       "explanation": "The Deposit Insurance Corporation (DIC) was merged with the Credit Guarantee Corporation of India Ltd. (CGCI) on July 15, 1978, resulting in the creation of the Deposit Insurance and Credit Guarantee Corporation (DICGC).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786242988870-0",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Two trains of length 140 m and 160 m are running in opposite directions on parallel tracks at speeds of 60 km/h and 48 km/h respectively. In how much time (in seconds) will they cross each other completely?",
+      "options": [
+        "8 seconds",
+        "10 seconds",
+        "12 seconds",
+        "15 seconds"
+      ],
+      "answer": 1,
+      "explanation": "Total distance to be covered to cross each other = Sum of lengths of the two trains = 140 + 160 = 300 meters. Since the trains are moving in opposite directions, Relative Speed = 60 + 48 = 108 km/h. Converting speed to m/s: 108 * (5/18) = 30 m/s. Time required = Total Distance / Relative Speed = 300 / 30 = 10 seconds."
+    },
+    {
+      "id": "ibps-po-ai-1786242988870-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipes A and B are inlet pipes capable of filling a tank in 20 hours and 30 hours respectively, while Pipe C is an outlet pipe. When all three pipes are opened together, the tank is filled in 15 hours. If Pipe A, Pipe B, and Pipe C are opened individually for one hour each in a repeating sequence (A for the 1st hour, B for the 2nd hour, C for the 3rd hour, and so on), in how many hours will the tank be completely filled?",
+      "options": [
+        "42.5 hours",
+        "43.5 hours",
+        "44 hours",
+        "45 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let total tank capacity = LCM(20, 30, 15) = 60 units. Efficiency of A = +3 units/hr, B = +2 units/hr. Combined efficiency (A+B+C) = 60/15 = +4 units/hr. Thus, efficiency of C = 4 - (3 + 2) = -1 unit/hr. In one 3-hour cycle, total work done = 3 + 2 - 1 = +4 units. In 13 cycles (39 hours), work done = 13 * 4 = 52 units. In the 40th hour (A works), total work = 52 + 3 = 55 units. In the 41st hour (B works), total work = 55 + 2 = 57 units. In the 42nd hour (C works), total work = 57 - 1 = 56 units. In the 43rd hour (A works), total work = 56 + 3 = 59 units. To fill the remaining 1 unit, Pipe B (efficiency = 2 units/hr) takes 1/2 hour (0.5 hours). Total time = 43 + 0.5 = 43.5 hours."
+    },
+    {
+      "id": "ibps-po-ai-1786243008819-0",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the following coded relationships carefully:\n'A + B' means 'A is the father of B'\n'A - B' means 'A is the sister of B'\n'A * B' means 'A is the brother of B'\n'A / B' means 'A is the mother of B'\n\nIn the expression 'M + N * O / P - Q', how is M related to Q?",
+      "options": [
+        "Father",
+        "Maternal Grandfather",
+        "Paternal Grandfather",
+        "Uncle"
+      ],
+      "answer": 1,
+      "explanation": "From the given expression 'M + N * O / P - Q':\n1. 'P - Q' means P is the sister of Q, so P and Q are siblings.\n2. 'O / P' means O is the mother of P (and thus also the mother of Q).\n3. 'N * O' means N is the brother of O.\n4. 'M + N' means M is the father of N (and thus also the father of O).\nSince M is the father of Q's mother (O), M is the Maternal Grandfather of Q."
+    },
+    {
+      "id": "ibps-po-ai-1786243008819-1",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Each of the questions below consists of a question followed by two statements numbered I and II. You have to decide whether the data provided in the statements are sufficient to answer the question.\n\nFive persons – V, W, X, Y, and Z – are sitting in a straight row facing North. Who sits at the extreme right end of the row?\n\nStatement I: W sits second to the left of Z. X is an immediate neighbor of both V and W.\nStatement II: Y sits to the immediate right of Z. V does not sit at any of the extreme ends.",
+      "options": [
+        "If the data in statement I alone is sufficient to answer the question, while the data in statement II alone is not sufficient.",
+        "If the data in statement II alone is sufficient to answer the question, while the data in statement I alone is not sufficient.",
+        "If the data either in statement I alone or in statement II alone is sufficient to answer the question.",
+        "If the data given in both statements I and II together are not sufficient to answer the question."
+      ],
+      "answer": 0,
+      "explanation": "From Statement I: 'W sits second to the left of Z' implies W _ Z. 'X is an immediate neighbor of both V and W' implies X is placed directly between V and W (V-X-W or W-X-V). If W-X-V, V would occupy the same position as Z (second to the right of W), which is impossible. Thus, the sequence must be V-X-W-_ -Z. Since there are 5 persons in total, this fixes all 5 positions as V, X, W, Y, Z from left to right. Hence, Z sits at the extreme right end. Statement I alone is sufficient.\n\nFrom Statement II: 'Y sits to the immediate right of Z' gives the block Z-Y. This block can be placed at different positions in the row (e.g., V-W-X-Z-Y or W-V-Z-Y-X), so the person at the extreme right end cannot be uniquely determined. Statement II alone is not sufficient.\n\nTherefore, Statement I alone is sufficient to answer the question."
+    },
+    {
+      "id": "ibps-po-ai-1786243020705-0",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most appropriate word to logically link the two ideas: 'The fiscal deficit surpassed the initial targets set by the ministry; ________, international credit rating agencies maintained a stable outlook on the nation\\'s sovereign debt.'",
+      "options": [
+        "hitherto",
+        "thereby",
+        "nevertheless",
+        "consequently"
+      ],
+      "answer": 2,
+      "explanation": "'Nevertheless' is a conjunctive adverb used to introduce a contrastive statement ('in spite of that'). The second clause presents an unexpected positive outcome despite the bad news in the first clause. 'Hitherto' means 'until now', 'thereby' indicates cause/result, and 'consequently' indicates a direct logical result."
+    },
+    {
+      "id": "ibps-po-ai-1786243020705-1",
+      "section": "English",
+      "topic": "Grammatical Inversion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the option that correctly applies grammatical inversion to the following statement: 'The regional manager rarely approves budget allocations without prior sanction from the board.'",
+      "options": [
+        "Rarely the regional manager approves budget allocations without prior sanction from the board.",
+        "Rarely does the regional manager approve budget allocations without prior sanction from the board.",
+        "Rarely did the regional manager approved budget allocations without prior sanction from the board.",
+        "Rarely has the regional manager approving budget allocations without prior sanction from the board."
+      ],
+      "answer": 1,
+      "explanation": "When a negative adverb like 'rarely' is placed at the beginning of a sentence for emphasis, inverted word order (auxiliary verb + subject + main verb) must be used. Since the original sentence is in the simple present tense ('approves'), the auxiliary 'does' is placed before the subject 'the regional manager', followed by the base form of the verb 'approve'."
+    },
+    {
+      "id": "ibps-po-ai-1786243038807-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Monetary Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under which section of the Reserve Bank of India (RBI) Act, 1934, are Scheduled Commercial Banks required to maintain the Cash Reserve Ratio (CRR) with the RBI?",
+      "options": [
+        "Section 18",
+        "Section 24",
+        "Section 42(1)",
+        "Section 35A"
+      ],
+      "answer": 2,
+      "explanation": "Section 42(1) of the Reserve Bank of India Act, 1934 requires all Scheduled Commercial Banks to maintain a specified minimum Cash Reserve Ratio (CRR) with the RBI as an average daily balance.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786243038807-1",
+      "section": "General Awareness",
+      "topic": "Basel III Prudential Framework",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India's Basel III capital regulations, what is the minimum total Capital to Risk-weighted Assets Ratio (CRAR), excluding the Capital Conservation Buffer (CCB), that Indian Scheduled Commercial Banks are required to maintain?",
+      "options": [
+        "8.0%",
+        "9.0%",
+        "10.5%",
+        "11.5%"
+      ],
+      "answer": 1,
+      "explanation": "Under RBI's Basel III guidelines, Indian Scheduled Commercial Banks must maintain a minimum Total CRAR of 9.0% (excluding CCB), which is 1 percentage point higher than the Basel Committee's minimum prescription of 8.0%. Including the 2.5% CCB, the total required CRAR is 11.5%.",
       "status": "pending"
     }
   ]
