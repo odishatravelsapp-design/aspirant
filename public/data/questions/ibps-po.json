@@ -7435,6 +7435,176 @@
       "answer": 1,
       "explanation": "According to the RBI's Prudential Framework for Resolution of Stressed Assets (June 7, 2019), lenders must initiate a review of the borrower account within 30 days from the date of default. This 30-day window is designated as the 'Review Period'.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-0",
+      "section": "General Awareness",
+      "topic": "Banking History",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which bank was created in 1921 through the amalgamation of the three Presidency Banks (Bank of Bengal, Bank of Bombay, and Bank of Madras)?",
+      "options": [
+        "Imperial Bank of India",
+        "Reserve Bank of India",
+        "State Bank of India",
+        "Punjab National Bank"
+      ],
+      "answer": 0,
+      "explanation": "The Imperial Bank of India was established on 27 January 1921 by reorganizing and amalgamating the three Presidency Banks. In 1955, it was nationalised and renamed the State Bank of India."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-1",
+      "section": "General Awareness",
+      "topic": "Financial Institutions (NABARD, SIDBI, EXIM)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which committee's recommendations led to the establishment of the National Bank for Agriculture and Rural Development (NABARD) in 1982?",
+      "options": [
+        "Narasimham Committee",
+        "C. Rangarajan Committee",
+        "B. Sivaraman Committee",
+        "Y. V. Reddy Committee"
+      ],
+      "answer": 2,
+      "explanation": "NABARD was established on 12 July 1982 based on the recommendations of the 'Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development' (CRAFICARD), chaired by Shri B. Sivaraman."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-2",
+      "section": "General Awareness",
+      "topic": "Money Market & Capital Market",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Indian money market, what is the maximum tenor for which Commercial Papers (CPs) can be issued by eligible entities?",
+      "options": [
+        "90 days",
+        "180 days",
+        "1 year",
+        "3 years"
+      ],
+      "answer": 2,
+      "explanation": "Commercial Papers (CPs) are short-term, unsecured promissory notes issued by corporates and financial institutions with a maturity period ranging from a minimum of 7 days to a maximum of up to 1 year from the date of issue."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-3",
+      "section": "General Awareness",
+      "topic": "Insurance & Pension Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the eligible entry age range for subscribers applying under the Atal Pension Yojana (APY)?",
+      "options": [
+        "18 years to 40 years",
+        "21 years to 50 years",
+        "18 years to 50 years",
+        "25 years to 45 years"
+      ],
+      "answer": 0,
+      "explanation": "Atal Pension Yojana (APY) is targeted towards unorganised sector workers aged between 18 and 40 years, guaranteeing a minimum monthly pension starting at age 60."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-4",
+      "section": "General Awareness",
+      "topic": "Government Welfare Schemes",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Pradhan Mantri MUDRA Yojana (PMMY), what is the maximum loan limit offered under the 'Tarun' category?",
+      "options": [
+        "₹50,000",
+        "₹5 lakh",
+        "₹10 lakh",
+        "₹20 lakh"
+      ],
+      "answer": 2,
+      "explanation": "PMMY classifies loans into three categories: Shishu (up to ₹50,000), Kishore (above ₹50,000 to ₹5 lakh), and Tarun (above ₹5 lakh and up to ₹10 lakh)."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-5",
+      "section": "General Awareness",
+      "topic": "Indian Economy & Planning",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Five-Year Plan of India was discontinued one year ahead of its scheduled end date by the Janata Party government in 1978?",
+      "options": [
+        "Third Five-Year Plan",
+        "Fourth Five-Year Plan",
+        "Fifth Five-Year Plan",
+        "Sixth Five-Year Plan"
+      ],
+      "answer": 2,
+      "explanation": "The Fifth Five-Year Plan (originally 1974–1979) was terminated early in 1978 by the Janata Party government, which subsequently introduced the Rolling Plan concept."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-6",
+      "section": "General Awareness",
+      "topic": "Union Budget & Taxation (GST)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Section 15 of the Central Goods and Services Tax (CGST) Act, 2017, what is the primary basis used for determining the value of a taxable supply of goods or services?",
+      "options": [
+        "Fair Market Value",
+        "Transaction Value",
+        "Cost of Production plus 10%",
+        "Maximum Retail Price"
+      ],
+      "answer": 1,
+      "explanation": "According to Section 15(1) of the CGST Act, 2017, the value of a supply of goods or services shall be the 'Transaction Value', which is the price actually paid or payable when the supplier and recipient are not related and price is the sole consideration."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-7",
+      "section": "General Awareness",
+      "topic": "Indian Constitution & Articles",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which Article of the Constitution of India provides for the establishment and operation of the Consolidated Fund of India and Public Account of India?",
+      "options": [
+        "Article 265",
+        "Article 266",
+        "Article 267",
+        "Article 280"
+      ],
+      "answer": 1,
+      "explanation": "Article 266 of the Indian Constitution provides for the Consolidated Funds and Public Accounts of India and of the States. Article 267 deals with the Contingency Fund, and Article 280 deals with the Finance Commission."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-8",
+      "section": "General Awareness",
+      "topic": "Financial Institutions (NABARD, SIDBI, EXIM)",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "As per the statutory provisions governing the Export-Import Bank of India (EXIM Bank) under the EXIM Bank Act, 1981, who holds its entire paid-up share capital?",
+      "options": [
+        "Reserve Bank of India",
+        "Government of India",
+        "Consortium of Public Sector Banks",
+        "Jointly held by RBI and Ministry of Finance"
+      ],
+      "answer": 1,
+      "explanation": "EXIM Bank was set up under the Export-Import Bank of India Act, 1981, as a premier export finance institution. Its entire issued and paid-up capital is wholly owned by the Central Government of India."
+    },
+    {
+      "id": "ibps-po-gk-1786331961762-9",
+      "section": "General Awareness",
+      "topic": "Banking History",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which former public sector bank in India, later merged into Union Bank of India in 2020, was originally founded in 1906 under the name 'The Canara Banking Corporation (Udipi) Limited'?",
+      "options": [
+        "Karnataka Bank",
+        "Corporation Bank",
+        "Syndicate Bank",
+        "Vijaya Bank"
+      ],
+      "answer": 1,
+      "explanation": "Corporation Bank was established in 1906 in Udupi as 'The Canara Banking Corporation (Udipi) Limited'. It was renamed Corporation Bank Limited in 1972, nationalised in 1980, and amalgamated into Union Bank of India on April 1, 2020."
     }
   ]
 }

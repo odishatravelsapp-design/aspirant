@@ -4166,6 +4166,261 @@
       ],
       "answer": 1,
       "explanation": "Carl Rogers pioneered Person-Centered (Non-Directive) Counseling, emphasizing unconditional positive regard, congruence, and counselor empathy to allow the client to lead self-discovery."
+    },
+    {
+      "id": "tgt-edu-1786331932877-0",
+      "section": "Teaching Aptitude",
+      "topic": "NEP 2020",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the National Education Policy (NEP) 2020, what is the new pedagogical and curricular structure that replaces the earlier 10+2 system?",
+      "options": [
+        "5+3+3+4",
+        "5+3+4+3",
+        "3+5+3+4",
+        "4+3+3+5"
+      ],
+      "answer": 0,
+      "explanation": "NEP 2020 replaces the 10+2 structure with a new 5+3+3+4 structure corresponding to ages 3-8 (Foundational), 8-11 (Preparatory), 11-14 (Middle), and 14-18 (Secondary)."
+    },
+    {
+      "id": "tgt-edu-1786331932877-1",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Section 3 of the Right of Children to Free and Compulsory Education (RTE) Act, 2009, children of which age group have the fundamental right to free and compulsory education?",
+      "options": [
+        "3 to 14 years",
+        "6 to 14 years",
+        "6 to 18 years",
+        "5 to 15 years"
+      ],
+      "answer": 1,
+      "explanation": "The RTE Act 2009 guarantees free and compulsory education to all children aged 6 to 14 years in a neighbourhood school until the completion of elementary education."
+    },
+    {
+      "id": "tgt-edu-1786331932877-2",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which component of the human memory system is characterized by an virtually unlimited storage capacity and the ability to retain information over long periods?",
+      "options": [
+        "Sensory memory",
+        "Short-term memory",
+        "Working memory",
+        "Long-term memory"
+      ],
+      "answer": 3,
+      "explanation": "Long-term memory (LTM) has an unlimited capacity and duration, allowing storage of information ranging from days to a lifetime."
+    },
+    {
+      "id": "tgt-edu-1786331932877-3",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who among the following social psychologists is widely recognized for coining the term 'Action Research' in the mid-1940s?",
+      "options": [
+        "Stephen M. Corey",
+        "Kurt Lewin",
+        "John Elliott",
+        "Lawrence Stenhouse"
+      ],
+      "answer": 1,
+      "explanation": "Kurt Lewin coined the term 'Action Research' around 1944 to describe a process of cyclical inquiry to solve practical social problems."
+    },
+    {
+      "id": "tgt-edu-1786331932877-4",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Jacob Kounin's classroom management model, which term describes a teacher's ability to demonstrate total awareness of classroom activities and student behavior at all times?",
+      "options": [
+        "Overlapping",
+        "Withitness",
+        "Smoothness",
+        "Momentum"
+      ],
+      "answer": 1,
+      "explanation": "Kounin defined 'Withitness' as the teacher's ability to communicate to students that they know what is going on in all parts of the classroom at all times."
+    },
+    {
+      "id": "tgt-edu-1786331932877-5",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Noam Chomsky, human children are born with an innate biological capacity that allows them to acquire language naturally. What is this construct called?",
+      "options": [
+        "Language Acquisition Device (LAD)",
+        "Zone of Proximal Development (ZPD)",
+        "Universal Grammar Module (UGM)",
+        "Behavioral Acquisition Mechanism (BAM)"
+      ],
+      "answer": 0,
+      "explanation": "Noam Chomsky proposed the concept of the Language Acquisition Device (LAD), an innate mental mechanism that enables children to construct the grammar of their native language."
+    },
+    {
+      "id": "tgt-edu-1786331932877-6",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In a standard normal distribution curve, approximately what percentage of total cases lie within one standard deviation above and below the mean (±1σ)?",
+      "options": [
+        "50%",
+        "68%",
+        "95%",
+        "99.7%"
+      ],
+      "answer": 1,
+      "explanation": "In a normal distribution, approximately 68.26% (roughly 68%) of the area/cases fall within ±1 standard deviation of the mean."
+    },
+    {
+      "id": "tgt-edu-1786331932877-7",
+      "section": "Teaching Aptitude",
+      "topic": "National Curriculum Framework (NCF)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The National Curriculum Framework for School Education (NCF-SE 2023) was developed under the leadership of the National Steering Committee headed by which eminent personality?",
+      "options": [
+        "Dr. K. Kasturirangan",
+        "Prof. Yash Pal",
+        "Prof. M. S. Swaminathan",
+        "Dr. R. Chidambaram"
+      ],
+      "answer": 0,
+      "explanation": "Dr. K. Kasturirangan headed the National Steering Committee that drafted the National Curriculum Framework for School Education (NCF-SE 2023)."
+    },
+    {
+      "id": "tgt-edu-1786331932877-8",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under the Schedule of the RTE Act 2009, what is the mandatory Pupil-Teacher Ratio (PTR) prescribed for primary classes (Classes I to V) for an enrolment up to 200 students?",
+      "options": [
+        "25:1",
+        "30:1",
+        "35:1",
+        "40:1"
+      ],
+      "answer": 1,
+      "explanation": "The RTE Act, 2009 specifies a Pupil-Teacher Ratio (PTR) of 30:1 for primary schools (Classes I to V) up to an enrolment of 200 students."
+    },
+    {
+      "id": "tgt-edu-1786331932877-9",
+      "section": "Teaching Aptitude",
+      "topic": "Memory & Forgetting",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "When newly learned information prevents or interferes with the retrieval of previously stored information, what phenomenon is occurring?",
+      "options": [
+        "Proactive interference",
+        "Retroactive interference",
+        "Anterograde amnesia",
+        "Repression"
+      ],
+      "answer": 1,
+      "explanation": "Retroactive interference occurs when new learning disrupts the recall of older information, whereas proactive interference occurs when older memories disrupt new learning."
+    },
+    {
+      "id": "tgt-edu-1786331932877-10",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Stephen M. Corey, who adapted action research to education, which sequence correctly reflects the essential steps of an action research cycle?",
+      "options": [
+        "Identification of problem -> Formulation of action hypothesis -> Execution of plan & data collection -> Evaluation",
+        "Formulation of hypothesis -> Problem identification -> Action plan implementation -> Data collection",
+        "Execution of plan -> Problem identification -> Hypothesis formulation -> Data collection -> Evaluation",
+        "Collection of baseline data -> Problem identification -> Hypothesis formulation -> Implementation"
+      ],
+      "answer": 0,
+      "explanation": "Corey's classic action research steps follow: identifying a practical problem, formulating an action hypothesis, executing the plan while collecting data, and evaluating the outcome."
+    },
+    {
+      "id": "tgt-edu-1786331932877-11",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In educational testing, what is the constant value of the standard deviation for any set of standardized Z-scores?",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "Z-scores convert raw scores into a standard distribution where the mean is always 0 and the standard deviation is always 1."
+    },
+    {
+      "id": "tgt-edu-1786331932877-12",
+      "section": "Teaching Aptitude",
+      "topic": "Language Acquisition",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Stephen Krashen's Monitor Model, which hypothesis asserts that language acquisition occurs best when the learner receives language input that is one step beyond their current stage of competence?",
+      "options": [
+        "The Natural Order Hypothesis",
+        "The Input Hypothesis (i+1)",
+        "The Affective Filter Hypothesis",
+        "The Acquisition-Learning Hypothesis"
+      ],
+      "answer": 1,
+      "explanation": "Krashen's Input Hypothesis proposes that learners acquire language when exposed to 'comprehensible input' represented as 'i+1', where 'i' is the learner's current competence and '+1' is the next step."
+    },
+    {
+      "id": "tgt-edu-1786331932877-13",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Management",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Rudolf Dreikurs' Model of Social Discipline, misbehavior in school children is driven by four 'mistaken goals'. Which of the following correctly lists all four mistaken goals?",
+      "options": [
+        "Attention, Power, Revenge, Display of Inadequacy",
+        "Fear, Anger, Control, Isolation",
+        "Anxiety, Dominance, Jealousy, Withdrawal",
+        "Rebellion, Compliance, Helplessness, Superiority"
+      ],
+      "answer": 0,
+      "explanation": "Dreikurs identified four mistaken goals of student misbehavior: seeking Attention, seeking Power, seeking Revenge, and Displaying Inadequacy (or assumed disability)."
+    },
+    {
+      "id": "tgt-edu-1786331932877-14",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Measurement & Statistics",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In item analysis of a norm-referenced achievement test, an item has a Difficulty Index (P) of 0.85 and a Discrimination Index (D) of 0.05. What is the most appropriate psychometric decision?",
+      "options": [
+        "Retain the item as it demonstrates excellent discrimination between groups.",
+        "Modify the distractors slightly to increase its overall difficulty.",
+        "Discard or thoroughly revise the item because its discrimination power is unacceptably low.",
+        "Increase the testing time allotted to students to balance item performance."
+      ],
+      "answer": 2,
+      "explanation": "A Discrimination Index below 0.20 indicates poor ability to differentiate high-performing from low-performing students. Combined with a very high difficulty index (0.85 = very easy), the item fails norm-referenced criteria and must be discarded or revised."
     }
   ]
 }
