@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -7882,6 +7882,136 @@
       ],
       "answer": 3,
       "explanation": "The revised PCA framework for commercial banks issued by the RBI focuses on three key financial parameters to monitor banks: Capital (CRAR/CET 1), Asset Quality (Net NPA Ratio), and Leverage (Leverage Ratio). Credit-to-Deposit (CD) Ratio is not a parameter under the PCA framework.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786329581562-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A person invests ₹5,000 in a bank offering a simple interest rate of 8% per annum. What is the total amount he will receive at the end of 3 years?",
+      "options": [
+        "₹5,800",
+        "₹6,000",
+        "₹6,200",
+        "₹6,400"
+      ],
+      "answer": 2,
+      "explanation": "Simple Interest (SI) = (Principal × Rate × Time) / 100 = (5000 × 8 × 3) / 100 = ₹1,200. Total Amount = Principal + SI = ₹5,000 + ₹1,200 = ₹6,200."
+    },
+    {
+      "id": "ibps-clerk-ai-1786329581562-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A can complete a task in 20 days, while B can complete the same task in 30 days. They start working together, but A leaves after 5 days. How many more days will B take to finish the remaining work alone?",
+      "options": [
+        "12.5 days",
+        "15 days",
+        "17.5 days",
+        "20 days"
+      ],
+      "answer": 2,
+      "explanation": "Let total work = LCM(20, 30) = 60 units. Efficiency of A = 60/20 = 3 units/day, and efficiency of B = 60/30 = 2 units/day. Combined work done in 5 days = (3 + 2) × 5 = 25 units. Remaining work = 60 - 25 = 35 units. Time taken by B alone = 35 / 2 = 17.5 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1786329594997-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'TIGER' is coded as 'VKIGT'. How will 'PANDA' be coded in that same language?",
+      "options": [
+        "RCPFC",
+        "RCNFC",
+        "SDQFD",
+        "QBOEB"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by 2 positions in alphabetical order: T (+2) -> V, I (+2) -> K, G (+2) -> I, E (+2) -> G, R (+2) -> T. Applying the same rule to 'PANDA': P (+2) -> R, A (+2) -> C, N (+2) -> P, D (+2) -> F, A (+2) -> C. Thus, 'PANDA' is coded as 'RCPFC'."
+    },
+    {
+      "id": "ibps-clerk-ai-1786329594997-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Study the following information carefully and answer the question given below:\n'A + B' means 'A is the father of B'\n'A - B' means 'A is the mother of B'\n'A * B' means 'A is the brother of B'\n'A % B' means 'A is the sister of B'\nWhich of the following expressions indicates that 'P is the maternal uncle of Q'?",
+      "options": [
+        "P + M - Q",
+        "P * M - Q",
+        "P % M + Q",
+        "P - M * Q"
+      ],
+      "answer": 1,
+      "explanation": "For P to be the maternal uncle of Q, P must be male and the brother of Q's mother. In option (B) 'P * M - Q': 'P * M' means P is the brother of M, and 'M - Q' means M is the mother of Q. Thus, P is the brother of Q's mother, which makes P the maternal uncle of Q."
+    },
+    {
+      "id": "ibps-clerk-ai-1786329605716-0",
+      "section": "English",
+      "topic": "Fill in the Blanks",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the pair of words that best fits in the blanks to make the sentence contextually and grammatically correct:\n\nThe new policy aims to __________ the economic burden on low-income families by offering __________ subsidies for essential goods.",
+      "options": [
+        "alleviate, substantial",
+        "aggravate, minimal",
+        "generate, trivial",
+        "escalate, huge"
+      ],
+      "answer": 0,
+      "explanation": "'Alleviate' means to make a problem or burden less severe, which fits logically with reducing an economic burden. 'Substantial' means large or significant, which correctly describes helpful subsidies."
+    },
+    {
+      "id": "ibps-clerk-ai-1786329605716-1",
+      "section": "English",
+      "topic": "Phrase Replacement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence given below, choose the option that correctly replaces the bold phrase to make the sentence grammatically and idiomatically accurate:\n\nThe CEO decided to **take the bull from the horns** when faced with the sudden financial crisis during the quarterly meeting.",
+      "options": [
+        "take the bull from its horns",
+        "take the bull by the horns",
+        "pull the bull by horns",
+        "taking the bull by horns"
+      ],
+      "answer": 1,
+      "explanation": "The correct idiomatic expression is 'take the bull by the horns', which means to deal with a difficult situation directly and courageously."
+    },
+    {
+      "id": "ibps-clerk-ai-1786329622081-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The Reserve Bank of India introduced the Standing Deposit Facility (SDF) in April 2022 as an additional tool for liquidity management. Which of the following is the defining feature of the SDF?",
+      "options": [
+        "It requires commercial banks to provide government securities to RBI as collateral.",
+        "It allows the RBI to absorb liquidity from banks without providing government securities as collateral.",
+        "It is used exclusively by foreign banks operating in India to maintain required CRR.",
+        "It carries an interest rate higher than the Repo Rate to encourage long-term deposits."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) allows the RBI to absorb surplus liquidity from commercial banks without offering government securities as collateral, unlike the traditional Reverse Repo facility.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786329622082-1",
+      "section": "General Awareness",
+      "topic": "Insurance Sector Policy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Following the enactment of the Insurance (Amendment) Act, 2021, what is the maximum foreign direct investment (FDI) limit permitted in Indian insurance companies under the automatic route?",
+      "options": [
+        "49%",
+        "51%",
+        "74%",
+        "100%"
+      ],
+      "answer": 2,
+      "explanation": "The Insurance (Amendment) Act, 2021 increased the maximum permissible limit for Foreign Direct Investment (FDI) in Indian insurance companies from 49% to 74% under the automatic route.",
       "status": "pending"
     }
   ]

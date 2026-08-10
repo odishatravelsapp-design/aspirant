@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -8516,6 +8516,176 @@
       ],
       "answer": 1,
       "explanation": "Carl Rogers pioneered Person-Centered (Non-Directive) Counseling, emphasizing unconditional positive regard, congruence, and counselor empathy to allow the client to lead self-discovery."
+    },
+    {
+      "id": "pgt-ai-1786330092805-0",
+      "section": "Teaching Aptitude",
+      "topic": "Micro-teaching Cycle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Indian model of micro-teaching developed by NCERT, what is the standard duration specified for the 'Teaching' phase?",
+      "options": [
+        "5 minutes",
+        "6 minutes",
+        "10 minutes",
+        "12 minutes"
+      ],
+      "answer": 1,
+      "explanation": "In the NCERT model of micro-teaching, the standard time allocated for the 'Teaching' phase is 6 minutes. The entire micro-teaching cycle lasts for 36 minutes (Teach: 6 min, Feedback: 6 min, Re-plan: 12 min, Re-teach: 6 min, Re-feedback: 6 min).",
+      "translations": {
+        "or": {
+          "question": "NCERT ଦ୍ୱାରା ବିକଶିତ ମାଇକ୍ରୋ-ଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ) ର ଭାରତୀୟ ମଡେଲ୍ ଅନୁଯାୟୀ, 'ଶିକ୍ଷଣ' (Teaching) ପର୍ଯ୍ୟାୟ ପାଇଁ ନିର୍ଦ୍ଧାରିତ ମାନକ ସମୟ କେତେ?",
+          "options": [
+            "୫ ମିନିଟ୍",
+            "୬ ମିନିଟ୍",
+            "୧୦ ମିନିଟ୍",
+            "୧୨ ମିନିଟ୍"
+          ],
+          "explanation": "NCERT ର ମାଇକ୍ରୋ-ଟିଚିଂ ମଡେଲରେ 'ଶିକ୍ଷଣ' ପର୍ଯ୍ୟାୟ ପାଇଁ ନିର୍ଦ୍ଧାରିତ ସମୟ ହେଉଛି ୬ ମିନିଟ୍। ସମ୍ପୂର୍ଣ୍ଣ ମାଇକ୍ରୋ-ଟିଚିଂ ଚକ୍ର ୩୬ ମିନିଟର ଅଟେ (ଶିକ୍ଷଣ: ୬ ମିନିଟ୍, ପ୍ରତିପୋଷଣ: ୬ ମିନିଟ୍, ପୁନଃ-ଯୋଜନା: ୧୨ ମିନିଟ୍, ପୁନଃ-ଶିକ୍ଷଣ: ୬ ମିନିଟ୍, ପୁନଃ-ପ୍ରତିପୋଷଣ: ୬ ମିନିଟ୍)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786330092805-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which specific Model of Teaching was designed by Richard Suchman to train students in causal reasoning and independent scientific inquiry?",
+      "options": [
+        "Concept Attainment Model",
+        "Inquiry Training Model",
+        "Advance Organizer Model",
+        "Jurisprudential Inquiry Model"
+      ],
+      "answer": 1,
+      "explanation": "The Inquiry Training Model was developed by Richard Suchman to help learners inquire independently, identify cause-and-effect relationships, and process information logically using scientific procedures.",
+      "translations": {
+        "or": {
+          "question": "ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ କାରଣ-ଏବଂ-ପ୍ରଭାବ ଯୁକ୍ତି ଏବଂ ସ୍ୱାଧୀନ ବୈଜ୍ଞାନିକ ଅନୁସନ୍ଧାନରେ ପ୍ରଶିକ୍ଷିତ କରିବା ପାଇଁ ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ (Richard Suchman) ଙ୍କ ଦ୍ୱାରା କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ଶିକ୍ଷଣ ମଡେଲ୍ (Model of Teaching) ପ୍ରସ୍ତୁତ କରାଯାଇଥିଲା?",
+          "options": [
+            "କନସେପ୍ଟ ଆଟେନମେଣ୍ଟ ମଡେଲ୍ (Concept Attainment Model)",
+            "ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମଡେଲ୍ (Inquiry Training Model)",
+            "ଏଡଭାନ୍ସ ଅର୍ଗାନାଇଜର ମଡେଲ୍ (Advance Organizer Model)",
+            "ଜୁରିସପ୍ରୁଡେନ୍ସିଆଲ୍ ଇନକ୍ୱାରୀ ମଡେଲ୍ (Jurisprudential Inquiry Model)"
+          ],
+          "explanation": "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମଡେଲ୍ (Inquiry Training Model) ବିକଶିତ କରିଥିଲେ, ଯାହା ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ସ୍ୱାଧୀନ ଭାବରେ ଅନୁସନ୍ଧାନ କରିବାକୁ, କାରଣ-ଏବଂ-ପ୍ରଭାବ ସମ୍ପର୍କ ଚିହ୍ନଟ କରିବାକୁ ଏବଂ ବୈଜ୍ଞାନିକ ପଦ୍ଧତି ବ୍ୟବହାର କରି ତଥ୍ୟ ପ୍ରସେସ୍ କରିବାକୁ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786330106949-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Bonding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to VSEPR theory, what is the molecular shape of Xenon difluoride (XeF2)?",
+      "options": [
+        "Bent",
+        "Trigonal planar",
+        "Linear",
+        "T-shaped"
+      ],
+      "answer": 2,
+      "explanation": "In XeF2, Xenon has 8 valence electrons, forming 2 single bonds with fluorine atoms and leaving 3 lone pairs. The 5 electron pairs adopt a trigonal bipyramidal electron geometry with the 3 lone pairs in equatorial positions to minimize repulsion, resulting in a linear molecular shape.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "VSEPR ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଜେନନ୍ ଡାଇଫ୍ଲୋରାଇଡ୍ (XeF2) ଅଣୁର ଆକୃତି (molecular shape) କ’ଣ?",
+          "options": [
+            "ବଙ୍କା (Bent)",
+            "ତ୍ରିଭୁଜୀୟ ସମତଳ (Trigonal planar)",
+            "ରେଖୀୟ (Linear)",
+            "T-ଆକୃତି (T-shaped)"
+          ],
+          "explanation": "XeF2 ରେ Xenon ପାଖରେ 8 ଟି ସଂଯୋଜକ ଇଲେକ୍ଟ୍ରନ୍ ଥାଏ। ଏହା 2 ଟି ଫ୍ଲୋରିନ୍ ପରମାଣୁ ସହିତ ଏକକ ବନ୍ଧନ ଗଠନ କରେ ଏବଂ 3 ଟି ଏକାକୀ ଇଲେକ୍ଟ୍ରନ୍ ଯୁଗଳ (lone pairs) ରହେ। 3 ଟି ଏକାକୀ ଯୁଗଳ ବିଷୁବରେଖୀୟ ସ୍ଥାନ ଗ୍ରହଣ କରନ୍ତି, ଯାହା ଫଳରେ ଅଣୁର ଆକୃତି ରେଖୀୟ (Linear) ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786330106949-1",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Thermodynamics",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "For one mole of an ideal gas undergoing a reversible isothermal expansion from an initial volume V1 to a final volume V2 at temperature T, what is the change in entropy of the surroundings (\\Delta S_surr)?",
+      "options": [
+        "R ln(V2 / V1)",
+        "-R ln(V2 / V1)",
+        "C_v ln(V2 / V1)",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "For an isothermal expansion of one mole of an ideal gas, \\Delta S_sys = R ln(V2 / V1). Since the process is reversible, the total entropy change of the universe is zero (\\Delta S_total = \\Delta S_sys + \\Delta S_surr = 0). Therefore, \\Delta S_surr = -\\Delta S_sys = -R ln(V2 / V1).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "T ତାପମାତ୍ରାରେ ପ୍ରାରମ୍ଭିକ ଆୟତନ V1 ରୁ ଅନ୍ତିମ ଆୟତନ V2 କୁ ପ୍ରତ୍ୟାବର୍ତ୍ତୀ ସମତାପୀୟ (reversible isothermal) ସମ୍ପ୍ରସାରଣ ହେଉଥିବା ଏକ ମୋଲ୍ ଆଦର୍ଶ ଗ୍ୟାସ୍ ପାଇଁ, ପାରିପାର୍ଶ୍ୱିକର ଏଣ୍ଟ୍ରୋପି ପରିବର୍ତ୍ତନ (\\Delta S_surr) କେତେ?",
+          "options": [
+            "R ln(V2 / V1)",
+            "-R ln(V2 / V1)",
+            "C_v ln(V2 / V1)",
+            "ଶୂନ୍ୟ (Zero)"
+          ],
+          "explanation": "ସମତାପୀୟ ସମ୍ପ୍ରସାରଣ ପାଇଁ, ସିଷ୍ଟମର ଏଣ୍ଟ୍ରୋପି ପରିବର୍ତ୍ତନ \\Delta S_sys = R ln(V2 / V1) ଅଟେ। ଯେହେତୁ ପ୍ରକ୍ରିୟାଟି ପ୍ରତ୍ୟାବର୍ତ୍ତୀ (reversible), ମୋଟ ଏଣ୍ଟ୍ରୋପି ପରିବର୍ତ୍ତନ \\Delta S_total = \\Delta S_sys + \\Delta S_surr = 0। ତେଣୁ, \\Delta S_surr = -\\Delta S_sys = -R ln(V2 / V1) ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786330121020-0",
+      "section": "Child Development",
+      "topic": "Observational Learning",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Albert Bandura's Social Learning Theory, what is the correct chronological sequence of the four primary processes involved in observational learning?",
+      "options": [
+        "Attention -> Retention -> Motor Reproduction -> Motivation",
+        "Motivation -> Attention -> Retention -> Motor Reproduction",
+        "Retention -> Attention -> Motivation -> Motor Reproduction",
+        "Attention -> Motivation -> Retention -> Motor Reproduction"
+      ],
+      "answer": 0,
+      "explanation": "Albert Bandura identified four interrelated sub-processes necessary for observational learning to occur: Attention (perceiving the model's behavior), Retention (remembering what was observed), Motor Reproduction (replicating the behavior), and Motivation (having an incentive to perform the learned behavior).",
+      "translations": {
+        "or": {
+          "question": "ଆଲବର୍ଟ ବାଣ୍ଡୁରାଙ୍କ ସାମାଜିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ (Social Learning Theory) ଅନୁସାରେ, ଅବଲୋକନମୂଳକ ଶିକ୍ଷଣ (observational learning) ରେ ସାମିଲ ଥିବା ଚାରୋଟି ମୁଖ୍ୟ ପ୍ରକ୍ରିୟାର ସଠିକ୍ କାଳାନୁକ୍ରମିକ କ୍ରମ କେଉଁଟି?",
+          "options": [
+            "ଧ୍ୟାନ (Attention) -> ଧାରଣ (Retention) -> ମୋଟର ପୁନରୁତ୍ପାଦନ (Motor Reproduction) -> ପ୍ରେରଣା (Motivation)",
+            "ପ୍ରେରଣା (Motivation) -> ଧ୍ୟାନ (Attention) -> ଧାରଣ (Retention) -> ମୋଟର ପୁନରୁତ୍ପାଦନ (Motor Reproduction)",
+            "ଧାରଣ (Retention) -> ଧ୍ୟାନ (Attention) -> ପ୍ରେରଣା (Motivation) -> ମୋଟର ପୁନରୁତ୍ପାଦନ (Motor Reproduction)",
+            "ଧ୍ୟାନ (Attention) -> ପ୍ରେରଣା (Motivation) -> ଧାରଣ (Retention) -> ମୋଟର ପୁନରୁତ୍ପାଦନ (Motor Reproduction)"
+          ],
+          "explanation": "ଆଲବର୍ଟ ବାଣ୍ଡୁରା ସଫଳ ଅବଲୋକନମୂଳକ ଶିକ୍ଷଣ ପାଇଁ ଚାରୋଟି ପରସ୍ପର ସମ୍ବନ୍ଧିତ ପ୍ରକ୍ରିୟା ଚିହ୍ନଟ କରିଥିଲେ: ଧ୍ୟାନ (ମଡେଲକୁ ଲକ୍ଷ୍ୟ କରିବା), ଧାରଣ (ବ୍ୟବହାରକୁ ମନେ ରଖିବା), ମୋଟର ପୁନରୁତ୍ପାଦନ (ଶାରୀରିକ ଭାବରେ ଆଚରଣର ପୁନରାବୃତ୍ତି କରିବା), ଏବଂ ପ୍ରେରଣା (ଆଚରଣ ପ୍ରଦର୍ଶନ କରିବା ପାଇଁ ଉତ୍ସାହ ରହିବା)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786330121020-1",
+      "section": "Child Development",
+      "topic": "Life-Span Developmental Psychology",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Paul Baltes' framework of life-span developmental psychology, which key proposition asserts that development is a process involving continuous dynamic trade-offs between gains (growth) and losses (decline) across the entire life course?",
+      "options": [
+        "Multidirectionality",
+        "Plasticity",
+        "Historical Embeddedness",
+        "Contextualism as Paradigm"
+      ],
+      "answer": 0,
+      "explanation": "According to Paul Baltes' framework, 'Multidirectionality' refers to the proposition that development across the lifespan does not follow a simple, linear path of growth; rather, at any point in life, development is characterized by simultaneous gains (growth) and losses (decline) in different behavioral domains.",
+      "translations": {
+        "or": {
+          "question": "ପଲ୍ ବାଲ୍ଟେସ୍ (Paul Baltes) ଙ୍କ ଜୀବନବ୍ୟାପୀ ବିକାଶମୂଳକ ମନୋବିଜ୍ଞାନ ରୂପରେଖରେ, କେଉଁ ମୌଳିକ ପ୍ରସ୍ତାବନା ଦାବି କରେ ଯେ ବିକାଶ ହେଉଛି ସମଗ୍ର ଜୀବନକାଳ ମଧ୍ୟରେ ଲାଭ (ବୃଦ୍ଧି) ଏବଂ କ୍ଷତି (ହ୍ରାସ) ମଧ୍ୟରେ ନିରନ୍ତର ସମନ୍ୱୟ ସହିତ ଜଡ଼ିତ ଏକ ପ୍ରକ୍ରିୟା?",
+          "options": [
+            "ବହୁଦିଗଗାମୀତା (Multidirectionality)",
+            "ନମନୀୟତା (Plasticity)",
+            "ଐତିହାସିକ ସଂଲଗ୍ନତା (Historical Embeddedness)",
+            "ପ୍ରାସଙ୍ଗିକତା (Contextualism as Paradigm)"
+          ],
+          "explanation": "ପଲ୍ ବାଲ୍ଟେସ୍ ଙ୍କ ଅନୁଯାୟୀ, 'ବହୁଦିଗଗାମୀତା' (Multidirectionality) ର ନିୟମ ଦର୍ଶାଏ ଯେ ବିକାଶମୂଳକ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ଏକ ସରଳ, ରେଖୀୟ ପଥ ଅନୁସରଣ କରନ୍ତି ନାହିଁ; ବରଂ, ସମଗ୍ର ଜୀବନକାଳ ମଧ୍ୟରେ, ବିକାଶ ସଦାସର୍ବଦା କାର୍ଯ୍ୟକାରିତାର ବିଭିନ୍ନ କ୍ଷେତ୍ରରେ ଲାଭ (ବୃଦ୍ଧି) ଏବଂ କ୍ଷତି (ହ୍ରାସ) ର ଏକ ମିଳିତ ପ୍ରକାଶ ଅଟେ।"
+        }
+      }
     }
   ]
 }

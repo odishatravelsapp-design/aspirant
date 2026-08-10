@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -7499,6 +7499,136 @@
       ],
       "answer": 2,
       "explanation": "The Net Stable Funding Ratio (NSFR) is designed to ensure that banks maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities over a one-year horizon. Under RBI guidelines, banks must maintain an NSFR of at least 100% on a continuous basis.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786329634243-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average weight of a group of 8 people increases by 2.5 kg when a person weighing 65 kg is replaced by a new person. What is the weight of the new person?",
+      "options": [
+        "75 kg",
+        "80 kg",
+        "85 kg",
+        "90 kg"
+      ],
+      "answer": 2,
+      "explanation": "Total increase in weight = 8 * 2.5 = 20 kg. Since the new person replaces a person weighing 65 kg, the weight of the new person = 65 + 20 = 85 kg."
+    },
+    {
+      "id": "sbi-clerk-ai-1786329634243-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A vessel contains a mixture of liquid A and liquid B in the ratio 5 : 3. When 16 liters of the mixture is drawn off and replaced with liquid B, the ratio of liquid A to liquid B becomes 1 : 1. How many liters of liquid A was present in the vessel initially?",
+      "options": [
+        "40 liters",
+        "45 liters",
+        "50 liters",
+        "60 liters"
+      ],
+      "answer": 2,
+      "explanation": "Let the initial quantities of liquid A and B be 5x and 3x liters respectively. When 16 liters of mixture is drawn off, A removed = (5/8) * 16 = 10 liters, and B removed = (3/8) * 16 = 6 liters. Then 16 liters of B is added. New equation: (5x - 10) / (3x - 6 + 16) = 1/1 => 5x - 10 = 3x + 10 => 2x = 20 => x = 10. Therefore, initial quantity of liquid A = 5 * 10 = 50 liters."
+    },
+    {
+      "id": "sbi-clerk-ai-1786329650767-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below are given three statements followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nOnly a few Books are Pens.\nAll Pens are Pencils.\nNo Pencil is an Eraser.\n\nConclusions:\nI. All Books can never be Erasers.\nII. Some Pens being Erasers is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few Books are Pens' implies Some Books are Pens and Some Books are not Pens.\n2. Since All Pens are Pencils and No Pencil is an Eraser, the portion of Books that are Pens can never be Erasers. Therefore, 'All Books can never be Erasers' (meaning Some Books are definitely not Erasers) is TRUE.\n3. Since All Pens are inside Pencils and No Pencil is an Eraser, no Pen can ever be an Eraser. Hence, 'Some Pens being Erasers is a possibility' is FALSE.\nThus, only conclusion I follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1786329650767-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—A, B, C, D, E, and F—are sitting in a straight row facing North.\n- A sits third to the right of C.\n- Neither A nor C sits at any extreme end of the row.\n- Only one person sits between C and E.\n- B sits second to the left of F.\n- E is not an immediate neighbour of D.\n\nWho sits at the extreme right end of the row?",
+      "options": [
+        "D",
+        "A",
+        "F",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": "Let the positions from left to right be 1 to 6.\n1. A sits third to the right of C (C _ _ A) and neither is at an extreme end. So C must be at position 2 and A at position 5.\n2. Only one person sits between C and E, so E must be at position 4.\n3. B sits second to the left of F, which leaves positions 1 and 3 for B and F respectively (B at 1, F at 3).\n4. The remaining position 6 goes to D. Position 6 is not adjacent to position 4 (E), satisfying all conditions.\n5. The final arrangement from left to right is: B (1), C (2), F (3), E (4), A (5), D (6).\nTherefore, D sits at the extreme right end."
+    },
+    {
+      "id": "sbi-clerk-ai-1786329661543-0",
+      "section": "English",
+      "topic": "Fill in the Blanks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the pair of words that best fits in the blanks to make the sentence grammatically correct and meaningfully complete.\n\nThe sudden announcement of the tax increase ________ angry protests across the city, as citizens felt that the government had ________ its promise of financial relief.",
+      "options": [
+        "stifled, honored",
+        "triggered, reneged on",
+        "mitigated, fulfilled",
+        "suppressed, abandoned"
+      ],
+      "answer": 1,
+      "explanation": "'Triggered' means caused or sparked (fitting the reaction to the tax increase), and 'reneged on' means failed to fulfill or went back on a promise, which fits the context of citizen frustration."
+    },
+    {
+      "id": "sbi-clerk-ai-1786329661543-1",
+      "section": "English",
+      "topic": "Idioms and Phrasal Verbs",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence given below and select the option that best expresses the meaning of the capitalized phrasal verb.\n\nDespite facing relentless criticism from the board, the chief executive officer decided to BRAZEN IT OUT and proceed with the controversial merger.",
+      "options": [
+        "To withdraw quietly from a difficult situation",
+        "To endure a tough situation with shameless or defiant confidence",
+        "To apologize publicly for one's misdeeds",
+        "To seek legal advice to defend oneself"
+      ],
+      "answer": 1,
+      "explanation": "To 'brazen it out' means to face or endure a difficult situation boldly, courageously, or with shameless and defiant confidence, acting as if one has done nothing wrong."
+    },
+    {
+      "id": "sbi-clerk-ai-1786329675060-0",
+      "section": "General Awareness",
+      "topic": "Banking History & Institutions",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which committee's recommendation led to the establishment of the National Bank for Agriculture and Rural Development (NABARD) in July 1982?",
+      "options": [
+        "B. Sivaraman Committee",
+        "M. Narasimham Committee",
+        "S. S. Tarapore Committee",
+        "Urjit Patel Committee"
+      ],
+      "answer": 0,
+      "explanation": "NABARD was set up on July 12, 1982, based on the recommendations of the Committee to Review Arrangements For Institutional Credit for Agriculture and Rural Development (CRAFICARD), chaired by B. Sivaraman.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786329675060-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & NBFCs",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's (RBI) Scale Based Regulation (SBR) framework, which layer comprises non-banking financial companies (NBFCs) specifically identified by RBI as warranting enhanced regulatory requirements based on parameters like size and leverage?",
+      "options": [
+        "Base Layer (NBFC-BL)",
+        "Middle Layer (NBFC-ML)",
+        "Upper Layer (NBFC-UL)",
+        "Top Layer (NBFC-TL)"
+      ],
+      "answer": 2,
+      "explanation": "Under the SBR framework introduced by RBI, the Upper Layer (NBFC-UL) comprises those NBFCs which are specifically identified by RBI as warranting enhanced regulatory requirements based on a set of parameters and scoring methodology.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -11835,6 +11835,234 @@
       ],
       "answer": 1,
       "explanation": "Carl Rogers pioneered Person-Centered (Non-Directive) Counseling, emphasizing unconditional positive regard, congruence, and counselor empathy to allow the client to lead self-discovery."
+    },
+    {
+      "id": "odisha-ssb-ai-1786329881945-0",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory & Criticism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Aristotle's 'Poetics', which term refers to the protagonist's tragic flaw or fatal error in judgment?",
+      "options": [
+        "Anagnorisis",
+        "Peripeteia",
+        "Hamartia",
+        "Catharsis"
+      ],
+      "answer": 2,
+      "explanation": "In Aristotle's 'Poetics', 'Hamartia' refers to the tragic flaw, error of judgment, or miscalculation made by the tragic protagonist that ultimately leads to their downfall.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଆରିଷ୍ଟୋଟଲଙ୍କ 'ପୋଏଟିକ୍ସ' (Poetics) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶବ୍ଦଟି ଟ୍ରାଜେଡିର ନାୟକର ତ୍ରୁଟିପୂର୍ଣ୍ଣ ନିଷ୍ପତ୍ତି କିମ୍ବା ଚରିତ୍ରଗତ ତ୍ରୁଟି (tragic flaw) କୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ଆନାଗ୍ନୋରିସିସ୍ (Anagnorisis)",
+            "ପେରିପେଟିଆ (Peripeteia)",
+            "ହାମାର୍ଟିଆ (Hamartia)",
+            "କାଥାର୍ସିସ୍ (Catharsis)"
+          ],
+          "explanation": "ଆରିଷ୍ଟୋଟଲଙ୍କ 'ପୋଏଟିକ୍ସ' ଅନୁସାରେ, 'ହାମାର୍ଟିଆ' (Hamartia) ହେଉଛି ଟ୍ରାଜେଡିର ନାୟକର ଏକ ଭୁଲ୍ ନିଷ୍ପତ୍ତି କିମ୍ବା ଚରିତ୍ରଗତ ତ୍ରୁଟି ଯାହା ତାଙ୍କର ପତନର କାରଣ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786329881945-1",
+      "section": "Subject Knowledge",
+      "topic": "Feminist Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In her essay 'A Room of One's Own' (1929), Virginia Woolf creates a fictional sister of William Shakespeare to illustrate the historic lack of opportunity for women writers. What is her name?",
+      "options": [
+        "Judith Shakespeare",
+        "Mary Shakespeare",
+        "Anne Shakespeare",
+        "Rosalind Shakespeare"
+      ],
+      "answer": 0,
+      "explanation": "Virginia Woolf invents the character of Judith Shakespeare, William Shakespeare's equally gifted sister, to demonstrate how patriarchal society and lack of economic independence historically prevented women from realizing their literary genius.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "'ଏ ରୁମ୍ ଅଫ୍ ୱାନ୍ସ ଓନ୍' (1929) ପ୍ରବନ୍ଧରେ, ଭର୍ଜିନିଆ ୱୁଲ୍ଫ୍ ମହିଳା ଲେଖକମାନଙ୍କ ସାମାଜିକ ଏବଂ ଅର୍ଥନୈତିକ ପ୍ରତିବନ୍ଧକଗୁଡ଼ିକୁ ଦର୍ଶାଇବା ପାଇଁ ୱିଲିୟମ୍ ଷେକ୍ସପିଅରଙ୍କ ଜଣେ କାଳ୍ପନିକ ଭଉଣୀଙ୍କ ଚରିତ୍ର ସୃଷ୍ଟି କରିଛନ୍ତି। ସେହି କାଳ୍ପନିକ ଭଉଣୀଙ୍କ ନାମ କ’ଣ?",
+          "options": [
+            "ଜୁଡିଥ୍ ଷେକ୍ସପିଅର୍ (Judith Shakespeare)",
+            "ମେରୀ ଷେକ୍ସପିଅର୍ (Mary Shakespeare)",
+            "ଆନ୍ ଷେକ୍ସପିଅର୍ (Anne Shakespeare)",
+            "ରୋଜାଲିଣ୍ଡ ଷେକ୍ସପିଅର୍ (Rosalind Shakespeare)"
+          ],
+          "explanation": "ଭର୍ଜିନିଆ ୱୁଲ୍ଫ୍ ତାଙ୍କର ପ୍ରବନ୍ଧ 'ଏ ରୁମ୍ ଅଫ୍ ୱାନ୍ସ ଓନ୍' ରେ ୱିଲିୟମ୍ ଷେକ୍ସପିଅରଙ୍କ କାଳ୍ପନିକ ଭଉଣୀ 'ଜୁଡିଥ୍'ଙ୍କ ଚରିତ୍ର ବ୍ୟବହାର କରି ଦର୍ଶାଇଛନ୍ତି ଯେ ସମାନ ପ୍ରତିଭା ଥାଇ ମଧ୍ୟ ସାମାଜିକ ଓ ଅର୍ଥନୈତିକ ସୁଯୋଗର ଅଭାବ ଯୋଗୁଁ ନାରୀମାନେ ସାହିତ୍ୟ ସୃଷ୍ଟି କରିପାରୁ ନଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786329896902-0",
+      "section": "Teaching Aptitude",
+      "topic": "Micro-teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the standard micro-teaching cycle pattern adopted by the NCERT in India, what is the allocated duration for the 'Teaching' phase?",
+      "options": [
+        "5 minutes",
+        "6 minutes",
+        "10 minutes",
+        "12 minutes"
+      ],
+      "answer": 1,
+      "explanation": "In the standard Indian model of micro-teaching developed by NCERT, the total duration of one micro-teaching cycle is 36 minutes, distributed as: Teaching (6 minutes), Feedback (6 minutes), Re-planning (12 minutes), Re-teaching (6 minutes), and Re-feedback (6 minutes).",
+      "translations": {
+        "or": {
+          "question": "ଭାରତରେ NCERT ଦ୍ୱାରା ଗ୍ରହଣ କରାଯାଇଥିବା ମାନକ ମାଇକ୍ରୋ-ଟିଚିଂ (ସୂକ୍ଷ୍ମ-ଶିକ୍ଷଣ) ଚକ୍ରରେ 'ଶିକ୍ଷଣ' (Teaching) ପର୍ଯ୍ୟାୟ ପାଇଁ କେତେ ସମୟ ନିର୍ଦ୍ଧାରିତ କରାଯାଇଛି?",
+          "options": [
+            "୫ ମିନିଟ୍",
+            "୬ ମିନିଟ୍",
+            "୧୦ ମିନିଟ୍",
+            "୧୨ ମିନିଟ୍"
+          ],
+          "explanation": "NCERT ର ମାନକ ମାଇକ୍ରୋ-ଟିଚିଂ ପାଟର୍ନ ଅନୁସାରେ ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ ଚକ୍ରର ମୋଟ ସମୟ ୩୬ ମିନିଟ୍। ଏହାର ବିଭାଜନ: ଶିକ୍ଷଣ (୬ ମିନିଟ୍), ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍), ପୁନଃ-ଯୋଜନା (୧୨ ମିନିଟ୍), ପୁନଃ-ଶିକ୍ଷଣ (୬ ମିନିଟ୍) ଏବଂ ପୁନଃ-ଫିଡବ୍ୟାକ୍ (୬ ମିନିଟ୍)।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786329896902-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In J. P. Guilford's Structure of Intellect (SOI) model, following its 1988 revision, how many total distinct factor abilities are conceptualized in the 3D model (Operations × Contents × Products)?",
+      "options": [
+        "120",
+        "150",
+        "180",
+        "210"
+      ],
+      "answer": 2,
+      "explanation": "Guilford's original 1967 Structure of Intellect model featured 120 factors (5 Operations × 4 Contents × 6 Products). In the 1988 revised version, Contents were expanded to 5 categories (Visual, Auditory, Symbolic, Semantic, Behavioral) and Operations to 6 categories (Cognition, Memory Recording, Memory Retention, Divergent Production, Convergent Production, Evaluation), resulting in 6 × 5 × 6 = 180 distinct abilities.",
+      "translations": {
+        "or": {
+          "question": "ଜେ. ପି. ଗିଲଫୋର୍ଡଙ୍କ 'ବୁଦ୍ଧିମତ୍ତାର ସଂରଚନା' (Structure of Intellect - SOI) ମଡେଲର ୧୯୮୮ ସଂଶୋଧନ ଅନୁସାରେ, ତ୍ରିପରିମାଣୀୟ ଢାଞ୍ଚା (ପ୍ରକ୍ରିୟା × ବିଷୟବସ୍ତୁ × ଉତ୍ପାଦ) ରେ ମୋଟ କେତେଗୋଟି ପୃଥକ ବୁଦ୍ଧିମତ୍ତା କାରକ ସ୍ଥିର କରାଯାଇଛି?",
+          "options": [
+            "୧୨୦",
+            "୧୫୦",
+            "୧୮୦",
+            "୨୧୦"
+          ],
+          "explanation": "ଗିଲଫୋର୍ଡଙ୍କ ୧୯୬୭ ମଡେଲରେ ୧୨୦ଟି କାରକ ଥିଲା। ୧୯୮୮ ର ସଂଶୋଧିତ ମଡେଲରେ ୬ଟି ପ୍ରକ୍ରିୟା (Operations), ୫ଟି ବିଷୟବସ୍ତୁ (Contents) ଏବଂ ୬ଟି ଉତ୍ପାଦ (Products) ରହିଛି, ଯାହା ମୋଟ ୬ × ୫ × ୬ = ୧୮୦ ଟି ପୃଥକ ବୁଦ୍ଧିମତ୍ତା କାରକ ଗଠନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786329909722-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography and Environment",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Biosphere Reserve in Odisha was officially added to the UNESCO World Network of Biosphere Reserves in the year 2009?",
+      "options": [
+        "Similipal Biosphere Reserve",
+        "Bhitarkanika Biosphere Reserve",
+        "Mahendragiri Biosphere Reserve",
+        "Chilika Biosphere Reserve"
+      ],
+      "answer": 0,
+      "explanation": "Similipal Biosphere Reserve, located in Mayurbhanj district, was added to the UNESCO World Network of Biosphere Reserves in May 2009.",
+      "translations": {
+        "or": {
+          "question": "୨୦୦୯ ମସିହାରେ ଓଡ଼ିଶାର କେଉଁ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ (ବାୟୋସ୍କୋଫିଅର୍ ରିଜର୍ଭ) ୟୁନେସ୍କୋର (UNESCO) ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ନେଟୱାର୍କରେ ସାମିଲ ହୋଇଥିଲା?",
+          "options": [
+            "ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ଭିତରକନିକା ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ମହେନ୍ଦ୍ରଗିରି ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ",
+            "ଚିଲିକା ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ"
+          ],
+          "explanation": "ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଶିମିଳିପାଳ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳକୁ ୨୦୦୯ ମସିହା ମେ ମାସରେ ୟୁନେସ୍କୋ (UNESCO) ଦ୍ୱାରା ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ନେଟୱାର୍କରେ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786329909722-1",
+      "section": "General Studies",
+      "topic": "Odisha History and Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who presided as the Chairman of the Orissa Boundary Committee appointed in September 1931 to examine the boundary demarcation for the proposed separate Orissa province?",
+      "options": [
+        "Sir Samuel Hoare",
+        "Sir Philip Hartog",
+        "Sir Samuel O'Donnell",
+        "Clement Attlee"
+      ],
+      "answer": 2,
+      "explanation": "The Orissa Boundary Committee was appointed in September 1931 and was chaired by Sir Samuel O'Donnell, hence commonly known as the O'Donnell Committee.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୧ ମସିହା ସେପ୍ଟେମ୍ବରରେ ପ୍ରସ୍ତାବିତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ ସମସ୍ୟାର ସମୀକ୍ଷା ପାଇଁ ଗଠିତ 'ଓଡ଼ିଶା ସୀମା କମିଟି' ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସର ସାମୁଏଲ ହୋର",
+            "ସର ଫିଲିପ୍ ହାର୍ଟୋଗ୍",
+            "ସର ସାମୁଏଲ ଓ’ଡୋନେଲ",
+            "କ୍ଲେମେଣ୍ଟ ଆଟଲି"
+          ],
+          "explanation": "୧୯୩୧ ମସିହା ସେପ୍ଟେମ୍ବର ମାସରେ ଗଠିତ ଓଡ଼ିଶା ସୀମା କମିଟିର ଅଧ୍ୟକ୍ଷ ସର ସାମୁଏଲ ଓ’ଡୋନେଲ ଥିଲେ, ଯାହା ପରବର୍ତ୍ତୀ ସମୟରେ 'ଓ’ଡୋନେଲ କମିଟି' ଭାବରେ ପ୍ରସିଦ୍ଧ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786330035277-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The river Baitarani, one of the major rivers of Odisha, originates from which of the following hill ranges?",
+      "options": [
+        "Gonasika Hills",
+        "Rushimal Hills",
+        "Sinkaram Hills",
+        "Meghasani Hills"
+      ],
+      "answer": 0,
+      "explanation": "The Baitarani river originates from the Gonasika (also known as Guptaganga) hills in the Keonjhar district of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ଅନ୍ୟତମ ପ୍ରମୁଖ ନଦୀ 'ବୈତରଣୀ' ନିମ୍ନଲିଖିତ କେଉଁ ପାହାଡ଼ ଶ୍ରେଣୀରୁ ଉତ୍ପନ୍ନ ହୋଇଛି?",
+          "options": [
+            "ଗୋନାସିକା ପାହାଡ଼",
+            "ଋଷିମାଳ ପାହାଡ଼",
+            "ସିଙ୍କାରାମ ପାହାଡ଼",
+            "ମେଘାସନି ପାହାଡ଼"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗୋନାସିକା (ଗୁପ୍ତଗଙ୍ଗା) ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786330035277-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The famous Neulpur copper plate grant, which serves as a vital historical source regarding the early rulers of the Bhauma-Kara dynasty, was issued by which monarch?",
+      "options": [
+        "Khemankaradeva",
+        "Sivakaradeva I",
+        "Subhakaradeva I",
+        "Santikaradeva I"
+      ],
+      "answer": 2,
+      "explanation": "The Neulpur copper plate charter was issued by King Subhakaradeva I in his 8th regnal year. It provides crucial information about the genealogy and history of the early Bhauma-Kara rulers.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ପ୍ରାରମ୍ଭିକ ଭୌମକର ବଂଶର ଶାସକମାନଙ୍କ ସମ୍ପର୍କରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଐତିହାସିକ ତଥ୍ୟ ପ୍ରଦାନ କରୁଥିବା ପ୍ରସିଦ୍ଧ 'ନେଉଳପୁର ତାମ୍ରଶାସନ' କେଉଁ ରାଜାଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା?",
+          "options": [
+            "ଖେମଙ୍କରଦେବ",
+            "ଶିବକରଦେବ ପ୍ରଥମ",
+            "ଶୁଭକରଦେବ ପ୍ରଥମ",
+            "ଶାନ୍ତିକରଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ନେଉଳପୁର ତାମ୍ରଶାସନ ଭୌମକର ବଂଶର ରାଜା ଶୁଭକରଦେବ ପ୍ରଥମଙ୍କ ଦ୍ୱାରା ତାଙ୍କ ଶାସନକାଳର ଅଷ୍ଟମ ବର୍ଷରେ ଜାରି କରାଯାଇଥିଲା। ଏହା ପ୍ରାରମ୍ଭିକ ଭୌମକର ଶାସକମାନଙ୍କ ବଂଶାବଳୀ ଓ ଇତିହାସ ବିଷୟରେ ପ୍ରମୁଖ ତଥ୍ୟ ଯୋଗାଇଥାଏ।"
+        }
+      }
     }
   ]
 }

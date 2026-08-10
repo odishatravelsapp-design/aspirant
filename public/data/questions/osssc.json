@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -9179,6 +9179,234 @@
             "ପ୍ରଥମ ନରସିଂହ ଦେବ"
           ],
           "explanation": "ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ବଂଶର ସଂସ୍ଥାପକ କପିଳେନ୍ଦ୍ର ଦେବ (୧୪୩୫-୧୪୬୬ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ନିଜର ବିଶାଳ ସାମ୍ରାଜ୍ୟ ବିସ୍ତାର ପରେ 'ଗଜପତି ଗୌଡ଼େଶ୍ୱର ନବକୋଟି କର୍ଣ୍ଣାଟ କଲବର୍ଗେଶ୍ୱର' ଉପାଧି ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329815318-0",
+      "section": "Arithmetic",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of Rs. 4,000 is invested at a simple interest rate of 8% per annum. What will be the total interest earned at the end of 3 years?",
+      "options": [
+        "Rs. 860",
+        "Rs. 960",
+        "Rs. 1,020",
+        "Rs. 1,120"
+      ],
+      "answer": 1,
+      "explanation": "Simple Interest (SI) = (P × R × T) / 100 = (4000 × 8 × 3) / 100 = Rs. 960.",
+      "translations": {
+        "or": {
+          "question": "₹4,000 ଟଙ୍କାର ମୂଳଧନ ଉପରେ ବାର୍ଷିକ 8% ସରଳ ସୁଧ ହାରରେ 3 ବର୍ଷ ଶେଷରେ ମୋଟ କେତେ ସୁଧ ମିଳିବ?",
+          "options": [
+            "₹860",
+            "₹960",
+            "₹1,020",
+            "₹1,120"
+          ],
+          "explanation": "ସରଳ ସୁଧ (SI) = (P × R × T) / 100 = (4000 × 8 × 3) / 100 = ₹960।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329815318-1",
+      "section": "Arithmetic",
+      "topic": "Speed, Distance and Time",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Two trains start simultaneously from stations P and Q towards each other at speeds of 60 km/h and 90 km/h respectively. By the time they meet, the faster train has traveled 120 km more than the slower train. Find the distance between stations P and Q.",
+      "options": [
+        "480 km",
+        "540 km",
+        "600 km",
+        "720 km"
+      ],
+      "answer": 2,
+      "explanation": "Let the time taken for the trains to meet be 't' hours. Distance covered by the slower train = 60t km, and by the faster train = 90t km. Given, 90t - 60t = 120 => 30t = 120 => t = 4 hours. Total distance between P and Q = 60t + 90t = 150t = 150 × 4 = 600 km.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ଟ୍ରେନ୍ ଏକାସାଙ୍ଗରେ ଷ୍ଟେସନ୍ P ଏବଂ Q ରୁ ଯଥାକ୍ରମେ 60 କିମି/ଘଣ୍ଟା ଏବଂ 90 କିମି/ଘଣ୍ଟା ବେଗରେ ଏକ ଅପରର ଆଡ଼କୁ ଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତି। ସେମାନେ ଭେଟିବା ସମୟ ସୁଦ୍ଧା, ଦ୍ରୁତଗାମୀ ଟ୍ରେନ୍‌ଟି ଧୀରଗାମୀ ଟ୍ରେନ୍ ତୁଳନାରେ 120 କିମି ଅଧିକ ଅତିକ୍ରମ କରିସାରିଥାଏ। ଷ୍ଟେସନ୍ P ଏବଂ Q ମଧ୍ୟରେ ଦୂରତା କେତେ?",
+          "options": [
+            "480 କିମି",
+            "540 କିମି",
+            "600 କିମି",
+            "720 କିମି"
+          ],
+          "explanation": "ମନେକର ସେମାନେ ଭେଟିବା ପାଇଁ 't' ଘଣ୍ଟା ସମୟ ନିଅନ୍ତି। ଧୀରଗାମୀ ଟ୍ରେନ୍ ଦ୍ୱାରା ଅତିକ୍ରାନ୍ତ ଦୂରତା = 60t କିମି ଏବଂ ଦ୍ରୁତଗାମୀ ଟ୍ରେନ୍ ଦ୍ୱାରା ଅତିକ୍ରାନ୍ତ ଦୂରତା = 90t କିମି। ପ୍ରଶ୍ନାନୁସାରେ, 90t - 60t = 120 => 30t = 120 => t = 4 ଘଣ୍ଟା। P ଏବଂ Q ମଧ୍ୟରେ ମୋଟ ଦୂରତା = 60t + 90t = 150t = 150 × 4 = 600 କିମି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329843661-0",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A person starts walking from Point A towards the East. After walking 12 meters, he turns to his right and walks 8 meters. Then he turns to his left and walks 6 meters. Finally, he turns to his right and walks 16 meters to reach Point B. What is the shortest distance between Point A and Point B?",
+      "options": [
+        "28 meters",
+        "30 meters",
+        "32 meters",
+        "25 meters"
+      ],
+      "answer": 1,
+      "explanation": "Total Eastward movement = 12 + 6 = 18 meters. Total Southward movement = 8 + 16 = 24 meters. Shortest distance = √(18² + 24²) = √(324 + 576) = √900 = 30 meters.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି ବିନ୍ଦୁ A ରୁ ପୂର୍ବ ଦିଗକୁ ଚାଲିବା ଆରମ୍ଭ କରନ୍ତି। ୧୨ ମିଟର ଚାଲିବା ପରେ, ସେ ତାଙ୍କର ଡାହାଣକୁ ମୋଡ଼ ନିଅନ୍ତି ଏବଂ ୮ ମିଟର ଚାଲନ୍ତି। ତା’ପରେ ସେ ତାଙ୍କର ବାମକୁ ମୋଡ଼ ନିଅନ୍ତି ଏବଂ ୬ ମିଟର ଚାଲନ୍ତି। ଶେଷରେ, ସେ ତାଙ୍କର ଡାହାଣକୁ ମୋଡ଼ ନିଅନ୍ତି ଏବଂ ବିନ୍ଦୁ B ରେ ପହଞ୍ଚିବା ପାଇଁ ୧୬ ମିଟର ଚାଲନ୍ତି। ବିନ୍ଦୁ A ଏବଂ ବିନ୍ଦୁ B ମଧ୍ୟରେ ସବୁଠାରୁ କମ୍ ଦୂରତା କେତେ?",
+          "options": [
+            "୨୮ ମିଟର",
+            "୩୦ ମିଟର",
+            "୩୨ ମିଟର",
+            "୨୫ ମିଟର"
+          ],
+          "explanation": "ମୋଟ ପୂର୍ବ ଦିଗର ଦୂରତା = ୧୨ + ୬ = ୧୮ ମିଟର। ମୋଟ ଦକ୍ଷିଣ ଦିଗର ଦୂରତା = ୮ + ୧୬ = ୨୪ ମିଟର। ସବୁଠାରୁ କମ୍ ଦୂରତା = √(୧୮² + ୨୪²) = √(୩୨୪ + ୫୭୬) = √୯୦୦ = ୩୦ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329843661-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons — K, L, M, N, O, and P — are sitting around a circular table facing towards the center. K sits second to the left of O. P sits third to the right of K. M sits second to the left of P. L is not an immediate neighbour of K. Who sits third to the right of O?",
+      "options": [
+        "N",
+        "L",
+        "M",
+        "P"
+      ],
+      "answer": 0,
+      "explanation": "Placing clockwise starting from O at position 1: O = 1. K is second to left of O = 3. P is third to right of K = 6. M is second to left of P = 2. L is not a neighbour of K (pos 3), so L is at pos 5, and N is at pos 4. The arrangement clockwise is: 1:O, 2:M, 3:K, 4:N, 5:L, 6:P. Third to the right of O is position 4, which is N.",
+      "translations": {
+        "or": {
+          "question": "ଛଅ ଜଣ ବ୍ୟକ୍ତି — K, L, M, N, O, ଏବଂ P — ଗୋଟିଏ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ବସିଛନ୍ତି। K, O ର ବାମପଟେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। P, K ର ଡାହାଣପଟେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। M, P ର ବାମପଟେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛନ୍ତି। L, K ର ନିକଟତମ ପଡ଼ୋଶୀ ନୁହଁନ୍ତି। O ର ଡାହାଣପଟେ ତୃତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛନ୍ତି?",
+          "options": [
+            "N",
+            "L",
+            "M",
+            "P"
+          ],
+          "explanation": "O ରୁ ଆରମ୍ଭ କରି ଘଣ୍ଟାକଣ୍ଟା ଦିଗରେ ସଜାଇଲେ: ୧ମ ସ୍ଥାନ = O, ୩ୟ ସ୍ଥାନ = K, ୬ଷ୍ଠ ସ୍ଥାନ = P, ୨ୟ ସ୍ଥାନ = M। L, K ର ପଡ଼ୋଶୀ ନ ହୋଇଥିବାରୁ L ୫ମ ସ୍ଥାନରେ ଏବଂ N ୪ର୍ଥ ସ୍ଥାନରେ ବସିବେ। ସମ୍ପୂର୍ଣ୍ଣ କ୍ରମଟି ହେଉଛି: ୧:O, ୨:M, ୩:K, ୪:N, ୫:L, ୬:P। O ର ଡାହାଣପଟେ ତୃତୀୟ ସ୍ଥାନରେ N (୪ର୍ଥ ସ୍ଥାନ) ଅଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329858505-0",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following was the founder of the Bhoi dynasty in Odisha?",
+      "options": [
+        "Govinda Vidyadhara",
+        "Chakra Pratap",
+        "Mukunda Deva",
+        "Narasimha Deva I"
+      ],
+      "answer": 0,
+      "explanation": "Govinda Vidyadhara established the Bhoi dynasty in Odisha in 1541 CE after usurping the throne from the last Suryavamsi Gajapati ruler.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଓଡ଼ିଶାର ଭୋଇ ବଂଶର ସଂସ୍ଥାପକ ଥିଲେ?",
+          "options": [
+            "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର",
+            "ଚକ୍ର ପ୍ରତାପ",
+            "ମୁକୁନ୍ଦ ଦେବ",
+            "ନରସିଂହ ଦେବ ପ୍ରଥମ"
+          ],
+          "explanation": "ଗୋବିନ୍ଦ ବିଦ୍ୟାଧର ୧୫୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ସୂର୍ଯ୍ୟବଂଶୀ ଗଜପତି ବଂଶର ସିଂହାସନ ଅଧିକାର କରି ଓଡ଼ିଶାରେ ଭୋଇ ବଂଶ ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329858505-1",
+      "section": "General Knowledge",
+      "topic": "Ancient Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Neulpur copper plate inscription, which provides valuable historical details about the Bhauma-Kara dynasty, was issued by which ruler?",
+      "options": [
+        "Subhakaradeva I",
+        "Khemankaradeva",
+        "Sivakaradeva I",
+        "Tribhuvana Mahadevi I"
+      ],
+      "answer": 0,
+      "explanation": "The Neulpur copper plate inscription was issued by Subhakaradeva I of the Bhauma-Kara dynasty, recording land grants to numerous Brahmins.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୌମକର ବଂଶ ବିଷୟରେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଐତିହାସିକ ତଥ୍ୟ ପ୍ରଦାନ କରୁଥିବା ପ୍ରସିଦ୍ଧ ନେଉଳପୁର ତାମ୍ରଫଳକ ଅଭିଲେଖ କେଉଁ ଶାସକଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା?",
+          "options": [
+            "ସୁଭାକରଦେବ ପ୍ରଥମ",
+            "ଖେମଙ୍କରଦେବ",
+            "ଶିବକରଦେବ ପ୍ରଥମ",
+            "ତ୍ରିଭୁବନ ମହାଦେବୀ ପ୍ରଥମ"
+          ],
+          "explanation": "ନେଉଳପୁର ତାମ୍ରଫଳକ ଅଭିଲେଖ ଭୌମକର ବଂଶର ଅନ୍ୟତମ ପ୍ରମୁଖ ଶାସକ ସୁଭାକରଦେବ ପ୍ରଥମଙ୍କ ଦ୍ୱାରା ଜାରି କରାଯାଇଥିଲା, ଯେଉଁଥିରେ ବ୍ରାହ୍ମଣମାନଙ୍କୁ ଭୂମି ଦାନ ସମ୍ପର୍କରେ ଉଲ୍ଲେଖ ରହିଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329871600-0",
+      "section": "Odisha GK",
+      "topic": "Geography of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following is the highest mountain peak in Odisha?",
+      "options": [
+        "Mahendragiri",
+        "Deomali",
+        "Malayagiri",
+        "Gandhamardan"
+      ],
+      "answer": 1,
+      "explanation": "Deomali, located in the Koraput district of southern Odisha, is the highest mountain peak in the state with an elevation of 1,672 meters above sea level.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ?",
+          "options": [
+            "ମହେନ୍ଦ୍ରଗିରି",
+            "ଦେଓମାଳୀ",
+            "ମଳୟଗିରି",
+            "ଗନ୍ଧମାର୍ଦ୍ଦନ"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଦେଓମାଳୀ ହେଉଛି ରାଜ୍ୟର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ, ଯାହାର ଉଚ୍ଚତା ସମୁଦ୍ର ପତ୍ତନରୁ ପ୍ରାୟ ୧,୬୭୨ ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786329871600-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Judiciary & History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who among the following was the first Chief Justice of the Orissa High Court when it was established in 1948?",
+      "options": [
+        "Justice Bira Kishore Ray",
+        "Justice Lingaraj Panigrahi",
+        "Justice B. Jagannadha Das",
+        "Justice R. Laxman Narasimham"
+      ],
+      "answer": 0,
+      "explanation": "The Orissa High Court was formally inaugurated on July 26, 1948, and Justice Bira Kishore Ray served as its first Chief Justice.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୮ ମସିହାରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ପ୍ରତିଷ୍ଠିତ ହେବା ସମୟରେ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ନ୍ୟାୟାଧୀଶ କିଏ ଥିଲେ?",
+          "options": [
+            "ଜଷ୍ଟିସ୍ ବୀରକିଶୋର ରାୟ",
+            "ଜଷ୍ଟିସ୍ ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ",
+            "ଜଷ୍ଟିସ୍ ବି. ଜଗନ୍ନାଥ ଦାସ",
+            "ଜଷ୍ଟିସ୍ ଆର୍. ଲକ୍ଷ୍ମଣ ନରସିଂହମ୍"
+          ],
+          "explanation": "୧୯୪୮ ମସିହା ଜୁଲାଇ ୨୬ ତାରିଖରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦ୍‌ଘାଟିତ ହୋଇଥିଲା ଏବଂ ଜଷ୍ଟିସ୍ ବୀରକିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ନ୍ୟାୟାଧୀଶ ଭାବରେ ଦାୟିତ୍ୱ ଗ୍ରହଣ କରିଥିଲେ।"
         }
       }
     }

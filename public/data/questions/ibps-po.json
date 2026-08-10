@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7304,6 +7304,136 @@
       ],
       "answer": 1,
       "explanation": "Under RBI's Basel III guidelines, Indian Scheduled Commercial Banks must maintain a minimum Total CRAR of 9.0% (excluding CCB), which is 1 percentage point higher than the Basel Committee's minimum prescription of 8.0%. Including the 2.5% CCB, the total required CRAR is 11.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786329764657-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat travels 120 km downstream and returns to the starting point in a total time of 12.5 hours. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+      "options": [
+        "16 km/h",
+        "18 km/h",
+        "20 km/h",
+        "24 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Let the speed of the boat in still water be x km/h. Downstream speed = (x + 4) km/h and upstream speed = (x - 4) km/h. According to the question: 120/(x + 4) + 120/(x - 4) = 12.5. Solving this equation: 120 * [ (x - 4 + x + 4) / (x^2 - 16) ] = 25/2 => 240x / (x^2 - 16) = 25/2 => 480x = 25x^2 - 400 => 5x^2 - 96x - 80 = 0. Factoring gives (5x + 4)(x - 20) = 0. Since speed cannot be negative, x = 20 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1786329764657-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Three friends A, B, and C enter into a partnership. A invests Rs. x for 12 months, B invests Rs. (x + 4000) for 8 months, and C invests Rs. (x + 8000) for 6 months. At the end of a year, the total profit is Rs. 49,000 and C's share is Rs. 15,000. Find the total initial investment made by A, B, and C together.",
+      "options": [
+        "Rs. 42,000",
+        "Rs. 48,000",
+        "Rs. 54,000",
+        "Rs. 60,000"
+      ],
+      "answer": 1,
+      "explanation": "Ratio of profit sharing A : B : C = (x * 12) : ((x + 4000) * 8) : ((x + 8000) * 6) = 12x : (8x + 32000) : (6x + 48000) = 6x : (4x + 16000) : (3x + 24000). Total ratio sum = 6x + 4x + 16000 + 3x + 24000 = 13x + 40000. C's share / Total profit = (3x + 24000) / (13x + 40000) = 15000 / 49000 = 15 / 49. Cross-multiplying: 49(3x + 24000) = 15(13x + 40000) => 147x + 1176000 = 195x + 600000 => 48x = 576000 => x = 12000. Total initial investment = x + (x + 4000) + (x + 8000) = 3x + 12000 = 3(12000) + 12000 = Rs. 48,000."
+    },
+    {
+      "id": "ibps-po-ai-1786329778537-0",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Analyze the following logical expressions and determine which conclusion(s) follow(s):\n\nStatements:\nK ≥ L > M = N; P < M ≤ Q\n\nConclusions:\nI. K > P\nII. Q ≥ N",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements: K ≥ L > M > P, which directly implies K > P (Conclusion I is true). Also, Q ≥ M = N, which implies Q ≥ N (Conclusion II is true). Therefore, both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1786329778537-1",
+      "section": "Reasoning",
+      "topic": "Coded Direction and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Based on the coded directional rules given below, determine the shortest distance between X and W.\n\nRules:\n'A % B' means 'A is 12m North of B'\n'A & B' means 'A is 15m East of B'\n'A # B' means 'A is 4m South of B'\n\nGiven Expression: X % Y & Z # W",
+      "options": [
+        "15 m",
+        "17 m",
+        "19 m",
+        "21 m"
+      ],
+      "answer": 1,
+      "explanation": "Decoding the expression:\n1. Z # W => Z is 4m South of W (so W is 4m North of Z).\n2. Y & Z => Y is 15m East of Z.\n3. X % Y => X is 12m North of Y.\n\nTaking Z as (0, 0):\n- W is at (0, 4)\n- Y is at (15, 0)\n- X is at (15, 12)\n\nThe horizontal distance between X and W is |15 - 0| = 15m.\nThe vertical distance between X and W is |12 - 4| = 8m.\n\nShortest Distance = √(15² + 8²) = √(225 + 64) = √289 = 17m."
+    },
+    {
+      "id": "ibps-po-ai-1786329789255-0",
+      "section": "English",
+      "topic": "Error Spotting - Subject-Verb Agreement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the part of the sentence that contains a grammatical error: 'Neither the managing director nor the board members was present at the annual general meeting to address the shareholders' concerns.'",
+      "options": [
+        "Neither the managing director",
+        "nor the board members was present",
+        "at the annual general meeting",
+        "to address the shareholders' concerns"
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree with the subject closest to it. Here, 'board members' is plural, so the singular auxiliary verb 'was' should be replaced by the plural verb 'were'."
+    },
+    {
+      "id": "ibps-po-ai-1786329789255-1",
+      "section": "English",
+      "topic": "Error Spotting - Verbs followed by Complement Clauses",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which section of the following sentence contains a grammatical error regarding verb complementation? 'The committee insisted on the chairman to resign immediately after the financial discrepancy was uncovered during the audit.'",
+      "options": [
+        "The committee insisted on",
+        "the chairman to resign",
+        "immediately after the financial discrepancy",
+        "was uncovered during the audit"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'insist' does not accept an object + to-infinitive construction (*insist someone to do something*). Instead, it requires either a 'that-clause' with a subjunctive verb ('insisted that the chairman resign') or 'on + possessive noun + gerund' ('insisted on the chairman's resigning'). Thus, 'the chairman to resign' is ungrammatical."
+    },
+    {
+      "id": "ibps-po-ai-1786329801516-0",
+      "section": "General Awareness",
+      "topic": "Microfinance Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022, what is the maximum annual household income limit to qualify for a microfinance loan?",
+      "options": [
+        "₹1,50,000",
+        "₹2,00,000",
+        "₹3,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI's harmonized regulatory framework for microfinance loans introduced in March 2022 (effective April 1, 2022), a microfinance loan is defined as a collateral-free loan given to a household having an annual income up to ₹3,00,000.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786329801516-1",
+      "section": "General Awareness",
+      "topic": "Stressed Assets Framework",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets issued in June 2019, what is the duration of the 'Review Period' given to lenders upon a borrower's default to decide on a resolution strategy?",
+      "options": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI's Prudential Framework for Resolution of Stressed Assets (June 7, 2019), lenders must initiate a review of the borrower account within 30 days from the date of default. This 30-day window is designated as the 'Review Period'.",
       "status": "pending"
     }
   ]
