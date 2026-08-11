@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8183,6 +8183,136 @@
       ],
       "answer": 1,
       "explanation": "Corporation Bank was established in 1906 in Udupi as 'The Canara Banking Corporation (Udipi) Limited'. It was renamed Corporation Bank Limited in 1972, nationalised in 1980, and amalgamated into Union Bank of India on April 1, 2020."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415575296-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present ages of P and Q are in the ratio 4 : 5. After 6 years, the ratio of their ages will become 5 : 6. What is the present age of P?",
+      "options": [
+        "18 years",
+        "24 years",
+        "30 years",
+        "36 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the present ages of P and Q be 4x and 5x respectively. After 6 years, their ages will be (4x + 6) and (5x + 6). Given ratio is (4x + 6) / (5x + 6) = 5 / 6. Cross-multiplying: 6(4x + 6) = 5(5x + 6) => 24x + 36 = 25x + 30 => x = 6. Therefore, the present age of P = 4x = 4 * 6 = 24 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415575296-1",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains start at the same time from points P and Q towards each other. After crossing each other, the first train takes 4 hours to reach Q and the second train takes 9 hours to reach P. If the speed of the first train is 54 km/h, what is the speed of the second train?",
+      "options": [
+        "24 km/h",
+        "36 km/h",
+        "42 km/h",
+        "48 km/h"
+      ],
+      "answer": 1,
+      "explanation": "When two objects start towards each other at the same time and after meeting take time T1 and T2 to reach their destinations, the ratio of their speeds is given by: (Speed of 1st) / (Speed of 2nd) = √(T2 / T1). Here, Speed of 1st = 54 km/h, T1 = 4 hours, and T2 = 9 hours. So, 54 / (Speed of 2nd) = √(9 / 4) = 3 / 2. Thus, Speed of 2nd = (54 * 2) / 3 = 36 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415590998-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'PLANET' is coded as 'RNCPGV'. How will 'BRIDGE' be coded in that code language?",
+      "options": [
+        "DTKFIG",
+        "DTLFIG",
+        "DTKFGI",
+        "CTKFIG"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by 2 positions in alphabetical order:\nP (+2) -> R\nL (+2) -> N\nA (+2) -> C\nN (+2) -> P\nE (+2) -> G\nT (+2) -> V\n\nApplying the same rule to 'BRIDGE':\nB (+2) -> D\nR (+2) -> T\nI (+2) -> K\nD (+2) -> F\nG (+2) -> I\nE (+2) -> G\n\nThus, 'BRIDGE' is coded as 'DTKFIG'."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415590998-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statements:\nOnly a few Pens are Pencils.\nAll Pencils are Erasers.\nNo Eraser is a Ruler.\n\nConclusions:\nI. Some Pens are not Erasers.\nII. All Pens being Erasers is a possibility.\nIII. Some Pens are not Rulers.",
+      "options": [
+        "Only Conclusion I follows",
+        "Only Conclusion III follows",
+        "Both Conclusion II and Conclusion III follow",
+        "All Conclusions I, II and III follow"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Only a few Pens are Pencils' implies both 'Some Pens are Pencils' and 'Some Pens are not Pencils'.\n2. 'Some Pens are Pencils' + 'All Pencils are Erasers' implies that the portion of Pens which are Pencils are also Erasers. Since 'No Eraser is a Ruler', those Pens can never be Rulers. Thus, 'Some Pens are not Rulers' definitely follows (Conclusion III is true).\n3. It is possible for all Pens to lie inside the Erasers circle without violating any statement. Hence, 'All Pens being Erasers is a possibility' is true (Conclusion II follows).\n4. Conclusion I does not definitely follow because all Pens can potentially be inside Erasers. Therefore, only Conclusions II and III follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415600718-0",
+      "section": "English",
+      "topic": "Grammar - Verbs",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Fill in the blank with the grammatically correct form of the verb: 'The government has decided to ________ new policies to support small-scale businesses facing financial hardships.'",
+      "options": [
+        "implement",
+        "implementing",
+        "implementation",
+        "implements"
+      ],
+      "answer": 0,
+      "explanation": "The phrase 'decided to' is followed by a verb in its base form (infinitive structure: to + verb). 'Implement' is the only base form verb among the options."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415600718-1",
+      "section": "English",
+      "topic": "Contextual Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the option that accurately defines the meaning of the word 'OBSTREPEROUS' as used in the following context: 'The chairman struggled to maintain decorum during the board meeting due to a few obstreperous members shouting over each other.'",
+      "options": [
+        "Unruly and noisy",
+        "Docile and obedient",
+        "Taciturn and reserved",
+        "Candid and honest"
+      ],
+      "answer": 0,
+      "explanation": "'Obstreperous' means noisy and difficult to control or unruly. In the context of disrupting a meeting by shouting, 'Unruly and noisy' is the correct meaning."
+    },
+    {
+      "id": "ibps-clerk-ai-1786415611389-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) guidelines, what is the maximum insurance coverage provided to a depositor for both principal and interest amount in an insured commercial bank?",
+      "options": [
+        "₹1 lakh",
+        "₹2 lakh",
+        "₹5 lakh",
+        "₹10 lakh"
+      ],
+      "answer": 2,
+      "explanation": "The DICGC, a wholly-owned subsidiary of the Reserve Bank of India, increased the limit of deposit insurance cover from ₹1 lakh to ₹5 lakh per depositor per bank with effect from February 4, 2020.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786415611389-1",
+      "section": "General Awareness",
+      "topic": "Small Finance Banks",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India for 'on-tap' licensing of Small Finance Banks (SFBs) in the private sector, what is the minimum required paid-up voting equity capital?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines for 'on-tap' licensing released in December 2019, the minimum paid-up voting equity capital required for setting up a Small Finance Bank is ₹200 crore.",
+      "status": "pending"
     }
   ]
 }

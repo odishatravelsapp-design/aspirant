@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7605,6 +7605,136 @@
       ],
       "answer": 1,
       "explanation": "Corporation Bank was established in 1906 in Udupi as 'The Canara Banking Corporation (Udipi) Limited'. It was renamed Corporation Bank Limited in 1972, nationalised in 1980, and amalgamated into Union Bank of India on April 1, 2020."
+    },
+    {
+      "id": "ibps-po-ai-1786415688176-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A shopkeeper allows a discount of 20% on the marked price of an article and still gains a profit of 20%. If the cost price of the article is Rs. 600, what is its marked price?",
+      "options": [
+        "Rs. 850",
+        "Rs. 900",
+        "Rs. 960",
+        "Rs. 1,000"
+      ],
+      "answer": 1,
+      "explanation": "Cost Price (CP) = Rs. 600. Profit % = 20%, so Selling Price (SP) = 600 + (20% of 600) = Rs. 720. Discount % = 20% on Marked Price (MP). SP = MP × (1 - 0.20) = 0.8 × MP. Therefore, 720 = 0.8 × MP, which gives MP = 720 / 0.8 = Rs. 900."
+    },
+    {
+      "id": "ibps-po-ai-1786415688176-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat takes 9 hours to cover 88 km downstream and 45 km upstream. The same boat takes 11 hours to cover 66 km downstream and 72 km upstream. What is the speed of the boat in still water?",
+      "options": [
+        "14.5 km/h",
+        "15.5 km/h",
+        "16.5 km/h",
+        "17 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let downstream speed be 'd' and upstream speed be 'u'. We have two equations: (1) 88/d + 45/u = 9 and (2) 66/d + 72/u = 11. Let 1/d = x and 1/u = y. Then 88x + 45y = 9 and 66x + 72y = 11. Multiplying the first equation by 3 gives 264x + 135y = 27, and the second by 4 gives 264x + 288y = 44. Subtracting gives 153y = 17 => y = 1/9, so u = 9 km/h. Substituting y = 1/9 into the first equation yields 88x + 5 = 9 => 88x = 4 => x = 1/22, so d = 22 km/h. Speed of boat in still water = (d + u) / 2 = (22 + 9) / 2 = 15.5 km/h."
+    },
+    {
+      "id": "ibps-po-ai-1786415702077-0",
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nSymbols represent the following:\n'A % B' means 'A is not smaller than B'\n'A $ B' means 'A is neither smaller than nor equal to B'\n'A # B' means 'A is neither greater than nor equal to B'\n'A @ B' means 'A is neither greater than nor smaller than B'\n\nStatements: M % N, N $ O, O @ P, P # Q\n\nConclusions:\nI. M $ P\nII. N $ Q",
+      "options": [
+        "Only Conclusion I is true",
+        "Only Conclusion II is true",
+        "Either Conclusion I or II is true",
+        "Neither Conclusion I nor II is true"
+      ],
+      "answer": 0,
+      "explanation": "Decoding the symbols: '%' means '>=', '$' means '>', '#' means '<', '@' means '='.\nStatements translate to: M >= N, N > O, O = P, P < Q.\nCombining them: M >= N > O = P < Q.\nFor Conclusion I (M $ P -> M > P): M >= N > O = P implies M > P is definitely true.\nFor Conclusion II (N $ Q -> N > Q): N > O = P < Q gives no direct relationship between N and Q.\nHence, only Conclusion I is true."
+    },
+    {
+      "id": "ibps-po-ai-1786415702077-1",
+      "section": "Reasoning",
+      "topic": "Cause and Effect",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the two statements below and select the correct logical relationship between them.\n\nStatement I: The state electricity board announced a mandatory 3-hour daily power outage across all industrial sectors during peak operational hours.\nStatement II: Severe heatwaves across the region caused a 45% surge in domestic electricity demand, leading to a critical drop in power generation reserves at thermal plants.",
+      "options": [
+        "Statement I is the cause and Statement II is its effect.",
+        "Statement II is the principal cause and Statement I is its logical effect.",
+        "Both Statement I and Statement II are effects of independent causes.",
+        "Both Statement I and Statement II are independent causes."
+      ],
+      "answer": 1,
+      "explanation": "Statement II describes a surge in domestic demand and depletion of power generation reserves (the underlying cause/trigger). Statement I represents the official policy decision/administrative step taken by the board to manage this crisis by imposing industrial power cuts (the direct effect/action). Thus, Statement II is the cause and Statement I is its effect."
+    },
+    {
+      "id": "ibps-po-ai-1786415714982-0",
+      "section": "English",
+      "topic": "Spotting Errors",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence given below to find if there is any grammatical error in it. Identify the specific part that contains the error:\n\n'Had the government implemented (A) / the structural reforms earlier, (B) / the economic downturn would have been (C) / less severely than it currently is. (D)'",
+      "options": [
+        "Part (A)",
+        "Part (B)",
+        "Part (C)",
+        "Part (D)"
+      ],
+      "answer": 3,
+      "explanation": "In Part (D), the adverb 'severely' is incorrectly used to describe the noun 'economic downturn' following the linking verb structure 'would have been'. The adjective 'severe' should be used instead of 'severely' to complement the subject."
+    },
+    {
+      "id": "ibps-po-ai-1786415714982-1",
+      "section": "English",
+      "topic": "Multiple Sentence Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the most appropriate set of words that sequentially fits into the blanks to make the sentence contextually and grammatically coherent:\n\n'The CEO’s ________ demeanor during the crisis failed to reassure the investors, as many perceived his lack of emotional expression not as composure, but as total ________ to the firm’s declining revenues; consequently, the stock witnessed an unprecedented ________ in the subsequent trading session.'",
+      "options": [
+        "impassive, indifference, plummet",
+        "ostentatious, antipathy, surge",
+        "volatile, empathy, stabilization",
+        "effusive, apathy, rally"
+      ],
+      "answer": 0,
+      "explanation": "'Impassive' means expressing no emotion, which fits 'lack of emotional expression'. 'Indifference' means lack of concern, matching how investors perceived his demeanor regarding declining revenues. 'Plummet' means a steep fall, logically explaining the negative consequence on the stock."
+    },
+    {
+      "id": "ibps-po-ai-1786415729835-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India’s guidelines for 'on tap' licensing of Small Finance Banks (SFBs) in the private sector, what is the minimum paid-up voting equity capital required to set up a new Small Finance Bank?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "As per the RBI guidelines for 'on tap' licensing of Small Finance Banks in the private sector issued in December 2019, the minimum paid-up voting equity capital requirement for establishing a new SFB is ₹200 crore (increased from the earlier requirement of ₹100 crore).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786415729835-1",
+      "section": "General Awareness",
+      "topic": "Banking Legislation & Insurance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (Amendment) Act, 2021, within how many days from the date of imposition of a moratorium or direction by the RBI on an insured bank is the DICGC mandated to pay the insured deposit amount to eligible depositors?",
+      "options": [
+        "45 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "answer": 2,
+      "explanation": "Under the DICGC (Amendment) Act, 2021, eligible depositors are guaranteed access to their insured deposit amount (up to ₹5 lakh) within a maximum timeframe of 90 days from the date an insured bank is placed under a moratorium or all-inclusive directions by the Reserve Bank of India.",
+      "status": "pending"
     }
   ]
 }

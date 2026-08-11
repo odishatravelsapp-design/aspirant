@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -8941,6 +8941,176 @@
       ],
       "answer": 2,
       "explanation": "A Discrimination Index below 0.20 indicates poor ability to differentiate high-performing from low-performing students. Combined with a very high difficulty index (0.85 = very easy), the item fails norm-referenced criteria and must be discarded or revised."
+    },
+    {
+      "id": "pgt-ai-1786415905423-0",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Interaction Analysis",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned A. Flanders' Interaction Analysis Category System (FIACS) for analyzing classroom interaction, how many total categories are defined, and how many specifically belong to 'Teacher Talk'?",
+      "options": [
+        "10 total categories, with 7 belonging to Teacher Talk",
+        "10 total categories, with 5 belonging to Teacher Talk",
+        "12 total categories, with 8 belonging to Teacher Talk",
+        "8 total categories, with 6 belonging to Teacher Talk"
+      ],
+      "answer": 0,
+      "explanation": "Flanders' Interaction Analysis Category System (FIACS) consists of 10 total categories: 7 categories for Teacher Talk (4 for Indirect Influence and 3 for Direct Influence), 2 categories for Student Talk, and 1 category for Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ନେଡ୍ ଏ. ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ କ୍ଲାସରୁମ୍ ଆଲୋଚନାର ବିଶ୍ଲେଷଣ ପାଇଁ ମୋଟ କେତୋଟି ବର୍ଗ (categories) ରହିଛି, ଏବଂ ସେଥିମଧ୍ୟରୁ କେତୋଟି ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥା' (Teacher Talk) ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "ମୋଟ ୧୦ଟି ବର୍ଗ, ସେଥିମଧ୍ୟରୁ ୭ଟି ଶିକ୍ଷକଙ୍କ କଥା ଅନ୍ତର୍ଭୁକ୍ତ",
+            "ମୋଟ ୧୦ଟି ବର୍ଗ, ସେଥିମଧ୍ୟରୁ ୫ଟି ଶିକ୍ଷକଙ୍କ କଥା ଅନ୍ତର୍ଭୁକ୍ତ",
+            "ମୋଟ ୧୨ଟି ବର୍ଗ, ସେଥିମଧ୍ୟରୁ ୮ଟି ଶିକ୍ଷକଙ୍କ କଥା ଅନ୍ତର୍ଭୁକ୍ତ",
+            "ମୋଟ ୮ଟି ବର୍ଗ, ସେଥିମଧ୍ୟରୁ ୬ଟି ଶିକ୍ଷକଙ୍କ କଥା ଅନ୍ତର୍ଭୁକ୍ତ"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ FIACS ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ରହିଛି। ସେଥିମଧ୍ୟରୁ ୭ଟି 'ଶିକ୍ଷକଙ୍କ କଥା' (୪ଟି ପରୋକ୍ଷ ପ୍ରଭାବ ଏବଂ ୩ଟି ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ), ୨ଟି 'ଛାତ୍ରଙ୍କ କଥା', ଏବଂ ୧ଟି 'ନୀରବତା କିମ୍ବା ଦ୍ୱନ୍ଦ୍ୱ' ଶ୍ରେଣୀରେ ଆସିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786415905423-1",
+      "section": "Teaching Aptitude",
+      "topic": "Cognitive Learning Theories",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Ausubel's Subsumption Theory of meaningful verbal learning, which type of subsumption occurs when new information is learned as an extension, elaboration, modification, or qualification of previously learned concepts?",
+      "options": [
+        "Derivative subsumption",
+        "Correlative subsumption",
+        "Superordinate learning",
+        "Combinatorial learning"
+      ],
+      "answer": 1,
+      "explanation": "According to Ausubel, correlative subsumption occurs when new material is an extension, elaboration, or modification of previously learned propositions or concepts. Derivative subsumption occurs when new material is merely a direct example or illustration of an established concept.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ 'ସବସମ୍ପସନ୍ ଥିଓରୀ' (Subsumption Theory) ଅନୁଯାୟୀ, ଯେତେବେଳେ ନୂତନ ବିଷୟବସ୍ତୁ ପୂର୍ବରୁ ଶିଖାଯାଇଥିବା ଧାରଣାଗୁଡ଼ିକର ବିସ୍ତାର, ରୂପାନ୍ତର, ସଂଶୋଧନ କିମ୍ବା ବିଶେଷତା ଭାବରେ ଶିଖାଯାଏ, ସେତେବେଳେ କେଉଁ ପ୍ରକାରର ସବସମ୍ପସନ୍ ଘଟିଥାଏ?",
+          "options": [
+            "ଡେରିଭେଟିଭ୍ ସବସମ୍ପସନ୍ (Derivative subsumption)",
+            "କୋରିଲେଟିଭ୍ ସବସମ୍ପସନ୍ (Correlative subsumption)",
+            "ସୁପରଓର୍ଡିନେଟ୍ ଲର୍ନିଂ (Superordinate learning)",
+            "କମ୍ବିନେଟୋରିଆଲ୍ ଲର୍ନିଂ (Combinatorial learning)"
+          ],
+          "explanation": "ଆସୁବେଲଙ୍କ ମତରେ, କୋରିଲେଟିଭ୍ ସବସମ୍ପସନ୍ (Correlative subsumption) ସେତେବେଳେ ଘଟିଥାଏ ଯେତେବେଳେ ନୂତନ ତଥ୍ୟ ପୂର୍ବରୁ ଥିବା ଜ୍ଞାନର ସଂପ୍ରସାରଣ, ସଂଶୋଧନ କିମ୍ବା ପରିବର୍ତ୍ତନ କରେ। ଅନ୍ୟପକ୍ଷରେ, ଡେରିଭେଟିଭ୍ ସବସମ୍ପସନ୍ କେବଳ ପୂର୍ବରୁ ଜଣାଥିବା ଧାରଣାର ଏକ ସିଧାସଳଖ ଉଦାହରଣକୁ ଦର୍ଶାଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786416011129-0",
+      "section": "Subject Knowledge",
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to the Arrhenius equation, what is the slope of the plot of ln k versus 1/T?",
+      "options": [
+        "-E_a / R",
+        "E_a / R",
+        "-E_a / (2.303 R)",
+        "E_a / (2.303 R)"
+      ],
+      "answer": 0,
+      "explanation": "The Arrhenius equation in logarithmic form is ln k = ln A - (E_a / R)(1/T). Plotting ln k on the y-axis versus 1/T on the x-axis yields a straight line with a slope equal to -E_a / R.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "Arrhenius ସମୀକରଣ ଅନୁଯାୟୀ, ln k ଏବଂ 1/T ର ଆଲେଖ (plot) ର ସ୍ଲୋପ୍ (slope) କେତେ?",
+          "options": [
+            "-E_a / R",
+            "E_a / R",
+            "-E_a / (2.303 R)",
+            "E_a / (2.303 R)"
+          ],
+          "explanation": "ଲୋଗାରିଦମିକ୍ ରୂପରେ Arrhenius ସମୀକରଣ ହେଉଛି ln k = ln A - (E_a / R)(1/T)। y-ଅକ୍ଷରେ ln k ଏବଂ x-ଅକ୍ଷରେ 1/T ର ଆଲେଖ ଅଙ୍କନ କଲେ ଏକ ସରଳରେଖା ମିଳେ, ଯାହାର ସ୍ଲୋପ୍ -E_a / R ସହିତ ସମାନ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786416011129-1",
+      "section": "Subject Knowledge",
+      "topic": "Organic Chemistry",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the Perkin reaction, benzaldehyde reacts with acetic anhydride in the presence of sodium acetate to yield cinnamic acid. Which species acts as the nucleophile in the first step of this reaction?",
+      "options": [
+        "The carbanion generated by deprotonation of acetic anhydride",
+        "The acetate ion directly attacking benzaldehyde",
+        "The conjugate base of benzaldehyde",
+        "An acylium ion formed from acetic anhydride"
+      ],
+      "answer": 0,
+      "explanation": "Sodium acetate acts as a weak base that removes an alpha-proton from acetic anhydride to form a carbanion (enolate ion). This carbanion then acts as a nucleophile and attacks the carbonyl carbon of benzaldehyde.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପର୍କିନ୍ (Perkin) ପ୍ରତିକ୍ରିୟାରେ, ସୋଡିୟମ୍ ଆସେଟେଟ୍ ର ଉପସ୍ଥିତିରେ ବେଞ୍ଜାଲ୍ଡିହାଇଡ୍ ଆସେଟିକ୍ ଆନହାଇଡ୍ରାଇଡ୍ ସହିତ ପ୍ରତିକ୍ରିୟା କରି ସିନାମିକ୍ ଏସିଡ୍ ଗଠନ କରେ। ଏହି ପ୍ରତିକ୍ରିୟାର ପ୍ରଥମ ପଦକ୍ଷେପରେ କେଉଁ ସ୍ପେସିଜ୍ ନ୍ୟୁକ୍ଲିଓଫାଇଲ୍ (nucleophile) ଭାବରେ କାର୍ଯ୍ୟ କରେ?",
+          "options": [
+            "ଆସେଟିକ୍ ଆନହାଇଡ୍ରାଇଡ୍ ର ଡିପ୍ରୋଟୋନେସନ୍ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଥିବା କାର୍ବାନାୟନ୍",
+            "ସିଧାସଳଖ ବେଞ୍ଜାଲ୍ଡିହାଇଡ୍ କୁ ଆକ୍ରମଣ କରୁଥିବା ଆସେଟେଟ୍ ଆୟନ୍",
+            "ବେଞ୍ଜାଲ୍ଡିହାଇଡ୍ ର କଞ୍ଜୁଗେଟ୍ ବେସ୍",
+            "ଆସେଟିକ୍ ଆନହାଇଡ୍ରାଇଡ୍ ରୁ ଗଠିତ ଏସିଲିୟମ୍ ଆୟନ୍"
+          ],
+          "explanation": "ସୋଡିୟମ୍ ଆସେଟେଟ୍ ଏକ ମୃଦୁ କ୍ଷାର ଭାବରେ କାର୍ଯ୍ୟ କରି ଆସେଟିକ୍ ଆନହାଇଡ୍ରାଇଡ୍ ରୁ ଏକ ଆଲଫା-ପ୍ରୋଟନ୍ ଅପସାରଣ କରେ, ଯାହାଦ୍ୱାରା କାର୍ବାନାୟନ୍ (ଏନୋଲେଟ୍ ଆୟନ୍) ସୃଷ୍ଟି ହୁଏ। ଏହି କାର୍ବାନାୟନ୍ ନ୍ୟୁକ୍ଲିଓଫାଇଲ୍ ଭାବରେ ବେଞ୍ଜାଲ୍ଡିହାଇଡ୍ ର କାର୍ବୋନିଲ୍ କାର୍ବନ୍ କୁ ଆକ୍ରମଣ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786416023032-0",
+      "section": "Child Development",
+      "topic": "Piaget's Cognitive Development Stages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Jean Piaget's theory of cognitive development, at which stage do children typically master the concept of 'conservation' of mass, volume, and number?",
+      "options": [
+        "Sensorimotor Stage",
+        "Pre-operational Stage",
+        "Concrete Operational Stage",
+        "Formal Operational Stage"
+      ],
+      "answer": 2,
+      "explanation": "In Jean Piaget's theory, conservation—the understanding that basic physical properties of an object (such as mass, volume, or number) remain unchanged despite superficial changes in appearance—is typically acquired during the Concrete Operational Stage (around 7 to 11 years of age).",
+      "translations": {
+        "or": {
+          "question": "ଜାଁ ପିଆଜେ (Jean Piaget) ଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ଶିଶୁମାନେ ସାଧାରଣତଃ କେଉଁ ପର୍ଯ୍ୟାୟରେ ବସ୍ତୁର ଓଜନ, ଆୟତନ ଏବଂ ସଂଖ୍ୟାର 'ସଂରକ୍ଷଣ' (Conservation) ଧାରଣା ହାସଲ କରନ୍ତି?",
+          "options": [
+            "ସେନ୍ସୋରିମୋଟର ପର୍ଯ୍ୟାୟ (Sensorimotor Stage)",
+            "ପ୍ରାକ୍-ସଂକ୍ରିୟାତ୍ମକ ପର୍ଯ୍ୟାୟ (Pre-operational Stage)",
+            "ମୂର୍ତ୍ତ-ସଂକ୍ରିୟାତ୍ମକ ପର୍ଯ୍ୟାୟ (Concrete Operational Stage)",
+            "ଆନୁଷ୍ଠାନିକ-ସଂକ୍ରିୟାତ୍ମକ ପର୍ଯ୍ୟାୟ (Formal Operational Stage)"
+          ],
+          "explanation": "ଜାଁ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, ସଂରକ୍ଷଣ (Conservation) ର ଧାରଣା ଶିଶୁମାନେ ମୂର୍ତ୍ତ-ସଂକ୍ରିୟାତ୍ମକ ପର୍ଯ୍ୟାୟ (ପ୍ରାୟ ୭ ରୁ ୧୧ ବର୍ଷ ବୟସ) ମଧ୍ୟରେ ହାସଲ କରିଥାନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786416023032-1",
+      "section": "Child Development",
+      "topic": "Bronfenbrenner's Ecological Systems Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Urie Bronfenbrenner's Bioecological Model of Human Development, which specific system encompasses the socio-historical circumstances, transitions, and environmental events that occur across an individual's life course?",
+      "options": [
+        "Mesosystem",
+        "Exosystem",
+        "Chronosystem",
+        "Macrosystem"
+      ],
+      "answer": 2,
+      "explanation": "The chronosystem in Bronfenbrenner's Bioecological Model represents the temporal dimension of development. It incorporates socio-historical context (such as economic depressions or wars), major developmental transitions (like parental divorce or entering school), and changes in life events over time.",
+      "translations": {
+        "or": {
+          "question": "ୟୁରି ବ୍ରୋନଫେନବ୍ରେନର (Urie Bronfenbrenner) ଙ୍କ ମାନବ ବିକାଶର ଜୈବ-ପାରିସ୍ଥିତିକ ମୋଡେଲ (Bioecological Model) ରେ, କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ପ୍ରଣାଳୀ ବ୍ୟକ୍ତିର ସମଗ୍ର ଜୀବନକାଳ ମଧ୍ୟରେ ଘଟୁଥିବା ସାମାଜିକ-ଐତିହାସିକ ପରିସ୍ଥିତି, ପରିବର୍ତ୍ତନ ଏବଂ ପରିବେଶଗତ ଘଟଣାବଳୀକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ?",
+          "options": [
+            "ମେସୋସିଷ୍ଟମ୍ (Mesosystem)",
+            "ଏକ୍ସୋସିଷ୍ଟମ୍ (Exosystem)",
+            "କ୍ରୋନୋସିଷ୍ଟମ୍ (Chronosystem)",
+            "ମ୍ୟାକ୍ରୋସିଷ୍ଟମ୍ (Macrosystem)"
+          ],
+          "explanation": "ବ୍ରୋନଫେନବ୍ରେନରଙ୍କ ଜୈବ-ପାରିସ୍ଥିତିକ ମୋଡେଲରେ, କ୍ରୋନୋସିଷ୍ଟମ୍ (Chronosystem) ସମୟର ପରିମାପକୁ ଦର୍ଶାଏ, ଯେଉଁଥିରେ ବ୍ୟକ୍ତିର ଜୀବନକାଳ ମଧ୍ୟରେ ଘଟୁଥିବା ସାମାଜିକ-ଐତିହାସିକ ପରିସ୍ଥିତି, ପ୍ରମୁଖ ଜୀବନ ପରିବର୍ତ୍ତନ ଏବଂ ପରିବେଶଗତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
     }
   ]
 }

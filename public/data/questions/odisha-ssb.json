@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -12318,6 +12318,234 @@
       ],
       "answer": 2,
       "explanation": "A Discrimination Index below 0.20 indicates poor ability to differentiate high-performing from low-performing students. Combined with a very high difficulty index (0.85 = very easy), the item fails norm-referenced criteria and must be discarded or revised."
+    },
+    {
+      "id": "odisha-ssb-ai-1786415799167-0",
+      "section": "Subject Knowledge",
+      "topic": "Archetypal Criticism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Northrop Frye's 'Anatomy of Criticism' (1957), which season is associated with the narrative mythos of 'Romance'?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "answer": 1,
+      "explanation": "In Northrop Frye's archetypal theory of literature, the four mythoi correspond to the four seasons: Spring corresponds to Comedy, Summer to Romance, Autumn to Tragedy, and Winter to Irony/Satire.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "Northrop Frye ଙ୍କ 'Anatomy of Criticism' (1957) ରେ, 'Romance' (ରୋମାନ୍ସ) ଆଖ୍ୟାୟିକା ଶ୍ରେଣୀ କେଉଁ ଋତୁ ସହିତ ଜଡ଼ିତ?",
+          "options": [
+            "ବସନ୍ତ (Spring)",
+            "ଗ୍ରୀଷ୍ମ (Summer)",
+            "ଶରତ୍ (Autumn)",
+            "ଶୀତ (Winter)"
+          ],
+          "explanation": "Northrop Frye ଙ୍କ ଆର୍କିଟାଇପାଲ୍ ସମାଲୋଚନା ସିଦ୍ଧାନ୍ତରେ, ଚାରୋଟି mythoi ଚାରୋଟି ଋତୁ ସହିତ ଜଡ଼ିତ: ବସନ୍ତ ହେଉଛି Comedy, ଗ୍ରୀଷ୍ମ ହେଉଛି Romance, ଶରତ୍ ହେଉଛି Tragedy ଏବଂ ଶୀତ ହେଉଛି Irony/Satire।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415799168-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In T. S. Eliot's 1919 essay 'Hamlet and His Problems', which famous critical concept is introduced to critique Shakespeare's play?",
+      "options": [
+        "Dissociation of Sensibility",
+        "Objective Correlative",
+        "Negative Capability",
+        "Poetic Justice"
+      ],
+      "answer": 1,
+      "explanation": "T. S. Eliot introduced the term 'Objective Correlative' in his 1919 essay 'Hamlet and His Problems', arguing that Shakespeare failed to find a set of objects, a situation, or a chain of events to serve as the formula for Hamlet's emotion.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "T. S. Eliot ଙ୍କ ୧୯୧୯ ମସିହାର ପ୍ରବନ୍ଧ 'Hamlet and His Problems' ରେ, ଶେକ୍ସପିଅରଙ୍କ ନାଟକର ସମାଲୋଚନା କରିବା ପାଇଁ କେଉଁ ପ୍ରସିଦ୍ଧ ସମାଲୋଚନାତ୍ମକ ଅବଧାରଣା ପ୍ରବର୍ତ୍ତନ କରାଯାଇଥିଲା?",
+          "options": [
+            "Dissociation of Sensibility",
+            "Objective Correlative",
+            "Negative Capability",
+            "Poetic Justice"
+          ],
+          "explanation": "T. S. Eliot ତାଙ୍କ ପ୍ରବନ୍ଧ 'Hamlet and His Problems' ରେ 'Objective Correlative' ଶବ୍ଦ ପ୍ରବର୍ତ୍ତନ କରିଥିଲେ, ଯେଉଁଥିରେ ସେ ଦାବି କରିଥିଲେ ଯେ ଶେକ୍ସପିଅର ହାମଲେଟ୍‌ଙ୍କ ଭାବନା ପ୍ରକାଶ କରିବା ପାଇଁ ଏକ ଉପଯୁକ୍ତ 'objective correlative' ଖୋଜିବାରେ ବିଫଳ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415817295-0",
+      "section": "Teaching Aptitude",
+      "topic": "Interaction Analysis",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned A. Flanders' Interaction Analysis Category System (FIACS) for observing classroom verbal interaction, how many of the total 10 categories are assigned to 'Teacher Talk'?",
+      "options": [
+        "5 categories",
+        "7 categories",
+        "2 categories",
+        "10 categories"
+      ],
+      "answer": 1,
+      "explanation": "Flanders' Interaction Analysis Category System (FIACS) comprises 10 total categories for categorizing classroom verbal behavior. Among these, Categories 1 through 7 (7 categories) represent Teacher Talk, Categories 8 and 9 (2 categories) represent Student Talk, and Category 10 (1 category) represents Silence or Confusion.",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହ ଆଲୋଚନାର ଅନୁଧ୍ୟାନ ପାଇଁ ନେଡ୍ ଏ. ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ମଧ୍ୟରୁ କେତୋଟି ବର୍ଗ 'ଶିକ୍ଷକଙ୍କ କଥୋପକଥନ' (Teacher Talk) ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ?",
+          "options": [
+            "୫ଟି ବର୍ଗ",
+            "୭ଟି ବର୍ଗ",
+            "୨ଟି ବର୍ଗ",
+            "୧୦ଟି ବର୍ଗ"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକ୍ସନ୍ ଆନାଲିସିସ୍ କ୍ୟାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ରହିଛି। ଏଥିମଧ୍ୟରୁ ୭ଟି ବର୍ଗ (ବର୍ଗ ୧ ରୁ ୭) ଶିକ୍ଷକଙ୍କ କଥୋପକଥନ (Teacher Talk) ପାଇଁ, ୨ଟି ବର୍ଗ (ବର୍ଗ ୮ ଓ ୯) ଛାତ୍ରଙ୍କ କଥୋପକଥନ (Student Talk) ପାଇଁ ଏବଂ ୧ଟି ବର୍ଗ (ବର୍ଗ ୧୦) ନୀରବତା କିମ୍ବା ଦ୍ୱନ୍ଦ୍ୱ ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415817295-1",
+      "section": "Teaching Aptitude",
+      "topic": "Instructional Design Models",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Robert Gagné's conditions of learning framework, which of the following is the fifth event in the Nine Events of Instruction sequence, occurring immediately after presenting the learning content?",
+      "options": [
+        "Stimulating recall of prior learning",
+        "Providing learning guidance",
+        "Eliciting performance",
+        "Providing feedback"
+      ],
+      "answer": 1,
+      "explanation": "Robert Gagné's Nine Events of Instruction follow a systematic sequence: (1) Gain attention, (2) Inform learners of objectives, (3) Stimulate recall of prior learning, (4) Present the content, (5) Provide learning guidance, (6) Elicit performance, (7) Provide feedback, (8) Assess performance, and (9) Enhance retention and transfer. Thus, 'Providing learning guidance' is the fifth event.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେଙ୍କ ଶିକ୍ଷଣ ପରିସ୍ଥିତି ଢାଞ୍ଚା (Nine Events of Instruction) ଅନୁସାରେ, ଶିକ୍ଷଣ ବିଷୟବସ୍ତୁ ଉପସ୍ଥାପନ କରିବା ପରେ ପରବର୍ତ୍ତୀ ପଞ୍ଚମ ପଦକ୍ଷେପଟି କ’ଣ?",
+          "options": [
+            "ପୂର୍ବ ଶିକ୍ଷଣର ପୁନଃସ୍ମରଣକୁ ଉଦ୍ଦୀପିତ କରିବା",
+            "ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା",
+            "କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରଦର୍ଶନ କରାଇବା",
+            "ଫିଡବ୍ୟାକ୍ (ପ୍ରତିପୋଷଣ) ପ୍ରଦାନ କରିବା"
+          ],
+          "explanation": "ରବର୍ଟ ଗାଗ୍ନେଙ୍କ ନଅଟି ଶିକ୍ଷଣ ପଦକ୍ଷେପ (Nine Events of Instruction) ର କ୍ରମ ହେଉଛି: (୧) ମନୋଯୋଗ ଆକର୍ଷଣ, (୨) ଉଦ୍ଦେଶ୍ୟ ସମ୍ପର୍କରେ ସୂଚନା, (୩) ପୂର୍ବ ଜ୍ଞାନର ପୁନଃସ୍ମରଣ, (୪) ବିଷୟବସ୍ତୁ ଉପସ୍ଥାପନ, (୫) ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ, (୬) କାର୍ଯ୍ୟଦକ୍ଷତା ପ୍ରଦର୍ଶନ, (୭) ଫିଡବ୍ୟାକ୍ ପ୍ରଦାନ, (୮) କାର୍ଯ୍ୟଦକ୍ଷତା ଆକଳନ, ଏବଂ (୯) ଧାରଣ ଓ ସ୍ଥାନାନ୍ତରଣ ବୃଦ୍ଧି। ତେଣୁ 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା' ହେଉଛି ପଞ୍ଚମ ପଦକ୍ଷେପ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415828708-0",
+      "section": "General Studies",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which district of Odisha is the famous sacred shrine of Panchalingeswar located?",
+      "options": [
+        "Mayurbhanj",
+        "Balasore",
+        "Keonjhar",
+        "Bhadrak"
+      ],
+      "answer": 1,
+      "explanation": "Panchalingeswar is located in the Nilagiri hill range of Balasore district in Odisha. It is famous for housing five Shiva Lingas over which a continuous natural hill stream flows.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ପ୍ରସିଦ୍ଧ ପବିତ୍ର ପୀଠ 'ପଞ୍ଚଲିଙ୍ଗେଶ୍ୱର' ଅବସ୍ଥିତ?",
+          "options": [
+            "ମୟୂରଭଞ୍ଜ",
+            "ବାଲେଶ୍ୱର",
+            "କେନ୍ଦୁଝର",
+            "ଭଦ୍ରକ"
+          ],
+          "explanation": "ପଞ୍ଚଲିଙ୍ଗେଶ୍ୱର ଓଡ଼ିଶାର ବାଲେଶ୍ୱର ଜିଲ୍ଲାର ନୀଳଗିରି ପାହାଡ଼ ପରିସରରେ ଅବସ୍ଥିତ। ଏହା ଏହାର ପାଞ୍ଚଟି ଶିବଲିଙ୍ଗ ପାଇଁ ପ୍ରସିଦ୍ଧ, ଯାହା ଉପରେ ଏକ ପ୍ରାକୃତିକ ପାହାଡ଼ି ସ୍ରୋତ ସଦାସର୍ବଦା ପ୍ରବାହିତ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415828708-1",
+      "section": "General Studies",
+      "topic": "Economic Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which among the following bauxite deposits in Odisha is recognized as the largest single bauxite reserve in India?",
+      "options": [
+        "Panchpatmali",
+        "Gandhamardan",
+        "Kodingamali",
+        "Niyamgiri"
+      ],
+      "answer": 0,
+      "explanation": "The Panchpatmali deposit, located in the Koraput district of Odisha, is the largest bauxite reserve in India. It serves as the main mine for National Aluminium Company Limited (NALCO).",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ନିମ୍ନଲିଖିତ ବକ୍ସାଇଟ୍ ଗଚ୍ଛିତ କ୍ଷେତ୍ରଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ଭାରତର ସବୁଠାରୁ ବୃହତ୍ତମ ଏକକ ବକ୍ସାଇଟ୍ ଭଣ୍ଡାର ଭାବରେ ସ୍ୱୀକୃତ?",
+          "options": [
+            "ପଞ୍ଚପଟମାଳୀ",
+            "ଗନ୍ଧମାର୍ଦ୍ଦନ",
+            "କୋଡ଼ିଙ୍ଗାମାଳୀ",
+            "ନିୟମଗିରି"
+          ],
+          "explanation": "ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ପଞ୍ଚପଟମାଳୀ ଗଚ୍ଛିତ କ୍ଷେତ୍ର ଭାରତର ସବୁଠାରୁ ବୃହତ୍ତମ ବକ୍ସାଇଟ୍ ଭଣ୍ଡାର ଅଟେ। ଏହା ନ୍ୟାସନାଲ୍ ଆଲୁମିନିୟମ୍ କମ୍ପାନୀ ଲିମିଟେଡ୍ (NALCO) ର ମୁଖ୍ୟ ଖଣି ଭାବରେ କାର୍ଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415891124-0",
+      "section": "Odisha GK",
+      "topic": "Modern Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who presided over the historic first session of the Utkal Sammilani held at Cuttack in December 1903?",
+      "options": [
+        "Maharaja Sriram Chandra Bhanja Deo",
+        "Maharaja Krushna Chandra Gajapati",
+        "Raja Baikuntha Nath De",
+        "Utkalmani Gopabandhu Das"
+      ],
+      "answer": 0,
+      "explanation": "The first session of the Utkal Sammilani (Utkal Union Conference) was held in Cuttack on 30–31 December 1903 under the presidency of Maharaja Sriram Chandra Bhanja Deo of Mayurbhanj, while Utkal Gaurav Madhusudan Das served as its chief organizer.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୩ ମସିହା ଡିସେମ୍ବର ମାସରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ଉତ୍କଳ ସମ୍ମିଳନୀର ଐତିହାସିକ ପ୍ରଥମ ଅଧିବେଶନରେ କିଏ ସଭାପତିତ୍ୱ କରିଥିଲେ?",
+          "options": [
+            "ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜ ଦେଓ",
+            "ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ରାଜା ବୈକୁଣ୍ଠ ନାଥ ଦେ",
+            "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ"
+          ],
+          "explanation": "୧୯୦୩ ମସିହା ଡିସେମ୍ବର ୩୦-୩୧ ରେ କଟକଠାରେ ଅନୁଷ୍ଠିତ ଉତ୍କଳ ସମ୍ମିଳନୀର ପ୍ରଥମ ଅଧିବେଶନରେ ମୟୂରଭଞ୍ଜର ମହାରାଜା ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜ ଦେଓ ସଭାପତିତ୍ୱ କରିଥିଲେ, ଯେତେବେଳେ କି ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସ ଏହାର ମୁଖ୍ୟ ସୂତ୍ରଧର ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786415891124-1",
+      "section": "Odisha GK",
+      "topic": "Ancient Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Sailodbhava dynasty issued the Ganjam copper plate grant (dated 619 CE), acknowledging the Gauda King Sasanka as his overlord?",
+      "options": [
+        "Dharmaraja II",
+        "Madhavaraja II",
+        "Sainyabhita I",
+        "Madhavaraja I"
+      ],
+      "answer": 1,
+      "explanation": "Madhavaraja II (also known as Sainyabhita II Madhavavarman) issued the Ganjam plates in Gupta Era 300 (619 CE), in which he recorded his feudatory status under the Gauda monarch Sasanka.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଶୈଳୋଦ୍ଭବ ବଂଶର କେଉଁ ଶାସକ ୬୧୯ ଖ୍ରୀଷ୍ଟାବ୍ଦର ଗଞ୍ଜାମ ତାମ୍ରଫଳକ ଶାସନ ଜାରି କରି ଗୌଡ଼ ରାଜା ଶଶାଙ୍କଙ୍କୁ ନିଜର ସାର୍ବଭୌମ ରାଜା ଭାବରେ ସ୍ୱୀକାର କରିଥିଲେ?",
+          "options": [
+            "ଧର୍ମରାଜ II",
+            "ମାଧବରାଜ II",
+            "ସୈନ୍ୟଭୀତ I",
+            "ମାଧବରାଜ I"
+          ],
+          "explanation": "ମାଧବରାଜ II (ସୈନ୍ୟଭୀତ II ମାଧବବର୍ମନ୍) ଗୁପ୍ତାବ୍ଦ ୩୦୦ (୬୧୯ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ରେ ଗଞ୍ଜାମ ତାମ୍ରଫଳକ ଶାସନ ଜାରି କରିଥିଲେ, ଯେଉଁଥିରେ ସେ ଗୌଡ଼ ସମ୍ରାଟ ଶଶାଙ୍କଙ୍କ ଅଧୀନରେ ଥିବା ସାମନ୍ତ ରାଜା ଭାବେ ନିଜକୁ ଉଲ୍ଲେଖ କରିଛନ୍ତି।"
+        }
+      }
     }
   ]
 }

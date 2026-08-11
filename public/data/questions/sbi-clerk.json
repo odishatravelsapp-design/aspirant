@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -7800,6 +7800,136 @@
       ],
       "answer": 1,
       "explanation": "Corporation Bank was established in 1906 in Udupi as 'The Canara Banking Corporation (Udipi) Limited'. It was renamed Corporation Bank Limited in 1972, nationalised in 1980, and amalgamated into Union Bank of India on April 1, 2020."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415625226-0",
+      "section": "Quant",
+      "topic": "Quadratic Equations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, two equations I and II are given. Solve both equations and establish the correct relationship between x and y.\nI. 2x² - 11x + 15 = 0\nII. y² - 7y + 12 = 0",
+      "options": [
+        "x > y",
+        "x ≥ y",
+        "x < y",
+        "x ≤ y"
+      ],
+      "answer": 3,
+      "explanation": "Solving equation I: 2x² - 11x + 15 = 0 ⇒ 2x² - 6x - 5x + 15 = 0 ⇒ (2x - 5)(x - 3) = 0 ⇒ x = 2.5 or x = 3.\nSolving equation II: y² - 7y + 12 = 0 ⇒ (y - 3)(y - 4) = 0 ⇒ y = 3 or y = 4.\nComparing the values: 2.5 < 3, 2.5 < 4, 3 = 3, and 3 < 4. Hence, x ≤ y."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415625226-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red balls, 4 green balls, and 3 blue balls. If three balls are drawn at random one by one without replacement, what is the probability that all three drawn balls are of different colors?",
+      "options": [
+        "3/11",
+        "4/11",
+        "5/22",
+        "2/11"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 5 + 4 + 3 = 12.\nTotal number of ways to draw 3 balls out of 12 = 12C3 = (12 × 11 × 10) / (3 × 2 × 1) = 220.\nFavorable number of ways to pick 1 ball of each color = 5C1 × 4C1 × 3C1 = 5 × 4 × 3 = 60.\nRequired Probability = 60 / 220 = 3/11."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415654829-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a class of 45 students, A's rank is 18th from the top. B's rank is 6 ranks below A. What is B's rank from the bottom?",
+      "options": [
+        "21st",
+        "22nd",
+        "23rd",
+        "24th"
+      ],
+      "answer": 1,
+      "explanation": "A's rank from the top = 18th. Since B is 6 ranks below A, B's rank from the top = 18 + 6 = 24th. B's rank from the bottom = (Total students - B's rank from top) + 1 = (45 - 24) + 1 = 21 + 1 = 22nd."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415654829-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—A, B, C, D, E, and F—are sitting around a circular table facing the center. A sits third to the left of B. C sits second to the left of A. D sits to the immediate right of E. Who sits opposite to D?",
+      "options": [
+        "A",
+        "C",
+        "E",
+        "F"
+      ],
+      "answer": 3,
+      "explanation": "Arranging clockwise facing center: B is at position 1. A sits 3rd to the left of B, so A is at position 4. C sits 2nd to the left of A, placing C at position 6. D sits to the immediate right of E, which means E is at position 3 and D is at position 2. F occupies the remaining position 5. The person sitting opposite to D (position 2) is F (position 5)."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415663293-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Determine the exact meaning of the bolded idiom as used in the context of the sentence: 'The new policy turned out to be a **blessing in disguise** when it actually forced the company to innovate and double its profits.'",
+      "options": [
+        "An apparent misfortune that eventually results in a positive outcome",
+        "A sudden calamity that permanently destroys business prospects",
+        "A deliberate attempt to deceive investors about profits",
+        "A traditional practice followed during economic hardship"
+      ],
+      "answer": 0,
+      "explanation": "A 'blessing in disguise' refers to an event that initially seems unfortunate or bad, but ultimately turns out to be beneficial."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415663293-1",
+      "section": "English",
+      "topic": "Grammar - Conditionals",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Analyze the sentence divided into four parts below and locate the section that violates the rules of conditional clauses: 'Had the government (A) / taken stringent measures (B) / earlier, the spread of the virus (C) / would be contained much faster. (D)'",
+      "options": [
+        "Part (A)",
+        "Part (B)",
+        "Part (C)",
+        "Part (D)"
+      ],
+      "answer": 3,
+      "explanation": "The sentence uses the inverted third conditional form ('Had + subject + past participle'). The main clause must correspond with 'would have + past participle'. Thus, 'would be contained' in Part (D) should be replaced with 'would have been contained'."
+    },
+    {
+      "id": "sbi-clerk-ai-1786415674563-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Act provides the primary legal framework empowering the Reserve Bank of India (RBI) to license, regulate, and supervise commercial banks in India?",
+      "options": [
+        "Reserve Bank of India Act, 1934",
+        "Banking Regulation Act, 1949",
+        "Negotiable Instruments Act, 1881",
+        "Companies Act, 2013"
+      ],
+      "answer": 1,
+      "explanation": "The Banking Regulation Act, 1949 provides the statutory framework for the RBI to regulate, license, and supervise commercial banks in India, whereas the RBI Act, 1934 deals with the establishment and central banking functions of the RBI.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786415674563-1",
+      "section": "General Awareness",
+      "topic": "Banking Risk & Prudential Norms",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework issued by the Reserve Bank of India for Scheduled Commercial Banks, which combination of financial parameters serves as the key risk indicators?",
+      "options": [
+        "Capital, Asset Quality, and Leverage",
+        "Liquidity Coverage Ratio, Net Interest Margin, and Profitability",
+        "Credit-Deposit Ratio, Return on Assets, and Non-Performing Assets",
+        "Capital Adequacy Ratio, Cash Reserve Ratio, and Inflation Rate"
+      ],
+      "answer": 0,
+      "explanation": "Under the RBI's revised PCA framework effective from January 1, 2022, Capital (CRAR/Common Equity Tier 1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Leverage Ratio) are the three key risk indicators monitored to track financial health.",
+      "status": "pending"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -9407,6 +9407,234 @@
             "ଜଷ୍ଟିସ୍ ଆର୍. ଲକ୍ଷ୍ମଣ ନରସିଂହମ୍"
           ],
           "explanation": "୧୯୪୮ ମସିହା ଜୁଲାଇ ୨୬ ତାରିଖରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦ୍‌ଘାଟିତ ହୋଇଥିଲା ଏବଂ ଜଷ୍ଟିସ୍ ବୀରକିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ନ୍ୟାୟାଧୀଶ ଭାବରେ ଦାୟିତ୍ୱ ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415746205-0",
+      "section": "Arithmetic",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Two pipes A and B can fill a tank in 15 hours and 20 hours respectively, while a third pipe C can empty the full tank in 25 hours. All three pipes are opened together in the beginning. After 10 hours, pipe C is closed. In how much total time will the tank be full?",
+      "options": [
+        "12 hours",
+        "14 hours",
+        "11.5 hours",
+        "13 hours"
+      ],
+      "answer": 0,
+      "explanation": "Combined rate of all three pipes in 1 hour = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300. In 10 hours, portion filled = 10 * (23/300) = 23/30. Remaining work = 1 - 23/30 = 7/30. Combined rate of A and B = 1/15 + 1/20 = 7/60. Time taken by A and B to fill remaining portion = (7/30) / (7/60) = 2 hours. Total time = 10 + 2 = 12 hours.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ପାଇପ୍ A ଏବଂ B ଗୋଟିଏ ଟାଙ୍କିକୁ ଯଥାକ୍ରମେ 15 ଘଣ୍ଟା ଏବଂ 20 ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରନ୍ତି, ଯେତେବେଳେ କି ତୃତୀୟ ପାଇପ୍ C ସମ୍ପୂର୍ଣ୍ଣ ଟାଙ୍କିକୁ 25 ଘଣ୍ଟାରେ ଖାଲି କରିପାରେ। ପ୍ରାରମ୍ଭରେ ତିନୋଟିଯାକ ପାଇପ୍ ଏକାଠି ଖୋଲାଯାଏ। 10 ଘଣ୍ଟା ପରେ C ପାଇପ୍ କୁ ବନ୍ଦ କରିଦିଆଯାଏ। ଟାଙ୍କିଟି ପୂର୍ଣ୍ଣ ହେବା ପାଇଁ ମୋଟ କେତେ ସମୟ ଲାଗିବ?",
+          "options": [
+            "12 ଘଣ୍ଟା",
+            "14 ଘଣ୍ଟା",
+            "11.5 ଘଣ୍ଟା",
+            "13 ଘଣ୍ଟା"
+          ],
+          "explanation": "ପ୍ରଥମ 10 ଘଣ୍ଟାରେ ସମସ୍ତ ତିନୋଟି ପାଇପ୍ ଦ୍ୱାରା ପୂରଣ ହୋଇଥିବା ଅଂଶ = 10 × (1/15 + 1/20 - 1/25) = 10 × (23/300) = 23/30। ଅବଶିଷ୍ଟ ଅଂଶ = 1 - 23/30 = 7/30। A ଏବଂ B ର ମିଳିତ ଦକ୍ଷତା = 1/15 + 1/20 = 7/60। ଅବଶିଷ୍ଟ କାର୍ଯ୍ୟ ଶେଷ କରିବାକୁ ଲାଗୁଥିବା ସମୟ = (7/30) / (7/60) = 2 ଘଣ୍ଟା। ମୋଟ ସମୟ = 10 + 2 = 12 ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415746205-1",
+      "section": "Arithmetic",
+      "topic": "Compound & Simple Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of money amounts to Rs. 4,840 in 2 years and to Rs. 5,324 in 3 years at compound interest compounded annually. If the same sum is invested at the same annual interest rate for 2.5 years at simple interest, what will be the total amount (in Rs.)?",
+      "options": [
+        "Rs. 4,900",
+        "Rs. 5,000",
+        "Rs. 5,200",
+        "Rs. 5,100"
+      ],
+      "answer": 1,
+      "explanation": "Interest for 1 year (from 2nd to 3rd year) = 5324 - 4840 = Rs. 484. Rate of interest (r) = (484 / 4840) * 100 = 10% per annum. Principal (P) = 4840 / (1 + 10/100)^2 = 4840 / 1.21 = Rs. 4000. Simple interest for 2.5 years at 10% = (4000 * 10 * 2.5) / 100 = Rs. 1000. Total amount = 4000 + 1000 = Rs. 5000.",
+      "translations": {
+        "or": {
+          "question": "ବାର୍ଷିକ ଚକ୍ରବୃଦ୍ଧି ସୁଧ ହାରରେ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ମୂଳଧନ 2 ବର୍ଷରେ 4,840 ଟଙ୍କା ଏବଂ 3 ବର୍ଷରେ 5,324 ଟଙ୍କା ହୋଇଥାଏ। ଯଦି ସମାନ ମୂଳଧନକୁ ସମାନ ବାର୍ଷିକ ସୁଧ ହାରରେ 2.5 ବର୍ଷ ପାଇଁ ସରଳ ସୁଧରେ ବିନିଯୋଗ କରାଯାଏ, ତେବେ ସମୁଦାୟ ସୁଧମୂଳ (ଟଙ୍କାରେ) କେତେ ହେବ?",
+          "options": [
+            "Rs. 4,900",
+            "Rs. 5,000",
+            "Rs. 5,200",
+            "Rs. 5,100"
+          ],
+          "explanation": "2 ବର୍ଷରୁ 3 ବର୍ଷ ମଧ୍ୟରେ 1 ବର୍ଷର ସୁଧ = 5,324 - 4,840 = 484 ଟଙ୍କା। ବାର୍ଷିକ ସୁଧ ହାର (r) = (484 / 4840) × 100 = 10%। ମୂଳଧନ (P) = 4840 / (1 + 10/100)² = 4840 / 1.21 = 4,000 ଟଙ୍କା। 2.5 ବର୍ଷ ପାଇଁ ସରଳ ସୁଧ (SI) = (4000 × 10 × 2.5) / 100 = 1,000 ଟଙ୍କା। ମୋଟ ସୁଧମୂଳ = 4000 + 1000 = 5,000 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415764696-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language, 'ODISHA' is written as 'PFLWMG'. How will 'PURI' be written in that code language?",
+      "options": [
+        "QWUM",
+        "QVTL",
+        "RWVN",
+        "PXTL"
+      ],
+      "answer": 0,
+      "explanation": "The pattern follows an increasing addition to the positional values of letters: O(+1)=P, D(+2)=F, I(+3)=L, S(+4)=W, H(+5)=M, A(+6)=G. Applying the same rule to PURI: P(+1)=Q, U(+2)=W, R(+3)=U, I(+4)=M. Therefore, 'PURI' is coded as 'QWUM'.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'ODISHA' କୁ 'PFLWMG' ଭାବରେ ଲେଖାଯାଏ | ସେହି କୋଡ୍ ଭାଷାରେ 'PURI' କିପରି ଲେଖାଯିବ?",
+          "options": [
+            "QWUM",
+            "QVTL",
+            "RWVN",
+            "PXTL"
+          ],
+          "explanation": "ଅକ୍ଷରଗୁଡ଼ିକର କ୍ରମାଗତ ସ୍ଥାନୀୟ ମାନ ବୃଦ୍ଧି ହେଉଛି: O(+1)=P, D(+2)=F, I(+3)=L, S(+4)=W, H(+5)=M, A(+6)=G | ସେହି ନିୟମ ଅନୁସାରେ PURI ପାଇଁ: P(+1)=Q, U(+2)=W, R(+3)=U, I(+4)=M | ତେଣୁ, 'PURI' ର କୋଡ୍ ହେଉଛି 'QWUM' |"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415764696-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Six friends — A, B, C, D, E, and F — are sitting around a circular table facing the center. A sits second to the right of B. C is an immediate neighbor of B. D sits third to the right of C. E sits second to the left of F. Who sits to the immediate right of E?",
+      "options": [
+        "D",
+        "F",
+        "C",
+        "B"
+      ],
+      "answer": 0,
+      "explanation": "Arranging all six facing center: Place B at spot 1. A sits 2nd to the right of B (spot 5). C is adjacent to B at spot 6 (so D, 3rd to the right of C, is at spot 3). F is at spot 2, and E sitting 2nd to the left of F gives E at spot 4. The clockwise order is B, F, D, E, A, C. The person to the immediate right of E (counter-clockwise) is D.",
+      "translations": {
+        "or": {
+          "question": "ଛଅ ଜଣ ବନ୍ଧୁ — A, B, C, D, E, ଏବଂ F କେନ୍ଦ୍ରକୁ ମୁହଁ କରି ଏକ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ ବସିଛନ୍ତି। A, B ର ଡାହାଣରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛି। C, B ର ଜଣେ ନିକଟତମ ପଡ଼ୋଶୀ। D, C ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛି। E, F ର ବାମରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛି। E ର ଠିକ୍ ଡାହାଣରେ କିଏ ବସିଛି?",
+          "options": [
+            "D",
+            "F",
+            "C",
+            "B"
+          ],
+          "explanation": "ସମସ୍ତ ୬ ଜଣଙ୍କୁ କେନ୍ଦ୍ର ଆଡ଼କୁ ମୁହଁ କରାଇ ବସାଇଲେ: B ସ୍ଥାନ ୧ ରେ। A ହେଉଛି B ର ଡାହାଣରେ ୨ୟ (ସ୍ଥାନ ୫)। C, B ର ପାଖରେ ସ୍ଥାନ ୬ ରେ ବସିବ (ଯାହାଦ୍ୱାରା D, C ର ଡାହାଣରେ ୩ୟ ହୋଇ ସ୍ଥାନ ୩ ରେ ରହିବ)। F ସ୍ଥାନ ୨ ରେ ଏବଂ E, F ର ବାମରେ ୨ୟ ହୋଇ ସ୍ଥାନ ୪ ରେ ରହିବ। ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ କ୍ରମ ହେଉଛି B, F, D, E, A, C। E ର ଠିକ୍ ଡାହାଣରେ D ବସିଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415775709-0",
+      "section": "General Knowledge",
+      "topic": "Ancient Odisha History",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which emperor of the Mahameghavahana dynasty is associated with the famous Hathigumpha inscription located at Udayagiri near Bhubaneswar?",
+      "options": [
+        "Kharavela",
+        "Kudepasiri",
+        "Vaduka",
+        "Satakarni"
+      ],
+      "answer": 0,
+      "explanation": "Emperor Kharavela of the Mahameghavahana dynasty recorded his military victories, royal deeds, and public welfare works in the Hathigumpha inscription on Udayagiri Hill near Bhubaneswar.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ଉଦୟଗିରିଠାରେ ଥିବା ପ୍ରସିଦ୍ଧ ହାତୀଗୁମ୍ଫା ଅଭିଲେଖ ସହିତ ମହାମେଘବାହନ ବଂଶର କେଉଁ ସମ୍ରାଟ ଜଡ଼ିତ?",
+          "options": [
+            "ଖାରବେଳ",
+            "କୁଦେପସିରୀ",
+            "ବଡ଼ୁକ",
+            "ଶାତକର୍ଣ୍ଣୀ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ଉଦୟଗିରି ପାହାଡ଼ରେ ଅବସ୍ଥିତ ହାତୀଗୁମ୍ଫା ଅଭିଲେଖରେ ମହାମେଘବାହନ ବଂଶର ସମ୍ରାଟ ଖାରବେଳଙ୍କର ସାମରିକ ବିଜୟ, ରାଜକୀୟ କୀର୍ତ୍ତି ଏବଂ ଜନକଲ୍ୟାଣକାରୀ କାର୍ଯ୍ୟାବଳୀ ବର୍ଣ୍ଣିତ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415775709-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Modern History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the 'Utkal Sammilani' (Utkal Union Conference) founded by Utkal Gourav Madhusudan Das to campaign for the creation of a separate Odisha state?",
+      "options": [
+        "1897",
+        "1903",
+        "1912",
+        "1920"
+      ],
+      "answer": 1,
+      "explanation": "Utkal Sammilani was established in December 1903 at Cuttack by Utkal Gourav Madhusudan Das along with other prominent Odia leaders to unite all Odia-speaking tracts under a single administration.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଗଠନ ଆନ୍ଦୋଳନର ନେତୃତ୍ୱ ନେବା ପାଇଁ ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା କେଉଁ ବର୍ଷ 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧୮୯୭",
+            "୧୯୦୩",
+            "୧୯୧୨",
+            "୧୯୨୦"
+          ],
+          "explanation": "ଓଡ଼ିଆ ଭାଷୀ ଅଞ୍ଚଳଗୁଡ଼ିକୁ ଏକାଠି କରି ସ୍ୱତନ୍ତ୍ର ପ୍ରଦେଶ ଗଠନ କରିବା ଲକ୍ଷ୍ୟରେ ୧୯୦୩ ମସିହା ଡିସେମ୍ବର ମାସରେ କଟକଠାରେ ଉତ୍କଳ ଗୌରବ ମଧୁସୂଦନ ଦାସଙ୍କ ଦ୍ୱାରା 'ଉତ୍କଳ ସମ୍ମିଳନୀ' ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415788902-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which major river of Odisha originates from the Gonasika hills in the Keonjhar district?",
+      "options": [
+        "Mahanadi",
+        "Baitarani",
+        "Brahmani",
+        "Subarnarekha"
+      ],
+      "answer": 1,
+      "explanation": "The Baitarani River originates from the Gonasika hills (also known as Guptaganga) in the Keonjhar district of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ପ୍ରମୁଖ ନଦୀ କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି?",
+          "options": [
+            "ମହାନଦୀ",
+            "ବୈତରଣୀ",
+            "ବ୍ରାହ୍ମଣୀ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଗୋନାସିକା ପାହାଡ଼ (ଗୁପ୍ତଗଙ୍ଗା) ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786415788902-1",
+      "section": "Odisha GK",
+      "topic": "Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who chaired the Odisha Boundary Committee constituted in September 1931 to examine the boundaries of the proposed separate province of Odisha?",
+      "options": [
+        "Sir Arthur Philip",
+        "Sir Samuel O'Donnell",
+        "Sir John Austen Hubback",
+        "C. L. Philip"
+      ],
+      "answer": 1,
+      "explanation": "The Odisha Boundary Committee was appointed in September 1931 under the chairmanship of Sir Samuel O'Donnell to demarcate the boundaries of the proposed Odisha province.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରସ୍ତାବିତ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ ୧୯୩୧ ସେପ୍ଟେମ୍ବରରେ ଗଠିତ 'ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି' ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସର ଆର୍ଥର ଫିଲିପ୍",
+            "ସର ସାମୁଏଲ ଓ’ଡୋନେଲ",
+            "ସର ଜନ୍ ଅଷ୍ଟେନ ହବବ୍ୟାକ",
+            "ସି. ଏଲ୍. ଫିଲିପ୍"
+          ],
+          "explanation": "ପ୍ରସ୍ତାବିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ ପାଇଁ ୧୯୩୧ ସେପ୍ଟେମ୍ବର ମାସରେ ସର ସାମୁଏଲ ଓ’ଡୋନେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି ନିଯୁକ୍ତ ହୋଇଥିଲା।"
         }
       }
     }
