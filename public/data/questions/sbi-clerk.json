@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -7929,6 +7929,136 @@
       ],
       "answer": 0,
       "explanation": "Under the RBI's revised PCA framework effective from January 1, 2022, Capital (CRAR/Common Equity Tier 1 Ratio), Asset Quality (Net NPA Ratio), and Leverage (Leverage Ratio) are the three key risk indicators monitored to track financial health.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786503828224-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A and B started a business by investing ₹20,000 and ₹25,000 respectively. After 4 months, A added ₹5,000 to his investment, while B withdrew ₹5,000. What is the ratio of the profit shares of A and B at the end of one year?",
+      "options": [
+        "14 : 13",
+        "7 : 6",
+        "15 : 13",
+        "12 : 11"
+      ],
+      "answer": 0,
+      "explanation": "A's total equivalent investment for 1 year = (20,000 × 4) + (25,000 × 8) = 80,000 + 2,000,000 = 2,80,000. B's total equivalent investment for 1 year = (25,000 × 4) + (20,000 × 8) = 1,00,000 + 1,60,000 = 2,60,000. Ratio of profit shares = 2,80,000 : 2,60,000 = 14 : 13."
+    },
+    {
+      "id": "sbi-clerk-ai-1786503828224-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The ratio of the length to the breadth of a rectangle is 5 : 3. If the perimeter of the rectangle is equal to the perimeter of a square whose area is 256 sq. cm, find the area of the rectangle.",
+      "options": [
+        "220 sq. cm",
+        "240 sq. cm",
+        "260 sq. cm",
+        "210 sq. cm"
+      ],
+      "answer": 1,
+      "explanation": "Side of square = √256 = 16 cm. Perimeter of square = 4 × 16 = 64 cm. Perimeter of rectangle = 2(5x + 3x) = 16x = 64 cm, which gives x = 4 cm. Length = 5 × 4 = 20 cm, Breadth = 3 × 4 = 12 cm. Area of rectangle = 20 × 12 = 240 sq. cm."
+    },
+    {
+      "id": "sbi-clerk-ai-1786503856466-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the question below, three statements are given followed by two conclusions. Read all the statements and decide which of the given conclusions logically follows.\n\nStatements:\nSome apples are red.\nAll red are fruits.\nNo fruit is sweet.\n\nConclusions:\nI. Some apples are fruits.\nII. No red is sweet.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Since 'Some apples are red' and 'All red are fruits', the intersection between apples and red falls inside fruits, so 'Some apples are fruits' is definitely true. Furthermore, since 'All red are fruits' and 'No fruit is sweet', no element of red can be sweet, so 'No red is sweet' is also definitely true. Hence, both conclusions I and II follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1786503856466-1",
+      "section": "Reasoning",
+      "topic": "Parallel Row Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons—P, Q, R, S, T, U, V, and W—are sitting in two parallel rows containing four persons each in such a way that there is an equal distance between adjacent persons. In Row 1: P, Q, R, and S are seated facing South. In Row 2: T, U, V, and W are seated facing North.\n\n• T sits second to the left of U.\n• The person facing T sits to the immediate right of Q.\n• Only one person sits between Q and S.\n• R faces the person who sits to the immediate left of W.\n• V does not sit at any extreme end.\n\nWho among the following faces S?",
+      "options": [
+        "T",
+        "U",
+        "V",
+        "W"
+      ],
+      "answer": 3,
+      "explanation": "Placing Row 2 (North-facing) from left to right as positions 1, 2, 3, 4:\nT sits second to the left of U, so T is at pos 1 and U is at pos 3. Person facing T is at pos 1 of Row 1 (South-facing). Since this person is to the immediate right of Q (facing South, right is towards position 1), Q must be at pos 2 of Row 1. Only one person sits between Q and S, so S is at pos 4 of Row 1. Since V cannot sit at an extreme end, V is at pos 2 of Row 2, leaving W at pos 4 of Row 2. The person to the immediate left of W is U (pos 3), so R faces U at pos 3 of Row 1. P occupies pos 1 of Row 1. Thus, S (pos 4, Row 1) faces W (pos 4, Row 2)."
+    },
+    {
+      "id": "sbi-clerk-ai-1786503863101-0",
+      "section": "English",
+      "topic": "Vocabulary - Synonyms",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the most appropriate synonym for the word 'approval' as used in the sentence:\n'The new project proposal received approval from the board of directors.'",
+      "options": [
+        "dissent",
+        "sanction",
+        "refusal",
+        "condemnation"
+      ],
+      "answer": 1,
+      "explanation": "'Sanction' means official permission or approval for an action, making it the correct synonym. 'Dissent', 'refusal', and 'condemnation' express disapproval or rejection."
+    },
+    {
+      "id": "sbi-clerk-ai-1786503863101-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the option that correctly replaces the underlined part in the sentence to make it grammatically correct:\n'No sooner had the chief guest arrived at the venue when the audience started cheering enthusiastically.'",
+      "options": [
+        "than the audience started cheering",
+        "then the audience started cheering",
+        "while the audience starts cheering",
+        "as the audience had started cheering"
+      ],
+      "answer": 0,
+      "explanation": "The correct correlative conjunction pair is 'No sooner ... than'. Replacing 'when' with 'than' makes the sentence grammatically correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1786503876653-0",
+      "section": "General Awareness",
+      "topic": "Banking Knowledge",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under current Reserve Bank of India guidelines, what is the validity period of a cheque from the date of its issuance?",
+      "options": [
+        "1 month",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "answer": 1,
+      "explanation": "With effect from April 1, 2012, the Reserve Bank of India reduced the validity period of cheques, drafts, pay orders, and banker's cheques from 6 months to 3 months from the date of issue.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786503876653-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the overall Priority Sector Lending (PSL) target set by the RBI for Domestic Scheduled Commercial Banks (excluding Regional Rural Banks and Small Finance Banks) as a percentage of Adjusted Net Bank Credit (ANBC) or CEOBE, whichever is higher?",
+      "options": [
+        "30%",
+        "40%",
+        "60%",
+        "75%"
+      ],
+      "answer": 1,
+      "explanation": "For Domestic Scheduled Commercial Banks (excluding RRBs and SFBs) and Foreign Banks with 20 branches and above, the overall Priority Sector Lending target is 40% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
       "status": "pending"
     }
   ]

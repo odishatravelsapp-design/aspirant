@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -9109,6 +9109,174 @@
             "ମ୍ୟାକ୍ରୋସିଷ୍ଟମ୍ (Macrosystem)"
           ],
           "explanation": "ବ୍ରୋନଫେନବ୍ରେନରଙ୍କ ଜୈବ-ପାରିସ୍ଥିତିକ ମୋଡେଲରେ, କ୍ରୋନୋସିଷ୍ଟମ୍ (Chronosystem) ସମୟର ପରିମାପକୁ ଦର୍ଶାଏ, ଯେଉଁଥିରେ ବ୍ୟକ୍ତିର ଜୀବନକାଳ ମଧ୍ୟରେ ଘଟୁଥିବା ସାମାଜିକ-ଐତିହାସିକ ପରିସ୍ଥିତି, ପ୍ରମୁଖ ଜୀବନ ପରିବର୍ତ୍ତନ ଏବଂ ପରିବେଶଗତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786504095073-0",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Theories",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Robert Gagné's Hierarchy of Learning, which type of learning occupies the lowest (most basic) level?",
+      "options": [
+        "Signal Learning",
+        "Stimulus-Response Learning",
+        "Chaining",
+        "Verbal Association"
+      ],
+      "answer": 0,
+      "explanation": "According to Robert Gagné's eight-level hierarchy of learning, 'Signal Learning' (based on Pavlovian classical conditioning) is the simplest and lowest level of learning, serving as the foundation for complex learning types.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗାଗ୍ନେ (Robert Gagné) ଙ୍କ ଶିକ୍ଷଣ ପଦାନୁକ୍ରମ (Hierarchy of Learning) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପ୍ରକାରର ଶିକ୍ଷଣ ସବୁଠାରୁ ନିମ୍ନ (ମୌଳିକ) ସ୍ତରରେ ଅଛି?",
+          "options": [
+            "ସଙ୍କେତ ଶିକ୍ଷଣ (Signal Learning)",
+            "ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ (Stimulus-Response Learning)",
+            "ଶୃଙ୍ଖଳନ (Chaining)",
+            "ଶାବ୍ଦିକ ସାହଚର୍ଯ୍ୟ (Verbal Association)"
+          ],
+          "explanation": "ରବର୍ଟ ଗାଗ୍ନେଙ୍କ ଆଠଟି ସ୍ତରୀୟ ଶିକ୍ଷଣ ପଦାନୁକ୍ରମରେ, 'ସଙ୍କେତ ଶିକ୍ଷଣ' (Signal Learning) ହେଉଛି ସବୁଠାରୁ ପ୍ରାଥମିକ କିମ୍ବା ନିମ୍ନତମ ସ୍ତର, ଯାହା ପାଭଲୋଭଙ୍କ କ୍ଲାସିକାଲ୍ କଣ୍ଡିସନିଂ ଉପରେ ଆଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786504095073-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Evaluation and Assessment",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In Daniel Stufflebeam's CIPP (Context, Input, Process, Product) evaluation model, which component is specifically designed to assess system capabilities, examine alternative program strategies, and evaluate procedural designs prior to program implementation?",
+      "options": [
+        "Context Evaluation",
+        "Input Evaluation",
+        "Process Evaluation",
+        "Product Evaluation"
+      ],
+      "answer": 1,
+      "explanation": "Input Evaluation in the CIPP model focuses on evaluating alternative approaches, available resources, procedural designs, and system capabilities to determine how best to meet the identified needs before implementation.",
+      "translations": {
+        "or": {
+          "question": "ଡାନିଏଲ୍ ଷ୍ଟଫଲବିମ୍ (Daniel Stufflebeam) ଙ୍କ ଦ୍ୱାରା ବିକଶିତ CIPP (ସନ୍ଦର୍ଭ, ଇନପୁଟ୍, ପ୍ରକ୍ରିୟା, ଉତ୍ପାଦ) ମୂଲ୍ୟାଙ୍କନ ମଡେଲରେ, କାର୍ଯ୍ୟକ୍ରମ କାର୍ଯ୍ୟକାରୀ ହେବା ପୂର୍ବରୁ ସିଷ୍ଟମ୍ କ୍ଷମତା, ବିକଳ୍ପ କାର୍ଯ୍ୟକ୍ରମ ରଣନୀତି ଏବଂ ପ୍ରକ୍ରିୟାଗତ ଡିଜାଇନ୍ ଚିହ୍ନଟ ଓ ମୂଲ୍ୟାଙ୍କନ କରିବା ସହିତ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ମୂଲ୍ୟାଙ୍କନ ମୁଖ୍ୟତଃ ଜଡ଼ିତ?",
+          "options": [
+            "ସନ୍ଦର୍ଭ ମୂଲ୍ୟାଙ୍କନ (Context Evaluation)",
+            "ଇନପୁଟ୍ ମୂଲ୍ୟାଙ୍କନ (Input Evaluation)",
+            "ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାଙ୍କନ (Process Evaluation)",
+            "ଉତ୍ପାଦ ମୂଲ୍ୟାଙ୍କନ (Product Evaluation)"
+          ],
+          "explanation": "CIPP ମଡେଲରେ, ଇନପୁଟ୍ ମୂଲ୍ୟାଙ୍କନ (Input Evaluation) ନିର୍ଦ୍ଧାରିତ ଲକ୍ଷ୍ୟ ହାସଲ କରିବା ପାଇଁ ବିକଳ୍ପ ରଣନୀତି, ସମ୍ବଳ, ବଜେଟ୍ ଏବଂ କାର୍ଯ୍ୟପନ୍ଥାର କ୍ଷମତା ଓ ସମ୍ଭାବ୍ୟତାକୁ ମୂଲ୍ୟାଙ୍କନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786504575686-0",
+      "section": "Child Development",
+      "topic": "Moral Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Lawrence Kohlberg's theory of moral development, at which stage is moral reasoning defined by a focus on obeying laws, respecting authority, and performing one's social duty to maintain societal order?",
+      "options": [
+        "Stage 2: Individualism and Exchange",
+        "Stage 3: Good Interpersonal Relationships",
+        "Stage 4: Maintaining the Social Order",
+        "Stage 5: Social Contract and Individual Rights"
+      ],
+      "answer": 2,
+      "explanation": "Stage 4 of Kohlberg's moral development theory is the 'Maintaining the Social Order' orientation. At this stage, moral choices are driven by a sense of duty, respect for authority, and adherence to formal rules and laws necessary to keep society functioning smoothly.",
+      "translations": {
+        "or": {
+          "question": "ଲରେନ୍ସ କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ନୈତିକ ତର୍କ ସାମାଜିକ ବ୍ୟବସ୍ଥା ବଜାୟ ରଖିବା ପାଇଁ ଆଇନ ମାନିବା, କର୍ତ୍ତୃପକ୍ଷଙ୍କୁ ସମ୍ମାନ କରିବା ଏବଂ ସାମାଜିକ କର୍ତ୍ତବ୍ୟ ପାଳନ କରିବା ଉପରେ ଆଧାରିତ?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୨: ବ୍ୟକ୍ତିବାଦ ଏବଂ ବିନିମୟ (Individualism and Exchange)",
+            "ପର୍ଯ୍ୟାୟ ୩: ଉତ୍ତମ ଆନ୍ତଃବ୍ୟକ୍ତିକ ସମ୍ପର୍କ (Good Interpersonal Relationships)",
+            "ପର୍ଯ୍ୟାୟ ୪: ସାମାଜିକ ବ୍ୟବସ୍ଥା ବଜାୟ ରଖିବା (Maintaining the Social Order)",
+            "ପର୍ଯ୍ୟାୟ ୫: ସାମାଜିକ ଚୁକ୍ତି ଏବଂ ବ୍ୟକ୍ତିଗତ ଅଧିକାର (Social Contract and Individual Rights)"
+          ],
+          "explanation": "କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶ ସିଦ୍ଧାନ୍ତର ୪ର୍ଥ ପର୍ଯ୍ୟାୟ ହେଉଛି 'ସାମାଜିକ ବ୍ୟବସ୍ଥା ବଜାୟ ରଖିବା'। ଏହି ପର୍ଯ୍ୟାୟରେ ବ୍ୟକ୍ତି ସମାଜର ଶୃଙ୍ଖଳା ରକ୍ଷା କରିବା ପାଇଁ ଆଇନ, ନିୟମ ଏବଂ କର୍ତ୍ତବ୍ୟ ପାଳନ ଉପରେ ଗୁରୁତ୍ୱ ଦିଅନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786504575686-1",
+      "section": "Child Development",
+      "topic": "Principles of Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Heinz Werner's Orthogenetic Principle, how does developmental change progress in human behavior and psychological processes?",
+      "options": [
+        "From global, undifferentiated states toward states of increasing differentiation, articulation, and hierarchical integration",
+        "From specialized, independent behaviors toward simple, uncoordinated global motor responses",
+        "From hierarchically integrated cognitive schemes toward isolated, egocentric mental representations",
+        "From external environmental influences toward rigid, genetically predetermined biological milestones"
+      ],
+      "answer": 0,
+      "explanation": "Heinz Werner's Orthogenetic Principle asserts that wherever development occurs, it proceeds from a state of relative globality and lack of differentiation to a state of increasing differentiation, articulation, and hierarchical integration.",
+      "translations": {
+        "or": {
+          "question": "ହାଇଞ୍ଜ ୱର୍ନର (Heinz Werner)ଙ୍କ 'ଅର୍ଥୋଜେନେଟିକ୍ ନିୟମ' (Orthogenetic Principle) ଅନୁଯାୟୀ, ମାନବ ବ୍ୟବହାର ଏବଂ ମାନସିକ ପ୍ରକ୍ରିୟାରେ ବିକାଶମୂଳକ ପରିବର୍ତ୍ତନ କିପରି ଅଗ୍ରସର ହୁଏ?",
+          "options": [
+            "ସାମଗ୍ରିକ, ଅବିଭେଦିତ ଅବସ୍ଥାରୁ କ୍ରମାଗତ ବିଭେଦୀକରଣ, ସ୍ପଷ୍ଟତା ଏବଂ ଶ୍ରେଣୀଗତ ଏକତ୍ରୀକରଣର ଅବସ୍ଥା ଆଡ଼କୁ",
+            "ବିଶେଷ, ସ୍ୱାଧୀନ ବ୍ୟବହାରରୁ ସରଳ, ଅସଂଯୋଜିତ ସାମଗ୍ରିକ ମୋଟର ପ୍ରତିକ୍ରିୟା ଆଡ଼କୁ",
+            "ଶ୍ରେଣୀଗତ ଭାବେ ଏକତ୍ରିତ ଜ୍ଞାନାତ୍ମକ ଯୋଜନାରୁ ପୃଥକ, ଆତ୍ମକେନ୍ଦ୍ରିକ ମାନସିକ ପ୍ରତିନିଧିତ୍ୱ ଆଡ଼କୁ",
+            "ବାହ୍ୟ ପରିବେଶଗତ ପ୍ରଭାବରୁ କଠୋର, ଜୈବିକ ଭାବେ ପୂର୍ବନିର୍ଦ୍ଧାରିତ ମାଇଲଖୁଣ୍ଟ ଆଡ଼କୁ"
+          ],
+          "explanation": "ହାଇଞ୍ଜ ୱର୍ନରଙ୍କ ଅର୍ଥୋଜେନେଟିକ୍ ନିୟମ ଅନୁସାରେ, ବିକାଶ ସର୍ବଦା ଆପେକ୍ଷିକ ସାମଗ୍ରିକତା ଏବଂ ଅବିଭେଦିତ ଅବସ୍ଥାରୁ ଅଧିକ ବିଭେଦୀକରଣ, ସ୍ପଷ୍ଟତା ଏବଂ ଶ୍ରେଣୀଗତ ଏକତ୍ରୀକରଣ ଆଡ଼କୁ ଗତି କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786504585513-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which Article of the Constitution of India deals with the provisions regarding 'Financial Emergency'?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 368"
+      ],
+      "answer": 2,
+      "explanation": "Article 360 of the Constitution of India empowers the President to proclaim a Financial Emergency if he is satisfied that a situation has arisen whereby the financial stability or credit of India or any part of its territory is threatened.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ଅନୁଚ୍ଛେଦ 'ଆର୍ଥିକ ଜରୁରୀକାଳୀନ ପରିସ୍ଥିତି' (Financial Emergency) ସମ୍ବନ୍ଧୀୟ ପ୍ରାବଧାନ ସହିତ ଜଡ଼ିତ?",
+          "options": [
+            "ଅନୁଚ୍ଛେଦ ୩୫୨",
+            "ଅନୁଚ୍ଛେଦ ୩୫୬",
+            "ଅନୁଚ୍ଛେଦ ୩୬୦",
+            "ଅନୁଚ୍ଛେଦ ୩୬୮"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଅନୁଚ୍ଛେଦ ୩୬୦ ରାଷ୍ଟ୍ରପତିଙ୍କୁ ଆର୍ଥିକ ଜରୁରୀକାଳୀନ ପରିସ୍ଥିତି ଘୋଷଣା କରିବାର କ୍ଷମତା ପ୍ରଦାନ କରେ, ଯଦି ସେ ସନ୍ତୁଷ୍ଟ ହୁଅନ୍ତି ଯେ ଭାରତ କିମ୍ବା ତାହାର କୌଣସି ଭୂଭାଗର ଆର୍ଥିକ ସ୍ଥିରତା ବିପନ୍ନ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786504585513-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which among the following newspapers was established by Mahatma Gandhi in South Africa in the year 1903?",
+      "options": [
+        "Young India",
+        "Indian Opinion",
+        "Navajivan",
+        "Harijan"
+      ],
+      "answer": 1,
+      "explanation": "'Indian Opinion' was a weekly newspaper established by Mahatma Gandhi in South Africa in 1903 to raise voice against racial discrimination and advocate for the civil rights of the Indian community.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୩ ମସିହାରେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ଦ୍ୱାରା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ସମ୍ବାଦପତ୍ର ପ୍ରତିଷ୍ଠା କରାଯାଇଥିଲା?",
+          "options": [
+            "ୟଙ୍ଗ ଇଣ୍ଡିଆ",
+            "ଇଣ୍ଡିଆନ ଓପିନିଅନ",
+            "ନବଜୀବନ",
+            "ହରିଜନ"
+          ],
+          "explanation": "'ଇଣ୍ଡିଆନ ଓପିନିଅନ' ୧୯୦୩ ମସିହାରେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ଦ୍ୱାରା ବର୍ଣ୍ଣବୈଷମ୍ୟ ବିରୋଧରେ ସ୍ୱର ଉତ୍ତୋଳନ କରିବା ଏବଂ ଭାରତୀୟ ସମ୍ପ୍ରଦାୟର ନାଗରିକ ଅଧିକାର ପାଇଁ ଲଢ଼ିବା ନିମନ୍ତେ ଆରମ୍ଭ କରାଯାଇଥିବା ଏକ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର ଥିଲା।"
         }
       }
     }

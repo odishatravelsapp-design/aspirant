@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -9635,6 +9635,234 @@
             "ସି. ଏଲ୍. ଫିଲିପ୍"
           ],
           "explanation": "ପ୍ରସ୍ତାବିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ସୀମା ନିର୍ଦ୍ଧାରଣ ପାଇଁ ୧୯୩୧ ସେପ୍ଟେମ୍ବର ମାସରେ ସର ସାମୁଏଲ ଓ’ଡୋନେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଓଡ଼ିଶା ସୀମା ନିର୍ଦ୍ଧାରଣ କମିଟି ନିଯୁକ୍ତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786503969653-0",
+      "section": "Arithmetic",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of money becomes 3 times itself in 10 years at a certain rate of simple interest. In how many years will it become 7 times itself at the same rate of interest?",
+      "options": [
+        "20 years",
+        "25 years",
+        "30 years",
+        "35 years"
+      ],
+      "answer": 2,
+      "explanation": "If principal is P, interest in 10 years = 3P - P = 2P. To become 7 times, interest needed = 7P - P = 6P. Since simple interest is directly proportional to time, required time = 10 * (6P / 2P) = 30 years.",
+      "translations": {
+        "or": {
+          "question": "ସାଧାରଣ ସୁଧର ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ହାରରେ ଗୋଟିଏ ମୂଳଧନ ୧୦ ବର୍ଷରେ ନିଜର ୩ ଗୁଣ ହୋଇଯାଏ। ସମାନ ସୁଧ ହାରରେ ଏହା କେତେ ବର୍ଷରେ ନିଜର ୭ ଗୁଣ ହେବ?",
+          "options": [
+            "୨୦ ବର୍ଷ",
+            "୨୫ ବର୍ଷ",
+            "୩୦ ବର୍ଷ",
+            "୩୫ ବର୍ଷ"
+          ],
+          "explanation": "ଯଦି ମୂଳଧନ P ହୁଏ, ୧୦ ବର୍ଷରେ ସୁଧ = ୩P - P = ୨P। ୭ ଗୁଣ ହେବା ପାଇଁ, ଆବଶ୍ୟକ ସୁଧ = ୭P - P = ୬P। ଯେହେତୁ ସାଧାରଣ ସୁଧ ସମୟ ସହିତ ସମାନୁପାତୀ, ଆବଶ୍ୟକ ସମୟ = ୧୦ × (୬P / ୨P) = ୩୦ ବର୍ଷ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786503969653-1",
+      "section": "Arithmetic",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipe A and Pipe B together can fill a cistern in 12 hours. Pipe B and Pipe C together can fill it in 15 hours. If Pipe A is twice as efficient as Pipe C, in how many hours can Pipe B alone fill the cistern?",
+      "options": [
+        "18 hours",
+        "20 hours",
+        "24 hours",
+        "30 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let 1 hour work of A, B, C be a, b, c respectively. a + b = 1/12 and b + c = 1/15. Subtracting the second equation from the first gives a - c = 1/12 - 1/15 = 1/60. Since Pipe A is twice as efficient as Pipe C, a = 2c. So 2c - c = 1/60, which gives c = 1/60. Substituting c in b + c = 1/15 gives b = 1/15 - 1/60 = 3/60 = 1/20. Thus, Pipe B alone can fill the cistern in 20 hours.",
+      "translations": {
+        "or": {
+          "question": "ପାଇପ୍ A ଏବଂ ପାଇପ୍ B ମିଶି ଗୋଟିଏ ଟାଙ୍କିକୁ ୧୨ ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରନ୍ତି। ପାଇପ୍ B ଏବଂ ପାଇପ୍ C ମିଶି ଏହାକୁ ୧୫ ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରନ୍ତି। ଯଦି ପାଇପ୍ A ର କାର୍ଯ୍ୟଦକ୍ଷତା ପାଇପ୍ C ର ଦୁଇଗୁଣ ହୁଏ, ତେବେ କେବଳ ପାଇପ୍ B ଏକାକୀ ସେହି ଟାଙ୍କିକୁ କେତେ ଘଣ୍ଟାରେ ପୂର୍ଣ୍ଣ କରିପାରିବ?",
+          "options": [
+            "୧୮ ଘଣ୍ଟା",
+            "୨୦ ଘଣ୍ଟା",
+            "୨୪ ଘଣ୍ଟା",
+            "୩୦ ଘଣ୍ଟା"
+          ],
+          "explanation": "ମନେକର A, B, C ର ୧ ଘଣ୍ଟାର କାର୍ଯ୍ୟ ଯଥାକ୍ରମେ a, b, c। a + b = ୧/୧୨ ଏବଂ b + c = ୧/୧୫। ପ୍ରଥମ ସମୀକରଣରୁ ଦ୍ୱିତୀୟଟିକୁ ବିୟୋଗ କଲେ a - c = ୧/୧୨ - ୧/୧୫ = ୧/୬୦ ମିଳେ। ଯେହେତୁ a = ୨c, ୨c - c = ୧/୬୦ => c = ୧/୬୦। ତେଣୁ b = ୧/୧୫ - ୧/୬୦ = ୩/୬୦ = ୧/୨୦। ଅତଏବ, ପାଇପ୍ B ଏକାକୀ ୨୦ ଘଣ୍ଟା ସମୟ ନେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786503982819-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, if 'TIGER' is written as 'VKIGT', how is 'LION' written in that same code language?",
+      "options": [
+        "NKQP",
+        "MJPO",
+        "NKRQ",
+        "OKQP"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by 2 positions in alphabetical order: T (+2) = V, I (+2) = K, G (+2) = I, E (+2) = G, R (+2) = T. Applying the same logic to 'LION': L (+2) = N, I (+2) = K, O (+2) = Q, N (+2) = P. Therefore, 'LION' is coded as 'NKQP'.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ନିର୍ଦ୍ଦିଷ୍ଟ ସଙ୍କେତ ଭାଷାରେ 'TIGER' କୁ 'VKIGT' ଭାବରେ ଲେଖାଯାଏ, ସେହି ସଙ୍କେତ ଭାଷାରେ 'LION' କୁ କିପରି ଲେଖାଯିବ?",
+          "options": [
+            "NKQP",
+            "MJPO",
+            "NKRQ",
+            "OKQP"
+          ],
+          "explanation": "ଶବ୍ଦର ପ୍ରତ୍ୟେକ ଅକ୍ଷର ଇଂରାଜୀ ବର୍ଣ୍ଣମାଳା ଅନୁସାରେ ୨ ପାହାଚ ଆଗକୁ ଘୁଞ୍ଚିଛି: T (+2) = V, I (+2) = K, G (+2) = I, E (+2) = G, R (+2) = T। ସେହିପରି 'LION' କ୍ଷେତ୍ରରେ: L (+2) = N, I (+2) = K, O (+2) = Q, N (+2) = P। ତେଣୁ 'LION' ର ସଙ୍କେତ 'NKQP' ହେବ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786503982819-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A man starts walking from his home towards West. After walking 30 meters, he turns right and walks 20 meters. He then turns left and walks 10 meters. Next, he turns left and walks 50 meters. Finally, he turns left and walks 40 meters. How far and in which direction is he now from his starting point?",
+      "options": [
+        "30 m, South",
+        "40 m, South",
+        "30 m, West",
+        "50 m, South-West"
+      ],
+      "answer": 0,
+      "explanation": "Let starting point be (0,0):\n1. Walk 30 m West -> (-30, 0)\n2. Turn right (North) and walk 20 m -> (-30, 20)\n3. Turn left (West) and walk 10 m -> (-40, 20)\n4. Turn left (South) and walk 50 m -> (-40, -30)\n5. Turn left (East) and walk 40 m -> (0, -30)\nFinal position (0, -30) is 30 meters to the South of the starting point (0, 0).",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟକ୍ତି ନିଜ ଘରୁ ପଶ୍ଚିମ ଦିଗକୁ ୩୦ ମିଟର ଚାଲିଲେ। ତା’ପରେ ସେ ଡାହାଣକୁ ବୁଲି ୨୦ ମିଟର ଚାଲିଲେ। ଏହାପରେ ସେ ବାମକୁ ବୁଲି ୧୦ ମିଟର ଚାଲିଲେ। ପୁନଶ୍ଚ ସେ ବାମକୁ ବୁଲି ୫୦ ମିଟର ଚାଲିଲେ। ଶେଷରେ, ସେ ବାମକୁ ବୁଲି ୪୦ ମିଟର ଚାଲିଲେ। ବର୍ତ୍ତମାନ ସେ ନିଜ ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁରୁ କେତେ ଦୂରରେ ଏବଂ କେଉଁ ଦିଗରେ ଅଛନ୍ତି?",
+          "options": [
+            "୩୦ ମିଟର, ଦକ୍ଷିଣ",
+            "୪୦ ମିଟର, ଦକ୍ଷିଣ",
+            "୩୦ ମିଟର, ପଶ୍ଚିମ",
+            "୫୦ ମିଟର, ଦକ୍ଷିଣ-ପଶ୍ଚିମ"
+          ],
+          "explanation": "ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ (୦,୦) ରୁ:\n୧. ପଶ୍ଚିମକୁ ୩୦ ମିଟର -> (-୩୦, ୦)\n୨. ଡାହାଣକୁ ବୁଲି ଉତ୍ତରକୁ ୨୦ ମିଟର -> (-୩୦, ୨୦)\n୩. ବାମକୁ ବୁଲି ପଶ୍ଚିମକୁ ୧୦ ମିଟର -> (-୪୦, ୨୦)\n୪. ବାମକୁ ବୁଲି ଦକ୍ଷିଣକୁ ୫୦ ମିଟର -> (-୪୦, -୩୦)\n୫. ବାମକୁ ବୁଲି ପୂର୍ବକୁ ୪୦ ମିଟର -> (୦, -୩୦)\nଅନ୍ତିମ ସ୍ଥାନ (୦, -୩୦) ପ୍ରାରମ୍ଭିକ ବିନ୍ଦୁ (୦,୦) ରୁ ଦକ୍ଷିଣ ଦିଗରେ ୩୦ ମିଟର ଦୂରତାରେ ଅଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786503995117-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Culture",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following classical dance forms originated in the state of Odisha?",
+      "options": [
+        "Odissi",
+        "Kathak",
+        "Bharatanatyam",
+        "Kuchipudi"
+      ],
+      "answer": 0,
+      "explanation": "Odissi is one of the eight official classical dance forms of India that originated in the eastern coastal state of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ ଓଡ଼ିଶା ରାଜ୍ୟରୁ ସୃଷ୍ଟି ହୋଇଛି?",
+          "options": [
+            "ଓଡ଼ିଶୀ",
+            "କଥକ",
+            "ଭରତନାଟ୍ୟମ୍",
+            "କୁଚିପୁଡ଼ି"
+          ],
+          "explanation": "ଓଡ଼ିଶୀ ହେଉଛି ଭାରତର ଆଠଟି ମାନ୍ୟତାପ୍ରାପ୍ତ ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ଯାହା ଓଡ଼ିଶା ରାଜ୍ୟରୁ ସୃଷ୍ଟି ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786503995117-1",
+      "section": "General Knowledge",
+      "topic": "Odisha Judiciary & History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the first Chief Justice of the Odisha High Court upon its formal inauguration on 26th July 1948?",
+      "options": [
+        "Justice Bira Kishore Ray",
+        "Justice Lingaraj Panigrahi",
+        "Justice B. Jagannadhadas",
+        "Justice R. Lakshman Narasimham"
+      ],
+      "answer": 0,
+      "explanation": "Justice Bira Kishore Ray served as the first Chief Justice of the High Court of Orissa after it was formally inaugurated on 26th July 1948.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୨୬ ଜୁଲାଇ ୧୯୪୮ ରେ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦ୍‌ଘାଟିତ ହୋଇଥିବା ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି କିଏ ଥିଲେ?",
+          "options": [
+            "ବିଚାରପତି ବୀର କିଶୋର ରାୟ",
+            "ବିଚାରପତି ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ",
+            "ବିଚାରପତି ବି. ଜଗନ୍ନାଥଦାସ",
+            "ବିଚାରପତି ଆର. ଲକ୍ଷ୍ମଣ ନରସିଂହମ୍"
+          ],
+          "explanation": "୨୬ ଜୁଲାଇ ୧୯୪୮ ରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦ୍‌ଘାଟିତ ହେବା ପରେ ବିଚାରପତି ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ମୁଖ୍ୟ ବିଚାରପତି ଭାବରେ କାର୍ଯ୍ୟଭାର ଗ୍ରହଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786504005561-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Freedom Movement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who led the first batch of Satyagrahis to break the salt law at Inchudi in Balasore district in April 1930?",
+      "options": [
+        "Acharya Harihar Das",
+        "Lakshman Nayak",
+        "Harekrushna Mahatab",
+        "Gopabandhu Choudhury"
+      ],
+      "answer": 0,
+      "explanation": "Acharya Harihar Das led the historic batch of Satyagrahis from Swaraj Ashram in Cuttack to Inchudi in Balasore district, breaking the British salt law on April 12, 1930.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୦ ଏପ୍ରିଲରେ ବାଲେଶ୍ୱର ଜିଲ୍ଲାର ଇଞ୍ଚୁଡ଼ିଠାରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିବା ପ୍ରଥମ ସତ୍ୟାଗ୍ରହୀ ଦଳର ନେତୃତ୍ୱ କିଏ ନେଇଥିଲେ?",
+          "options": [
+            "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ",
+            "ଲକ୍ଷ୍ମଣ ନାୟକ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ଗୋପବନ୍ଧୁ ଚୌଧୁରୀ"
+          ],
+          "explanation": "ଆଚାର୍ଯ୍ୟ ହରିହର ଦାସ କଟକର ସ୍ୱରାଜ ଆଶ୍ରମରୁ ଇଞ୍ଚୁଡ଼ି ପର୍ଯ୍ୟନ୍ତ ସତ୍ୟାଗ୍ରହୀ ଦଳର ନେତୃତ୍ୱ ନେଇଥିଲେ ଏବଂ ୧୨ ଏପ୍ରିଲ ୧୯୩୦ ରେ ଲବଣ ଆଇନ ଭଙ୍ଗ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786504005561-1",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography & Environment",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was Similipal officially designated as a Biosphere Reserve by the Government of India?",
+      "options": [
+        "1980",
+        "1994",
+        "2001",
+        "2009"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India officially declared Similipal as a Biosphere Reserve on June 22, 1994. Later, in May 2009, it was included in UNESCO's World Network of Biosphere Reserves.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭାରତ ସରକାରଙ୍କ ଦ୍ୱାରା କେଉଁ ମସିହାରେ ସିମିଳିପାଳକୁ ଆନୁଷ୍ଠାନିକ ଭାବରେ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ (Biosphere Reserve) ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୯୮୦",
+            "୧୯୯୪",
+            "୨୦୦୧",
+            "୨୦୦୯"
+          ],
+          "explanation": "ଭାରତ ସରକାର ୨୨ ଜୁନ୍ ୧୯୯୪ ରେ ସିମିଳିପାଳକୁ ଏକ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ ଭାବରେ ଘୋଷଣା କରିଥିଲେ। ପରବର୍ତ୍ତୀ ସମୟରେ, ୨୦୦୯ ରେ ଏହାକୁ ୟୁନେସ୍କୋର ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ରିଜର୍ଭ ନେଟୱାର୍କରେ ସାମିଲ କରାଯାଇଥିଲା।"
         }
       }
     }

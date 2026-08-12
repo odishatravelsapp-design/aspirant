@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7734,6 +7734,136 @@
       ],
       "answer": 2,
       "explanation": "Under the DICGC (Amendment) Act, 2021, eligible depositors are guaranteed access to their insured deposit amount (up to ₹5 lakh) within a maximum timeframe of 90 days from the date an insured bank is placed under a moratorium or all-inclusive directions by the Reserve Bank of India.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786503901884-0",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 7 : 3. If 20 liters of the mixture is taken out and replaced with 12 liters of water, the ratio of milk to water becomes 7 : 5. Find the initial quantity of the mixture in the vessel.",
+      "options": [
+        "60 liters",
+        "70 liters",
+        "80 liters",
+        "90 liters"
+      ],
+      "answer": 2,
+      "explanation": "Let the initial quantity of the mixture be 10x liters.\nInitial Milk = 7x liters and Water = 3x liters.\nWhen 20 liters of mixture is removed:\nMilk removed = 20 * (7/10) = 14 liters\nWater removed = 20 * (3/10) = 6 liters\n\nNew quantity of Milk = 7x - 14\nNew quantity of Water = 3x - 6 + 12 = 3x + 6\n\nGiven, (7x - 14) / (3x + 6) = 7 / 5\n=> (x - 2) / (3x + 6) = 1 / 5\n=> 5x - 10 = 3x + 6\n=> 2x = 16 => x = 8.\n\nInitial quantity of mixture = 10 * 8 = 80 liters."
+    },
+    {
+      "id": "ibps-po-ai-1786503901884-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A box contains 6 red balls, 4 blue balls, and 5 green balls. If three balls are drawn together at random, what is the probability that either all three balls are of different colors or all three are of the same color?",
+      "options": [
+        "18/65",
+        "22/65",
+        "24/65",
+        "31/65"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 6 + 4 + 5 = 15.\nTotal ways to choose 3 balls from 15 = 15C3 = (15 * 14 * 13) / (3 * 2 * 1) = 455.\n\nCase 1: All 3 balls are of different colors (1 Red, 1 Blue, 1 Green):\nWays = 6C1 * 4C1 * 5C1 = 6 * 4 * 5 = 120.\n\nCase 2: All 3 balls are of the same color:\nWays = 6C3 (all red) + 4C3 (all blue) + 5C3 (all green)\n= 20 + 4 + 10 = 34.\n\nTotal favorable outcomes = 120 + 34 = 154.\n\nRequired Probability = 154 / 455.\nDividing numerator and denominator by 7 gives 22 / 65."
+    },
+    {
+      "id": "ibps-po-ai-1786503928538-0",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Six persons — P, Q, R, S, T, and U — are sitting in a straight row facing North. Who among them sits at the extreme left end of the row?\n\nStatement I: P sits third to the left of U. Q is an immediate neighbor of both P and R. T sits to the immediate right of U.\nStatement II: S sits second to the left of R. Only two persons sit between R and U. P sits to the immediate left of R.",
+      "options": [
+        "Statement I alone is sufficient to answer the question",
+        "Statement II alone is sufficient to answer the question",
+        "Either Statement I alone or Statement II alone is sufficient to answer the question",
+        "Both Statement I and Statement II together are necessary to answer the question"
+      ],
+      "answer": 3,
+      "explanation": "From Statement I: The relative arrangement is P-Q-R-U-T (occupying 5 contiguous seats). This 5-person block could occupy seats 1 to 5 (with S at seat 6, making P at the extreme left) or seats 2 to 6 (with S at seat 1, making S at the extreme left). Hence, Statement I alone is not sufficient.\n\nFrom Statement II: S is second to the left of R, and P is immediate left of R, giving S-P-R. Also, two persons sit between R and U. This allows multiple arrangements such as S-P-R-X-Y-U or U-X-S-P-R-Y. Hence, Statement II alone is not sufficient.\n\nCombining I and II: Statement I establishes the block P-Q-R-U-T. Statement II adds that S sits second to the left of R (S-P-Q-R-U-T). This accounts for all 6 persons uniquely, placing S at the extreme left end (seat 1). Therefore, both statements together are necessary."
+    },
+    {
+      "id": "ibps-po-ai-1786503928538-1",
+      "section": "Reasoning",
+      "topic": "Designation Based Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Seven persons — A, B, C, D, E, F, and G — work in a bank across seven different designations in decreasing order of seniority: Chief General Manager (CGM), General Manager (GM), Deputy General Manager (DGM), Assistant General Manager (AGM), Chief Manager (CM), Senior Manager (SM), and Manager (M), where CGM is the senior-most and Manager is the junior-most.\n\n- Only two persons are senior to E.\n- The number of persons senior to E is equal to the number of persons junior to A.\n- Only three persons hold designations between A and B.\n- F is senior to D but junior to C.\n- C is not the General Manager.\n\nWho among the following holds the designation of General Manager (GM)?",
+      "options": [
+        "G",
+        "C",
+        "F",
+        "B"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only two persons are senior to E' implies E is DGM (3rd position from top).\n2. 'Persons senior to E (2) = Persons junior to A (2)' implies A is CM (5th position from top).\n3. 'Three persons hold designations between A and B' places B at CGM (1st position from top) since A is at 5th position.\n4. Available positions for C, D, F, G are GM (2nd), AGM (4th), SM (6th), and M (7th).\n5. 'F is senior to D but junior to C' gives C > F > D. Since C cannot be GM (2nd), C must be AGM (4th), F must be SM (6th), and D must be Manager (7th).\n6. The remaining designation GM (2nd position) is filled by G.\n\nFinal order from senior to junior: CGM: B, GM: G, DGM: E, AGM: C, CM: A, SM: F, M: D. Hence, G is the General Manager."
+    },
+    {
+      "id": "ibps-po-ai-1786503941518-0",
+      "section": "English",
+      "topic": "Financial Vocabulary",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the context of banking and asset management, what is the precise meaning of the term 'write off'?",
+      "options": [
+        "To revalue an asset at a higher market price due to inflation.",
+        "To cancel a bad debt from the balance sheet, recognizing it as an irrecoverable loss.",
+        "To transfer the ownership of a non-performing asset to an offshore buyer.",
+        "To mortgage an asset to secure a short-term liquidity loan from the central bank."
+      ],
+      "answer": 1,
+      "explanation": "To 'write off' an asset or debt means to reduce its value to zero in the financial records, acknowledging that the debt cannot be collected and accepting it as a business loss."
+    },
+    {
+      "id": "ibps-po-ai-1786503941518-1",
+      "section": "English",
+      "topic": "Grammatical Parallelism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Evaluate the following options written for a corporate financial draft and choose the option that maintains correct parallel structure throughout.",
+      "options": [
+        "The committee recommended restructuring the debt, liquidating non-core assets, and to renegotiate contract terms with suppliers.",
+        "The committee recommended to restructure the debt, liquidating non-core assets, and renegotiating contract terms with suppliers.",
+        "The committee recommended restructuring the debt, liquidating non-core assets, and renegotiating contract terms with suppliers.",
+        "The committee recommended debt restructuring, to liquidate non-core assets, and renegotiating contract terms with suppliers."
+      ],
+      "answer": 2,
+      "explanation": "Option C correctly uses parallel gerund forms ('restructuring', 'liquidating', 'renegotiating') for all items listed in the series after the verb 'recommended'. The other options ungrammatically mix gerunds with infinitives or noun phrases."
+    },
+    {
+      "id": "ibps-po-ai-1786503950497-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the primary distinguishing feature of the Standing Deposit Facility (SDF) introduced by the Reserve Bank of India in April 2022 compared to the traditional Fixed Rate Reverse Repo?",
+      "options": [
+        "SDF requires the RBI to pledge Government Securities as collateral when absorbing liquidity.",
+        "SDF allows the RBI to absorb excess liquidity from commercial banks without providing collateral.",
+        "SDF is exclusively used by the RBI for injecting overnight liquidity into the banking system.",
+        "SDF rate is pegged at 25 basis points above the Marginal Standing Facility (MSF) rate."
+      ],
+      "answer": 1,
+      "explanation": "The Standing Deposit Facility (SDF) introduced in April 2022 is an uncollateralized liquidity absorption mechanism, meaning the RBI absorbs excess liquidity from banks without providing government securities as collateral, unlike the traditional reverse repo facility.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786503950497-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the 'PM Vishwakarma' scheme, what is the maximum amount of collateral-free enterprise development loan provided to eligible beneficiaries in the first tranche?",
+      "options": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹3,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the PM Vishwakarma scheme launched in September 2023, eligible artisans and craftspeople are provided with collateral-free credit support of up to ₹1,00,000 in the first tranche and up to ₹2,00,000 in the second tranche at a concessional interest rate of 5%.",
       "status": "pending"
     }
   ]

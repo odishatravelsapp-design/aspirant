@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -12544,6 +12544,234 @@
             "ମାଧବରାଜ I"
           ],
           "explanation": "ମାଧବରାଜ II (ସୈନ୍ୟଭୀତ II ମାଧବବର୍ମନ୍) ଗୁପ୍ତାବ୍ଦ ୩୦୦ (୬୧୯ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ରେ ଗଞ୍ଜାମ ତାମ୍ରଫଳକ ଶାସନ ଜାରି କରିଥିଲେ, ଯେଉଁଥିରେ ସେ ଗୌଡ଼ ସମ୍ରାଟ ଶଶାଙ୍କଙ୍କ ଅଧୀନରେ ଥିବା ସାମନ୍ତ ରାଜା ଭାବେ ନିଜକୁ ଉଲ୍ଲେଖ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504020517-0",
+      "section": "Subject Knowledge",
+      "topic": "Jacobean Drama",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ben Jonson's satirical comedy 'Volpone', who is Volpone's clever servant (parasite) who helps him carry out his elaborate schemes to deceive the legacy hunters?",
+      "options": [
+        "Mosca",
+        "Corbaccio",
+        "Voltore",
+        "Corvino"
+      ],
+      "answer": 0,
+      "explanation": "Mosca is Volpone's 'parasite' or clever servant in Ben Jonson's 1606 play 'Volpone', who aids Volpone in feigning illness to trick greedy legacy hunters (Voltore, Corbaccio, and Corvino).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ବେନ୍ ଜନ୍ସନ୍‌ଙ୍କ ହାସ୍ୟରସାତ୍ମକ ନାଟକ 'Volpone' ରେ, Volpone ଙ୍କ ଚତୁର ସେବକ (ପାରାସାଇଟ୍) କିଏ, ଯିଏ ଉତ୍ତରାଧିକାରୀ ଲୋଭୀମାନଙ୍କୁ ଠକିବା ପାଇଁ ତାଙ୍କର ଯୋଜନାରେ ସାହାଯ୍ୟ କରେ?",
+          "options": [
+            "Mosca",
+            "Corbaccio",
+            "Voltore",
+            "Corvino"
+          ],
+          "explanation": "ବେନ୍ ଜନ୍ସନ୍‌ଙ୍କ ୧୬୦୬ ର ନାଟକ 'Volpone' ରେ Mosca ହେଉଛନ୍ତି Volpone ଙ୍କ ଚତୁର ସେବକ, ଯିଏ ଉତ୍ତରାଧିକାରୀ ଆଶାୟୀମାନଙ୍କୁ (Voltore, Corbaccio, ଏବଂ Corvino) ଠକିବାରେ ତାଙ୍କୁ ସାହାଯ୍ୟ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504020517-1",
+      "section": "Subject Knowledge",
+      "topic": "Literary Theory",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In 'Problems of Dostoevsky's Poetics' (1963), Mikhail Bakhtin introduced which concept to describe a narrative structure containing multiple autonomous, unmerged voices and consciousnesses?",
+      "options": [
+        "Heteroglossia",
+        "Polyphony",
+        "Dialogism",
+        "Carnivalesque"
+      ],
+      "answer": 1,
+      "explanation": "Mikhail Bakhtin introduced the concept of 'Polyphony' (polyphonic novel) in 'Problems of Dostoevsky's Poetics' to describe narrative structures where characters possess fully independent, autonomous voices rather than being subordinate to a single authorial voice.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମିଖାଇଲ୍ ବାଖତିନ୍ ତାଙ୍କର 'Problems of Dostoevsky's Poetics' (1963) ଗ୍ରନ୍ଥରେ ଏକାଧିକ ସ୍ୱାଧୀନ, ଅସଂଯୁକ୍ତ ସ୍ୱର ଏବଂ ଚେତନା ଧାରଣ କରିଥିବା ଆଖ୍ୟାନ ସଂରଚନାକୁ ବର୍ଣ୍ଣନା କରିବା ପାଇଁ କେଉଁ ଅବଧାରଣା ଉପସ୍ଥାପନ କରିଥିଲେ?",
+          "options": [
+            "Heteroglossia",
+            "Polyphony",
+            "Dialogism",
+            "Carnivalesque"
+          ],
+          "explanation": "ମିଖାଇଲ୍ ବାଖତିନ୍ 'Problems of Dostoevsky's Poetics' ରେ 'Polyphony' (ପଲିଫୋନି) ଅବଧାରଣାର ପ୍ରବର୍ତ୍ତନ କରିଥିଲେ, ଯେଉଁଥିରେ ଚରିତ୍ରଗୁଡ଼ିକ ଲେଖକଙ୍କ ଗୋଟିଏ ସ୍ୱରର ଅଧୀନ ନ ହୋଇ ସ୍ୱାଧୀନ ଓ ସମ୍ପୂର୍ଣ୍ଣ ସ୍ୱର ବହନ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504032878-0",
+      "section": "Teaching Aptitude",
+      "topic": "Taxonomy of Educational Objectives",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Lorin Anderson and David Krathwohl's revised version of Bloom's Taxonomy (2001), which level was placed at the highest position of the cognitive domain, replacing 'Evaluation' from the original 1956 framework?",
+      "options": [
+        "Creating",
+        "Evaluating",
+        "Analyzing",
+        "Synthesizing"
+      ],
+      "answer": 0,
+      "explanation": "In the original Bloom's Taxonomy (1956), 'Evaluation' was the highest level. In the 2001 revision by Anderson and Krathwohl, the noun categories were changed to verb forms, and 'Creating' was designated as the highest level (level 6), with 'Evaluating' placed at level 5.",
+      "translations": {
+        "or": {
+          "question": "ଲୋରିନ୍ ଆଣ୍ଡରସନ୍ ଏବଂ ଡେଭିଡ୍ କ୍ରାଥୱୋଲଙ୍କ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମିର ସଂଶୋଧିତ ସଂସ୍କରଣ (୨୦୦୧) ରେ, ୧୯୫୬ ର ମୂଳ ଢାଞ୍ଚାର 'Evaluation' କୁ ବଦଳାଇ ସଂଜ୍ଞାନାତ୍ମକ କ୍ଷେତ୍ରର ସର୍ବୋଚ୍ଚ ସ୍ଥାନରେ କେଉଁ ସ୍ତରକୁ ରଖାଯାଇଥିଲା?",
+          "options": [
+            "ସୃଜନ କରିବା (Creating)",
+            "ମୂଲ୍ୟାଙ୍କନ କରିବା (Evaluating)",
+            "ବିଶ୍ଳେଷଣ କରିବା (Analyzing)",
+            "ସଂଶ୍ଳେଷଣ କରିବା (Synthesizing)"
+          ],
+          "explanation": "୧୯୫୬ ର ମୂଳ ବ୍ଲୁମ୍‌ଙ୍କ ଟ୍ୟାକ୍ସୋନୋମିରେ 'Evaluation' ସର୍ବୋଚ୍ଚ ସ୍ତରରେ ଥିଲା। ୨୦୦୧ ରେ ଆଣ୍ଡରସନ୍ ଏବଂ କ୍ରାଥୱୋଲଙ୍କ ସଂଶୋଧିତ ସଂସ୍କରଣରେ 'Creating' କୁ ସର୍ବୋଚ୍ଚ (ଷଷ୍ଠ) ସ୍ତର ଭାବରେ ସ୍ଥାନିତ କରାଗଲା ଏବଂ 'Evaluating' କୁ ପଞ୍ଚମ ସ୍ତରକୁ ଅଣାଗଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504032878-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The 'Inquiry Training Model' of teaching, designed to help students analyze causal relationships and process information independently, was developed by which of the following educational psychologists?",
+      "options": [
+        "Hilda Taba",
+        "Richard Suchman",
+        "David Ausubel",
+        "Jerome Bruner"
+      ],
+      "answer": 1,
+      "explanation": "The Inquiry Training Model was developed by J. Richard Suchman to teach students a process for investigating anomalies, asking questions, and establishing causal relationships independently.",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷଣର 'ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମୋଡେଲ୍' (Inquiry Training Model), ଯାହା ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ କାରଣ-ପ୍ରଭାବ ସମ୍ପର୍କ ବିଶ୍ଳେଷଣ କରିବା ଏବଂ ସ୍ୱାଧୀନଭାବେ ତଥ୍ୟ ପ୍ରସେସ୍ କରିବାରେ ସାହାଯ୍ୟ କରେ, ତାହା ନିମ୍ନଲିଖିତ କେଉଁ ଶିକ୍ଷା ମନୋବିଜ୍ଞାନୀଙ୍କ ଦ୍ୱାରା ବିକଶିତ ହୋଇଥିଲା?",
+          "options": [
+            "ହିଲ୍ଡା ଟାବା (Hilda Taba)",
+            "ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ (Richard Suchman)",
+            "ଡେଭିଡ୍ ଆସୁବେଲ୍ (David Ausubel)",
+            "ଜେରୋମ୍ ବ୍ରୁନର୍ (Jerome Bruner)"
+          ],
+          "explanation": "ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ ପ୍ରଶ୍ନ ପଚାରିବା, ସମସ୍ୟା ଅନୁସନ୍ଧାନ କରିବା ଏବଂ କାରଣ-ପ୍ରଭାବ ସମ୍ପର୍କ ସ୍ଥାପନ କରିବା ଶିଖାଇବା ପାଇଁ ଜେ. ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ 'ଇନକ୍ୱାରୀ ଟ୍ରେନିଂ ମୋଡେଲ୍' ବିକଶିତ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504046477-0",
+      "section": "General Studies",
+      "topic": "Odisha Culture & History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following 19th-century spiritual leaders was the founder of 'Mahima Dharma' in Odisha?",
+      "options": [
+        "Mahima Gosain",
+        "Bhima Bhoi",
+        "Biswanath Baba",
+        "Alekha Das"
+      ],
+      "answer": 0,
+      "explanation": "Mahima Gosain (also known as Mukunda Das) was the founder of Mahima Dharma in Odisha in the mid-19th century. The saint-poet Bhima Bhoi was one of his most prominent disciples who helped popularize the faith through his poetry.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଉନ୍ନବିଂଶ ଶତାବ୍ଦୀର ଆଧ୍ୟାତ୍ମିକ ନେତାମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଓଡ଼ିଶାରେ 'ମହିମା ଧର୍ମ'ର ପ୍ରତିଷ୍ଠାତା ଥିଲେ?",
+          "options": [
+            "ମହିମା ଗୋସାଇଁ",
+            "ଭୀମ ଭୋଇ",
+            "ବିଶ୍ୱନାଥ ବାବା",
+            "ଅଲେଖ ଦାସ"
+          ],
+          "explanation": "୧୯ ଶତାବ୍ଦୀର ମଧ୍ୟଭାଗରେ ଓଡ଼ିଶାରେ ମହିମା ଗୋସାଇଁ (ମୁକୁନ୍ଦ ଦାସ ଭାବରେ ମଧ୍ୟ ଜଣାଶୁଣା) ମହିମା ଧର୍ମର ପ୍ରତିଷ୍ଠା କରିଥିଲେ। ସନ୍ଥ-କବି ଭୀମ ଭୋଇ ଏହାର ଅନ୍ୟତମ ପ୍ରମୁଖ ଶିଷ୍ୟ ଥିଲେ ଯିଏ ନିଜର କାବ୍ୟ-ସାହିତ୍ୟ ମାଧ୍ୟମରେ ଏହି ଧର୍ମକୁ ଜନପ୍ରିୟ କରିବାରେ ସାହାଯ୍ୟ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504046477-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Mandira Dam, which supplies water to the Rourkela Steel Plant, is constructed across which of the following rivers?",
+      "options": [
+        "Brahmani River",
+        "Sankh River",
+        "Baitarani River",
+        "Ib River"
+      ],
+      "answer": 1,
+      "explanation": "Mandira Dam is located in the Sundargarh district of Odisha and is built across the Sankh River, a major tributary of the Brahmani River. Water impounded by this reservoir is supplied to the Rourkela Steel Plant.",
+      "translations": {
+        "or": {
+          "question": "ରାଉରକେଲା ଇସ୍ପାତ କାରଖାନାକୁ ଜଳ ଯୋଗାଉଥିବା ମନ୍ଦିରା ଡ୍ୟାମ୍ ନିମ୍ନଲିଖିତ କେଉଁ ନଦୀ ଉପରେ ନିର୍ମିତ?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ ନଦୀ",
+            "ଶଙ୍ଖ ନଦୀ",
+            "ବୈତରଣୀ ନଦୀ",
+            "ଇବ୍ ନଦୀ"
+          ],
+          "explanation": "ମନ୍ଦିରା ଡ୍ୟାମ୍ ଓଡ଼ିଶାର ସୁନ୍ଦରଗଡ଼ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଏବଂ ଏହା ବ୍ରାହ୍ମଣୀ ନଦୀର ଅନ୍ୟତମ ପ୍ରମୁଖ ଉପନଦୀ 'ଶଙ୍ଖ ନଦୀ' ଉପରେ ନିର୍ମିତ। ଏହି ଜଳାଶୟରୁ ରାଉରକେଲା ଇସ୍ପାତ କାରଖାନାକୁ ଜଳ ଯୋଗାଇ ଦିଆଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504063190-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which body of water in Odisha was designated as the very first Ramsar site (Wetland of International Importance) in India in October 1981, alongside Keoladeo National Park?",
+      "options": [
+        "Ansupa Lake",
+        "Chilika Lake",
+        "Bhitarkanika Mangroves",
+        "Tampara Lake"
+      ],
+      "answer": 1,
+      "explanation": "In October 1981, Chilika Lake was designated as the first Indian wetland of international importance under the Ramsar Convention, along with Keoladeo National Park in Rajasthan.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଅକ୍ଟୋବର ୧୯୮୧ ମସିହାରେ କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ଭାରତର ସର୍ବପ୍ରଥମ ରାମସର ସ୍ଥଳ (Ramsar site) ଭାବରେ ଓଡ଼ିଶାର କେଉଁ ଆର୍ଦ୍ରଭୂମି/ଜଳାଶୟକୁ ମାନ୍ୟତା ଦିଆଯାଇଥିଲା?",
+          "options": [
+            "ଅଂଶୁପା ହ୍ରଦ",
+            "ଚିଲିକା ହ୍ରଦ",
+            "ଭିତରକନିକା ମ୍ୟାଙ୍ଗ୍ରୋଭ୍",
+            "ତାମ୍ପରା ହ୍ରଦ"
+          ],
+          "explanation": "୧୯୮୧ ମସିହା ଅକ୍ଟୋବରରେ ରାଜସ୍ଥାନର କେଓଲାଦେଓ ଜାତୀୟ ଉଦ୍ୟାନ ସହିତ ଚିଲିକା ହ୍ରଦକୁ ଭାରତର ପ୍ରଥମ ରାମସର ଆର୍ଦ୍ରଭୂମି ଭାବରେ ଘୋଷଣା କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786504063190-1",
+      "section": "Odisha GK",
+      "topic": "Odia Literature & Drama",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following authored the play 'Babaji', published in 1877, which is widely recognized as the first modern drama in Odia literature?",
+      "options": [
+        "Ramashankar Ray",
+        "Jagamohan Lala",
+        "Bhikari Charan Patnaik",
+        "Kamapala Mishra"
+      ],
+      "answer": 1,
+      "explanation": "Jagamohan Lala authored 'Babaji' in 1877, which is historically recognized as the first full-fledged modern Odia play, addressing social themes like alcoholism and religious hypocrisy.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୭୭ ମସିହାରେ ପ୍ରକାଶିତ 'ବାବାଜୀ' ନାଟକର ରଚୟିତା କିଏ, ଯାହା ଓଡ଼ିଆ ସାହିତ୍ୟର ପ୍ରଥମ ଆଧୁନିକ ନାଟକ ଭାବରେ ସ୍ୱୀକୃତ?",
+          "options": [
+            "ରାମଶଙ୍କର ରାୟ",
+            "ଜଗମୋହନ ଲାଲା",
+            "ଭିକାରୀ ଚରଣ ପଟ୍ଟନାୟକ",
+            "କାମପାଳ ମିଶ୍ର"
+          ],
+          "explanation": "୧୮୭୭ ମସିହାରେ ଜଗମୋହନ ଲାଲାଙ୍କ ଦ୍ୱାରା ରଚିତ 'ବାବାଜୀ' ନାଟକଟି ଓଡ଼ିଆ ଭାଷାର ପ୍ରଥମ ପୂର୍ଣ୍ଣାଙ୍ଗ ଆଧୁନିକ ନାଟକ ଭାବରେ ଐତିହାସିକ ସ୍ୱୀକୃତି ପାଇଛି।"
         }
       }
     }

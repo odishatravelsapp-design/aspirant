@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8312,6 +8312,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI guidelines for 'on-tap' licensing released in December 2019, the minimum paid-up voting equity capital required for setting up a Small Finance Bank is ₹200 crore.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786503779058-0",
+      "section": "Quant",
+      "topic": "Simple Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The simple interest on a certain sum of money for 3 years at 8% per annum is ₹1,440. What will be the simple interest on double the principal at 10% per annum for 2 years?",
+      "options": [
+        "₹2,000",
+        "₹2,400",
+        "₹2,800",
+        "₹3,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal be P. Simple Interest = (P × R × T) / 100. So, 1440 = (P × 8 × 3) / 100 => P = (1440 × 100) / 24 = ₹6,000. New Principal = 2 × 6000 = ₹12,000. New SI = (12000 × 10 × 2) / 100 = ₹2,400."
+    },
+    {
+      "id": "ibps-clerk-ai-1786503779058-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A boat covers 24 km upstream and 45 km downstream in 6 hours. It can also cover 40 km upstream and 30 km downstream in 7 hours. What is the speed of the boat in still water?",
+      "options": [
+        "9.5 km/h",
+        "10.5 km/h",
+        "11.5 km/h",
+        "12.5 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Let upstream speed be u and downstream speed be d. 24/u + 45/d = 6 --- (i) and 40/u + 30/d = 7 --- (ii). Multiplying (i) by 2 gives: 48/u + 90/d = 12. Multiplying (ii) by 3 gives: 120/u + 90/d = 21. Subtracting the two gives: 72/u = 9 => u = 8 km/h. Substituting u = 8 in (i) gives: 3 + 45/d = 6 => 45/d = 3 => d = 15 km/h. Speed of boat in still water = (d + u) / 2 = (15 + 8) / 2 = 11.5 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1786503793846-0",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rohan starts walking from point A towards the East. After walking 8 meters, he turns right and walks 4 meters to reach point B. From point B, he turns left and walks 4 meters, then turns left again and walks 13 meters to reach point C. What is the shortest distance between point A and point C?",
+      "options": [
+        "15 meters",
+        "17 meters",
+        "20 meters",
+        "25 meters"
+      ],
+      "answer": 0,
+      "explanation": "Let point A be at coordinates (0, 0).\nWalking 8 m East reaches (8, 0).\nTurning right (South) and walking 4 m reaches point B at (8, -4).\nTurning left (East) and walking 4 m reaches (12, -4).\nTurning left (North) and walking 13 m reaches point C at (12, -4 + 13) = (12, 9).\nThe shortest distance AC = √[(12 - 0)² + (9 - 0)²] = √(144 + 81) = √225 = 15 meters."
+    },
+    {
+      "id": "ibps-clerk-ai-1786503793846-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Statements:\nOnly a few rivers are seas.\nAll seas are oceans.\nNo ocean is a lake.\nSome lakes are ponds.\n\nConclusions:\nI. Some rivers can never be lakes.\nII. All ponds being seas is a possibility.\nIII. No sea is a lake.",
+      "options": [
+        "Only Conclusion I follows",
+        "Only Conclusion III follows",
+        "Both Conclusion I and Conclusion III follow",
+        "All Conclusions I, II, and III follow"
+      ],
+      "answer": 2,
+      "explanation": "1. 'Some rivers are seas' and 'All seas are oceans' implies those rivers are oceans. Since 'No ocean is a lake', the rivers that are seas/oceans can never be lakes. Thus, Conclusion I follows.\n2. Since 'Some lakes are ponds' and 'No sea is a lake', those ponds which are lakes can never be seas. Therefore, 'All ponds being seas' is not possible. Conclusion II does not follow.\n3. Since 'All seas are oceans' and 'No ocean is a lake', no sea can be a lake. Thus, Conclusion III follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1786503803947-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that best fits in the blanks to make the sentence contextually and grammatically complete:\n\nThe committee was ________ to accept the proposal initially, but after several rounds of deliberation, they finally ________ its potential benefits.",
+      "options": [
+        "reluctant, recognized",
+        "eager, dismissed",
+        "hesitant, rejected",
+        "willing, ignored"
+      ],
+      "answer": 0,
+      "explanation": "The word 'initially' contrasted with 'finally' indicates a shift in attitude. 'Reluctant' (unwilling/hesitant) fits the initial skepticism, while 'recognized' fits the eventual acceptance after deliberation."
+    },
+    {
+      "id": "ibps-clerk-ai-1786503803947-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, a part of the sentence is given in bold. Choose the option that correctly replaces the bold part to make the sentence grammatically correct.\n\nNo sooner had the chief guest **arrived at the venue when the audience started** applauding enthusiastically.",
+      "options": [
+        "arrived at the venue than the audience started",
+        "arriving at the venue than the audience starts",
+        "arrived to the venue when the audience started",
+        "arrived at the venue than the audience had started"
+      ],
+      "answer": 0,
+      "explanation": "The correct correlative conjunction pair is 'No sooner ... than', not 'No sooner ... when'. The structure follows 'No sooner had + subject + V3 ... than + subject + V2 (simple past)'. Thus, 'arrived at the venue than the audience started' is grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1786503815302-0",
+      "section": "General Awareness",
+      "topic": "International Financial Organizations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Where are the headquarters of the Asian Development Bank (ADB) located?",
+      "options": [
+        "Geneva, Switzerland",
+        "Mandaluyong, Metro Manila, Philippines",
+        "Washington, D.C., United States",
+        "Beijing, China"
+      ],
+      "answer": 1,
+      "explanation": "The Asian Development Bank (ADB), regional development bank established in 1966, is headquartered in Mandaluyong City, Metro Manila, Philippines.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786503815302-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the RBI guidelines on Priority Sector Lending (PSL), what is the target for total Priority Sector advances for Domestic Commercial Banks (excluding RRBs and SFBs) as a percentage of Adjusted Net Bank Credit (ANBC) or CEOBE, whichever is higher?",
+      "options": [
+        "30%",
+        "40%",
+        "60%",
+        "75%"
+      ],
+      "answer": 1,
+      "explanation": "Domestic Commercial Banks (excluding Regional Rural Banks and Small Finance Banks) and Foreign Banks with 20 branches and above are required to achieve a total Priority Sector Lending target of 40 percent of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
       "status": "pending"
     }
   ]
