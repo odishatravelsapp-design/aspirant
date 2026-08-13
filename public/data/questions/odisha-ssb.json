@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -12772,6 +12772,234 @@
             "କାମପାଳ ମିଶ୍ର"
           ],
           "explanation": "୧୮୭୭ ମସିହାରେ ଜଗମୋହନ ଲାଲାଙ୍କ ଦ୍ୱାରା ରଚିତ 'ବାବାଜୀ' ନାଟକଟି ଓଡ଼ିଆ ଭାଷାର ପ୍ରଥମ ପୂର୍ଣ୍ଣାଙ୍ଗ ଆଧୁନିକ ନାଟକ ଭାବରେ ଐତିହାସିକ ସ୍ୱୀକୃତି ପାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590642246-0",
+      "section": "Subject Knowledge",
+      "topic": "Augustan Literature",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Alexander Pope's mock-heroic poem 'The Rape of the Lock' (Canto II), which sylph is specifically assigned the task of guarding Belinda's lapdog, Shock?",
+      "options": [
+        "Brillante",
+        "Crispissa",
+        "Momentilla",
+        "Ariel"
+      ],
+      "answer": 3,
+      "explanation": "In Canto II of Pope's 'The Rape of the Lock', Ariel assigns duties to the spirits: Brillante guards the earrings/rings, Momentilla guards the watch and fan, Crispissa protects the locks of hair, and Ariel himself takes charge of guarding Belinda's lapdog, Shock.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଆଲେକ୍ସଜାଣ୍ଡାର୍ ପୋପଙ୍କ ହାସ୍ୟ-ମହାକାବ୍ୟ 'ଦି ରେପ୍ ଅଫ୍ ଦି ଲକ୍' (କ୍ୟାଣ୍ଟୋ II) ରେ, ବେଲିଣ୍ଡାଙ୍କ ପ୍ରିୟ ପୋଷା କୁକୁର 'ଶକ୍' (Shock) ର ସୁରକ୍ଷା ଦାୟିତ୍ୱ କେଉଁ ସିଲ୍ଫ (sylph) କୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ ଦିଆଯାଇଛି?",
+          "options": [
+            "ବ୍ରିଲାଣ୍ଟେ (Brillante)",
+            "କ୍ରିସପିସା (Crispissa)",
+            "ମୋମେଣ୍ଟିଲା (Momentilla)",
+            "ଏରିଏଲ୍ (Ariel)"
+          ],
+          "explanation": "ଆଲେକ୍ସଜାଣ୍ଡାର୍ ପୋପଙ୍କ 'ଦି ରେପ୍ ଅଫ୍ ଦି ଲକ୍' ର କ୍ୟାଣ୍ଟୋ II ରେ, ଏରିଏଲ୍ ବିଭିନ୍ନ ସିଲ୍ଫମାନଙ୍କୁ ନିର୍ଦ୍ଦିଷ୍ଟ କାର୍ଯ୍ୟ ବାଣ୍ଟିଛନ୍ତି: ବ୍ରିଲାଣ୍ଟେ ମୁଦି/କୁଣ୍ଡଳ, ମୋମେଣ୍ଟିଲା ବିଞ୍ଚଣା ଓ ଘଣ୍ଟା, କ୍ରିସପିସା ବାଳର କବରୀ, ଏବଂ ଏରିଏଲ୍ ନିଜେ ବେଲିଣ୍ଡାଙ୍କ ପୋଷା କୁକୁର ଶକ୍ର ସୁରକ୍ଷା ଦାୟିତ୍ୱ ନିଅନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590642246-1",
+      "section": "Subject Knowledge",
+      "topic": "Feminist Literary Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In her seminal 1979 essay 'Towards a Feminist Poetics', Elaine Showalter coined the term 'gynocriticism' for the study of women as writers. Which term did she use in the same essay to refer to the study of women as readers and consumers of male-produced literature?",
+      "options": [
+        "Feminist critique",
+        "Gynesis",
+        "Phallogocentrism",
+        "Female aesthetic"
+      ],
+      "answer": 0,
+      "explanation": "In 'Towards a Feminist Poetics' (1979), Elaine Showalter divides feminist criticism into two modes: 'feminist critique', which analyzes woman as reader and consumer of male-constructed literature (exposing misogyny and stereotypes), and 'gynocritics' (or gynocriticism), which studies woman as writer.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଏଲେନ୍ ଶୋୱାଲ୍ଟର ତାଙ୍କ ପ୍ରଭାବଶାଳୀ ୧୯୭୯ ପ୍ରବନ୍ଧ 'ଟୁୱାର୍ଡ୍ସ ଅ ଫେମିନିଷ୍ଟ ପୋଏଟିକ୍ସ' ରେ ମହିଳାମାନଙ୍କୁ ଲେଖିକା ଭାବରେ ଅଧ୍ୟୟନ କରିବା ପାଇଁ 'ଗାଇନୋକ୍ରିଟିସିଜମ୍' (gynocriticism) ଶବ୍ଦ ଉଦ୍ଭାବନ କରିଥିଲେ। ପୁରୁଷମାନଙ୍କ ଦ୍ୱାରା ରଚିତ ସାହିତ୍ୟର ପାଠିକା ଏବଂ ଗ୍ରାହକ ଭାବରେ ମହିଳାମାନଙ୍କୁ ଅଧ୍ୟୟନ କରିବା ପାଇଁ ସେ ସମାନ ପ୍ରବନ୍ଧରେ କେଉଁ ଶବ୍ଦ ବ୍ୟବହାର କରିଥିଲେ?",
+          "options": [
+            "ଫେମିନିଷ୍ଟ କ୍ରିଟିକ୍ (Feminist critique)",
+            "ଗାଇନେସିସ୍ (Gynesis)",
+            "ଫ୍ୟାଲୋଗୋସେଣ୍ଟ୍ରିସିଜମ୍ (Phallogocentrism)",
+            "ଫିମେଲ୍ ଏସ୍ଥେଟିକ୍ (Female aesthetic)"
+          ],
+          "explanation": "ଏଲେନ୍ ଶୋୱାଲ୍ଟରଙ୍କ ଅନୁସାରେ, 'ଫେମିନିଷ୍ଟ କ୍ରିଟିକ୍' (Feminist critique) ହେଉଛି ପାଠିକା ଭାବରେ ମହିଳାଙ୍କ ଅଧ୍ୟୟନ, ଯାହା ପୁରୁଷ-ରଚିତ ସାହିତ୍ୟରେ ମହିଳାଙ୍କ ଚିତ୍ରଣ ଏବଂ ନାରୀବିରୋଧୀ ଚିନ୍ତାଧାରାର ବିଶ୍ଲେଷଣ କରେ। ଅନ୍ୟପକ୍ଷରେ, 'ଗାଇନୋକ୍ରିଟିସିଜମ୍' ଲେଖିକା ଭାବରେ ମହିଳାଙ୍କ ସୃଜନଶୀଳତାକୁ ଅଧ୍ୟୟନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590669930-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to Dwight Allen and Kevin Ryan, what is the correct sequential order of steps in the standard microteaching cycle?",
+      "options": [
+        "Plan -> Teach -> Feedback -> Re-plan -> Re-teach -> Re-feedback",
+        "Teach -> Feedback -> Plan -> Re-plan -> Re-teach -> Re-feedback",
+        "Plan -> Feedback -> Teach -> Re-plan -> Re-teach -> Re-feedback",
+        "Teach -> Plan -> Feedback -> Re-plan -> Re-teach -> Re-feedback"
+      ],
+      "answer": 0,
+      "explanation": "The standard microteaching cycle developed by Allen and Ryan follows the exact sequence: Plan -> Teach -> Feedback -> Re-plan -> Re-teach -> Re-feedback.",
+      "translations": {
+        "or": {
+          "question": "ଡ୍ୱାଇଟ୍ ଆଲେନ୍ ଏବଂ କେଭିନ୍ ରାଇଆନ୍‌ଙ୍କ ଅନୁଯାୟୀ, ମାନକ ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ) ଚକ୍ରରେ ପଦକ୍ଷେପଗୁଡ଼ିକର ସଠିକ୍ କ୍ରମ କ'ଣ?",
+          "options": [
+            "ଯୋଜନା -> ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ଯୋଜନା -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଯୋଜନା -> ଫିଡବ୍ୟାକ୍ -> ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଶିକ୍ଷାଦାନ -> ଯୋଜନା -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍"
+          ],
+          "explanation": "ଆଲେନ୍ ଏବଂ ରାଇଆନ୍‌ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ମାନକ ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ରର ସଠିକ୍ କ୍ରମ ହେଉଛି: ଯୋଜନା -> ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍ ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590669930-1",
+      "section": "Teaching Aptitude",
+      "topic": "Reflective Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In John Dewey's framework of reflective thinking, which three essential attitudes must a teacher possess to engage in reflective practice?",
+      "options": [
+        "Open-mindedness, Whole-heartedness, and Responsibility",
+        "Self-efficacy, Empathy, and Intellectual courage",
+        "Critical thinking, Flexibility, and Professional integrity",
+        "Metacognition, Mindfulness, and Objectivity"
+      ],
+      "answer": 0,
+      "explanation": "In his seminal work 'How We Think' (1933), John Dewey identified three core attitudes requisite for reflective thinking: Open-mindedness (freedom from prejudice), Whole-heartedness (thorough enthusiasm and commitment), and Responsibility (considering the consequences of one's actions).",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ଡିୱେଙ୍କ ପ୍ରତିଫଳିତ ଚିନ୍ତନ (Reflective Thinking) ଢାଞ୍ଚାରେ, ଜଣେ ଶିକ୍ଷକ ପ୍ରତିଫଳିତ ଅଭ୍ୟାସରେ ଲିପ୍ତ ରହିବା ପାଇଁ କେଉଁ ତିନୋଟି ମୁଖ୍ୟ ମନୋଭାବ ଧାରଣ କରିବା ଅତ୍ୟାବଶ୍ୟକ?",
+          "options": [
+            "ଉଦାର-ମନୋଭାବ (Open-mindedness), ଆନ୍ତରିକତା (Whole-heartedness), ଏବଂ ଦାୟିତ୍ୱବୋଧ (Responsibility)",
+            "ଆତ୍ମ-ଦକ୍ଷତା (Self-efficacy), ସହାନୁଭୂତି (Empathy), ଏବଂ ବୌଦ୍ଧିକ ସାହସ (Intellectual courage)",
+            "ସମାଲୋଚନାତ୍ମକ ଚିନ୍ତନ (Critical thinking), ନମନୀୟତା (Flexibility), ଏବଂ ପେଷାଦାର ଅଖଣ୍ଡତା (Professional integrity)",
+            "ମେଟାକୋଗ୍ନିସନ୍ (Metacognition), ସଚେତନତା (Mindfulness), ଏବଂ ବସ୍ତୁନିଷ୍ଠତା (Objectivity)"
+          ],
+          "explanation": "ଜନ୍ ଡିୱେ ତାଙ୍କ ପୁସ୍ତକ 'How We Think' (1933) ରେ ପ୍ରତିଫଳିତ ଚିନ୍ତନ ପାଇଁ ତିନୋଟି ମୁଖ୍ୟ ମନୋଭାବ ଚିହ୍ନଟ କରିଥିଲେ: ଉଦାର-ମନୋଭାବ, ଆନ୍ତରିକତା ଏବଂ ଦାୟିତ୍ୱବୋଧ ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590728360-0",
+      "section": "General Studies",
+      "topic": "History of Odisha",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "On which exact date was the separate province of Orissa (now Odisha) officially created during British rule in India?",
+      "options": [
+        "1 April 1912",
+        "1 April 1936",
+        "15 August 1947",
+        "26 January 1950"
+      ],
+      "answer": 1,
+      "explanation": "The separate province of Orissa was officially formed on April 1, 1936, under the Government of India Act 1935, separating the Odia-speaking areas from the Bihar and Orissa Province, Madras Presidency, and Central Provinces.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତରେ ଇଂରେଜ ଶାସନ କାଳରେ କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ତାରିଖରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଆନୁଷ୍ଠାନିକ ଭାବରେ ଗଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧ ଏପ୍ରିଲ ୧୯୧୨",
+            "୧ ଏପ୍ରିଲ ୧୯୩୬",
+            "୧୫ ଅଗଷ୍ଟ ୧୯୪୭",
+            "୨୬ ଜାନୁଆରୀ ୧୯୫୦"
+          ],
+          "explanation": "ଭାରତ ଶାସନ ଆଇନ ୧୯୩୫ ଅଧୀନରେ ୧ ଏପ୍ରିଲ ୧୯୩୬ ରେ ସ୍ୱତନ୍ତ୍ର ଓଡ଼ିଶା ପ୍ରଦେଶ ଆନୁଷ୍ଠାନିକ ଭାବରେ ଗଠିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590728360-1",
+      "section": "General Studies",
+      "topic": "Geography of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The famous Barehipani Falls, one of the highest waterfalls in India located inside the Similipal National Park, is formed over which river?",
+      "options": [
+        "Budhabalanga River",
+        "Baitarani River",
+        "Salandi River",
+        "Rushikulya River"
+      ],
+      "answer": 0,
+      "explanation": "Barehipani Falls is a two-tiered waterfall located in the Similipal National Park in Mayurbhanj district, Odisha. It is formed by the Budhabalanga River as it flows over the Meghasani peak of the Eastern Ghats.",
+      "translations": {
+        "or": {
+          "question": "ସିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନ ମଧ୍ୟରେ ଅବସ୍ଥିତ ଭାରତର ଅନ୍ୟତମ ଉଚ୍ଚତମ ଜଳପ୍ରପାତ 'ବାରେହିପାଣି' କେଉଁ ନଦୀ ଉପରେ ସୃଷ୍ଟି ହୋଇଛି?",
+          "options": [
+            "ବୁଢ଼ାବଳଙ୍ଗ ନଦୀ",
+            "ବୈତରଣୀ ନଦୀ",
+            "ଶାଳନ୍ଦୀ ନଦୀ",
+            "ରୁଷିକୂଲ୍ୟା ନଦୀ"
+          ],
+          "explanation": "ବାରେହିପାଣି ଜଳପ୍ରପାତ ମୟୂରଭଞ୍ଜ ଜିଲ୍ଲାର ସିମିଳିପାଳ ଜାତୀୟ ଉଦ୍ୟାନରେ ଅବସ୍ଥିତ ଏବଂ ଏହା ବୁଢ଼ାବଳଙ୍ଗ ନଦୀ ଶଯ୍ୟାରେ ସୃଷ୍ଟି ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590744750-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Modern History",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who among the following was the founder of the famous 'Satyabadi Bana Vidyalaya' established at Sakshigopal in 1909?",
+      "options": [
+        "Gopabandhu Das",
+        "Madhusudan Das",
+        "Krushna Chandra Gajapati",
+        "Sriram Chandra Bhanj Deo"
+      ],
+      "answer": 0,
+      "explanation": "Utkalamani Gopabandhu Das founded the Satyabadi Bana Vidyalaya at Sakshigopal in Puri district in 1909 based on the open-air gurukul system of education.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୯ ମସିହାରେ ସାକ୍ଷୀଗୋପାଳଠାରେ ପ୍ରସିଦ୍ଧ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଗୋପବନ୍ଧୁ ଦାସ",
+            "ମଧୁସୂଦନ ଦାସ",
+            "କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି",
+            "ଶ୍ରୀରାମ ଚନ୍ଦ୍ର ଭଞ୍ଜଦେଓ"
+          ],
+          "explanation": "ଉତ୍କଳମଣି ଗୋପବନ୍ଧୁ ଦାସ ୧୯୦୯ ମସିହାରେ ପୁରୀ ଜିଲ୍ଲାର ସାକ୍ଷୀଗୋପାଳଠାରେ ଗୁରୁକୁଳ ଶିକ୍ଷା ପ୍ରଣାଳୀ ଆଧାରରେ 'ସତ୍ୟବାଦୀ ବନ ବିଦ୍ୟାଳୟ' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1786590744750-1",
+      "section": "Odisha GK",
+      "topic": "Medieval Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga dynasty shifted the capital of the empire from Kalinganagara to Abhinava Varanasi Kataka (modern-day Cuttack)?",
+      "options": [
+        "Anantavarman Chodagangadeva",
+        "Anangabhimadeva III",
+        "Narasimhadeva I",
+        "Bhanudeva I"
+      ],
+      "answer": 1,
+      "explanation": "Anangabhimadeva III (1211–1238 CE) founded the city of Abhinava Varanasi Kataka at the apex of the Mahanadi delta and shifted the Ganga empire's capital there from Kalinganagara around 1230 CE.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ବର୍ତ୍ତମାନର କଟକ) କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ୍ ଚୋଡ଼ଗଙ୍ଗଦେବ",
+            "ତୃତୀୟ ଅନଙ୍ଗଭୀମଦେବ",
+            "ପ୍ରଥମ ନରସିଂହଦେବ",
+            "ପ୍ରଥମ ଭାନୁଦେବ"
+          ],
+          "explanation": "ତୃତୀୟ ଅନଙ୍ଗଭୀମଦେବ (୧୨୧୧-୧୨୩୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ମହାନଦୀ ଓ କାଠଯୋଡ଼ିର ମଧ୍ୟଭାଗରେ ଅଭିନବ ବାରାଣସୀ କଟକ ନଗର ସ୍ଥାପନ କରି ପ୍ରାୟ ୧୨୩୦ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଏଠାକୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
         }
       }
     }

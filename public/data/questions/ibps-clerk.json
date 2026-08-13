@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8442,6 +8442,136 @@
       ],
       "answer": 1,
       "explanation": "Domestic Commercial Banks (excluding Regional Rural Banks and Small Finance Banks) and Foreign Banks with 20 branches and above are required to achieve a total Priority Sector Lending target of 40 percent of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786590343316-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A and B start a business by investing ₹12,000 and ₹16,000 respectively. If the total annual profit from the business is ₹7,000, what is A's share in the profit?",
+      "options": [
+        "₹2,500",
+        "₹3,000",
+        "₹3,500",
+        "₹4,000"
+      ],
+      "answer": 1,
+      "explanation": "Ratio of investment of A to B = 12,000 : 16,000 = 3 : 4. Total parts = 3 + 4 = 7. A's share = (3 / 7) * ₹7,000 = ₹3,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1786590343316-1",
+      "section": "Quant",
+      "topic": "Problems on Trains",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains of lengths 210 meters and 240 meters are moving in opposite directions on parallel tracks with speeds of 48 km/h and 60 km/h respectively. How much time will they take to completely cross each other from the moment they meet?",
+      "options": [
+        "12 seconds",
+        "15 seconds",
+        "18 seconds",
+        "20 seconds"
+      ],
+      "answer": 1,
+      "explanation": "Total distance to cover = 210 + 240 = 450 meters. Relative speed in opposite directions = 48 + 60 = 108 km/h. Converting speed to m/s: 108 * (5 / 18) = 30 m/s. Time taken = Total distance / Relative speed = 450 / 30 = 15 seconds."
+    },
+    {
+      "id": "ibps-clerk-ai-1786590361889-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'STORM' is written as 'TUPSN'. How will 'CHAIR' be written in that code language?",
+      "options": [
+        "DIBJS",
+        "DIJBS",
+        "DJBJS",
+        "DIBJR"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is replaced by its immediate next letter in alphabetical order (+1 pattern):\nS + 1 = T\nT + 1 = U\nO + 1 = P\nR + 1 = S\nM + 1 = N\n\nApplying the same logic to 'CHAIR':\nC + 1 = D\nH + 1 = I\nA + 1 = B\nI + 1 = J\nR + 1 = S\n\nTherefore, 'CHAIR' is coded as 'DIBJS'."
+    },
+    {
+      "id": "ibps-clerk-ai-1786590361889-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions logically follow(s).\n\nStatements:\nAll circles are squares.\nNo square is a triangle.\nOnly a few triangles are rectangles.\n\nConclusions:\nI. Some rectangles are not squares.\nII. No circle is a triangle.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusion I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "1. For Conclusion I: Since 'No square is a triangle' and 'Only a few triangles are rectangles' (meaning some triangles are rectangles), the portion of rectangles that is inside triangle can never be a square. Hence, 'Some rectangles are not squares' is definitely true.\n2. For Conclusion II: All circles are inside squares, and no square is a triangle, so no circle can ever be a triangle. Hence, 'No circle is a triangle' is definitely true.\nTherefore, both conclusion I and II follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1786590375746-0",
+      "section": "English",
+      "topic": "Sentence Starters",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following starters (I), (II), or (III) can connect the given statements into a single grammatically correct sentence without altering the original meaning?\n\nStatement 1: Inflationary pressures had shown significant signs of easing across major economic sectors.\nStatement 2: The central bank decided to lower key interest rates unexpectedly.\n\n(I) Owing to the significant easing of inflationary pressures...\n(II) Despite inflationary pressures showing significant signs...\n(III) With inflationary pressures showing significant signs of easing...",
+      "options": [
+        "Only (I)",
+        "Only (III)",
+        "Both (I) and (III)",
+        "Both (II) and (III)"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 gives the cause/reason (easing inflation) for the action in Statement 2 (lowering interest rates). Starter (I) correctly uses 'Owing to' to express cause. Starter (III) uses 'With' as an absolute phrase indicating the circumstance leading to the action. Starter (II) uses 'Despite' which incorrectly implies a contrast between the two logically connected events. Thus, both (I) and (III) are correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1786590375746-1",
+      "section": "English",
+      "topic": "Grammatical Accuracy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the grammatically correct sentence among the given options.",
+      "options": [
+        "Neither the manager nor the employees was present at the annual meeting yesterday.",
+        "Scarcely had the speaker stepped onto the stage when the crowd burst into applause.",
+        "Each of the candidates are required to submit their documents before Friday.",
+        "The team had played exceptional well despite facing severe weather conditions."
+      ],
+      "answer": 1,
+      "explanation": "Option B is correct as it follows the inverted auxiliary verb structure 'Scarcely had + subject + past participle ... when ...'. Option A is incorrect because in 'neither... nor', the verb agrees with the closer subject ('employees'), requiring 'were'. Option C is incorrect because 'Each' requires the singular verb 'is'. Option D is incorrect because the adjective 'exceptional' should be the adverb 'exceptionally' to modify 'well'."
+    },
+    {
+      "id": "ibps-clerk-ai-1786590381484-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which rate is defined as the interest rate at which the Reserve Bank of India (RBI) lends money to commercial banks for short-term periods against government securities?",
+      "options": [
+        "Reverse Repo Rate",
+        "Repo Rate",
+        "Bank Rate",
+        "Marginal Standing Facility Rate"
+      ],
+      "answer": 1,
+      "explanation": "Repo Rate (Repurchase Option Rate) is the rate at which the Reserve Bank of India lends short-term funds to commercial banks against eligible collateral like government securities.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786590381484-1",
+      "section": "General Awareness",
+      "topic": "Banking Laws",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which section of the Negotiable Instruments Act, 1881 explicitly defines a 'Cheque'?",
+      "options": [
+        "Section 4",
+        "Section 5",
+        "Section 6",
+        "Section 13"
+      ],
+      "answer": 2,
+      "explanation": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
       "status": "pending"
     }
   ]

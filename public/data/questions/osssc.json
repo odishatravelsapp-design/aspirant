@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -9863,6 +9863,205 @@
             "୨୦୦୯"
           ],
           "explanation": "ଭାରତ ସରକାର ୨୨ ଜୁନ୍ ୧୯୯୪ ରେ ସିମିଳିପାଳକୁ ଏକ ଜୈବମଣ୍ଡଳ ସଂରକ୍ଷିତ ଅଞ୍ଚଳ ଭାବରେ ଘୋଷଣା କରିଥିଲେ। ପରବର୍ତ୍ତୀ ସମୟରେ, ୨୦୦୯ ରେ ଏହାକୁ ୟୁନେସ୍କୋର ବିଶ୍ୱ ଜୈବମଣ୍ଡଳ ରିଜର୍ଭ ନେଟୱାର୍କରେ ସାମିଲ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590537238-0",
+      "section": "Arithmetic",
+      "topic": "HCF and LCM",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The HCF and LCM of two numbers are 12 and 336 respectively. If one of the numbers is 84, what is the other number?",
+      "options": [
+        "36",
+        "48",
+        "54",
+        "60"
+      ],
+      "answer": 1,
+      "explanation": "We know that Product of two numbers = HCF × LCM. Therefore, Other Number = (12 × 336) / 84 = 336 / 7 = 48.",
+      "translations": {
+        "or": {
+          "question": "ଦୁଇଟି ସଂଖ୍ୟାର ଗ.ସା.ଗୁ. (HCF) ଏବଂ ଲ.ସା.ଗୁ. (LCM) ଯଥାକ୍ରମେ ୧୨ ଏବଂ ୩୩୬ । ଯଦି ଗୋଟିଏ ସଂଖ୍ୟା ୮୪ ହୁଏ, ତେବେ ଅନ୍ୟ ସଂଖ୍ୟାଟି କେତେ?",
+          "options": [
+            "୩୬",
+            "୪୮",
+            "୫୪",
+            "୬୦"
+          ],
+          "explanation": "ଆମେ ଜାଣୁ ଯେ, ଦୁଇଟି ସଂଖ୍ୟାର ଗୁଣଫଳ = ଗ.ସା.ଗୁ. × ଲ.ସା.ଗୁ.। ତେଣୁ, ଅନ୍ୟ ସଂଖ୍ୟାଟି = (୧୨ × ୩୩୬) / ୮୪ = ୪୮।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590537238-1",
+      "section": "Arithmetic",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a work individually in 24 days, 36 days, and 48 days respectively. They started working together. C left after working for 4 days and A left 3 days before the completion of the work. In how many days was the total work completed?",
+      "options": [
+        "12 days",
+        "15 days",
+        "18 days",
+        "20 days"
+      ],
+      "answer": 1,
+      "explanation": "Let total work = LCM(24, 36, 48) = 144 units. Daily work efficiency: A = 6 units/day, B = 4 units/day, C = 3 units/day. Let the total time taken be 'x' days. Work done by C = 4 × 3 = 12 units. Work done by A = (x - 3) × 6 units. Work done by B = x × 4 units. Total work: 12 + 6(x - 3) + 4x = 144 => 10x - 6 = 144 => 10x = 150 => x = 15 days.",
+      "translations": {
+        "or": {
+          "question": "A, B ଏବଂ C ଏକ କାର୍ଯ୍ୟକୁ ପୃଥକ ଭାବରେ ଯଥାକ୍ରମେ ୨୪ ଦିନ, ୩୬ ଦିନ ଏବଂ ୪୮ ଦିନରେ ଶେଷ କରିପାରନ୍ତି। ସେମାନେ ଏକାଠି କାମ କରିବା ଆରମ୍ଭ କଲେ। C ୪ ଦିନ କାମ କରିବା ପରେ ଚାଲିଗଲା ଏବଂ A କାର୍ଯ୍ୟ ସମ୍ପୂର୍ଣ୍ଣ ହେବାର ୩ ଦିନ ପୂର୍ବରୁ ଚାଲିଗଲା। ସମ୍ପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟଟି କେତେ ଦିନରେ ଶେଷ ହୋଇଥିଲା?",
+          "options": [
+            "୧୨ ଦିନ",
+            "୧୫ ଦିନ",
+            "୧୮ ଦିନ",
+            "୨୦ ଦିନ"
+          ],
+          "explanation": "ମୋଟ କାର୍ଯ୍ୟ = ୨୪, ୩୬, ୪୮ ର ଲ.ସା.ଗୁ. = ୧୪୪ ୟୁନିଟ୍। A, B, C ଙ୍କ ଦୈନିକ କାର୍ଯ୍ୟ ଦକ୍ଷତା ଯଥାକ୍ରମେ ୬, ୪, ୩ ୟୁନିଟ୍। ମନେକର ମୋଟ ସମୟ x ଦିନ। C ର କାର୍ଯ୍ୟ = ୪ × ୩ = ୧୨ ୟୁନିଟ୍। A ର କାର୍ଯ୍ୟ = (x - ୩) × ୬ ୟୁନିଟ୍। B ର କାର୍ଯ୍ୟ = x × ୪ ୟୁନିଟ୍। ୧୨ + ୬(x - ୩) + ୪x = ୧୪୪ => ୧୦x - ୬ = ୧୪୪ => ୧୦x = ୧୫୦ => x = ୧୫ ଦିନ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590582479-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'MEMBER' is coded as 'OGODGT'. How is 'CLIENT' coded in that language?",
+      "options": [
+        "ENKGPV",
+        "EMKGOU",
+        "FOKHQW",
+        "ENGKPV"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by 2 positions in the alphabetical series: M(+2)=O, E(+2)=G, M(+2)=O, B(+2)=D, E(+2)=G, R(+2)=T. Applying the same rule to CLIENT: C(+2)=E, L(+2)=N, I(+2)=K, E(+2)=G, N(+2)=P, T(+2)=V. Thus, 'CLIENT' becomes 'ENKGPV'.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ନିର୍ଦ୍ଦିଷ୍ଟ କୋଡ୍ ଭାଷାରେ, 'MEMBER' କୁ 'OGODGT' ଭାବରେ କୋଡ୍ କରାଯାଇଛି। ସେହି ଭାଷାରେ 'CLIENT' କୁ କିପରି କୋଡ୍ କରାଯିବ?",
+          "options": [
+            "ENKGPV",
+            "EMKGOU",
+            "FOKHQW",
+            "ENGKPV"
+          ],
+          "explanation": "ପ୍ରତ୍ୟେକ ଅକ୍ଷରକୁ ଅକ୍ଷରମାଳାରେ ୨ଟି ସ୍ଥାନ ଆଗକୁ ନିଆଯାଇଛି (M+2=O, E+2=G, M+2=O, B+2=D, E+2=G, R+2=T)। ସେହିପରି, CLIENT ପାଇଁ: C+2=E, L+2=N, I+2=K, E+2=G, N+2=P, T+2=V। ତେଣୁ ସଠିକ୍ କୋଡ୍ ହେଉଛି ENKGPV।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590582479-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight friends – P, Q, R, S, T, U, V, and W – are sitting around a circular table facing the center. U sits third to the right of Q. Only two people sit between U and T. P sits to the immediate left of T. R sits second to the right of P. S sits third to the right of V. W is not an immediate neighbour of Q. Who sits third to the left of R?",
+      "options": [
+        "S",
+        "V",
+        "W",
+        "P"
+      ],
+      "answer": 0,
+      "explanation": "Numbering positions 1 to 8 in clockwise order: Place Q at position 1. Facing center, right is counter-clockwise and left is clockwise. U sits third to the right of Q (position 6). Two people sit between U and T, so T is at position 3. P sits to the immediate left of T (position 4). R sits second to the right of P (position 2). S sits third to the right of V, which places V at position 8 and S at position 5. W, not being a neighbour of Q, takes position 7. The clockwise arrangement is Q(1), R(2), T(3), P(4), S(5), U(6), W(7), V(8). Moving three places to the left (clockwise) from R(2) gives position 5, which is S.",
+      "translations": {
+        "or": {
+          "question": "ଆଠ ଜଣ ବନ୍ଧୁ – P, Q, R, S, T, U, V, ଏବଂ W କେନ୍ଦ୍ର ଆଡ଼କୁ ମୁହଁ କରି ଏକ ବୃତ୍ତାକାର ଟେବୁଲ୍ ଚାରିପାଖରେ ବସିଛନ୍ତି। U, Q ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛି। U ଏବଂ T ମଧ୍ୟରେ କେବଳ ଦୁଇଜଣ ବସିଛନ୍ତି। P, T ର ତୁରନ୍ତ ବାମରେ ବସିଛି। R, P ର ଡାହାଣରେ ଦ୍ୱିତୀୟ ସ୍ଥାନରେ ବସିଛି। S, V ର ଡାହାଣରେ ତୃତୀୟ ସ୍ଥାନରେ ବସିଛି। W, Q ର ନିକଟତମ ପଡ଼ୋଶୀ ନୁହେଁ। R ର ବାମରେ ତୃତୀୟ ସ୍ଥାନରେ କିଏ ବସିଛି?",
+          "options": [
+            "S",
+            "V",
+            "W",
+            "P"
+          ],
+          "explanation": "ବୃତ୍ତାକାର ଆସନ ବ୍ୟବସ୍ଥା ଅନୁଯାୟୀ (ଘଣ୍ଟା କଣ୍ଟା ଦିଗରେ ୧ ରୁ ୮ ସ୍ଥାନ): Q = ୧, R = ୨, T = ୩, P = ୪, S = ୫, U = ୬, W = ୭, V = ୮। R (ସ୍ଥାନ ୨) ର ବାମ ପଟେ ତୃତୀୟ ସ୍ଥାନରେ S (ସ୍ଥାନ ୫) ବସିଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590595411-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Gahirmatha Marine Sanctuary, famous as the world's largest nesting beach for Olive Ridley sea turtles, is located in which district of Odisha?",
+      "options": [
+        "Puri",
+        "Kendrapara",
+        "Bhadrak",
+        "Ganjam"
+      ],
+      "answer": 1,
+      "explanation": "Gahirmatha Marine Sanctuary is located in the Kendrapara district of Odisha. It stretches from the mouth of the Dhamra River in the north to the mouth of the Mahanadi River in the south and is globally renowned as the largest mass nesting site (rookery) for Olive Ridley sea turtles.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଲିଭ୍ ରିଡଲେ ସମୁଦ୍ର କାଛୁମାନଙ୍କ ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ପ୍ରଜନନ ସ୍ଥଳ ଭାବରେ ପ୍ରସିଦ୍ଧ ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ପୁରୀ",
+            "କେନ୍ଦ୍ରାପଡ଼ା",
+            "ଭଦ୍ରକ",
+            "ଗଞ୍ଜାମ"
+          ],
+          "explanation": "ଗହିରମଥା ସାମୁଦ୍ରିକ ଅଭୟାରଣ୍ୟ ଓଡ଼ିଶାର କେନ୍ଦ୍ରାପଡ଼ା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ଏହା ଓଲିଭ୍ ରିଡଲେ ସମୁଦ୍ର କାଛୁମାନଙ୍କ ପାଇଁ ବିଶ୍ୱର ସବୁଠାରୁ ବଡ଼ ବସା ବାନ୍ଧିବା ସ୍ଥାନ (ରୁକେରୀ) ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590595411-1",
+      "section": "General Knowledge",
+      "topic": "Modern History of Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which treaty, signed in December 1803 between the Maratha ruler Raghuji Bhonsle II and the British East India Company, formally ceded Odisha to the British?",
+      "options": [
+        "Treaty of Deogaon",
+        "Treaty of Surji-Anjangaon",
+        "Treaty of Bassein",
+        "Treaty of Rajghat"
+      ],
+      "answer": 0,
+      "explanation": "The Treaty of Deogaon was signed on December 17, 1803, between Raghuji Bhonsle II of Nagpur and the British East India Company following the Second Anglo-Maratha War, resulting in the cession of the province of Cuttack (including coastal Odisha) to the British.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଡିସେମ୍ବର ୧୮୦୩ ରେ ନାଗପୁରର ମରାଠା ଶାସକ ରଘୁଜୀ ଭୋଁସଲେ II ଏବଂ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ମଧ୍ୟରେ ସ୍ୱାକ୍ଷରିତ କେଉଁ ସନ୍ଧି ଅଧୀନରେ ଓଡ଼ିଶା ଆନୁଷ୍ଠାନିକ ଭାବେ ବ୍ରିଟିଶମାନଙ୍କୁ ହସ୍ତାନ୍ତର କରାଯାଇଥିଲା?",
+          "options": [
+            "ଦେଓଗାଁଓ ସନ୍ଧି",
+            "ସୁରଜି-ଅଞ୍ଜନଗାଁଓ ସନ୍ଧି",
+            "ବସେଇନ୍ ସନ୍ଧି",
+            "ରାଜଘାଟ ସନ୍ଧି"
+          ],
+          "explanation": "୧୭ ଡିସେମ୍ବର ୧୮୦୩ ରେ ନାଗପୁରର ରଘୁଜୀ ଭୋଁସଲେ II ଏବଂ ବ୍ରିଟିଶ ଇଷ୍ଟ ଇଣ୍ଡିଆ କମ୍ପାନୀ ମଧ୍ୟରେ ଦେଓଗାଁଓ ସନ୍ଧି ସ୍ୱାକ୍ଷରିତ ହୋଇଥିଲା, ଯାହା ଫଳରେ ମରାଠାମାନେ ଓଡ଼ିଶାର କଟକ ପ୍ରଦେଶ ବ୍ରିଟିଶମାନଙ୍କୁ ସମର୍ପଣ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786590624183-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which district of Odisha is the famous 'Duduma Waterfall' located?",
+      "options": [
+        "Koraput",
+        "Mayurbhanj",
+        "Kandhamal",
+        "Rayagada"
+      ],
+      "answer": 0,
+      "explanation": "The Duduma Waterfall is formed by the Machkund River and is located in the Koraput district of Odisha, near the border with Andhra Pradesh.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କେଉଁ ଜିଲ୍ଲାରେ ପ୍ରସିଦ୍ଧ 'ଦୁଦୁମା ଜଳପ୍ରପାତ' ଅବସ୍ଥିତ?",
+          "options": [
+            "କୋରାପୁଟ",
+            "ମୟୂରଭଞ୍ଜ",
+            "କନ୍ଧମାଳ",
+            "ରାୟଗଡ଼ା"
+          ],
+          "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି ଏବଂ ଏହା ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8059,6 +8059,136 @@
       ],
       "answer": 1,
       "explanation": "For Domestic Scheduled Commercial Banks (excluding RRBs and SFBs) and Foreign Banks with 20 branches and above, the overall Priority Sector Lending target is 40% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786590414626-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following question?\n(180 × 15) ÷ 25 + 14² - √576 = ?",
+      "options": [
+        "260",
+        "280",
+        "295",
+        "310"
+      ],
+      "answer": 1,
+      "explanation": "Follow the BODMAS rule:\n1. (180 × 15) = 2700\n2. 2700 ÷ 25 = 108\n3. 14² = 196\n4. √576 = 24\n5. ? = 108 + 196 - 24 = 304 - 24 = 280"
+    },
+    {
+      "id": "sbi-clerk-ai-1786590414626-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 6 black balls, 4 white balls, and 5 red balls. If 3 balls are drawn at random from the bag, what is the probability that at least two of the drawn balls are red?",
+      "options": [
+        "18/91",
+        "22/91",
+        "25/91",
+        "11/91"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 6 + 4 + 5 = 15 balls.\nTotal ways to draw 3 balls = 15C3 = (15 × 14 × 13) / (3 × 2 × 1) = 455.\n\nAt least 2 red balls means either (2 Red and 1 Non-red) OR (3 Red):\n- Non-red balls = 6 + 4 = 10.\n- Ways to select 2 Red and 1 Non-red = 5C2 × 10C1 = 10 × 10 = 100.\n- Ways to select 3 Red = 5C3 = 10.\n\nTotal favorable outcomes = 100 + 10 = 110.\nRequired Probability = 110 / 455 = 22 / 91."
+    },
+    {
+      "id": "sbi-clerk-ai-1786590438005-0",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements: K ≤ L < M = N ≥ O > P; Q > M ≤ R\n\nConclusions:\nI. Q > K\nII. R ≥ O",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements: K ≤ L < M < Q and K ≤ L < M = N ≥ O > P and R ≥ M = N ≥ O.\nFor Conclusion I: From Q > M > L ≥ K, we get Q > K. Thus, conclusion I is true.\nFor Conclusion II: From R ≥ M = N ≥ O, we get R ≥ O. Thus, conclusion II is true.\nHence, both conclusions I and II follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1786590438005-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Eight persons – J, K, L, M, N, O, P, and Q are sitting around a square table in such a way that four of them sit at four corners facing outside while four sit in the middle of the sides facing inside.\n\nJ sits third to the right of M, who faces inside. Only two persons sit between J and K. L sits second to the left of K. P sits to the immediate right of L. Q is an immediate neighbor of neither J nor K. N sits third to the right of O.\n\nWho sits second to the left of Q?",
+      "options": [
+        "O",
+        "N",
+        "P",
+        "K"
+      ],
+      "answer": 0,
+      "explanation": "Arrangement (clockwise starting from Top-Left corner):\n1. Top-Left Corner (facing outside): P\n2. Top-Middle (facing inside): L\n3. Top-Right Corner (facing outside): J\n4. Right-Middle (facing inside): N\n5. Bottom-Right Corner (facing outside): Q\n6. Bottom-Middle (facing inside): M\n7. Bottom-Left Corner (facing outside): O\n8. Left-Middle (facing inside): K\n\nQ sits at the Bottom-Right corner facing outside. Looking away from the center, the left direction goes clockwise towards Bottom-Middle (M) and then Bottom-Left Corner (O). Thus, O sits second to the left of Q."
+    },
+    {
+      "id": "sbi-clerk-ai-1786590446276-0",
+      "section": "English",
+      "topic": "Vocabulary (Antonyms)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the word that is most nearly OPPOSITE in meaning to the word 'PERFIDIOUS'.",
+      "options": [
+        "Treacherous",
+        "Faithful",
+        "Deceitful",
+        "Rebellious"
+      ],
+      "answer": 1,
+      "explanation": "'Perfidious' means deceitful and untrustworthy; disloyal. Therefore, 'Faithful', which means loyal and steadfast, is the exact opposite in meaning."
+    },
+    {
+      "id": "sbi-clerk-ai-1786590446276-1",
+      "section": "English",
+      "topic": "Grammar (Conditional Clauses)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Evaluate the following statement and select the option that accurately describes its structural condition type: 'If the board had sanctioned the budget earlier, the team would be executing the project right now.'",
+      "options": [
+        "Third Conditional expressing a past hypothetical condition with an unreal past outcome.",
+        "Mixed Conditional expressing an unreal past condition with a present result.",
+        "Second Conditional expressing an improbable present scenario with a future outcome.",
+        "First Conditional expressing a realistic future condition with a probable result."
+      ],
+      "answer": 1,
+      "explanation": "The clause 'If the board had sanctioned...' uses the Past Perfect (unreal past condition), while 'the team would be executing... right now' refers to a continuous present result. This combination of a past condition and a present outcome constitutes a Mixed Conditional."
+    },
+    {
+      "id": "sbi-clerk-ai-1786590459050-0",
+      "section": "General Awareness",
+      "topic": "Banking & Financial Inclusion",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which committee, constituted by the Reserve Bank of India in September 2013, explicitly recommended the creation of specialized niche banks such as 'Payments Banks' to foster financial inclusion?",
+      "options": [
+        "Nachiket Mor Committee",
+        "Bimal Jalan Committee",
+        "Urjit Patel Committee",
+        "M. Narasimham Committee"
+      ],
+      "answer": 0,
+      "explanation": "The Committee on Comprehensive Financial Services for Small Businesses and Low Income Households, chaired by Dr. Nachiket Mor, was set up by RBI in September 2013 and submitted its report in January 2014, recommending the establishment of Payments Banks.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786590459050-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy & RBI Operations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In April 2022, the Reserve Bank of India introduced the Standing Deposit Facility (SDF) as the floor of the Liquidity Adjustment Facility (LAF) corridor. What is the primary feature that distinguishes the SDF from the traditional Fixed Rate Reverse Repo facility?",
+      "options": [
+        "SDF requires RBI to provide government securities as collateral to commercial banks.",
+        "SDF allows RBI to absorb surplus liquidity from banks without offering government securities as collateral.",
+        "SDF is accessible only by Regional Rural Banks and State Cooperative Banks.",
+        "SDF interest rate is fixed at 25 basis points above the prevailing Repo Rate."
+      ],
+      "answer": 1,
+      "explanation": "Unlike the Fixed Rate Reverse Repo facility, which is a collateralized operation requiring the RBI to pledge government securities to banks, the Standing Deposit Facility (SDF) is a non-collateralized liquidity absorption instrument.",
       "status": "pending"
     }
   ]

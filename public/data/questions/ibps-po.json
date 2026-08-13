@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7864,6 +7864,136 @@
       ],
       "answer": 1,
       "explanation": "Under the PM Vishwakarma scheme launched in September 2023, eligible artisans and craftspeople are provided with collateral-free credit support of up to ₹1,00,000 in the first tranche and up to ₹2,00,000 in the second tranche at a concessional interest rate of 5%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786590474108-0",
+      "section": "Quant",
+      "topic": "Ages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The present average age of a family of 5 members is 32 years. If the age of the youngest member is 8 years, what was the average age of the family immediately before the birth of the youngest member?",
+      "options": [
+        "28 years",
+        "30 years",
+        "32 years",
+        "26 years"
+      ],
+      "answer": 1,
+      "explanation": "Total age of 5 members at present = 5 * 32 = 160 years. Sum of ages of the family 8 years ago (when there were only 4 members, just before the birth of the youngest) = 160 - (5 * 8) = 160 - 40 = 120 years. Therefore, the average age of the 4 members then = 120 / 4 = 30 years."
+    },
+    {
+      "id": "ibps-po-ai-1786590474108-1",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A sum of money Rs. P is divided into two equal parts. One part is invested at 20% p.a. simple interest for 2 years and the other part at 20% p.a. compound interest (compounded annually) for 2 years. If the difference between the total interest obtained from both parts is Rs. 480, find the total amount obtained from both parts together at the end of 2 years.",
+      "options": [
+        "Rs. 32,400",
+        "Rs. 34,080",
+        "Rs. 36,200",
+        "Rs. 28,800"
+      ],
+      "answer": 1,
+      "explanation": "Let each part be Rs. x (so total principal P = 2x).\nSI on Rs. x = (x * 20 * 2) / 100 = 0.40x.\nCI on Rs. x = x * [(1 + 0.20)^2 - 1] = 0.44x.\nDifference = 0.44x - 0.40x = 0.04x.\nGiven 0.04x = 480 => x = 12,000.\nSo, Total Principal P = 24,000.\nTotal Simple Interest = 0.40 * 12,000 = Rs. 4,800.\nTotal Compound Interest = 0.44 * 12,000 = Rs. 5,280.\nTotal Interest = 4,800 + 5,280 = Rs. 10,080.\nTotal Amount = 24,000 + 10,080 = Rs. 34,080."
+    },
+    {
+      "id": "ibps-po-ai-1786590496980-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, determine which of the conclusions logically follow(s).\n\nStatements:\n1. Only a few Books are Papers.\n2. All Papers are Manuscripts.\n3. No Manuscript is a Digital.\n\nConclusions:\nI. Some Books are not Digital.\nII. All Books can never be Papers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From 'Only a few Books are Papers', it is derived that 'Some Books are Papers' and 'Some Books are not Papers'. Since 'All Papers are Manuscripts' and 'No Manuscript is a Digital', the Books that are Papers can never be Digital, making Conclusion I ('Some Books are not Digital') definitely true. Furthermore, since 'Some Books are not Papers' is a definite fact from 'Only a few', 'All Books can never be Papers' (Conclusion II) is also definitely true. Hence, both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1786590496980-1",
+      "section": "Reasoning",
+      "topic": "Floor and Flat Puzzle",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Eight persons — P, Q, R, S, T, U, V, and W — live in a four-storey building numbered 1 to 4 from bottom to top. Each floor has two flats: Flat-A (West) and Flat-B (East).\n\n1. S lives on Floor 4 in Flat-A.\n2. There are two floors between S and W, and both live in the same flat type.\n3. R lives immediately above W in the same flat type.\n4. Q lives to the immediate east of R.\n5. T lives immediately below Q in the same flat type.\n6. P lives immediately above R in the same flat type.\n7. U lives on an odd-numbered floor in Flat-B.\n\nWho lives in Flat-B of Floor 3?",
+      "options": [
+        "V",
+        "U",
+        "P",
+        "T"
+      ],
+      "answer": 1,
+      "explanation": "From the clues:\n- S is on Floor 4, Flat-A.\n- Two floors between S and W in the same flat type places W on Floor 1, Flat-A.\n- R lives immediately above W in Flat-A -> R is on Floor 2, Flat-A.\n- Q is immediate east of R -> Q is on Floor 2, Flat-B.\n- T lives immediately below Q in Flat-B -> T is on Floor 1, Flat-B.\n- P lives immediately above R in Flat-A -> P is on Floor 3, Flat-A.\n- U lives on an odd-numbered floor in Flat-B -> Floor 1, Flat-B is occupied by T, so U is on Floor 3, Flat-B.\n- The remaining person V lives on Floor 4, Flat-B.\nThus, U lives in Flat-B of Floor 3."
+    },
+    {
+      "id": "ibps-po-ai-1786590508261-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the idiom that best fills the blank in the sentence below contextually and grammatically:\n\n'Despite the sharp economic downturn and rising operational expenses, the local manufacturing unit managed to __________ by streamlining its supply chain and cutting redundant costs.'",
+      "options": [
+        "keep its head above water",
+        "fly off the handle",
+        "bite the bullet",
+        "bark up the wrong tree"
+      ],
+      "answer": 0,
+      "explanation": "The idiom 'keep one's head above water' means to survive or cope in demanding circumstances, especially financial ones. This fits the context of managing to survive an economic downturn."
+    },
+    {
+      "id": "ibps-po-ai-1786590508261-1",
+      "section": "English",
+      "topic": "Grammatical Error Detection",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the following sentence, four parts are marked as A, B, C, and D. Identify the part that contains a grammatical error:\n\n'(A) The audit committee mandated that / (B) every subsidiary company is thoroughly audited / (C) prior to the finalization of / (D) the annual financial consolidated reports.'",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explanation": "Part B contains a subjunctive mood error. Verbs expressing demand, insistence, or requirement (like 'mandate that', 'recommend that', 'insist that') must be followed by a clause in the subjunctive mood using the base form of the verb. Thus, 'is thoroughly audited' should be changed to 'be thoroughly audited'."
+    },
+    {
+      "id": "ibps-po-ai-1786590519932-0",
+      "section": "General Awareness",
+      "topic": "Money Market Instruments",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Treasury Bills (T-Bills) are money market instruments issued by the Government of India. Which of the following is NOT one of the standard tenors for regular Treasury Bills currently issued by the Government of India?",
+      "options": [
+        "91-day",
+        "182-day",
+        "273-day",
+        "364-day"
+      ],
+      "answer": 2,
+      "explanation": "Treasury Bills in India are currently issued in three standard tenors: 91-day, 182-day, and 364-day. There is no regular 273-day Treasury Bill.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786590519932-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy & RBI Regulations",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Following the enactment of the Reserve Bank of India (Amendment) Act, 2006, what is the statutory floor (minimum) and ceiling (maximum) limit prescribed for the Cash Reserve Ratio (CRR) under Section 42(1) of the RBI Act, 1934?",
+      "options": [
+        "Minimum 3% and Maximum 15%",
+        "Minimum 3% and Maximum 20%",
+        "Minimum 4% and Maximum 25%",
+        "No statutory floor or ceiling limit"
+      ],
+      "answer": 3,
+      "explanation": "The Reserve Bank of India (Amendment) Act, 2006 removed the statutory floor of 3% and ceiling of 20% for the Cash Reserve Ratio (CRR) specified in Section 42(1) of the RBI Act, 1934, providing the RBI with full flexibility to set CRR without statutory limits.",
       "status": "pending"
     }
   ]

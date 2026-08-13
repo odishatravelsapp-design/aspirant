@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -9277,6 +9277,62 @@
             "ହରିଜନ"
           ],
           "explanation": "'ଇଣ୍ଡିଆନ ଓପିନିଅନ' ୧୯୦୩ ମସିହାରେ ଦକ୍ଷିଣ ଆଫ୍ରିକାରେ ମହାତ୍ମା ଗାନ୍ଧୀଙ୍କ ଦ୍ୱାରା ବର୍ଣ୍ଣବୈଷମ୍ୟ ବିରୋଧରେ ସ୍ୱର ଉତ୍ତୋଳନ କରିବା ଏବଂ ଭାରତୀୟ ସମ୍ପ୍ରଦାୟର ନାଗରିକ ଅଧିକାର ପାଇଁ ଲଢ଼ିବା ନିମନ୍ତେ ଆରମ୍ଭ କରାଯାଇଥିବା ଏକ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786590761065-0",
+      "section": "Teaching Aptitude",
+      "topic": "Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the standard Microteaching cycle commonly adopted in teacher training programs in India, what is the correct chronological order of steps?",
+      "options": [
+        "Plan -> Teach -> Feedback -> Re-plan -> Re-teach -> Re-feedback",
+        "Teach -> Feedback -> Plan -> Re-plan -> Re-teach -> Re-feedback",
+        "Plan -> Teach -> Re-plan -> Re-teach -> Feedback -> Re-feedback",
+        "Teach -> Plan -> Feedback -> Re-teach -> Re-plan -> Re-feedback"
+      ],
+      "answer": 0,
+      "explanation": "The standard Microteaching cycle consists of 6 core steps in sequence: Plan (pre-active), Teach (6 min), Feedback (6 min), Re-plan (12 min), Re-teach (6 min), and Re-feedback (6 min), adding up to a total standard duration of 36 minutes.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ଶିକ୍ଷକ ଶିକ୍ଷା ଅନୁଷ୍ଠାନଗୁଡ଼ିକରେ ସାଧାରଣତଃ ଅନୁସୃତ ହେଉଥିବା ମାନକ ମାଇକ୍ରୋଟିଚିଂ (ସୂକ୍ଷ୍ମ ଶିକ୍ଷଣ) ଚକ୍ରର ସଠିକ୍ କ୍ରମ କ’ଣ?",
+          "options": [
+            "ଯୋଜନା -> ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ଯୋଜନା -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଯୋଜନା -> ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଫିଡବ୍ୟାକ୍",
+            "ଶିକ୍ଷାଦାନ -> ଯୋଜନା -> ଫିଡବ୍ୟାକ୍ -> ପୁନଃ-ଶିକ୍ଷାଦାନ -> ପୁନଃ-ଯୋଜନା -> ପୁନଃ-ଫିଡବ୍ୟାକ୍"
+          ],
+          "explanation": "ମାଇକ୍ରୋଟିଚିଂ ଚକ୍ରର ସଠିକ୍ କ୍ରମ ହେଉଛି: ଯୋଜନା (Plan) -> ଶିକ୍ଷାଦାନ (Teach) -> ଫିଡବ୍ୟାକ୍ (Feedback) -> ପୁନଃ-ଯୋଜନା (Re-plan) -> ପୁନଃ-ଶିକ୍ଷାଦାନ (Re-teach) -> ପୁନଃ-ଫିଡବ୍ୟାକ୍ (Re-feedback)। ଏହାର ମୋଟ ସମୟସୀମା ୩୬ ମିନିଟ୍।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1786590761065-1",
+      "section": "Teaching Aptitude",
+      "topic": "Motivational Models in Instruction",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In John Keller's ARCS Model of Motivational Design, what do the four letters in the acronym 'ARCS' represent?",
+      "options": [
+        "Attention, Relevance, Confidence, Satisfaction",
+        "Aptitude, Reinforcement, Cognition, Self-efficacy",
+        "Achievement, Retention, Capability, Success",
+        "Awareness, Reflection, Comprehension, Strategy"
+      ],
+      "answer": 0,
+      "explanation": "John Keller developed the ARCS model of motivational design, which identifies four key conceptual categories of motivational conditions: Attention (capturing interest), Relevance (connecting to learner needs), Confidence (building expectation of success), and Satisfaction (providing intrinsic and extrinsic rewards).",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ କେଲରଙ୍କ ପ୍ରେରଣାଦାୟକ ଡିଜାଇନ୍ ମଡେଲ୍ (ARCS ମଡେଲ୍) ରେ 'ARCS' ଶବ୍ଦର ଚାରୋଟି ମୁଖ୍ୟ ଉପାଦାନ କ’ଣ?",
+          "options": [
+            "Attention, Relevance, Confidence, Satisfaction (ମନୋଯୋଗ, ପ୍ରାସଙ୍ଗିକତା, ଆତ୍ମବିଶ୍ୱାସ, ସନ୍ତୋଷ)",
+            "Aptitude, Reinforcement, Cognition, Self-efficacy (ଅଭିରୁଚି, ପୁନର୍ବଳନ, ସଂଜ୍ଞାନ, ଆତ୍ମ-ଦକ୍ଷତା)",
+            "Achievement, Retention, Capability, Success (ଉପଲବ୍ଧି, ଧାରଣ, ସାମର୍ଥ୍ୟ, ସଫଳତା)",
+            "Awareness, Reflection, Comprehension, Strategy (ସଚେତନତା, ପ୍ରତିଫଳନ, ବୋଧଗମ୍ୟତା, ରଣନୀତି)"
+          ],
+          "explanation": "ଜନ୍ କେଲରଙ୍କ ARCS ମଡେଲ୍‌ରେ 'ARCS' ର ଅର୍ଥ ହେଉଛି: Attention (ମନୋଯୋଗ), Relevance (ପ୍ରାସଙ୍ଗିକତା), Confidence (ଆତ୍ମବିଶ୍ୱାସ), ଏବଂ Satisfaction (ସନ୍ତୋଷ)।"
         }
       }
     }
