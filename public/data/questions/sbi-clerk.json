@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8190,6 +8190,38 @@
       "answer": 1,
       "explanation": "Unlike the Fixed Rate Reverse Repo facility, which is a collateralized operation requiring the RBI to pledge government securities to banks, the Standing Deposit Facility (SDF) is a non-collateralized liquidity absorption instrument.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786678992424-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A can complete a piece of work in 24 days. B is 20% more efficient than A. If A and B work together for 5 days, and then the remaining work is completed by C alone in 13 days, in how many days can C alone complete the entire work?",
+      "options": [
+        "20 days",
+        "24 days",
+        "28 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "explanation": "Let efficiency of A be 5 units/day.\nSince B is 20% more efficient than A, efficiency of B = 5 × 1.20 = 6 units/day.\nTotal work = Time taken by A × Efficiency of A = 24 × 5 = 120 units.\nWork completed by (A + B) in 5 days = (5 + 6) × 5 = 11 × 5 = 55 units.\nRemaining work = 120 - 55 = 65 units.\nEfficiency of C = Remaining work / Days taken = 65 / 13 = 5 units/day.\nTime taken by C alone to complete the entire work = Total work / Efficiency of C = 120 / 5 = 24 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1786678992424-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C entered into a partnership. The ratio of initial investments of A to B is 3 : 4 and that of B to C is 5 : 6. After 4 months from the start, A increased his investment by 33(1/3)%, while B withdrew 25% of his investment. After another 2 months, C doubled his investment. If the total annual profit earned is ₹63,900, what is the difference between the profit shares of C and A?",
+      "options": [
+        "₹14,700",
+        "₹15,900",
+        "₹16,200",
+        "₹15,300"
+      ],
+      "answer": 1,
+      "explanation": "Ratio of initial investments:\nA : B = 3 : 4 = 15 : 20\nB : C = 5 : 6 = 20 : 24\nSo, let initial investments of A, B, and C be 15x, 20x, and 24x respectively.\n\nInvestment × Time ratio:\nFor A: (15x × 4) + [15x × (1 + 1/3) × 8] = 60x + (20x × 8) = 60x + 160x = 220x\nFor B: (20x × 4) + [20x × (1 - 1/4) × 8] = 80x + (15x × 8) = 80x + 120x = 200x\nFor C: (24x × 6) + (48x × 6) = 144x + 288x = 432x\n\nRatio of profit shares (A : B : C) = 220 : 200 : 432 = 55 : 50 : 108\nTotal ratio parts = 55 + 50 + 108 = 213 parts\nValue of 1 part = 63,900 / 213 = ₹300\nDifference between shares of C and A = (108 - 55) parts = 53 parts\nRequired difference = 53 × ₹300 = ₹15,900."
     }
   ]
 }
