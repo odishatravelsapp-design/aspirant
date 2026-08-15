@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -7995,6 +7995,38 @@
       "answer": 3,
       "explanation": "The Reserve Bank of India (Amendment) Act, 2006 removed the statutory floor of 3% and ceiling of 20% for the Cash Reserve Ratio (CRR) specified in Section 42(1) of the RBI Act, 1934, providing the RBI with full flexibility to set CRR without statutory limits.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786759201487-0",
+      "section": "Quant",
+      "topic": "Profit, Loss and Discount",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A dishonest merchant marks up the price of his goods by 50% above the cost price and allows a discount of 10% to the customer. Additionally, he uses a faulty balance that reads 1000 grams for every 800 grams of goods actually given. Furthermore, he gives 1 article free on the purchase of every 14 articles. What is his overall profit percentage in this transaction?",
+      "options": [
+        "48.5%",
+        "52.0%",
+        "57.5%",
+        "62.5%"
+      ],
+      "answer": 2,
+      "explanation": "Let the cost price of 1000 g (1 unit) be Rs. 100.\n1. Markup and Discount: Marked Price = Rs. 150. Selling Price per nominal unit after 10% discount = 150 × 0.90 = Rs. 135.\n2. Quantity/Weight sold: If a customer buys 14 units, they receive 15 units nominally due to the '1 free with 14' offer. The actual weight delivered for 15 nominal units = 15 × 800 g = 12,000 g (equivalent to 12 units of 1000 g).\n3. Total Cost to merchant = 12 × Rs. 100 = Rs. 1200.\n4. Total Selling Price collected (billed for 14 units only) = 14 × Rs. 135 = Rs. 1890.\n5. Profit = 1890 - 1200 = Rs. 690.\nOverall Profit % = (690 / 1200) × 100 = 57.5%."
+    },
+    {
+      "id": "ibps-po-ai-1786759201487-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The curved surface area of a right circular cylinder is 1980 cm² and its height is 15 cm. If the radius of the base of this cylinder is equal to the radius of a solid sphere, what is the volume of the sphere (in cm³)? (Take π = 22/7)",
+      "options": [
+        "38,808 cm³",
+        "36,960 cm³",
+        "41,580 cm³",
+        "29,106 cm³"
+      ],
+      "answer": 0,
+      "explanation": "Curved surface area of the cylinder = 2πrh = 1980 cm².\n2 × (22/7) × r × 15 = 1980\n(660/7) × r = 1980\nr = (1980 × 7) / 660 = 3 × 7 = 21 cm.\n\nSince the radius of the sphere (R) = 21 cm:\nVolume of the sphere = (4/3)πR³\n= (4/3) × (22/7) × 21 × 21 × 21\n= 4 × 22 × 21 × 21\n= 88 × 441 = 38,808 cm³."
     }
   ]
 }

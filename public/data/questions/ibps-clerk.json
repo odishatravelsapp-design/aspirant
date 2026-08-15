@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8572,6 +8572,136 @@
       ],
       "answer": 2,
       "explanation": "Section 6 of the Negotiable Instruments Act, 1881 defines a cheque as a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786758906564-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The perimeter of a rectangular field is 120 meters and the ratio of its length to its breadth is 3 : 2. What is the area of the rectangular field?",
+      "options": [
+        "864 sq. m",
+        "720 sq. m",
+        "960 sq. m",
+        "816 sq. m"
+      ],
+      "answer": 0,
+      "explanation": "Let length = 3x and breadth = 2x. Perimeter = 2(3x + 2x) = 10x = 120 m, which gives x = 12. Therefore, length = 3(12) = 36 m and breadth = 2(12) = 24 m. Area = length × breadth = 36 × 24 = 864 sq. m."
+    },
+    {
+      "id": "ibps-clerk-ai-1786758906564-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper bought 80 kg of sugar at ₹36 per kg. He sold 40% of the total quantity at a profit of 15% and the remaining quantity at a profit of 25%. If he had sold the entire quantity at an overall profit of 24%, how much more profit would he have earned?",
+      "options": [
+        "₹72.60",
+        "₹86.40",
+        "₹94.20",
+        "₹81.50"
+      ],
+      "answer": 1,
+      "explanation": "Total Cost Price (CP) = 80 × ₹36 = ₹2,880. Weighted average profit % earned = (0.40 × 15%) + (0.60 × 25%) = 6% + 15% = 21%. If sold at 24% profit, the difference in profit percentage = 24% - 21% = 3%. Extra profit earned = 3% of Total CP = 0.03 × 2880 = ₹86.40."
+    },
+    {
+      "id": "ibps-clerk-ai-1786759005535-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Study the following sequence of characters carefully and answer the question:\n\n7 # B 4 K @ 9 M % 3 E $ 8 A 5 © W\n\nHow many such symbols are there in the given sequence, each of which is immediately preceded by a number and immediately followed by a letter?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "More than three"
+      ],
+      "answer": 1,
+      "explanation": "We need to find the pattern: [Number] -> [Symbol] -> [Letter].\nExamining all symbols in the sequence:\n1. '#' is preceded by '7' (Number) and followed by 'B' (Letter) -> (7 # B) - Satisfies the condition.\n2. '@' is preceded by 'K' (Letter) and followed by '9' (Number) - Does not satisfy.\n3. '%' is preceded by 'M' (Letter) and followed by '3' (Number) - Does not satisfy.\n4. '$' is preceded by 'E' (Letter) and followed by '8' (Number) - Does not satisfy.\n5. '©' is preceded by '5' (Number) and followed by 'W' (Letter) -> (5 © W) - Satisfies the condition.\n\nThus, there are exactly two such symbols ('#' and '©')."
+    },
+    {
+      "id": "ibps-clerk-ai-1786759005535-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – J, K, L, M, N, O, P, and Q – are sitting around a square table. Four of them sit at the four corners facing away from the center, while the other four sit in the middle of the four sides facing towards the center.\n\n• N sits at one of the corners.\n• J sits second to the left of N.\n• Only two persons sit between J and P, and P is not an immediate neighbour of N.\n• L sits second to the right of P.\n• M sits to the immediate left of L.\n• Q does not sit at any of the corners.\n• K sits second to the left of Q.\n\nWho sits third to the right of O?",
+      "options": [
+        "K",
+        "L",
+        "M",
+        "Q"
+      ],
+      "answer": 0,
+      "explanation": "Let the 8 positions clockwise be:\n- Corner 1: N (faces outside)\n- Side 1: K (faces inside)\n- Corner 2: J (faces outside, second to the left of N)\n- Side 2: L (faces inside)\n- Corner 3: M (faces outside, immediate left of L)\n- Side 3: P (faces inside, 2 persons between J and P)\n- Corner 4: O (faces outside)\n- Side 4: Q (faces inside)\n\nK sits second to the left of Q (facing center). O sits at Corner 4 facing outside. \nCounting clockwise (to O's right): 1st to the right is Q, 2nd is N, and 3rd is K.\nTherefore, K sits third to the right of O."
+    },
+    {
+      "id": "ibps-clerk-ai-1786759048745-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the sentence to find out which part contains a grammatical error: 'Neither the branch manager (A) / nor the clerks was (B) / available to assist the customers (C) / during peak hours. (D)'",
+      "options": [
+        "Neither the branch manager",
+        "nor the clerks was",
+        "available to assist the customers",
+        "during peak hours."
+      ],
+      "answer": 1,
+      "explanation": "When two subjects are connected by 'neither... nor', the verb must agree with the subject closest to it. Here, 'the clerks' is plural, so the auxiliary verb should be 'were' instead of 'was'."
+    },
+    {
+      "id": "ibps-clerk-ai-1786759048745-1",
+      "section": "English",
+      "topic": "Vocabulary - Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the most appropriate word to fill in the blank meaningfully: 'Despite facing intense scrutiny and aggressive questioning from reporters, the spokesperson maintained a completely ________ demeanor throughout the conference.'",
+      "options": [
+        "impassive",
+        "impulsive",
+        "impertinent",
+        "imperious"
+      ],
+      "answer": 0,
+      "explanation": "'Impassive' means showing no emotion, calm, or unfeeling, which fits the context of remaining unaffected despite aggressive questioning. 'Impulsive' means rash, 'impertinent' means insolent/rude, and 'imperious' means domineering."
+    },
+    {
+      "id": "ibps-clerk-ai-1786759061890-0",
+      "section": "General Awareness",
+      "topic": "Payment Systems",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In an 11-character Indian Financial System Code (IFSC) used for electronic fund transfers in India, what do the first four characters represent?",
+      "options": [
+        "The specific branch code",
+        "The bank code",
+        "The RBI clearing zone",
+        "The state code"
+      ],
+      "answer": 1,
+      "explanation": "An IFSC is an 11-character alphanumeric code where the first 4 alphabetic characters represent the bank name, the 5th character is reserved as '0' (zero) for future use, and the last 6 characters represent the specific branch.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786759061890-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the revised guidelines issued by the Reserve Bank of India (RBI), what is the maximum end-of-the-day balance permitted per individual customer for Payments Banks?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹3,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "In April 2021, the Reserve Bank of India enhanced the maximum end-of-the-day balance limit for Payments Banks from ₹1,00,000 to ₹2,00,000 per individual customer to facilitate financial inclusion and encourage digital transactions.",
       "status": "pending"
     }
   ]

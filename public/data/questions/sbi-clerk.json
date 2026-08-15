@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8222,6 +8222,136 @@
       ],
       "answer": 1,
       "explanation": "Ratio of initial investments:\nA : B = 3 : 4 = 15 : 20\nB : C = 5 : 6 = 20 : 24\nSo, let initial investments of A, B, and C be 15x, 20x, and 24x respectively.\n\nInvestment × Time ratio:\nFor A: (15x × 4) + [15x × (1 + 1/3) × 8] = 60x + (20x × 8) = 60x + 160x = 220x\nFor B: (20x × 4) + [20x × (1 - 1/4) × 8] = 80x + (15x × 8) = 80x + 120x = 200x\nFor C: (24x × 6) + (48x × 6) = 144x + 288x = 432x\n\nRatio of profit shares (A : B : C) = 220 : 200 : 432 = 55 : 50 : 108\nTotal ratio parts = 55 + 50 + 108 = 213 parts\nValue of 1 part = 63,900 / 213 = ₹300\nDifference between shares of C and A = (108 - 55) parts = 53 parts\nRequired difference = 53 × ₹300 = ₹15,900."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759093324-0",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and simple interest on a certain sum of money for 2 years at 12% per annum is ₹144. What is the sum of money?",
+      "options": [
+        "₹12,000",
+        "₹10,000",
+        "₹8,500",
+        "₹15,000"
+      ],
+      "answer": 1,
+      "explanation": "For 2 years, the difference between Compound Interest and Simple Interest is given by the formula: Difference = P × (R / 100)^2. Given Difference = ₹144, R = 12%. Therefore, 144 = P × (12 / 100)^2 => 144 = P × (144 / 10000) => P = ₹10,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759093324-1",
+      "section": "Quant",
+      "topic": "Trains & Relative Speed",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Train A running at a speed of 72 km/h crosses a vertical pole in 15 seconds. Train B running in the opposite direction at 54 km/h crosses Train A completely in 20 seconds. What is the length of Train B?",
+      "options": [
+        "350 m",
+        "400 m",
+        "450 m",
+        "500 m"
+      ],
+      "answer": 1,
+      "explanation": "Speed of Train A = 72 × (5/18) = 20 m/s. Length of Train A = Speed × Time to cross pole = 20 × 15 = 300 m. Speed of Train B = 54 × (5/18) = 15 m/s. Since both trains move in opposite directions, their relative speed = 20 + 15 = 35 m/s. Total distance covered while crossing each other = (Length of A + Length of B) = Relative Speed × Time = 35 × 20 = 700 m. Therefore, Length of Train B = 700 - 300 = 400 m."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759147289-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below are given three statements followed by two conclusions. Read all the statements and decide which of the given conclusions logically follow(s) from the given statements.\n\nStatements:\nOnly a few Pens are Books.\nAll Books are Copies.\nNo Copy is an Eraser.\n\nConclusions:\nI. Some Pens are not Copies.\nII. All Erasers being Pens is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "1. 'Only a few Pens are Books' implies 'Some Pens are Books' and 'Some Pens are not Books'. However, all Pens can still be part of Copies without violating any condition. Hence, 'Some Pens are not Copies' is not definite, so Conclusion I does not follow.\n2. Erasers cannot overlap with Copies, but Erasers can completely overlap with the portion of Pens that lies outside Copies. Thus, 'All Erasers being Pens is a possibility' is true, so Conclusion II follows."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759147289-1",
+      "section": "Reasoning",
+      "topic": "Puzzle - Scheduling",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – P, Q, R, S, T, U, V, and W – attend a seminar on two different dates, 11th and 22nd of four different months: March, April, May, and June of the same year, but not necessarily in the same order.\n• P attends the seminar on an even date of a month having 31 days.\n• Exactly three persons attend between P and V.\n• Q attends immediately before V.\n• As many persons attend before Q as after W.\n• Only two persons attend between W and R, where R attends before W.\n• T attends on an odd date immediately before U.\n\nWho among the following attends the seminar on 11th April?",
+      "options": [
+        "S",
+        "W",
+        "Q",
+        "R"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step arrangement of dates:\n1. 11th March: R\n2. 22nd March: P (22nd of a 31-day month)\n3. 11th April: S\n4. 22nd April: W (2 persons between R and W)\n5. 11th May: Q (4 persons before Q and 4 after W)\n6. 22nd May: V (3 persons between P and V, Q immediately before V)\n7. 11th June: T (Odd date immediately before U)\n8. 22nd June: U\n\nTherefore, S attends the seminar on 11th April."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759159148-0",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, the word 'SOUND' has been used in three different sentences (I, II, and III). Determine in which of the sentence(s) the word has been used correctly.\n\nI. She provided sound advice on how to manage personal finances responsibly.\nII. The old bridge remained structurally sound despite years of heavy vehicular traffic.\nIII. The authorities decided to sound down all peaceful assemblies across the capital.",
+      "options": [
+        "Only I",
+        "Only I and II",
+        "Only II and III",
+        "All I, II, and III"
+      ],
+      "answer": 1,
+      "explanation": "In sentence I, 'sound' is used correctly as an adjective meaning sensible, reliable, or based on good judgment. In sentence II, 'sound' is used correctly as an adjective meaning intact, solid, or undamaged. In sentence III, 'sound down' is an incorrect and non-existent phrasal verb (the intended meaning might be 'clamp down on' or 'shut down'). Hence, only sentences I and II are correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759159148-1",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence.\n\n(A) Had the audit committee / (B) investigated the discrepancies promptly, / (C) the fraudulent transactions could have / (D) easily prevented by the management.",
+      "options": [
+        "Had the audit committee",
+        "investigated the discrepancies promptly,",
+        "the fraudulent transactions could have",
+        "easily prevented by the management."
+      ],
+      "answer": 3,
+      "explanation": "Part (D) contains an error of voice. Since 'the fraudulent transactions' are the receiver of the action (passive subject) and the action is performed 'by the management', the passive construction 'could have been easily prevented' (or 'could have easily been prevented') is required instead of the active 'could have easily prevented'."
+    },
+    {
+      "id": "sbi-clerk-ai-1786759169875-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), what is the maximum compensation that the Ombudsman can award to a complainant exclusively for loss of time, expenses incurred, and harassment/mental anguish?",
+      "options": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021, the Ombudsman has the power to award compensation up to ₹1,00,000 (one lakh rupees) to the complainant for the loss of time, expenses incurred, harassment, and mental anguish suffered, over and above any compensation for consequential economic loss (which is capped at ₹20 lakh).",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786759169875-1",
+      "section": "General Awareness",
+      "topic": "RBI Act & Currency Management",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per Section 24(1) of the Reserve Bank of India Act, 1934, what is the maximum denomination of banknote that the Reserve Bank of India is authorized to issue?",
+      "options": [
+        "₹5,000",
+        "₹10,000",
+        "₹20,000",
+        "₹50,000"
+      ],
+      "answer": 1,
+      "explanation": "Section 24(1) of the Reserve Bank of India Act, 1934 stipulates that bank notes can be issued in denominational values not exceeding ₹10,000 (ten thousand rupees) as the Central Government may specify on the recommendation of the Central Board of the RBI.",
+      "status": "pending"
     }
   ]
 }
