@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10062,6 +10062,176 @@
             "ରାୟଗଡ଼ା"
           ],
           "explanation": "ଦୁଦୁମା ଜଳପ୍ରପାତ ମାଛକୁଣ୍ଡ ନଦୀ ଦ୍ୱାରା ସୃଷ୍ଟି ହୋଇଛି ଏବଂ ଏହା ଓଡ଼ିଶାର କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786846051052-0",
+      "section": "Arithmetic",
+      "topic": "Mensuration",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The area of a rectangular field is 460 sq. metres. If the length is 15% more than the breadth, what is the breadth of the rectangular field?",
+      "options": [
+        "15 metres",
+        "20 metres",
+        "23 metres",
+        "25 metres"
+      ],
+      "answer": 1,
+      "explanation": "Let the breadth of the rectangular field be b metres. Then, length l = b + 15% of b = 1.15b = (23/20)b. Area = length × breadth = (23/20)b × b = 460. Therefore, b² = (460 × 20) / 23 = 20 × 20 = 400, which gives b = 20 metres.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ଆୟତାକାର ପଡ଼ିଆର କ୍ଷେତ୍ରଫଳ 460 ବର୍ଗ ମିଟର। ଯଦି ଏହାର ଦୈର୍ଘ୍ୟ ପ୍ରସ୍ଥ ଅପେକ୍ଷା 15% ଅଧିକ, ତେବେ ପଡ଼ିଆର ପ୍ରସ୍ଥ କେତେ?",
+          "options": [
+            "15 ମିଟର",
+            "20 ମିଟର",
+            "23 ମିଟର",
+            "25 ମିଟର"
+          ],
+          "explanation": "ମନେକର ଆୟତାକାର ପଡ଼ିଆର ପ୍ରସ୍ଥ = b ମିଟର। ତେଣୁ, ଦୈର୍ଘ୍ୟ = b + b ର 15% = 1.15b = (23/20)b। କ୍ଷେତ୍ରଫଳ = ଦୈର୍ଘ୍ୟ × ପ୍ରସ୍ଥ = (23/20)b × b = 460। ତେଣୁ, b² = (460 × 20) / 23 = 20 × 20 = 400, ଅର୍ଥାତ୍ b = 20 ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786846051052-1",
+      "section": "Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and the simple interest on a certain sum of money at 10% per annum for 3 years is Rs. 930. Find the principal sum.",
+      "options": [
+        "Rs. 25,000",
+        "Rs. 28,000",
+        "Rs. 30,000",
+        "Rs. 32,000"
+      ],
+      "answer": 2,
+      "explanation": "For 3 years, the difference between CI and SI is given by: D = P × (R/100)² × [(300 + R)/100]. Given D = Rs. 930 and R = 10%. Substituting values: 930 = P × (10/100)² × (310/100) => 930 = P × (1/100) × (31/10) => 930 = P × (31/1000) => P = (930 × 1000) / 31 = Rs. 30,000.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ମୂଳଧନ ଉପରେ ବାର୍ଷିକ 10% ହାରରେ 3 ବର୍ଷ ପାଇଁ ଚକ୍ରବୃଦ୍ଧି ସୁଧ (ବାର୍ଷିକ ହିସାବିତ) ଏବଂ ସରଳ ସୁଧ ମଧ୍ୟରେ ଥିବା ପାର୍ଥକ୍ୟ 930 ଟଙ୍କା ଅଟେ। ମୂଳଧନର ପରିମାଣ ନିର୍ଣ୍ଣୟ କରନ୍ତୁ।",
+          "options": [
+            "25,000 ଟଙ୍କା",
+            "28,000 ଟଙ୍କା",
+            "30,000 ଟଙ୍କା",
+            "32,000 ଟଙ୍କା"
+          ],
+          "explanation": "3 ବର୍ଷ ପାଇଁ CI ଏବଂ SI ମଧ୍ୟରେ ପାର୍ଥକ୍ୟର ସୂତ୍ର: D = P × (R/100)² × [(300 + R)/100]। ଏଠାରେ D = 930 ଟଙ୍କା ଏବଂ R = 10%। ମାନ ବସାଇଲେ: 930 = P × (10/100)² × (310/100) => 930 = P × (1/100) × (31/10) => 930 = P × (31/1000) => P = (930 × 1000) / 31 = 30,000 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786846065204-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a class of 45 students, Rohan's rank is 18th from the top and Sunita's rank is 24th from the bottom. How many students are sitting between Rohan and Sunita?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "Total number of students = 45. Sum of their positions from both ends = 18 + 24 = 42. Since the sum of positions (42) is less than the total number of students (45), it is a simple non-overlapping case. Therefore, the number of students between them = Total - (Sum of positions) = 45 - 42 = 3.",
+      "translations": {
+        "or": {
+          "question": "45 ଜଣ ଛାତ୍ରଛାତ୍ରୀ ଥିବା ଏକ ଶ୍ରେଣୀରେ, ରୋହନଙ୍କ ସ୍ଥାନ ଉପରୁ 18ତମ ଏବଂ ସୁନୀତାଙ୍କ ସ୍ଥାନ ତଳୁ 24ତମ। ରୋହନ ଏବଂ ସୁନୀତାଙ୍କ ମଧ୍ୟରେ କେତେ ଜଣ ଛାତ୍ରଛାତ୍ରୀ ଅଛନ୍ତି?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "2"
+          ],
+          "explanation": "ମୋଟ ଛାତ୍ରଛାତ୍ରୀ = 45। ଉଭୟ ପାର୍ଶ୍ୱର ସ୍ଥାନର ଯୋଗଫଳ = 18 + 24 = 42। ଯେହେତୁ ଯୋଗଫଳ ମୋଟ ସଂଖ୍ୟା ଠାରୁ କମ୍ (42 < 45), ତେଣୁ ଏହା ଏକ ଅଣ-ଅତିବ୍ୟାପ୍ତ (non-overlapping) ସ୍ଥିତି। ଅତଏବ, ସେମାନଙ୍କ ମଧ୍ୟରେ ଥିବା ଛାତ୍ରଛାତ୍ରୀଙ୍କ ସଂଖ୍ୟା = 45 - 42 = 3।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786846065204-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s) from the statements.\nStatements:\n1. All pens are books.\n2. Some books are pencils.\n3. No pencil is an eraser.\nConclusions:\nI. Some pens are pencils.\nII. Some books are not erasers.\nIII. No pen is an eraser.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Conclusions II and III follow"
+      ],
+      "answer": 1,
+      "explanation": "From Statements 2 and 3, the part of books that are pencils can never be erasers because no pencil is an eraser. Hence, 'Some books are not erasers' definitely follows (Conclusion II). Conclusions I and III are possible but not definite.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ ବିବୃତି ଏବଂ ନିଷ୍କର୍ଷଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହିତ ପଢ଼ନ୍ତୁ। ବିବୃତିଗୁଡ଼ିକରେ ଥିବା ତଥ୍ୟକୁ ସତ୍ୟ ବୋଲି ଧରି, କେଉଁ ନିଷ୍କର୍ଷଟି ତାର୍କିକ ଭାବରେ ଅନୁସରଣ କରେ ତାହା ସ୍ଥିର କରନ୍ତୁ।\nବିବୃତି:\n1. ସମସ୍ତ କଲମ ହେଉଛି ବହି।\n2. କିଛି ବହି ହେଉଛି ପେନସିଲ୍।\n3. କୌଣସି ପେନସିଲ୍ ଇରେଜର୍ ନୁହେଁ।\nନିଷ୍କର୍ଷ:\nI. କିଛି କଲମ ହେଉଛି ପେନସିଲ୍।\nII. କିଛି ବହି ଇରେଜର୍ ନୁହେଁ।\nIII. କୌଣସି କଲମ ଇରେଜର୍ ନୁହେଁ।",
+          "options": [
+            "କେବଳ ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ",
+            "କେବଳ ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ",
+            "ଉଭୟ ନିଷ୍କର୍ଷ I ଏବଂ II ଅନୁସରଣ କରେ",
+            "ନିଷ୍କର୍ଷ II ଏବଂ III ଅନୁସରଣ କରେ"
+          ],
+          "explanation": "ବିବୃତି 2 ଏବଂ 3 ଅନୁସାରେ, ବହିର ଯେଉଁ ଅଂଶଟି ପେନସିଲ୍, ତାହା କଦାପି ଇରେଜର୍ ହୋଇପାରିବ ନାହିଁ। ତେଣୁ 'କିଛି ବହି ଇରେଜର୍ ନୁହେଁ' (ନିଷ୍କର୍ଷ II) ନିଶ୍ଚିତ ଭାବେ ଅନୁସରଣ କରେ। ନିଷ୍କର୍ଷ I ଏବଂ III ସମ୍ଭାବନା ହୋଇପାରେ କିନ୍ତୁ ନିଶ୍ଚିତ ନୁହେଁ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786846088545-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following is the highest mountain peak in the state of Odisha?",
+      "options": [
+        "Deomali",
+        "Mahendragiri",
+        "Malayagiri",
+        "Gandhamardan"
+      ],
+      "answer": 0,
+      "explanation": "Deomali, located in the Koraput district with an elevation of approximately 1,672 meters above sea level, is the highest mountain peak in Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ?",
+          "options": [
+            "ଦେଓମାଳୀ",
+            "ମହେନ୍ଦ୍ରଗିରି",
+            "ମାଳୟଗିରି",
+            "ଗନ୍ଧମାର୍ଦ୍ଦନ"
+          ],
+          "explanation": "କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଦେଓମାଳୀ (ପ୍ରାୟ ୧,୬୭୨ ମିଟର ଉଚ୍ଚତା ବିଶିଷ୍ଟ) ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶୃଙ୍ଗ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1786846088545-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History & Architecture",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The construction of the monumental Lingaraj Temple at Bhubaneswar was initiated by which ruler of the Somavamshi dynasty?",
+      "options": [
+        "Jajati II (Yayati Kesari)",
+        "Janamejaya I",
+        "Dharmaratha",
+        "Bhimaratha"
+      ],
+      "answer": 0,
+      "explanation": "The construction of the iconic Lingaraj Temple at Bhubaneswar was initiated by the Somavamshi king Jajati II (Yayati Kesari) in the 11th century and was later completed by his son Udyotakesari.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭୁବନେଶ୍ୱରର ପ୍ରସିଦ୍ଧ ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ କାର୍ଯ୍ୟ ସୋମବଂଶର କେଉଁ ଶାସକଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଯଯାତି ଦ୍ୱିତୀୟ (ଯଯାତି କେଶରୀ)",
+            "ଜନମେଜୟ ପ୍ରଥମ",
+            "ଧର୍ମରଥ",
+            "ଭୀମରଥ"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱରସ୍ଥିତ ଐତିହାସିକ ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ କାର୍ଯ୍ୟ ଏକାଦଶ ଶତାବ୍ଦୀରେ ସୋମବଂଶୀ ରାଜା ଯଯାତି ଦ୍ୱିତୀୟ (ଯଯାତି କେଶରୀ) ଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିଲା ଏବଂ ପରେ ତାଙ୍କ ପୁତ୍ର ଉଦ୍ୟୋତକେଶରୀଙ୍କ ଦ୍ୱାରା ସମ୍ପୂର୍ଣ୍ଣ କରାଯାଇଥିଲା।"
         }
       }
     }

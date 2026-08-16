@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8702,6 +8702,136 @@
       ],
       "answer": 1,
       "explanation": "In April 2021, the Reserve Bank of India enhanced the maximum end-of-the-day balance limit for Payments Banks from ₹1,00,000 to ₹2,00,000 per individual customer to facilitate financial inclusion and encourage digital transactions.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786845770389-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A shopkeeper marks an article at ₹750, which is 25% above its cost price. If he allows a discount of 10% on the marked price, what is his profit percentage?",
+      "options": [
+        "12.5%",
+        "15.0%",
+        "10.5%",
+        "14.0%"
+      ],
+      "answer": 0,
+      "explanation": "Cost Price (CP) = 750 / 1.25 = ₹600. Marked Price (MP) = ₹750. Selling Price (SP) after a 10% discount = 750 - (10% of 750) = 750 - 75 = ₹675. Profit = SP - CP = 675 - 600 = ₹75. Profit percentage = (75 / 600) × 100 = 12.5%."
+    },
+    {
+      "id": "ibps-clerk-ai-1786845770390-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A train departs from station P at 8:00 AM at a speed of 60 km/h towards station Q. Another train departs from station Q at 9:00 AM at a speed of 75 km/h towards station P. If the distance between station P and station Q is 330 km, at what time will the two trains cross each other?",
+      "options": [
+        "10:30 AM",
+        "11:00 AM",
+        "11:30 AM",
+        "12:00 PM"
+      ],
+      "answer": 1,
+      "explanation": "Distance covered by the first train in 1 hour (from 8:00 AM to 9:00 AM) = 60 km. Remaining distance between P and Q at 9:00 AM = 330 - 60 = 270 km. Since the trains are moving towards each other, their relative speed = 60 + 75 = 135 km/h. Time taken to meet after 9:00 AM = Remaining distance / Relative speed = 270 / 135 = 2 hours. Therefore, the two trains will cross each other at 9:00 AM + 2 hours = 11:00 AM."
+    },
+    {
+      "id": "ibps-clerk-ai-1786845788210-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a class of 45 students, Aman's rank is 16th from the top and Priya's rank is 21st from the bottom. How many students are there between Aman and Priya?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "Sum of Aman's rank from top and Priya's rank from bottom = 16 + 21 = 37. Since 37 < 45 (total students), this is a non-overlapping case. The number of students between them = Total - (Rank from top + Rank from bottom) = 45 - 37 = 8."
+    },
+    {
+      "id": "ibps-clerk-ai-1786845788210-1",
+      "section": "Reasoning",
+      "topic": "Box Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six boxes – A, B, C, D, E, and F – are kept one above another in a stack (where 1 is the topmost box and 6 is the bottommost box). Box C is kept immediately above Box F. Exactly two boxes are kept between Box F and Box A. Box B is kept immediately below Box D. Box E is kept at one of the positions above Box B. Box A is not the bottommost box. Box D is kept at an odd-numbered position from the top. Which box is kept immediately above Box D?",
+      "options": [
+        "Box F",
+        "Box C",
+        "Box E",
+        "Box A"
+      ],
+      "answer": 0,
+      "explanation": "From the given conditions: If Box D is placed at position 5 (odd), Box B is at position 6. Placing Box C at position 3 and Box F at position 4 satisfies Box C being immediately above Box F. With Box F at 4, placing Box A at position 1 gives exactly two boxes (E and C) between Box F and Box A. Box E is then at position 2, which is above Box B. The final arrangement from top to bottom (1 to 6) is A, E, C, F, D, B. Thus, Box F is kept immediately above Box D."
+    },
+    {
+      "id": "ibps-clerk-ai-1786845816125-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following sentence, identify the part that contains a grammatical error:\n\n'One of the primary reasons (A) / for the delay in project execution (B) / are the lack of skilled workforce. (C) / No error (D)'",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": 2,
+      "explanation": "The subject of the sentence is 'One' (singular), which requires the singular verb 'is' instead of the plural 'are'. Therefore, part (C) contains the error."
+    },
+    {
+      "id": "ibps-clerk-ai-1786845816125-1",
+      "section": "English",
+      "topic": "Synonyms & Vocabulary",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Select the word that is MOST SIMILAR in meaning to the word in bold:\n\nThe minister’s address was criticized for being full of **platitudes** rather than offering practical solutions to the prevailing crisis.",
+      "options": [
+        "Banalities",
+        "Nuances",
+        "Invectives",
+        "Acumen"
+      ],
+      "answer": 0,
+      "explanation": "A 'platitude' is a flat, dull, or trite remark, especially one uttered as if it were fresh or profound. 'Banality' means an unoriginal, cliché, or trite remark, making it the closest synonym. 'Invective' means abusive language, 'Nuance' means subtle distinction, and 'Acumen' means keen insight."
+    },
+    {
+      "id": "ibps-clerk-ai-1786845826086-0",
+      "section": "General Awareness",
+      "topic": "Retail Payment Systems",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which organization serves as the umbrella entity for operating retail payments and settlement systems in India, including UPI, IMPS, and RuPay?",
+      "options": [
+        "National Payments Corporation of India (NPCI)",
+        "Reserve Bank Information Technology (ReBIT)",
+        "Indian Banks' Association (IBA)",
+        "Securities and Exchange Board of India (SEBI)"
+      ],
+      "answer": 0,
+      "explanation": "The National Payments Corporation of India (NPCI) is an umbrella organisation for operating retail payments and settlement systems in India, established by the RBI and the Indian Banks' Association (IBA) under the Payment and Settlement Systems Act, 2007.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786845826086-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Statutory Liquidity Ratio (SLR), which mandates scheduled commercial banks to maintain a minimum percentage of their Net Demand and Time Liabilities (NDTL) in approved liquid assets, is stipulated under which statutory provision?",
+      "options": [
+        "Section 42 of the Reserve Bank of India Act, 1934",
+        "Section 24 of the Banking Regulation Act, 1949",
+        "Section 19 of the Banking Regulation Act, 1949",
+        "Section 18 of the Reserve Bank of India Act, 1934"
+      ],
+      "answer": 1,
+      "explanation": "Statutory Liquidity Ratio (SLR) is mandated under Section 24 of the Banking Regulation Act, 1949. In contrast, Cash Reserve Ratio (CRR) is prescribed under Section 42 of the Reserve Bank of India Act, 1934.",
       "status": "pending"
     }
   ]

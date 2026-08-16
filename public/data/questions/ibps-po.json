@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8027,6 +8027,136 @@
       ],
       "answer": 0,
       "explanation": "Curved surface area of the cylinder = 2πrh = 1980 cm².\n2 × (22/7) × r × 15 = 1980\n(660/7) × r = 1980\nr = (1980 × 7) / 660 = 3 × 7 = 21 cm.\n\nSince the radius of the sphere (R) = 21 cm:\nVolume of the sphere = (4/3)πR³\n= (4/3) × (22/7) × 21 × 21 × 21\n= 4 × 22 × 21 × 21\n= 88 × 441 = 38,808 cm³."
+    },
+    {
+      "id": "ibps-po-ai-1786845963574-0",
+      "section": "Quant",
+      "topic": "Profit, Loss and Discount",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A trader marked an article 40% above its cost price and sold it after giving two successive discounts of 15% and 10%. If the trader earned a profit of Rs. 142 on selling the article, find the cost price of the article.",
+      "options": [
+        "Rs. 1,800",
+        "Rs. 2,000",
+        "Rs. 2,200",
+        "Rs. 2,500"
+      ],
+      "answer": 1,
+      "explanation": "Let the Cost Price (CP) of the article be 100x.\nMarked Price (MP) = 100x × 1.40 = 140x.\nSelling Price (SP) after two successive discounts of 15% and 10%:\nSP = 140x × (1 - 0.15) × (1 - 0.10)\nSP = 140x × 0.85 × 0.90 = 107.1x.\n\nProfit = SP - CP = 107.1x - 100x = 7.1x.\nGiven that Profit = Rs. 142:\n7.1x = 142\nx = 142 / 7.1 = 20.\n\nTherefore, Cost Price (CP) = 100x = 100 × 20 = Rs. 2,000."
+    },
+    {
+      "id": "ibps-po-ai-1786845963574-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red, 6 black, and 4 white balls. If four balls are drawn at random from the bag without replacement, what is the probability that at least two of the drawn balls are black?",
+      "options": [
+        "5/13",
+        "6/13",
+        "7/13",
+        "8/13"
+      ],
+      "answer": 2,
+      "explanation": "Total number of balls = 5 + 6 + 4 = 15 balls (6 black and 9 non-black).\nTotal ways to draw 4 balls from 15 = 15C4 = (15 × 14 × 13 × 12) / (4 × 3 × 2 × 1) = 1365.\n\nTo find the probability of getting at least 2 black balls, we can find the complement (getting 0 or 1 black ball):\n- Case 1: 0 black balls (all 4 are non-black) = 9C4 = (9 × 8 × 7 × 6) / (4 × 3 × 2 × 1) = 126.\n- Case 2: Exactly 1 black ball (1 black and 3 non-black) = 6C1 × 9C3 = 6 × [(9 × 8 × 7) / (3 × 2 × 1)] = 6 × 84 = 504.\n\nTotal unfavorable cases = 126 + 504 = 630.\nFavorable cases (at least 2 black balls) = 1365 - 630 = 735.\n\nRequired Probability = 735 / 1365 = 7/13."
+    },
+    {
+      "id": "ibps-po-ai-1786845978014-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, some statements are followed by two conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements, disregarding commonly known facts.\n\nStatements:\n• Only a few Laptops are Mobiles.\n• No Mobile is a Tablet.\n• All Tablets are Chargers.\n\nConclusions:\nI. Some Laptops are not Tablets.\nII. All Mobiles being Chargers is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From 'Only a few Laptops are Mobiles', some Laptops are Mobiles and some are not. Since 'No Mobile is a Tablet', the portion of Laptops that are Mobiles can never be Tablets. Therefore, 'Some Laptops are not Tablets' is definitely true (Conclusion I follows).\nThere is no negative restriction between Mobiles and Chargers (only between Mobiles and Tablets). Mobiles can completely overlap with the part of Chargers that are not Tablets. Hence, 'All Mobiles being Chargers is a possibility' is true (Conclusion II follows). Thus, both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1786845978014-1",
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The question below consists of a question followed by two statements numbered I and II. You have to decide whether the data provided in the statements are sufficient to answer the question.\n\nQuestion: In a family of seven members with three generations, how is F related to C?\n\nStatement I: D is the mother-in-law of E, who is the father of F. A is the father of B. G is the paternal grandmother of C.\nStatement II: C is the son of B. B is the brother-in-law of E, who has no siblings. D is married to A and has only two children: a son and a daughter. F is the only son of E.",
+      "options": [
+        "The data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient.",
+        "The data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient.",
+        "The data either in Statement I alone or in Statement II alone is sufficient to answer the question.",
+        "The data in both Statements I and II together are necessary to answer the question."
+      ],
+      "answer": 1,
+      "explanation": "From Statement I: There is no direct link between the parentage of C and F, so Statement I alone is not sufficient.\n\nFrom Statement II: \n1. B is the brother-in-law of E, and E has no siblings, which means E is married to B's sister.\n2. A and D have only two children: a son (B) and a daughter (E's wife).\n3. F is the son of E and B's sister.\n4. C is the son of B.\nTherefore, F is the son of C's father's sister, making F the (male) cousin of C. Thus, Statement II alone is sufficient to answer the question."
+    },
+    {
+      "id": "ibps-po-ai-1786846007526-0",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the connector/starter from the options that can combine the two statements into a single, logically coherent sentence without altering their meaning:\n\nStatement I: The domestic currency experienced persistent depreciation against the US dollar.\nStatement II: The central bank intervened strategically in the foreign exchange market to curb extreme volatility.",
+      "options": [
+        "Owing to the persistent depreciation of the domestic currency against the US dollar,",
+        "Although the central bank intervened strategically in the foreign exchange market,",
+        "Unless the domestic currency experienced persistent depreciation,",
+        "Regardless of the persistent depreciation of the domestic currency,"
+      ],
+      "answer": 0,
+      "explanation": "Statement I describes the underlying cause (currency depreciation) and Statement II describes the resultant policy action taken by the central bank. 'Owing to' correctly establishes this cause-and-effect relationship."
+    },
+    {
+      "id": "ibps-po-ai-1786846007526-1",
+      "section": "English",
+      "topic": "Phrase Replacement",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Identify the option that correctly replaces the underlined phrase to make the sentence grammatically sound and contextually appropriate:\n\n'Had the risk management committee _not been insisted upon stringent provisioning norms_, the non-banking financial company would have succumbed to severe liquidity shocks.'",
+      "options": [
+        "not insisted upon stringent provisioning norms",
+        "have not insisted upon stringent provisioning norms",
+        "were not insisted upon stringent provisioning norms",
+        "not had insisted on stringent provisioning norms"
+      ],
+      "answer": 0,
+      "explanation": "In conditional clauses with inversion of the third conditional ('Had + subject + past participle'), the active voice requires 'Had [subject] not insisted upon...'. The original construction ('not been insisted upon') erroneously uses the passive voice for an active agent (the committee)."
+    },
+    {
+      "id": "ibps-po-ai-1786846035399-0",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "As per the guidelines issued by the Reserve Bank of India (RBI), what is the minimum paid-up voting equity capital required to set up a Payments Bank in India?",
+      "options": [
+        "₹50 crore",
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to RBI guidelines for the licensing of Payments Banks, the minimum paid-up voting equity capital required is ₹100 crore. The promoter must contribute at least 40% of the paid-up equity capital for the initial five years from the date of commencement of business.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1786846035399-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India's Master Directions on Priority Sector Lending (PSL), what is the mandatory overall PSL target for Regional Rural Banks (RRBs), calculated as a percentage of Adjusted Net Bank Credit (ANBC) or Credit Equivalent of Off-Balance Sheet Exposure (CEOBE), whichever is higher?",
+      "options": [
+        "40%",
+        "60%",
+        "75%",
+        "90%"
+      ],
+      "answer": 2,
+      "explanation": "Under the RBI's revised Priority Sector Lending guidelines, Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) have an overall PSL target of 75% of ANBC or CEOBE (whichever is higher), whereas for domestic Scheduled Commercial Banks (excluding RRBs and SFBs), the target is 40%.",
+      "status": "pending"
     }
   ]
 }
