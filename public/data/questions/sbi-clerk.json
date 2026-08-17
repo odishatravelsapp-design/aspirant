@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8481,6 +8481,72 @@
       ],
       "answer": 3,
       "explanation": "As per RBI regulatory guidelines, Small Finance Banks (SFBs) are required to maintain a minimum CRAR (Capital to Risk-Weighted Assets Ratio) of 15% on a continuous basis, out of which Tier-I capital must be at least 7.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786932314431-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present age of a father is 3 years more than three times the age of his son. Three years hence, the father's age will be 10 years more than twice the age of the son. What is the present age of the father?",
+      "options": [
+        "33 years",
+        "30 years",
+        "36 years",
+        "27 years"
+      ],
+      "answer": 0,
+      "explanation": "Let the present age of the son be S years.\nPresent age of the father, F = 3S + 3.\n\nAfter 3 years:\nFather's age = F + 3\nSon's age = S + 3\n\nAccording to the given condition:\nF + 3 = 2(S + 3) + 10\nSubstitute F = 3S + 3:\n(3S + 3) + 3 = 2S + 6 + 10\n3S + 6 = 2S + 16\n3S - 2S = 16 - 6\nS = 10\n\nTherefore, the present age of the father = 3(10) + 3 = 33 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1786932314431-1",
+      "section": "Quant",
+      "topic": "Simple & Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of money invested at simple interest amounts to ₹13,750 in 3 years and to ₹16,250 in 5 years at the same rate of interest. If the same sum is invested at compound interest at 20% per annum, compounded annually, what will be the compound interest earned in 3 years?",
+      "options": [
+        "₹6,840",
+        "₹7,280",
+        "₹7,560",
+        "₹8,120"
+      ],
+      "answer": 1,
+      "explanation": "Simple Interest for 2 years (from year 3 to year 5) = ₹16,250 - ₹13,750 = ₹2,500\nSimple Interest for 1 year = ₹2,500 / 2 = ₹1,250\nSimple Interest for 3 years = 3 × ₹1,250 = ₹3,750\n\nPrincipal (P) = Amount after 3 years - SI for 3 years\nP = ₹13,750 - ₹3,750 = ₹10,000\n\nNow, for Compound Interest:\nP = ₹10,000, Rate (R) = 20% p.a., Time (t) = 3 years\nAmount = P(1 + R/100)^3 = 10000 × (1 + 20/100)^3 = 10000 × (1.2)^3 = 10000 × 1.728 = ₹17,280\n\nCompound Interest = Amount - Principal = ₹17,280 - ₹10,000 = ₹7,280."
+    },
+    {
+      "id": "sbi-clerk-ai-1786932607892-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes & Financial Inclusion",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), what is the maximum Overdraft (OD) facility limit available to an eligible account holder?",
+      "options": [
+        "₹5,000",
+        "₹10,000",
+        "₹15,000",
+        "₹20,000"
+      ],
+      "answer": 1,
+      "explanation": "Under PMJDY, the overdraft (OD) limit was enhanced from ₹5,000 to ₹10,000 per eligible household (without conditions for up to ₹2,000) for accounts operating satisfactorily.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1786932607892-1",
+      "section": "General Awareness",
+      "topic": "Foreign Exchange & Regulatory Acts",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which Section of the Foreign Exchange Management Act (FEMA), 1999 is the Central Government empowered to impose reasonable restrictions on Current Account transactions in consultation with the RBI?",
+      "options": [
+        "Section 5",
+        "Section 6",
+        "Section 7",
+        "Section 10"
+      ],
+      "answer": 0,
+      "explanation": "Section 5 of FEMA, 1999 deals with Current Account Transactions and allows any person to deal in foreign exchange for current account transactions, subject to reasonable restrictions imposed by the Central Government in consultation with the Reserve Bank of India.",
       "status": "pending"
     }
   ]

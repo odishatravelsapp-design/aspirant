@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8833,6 +8833,70 @@
       "answer": 1,
       "explanation": "Statutory Liquidity Ratio (SLR) is mandated under Section 24 of the Banking Regulation Act, 1949. In contrast, Cash Reserve Ratio (CRR) is prescribed under Section 42 of the Reserve Bank of India Act, 1934.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1786932015052-0",
+      "section": "Quant",
+      "topic": "Percentage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Ramesh spends 25% of his monthly salary on house rent, 20% on children's education, and 15% on other household expenses. If he saves the remaining ₹18,000, what is his total monthly salary?",
+      "options": [
+        "₹42,000",
+        "₹45,000",
+        "₹48,000",
+        "₹50,000"
+      ],
+      "answer": 1,
+      "explanation": "Total percentage of salary spent by Ramesh = 25% + 20% + 15% = 60%.\nPercentage of salary saved = 100% - 60% = 40%.\nAccording to the question, 40% of Salary = ₹18,000.\nTotal Salary = (18,000 / 40) × 100 = ₹45,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1786932015053-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C can complete a piece of work individually in 15 days, 20 days, and 30 days respectively. They started the work together, but A left 6 days before the completion of the work, and B left 2 days before the completion of the work. If the total amount paid for the completion of the work is ₹7,200, what is the share of C in the payment?",
+      "options": [
+        "₹1,920",
+        "₹2,160",
+        "₹2,400",
+        "₹2,880"
+      ],
+      "answer": 2,
+      "explanation": "Let the total work be LCM(15, 20, 30) = 60 units.\nEfficiency of A = 60 / 15 = 4 units/day.\nEfficiency of B = 60 / 20 = 3 units/day.\nEfficiency of C = 60 / 30 = 2 units/day.\n\nLet the total number of days taken to complete the work be T.\nA worked for (T - 6) days, B worked for (T - 2) days, and C worked for all T days.\n\nTotal work done = 4(T - 6) + 3(T - 2) + 2(T) = 60\n4T - 24 + 3T - 6 + 2T = 60\n9T - 30 = 60\n9T = 90 => T = 10 days.\n\nWork done by each:\nA = 4 × (10 - 6) = 16 units\nB = 3 × (10 - 2) = 24 units\nC = 2 × 10 = 20 units\n\nRatio of work done = 16 : 24 : 20 = 4 : 6 : 5.\nShare of C = (5 / (4 + 6 + 5)) × 7,200 = (5 / 15) × 7,200 = ₹2,400."
+    },
+    {
+      "id": "ibps-clerk-ai-1786932206551-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Read the sentence to identify the part that contains a grammatical error:\n\nEach of the participants (A) / were given a certificate (B) / of appreciation after (C) / the annual seminar ended. (D)",
+      "options": [
+        "Each of the participants",
+        "were given a certificate",
+        "of appreciation after",
+        "the annual seminar ended."
+      ],
+      "answer": 1,
+      "explanation": "The subject of the sentence is 'Each', which is a singular distributive pronoun and requires a singular verb. Therefore, 'were given' must be replaced with 'was given' in part (B)."
+    },
+    {
+      "id": "ibps-clerk-ai-1786932206551-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, four words in bold are marked as (A), (B), (C), and (D). Select the option that gives the correct sequence of words to make the sentence contextually meaningful and grammatically correct:\n\nThe committee decided to suspend (A) the implementation of the new policy after facing severe disclose (B) from local traders, who demanded that the authority protest (C) the full audit report without further delay (D).",
+      "options": [
+        "A-C-B-D",
+        "B-A-D-C",
+        "C-B-A-D",
+        "No rearrangement required"
+      ],
+      "answer": 0,
+      "explanation": "'Disclose' in (B) is a verb and contextually incorrect after the adjective 'severe', which requires the noun 'protest'. Conversely, (C) requires the verb 'disclose' to convey making the audit report public. Swapping (B) and (C) results in the coherent sequence A-C-B-D."
     }
   ]
 }
