@@ -9335,6 +9335,261 @@
           "explanation": "ଜନ୍ କେଲରଙ୍କ ARCS ମଡେଲ୍‌ରେ 'ARCS' ର ଅର୍ଥ ହେଉଛି: Attention (ମନୋଯୋଗ), Relevance (ପ୍ରାସଙ୍ଗିକତା), Confidence (ଆତ୍ମବିଶ୍ୱାସ), ଏବଂ Satisfaction (ସନ୍ତୋଷ)।"
         }
       }
+    },
+    {
+      "id": "pgt-edu-1786937433876-0",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under Mahatma Gandhi's Wardha Scheme of Basic Education (Nai Talim, 1937), which committee was appointed to formulate the detailed national curriculum and syllabus?",
+      "options": [
+        "Mudaliar Commission",
+        "Dr. Zakir Husain Committee",
+        "Kothari Commission",
+        "Radhakrishnan Commission"
+      ],
+      "answer": 1,
+      "explanation": "At the All India National Education Conference held at Wardha in October 1937, a committee under the chairmanship of Dr. Zakir Husain was appointed to formulate the detailed syllabus for Basic Education."
+    },
+    {
+      "id": "pgt-edu-1786937433876-1",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Philosophers (Tagore, Gandhi)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In 1922, Rabindranath Tagore established the 'Institute of Rural Reconstruction' at Sriniketan with the collaboration and direct leadership of which British agricultural economist?",
+      "options": [
+        "C. F. Andrews",
+        "Patrick Geddes",
+        "Leonard Elmhirst",
+        "William Pearson"
+      ],
+      "answer": 2,
+      "explanation": "Rabindranath Tagore founded Sriniketan (the Department of Rural Reconstruction) in February 1922 with the assistance of British agronomist Leonard Elmhirst, who served as its first director."
+    },
+    {
+      "id": "pgt-edu-1786937433876-2",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Friedrich Froebel's Kindergarten pedagogy, what did the 'First Gift' given to young children consist of?",
+      "options": [
+        "Six soft, colored woolen balls",
+        "A solid wooden sphere, cylinder, and cube",
+        "A wooden cube divided into eight smaller cubes",
+        "A set of colored wooden slats and sticks"
+      ],
+      "answer": 0,
+      "explanation": "Froebel's First Gift consists of six soft, colored yarn balls (three primary colors: red, yellow, blue; and three secondary: green, orange, purple) designed to help infants perceive form, color, and motion."
+    },
+    {
+      "id": "pgt-edu-1786937433876-3",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Montessori Method, Maria Montessori adapted the structured 'Three-Period Lesson' technique for language and sensorial teaching directly from the works of which pioneer educator?",
+      "options": [
+        "Johann Heinrich Pestalozzi",
+        "Jean Marc Gaspard Itard",
+        "Ovide Decroly",
+        "Édouard Séguin"
+      ],
+      "answer": 3,
+      "explanation": "Maria Montessori heavily built upon the didactic methods of French physician Édouard Séguin, including his 'Three-Period Lesson' (Naming, Recognition, Pronunciation/Recall)."
+    },
+    {
+      "id": "pgt-edu-1786937433876-4",
+      "section": "Teaching Aptitude",
+      "topic": "Western Educators (Dewey, Froebel, Montessori)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to John Dewey's seminal analysis of reflective thinking in 'How We Think' (1910), what is the initial phase/step that initiates reflective inquiry?",
+      "options": [
+        "Definition of the problem",
+        "A felt difficulty or perplexity",
+        "Occurrence of a hypothesis",
+        "Testing the hypothesis through action"
+      ],
+      "answer": 1,
+      "explanation": "Dewey identified five steps of reflective thinking, the first being a felt difficulty or state of perplexity/doubt, which prompts the learner to define the problem and seek solutions."
+    },
+    {
+      "id": "pgt-edu-1786937433876-5",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which specific developmental disorder is characterized primarily by difficulty with motor planning, physical coordination, and fine motor tasks such as handwriting, cutting, or buttoning?",
+      "options": [
+        "Dyscalculia",
+        "Dysgraphia",
+        "Dyspraxia",
+        "Dyslexia"
+      ],
+      "answer": 2,
+      "explanation": "Dyspraxia (Developmental Coordination Disorder) affects motor skill development, motor planning, and body coordination, making fine and gross motor tasks challenging."
+    },
+    {
+      "id": "pgt-edu-1786937433876-6",
+      "section": "Teaching Aptitude",
+      "topic": "Learning Disabilities",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In modern educational diagnostics, the tiered 'Response to Intervention' (RTI) framework was officially recognized as an alternative to the traditional 'Severe Discrepancy Model' for identifying Specific Learning Disabilities under which legislation?",
+      "options": [
+        "IDEA 2004 (Individuals with Disabilities Education Improvement Act)",
+        "P.L. 94-142 (Education for All Handicapped Children Act of 1975)",
+        "No Child Left Behind Act of 2001",
+        "Section 504 of the Rehabilitation Act of 1973"
+      ],
+      "answer": 0,
+      "explanation": "The reauthorization of IDEA in 2004 permitted states to eliminate the requirement for a severe discrepancy between IQ and achievement, allowing the use of Response to Intervention (RTI) for SLD identification."
+    },
+    {
+      "id": "pgt-edu-1786937433876-7",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "Under India's Rights of Persons with Disabilities (RPwD) Act, 2016, how many benchmark categories of disabilities are legally recognized, compared to 7 in the previous 1995 Act?",
+      "options": [
+        "14",
+        "21",
+        "18",
+        "25"
+      ],
+      "answer": 1,
+      "explanation": "The RPwD Act 2016 expanded the list of recognized disabilities from 7 to 21, including conditions like Specific Learning Disabilities, Autism Spectrum Disorder, and Acid Attack Victimhood."
+    },
+    {
+      "id": "pgt-edu-1786937433876-8",
+      "section": "Teaching Aptitude",
+      "topic": "Inclusive & Special Education",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Universal Design for Learning (UDL) framework developed by CAST, the three foundational principles (Engagement, Representation, Action & Expression) directly align with which three respective brain networks?",
+      "options": [
+        "Sensory, Motor, and Cognitive networks",
+        "Affective, Recognition, and Strategic networks",
+        "Limbic, Cortical, and Cerebellar networks",
+        "Visual, Auditory, and Kinesthetic networks"
+      ],
+      "answer": 1,
+      "explanation": "UDL aligns multiple means of Engagement with the Affective network (the 'why'), Representation with the Recognition network (the 'what'), and Action & Expression with the Strategic network (the 'how')."
+    },
+    {
+      "id": "pgt-edu-1786937433876-9",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Ruben Puentedura's SAMR model of educational technology integration, which two hierarchical levels constitute the 'Transformation' domain?",
+      "options": [
+        "Substitution and Augmentation",
+        "Augmentation and Modification",
+        "Modification and Redefinition",
+        "Substitution and Redefinition"
+      ],
+      "answer": 2,
+      "explanation": "In the SAMR model, Substitution and Augmentation belong to the 'Enhancement' domain, whereas Modification and Redefinition belong to the 'Transformation' domain."
+    },
+    {
+      "id": "pgt-edu-1786937433876-10",
+      "section": "Teaching Aptitude",
+      "topic": "ICT in Education",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the full expansion of the acronym 'SWAYAM', the Government of India's indigenous MOOCs platform?",
+      "options": [
+        "School-level Web Applications for Youth Academic Mastery",
+        "System of Web-based Assessment for Young Academic Minds",
+        "Student Welfare and Academic Yield Assessment Mechanism",
+        "Study Webs of Active-Learning for Young Aspiring Minds"
+      ],
+      "answer": 3,
+      "explanation": "SWAYAM stands for 'Study Webs of Active-Learning for Young Aspiring Minds', launched by the Ministry of Education to provide free online university and school courses."
+    },
+    {
+      "id": "pgt-edu-1786937433876-11",
+      "section": "Teaching Aptitude",
+      "topic": "Educational Technology",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the TPACK (Technological Pedagogical Content Knowledge) model developed by Mishra and Koehler (2006), the integration of content knowledge and teaching strategies without technology represents which component originated by Lee Shulman?",
+      "options": [
+        "Technological Pedagogical Knowledge (TPK)",
+        "Pedagogical Content Knowledge (PCK)",
+        "Technological Content Knowledge (TCK)",
+        "Contextual Knowledge (XK)"
+      ],
+      "answer": 1,
+      "explanation": "Pedagogical Content Knowledge (PCK) was originally conceptualized by Lee Shulman in 1986 to describe how teachers transform subject matter (CK) into teachable representations (PK)."
+    },
+    {
+      "id": "pgt-edu-1786937433876-12",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Ralph Tyler's classic 1949 curriculum development rationale ('Basic Principles of Curriculum and Instruction'), which is the first fundamental question that must be resolved?",
+      "options": [
+        "What educational purposes should the school seek to attain?",
+        "What educational experiences can be provided that are likely to attain these purposes?",
+        "How can these educational experiences be effectively organized?",
+        "How can we determine whether these purposes are being attained?"
+      ],
+      "answer": 0,
+      "explanation": "Tyler's four-step rationale begins with identifying the educational goals/purposes the school seeks to achieve, followed by selecting experiences, organizing them, and evaluation."
+    },
+    {
+      "id": "pgt-edu-1786937433876-13",
+      "section": "Teaching Aptitude",
+      "topic": "Curriculum Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "Hilda Taba proposed an inductive 'grassroots' model of curriculum development. What is the very first step in Taba's 7-step curriculum model?",
+      "options": [
+        "Formulation of objectives",
+        "Selection of content",
+        "Diagnosis of needs",
+        "Organization of learning activities"
+      ],
+      "answer": 2,
+      "explanation": "Unlike Tyler's top-down approach starting with objectives, Hilda Taba's inductive grassroots model begins with 'Diagnosis of learners' needs' carried out by classroom teachers."
+    },
+    {
+      "id": "pgt-edu-1786937433876-14",
+      "section": "Teaching Aptitude",
+      "topic": "Guidance & Counselling",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to Carl Rogers' Person-Centered (Non-Directive) Counseling framework, which three 'core conditions' are both necessary and sufficient for constructive therapeutic change?",
+      "options": [
+        "Direct Advice, Behavior Shaping, and Cognitive Restructuring",
+        "Congruence (Genuineness), Unconditional Positive Regard, and Empathic Understanding",
+        "Interpretation, Resistance Analysis, and Transference Resolution",
+        "Catharsis, Systematic Desensitization, and Aversive Conditioning"
+      ],
+      "answer": 1,
+      "explanation": "Carl Rogers identified three core counselor-offered conditions: Congruence (realness/genuineness), Unconditional Positive Regard (acceptance), and accurate Empathic Understanding."
     }
   ]
 }
