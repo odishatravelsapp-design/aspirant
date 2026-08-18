@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8157,6 +8157,38 @@
       "answer": 2,
       "explanation": "Under the RBI's revised Priority Sector Lending guidelines, Regional Rural Banks (RRBs) and Small Finance Banks (SFBs) have an overall PSL target of 75% of ANBC or CEOBE (whichever is higher), whereas for domestic Scheduled Commercial Banks (excluding RRBs and SFBs), the target is 40%.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1787018463950-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a 1000-meter race, runner A beats runner B by 100 meters. In another 1000-meter race, runner B beats runner C by 50 meters. By what distance will runner A beat runner C in a 1000-meter race assuming each runner maintains a constant speed?",
+      "options": [
+        "135 m",
+        "145 m",
+        "150 m",
+        "155 m"
+      ],
+      "answer": 1,
+      "explanation": "When A covers 1000 m, B covers (1000 - 100) = 900 m. Therefore, the ratio of speeds of A and B is S_A : S_B = 1000 : 900 = 10 : 9. When B covers 1000 m, C covers (1000 - 50) = 950 m. Therefore, S_B : S_C = 1000 : 950 = 20 : 19. Combining the ratios, S_A / S_C = (S_A / S_B) × (S_B / S_C) = (10 / 9) × (20 / 19) = 200 / 171. In a 1000 m race, when A finishes 1000 m, the distance covered by C is 1000 × (171 / 200) = 5 × 171 = 855 m. Thus, A beats C by 1000 - 855 = 145 m."
+    },
+    {
+      "id": "ibps-po-ai-1787018463950-1",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person borrows a certain sum of money at 10% per annum compound interest, compounded annually. He clears the debt completely by paying Rs. 1,870 at the end of the first year and Rs. 3,025 at the end of the second year. If instead, he had chosen to repay the same debt in two equal annual installments at the same interest rate, what would be the value of each installment?",
+      "options": [
+        "Rs. 2,360",
+        "Rs. 2,420",
+        "Rs. 2,540",
+        "Rs. 2,620"
+      ],
+      "answer": 1,
+      "explanation": "Let the principal borrowed be P. At the end of year 1, the total amount due is P(1 + 0.10) = 1.1P. After paying Rs. 1,870, the outstanding balance is (1.1P - 1870). This balance accrues 10% interest in the second year, becoming (1.1P - 1870) × 1.1 = 3025. Solving for P: 1.1P - 1870 = 3025 / 1.1 = 2750 => 1.1P = 4620 => P = Rs. 4,200. If repaid in two equal annual installments of Rs. x each: P = x / (1.1) + x / (1.1)^2 => 4200 = x × (10/11 + 100/121) = x × (210/121). Therefore, x = (4200 × 121) / 210 = 20 × 121 = Rs. 2,420."
     }
   ]
 }

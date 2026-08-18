@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -8897,6 +8897,136 @@
       ],
       "answer": 0,
       "explanation": "'Disclose' in (B) is a verb and contextually incorrect after the adjective 'severe', which requires the noun 'protest'. Conversely, (C) requires the verb 'disclose' to convey making the audit report public. Swapping (B) and (C) results in the coherent sequence A-C-B-D."
+    },
+    {
+      "id": "ibps-clerk-ai-1787018179025-0",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains a mixture of milk and water in the ratio 7 : 3. If 20 liters of the mixture is taken out and replaced with 20 liters of water, the ratio of milk to water becomes 7 : 8. Find the initial quantity of the mixture in the vessel.",
+      "options": [
+        "50 liters",
+        "60 liters",
+        "75 liters",
+        "80 liters"
+      ],
+      "answer": 1,
+      "explanation": "Let the initial total quantity of the mixture be T liters.\nInitial milk = (7/10)T and water = (3/10)T.\nWhen 20 liters of mixture is removed:\nMilk remaining = (7/10)(T - 20)\nWater remaining = (3/10)(T - 20)\nWhen 20 liters of water is added:\nNew quantity of water = (3/10)(T - 20) + 20 = (3/10)T + 14\nGiven new ratio of milk to water is 7 : 8:\n[(7/10)(T - 20)] / [(3/10)T + 14] = 7/8\n(T - 20) / [(3T + 140)/10] × (1/10) = 1/8\n(T - 20) / (3T + 140) = 1/8\n8(T - 20) = 3T + 140\n8T - 160 = 3T + 140\n5T = 300 => T = 60 liters."
+    },
+    {
+      "id": "ibps-clerk-ai-1787018179025-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A cylindrical vessel of radius 14 cm contains water up to a certain height. A solid spherical metallic ball of radius 7 cm and a solid metallic cone of base radius 7 cm and height 12 cm are completely submerged into the vessel. By how much does the water level in the vessel rise?",
+      "options": [
+        "2.5 cm",
+        "3.0 cm",
+        "3 1/3 cm",
+        "4 2/3 cm"
+      ],
+      "answer": 2,
+      "explanation": "Rise in water level (h) causes an increase in volume equal to the combined volume of the submerged solid shapes.\n\nVolume of sphere = (4/3) × π × r³ = (4/3) × π × 7³ = (1372/3)π cm³\nVolume of cone = (1/3) × π × r² × h_cone = (1/3) × π × 7² × 12 = 196π cm³ = (588/3)π cm³\n\nTotal volume submerged = (1372/3)π + (588/3)π = (1960/3)π cm³\n\nLet the rise in water level in the cylindrical vessel be H:\nVolume of water displaced = π × R² × H\nπ × 14² × H = (1960/3)π\n196 × H = 1960 / 3\nH = 10 / 3 = 3 1/3 cm."
+    },
+    {
+      "id": "ibps-clerk-ai-1787018219902-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a family of six members – P, Q, R, S, T, and U:\n- P is the father of R, but R is not the son of P.\n- T is the brother of R.\n- Q is the wife of P.\n- S is the daughter of Q.\n- U is the brother of P.\n\nHow is S related to T?",
+      "options": [
+        "Daughter",
+        "Sister",
+        "Mother",
+        "Niece"
+      ],
+      "answer": 1,
+      "explanation": "P and Q are a married couple (P is the husband/father, Q is the wife/mother). R is the daughter of P (since R is P's child but not his son). T is the brother of R (so T is the son of P and Q). S is the daughter of Q (and P). Therefore, S and T are siblings, making S the sister of T."
+    },
+    {
+      "id": "ibps-clerk-ai-1787018219902-1",
+      "section": "Reasoning",
+      "topic": "Scheduling Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons – A, B, C, D, E, and F – attended an interview in three different months – March, April, and May – on two different dates: either 12th or 25th of the same year. No two persons attended on the same date of the same month.\n- Only one person attended between B and D.\n- B attended on an even date in a month having 30 days.\n- E attended immediately after D.\n- As many persons attended before E as after C.\n- A attended before F, but not in March.\n\nWho attended the interview on 25th May?",
+      "options": [
+        "A",
+        "C",
+        "E",
+        "F"
+      ],
+      "answer": 3,
+      "explanation": "1. April is the only 30-day month, so B attended on 12th April.\n2. One person attended between B and D: D could be on 12th March or 12th May.\n3. E attended immediately after D. If D = 12th May, E = 25th May (5 persons before E -> 5 persons after C -> C = 12th March). Then A and F must be on 25th March and 25th April respectively, which violates 'A not in March'.\n4. Thus, D = 12th March and E = 25th March. Since 1 person attended before E, 1 person must attend after C, placing C on 12th May.\n5. The remaining slots are 25th April and 25th May for A and F. Since A attended before F, A = 25th April and F = 25th May.\nHence, F attended on 25th May."
+    },
+    {
+      "id": "ibps-clerk-ai-1787018226821-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Read the sentence to identify the part that contains a grammatical error. If there is no error, choose the option accordingly.\n\nNot only the manager (A) / but also the assistant accountants (B) / was present at (C) / the annual regional audit. (D)",
+      "options": [
+        "Not only the manager",
+        "but also the assistant accountants",
+        "was present at",
+        "the annual regional audit"
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are connected by the correlative conjunction 'not only... but also', the verb must agree with the subject closest to it. Here, the closer subject is 'the assistant accountants' (plural), so the auxiliary verb should be 'were' instead of 'was'."
+    },
+    {
+      "id": "ibps-clerk-ai-1787018226821-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, four words printed in bold are marked as (A), (B), (C), and (D). Identify the pair of words that must be swapped to make the sentence grammatically correct and contextually meaningful.\n\nThe central bank introduced stricter measures to enhance (A) systemic risks, hoping to reduce (B) investor confidence and guarantee (C) overall financial stability (D).",
+      "options": [
+        "A-B",
+        "B-C",
+        "A-C and B-D",
+        "No exchange required"
+      ],
+      "answer": 0,
+      "explanation": "Contextually, a central bank implements strict measures to 'reduce' (or mitigate) systemic risks and 'enhance' (or boost) investor confidence. Swapping (A) and (B) makes the sentence meaningful: '...to reduce (A) systemic risks, hoping to enhance (B) investor confidence...'"
+    },
+    {
+      "id": "ibps-clerk-ai-1787018240949-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In 2019, the regulatory oversight of Housing Finance Companies (HFCs) in India was formally transferred from the National Housing Bank (NHB) to which of the following regulatory authorities?",
+      "options": [
+        "Reserve Bank of India (RBI)",
+        "Securities and Exchange Board of India (SEBI)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)",
+        "Pension Fund Regulatory and Development Authority (PFRDA)"
+      ],
+      "answer": 0,
+      "explanation": "Through the Finance (No. 2) Act, 2019, the regulatory powers over Housing Finance Companies (HFCs) were transferred from the National Housing Bank (NHB) to the Reserve Bank of India (RBI), while NHB continues to retain its supervision role.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787018240949-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), what is the revised annual premium payable per member to obtain a life insurance cover of ₹2,00,000?",
+      "options": [
+        "₹330",
+        "₹436",
+        "₹500",
+        "₹20"
+      ],
+      "answer": 1,
+      "explanation": "With effect from June 1, 2022, the Central Government revised the annual premium rate for PMJJBY from ₹330 to ₹436 per annum, providing a life cover of ₹2 lakh in case of death due to any reason.",
+      "status": "pending"
     }
   ]
 }

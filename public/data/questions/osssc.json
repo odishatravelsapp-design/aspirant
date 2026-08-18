@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10232,6 +10232,118 @@
             "ଭୀମରଥ"
           ],
           "explanation": "ଭୁବନେଶ୍ୱରସ୍ଥିତ ଐତିହାସିକ ଲିଙ୍ଗରାଜ ମନ୍ଦିରର ନିର୍ମାଣ କାର୍ଯ୍ୟ ଏକାଦଶ ଶତାବ୍ଦୀରେ ସୋମବଂଶୀ ରାଜା ଯଯାତି ଦ୍ୱିତୀୟ (ଯଯାତି କେଶରୀ) ଙ୍କ ଦ୍ୱାରା ଆରମ୍ଭ କରାଯାଇଥିଲା ଏବଂ ପରେ ତାଙ୍କ ପୁତ୍ର ଉଦ୍ୟୋତକେଶରୀଙ୍କ ଦ୍ୱାରା ସମ୍ପୂର୍ଣ୍ଣ କରାଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787019248643-0",
+      "section": "Arithmetic",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A policeman spots a thief from a distance of 200 metres. When the policeman starts the chase, the thief also starts running. If the speed of the thief is 10 km/h and that of the policeman is 12 km/h, how far will the thief have run before he is overtaken?",
+      "options": [
+        "800 metres",
+        "1000 metres",
+        "1200 metres",
+        "1500 metres"
+      ],
+      "answer": 1,
+      "explanation": "Relative speed = 12 km/h - 10 km/h = 2 km/h = 2 × (5/18) m/s = 5/9 m/s.\nInitial distance to cover = 200 m.\nTime taken to catch the thief = 200 / (5/9) = 360 seconds.\nDistance run by the thief in 360 seconds = Speed × Time = (10 × 5/18) × 360 = (25/9) × 360 = 1000 metres.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ପୋଲିସ୍ କର୍ମଚାରୀ 200 ମିଟର ଦୂରତାରୁ ଜଣେ ଚୋରକୁ ଦେଖିଲେ। ଯେତେବେଳେ ପୋଲିସ୍ ତାଙ୍କୁ ଗୋଡ଼ାଇବା ଆରମ୍ଭ କଲେ, ଚୋର ମଧ୍ୟ ଦୌଡ଼ିବା ଆରମ୍ଭ କଲା। ଯଦି ଚୋରର ଗତି 10 କିମି/ଘଣ୍ଟା ଏବଂ ପୋଲିସର ଗତି 12 କିମି/ଘଣ୍ଟା ହୁଏ, ତେବେ ଧରାପଡ଼ିବା ପୂର୍ବରୁ ଚୋର କେତେ ଦୂର ଦୌଡ଼ିସାରିଥିବ?",
+          "options": [
+            "800 ମିଟର",
+            "1000 ମିଟର",
+            "1200 ମିଟର",
+            "1500 ମିଟର"
+          ],
+          "explanation": "ଆପେକ୍ଷିକ ଗତି = 12 କିମି/ଘଣ୍ଟା - 10 କିମି/ଘଣ୍ଟା = 2 କିମି/ଘଣ୍ଟା = 2 × (5/18) ମି/ସେ = 5/9 ମି/ସେ।\nଅତିକ୍ରମ କରିବାକୁ ଥିବା ଦୂରତା = 200 ମିଟର।\nଚୋରକୁ ଧରିବା ପାଇଁ ଲାଗିବା ସମୟ = 200 / (5/9) = 360 ସେକେଣ୍ଡ।\n360 ସେକେଣ୍ଡରେ ଚୋର ଦ୍ୱାରା ଅତିକ୍ରାନ୍ତ ଦୂରତା = (10 × 5/18) × 360 = 1000 ମିଟର।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787019248644-1",
+      "section": "Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A dealer marked an article at 40% above its cost price. He sold it by giving two successive discounts of 15% and 10% on the marked price. If he gained Rs. 284 in the transaction, what was the cost price of the article?",
+      "options": [
+        "Rs. 3,500",
+        "Rs. 4,000",
+        "Rs. 4,200",
+        "Rs. 4,500"
+      ],
+      "answer": 1,
+      "explanation": "Let the Cost Price (CP) = 100x.\nMarked Price (MP) = 140% of 100x = 140x.\nSelling Price (SP) after successive discounts of 15% and 10%:\nSP = 140x × (85/100) × (90/100) = 140x × 0.85 × 0.90 = 107.1x.\nProfit = SP - CP = 107.1x - 100x = 7.1x.\nGiven Profit = Rs. 284.\n7.1x = 284 => x = 40.\nCost Price (CP) = 100x = 100 × 40 = Rs. 4,000.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ବ୍ୟବସାୟୀ ଏକ ଦ୍ରବ୍ୟର ମୂଲ୍ୟ ଏହାର କ୍ରୟ ମୂଲ୍ୟଠାରୁ 40% ଅଧିକ ଧାର୍ଯ୍ୟ କଲେ। ସେ ଧାର୍ଯ୍ୟ ମୂଲ୍ୟ ଉପରେ କ୍ରମାଗତ 15% ଏବଂ 10% ର ଦୁଇଟି ରିହାତି ଦେଇ ଏହାକୁ ବିକ୍ରୟ କଲେ। ଯଦି ସେ ଏହି କାରବାରରେ 284 ଟଙ୍କା ଲାଭ ପାଆନ୍ତି, ତେବେ ଦ୍ରବ୍ୟର କ୍ରୟ ମୂଲ୍ୟ କେତେ ଥିଲା?",
+          "options": [
+            "3,500 ଟଙ୍କା",
+            "4,000 ଟଙ୍କା",
+            "4,200 ଟଙ୍କା",
+            "4,500 ଟଙ୍କା"
+          ],
+          "explanation": "ମନେକର କ୍ରୟ ମୂଲ୍ୟ (CP) = 100x।\nଧାର୍ଯ୍ୟ ମୂଲ୍ୟ (MP) = 140x।\n15% ଏବଂ 10% ର କ୍ରମାଗତ ରିହାତି ପରେ ବିକ୍ରୟ ମୂଲ୍ୟ (SP) = 140x × 0.85 × 0.90 = 107.1x।\nଲାଭ = SP - CP = 107.1x - 100x = 7.1x।\nଦିଆଯାଇଛି ଲାଭ = 284 ଟଙ୍କା।\n7.1x = 284 => x = 40।\nକ୍ରୟ ମୂଲ୍ୟ = 100x = 100 × 40 = 4,000 ଟଙ୍କା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787019264126-0",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Ramesh starts from his office and drives 15 km towards North. He turns left and drives 8 km. Then he turns left again and drives 9 km. Finally, he turns left and drives 16 km to reach his home. In which direction and at what shortest distance is his home located with respect to his office?",
+      "options": [
+        "10 km, North-East",
+        "10 km, North-West",
+        "12 km, North-East",
+        "14 km, South-East"
+      ],
+      "answer": 0,
+      "explanation": "Taking office as origin (0, 0): North is +y, South is -y, East is +x, West is -x. First movement: 15 km North -> (0, 15). Turns left (West) 8 km -> (-8, 15). Turns left (South) 9 km -> (-8, 15 - 9) = (-8, 6). Turns left (East) 16 km -> (-8 + 16, 6) = (8, 6). Shortest distance = √(8² + 6²) = √(64 + 36) = √100 = 10 km. Since coordinates are (+8, +6), the direction from the office is North-East.",
+      "translations": {
+        "or": {
+          "question": "ରମେଶ ତାଙ୍କ ଅଫିସରୁ ବାହାରି ଉତ୍ତର ଦିଗକୁ 15 କିମି ଗାଡ଼ି ଚଳାଇଲେ। ସେ ବାମକୁ ବୁଲି 8 କିମି ଗଲେ। ତା’ପରେ ସେ ପୁଣି ବାମକୁ ବୁଲି 9 କିମି ଗଲେ। ଶେଷରେ ସେ ବାମକୁ ବୁଲି 16 କିମି ଯାଇ ନିଜ ଘରେ ପହଞ୍ଚିଲେ। ତାଙ୍କ ଅଫିସ୍ ତୁଳନାରେ ତାଙ୍କ ଘର କେଉଁ ଦିଗରେ ଏବଂ ସର୍ବନିମ୍ନ କେତେ ଦୂରତାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "10 କିମି, ଉତ୍ତର-ପୂର୍ବ",
+            "10 କିମି, ଉତ୍ତର-ପଶ୍ଚିମ",
+            "12 କିମି, ଉତ୍ତର-ପୂର୍ବ",
+            "14 କିମି, ଦକ୍ଷିଣ-ପୂର୍ବ"
+          ],
+          "explanation": "ଅଫିସକୁ ମୂଳବିନ୍ଦୁ (0, 0) ଭାବେ ନେଲେ: ଉତ୍ତର ଦିଗକୁ 15 କିମି -> (0, 15)। ବାମକୁ (ପଶ୍ଚିମ) 8 କିମି -> (-8, 15)। ପୁଣି ବାମକୁ (ଦକ୍ଷିଣ) 9 କିମି -> (-8, 6)। ଶେଷରେ ବାମକୁ (ପୂର୍ବ) 16 କିମି -> (8, 6)। ସର୍ବନିମ୍ନ ଦୂରତା = √(8² + 6²) = √(64 + 36) = √100 = 10 କିମି ଏବଂ ଦିଗଟି ଉତ୍ତର-ପୂର୍ବ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787019264126-1",
+      "section": "Reasoning",
+      "topic": "Coded Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following information carefully:\n'P # Q' means 'P is the daughter of Q'.\n'P @ Q' means 'P is the mother of Q'.\n'P % Q' means 'P is the father of Q'.\n'P & Q' means 'P is the brother of Q'.\n\nIf the expression 'A & B # C @ D % E' is true, how is A related to E?",
+      "options": [
+        "Paternal Uncle",
+        "Brother",
+        "Maternal Uncle",
+        "Father"
+      ],
+      "answer": 0,
+      "explanation": "Decoding the expression step-by-step:\n1. 'D % E' means D is the father of E.\n2. 'C @ D' means C is the mother of D.\n3. 'B # C' means B is the daughter of C (so B is the sister of D).\n4. 'A & B' means A is the brother of B (and also brother of D).\nSince D is the father of E, and A is D's brother, A is the Paternal Uncle of E.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ସୂଚନାକୁ ଧ୍ୟାନର ସହିତ ପଢ଼ନ୍ତୁ:\n'P # Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ଝିଅ'।\n'P @ Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ମାଆ'।\n'P % Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ବାପା'।\n'P & Q' ର ଅର୍ଥ 'P ହେଉଛନ୍ତି Q ଙ୍କ ଭାଇ'।\n\nଯଦି 'A & B # C @ D % E' ସମ୍ପର୍କଟି ସତ୍ୟ ହୁଏ, ତେବେ A, E ସହିତ କିପରି ସମ୍ପର୍କିତ?",
+          "options": [
+            "ଦାଦା / କକା (ପିତୃବ୍ୟ)",
+            "ଭାଇ",
+            "ମାମୁଁ",
+            "ବାପା"
+          ],
+          "explanation": "ସମ୍ପର୍କର ବିଶ୍ଳେଷଣ:\n1. 'D % E' ଅର୍ଥ D ହେଉଛନ୍ତି E ଙ୍କ ବାପା।\n2. 'C @ D' ଅର୍ଥ C ହେଉଛନ୍ତି D ଙ୍କ ମାଆ।\n3. 'B # C' ଅର୍ଥ B ହେଉଛନ୍ତି C ଙ୍କ ଝିଅ (ଅର୍ଥାତ୍ D ଙ୍କ ଭଉଣୀ)।\n4. 'A & B' ଅର୍ଥ A ହେଉଛନ୍ତି B ଙ୍କ ଭାଇ (ଅର୍ଥାତ୍ D ଙ୍କ ମଧ୍ୟ ଭାଇ)।\nଯେହେତୁ D ହେଉଛନ୍ତି E ଙ୍କ ବାପା ଏବଂ A ହେଉଛନ୍ତି D ଙ୍କ ଭାଇ, ତେଣୁ A ହେଉଛନ୍ତି E ଙ୍କ ଦାଦା/କକା (ପିତୃବ୍ୟ)।"
         }
       }
     }

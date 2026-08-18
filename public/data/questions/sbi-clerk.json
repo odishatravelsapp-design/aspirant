@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8547,6 +8547,104 @@
       ],
       "answer": 0,
       "explanation": "Section 5 of FEMA, 1999 deals with Current Account Transactions and allows any person to deal in foreign exchange for current account transactions, subject to reasonable restrictions imposed by the Central Government in consultation with the Reserve Bank of India.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787018297546-0",
+      "section": "Quant",
+      "topic": "Percentage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A person spends 20% of his monthly salary on house rent, 25% of the remaining on food, and 40% of the remaining on miscellaneous expenses. If he saves the remaining amount of ₹10,800, what is his total monthly salary?",
+      "options": [
+        "₹28,000",
+        "₹30,000",
+        "₹32,500",
+        "₹35,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the total monthly salary be S.\nAfter spending 20% on house rent, remaining amount = (1 - 0.20) × S = 0.80S.\nAfter spending 25% of the remaining on food, remaining amount = (1 - 0.25) × 0.80S = 0.75 × 0.80S = 0.60S.\nAfter spending 40% of the remaining on miscellaneous expenses, remaining savings = (1 - 0.40) × 0.60S = 0.60 × 0.60S = 0.36S.\nGiven, 0.36S = ₹10,800\nS = 10,800 / 0.36 = ₹30,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1787018297546-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A dishonest trader marks his goods 20% above the cost price and allows a 10% discount to the customer. However, while purchasing from the wholesaler, he takes 1200 grams instead of 1000 grams, and while selling to the customer, he gives only 900 grams instead of 1000 grams. What is his overall profit percentage?",
+      "options": [
+        "40%",
+        "44%",
+        "48%",
+        "52%"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price of 1000 grams be ₹1000 (i.e., nominal CP = ₹1/g).\nWhile purchasing, he pays for 1000 g but gets 1200 g:\nEffective Cost Price per gram = ₹1000 / 1200 = ₹(5/6) per gram.\n\nHe marks the price 20% above CP of 1000 g: Marked Price = ₹1200.\nHe offers a 10% discount: Selling Price of 1000 g = 0.90 × ₹1200 = ₹1080.\n\nWhile selling, he gives only 900 g for ₹1080:\nEffective Selling Price per gram = ₹1080 / 900 = ₹(6/5) per gram.\n\nRatio of SP to CP per gram = (6/5) / (5/6) = 36 / 25.\nOverall Profit % = [(36 - 25) / 25] × 100 = (11 / 25) × 100 = 44%."
+    },
+    {
+      "id": "sbi-clerk-ai-1787018410198-0",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, a word is given followed by three sentences. Choose the option indicating the sentence(s) where the word is used correctly.\n\nCURTAIL\nI. The government decided to curtail public spending in order to reduce the national deficit.\nII. Due to severe thunderstorms, the organizers had to curtail the festival by two hours.\nIII. The company introduced a new strategy to curtail its revenue and maximize employee bonuses.",
+      "options": [
+        "Only I",
+        "Only III",
+        "Both I and II",
+        "Both II and III"
+      ],
+      "answer": 2,
+      "explanation": "'Curtail' means to reduce in extent or quantity, or to impose a restriction on something. In sentence I, curtailing public spending makes contextual and grammatical sense. In sentence II, curtailing the festival due to bad weather is correct. In sentence III, it makes no logical sense for a company to reduce its revenue deliberately to maximize bonuses. Therefore, only I and II are correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1787018410198-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the most appropriate pair of words to fill in the blanks and make the sentence contextually meaningful and grammatically correct.\n\nThe board members were initially ________ about the high-risk expansion plan, but the CEO's ________ explanation resolved all their concerns.",
+      "options": [
+        "receptive, ambiguous",
+        "skeptical, cogent",
+        "indifferent, futile",
+        "hostile, redundant"
+      ],
+      "answer": 1,
+      "explanation": "The conjunction 'but' introduces a contrast between the board members' initial doubt and their subsequent satisfaction. 'Skeptical' (having doubts or reservations) fits the first blank, and 'cogent' (clear, logical, and convincing) fits the second blank, explaining how the CEO effectively resolved their concerns."
+    },
+    {
+      "id": "sbi-clerk-ai-1787018427082-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness - Small Accounts",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India (RBI) guidelines on simplified KYC accounts, what is the maximum balance permitted at any point in time in a 'Small Account'?",
+      "options": [
+        "₹20,000",
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under RBI guidelines for Basic Savings Bank Deposit Accounts opened as 'Small Accounts' (with simplified KYC), the aggregate of all credits in a financial year must not exceed ₹1,00,000, aggregate withdrawals and transfers in a month must not exceed ₹10,000, and the balance at any point of time must not exceed ₹50,000.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787018427082-1",
+      "section": "General Awareness",
+      "topic": "Reserve Bank of India Act, 1934",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Following the enactment of the Reserve Bank of India (Amendment) Act, 2006, what are the statutory floor and ceiling limits for the Cash Reserve Ratio (CRR) under Section 42(1) of the RBI Act, 1934?",
+      "options": [
+        "Minimum floor of 3% and maximum ceiling of 20%",
+        "Minimum floor of 3% with no statutory ceiling",
+        "No statutory minimum floor and no statutory ceiling",
+        "Minimum floor of 4% and maximum ceiling of 15%"
+      ],
+      "answer": 2,
+      "explanation": "Prior to 2006, Section 42(1) of the RBI Act, 1934 prescribed that CRR must be between a minimum floor of 3% and a maximum ceiling of 20% of NDTL. The RBI (Amendment) Act, 2006 removed both the statutory minimum floor and the ceiling, empowering the RBI to specify CRR without any statutory constraints.",
       "status": "pending"
     }
   ]
