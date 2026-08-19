@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8645,6 +8645,104 @@
       ],
       "answer": 2,
       "explanation": "Prior to 2006, Section 42(1) of the RBI Act, 1934 prescribed that CRR must be between a minimum floor of 3% and a maximum ceiling of 20% of NDTL. The RBI (Amendment) Act, 2006 removed both the statutory minimum floor and the ceiling, empowering the RBI to specify CRR without any statutory constraints.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787104893280-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n√(576) × 15 + 45% of 560 - 24² = ?",
+      "options": [
+        "36",
+        "42",
+        "28",
+        "48"
+      ],
+      "answer": 0,
+      "explanation": "Evaluating each term:\n1. √(576) = 24, so 24 × 15 = 360\n2. 45% of 560 = 0.45 × 560 = 252\n3. 24² = 576\n\nNow, substituting these into the expression:\n? = 360 + 252 - 576 = 612 - 576 = 36."
+    },
+    {
+      "id": "sbi-clerk-ai-1787104893280-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A car travels a certain distance at a uniform speed. If its speed had been 10 km/h faster, it would have taken 1 hour less than the scheduled time. If the speed had been further increased by 10 km/h, it would have taken an additional 45 minutes less. What is the total distance covered by the car?",
+      "options": [
+        "360 km",
+        "420 km",
+        "480 km",
+        "540 km"
+      ],
+      "answer": 1,
+      "explanation": "Let the original speed be v km/h and original time be t hours. Then Distance D = v × t.\n\nCase 1: Speed = (v + 10) km/h, Time = (t - 1) hours\nD = (v + 10)(t - 1) = vt - v + 10t - 10\nSince D = vt, we have:\n10t - v - 10 = 0  =>  v = 10t - 10  --- (Equation 1)\n\nCase 2: Speed = (v + 20) km/h, Time = (t - 1 - 45/60) = (t - 7/4) hours\nD = (v + 20)(t - 7/4) = vt - (7/4)v + 20t - 35\nSince D = vt, multiplying by 4 gives:\n80t - 7v - 140 = 0  --- (Equation 2)\n\nSubstitute v = 10t - 10 into Equation 2:\n80t - 7(10t - 10) - 140 = 0\n80t - 70t + 70 - 140 = 0\n10t = 70  =>  t = 7 hours\n\nSubstitute t = 7 into Equation 1:\nv = 10(7) - 10 = 60 km/h\n\nDistance D = v × t = 60 × 7 = 420 km."
+    },
+    {
+      "id": "sbi-clerk-ai-1787104939681-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Study the following sequence of characters carefully and answer the question:\n\nP 3 @ 6 R # 8 D $ 5 K * 4 E % 2 T\n\nHow many numbers are there in the given sequence, each of which is immediately preceded by a symbol and immediately followed by a consonant?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "We need to find the pattern: Symbol → Number → Consonant.\n1. @ 6 R (Preceded by '@', followed by consonant 'R') – Valid\n2. # 8 D (Preceded by '#', followed by consonant 'D') – Valid\n3. $ 5 K (Preceded by '$', followed by consonant 'K') – Valid\n4. * 4 E (Preceded by '*', followed by vowel 'E') – Invalid\n5. % 2 T (Preceded by '%', followed by consonant 'T') – Valid\n\nThus, there are exactly 4 such numbers."
+    },
+    {
+      "id": "sbi-clerk-ai-1787104939681-1",
+      "section": "Reasoning",
+      "topic": "Puzzles - Scheduling",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons—A, B, C, D, E, F, and G—attend a meeting on seven different days of the same week starting from Monday to Sunday, but not necessarily in the same order.\n• D attends the meeting on Thursday.\n• Only two persons attend the meeting between A and D, where A attends before D.\n• Only one person attends the meeting between D and F, where F attends before D.\n• E attends immediately before C, and neither of them attends on Sunday.\n• G attends on one of the days after B.\n\nWho among the following attends the meeting on Friday?",
+      "options": [
+        "E",
+        "C",
+        "B",
+        "G"
+      ],
+      "answer": 0,
+      "explanation": "1. D attends on Thursday (Day 4).\n2. A attends before D with 2 persons between them → A attends on Monday (Day 1).\n3. F attends before D with 1 person between them → F attends on Tuesday (Day 2).\n4. E attends immediately before C and neither is on Sunday → E attends on Friday (Day 5) and C on Saturday (Day 6).\n5. G attends after B → B attends on Wednesday (Day 3) and G on Sunday (Day 7).\n\nFinal Schedule:\n• Monday: A\n• Tuesday: F\n• Wednesday: B\n• Thursday: D\n• Friday: E\n• Saturday: C\n• Sunday: G\n\nTherefore, E attends the meeting on Friday."
+    },
+    {
+      "id": "sbi-clerk-ai-1787105105157-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the maximum limit of deposit insurance coverage provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) per depositor across all accounts in an insured bank?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "With effect from February 4, 2020, the DICGC increased the deposit insurance coverage limit from ₹1 lakh to ₹5 lakh per depositor per insured bank, covering both principal and interest amounts.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787105105157-1",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 45ZB of the Reserve Bank of India Act, 1934, how many members constitute the Monetary Policy Committee (MPC), and what is the statutory term of office for the external members appointed by the Central Government?",
+      "options": [
+        "5 members; tenure of 3 years",
+        "6 members; tenure of 4 years",
+        "6 members; tenure of 5 years",
+        "7 members; tenure of 4 years"
+      ],
+      "answer": 1,
+      "explanation": "The Monetary Policy Committee (MPC) consists of 6 members: 3 internal RBI members (Governor, Deputy Governor in-charge of monetary policy, and one RBI officer) and 3 external members nominated by the Central Government. Under Section 45ZC, the external members hold office for a period of 4 years and are not eligible for re-appointment.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9026,6 +9026,136 @@
       ],
       "answer": 1,
       "explanation": "With effect from June 1, 2022, the Central Government revised the annual premium rate for PMJJBY from ₹330 to ₹436 per annum, providing a life cover of ₹2 lakh in case of death due to any reason.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787104692422-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat covers a distance of 48 km downstream in 3 hours. If the speed of the stream is 3 km/h, find the time taken by the boat to cover a distance of 30 km upstream.",
+      "options": [
+        "3 hours",
+        "2.5 hours",
+        "3.5 hours",
+        "4 hours"
+      ],
+      "answer": 0,
+      "explanation": "Downstream speed = Distance / Time = 48 / 3 = 16 km/h. Speed of boat in still water = Downstream speed - Speed of stream = 16 - 3 = 13 km/h. Upstream speed = Speed of boat in still water - Speed of stream = 13 - 3 = 10 km/h. Time taken to travel 30 km upstream = Distance / Upstream speed = 30 / 10 = 3 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1787104692422-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A, B, and C entered into a partnership. A invested ₹24,000 for 8 months, B invested ₹32,000 for 6 months, and C invested ₹18,000 for the entire year (12 months). Out of the total profit earned at the end of the year, A received a share of ₹10,000. What was the total profit earned by all three together?",
+      "options": [
+        "₹30,000",
+        "₹31,250",
+        "₹32,500",
+        "₹28,750"
+      ],
+      "answer": 1,
+      "explanation": "Ratio of profit sharing = (24000 × 8) : (32000 × 6) : (18000 × 12) = 192000 : 192000 : 216000. Dividing each term by 24000 gives the simplified ratio 8 : 8 : 9. Total ratio parts = 8 + 8 + 9 = 25. Since A's share is 8 parts = ₹10,000, 1 part = ₹10,000 / 8 = ₹1,250. Therefore, the total profit is 25 × ₹1,250 = ₹31,250."
+    },
+    {
+      "id": "ibps-clerk-ai-1787104737480-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, some statements are given followed by some conclusions. Assuming the given statements to be true even if they seem to be at variance with commonly known facts, read all the conclusions and decide which of them logically follow(s) from the given statements.\n\nStatements:\nOnly a few Mangoes are Apples.\nSome Apples are Grapes.\nNo Grape is a Guava.\n\nConclusions:\nI. Some Mangoes can be Guavas.\nII. All Apples being Guavas is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "From the statements, some Apples are Grapes and no Grape is a Guava. Therefore, the portion of Apples that are Grapes can never be Guavas, which makes 'All Apples being Guavas is a possibility' false. There is no direct negative relation between Mangoes and Guavas, so 'Some Mangoes can be Guavas' is a valid possibility. Hence, only conclusion I follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1787104737480-1",
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Point M is 12 m south of Point L. Point N is 8 m east of Point M. Point O is 6 m north of Point N. Point P is 14 m west of Point O. Point Q is 6 m north of Point P. What is the shortest distance between Point L and Point Q, and in which direction is Point Q with respect to Point L?",
+      "options": [
+        "8 m, West",
+        "6 m, West",
+        "6 m, East",
+        "10 m, South-West"
+      ],
+      "answer": 1,
+      "explanation": "Taking Point L at the origin (0, 0):\n- Point M is 12 m south of L -> (0, -12)\n- Point N is 8 m east of M -> (8, -12)\n- Point O is 6 m north of N -> (8, -6)\n- Point P is 14 m west of O -> (8 - 14, -6) = (-6, -6)\n- Point Q is 6 m north of P -> (-6, -6 + 6) = (-6, 0)\n\nThe distance between L (0, 0) and Q (-6, 0) is 6 meters, and Point Q lies directly to the West of Point L."
+    },
+    {
+      "id": "ibps-clerk-ai-1787104822458-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following sentence, four words given in bold are numbered (A), (B), (C), and (D). Determine the pair of words that must be interchanged to make the sentence contextually meaningful and grammatically correct.\n\nThe regulatory authority has decided to **impose** (A) strict penalties on financial institutions that **comply** (B) to **fail** (C) with standard audit **regulations** (D).",
+      "options": [
+        "A-B",
+        "B-C",
+        "A-D",
+        "C-D"
+      ],
+      "answer": 1,
+      "explanation": "The positions of 'comply' (B) and 'fail' (C) are inverted. The phrase 'fail to comply with' makes contextual sense because penalties are imposed when an institution fails to follow regulations. Interchanging B and C restores the correct meaning."
+    },
+    {
+      "id": "ibps-clerk-ai-1787104822458-1",
+      "section": "English",
+      "topic": "Phrase Replacement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, a part of the sentence is given in bold. Choose the alternative from the options that correctly improves the bold part.\n\nNo sooner had the branch manager stepped into the conference hall **when the attendees began firing** critical queries regarding the system outage.",
+      "options": [
+        "than the attendees began firing",
+        "then the attendees began firing",
+        "while the attendees had begun firing",
+        "that the attendees began firing"
+      ],
+      "answer": 0,
+      "explanation": "The correlative conjunction 'No sooner' is always paired with 'than', not 'when', 'then', or 'that'. Therefore, 'than the attendees began firing' is the grammatically correct replacement."
+    },
+    {
+      "id": "ibps-clerk-ai-1787104829855-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy Committee (MPC)",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under Section 45ZB of the Reserve Bank of India Act, 1934, how many total members constitute the Monetary Policy Committee (MPC), and how many of them are nominated by the Central Government?",
+      "options": [
+        "6 members; 3 nominated by the Central Government",
+        "5 members; 2 nominated by the Central Government",
+        "7 members; 4 nominated by the Central Government",
+        "6 members; 2 nominated by the Central Government"
+      ],
+      "answer": 0,
+      "explanation": "The Monetary Policy Committee (MPC) consists of 6 members: 3 members from the Reserve Bank of India (including the Governor as the ex-officio Chairperson) and 3 external members nominated by the Central Government.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787104829855-1",
+      "section": "General Awareness",
+      "topic": "Government Social Security Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Suraksha Bima Yojana (PMSBY), what is the revised annual premium amount deducted automatically from an enrolled subscriber's bank account?",
+      "options": [
+        "₹12 per annum",
+        "₹20 per annum",
+        "₹330 per annum",
+        "₹436 per annum"
+      ],
+      "answer": 1,
+      "explanation": "The annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY), an accidental death and disability cover scheme, was revised from ₹12 to ₹20 per annum effective June 1, 2022.",
       "status": "pending"
     }
   ]

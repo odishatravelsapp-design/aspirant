@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10344,6 +10344,64 @@
             "ବାପା"
           ],
           "explanation": "ସମ୍ପର୍କର ବିଶ୍ଳେଷଣ:\n1. 'D % E' ଅର୍ଥ D ହେଉଛନ୍ତି E ଙ୍କ ବାପା।\n2. 'C @ D' ଅର୍ଥ C ହେଉଛନ୍ତି D ଙ୍କ ମାଆ।\n3. 'B # C' ଅର୍ଥ B ହେଉଛନ୍ତି C ଙ୍କ ଝିଅ (ଅର୍ଥାତ୍ D ଙ୍କ ଭଉଣୀ)।\n4. 'A & B' ଅର୍ଥ A ହେଉଛନ୍ତି B ଙ୍କ ଭାଇ (ଅର୍ଥାତ୍ D ଙ୍କ ମଧ୍ୟ ଭାଇ)।\nଯେହେତୁ D ହେଉଛନ୍ତି E ଙ୍କ ବାପା ଏବଂ A ହେଉଛନ୍ତି D ଙ୍କ ଭାଇ, ତେଣୁ A ହେଉଛନ୍ତି E ଙ୍କ ଦାଦା/କକା (ପିତୃବ୍ୟ)।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787106793325-0",
+      "section": "Odisha GK",
+      "topic": "Ancient Odisha History",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In which of the following rock-cut caves at Udayagiri is the famous 17-line biographical inscription of Emperor Kharavela inscribed?",
+      "options": [
+        "Ranigumpha",
+        "Hatigumpha",
+        "Ganeshagumpha",
+        "Manchapuri Gumpha"
+      ],
+      "answer": 1,
+      "explanation": "The Hatigumpha inscription ('Elephant Cave' inscription) in the Udayagiri hills near Bhubaneswar is a 17-line inscription written in Brahmi script and Prakrit language, chronicling the life and military conquests of King Kharavela of the Mahameghavahana dynasty.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଉଦୟଗିରିର ନିମ୍ନଲିଖିତ କେଉଁ ପ୍ରସ୍ତର ଖୋଦିତ ଗୁମ୍ଫାରେ ସମ୍ରାଟ ଖାରବେଳଙ୍କ ପ୍ରସିଦ୍ଧ ୧୭-ଧାଡ଼ି ବିଶିଷ୍ଟ ଜୀବନୀ ଶିଳାଲେଖ ଖୋଦିତ ହୋଇଛି?",
+          "options": [
+            "ରାଣୀଗୁମ୍ଫା",
+            "ହାତୀଗୁମ୍ଫା",
+            "ଗଣେଶଗୁମ୍ଫା",
+            "ମଞ୍ଚପୁରୀ ଗୁମ୍ଫା"
+          ],
+          "explanation": "ଭୁବନେଶ୍ୱର ନିକଟସ୍ଥ ଉଦୟଗିରି ପାହାଡ଼ରେ ଥିବା ହାତୀଗୁମ୍ଫା ଶିଳାଲେଖ ହେଉଛି ବ୍ରାହ୍ମୀ ଲିପି ଏବଂ ପ୍ରାକୃତ ଭାଷାରେ ଲିଖିତ ଏକ ୧୭ ଧାଡ଼ିର ଐତିହାସିକ ଲେଖ, ଯେଉଁଥିରେ ମହାମେଘବାହନ ବଂଶର ରାଜା ଖାରବେଳଙ୍କ ଜୀବନୀ ଏବଂ ତାଙ୍କ ସାମରିକ ବିଜୟ ବର୍ଣ୍ଣନା କରାଯାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787106793325-1",
+      "section": "Odisha GK",
+      "topic": "Modern Odisha History",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who served as the Commissioner of the Odisha (Cuttack) Division during the catastrophic 'Na'anka Durbhikhya' (Great Famine) of 1866?",
+      "options": [
+        "T. E. Ravenshaw",
+        "Sir George Campbell",
+        "John Beames",
+        "H. B. Impey"
+      ],
+      "answer": 0,
+      "explanation": "Thomas Edward Ravenshaw was the Commissioner of the Odisha (Cuttack) Division during the severe Orissa famine of 1866 (Na'anka Durbhikhya). Following the famine, the British government appointed the Campbell Commission to investigate the administrative failures.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାର ଭୟଙ୍କର 'ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ' ସମୟରେ ଓଡ଼ିଶା (କଟକ) ଡିଭିଜନର କମିଶନର ଭାବରେ କିଏ କାର୍ଯ୍ୟ କରୁଥିଲେ?",
+          "options": [
+            "ଟି. ଇ. ରେଭେନ୍ସା",
+            "ସାର୍ ଜର୍ଜ କ୍ୟାମ୍ପବେଲ୍",
+            "ଜନ୍ ବିମ୍ସ",
+            "ଏଚ୍. ବି. ଇମ୍ପେ"
+          ],
+          "explanation": "୧୮୬୬ ମସିହାର ଓଡ଼ିଶାର ଭୟାବହ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଥୋମାସ୍ ଏଡୱାର୍ଡ ରେଭେନ୍ସା ଓଡ଼ିଶା (କଟକ) ଡିଭିଜନର କମିଶନର ଥିଲେ। ଏହି ଦୁର୍ଭିକ୍ଷ ପରେ ପ୍ରଶାସନିକ ତ୍ରୁଟିର ତଦନ୍ତ ପାଇଁ ବ୍ରିଟିଶ ସରକାର କ୍ୟାମ୍ପବେଲ କମିଶନ ଗଠନ କରିଥିଲେ।"
         }
       }
     }

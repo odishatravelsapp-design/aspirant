@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8189,6 +8189,38 @@
       ],
       "answer": 1,
       "explanation": "Let the principal borrowed be P. At the end of year 1, the total amount due is P(1 + 0.10) = 1.1P. After paying Rs. 1,870, the outstanding balance is (1.1P - 1870). This balance accrues 10% interest in the second year, becoming (1.1P - 1870) × 1.1 = 3025. Solving for P: 1.1P - 1870 = 3025 / 1.1 = 2750 => 1.1P = 4620 => P = Rs. 4,200. If repaid in two equal annual installments of Rs. x each: P = x / (1.1) + x / (1.1)^2 => 4200 = x × (10/11 + 100/121) = x × (210/121). Therefore, x = (4200 × 121) / 210 = 20 × 121 = Rs. 2,420."
+    },
+    {
+      "id": "ibps-po-ai-1787105229557-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A and B together can complete a piece of work in 24 days, while B and C together can complete the same work in 30 days. If A is twice as efficient as C, in how many days can B alone complete the entire work?",
+      "options": [
+        "36 days",
+        "40 days",
+        "45 days",
+        "48 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the 1-day work of A, B, and C be represented by A, B, and C respectively.\nGiven:\nA + B = 1/24  --- (Equation 1)\nB + C = 1/30  --- (Equation 2)\n\nSubtracting Equation 2 from Equation 1:\n(A + B) - (B + C) = 1/24 - 1/30\nA - C = (5 - 4) / 120 = 1/120\n\nGiven that A is twice as efficient as C, A = 2C:\n2C - C = 1/120 => C = 1/120\n\nSubstituting C = 1/120 into Equation 2:\nB + 1/120 = 1/30\nB = 1/30 - 1/120 = (4 - 1) / 120 = 3/120 = 1/40\n\nThus, B alone can complete the entire work in 40 days."
+    },
+    {
+      "id": "ibps-po-ai-1787105229557-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A container contains 80 litres of pure milk. From this container, 16 litres of milk is removed and replaced with water. Next, 20 litres of the mixture is removed and replaced with water. Finally, 24 litres of the mixture is removed and replaced with water. What is the final ratio of milk to water in the container?",
+      "options": [
+        "21 : 29",
+        "27 : 53",
+        "19 : 31",
+        "23 : 27"
+      ],
+      "answer": 0,
+      "explanation": "Initial volume of pure milk, V = 80 litres.\n\nAfter 1st operation (16 L removed and replaced):\nFraction of milk remaining = 1 - (16/80) = 1 - 1/5 = 4/5\n\nAfter 2nd operation (20 L removed and replaced):\nFraction of milk remaining = (4/5) × [1 - (20/80)] = (4/5) × (3/4) = 3/5\n\nAfter 3rd operation (24 L removed and replaced):\nFraction of milk remaining = (3/5) × [1 - (24/80)] = (3/5) × [1 - 3/10] = (3/5) × (7/10) = 21/50\n\nSince the total capacity remains 80 litres:\nFraction of milk = 21/50\nFraction of water = 1 - 21/50 = 29/50\n\nTherefore, Ratio of Milk : Water = 21 : 29."
     }
   ]
 }
