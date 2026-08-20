@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8221,6 +8221,70 @@
       ],
       "answer": 0,
       "explanation": "Initial volume of pure milk, V = 80 litres.\n\nAfter 1st operation (16 L removed and replaced):\nFraction of milk remaining = 1 - (16/80) = 1 - 1/5 = 4/5\n\nAfter 2nd operation (20 L removed and replaced):\nFraction of milk remaining = (4/5) × [1 - (20/80)] = (4/5) × (3/4) = 3/5\n\nAfter 3rd operation (24 L removed and replaced):\nFraction of milk remaining = (3/5) × [1 - (24/80)] = (3/5) × [1 - 3/10] = (3/5) × (7/10) = 21/50\n\nSince the total capacity remains 80 litres:\nFraction of milk = 21/50\nFraction of water = 1 - 21/50 = 29/50\n\nTherefore, Ratio of Milk : Water = 21 : 29."
+    },
+    {
+      "id": "ibps-po-ai-1787191362442-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A can complete a piece of work in 36 days. B is 25% more efficient than A, and C is 20% less efficient than B. A and B started working together and worked for 8 days. Then, both left and C completed the remaining work with the help of D in 10 days. In how many days can D alone complete the entire work?",
+      "options": [
+        "40 days",
+        "45 days",
+        "48 days",
+        "54 days"
+      ],
+      "answer": 1,
+      "explanation": "Let efficiency of A = 4 units/day.\nTotal work = 36 × 4 = 144 units.\nEfficiency of B = 4 × 1.25 = 5 units/day.\nEfficiency of C = 5 × (1 - 0.20) = 4 units/day.\nWork completed by A and B in 8 days = 8 × (4 + 5) = 72 units.\nRemaining work = 144 - 72 = 72 units.\nCombined efficiency of C and D = 72 / 10 = 7.2 units/day.\nEfficiency of D = 7.2 - 4 = 3.2 units/day.\nTime taken by D alone to complete the entire work = 144 / 3.2 = 45 days."
+    },
+    {
+      "id": "ibps-po-ai-1787191362442-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "A bag contains 4 white, 5 red, and 6 green balls. Three balls are drawn at random one after another without replacement. What is the probability that the first ball drawn is white, given that at least one of the three drawn balls is white?",
+      "options": [
+        "182/435",
+        "91/290",
+        "14/45",
+        "13/30"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 4 + 5 + 6 = 15.\nLet event A = First ball is white.\nLet event B = At least one white ball is drawn.\nSince if the first ball is white, at least one white ball is guaranteed to be drawn, A is a subset of B, so P(A ∩ B) = P(A).\nP(A) = 4/15.\nTotal ways to choose 3 balls = 15C3 = (15 × 14 × 13) / (3 × 2 × 1) = 455.\nWays to choose 3 non-white balls = 11C3 = (11 × 10 × 9) / (3 × 2 × 1) = 165.\nP(No white ball) = 165 / 455 = 33 / 91.\nP(B) = 1 - 33/91 = 58/91.\nRequired conditional probability P(A | B) = P(A) / P(B) = (4/15) / (58/91) = (4 × 91) / (15 × 58) = 182 / 435."
+    },
+    {
+      "id": "ibps-po-ai-1787191462908-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the most appropriate pair of words that sequentially fits into the blanks to make the sentence contextually and grammatically meaningful.\n\nOwing to mounting inflationary pressures, the central bank decided to _______ its expansionary monetary stance and _______ key policy rates to rein in surplus market liquidity.",
+      "options": [
+        "abandon, hike",
+        "reinforce, curtail",
+        "emulate, depress",
+        "reiterate, moderate"
+      ],
+      "answer": 0,
+      "explanation": "In macroeconomics, when inflationary pressures rise, central banks withdraw liquidity by relinquishing or abandoning expansionary (loose) monetary policies and hiking (raising) interest rates. 'Abandon' and 'hike' accurately complete the sentence both contextually and grammatically."
+    },
+    {
+      "id": "ibps-po-ai-1787191462908-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Read the sentence below to identify the part that contains a grammatical error.\n\nThe tribunal mandated that the consortium of lenders (A) / submits a revised restructuring proposal (B) / within fourteen business days to prevent (C) / the immediate liquidation of the distressed steel enterprise. (D)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explanation": "Part (B) contains a grammatical error involving the mandative subjunctive mood. When verbs of demand, requirement, recommendation, or mandate (e.g., 'mandated that') introduce a subordinate clause, the base form (bare infinitive) of the verb must be used regardless of the subject's number or tense. Hence, 'submits' must be corrected to the subjunctive base form 'submit'."
     }
   ]
 }

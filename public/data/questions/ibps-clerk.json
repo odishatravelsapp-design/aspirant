@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9156,6 +9156,136 @@
       ],
       "answer": 1,
       "explanation": "The annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY), an accidental death and disability cover scheme, was revised from ₹12 to ₹20 per annum effective June 1, 2022.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787191001748-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average weight of 8 persons increases by 2.5 kg when a new person replaces one of them who weighs 65 kg. What is the weight of the new person?",
+      "options": [
+        "80 kg",
+        "85 kg",
+        "75 kg",
+        "90 kg"
+      ],
+      "answer": 1,
+      "explanation": "Total increase in weight of the group = Number of persons × Increase in average weight = 8 × 2.5 = 20 kg. Weight of the new person = Weight of replaced person + Total increase = 65 + 20 = 85 kg."
+    },
+    {
+      "id": "ibps-clerk-ai-1787191001748-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red balls, 4 blue balls, and 3 green balls. If three balls are drawn at random simultaneously, what is the probability that at least two of the drawn balls are red?",
+      "options": [
+        "7/22",
+        "4/11",
+        "5/11",
+        "9/22"
+      ],
+      "answer": 1,
+      "explanation": "Total number of balls = 5 + 4 + 3 = 12. Total ways to select 3 balls out of 12 = 12C3 = (12 × 11 × 10) / (3 × 2 × 1) = 220. Favorable cases for 'at least two red balls': (1) Exactly 2 Red and 1 non-Red: 5C2 × 7C1 = 10 × 7 = 70 ways. (2) Exactly 3 Red: 5C3 = 10 ways. Total favorable outcomes = 70 + 10 = 80. Required probability = 80 / 220 = 4/11."
+    },
+    {
+      "id": "ibps-clerk-ai-1787191045277-0",
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "How many such pairs of letters are there in the word 'CREDIBLE', each of which has as many letters between them in the word (in both forward and backward directions) as they have between them in the English alphabetical series?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "Let's check the letters of the word CREDIBLE:\n1. Forward: C and E (C, R, E) – 1 letter in between in both the word and the alphabet.\n2. Backward: B and D (D, I, B) – 1 letter in between in both the word and the alphabet.\n3. Backward: B and E (E, D, I, B) – 2 letters in between in both the word and the alphabet.\n4. Backward: D and E (E, D) – 0 letters in between in both the word and the alphabet.\n\nThus, there are 4 such pairs (C-E, B-D, B-E, D-E)."
+    },
+    {
+      "id": "ibps-clerk-ai-1787191045277-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – P, Q, R, S, T, U, V, and W – live on eight different floors of an 8-storey building where the ground floor is numbered 1 and the topmost floor is numbered 8.\n- T lives on an even-numbered floor above floor 4.\n- Only two persons live between T and V.\n- S lives immediately below V.\n- As many persons live above S as below W.\n- U lives on an odd-numbered floor immediately above P.\n- Q lives on one of the floors above R.\n\nHow many persons live between Q and P?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step arrangement:\n1. T lives on an even floor > 4: T can be on floor 6 or 8.\n2. If T is on 8, V is on 5, S is on 4. Then 4 persons live above S, requiring 4 below W (W on 5), which clashes with V. Thus, T is on floor 6.\n3. T = Floor 6; two persons between T and V gives V = Floor 3.\n4. S lives immediately below V => S = Floor 2.\n5. Persons above S = 6 (floors 3 to 8), so persons below W = 6 => W = Floor 7.\n6. U is on an odd floor immediately above P => U = Floor 5, P = Floor 4.\n7. Q lives on a floor above R => Q = Floor 8, R = Floor 1.\n\nFinal floor order (8 to 1): Q, W, T, U, P, V, S, R.\nPersons living between Q (floor 8) and P (floor 4) are W, T, and U, which is exactly 3 persons."
+    },
+    {
+      "id": "ibps-clerk-ai-1787191048930-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following sentence, identify the segment that contains a grammatical error:\n\n'No sooner did the bell rang (A) / than the students rushed (B) / out of their classrooms (C) / without waiting for the teacher’s permission. (D)'",
+      "options": [
+        "No sooner did the bell rang",
+        "than the students rushed",
+        "out of their classrooms",
+        "without waiting for the teacher’s permission"
+      ],
+      "answer": 0,
+      "explanation": "The auxiliary verb 'did' must be followed by the base form of the verb (V1). Therefore, 'rang' should be replaced by 'ring' ('No sooner did the bell ring...')."
+    },
+    {
+      "id": "ibps-clerk-ai-1787191048930-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, four words printed in bold are lettered (A), (B), (C), and (D). Identify the pair of words that needs to be swapped to make the sentence grammatically correct and contextually meaningful:\n\n'The recent **surge** (A) in commodity prices has led to widespread **anxiety** (B) among consumers, prompting the central bank to **mitigate** (C) monetary policy in an attempt to **tighten** (D) the economic fallout.'",
+      "options": [
+        "A-B",
+        "C-D",
+        "A-D",
+        "B-C"
+      ],
+      "answer": 1,
+      "explanation": "In financial contexts, central banks 'tighten monetary policy' to combat inflation, while measures are taken to 'mitigate economic fallout' (reduce the severity of the damage). Swapping words (C) and (D) makes the sentence contextually and grammatically coherent."
+    },
+    {
+      "id": "ibps-clerk-ai-1787191100497-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which committee, set up by the Reserve Bank of India, recommended the differentiated banking framework that led to the creation of Payments Banks and Small Finance Banks?",
+      "options": [
+        "Y. V. Reddy Committee",
+        "Nachiket Mor Committee",
+        "Tarapore Committee",
+        "C. Rangarajan Committee"
+      ],
+      "answer": 1,
+      "explanation": "The Committee on Comprehensive Financial Services for Small Businesses and Low-Income Households, headed by Dr. Nachiket Mor and constituted by the RBI in September 2013, recommended the creation of specialized differentiated banks, namely Payments Banks and Small Finance Banks.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787191100497-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which Section of the Reserve Bank of India (RBI) Act, 1934 does the Central Government hold the power to give directions to the RBI in the public interest after consultation with the Governor?",
+      "options": [
+        "Section 7",
+        "Section 18",
+        "Section 22",
+        "Section 45"
+      ],
+      "answer": 0,
+      "explanation": "Section 7(1) of the Reserve Bank of India Act, 1934 empowers the Central Government to give such directions to the Bank as it may, after consultation with the Governor of the Bank, consider necessary in the public interest.",
       "status": "pending"
     }
   ]

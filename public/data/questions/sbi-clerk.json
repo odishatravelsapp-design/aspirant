@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8743,6 +8743,104 @@
       ],
       "answer": 1,
       "explanation": "The Monetary Policy Committee (MPC) consists of 6 members: 3 internal RBI members (Governor, Deputy Governor in-charge of monetary policy, and one RBI officer) and 3 external members nominated by the Central Government. Under Section 45ZC, the external members hold office for a period of 4 years and are not eligible for re-appointment.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787191158250-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat takes 4 hours to travel 48 km downstream and 6 hours to travel 36 km upstream. How much time will the boat take to cover a distance of 90 km in still water?",
+      "options": [
+        "8 hours",
+        "10 hours",
+        "12 hours",
+        "9 hours"
+      ],
+      "answer": 1,
+      "explanation": "Downstream speed = Distance / Time = 48 / 4 = 12 km/h.\nUpstream speed = Distance / Time = 36 / 6 = 6 km/h.\nSpeed of the boat in still water = (Downstream speed + Upstream speed) / 2 = (12 + 6) / 2 = 9 km/h.\nTime taken to cover 90 km in still water = 90 / 9 = 10 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1787191158250-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper marked an article at 25% above its cost price. He sold it after offering two successive discounts of 20% and 12% on the marked price. If he incurred a loss of ₹132 on the transaction, what was the marked price of the article?",
+      "options": [
+        "₹1,375",
+        "₹1,250",
+        "₹1,100",
+        "₹1,500"
+      ],
+      "answer": 0,
+      "explanation": "Let the Cost Price (CP) of the article be 100x.\nMarked Price (MP) = 100x + 25% of 100x = 125x.\nPrice after the first discount of 20% = 125x × (1 - 0.20) = 125x × 0.80 = 100x.\nPrice after the second discount of 12% (Selling Price, SP) = 100x × (1 - 0.12) = 88x.\nLoss = CP - SP = 100x - 88x = 12x.\nGiven, 12x = ₹132 => x = 11.\nTherefore, Marked Price (MP) = 125x = 125 × 11 = ₹1,375."
+    },
+    {
+      "id": "sbi-clerk-ai-1787191294717-0",
+      "section": "English",
+      "topic": "Vocabulary / Single Fillers",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Choose the most appropriate word to fill in the blank and make the sentence meaningful:\n\n\"The central bank decided to ________ interest rates in an attempt to curb the rising inflation in the country.\"",
+      "options": [
+        "hike",
+        "demolish",
+        "neglect",
+        "surrender"
+      ],
+      "answer": 0,
+      "explanation": "The word 'hike' means to increase sharply or raise (prices, rates, taxes). Central banks typically hike interest rates to control inflation. 'Demolish' (destroy), 'neglect' (ignore), and 'surrender' (give up) are contextually incorrect."
+    },
+    {
+      "id": "sbi-clerk-ai-1787191294717-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, identify the segment that contains a grammatical error:\n\n\"Despite of several warnings (A) / from the regulatory board, (B) / the pharmaceutical firm continued (C) / to distribute unapproved medicines. (D)\"",
+      "options": [
+        "Despite of several warnings",
+        "from the regulatory board,",
+        "the pharmaceutical firm continued",
+        "to distribute unapproved medicines."
+      ],
+      "answer": 0,
+      "explanation": "The preposition 'despite' is never followed by 'of'. The correct phrase is either 'Despite several warnings' or 'In spite of several warnings'. Thus, segment (A) contains the error."
+    },
+    {
+      "id": "sbi-clerk-ai-1787191325771-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes & Insurance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the revised annual premium payable per member under the Pradhan Mantri Suraksha Bima Yojana (PMSBY)?",
+      "options": [
+        "₹12",
+        "₹20",
+        "₹330",
+        "₹436"
+      ],
+      "answer": 1,
+      "explanation": "Effective from June 1, 2022, the annual premium for the Pradhan Mantri Suraksha Bima Yojana (PMSBY) was revised from ₹12 to ₹20 per annum per subscriber.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787191325771-1",
+      "section": "General Awareness",
+      "topic": "Banking Legislation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which section of the Banking Regulation Act, 1949, is a company required to hold a license granted by the Reserve Bank of India to carry on banking business in India?",
+      "options": [
+        "Section 11",
+        "Section 21",
+        "Section 22",
+        "Section 35A"
+      ],
+      "answer": 2,
+      "explanation": "Section 22 of the Banking Regulation Act, 1949 mandates that no company shall carry on banking business in India unless it holds a license issued by the Reserve Bank of India.",
       "status": "pending"
     }
   ]

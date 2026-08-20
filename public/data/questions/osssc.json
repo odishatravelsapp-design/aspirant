@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10402,6 +10402,62 @@
             "ଏଚ୍. ବି. ଇମ୍ପେ"
           ],
           "explanation": "୧୮୬୬ ମସିହାର ଓଡ଼ିଶାର ଭୟାବହ ନଅଙ୍କ ଦୁର୍ଭିକ୍ଷ ସମୟରେ ଥୋମାସ୍ ଏଡୱାର୍ଡ ରେଭେନ୍ସା ଓଡ଼ିଶା (କଟକ) ଡିଭିଜନର କମିଶନର ଥିଲେ। ଏହି ଦୁର୍ଭିକ୍ଷ ପରେ ପ୍ରଶାସନିକ ତ୍ରୁଟିର ତଦନ୍ତ ପାଇଁ ବ୍ରିଟିଶ ସରକାର କ୍ୟାମ୍ପବେଲ କମିଶନ ଗଠନ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787192111257-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. Some pens are books.\n2. All books are pencils.\n3. No pencil is an eraser.\n\nConclusions:\nI. Some pens are pencils.\nII. No book is an eraser.\nIII. Some erasers are pens.",
+      "options": [
+        "Only conclusions I and II follow",
+        "Only conclusions I and III follow",
+        "Only conclusions II and III follow",
+        "All conclusions I, II and III follow"
+      ],
+      "answer": 0,
+      "explanation": "From statements 1 and 2: 'Some pens are books' and 'All books are pencils' implies that the portion of pens that are books are definitely pencils. Hence, Conclusion I ('Some pens are pencils') logically follows.\nFrom statements 2 and 3: 'All books are pencils' and 'No pencil is an eraser' means all books are inside the pencil circle, which has no intersection with eraser. Hence, Conclusion II ('No book is an eraser') definitely follows.\nConclusion III ('Some erasers are pens') cannot be definitely determined to be true. Thus, only conclusions I and II follow.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତି ଏବଂ ନିଷ୍କର୍ଷଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହ ପଢ଼ନ୍ତୁ। ବିବୃତିରେ ଥିବା ସୂଚନାକୁ ସତ୍ୟ ବୋଲି ଧରି, କେଉଁ ନିଷ୍କର୍ଷଟି ତାର୍କିକ ଭାବରେ ଅନୁସରଣ କରୁଛି ତାହା ସ୍ଥିର କରନ୍ତୁ।\n\nବିବୃତି:\n1. କିଛି pen ହେଉଛି book ।\n2. ସମସ୍ତ book ହେଉଛି pencil ।\n3. କୌଣସି pencil, eraser ନୁହେଁ ।\n\nନିଷ୍କର୍ଷ:\nI. କିଛି pen ହେଉଛି pencil ।\nII. କୌଣସି book, eraser ନୁହେଁ ।\nIII. କିଛି eraser ହେଉଛି pen ।",
+          "options": [
+            "କେବଳ ନିଷ୍କର୍ଷ I ଏବଂ II ଅନୁସରଣ କରେ",
+            "କେବଳ ନିଷ୍କର୍ଷ I ଏବଂ III ଅନୁସରଣ କରେ",
+            "କେବଳ ନିଷ୍କର୍ଷ II ଏବଂ III ଅନୁସରଣ କରେ",
+            "ସମସ୍ତ ନିଷ୍କର୍ଷ I, II ଏବଂ III ଅନୁସରଣ କରନ୍ତି"
+          ],
+          "explanation": "ବିବୃତି 1 ଓ 2 ରୁ: ଯେହେତୁ କିଛି pen ହେଉଛି book ଏବଂ ସମସ୍ତ book ହେଉଛି pencil, ତେଣୁ କିଛି pen ନିଶ୍ଚିତ ଭାବରେ pencil ହେବ (ନିଷ୍କର୍ଷ I ସତ୍ୟ)।\nବିବୃତି 2 ଓ 3 ରୁ: ଯେହେତୁ ସମସ୍ତ book, pencil ଅଟନ୍ତି ଏବଂ କୌଣସି pencil, eraser ନୁହେଁ, ତେଣୁ କୌଣସି book, eraser ହୋଇପାରିବ ନାହିଁ (ନିଷ୍କର୍ଷ II ସତ୍ୟ)।\nନିଷ୍କର୍ଷ III ନିଶ୍ଚିତ ନୁହେଁ। ତେଣୁ କେବଳ ନିଷ୍କର୍ଷ I ଏବଂ II ଅନୁସରଣ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787192111257-1",
+      "section": "Reasoning",
+      "topic": "Calendar",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "If 15th August 2011 was a Monday, what day of the week was 15th August 2018?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "answer": 1,
+      "explanation": "Number of years from 15th August 2011 to 15th August 2018 = 7 years.\nLeap years in this period are 2012 and 2016 (2 leap years).\nOrdinary years = 7 - 2 = 5 years.\nTotal number of odd days = (5 × 1) + (2 × 2) = 5 + 4 = 9 odd days.\n9 divided by 7 gives a remainder of 2 odd days.\nMonday + 2 days = Wednesday.\nTherefore, 15th August 2018 was a Wednesday.",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ୧୫ ଅଗଷ୍ଟ ୨୦୧୧ ସୋମବାର ଥିଲା, ତେବେ ୧୫ ଅଗଷ୍ଟ ୨୦୧୮ ସପ୍ତାହର କେଉଁ ଦିନ ଥିଲା?",
+          "options": [
+            "ମଙ୍ଗଳବାର",
+            "ବୁଧବାର",
+            "ଗୁରୁବାର",
+            "ଶୁକ୍ରବାର"
+          ],
+          "explanation": "୧୫ ଅଗଷ୍ଟ ୨୦୧୧ ରୁ ୧୫ ଅଗଷ୍ଟ ୨୦୧୮ ମଧ୍ୟରେ ବର୍ଷ ସଂଖ୍ୟା = ୭ ବର୍ଷ।\nଏହି ସମୟ ମଧ୍ୟରେ ଅଧିବର୍ଷ (Leap years) ହେଉଛି ୨୦୧୨ ଏବଂ ୨୦୧୬ (୨ ଟି)।\nସାଧାରଣ ବର୍ଷ = ୭ - ୨ = ୫ ଟି।\nଅତିରିକ୍ତ ଦିନ (Odd days) ସଂଖ୍ୟା = (୫ × ୧) + (୨ × ୨) = ୫ + ୪ = ୯ ଦିନ।\n୯ କୁ ୭ ଦ୍ୱାରା ଭାଗ କଲେ ଭାଗଶେଷ ୨ ରହେ (୨ odd days)।\nସୋମବାର + ୨ ଦିନ = ବୁଧବାର।\nତେଣୁ, ୧୫ ଅଗଷ୍ଟ ୨୦୧୮ ବୁଧବାର ଥିଲା।"
         }
       }
     }
