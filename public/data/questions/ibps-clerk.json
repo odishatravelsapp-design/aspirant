@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9286,6 +9286,104 @@
       ],
       "answer": 0,
       "explanation": "Section 7(1) of the Reserve Bank of India Act, 1934 empowers the Central Government to give such directions to the Bank as it may, after consultation with the Governor of the Bank, consider necessary in the public interest.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787277893658-0",
+      "section": "Quant",
+      "topic": "Compound Interest",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A sum of ₹8,000 is invested at 10% per annum compound interest, compounded annually. What is the compound interest earned at the end of 2 years?",
+      "options": [
+        "₹1,600",
+        "₹1,680",
+        "₹1,720",
+        "₹1,640"
+      ],
+      "answer": 1,
+      "explanation": "Amount after 2 years = P × (1 + R/100)^t = 8000 × (1 + 10/100)^2 = 8000 × (1.1)^2 = 8000 × 1.21 = ₹9,680. \nCompound Interest = Amount - Principal = 9,680 - 8,000 = ₹1,680."
+    },
+    {
+      "id": "ibps-clerk-ai-1787277893658-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Pipe A and Pipe B can fill an empty tank in 12 hours and 16 hours respectively. Pipe C is an emptying pipe that can empty the full tank in 24 hours. Pipe A and Pipe B are opened together, but after 4 hours Pipe A is closed and Pipe C is opened. How much more time (in hours) will it take to fill the remaining part of the tank?",
+      "options": [
+        "16 hours",
+        "18 hours",
+        "20 hours",
+        "22 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let total capacity = LCM(12, 16, 24) = 48 units.\nEfficiency of A = 48 / 12 = 4 units/hr\nEfficiency of B = 48 / 16 = 3 units/hr\nEfficiency of C = -48 / 24 = -2 units/hr\n\nWork done by A and B in 4 hours = (4 + 3) × 4 = 28 units.\nRemaining work = 48 - 28 = 20 units.\n\nNow A is closed, and B and C operate together.\nCombined efficiency of B and C = 3 - 2 = 1 unit/hr.\nTime required to fill remaining tank = 20 / 1 = 20 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1787277952504-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the question below, some statements are given followed by two conclusions numbered I and II. Assuming the statements to be true, determine which of the conclusions logically follow(s).\n\nStatements:\nAll Apples are Bananas.\nNo Banana is a Cherry.\nSome Cherries are Dates.\n\nConclusions:\nI. No Apple is a Cherry.\nII. Some Dates are not Bananas.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "1. All Apples are inside Bananas, and no Banana is a Cherry. Since the whole set of Apples is inside Bananas, no Apple can ever be a Cherry. Hence, conclusion I logically follows.\n2. Some Cherries are Dates, and no Cherry can be a Banana. The specific portion of Dates that is Cherry can never be Banana. Therefore, some Dates are definitely not Bananas. Hence, conclusion II also follows.\nThus, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-clerk-ai-1787277952504-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – P, Q, R, S, T, U, V, and W – are sitting in a single row facing North, but not necessarily in the same order.\n- P sits third from the right end of the row.\n- Only two persons sit between P and S.\n- T sits second to the left of S.\n- Only two persons sit between T and U.\n- W sits at an extreme end and V sits to the immediate left of W.\n- R sits to the immediate right of U.\n- Q sits at one of the positions to the left of S.\n\nWho sits third to the right of Q?",
+      "options": [
+        "U",
+        "R",
+        "P",
+        "S"
+      ],
+      "answer": 1,
+      "explanation": "Placing persons from left to right in positions 1 to 8:\n1. P is third from the right end → P is at position 6.\n2. Two persons sit between P and S → S is at position 3.\n3. T sits second to the left of S → T is at position 1.\n4. Two persons sit between T and U → U is at position 4.\n5. W sits at an extreme end with V to its immediate left → W is at position 8 and V is at position 7.\n6. R sits to the immediate right of U → R is at position 5.\n7. Q occupies the remaining position → Q is at position 2.\n\nThe complete arrangement from left to right (1 to 8) is: T, Q, S, U, R, P, V, W.\nThird to the right of Q (position 2) is the person at position 5, which is R."
+    },
+    {
+      "id": "ibps-clerk-ai-1787278099353-0",
+      "section": "General Awareness",
+      "topic": "Banking Terminology",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What does the acronym 'RTGS' stand for in the Indian banking system?",
+      "options": [
+        "Real Time Gross Settlement",
+        "Real Transaction Guaranteed Scheme",
+        "Rapid Transfer Gross System",
+        "Real Term General Settlement"
+      ],
+      "answer": 0,
+      "explanation": "RTGS stands for Real Time Gross Settlement. It refers to a continuous (real-time) settlement of fund transfers individually on an order-by-order basis (without netting) across the books of the Reserve Bank of India.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787278099353-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Acts",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which section of the Banking Regulation Act, 1949 empowers the Reserve Bank of India (RBI) to conduct inspections of banking companies and their books and accounts?",
+      "options": [
+        "Section 22",
+        "Section 35",
+        "Section 45",
+        "Section 18"
+      ],
+      "answer": 1,
+      "explanation": "Section 35 of the Banking Regulation Act, 1949 gives the Reserve Bank of India the power to inspect any banking company and its books and accounts at any time.",
       "status": "pending"
     }
   ]
