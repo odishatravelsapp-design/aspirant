@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9384,6 +9384,136 @@
       ],
       "answer": 1,
       "explanation": "Section 35 of the Banking Regulation Act, 1949 gives the Reserve Bank of India the power to inspect any banking company and its books and accounts at any time.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787363775030-0",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A retailer offers two successive discounts of 15% and 20% on the marked price of an article. If the final selling price of the article is ₹1,632, what is the marked price of the article?",
+      "options": [
+        "₹2,200",
+        "₹2,400",
+        "₹2,500",
+        "₹2,650"
+      ],
+      "answer": 1,
+      "explanation": "Single equivalent discount for two successive discounts of 15% and 20% = 15 + 20 - (15 × 20)/100 = 35 - 3 = 32%.\nTherefore, Selling Price = (100 - 32)% of Marked Price = 68% of Marked Price.\n68% of Marked Price = ₹1,632\nMarked Price = (1632 / 68) × 100 = ₹2,400."
+    },
+    {
+      "id": "ibps-clerk-ai-1787363775030-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The difference between the compound interest (compounded annually) and the simple interest on a certain sum of money for 3 years at the rate of 15% per annum is ₹1,134. What is the principal sum?",
+      "options": [
+        "₹16,000",
+        "₹18,000",
+        "₹15,000",
+        "₹14,500"
+      ],
+      "answer": 0,
+      "explanation": "The formula for the difference between CI and SI for 3 years is:\nDifference = P × (r/100)² × (300 + r)/100\nGiven, Difference = ₹1,134 and r = 15%:\n1134 = P × (15/100)² × (300 + 15)/100\n1134 = P × (9/400) × (315/100)\n1134 = P × (9/400) × (63/20)\n1134 = P × (567/8000)\nP = (1134 × 8000) / 567\nP = 2 × 8000 = ₹16,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1787363848149-0",
+      "section": "Reasoning",
+      "topic": "Inequalities",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statement to be true, find which of the conclusions is/are definitely true.\n\nStatement: P ≥ Q > R = S ≤ T < U\n\nConclusions:\nI. P > S\nII. R < U",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Either conclusion I or II is true",
+        "Both conclusions I and II are true"
+      ],
+      "answer": 3,
+      "explanation": "From the given statement:\n1. P ≥ Q > R = S: Since P > R and R = S, we clearly get P > S. Hence, Conclusion I is true.\n2. R = S ≤ T < U: Substituting R for S, we get R ≤ T < U, which gives R < U. Hence, Conclusion II is also true.\nTherefore, both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-clerk-ai-1787363848149-1",
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A man starts walking from Point A towards North. After walking 15 meters, he reaches Point B, then takes a right turn and walks 10 meters to reach Point C. From Point C, he takes a right turn and walks 7 meters to reach Point D. He then takes a left turn and walks 6 meters to reach Point E. Finally, he turns left and walks 7 meters to reach Point F. What is the shortest distance between Point B and Point F, and in which direction is Point F with respect to Point B?",
+      "options": [
+        "16 m, East",
+        "16 m, West",
+        "20 m, North-East",
+        "12 m, East"
+      ],
+      "answer": 0,
+      "explanation": "Let Point A be at coordinates (0, 0):\n- Point B is 15 m North of A -> B = (0, 15)\n- Point C is 10 m East of B -> C = (10, 15)\n- Point D is 7 m South of C -> D = (10, 8)\n- Point E is 6 m East of D -> E = (16, 8)\n- Point F is 7 m North of E -> F = (16, 15)\n\nComparing Point B (0, 15) and Point F (16, 15):\n- The vertical level (y-coordinate) is the same (15 m).\n- The horizontal distance is 16 - 0 = 16 m along the positive X-axis (East).\nThus, Point F is 16 m East of Point B."
+    },
+    {
+      "id": "ibps-clerk-ai-1787363891366-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that best expresses the meaning of the idiom 'burn the candle at both ends'.",
+      "options": [
+        "To spend money recklessly without saving for emergencies",
+        "To work extremely hard from early in the morning until late at night",
+        "To create severe conflict between two friendly groups",
+        "To undertake a journey without any adequate preparation"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'burn the candle at both ends' means to exhaust oneself by doing too much, especially by working very late into the night and getting up early in the morning."
+    },
+    {
+      "id": "ibps-clerk-ai-1787363891366-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the alternative that best replaces the bold segment in the sentence: 'Hardly had the manager entered the conference hall **than the fire alarm started ringing**.'",
+      "options": [
+        "when the fire alarm started ringing",
+        "then the fire alarm started ringing",
+        "while the fire alarm had started ringing",
+        "No improvement required"
+      ],
+      "answer": 0,
+      "explanation": "The correlative conjunction 'Hardly... when' is used to show that one event happened immediately after another. 'Hardly' is paired with 'when', not 'than' (which is paired with 'No sooner'). Therefore, 'when the fire alarm started ringing' is the correct phrasing."
+    },
+    {
+      "id": "ibps-clerk-ai-1787363997548-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes & Social Security",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the maximum entry age limit for an individual subscriber to join the Atal Pension Yojana (APY)?",
+      "options": [
+        "40 years",
+        "50 years",
+        "55 years",
+        "60 years"
+      ],
+      "answer": 0,
+      "explanation": "The Atal Pension Yojana (APY) is open to all Indian citizens aged between 18 and 40 years having a savings bank account. Hence, the maximum entry age is 40 years.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787363997548-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Licensing",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India (RBI) guidelines, what is the minimum paid-up voting equity capital required to establish a Payments Bank in India?",
+      "options": [
+        "₹50 crore",
+        "₹100 crore",
+        "₹200 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines for licensing of Payments Banks, the minimum paid-up equity capital for setting up a Payments Bank is ₹100 crore, of which the promoter must contribute at least 40% for the first five years.",
       "status": "pending"
     }
   ]

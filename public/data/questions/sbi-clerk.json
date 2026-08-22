@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8906,6 +8906,38 @@
       ],
       "answer": 0,
       "explanation": "When a sentence begins with negative or restrictive adverbs like 'Not only', subject-auxiliary inversion is required. Furthermore, the auxiliary verb 'did' must be followed by the base/root form of the main verb (V1), which is 'reject', not 'rejected'. Therefore, 'did the board members reject the proposal' is the grammatically correct replacement."
+    },
+    {
+      "id": "sbi-clerk-ai-1787364248882-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Read the following information carefully and answer the question:\n• P is the brother of Q.\n• R is the father of P.\n• S is the sister of T.\n• T is the daughter of Q.\n• U is the wife of R.\n\nHow is S related to P?",
+      "options": [
+        "Niece",
+        "Nephew",
+        "Daughter",
+        "Sister"
+      ],
+      "answer": 0,
+      "explanation": "P and Q are children of R (father) and U (mother). T is the daughter of Q, and S is the sister of T, which means S is also the daughter of Q. Since P is the brother of Q, P is the uncle of S, and S is the niece of P."
+    },
+    {
+      "id": "sbi-clerk-ai-1787364248882-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, three statements are given followed by two conclusions numbered I and II. Assuming the given statements to be true even if they seem to be at variance with commonly known facts, decide which of the conclusion(s) logically follow(s).\n\nStatements:\nOnly a few apples are mangoes.\nAll mangoes are grapes.\nNo grape is an orange.\n\nConclusions:\nI. Some apples are not oranges.\nII. All apples can be mangoes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 0,
+      "explanation": "1. 'Only a few apples are mangoes' implies: (i) Some apples are mangoes, and (ii) Some apples are not mangoes. Since some apples are mangoes, and all mangoes are grapes, those apples are grapes. Since no grape is an orange, those apples can never be oranges. Therefore, 'Some apples are not oranges' is definitely true. Conclusion I follows.\n2. Since 'Only a few apples are mangoes' strictly means some apples are not mangoes, it is impossible for all apples to be mangoes. Thus, Conclusion II does not follow."
     }
   ]
 }
