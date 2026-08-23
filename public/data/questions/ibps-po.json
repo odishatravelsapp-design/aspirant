@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8285,6 +8285,136 @@
       ],
       "answer": 1,
       "explanation": "Part (B) contains a grammatical error involving the mandative subjunctive mood. When verbs of demand, requirement, recommendation, or mandate (e.g., 'mandated that') introduce a subordinate clause, the base form (bare infinitive) of the verb must be used regardless of the subject's number or tense. Hence, 'submits' must be corrected to the subjunctive base form 'submit'."
+    },
+    {
+      "id": "ibps-po-ai-1787451035176-0",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Excluding stoppages, the average speed of a bus is 60 km/h, and including stoppages, it is 48 km/h. For how many minutes does the bus stop per hour?",
+      "options": [
+        "10 minutes",
+        "12 minutes",
+        "15 minutes",
+        "8 minutes"
+      ],
+      "answer": 1,
+      "explanation": "Stoppage time per hour = [(Speed without stoppage - Speed with stoppage) / Speed without stoppage] × 60 minutes = [(60 - 48) / 60] × 60 = (12 / 60) × 60 = 12 minutes."
+    },
+    {
+      "id": "ibps-po-ai-1787451035176-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A merchant bought 150 kg of wheat at Rs. 30 per kg. He sold 40% of the total wheat at a profit of 15%, 30% of the remaining at a loss of 10%, and the rest at a profit of 25%. What is his overall profit percentage on the entire transaction?",
+      "options": [
+        "12.5%",
+        "13.8%",
+        "14.7%",
+        "15.2%"
+      ],
+      "answer": 2,
+      "explanation": "Let the total quantity be 100%:\n1. First part: 40% of total sold at +15% profit → Contribution = 0.40 × 15% = +6.0%\n2. Second part: 30% of remaining (60%) = 18% of total sold at -10% loss → Contribution = 0.18 × (-10%) = -1.8%\n3. Third part: Remaining = 100% - (40% + 18%) = 42% sold at +25% profit → Contribution = 0.42 × 25% = +10.5%\n\nOverall profit percentage = +6.0% - 1.8% + 10.5% = 14.7%."
+    },
+    {
+      "id": "ibps-po-ai-1787451046621-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, determine which of the conclusions logically follow(s):\n\nStatements:\nOnly a few Laptops are Mobiles.\nAll Mobiles are Tablets.\nNo Tablet is a Charger.\nSome Chargers are Cables.\n\nConclusions:\nI. Some Cables are not Tablets.\nII. All Laptops being Tablets is a possibility.\nIII. No Mobile is a Charger.",
+      "options": [
+        "Only Conclusion I and II follow",
+        "Only Conclusion II and III follow",
+        "Only Conclusion I and III follow",
+        "All Conclusions I, II and III follow"
+      ],
+      "answer": 3,
+      "explanation": "1. For Conclusion I: Since 'Some Chargers are Cables' and 'No Tablet is a Charger', the portion of Cables that are Chargers can never be Tablets. Hence, 'Some Cables are not Tablets' definitely follows.\n2. For Conclusion II: 'Only a few Laptops are Mobiles' means all Laptops cannot be Mobiles, but there is no restriction preventing all Laptops from being Tablets as long as Mobiles remain a proper subset. Thus, it is a valid possibility.\n3. For Conclusion III: Since all Mobiles are Tablets and no Tablet is a Charger, no Mobile can ever be a Charger. Hence, Conclusion III definitely follows.\nTherefore, all Conclusions I, II and III follow."
+    },
+    {
+      "id": "ibps-po-ai-1787451046621-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following passage and answer the question that follows:\n\nDespite a record harvest of pulses in the country this fiscal year, domestic retail prices have surged by nearly 25%. Market analysts attribute this paradox primarily to the hoarding of stocks by large intermediary wholesale traders, combined with an unexpected hike in inter-state freight transportation costs. In response, the ministry is considering imposing strict stock-holding limits on wholesale traders and subsidizing state-level transit logistics.\n\nWhich of the following, if true, most strongly supports the effectiveness of the ministry's proposed plan in bringing down retail pulse prices?",
+      "options": [
+        "International market prices of pulses have dropped significantly, making imported pulses cheaper than domestic yield.",
+        "Wholesale traders currently hold over 40% of the total harvested stock in private warehouses, artificially restricting supply to local retailers.",
+        "The central government had previously eliminated customs duties on pulse imports to stabilize retail price volatility.",
+        "Several small retail shopkeepers have already begun purchasing pulses directly from farmers, bypassing wholesale intermediaries."
+      ],
+      "answer": 1,
+      "explanation": "The ministry's plan specifically targets stock hoarding by wholesale traders and transit costs. Option B directly provides evidence that a substantial portion (over 40%) of the crop is locked up by wholesale traders; thus, imposing stock-holding limits will legally mandate them to release this inventory into the open market, directly relieving the artificial shortage and driving down retail prices. Option A and C address imports rather than the efficacy of the domestic policy proposal. Option D suggests that intermediaries are already being bypassed, which slightly diminishes the relevance of the wholesale intervention rather than supporting it."
+    },
+    {
+      "id": "ibps-po-ai-1787451060587-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that best fits in the blanks to make the sentence contextually and grammatically meaningful.\n\nAlthough several emerging economies experienced sharp capital __________ following global interest rate hikes, their domestic banking systems exhibited remarkable __________ due to strengthened regulatory capital buffers.",
+      "options": [
+        "outflows, resilience",
+        "inflows, vulnerability",
+        "flight, fragility",
+        "stagnation, fortitude"
+      ],
+      "answer": 0,
+      "explanation": "The conjunction 'Although' introduces a contrast between an adverse financial condition (capital outflows/flight caused by global rate hikes) and a positive outcome (banking systems showing endurance/resilience). 'Outflows' and 'resilience' provide the exact contextual fit."
+    },
+    {
+      "id": "ibps-po-ai-1787451060587-1",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the sentence below to identify the part that contains a grammatical error.\n\nThe regulatory framework mandates that every scheduled commercial bank (A) / maintains a minimum liquidity coverage ratio (B) / and submit its compliance audit report (C) / to the central authority on a quarterly basis. (D)",
+      "options": [
+        "The regulatory framework mandates that every scheduled commercial bank",
+        "maintains a minimum liquidity coverage ratio",
+        "and submit its compliance audit report",
+        "to the central authority on a quarterly basis."
+      ],
+      "answer": 1,
+      "explanation": "Verbs expressing a command, demand, or mandate (like 'mandate that') trigger the present subjunctive mood in standard English, which requires the bare infinitive/base form of the verb without '-s'. Therefore, 'maintains' in part (B) should be replaced with 'maintain', which also aligns in parallel with 'submit' in part (C)."
+    },
+    {
+      "id": "ibps-po-ai-1787451071164-0",
+      "section": "General Awareness",
+      "topic": "Reserve Bank of India Act & Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under Section 42(1) of the Reserve Bank of India Act, 1934, every Scheduled Commercial Bank is required to maintain a minimum average daily balance of Cash Reserve Ratio (CRR) with the RBI, which is calculated as a specified percentage of its:",
+      "options": [
+        "Net Demand and Time Liabilities (NDTL)",
+        "Total Risk-Weighted Assets (RWA)",
+        "Total Tier-1 and Tier-2 Capital",
+        "Gross Advances and Investment Portfolio"
+      ],
+      "answer": 0,
+      "explanation": "As per Section 42(1) of the Reserve Bank of India Act, 1934, scheduled commercial banks are mandated to maintain Cash Reserve Ratio (CRR) as an average daily balance with the RBI, determined as a percentage of their Net Demand and Time Liabilities (NDTL).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1787451071164-1",
+      "section": "General Awareness",
+      "topic": "Payment Systems & Financial Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India's directions, the 20-digit Legal Entity Identifier (LEI) code is mandatory for non-individual entities initiating or receiving transactions through Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT) of what minimum value?",
+      "options": [
+        "₹10 crore and above",
+        "₹25 crore and above",
+        "₹50 crore and above",
+        "₹100 crore and above"
+      ],
+      "answer": 2,
+      "explanation": "Effective from April 1, 2021, the RBI introduced the Legal Entity Identifier (LEI) system for all payment transactions of ₹50 crore and above undertaken by non-individual entities through RTGS and NEFT centralized payment systems.",
+      "status": "pending"
     }
   ]
 }

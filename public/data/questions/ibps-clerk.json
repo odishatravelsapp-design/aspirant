@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9514,6 +9514,136 @@
       ],
       "answer": 1,
       "explanation": "According to the RBI guidelines for licensing of Payments Banks, the minimum paid-up equity capital for setting up a Payments Bank is ₹100 crore, of which the promoter must contribute at least 40% for the first five years.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787450836576-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present ages of Amit and Sunita are in the ratio 5 : 4. Six years ago, the ratio of their ages was 4 : 3. What will be the sum of their ages 4 years hence?",
+      "options": [
+        "58 years",
+        "60 years",
+        "62 years",
+        "66 years"
+      ],
+      "answer": 2,
+      "explanation": "Let the present ages of Amit and Sunita be 5x and 4x respectively.\nAccording to the question:\n(5x - 6) / (4x - 6) = 4 / 3\n=> 3(5x - 6) = 4(4x - 6)\n=> 15x - 18 = 16x - 24\n=> x = 6\n\nPresent age of Amit = 5 × 6 = 30 years\nPresent age of Sunita = 4 × 6 = 24 years\nSum of their present ages = 30 + 24 = 54 years\n\nSum of their ages 4 years hence = 54 + (2 × 4) = 62 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1787450836576-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A container contains 90 liters of pure milk. From this container, 18 liters of milk is taken out and replaced with water. This process is repeated one more time. What is the ratio of milk to water in the container finally?",
+      "options": [
+        "16 : 9",
+        "9 : 16",
+        "16 : 25",
+        "25 : 9"
+      ],
+      "answer": 0,
+      "explanation": "Initial quantity of milk = 90 liters\nFraction of liquid removed each time = 18 / 90 = 1 / 5\nFraction of milk remaining after 2 operations = (1 - 1/5)^2 = (4/5)^2 = 16 / 25\n\nTherefore, final quantity of milk = (16 / 25) × 90 = 57.6 liters\nFinal quantity of water = 90 - 57.6 = 32.4 liters\n\nRatio of milk to water = 57.6 : 32.4 = 576 : 324 = 16 : 9."
+    },
+    {
+      "id": "ibps-clerk-ai-1787450870224-0",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements:\nP ≥ Q > R = S ≤ T; U < R ≥ V\n\nConclusions:\nI. P > V\nII. T ≥ V",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Neither conclusion I nor II is true",
+        "Both conclusions I and II are true"
+      ],
+      "answer": 3,
+      "explanation": "Combining the relevant elements:\n1. For conclusion I: P ≥ Q > R ≥ V. Since there is a strictly greater symbol ('>') between P and V, P > V is definitely true.\n2. For conclusion II: T ≥ S = R ≥ V, which simplifies to T ≥ R ≥ V. Therefore, T ≥ V is definitely true.\nHence, both conclusions I and II are true."
+    },
+    {
+      "id": "ibps-clerk-ai-1787450870224-1",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following information carefully and answer the question given below:\n\nIn a family of seven members – A, B, C, D, E, F, and G – there are three generations and two married couples.\n- E is the paternal grandfather of A.\n- D is the mother-in-law of C.\n- B is the brother of G, who is an unmarried female.\n- C is the mother of F, who is the sister of A.\n- A is the only grandson of E.\n\nHow is G related to F?",
+      "options": [
+        "Maternal Aunt",
+        "Paternal Aunt",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 1,
+      "explanation": "From the given clues:\n1. E is the paternal grandfather of A and D is married to E, making D the paternal grandmother.\n2. D is the mother-in-law of C, and B is the father of A and F. Thus, B and C are married.\n3. G is the unmarried sister of B.\n4. Since B is the father of F and G is the sister of B, G is the paternal aunt (father's sister) of F."
+    },
+    {
+      "id": "ibps-clerk-ai-1787450880168-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Read the following sentence to identify the segment that contains a grammatical error:\n\n'Scarcely had the train (A) / arrived at the platform (B) / than the passengers rushed (C) / towards the unreserved coaches. (D)'",
+      "options": [
+        "Scarcely had the train",
+        "arrived at the platform",
+        "than the passengers rushed",
+        "towards the unreserved coaches"
+      ],
+      "answer": 2,
+      "explanation": "The conjunction 'scarcely' is always paired with 'when' or 'before', not 'than'. 'Than' is used with 'no sooner'. Therefore, segment (C) should be 'when the passengers rushed'."
+    },
+    {
+      "id": "ibps-clerk-ai-1787450880168-1",
+      "section": "English",
+      "topic": "Sentence Completion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the most appropriate word to fill in the blank to make the sentence grammatically and contextually meaningful:\n\nThe auditor pointed out that the company's financial records were completely ________, making it nearly impossible to trace the origin of the unaccounted funds.",
+      "options": [
+        "transparent",
+        "convoluted",
+        "lucid",
+        "rudimentary"
+      ],
+      "answer": 1,
+      "explanation": "'Convoluted' means extremely complex, intricate, and difficult to follow, which fits the context of being 'nearly impossible to trace'. 'Transparent' and 'lucid' mean clear and easy to understand, while 'rudimentary' means basic."
+    },
+    {
+      "id": "ibps-clerk-ai-1787450890134-0",
+      "section": "General Awareness",
+      "topic": "Banking History & Institutions",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In which year was the National Bank for Agriculture and Rural Development (NABARD) established on the recommendations of the B. Sivaraman Committee?",
+      "options": [
+        "1975",
+        "1982",
+        "1988",
+        "1992"
+      ],
+      "answer": 1,
+      "explanation": "NABARD was established on July 12, 1982, under the National Bank for Agriculture and Rural Development Act, 1981, following the recommendations of the B. Sivaraman Committee.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787450890134-1",
+      "section": "General Awareness",
+      "topic": "Financial & Banking Codes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The Legal Entity Identifier (LEI), mandated by the Reserve Bank of India for large-value financial transactions, consists of how many alphanumeric characters?",
+      "options": [
+        "16 characters",
+        "18 characters",
+        "20 characters",
+        "24 characters"
+      ],
+      "answer": 2,
+      "explanation": "The Legal Entity Identifier (LEI) is a 20-character alphanumeric code based on the ISO 17442 standard, used to uniquely identify distinct legal entities participating in global financial transactions.",
       "status": "pending"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10458,6 +10458,62 @@
             "ଶୁକ୍ରବାର"
           ],
           "explanation": "୧୫ ଅଗଷ୍ଟ ୨୦୧୧ ରୁ ୧୫ ଅଗଷ୍ଟ ୨୦୧୮ ମଧ୍ୟରେ ବର୍ଷ ସଂଖ୍ୟା = ୭ ବର୍ଷ।\nଏହି ସମୟ ମଧ୍ୟରେ ଅଧିବର୍ଷ (Leap years) ହେଉଛି ୨୦୧୨ ଏବଂ ୨୦୧୬ (୨ ଟି)।\nସାଧାରଣ ବର୍ଷ = ୭ - ୨ = ୫ ଟି।\nଅତିରିକ୍ତ ଦିନ (Odd days) ସଂଖ୍ୟା = (୫ × ୧) + (୨ × ୨) = ୫ + ୪ = ୯ ଦିନ।\n୯ କୁ ୭ ଦ୍ୱାରା ଭାଗ କଲେ ଭାଗଶେଷ ୨ ରହେ (୨ odd days)।\nସୋମବାର + ୨ ଦିନ = ବୁଧବାର।\nତେଣୁ, ୧୫ ଅଗଷ୍ଟ ୨୦୧୮ ବୁଧବାର ଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787451084725-0",
+      "section": "Arithmetic",
+      "topic": "Boats and Streams",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A boat covers 24 km upstream and 28 km downstream in 6 hours. It also covers 30 km upstream and 21 km downstream in 6.5 hours. What is the speed of the boat in still water?",
+      "options": [
+        "8 km/h",
+        "10 km/h",
+        "12 km/h",
+        "14 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let upstream speed be u and downstream speed be v. From the problem:\n24/u + 28/v = 6\n30/u + 21/v = 6.5\n\nMultiplying the first equation by 3 and the second by 4:\n72/u + 84/v = 18\n120/u + 84/v = 26\n\nSubtracting the first from the second:\n48/u = 8 => u = 6 km/h.\nSubstituting u = 6 into 24/6 + 28/v = 6:\n4 + 28/v = 6 => 28/v = 2 => v = 14 km/h.\n\nSpeed of boat in still water = (u + v) / 2 = (6 + 14) / 2 = 10 km/h.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ଡଙ୍ଗା ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୨୪ କିମି ଏବଂ ସ୍ରୋତର ଅନୁକୂଳରେ ୨୮ କିମି ଯିବାକୁ ୬ ଘଣ୍ଟା ସମୟ ନିଏ। ଏହା ସ୍ରୋତର ପ୍ରତିକୂଳରେ ୩୦ କିମି ଏବଂ ଅନୁକୂଳରେ ୨୧ କିମି ଯିବାକୁ ୬.୫ ଘଣ୍ଟା ସମୟ ନିଏ। ସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ କେତେ?",
+          "options": [
+            "8 କିମି/ଘଣ୍ଟା",
+            "10 କିମି/ଘଣ୍ଟା",
+            "12 କିମି/ଘଣ୍ଟା",
+            "14 କିମି/ଘଣ୍ଟା"
+          ],
+          "explanation": "ଧରାଯାଉ ପ୍ରତିକୂଳ ବେଗ u ଏବଂ ଅନୁକୂଳ ବେଗ v।\n୨୪/u + ୨୮/v = ୬\n୩୦/u + ୨୧/v = ୬.୫\nଏହାକୁ ସମାଧାନ କଲେ u = ୬ କିମି/ଘଣ୍ଟା ଏବଂ v = ୧୪ କିମି/ଘଣ୍ଟା ମିଳେ।\nସ୍ଥିର ଜଳରେ ଡଙ୍ଗାର ବେଗ = (u + v) / ୨ = (୬ + ୧୪) / ୨ = ୧୦ କିମି/ଘଣ୍ଟା।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1787451084725-1",
+      "section": "Arithmetic",
+      "topic": "Average",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+      "options": [
+        "75 kg",
+        "80 kg",
+        "85 kg",
+        "90 kg"
+      ],
+      "answer": 2,
+      "explanation": "Total increase in weight = 8 × 2.5 = 20 kg.\nWeight of the new person = Weight of the replaced person + Total increase = 65 + 20 = 85 kg.",
+      "translations": {
+        "or": {
+          "question": "୮ ଜଣ ବ୍ୟକ୍ତିଙ୍କ ମଧ୍ୟରୁ ୬୫ କିଗ୍ରା ଓଜନ ବିଶିଷ୍ଟ ଜଣେ ବ୍ୟକ୍ତିଙ୍କ ସ୍ଥାନରେ ଜଣେ ନୂତନ ବ୍ୟକ୍ତି ଆସିବା ଫଳରେ ସେମାନଙ୍କର ହାରାହାରି ଓଜନ ୨.୫ କିଗ୍ରା ବୃଦ୍ଧି ପାଏ। ନୂତନ ବ୍ୟକ୍ତିଙ୍କ ଓଜନ କେତେ?",
+          "options": [
+            "75 କିଗ୍ରା",
+            "80 କିଗ୍ରା",
+            "85 କିଗ୍ରା",
+            "90 କିଗ୍ରା"
+          ],
+          "explanation": "ମୋଟ ଓଜନରେ ବୃଦ୍ଧି = ୮ × ୨.୫ = ୨୦ କିଗ୍ରା।\nନୂତନ ବ୍ୟକ୍ତିଙ୍କ ଓଜନ = ପ୍ରତିସ୍ଥାପିତ ବ୍ୟକ୍ତିଙ୍କ ଓଜନ + ମୋଟ ବୃଦ୍ଧି = ୬୫ + ୨୦ = ୮୫ କିଗ୍ରା।"
         }
       }
     }

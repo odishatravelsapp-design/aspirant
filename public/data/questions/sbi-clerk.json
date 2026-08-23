@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -8938,6 +8938,136 @@
       ],
       "answer": 0,
       "explanation": "1. 'Only a few apples are mangoes' implies: (i) Some apples are mangoes, and (ii) Some apples are not mangoes. Since some apples are mangoes, and all mangoes are grapes, those apples are grapes. Since no grape is an orange, those apples can never be oranges. Therefore, 'Some apples are not oranges' is definitely true. Conclusion I follows.\n2. Since 'Only a few apples are mangoes' strictly means some apples are not mangoes, it is impossible for all apples to be mangoes. Thus, Conclusion II does not follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450939230-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following question?\n(45% of 640) + (35% of 420) - ? = 185",
+      "options": [
+        "240",
+        "250",
+        "260",
+        "275"
+      ],
+      "answer": 1,
+      "explanation": "Step 1: Calculate 45% of 640 = (45/100) × 640 = 288.\nStep 2: Calculate 35% of 420 = (35/100) × 420 = 147.\nStep 3: Add the two results: 288 + 147 = 435.\nStep 4: Solve for ?: 435 - ? = 185 => ? = 435 - 185 = 250."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450939230-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A container contains 120 litres of pure alcohol. A person withdraws 30 litres of alcohol and replaces it with water. Then, he withdraws 40 litres of the mixture and replaces it with water. Finally, he withdraws 60 litres of the mixture and replaces it with water. What is the final quantity of pure alcohol remaining in the container?",
+      "options": [
+        "25 litres",
+        "30 litres",
+        "36 litres",
+        "40 litres"
+      ],
+      "answer": 1,
+      "explanation": "Using the successive replacement formula:\nFinal quantity of alcohol = Initial quantity × (1 - x1/V) × (1 - x2/V) × (1 - x3/V)\nWhere V = 120 litres, x1 = 30 litres, x2 = 40 litres, and x3 = 60 litres.\nFinal alcohol = 120 × (1 - 30/120) × (1 - 40/120) × (1 - 60/120)\n= 120 × (3/4) × (2/3) × (1/2)\n= 120 × (6/24)\n= 120 × (1/4) = 30 litres."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450962370-0",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – P, Q, R, S, T, U, and V – live on seven different floors of a building, where the ground floor is numbered 1, the floor immediately above it is numbered 2, and so on up to the topmost floor numbered 7.\n• P lives on an even-numbered floor.\n• Exactly three persons live between P and Q, where Q lives on a floor above P.\n• R lives immediately above S, who lives on an odd-numbered floor.\n• T lives on a floor above V, and V lives on a floor above U.\n\nWho among the following lives on Floor number 5?",
+      "options": [
+        "V",
+        "T",
+        "U",
+        "R"
+      ],
+      "answer": 0,
+      "explanation": "1. P lives on an even-numbered floor and Q lives 3 floors above P (meaning 3 persons between them, so Q = P + 4). Since maximum floor is 7, P must be on floor 2 and Q on floor 6.\n2. R lives immediately above S, where S is on an odd floor. Odd floors available are 1, 3, 5, 7. If S=1, R=2 (occupied by P). If S=3, R=4 (vacant). If S=5, R=6 (occupied by Q). Thus, S is on floor 3 and R is on floor 4.\n3. The remaining floors are 1, 5, and 7. Since T lives above V and V lives above U, the positions must be: Floor 7 = T, Floor 5 = V, Floor 1 = U.\nTherefore, V lives on Floor number 5."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450962370-1",
+      "section": "Reasoning",
+      "topic": "Inequality",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, find which of the conclusions is/are definitely true.\n\nStatements:\nP ≥ Q > R = S;  T < U ≤ S;  V > W ≥ P\n\nConclusions:\nI. V > R\nII. T < Q",
+      "options": [
+        "Only conclusion I is true",
+        "Only conclusion II is true",
+        "Neither conclusion I nor II is true",
+        "Both conclusions I and II are true"
+      ],
+      "answer": 3,
+      "explanation": "Combining the statements:\nV > W ≥ P ≥ Q > R = S ≥ U > T\n\nFor Conclusion I: From V > W ≥ P ≥ Q > R, we get V > R. Thus, Conclusion I is definitely true.\nFor Conclusion II: From Q > R = S ≥ U > T, we get Q > T, which is equivalent to T < Q. Thus, Conclusion II is definitely true.\n\nHence, both conclusions I and II are true."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450966965-0",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rearrange the given parts (A), (B), (C), (D), and (E) to form a grammatically correct and meaningful sentence:\n\n(A) the introduction of digital payment systems\n(B) into mainstream financial ecosystems\n(C) has significantly accelerated\n(D) the inclusion of unbanked populations\n(E) across emerging economies",
+      "options": [
+        "ACDBE",
+        "ADCBE",
+        "ACBED",
+        "CABDE"
+      ],
+      "answer": 0,
+      "explanation": "The correct logical and grammatical sequence is ACDBE: '(A) The introduction of digital payment systems (C) has significantly accelerated (D) the inclusion of unbanked populations (B) into mainstream financial ecosystems (E) across emerging economies.' Part (A) serves as the subject, (C) is the verb phrase, (D) is the direct object, and (B) along with (E) form modifying prepositional phrases."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450966965-1",
+      "section": "English",
+      "topic": "Match the Column",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are given containing three phrases each. Choose the option that correctly matches the statements to form contextually meaningful and grammatically correct sentences.\n\nColumn 1:\n(A) The central bank decided to pause the interest rate hike cycle\n(B) Sustainable agricultural practices must be adopted promptly\n(C) Renewable energy projects are gaining widespread traction\n\nColumn 2:\n(D) to mitigate the adverse long-term effects of climate degradation on soil fertility.\n(E) because domestic retail inflation showed consistent signs of moderation.\n(F) although they require substantial upfront capital investment.",
+      "options": [
+        "A-E and B-D only",
+        "B-D and C-F only",
+        "A-E, B-D, and C-F",
+        "A-F and B-E only"
+      ],
+      "answer": 2,
+      "explanation": "All three pairs connect logically and grammatically:\n- (A)-(E): Pausing the interest rate hike aligns with retail inflation showing signs of moderation.\n- (B)-(D): Adopting sustainable farming methods serves the purpose of mitigating soil degradation.\n- (C)-(F): Gaining traction contrasts logically with requiring substantial upfront capital investment using 'although'.\nThus, all three combinations (A-E, B-D, and C-F) are correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1787450982797-0",
+      "section": "General Awareness",
+      "topic": "Banking Terminology",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the Indian electronic fund transfer system, what does the acronym 'IFSC' stand for?",
+      "options": [
+        "Indian Financial System Code",
+        "International Financial Services Code",
+        "Integrated Fund Settlement Code",
+        "Indian Funds Security Code"
+      ],
+      "answer": 0,
+      "explanation": "IFSC stands for Indian Financial System Code. It is an 11-character alphanumeric code assigned by the Reserve Bank of India to uniquely identify bank branches participating in electronic fund settlement systems like NEFT, RTGS, and IMPS.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1787450982797-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under which Section of the Banking Regulation Act, 1949, are banking companies in India required to maintain the Statutory Liquidity Ratio (SLR)?",
+      "options": [
+        "Section 18",
+        "Section 24",
+        "Section 29",
+        "Section 35A"
+      ],
+      "answer": 1,
+      "explanation": "Section 24 of the Banking Regulation Act, 1949 governs the requirement for banking companies to maintain assets in the form of cash, gold, or unencumbered approved securities (Statutory Liquidity Ratio or SLR) as a specified percentage of their Net Demand and Time Liabilities (NDTL).",
+      "status": "pending"
     }
   ]
 }
