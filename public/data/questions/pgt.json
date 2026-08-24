@@ -9590,6 +9590,261 @@
       ],
       "answer": 1,
       "explanation": "Carl Rogers identified three core counselor-offered conditions: Congruence (realness/genuineness), Unconditional Positive Regard (acceptance), and accurate Empathic Understanding."
+    },
+    {
+      "id": "pgt-edu-1787542714276-0",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Motivation",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to David McClelland's Acquired Needs Theory, human motivation is primarily driven by which three learned psychological needs?",
+      "options": [
+        "Need for Achievement, Need for Affiliation, and Need for Power",
+        "Need for Safety, Need for Belonging, and Need for Esteem",
+        "Need for Autonomy, Need for Competence, and Need for Relatedness",
+        "Need for Existence, Need for Growth, and Need for Self-actualization"
+      ],
+      "answer": 0,
+      "explanation": "David McClelland proposed the Acquired Needs (or Three Needs) Theory, identifying Need for Achievement (nAch), Need for Affiliation (nAff), and Need for Power (nPow) as the three key secondary motivators."
+    },
+    {
+      "id": "pgt-edu-1787542714276-1",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence (Gardner, Spearman)",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Charles Spearman's Two-Factor Theory of Intelligence, which of the following is a key characteristic of the 's' (specific) factor?",
+      "options": [
+        "It remains constant across all cognitive domains within an individual",
+        "It is entirely innate and cannot be modified through training or education",
+        "It is specific to a particular task and can be enhanced with practice and learning",
+        "It represents the general energy that underlies all intellectual activities"
+      ],
+      "answer": 2,
+      "explanation": "In Spearman's model, the general factor ('g') is universal and innate, whereas specific factors ('s') vary from task to task and can be modified or improved through experience, training, and education."
+    },
+    {
+      "id": "pgt-edu-1787542714276-2",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Intelligence (Gardner, Spearman)",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Howard Gardner's Multiple Intelligences framework, which intelligence was formally added in 1999 as the 8th intelligence to the original seven proposed in 1983?",
+      "options": [
+        "Bodily-Kinesthetic Intelligence",
+        "Naturalistic Intelligence",
+        "Existential Intelligence",
+        "Spatial Intelligence"
+      ],
+      "answer": 1,
+      "explanation": "Howard Gardner originally outlined seven intelligences in 'Frames of Mind' (1983) and officially published the addition of the eighth, 'Naturalistic Intelligence', in 'Intelligence Reframed' (1999)."
+    },
+    {
+      "id": "pgt-edu-1787542714276-3",
+      "section": "Teaching Aptitude",
+      "topic": "Personality & its Assessment",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the standard administration of the Hermann Rorschach Inkblot Test, how many total stimulus cards are presented to the subject?",
+      "options": [
+        "5 cards",
+        "10 cards",
+        "15 cards",
+        "20 cards"
+      ],
+      "answer": 1,
+      "explanation": "The standard Rorschach test consists of exactly 10 cards: 5 are black and white, 2 are black and red, and 3 are multicolored."
+    },
+    {
+      "id": "pgt-edu-1787542714276-4",
+      "section": "Teaching Aptitude",
+      "topic": "Personality & its Assessment",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Raymond Cattell's trait theory of personality, how are 'surface traits' distinguished from 'source traits'?",
+      "options": [
+        "Surface traits are deep underlying structures; source traits are visible behaviors",
+        "Surface traits are observable behavioral clusters; source traits are the underlying root causes derived through factor analysis",
+        "Surface traits are determined purely biologically; source traits are shaped only by culture",
+        "Surface traits are unique to an individual; source traits are shared by all humans"
+      ],
+      "answer": 1,
+      "explanation": "Cattell defined surface traits as observable sets of correlated behaviors, whereas source traits are the deeper, underlying dimensions identified through factor analysis (such as the 16 primary personality factors)."
+    },
+    {
+      "id": "pgt-edu-1787542714276-5",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "The 'Branching' or 'Intrinsic' Programmed Instruction technique, which provides remedial frames based on a student's specific errors, was developed by:",
+      "options": [
+        "B.F. Skinner",
+        "Norman A. Crowder",
+        "Sydney L. Pressey",
+        "Thomas F. Gilbert"
+      ],
+      "answer": 1,
+      "explanation": "Norman A. Crowder developed Branching (Intrinsic) Programmed Instruction, contrasting with B.F. Skinner's Linear (Extrinsic) Programmed Instruction."
+    },
+    {
+      "id": "pgt-edu-1787542714276-6",
+      "section": "Teaching Aptitude",
+      "topic": "Teaching Methods & Strategies",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In William J.J. Gordon's 'Synectics' teaching model for developing creative problem-solving, which metaphoric operational technique involves creating conceptual tension through a two-word phrase of seemingly contradictory terms?",
+      "options": [
+        "Direct Analogy",
+        "Personal Analogy",
+        "Compressed Conflict (Symbolic Analogy)",
+        "Fantasy Analogy"
+      ],
+      "answer": 2,
+      "explanation": "In Synectics, 'Compressed Conflict' (also called Symbolic Analogy) uses poetic oxymorons or contradictory pairings (e.g., 'friendly enemy' or 'structured chaos') to break existing mental sets and stimulate creative insights."
+    },
+    {
+      "id": "pgt-edu-1787542714276-7",
+      "section": "Teaching Aptitude",
+      "topic": "Lesson Planning & Microteaching",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "What is the correct sequential order of the five formal steps of lesson planning according to the classical Herbartian approach?",
+      "options": [
+        "Preparation, Presentation, Comparison/Association, Generalization, Application",
+        "Presentation, Preparation, Application, Generalization, Comparison/Association",
+        "Preparation, Generalization, Presentation, Association, Application",
+        "Introduction, Demonstration, Evaluation, Generalization, Application"
+      ],
+      "answer": 0,
+      "explanation": "The classical Herbartian five-step lesson plan follows the order: 1. Preparation (Introduction), 2. Presentation, 3. Association/Comparison, 4. Generalization, and 5. Application."
+    },
+    {
+      "id": "pgt-edu-1787542714276-8",
+      "section": "Teaching Aptitude",
+      "topic": "Lesson Planning & Microteaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "According to the standard Indian model of Microteaching developed by the NCERT, what is the total prescribed duration for one complete cycle?",
+      "options": [
+        "24 minutes",
+        "30 minutes",
+        "36 minutes",
+        "45 minutes"
+      ],
+      "answer": 2,
+      "explanation": "The standard NCERT microteaching cycle consists of: Teach (6 min) + Feedback (6 min) + Re-plan (12 min) + Re-teach (6 min) + Re-feedback (6 min) = 36 minutes total."
+    },
+    {
+      "id": "pgt-edu-1787542714276-9",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "medium",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the Revised Bloom's Taxonomy formulated by Lorin Anderson and David Krathwohl (2001), which level occupies the highest position in the cognitive process dimension?",
+      "options": [
+        "Evaluating",
+        "Analyzing",
+        "Creating",
+        "Synthesizing"
+      ],
+      "answer": 2,
+      "explanation": "In the 2001 revision, 'Creating' was placed at the highest level (Level 6), shifting 'Evaluating' to Level 5, and replacing nouns with verbs."
+    },
+    {
+      "id": "pgt-edu-1787542714276-10",
+      "section": "Teaching Aptitude",
+      "topic": "Bloom's Taxonomy",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In the taxonomy of the Affective Domain developed by David Krathwohl, Benjamin Bloom, and Bertram Masia (1964), what is the correct hierarchical order from lowest to highest level of internalization?",
+      "options": [
+        "Receiving -> Responding -> Valuing -> Organization -> Characterization by Value",
+        "Responding -> Receiving -> Organization -> Valuing -> Characterization by Value",
+        "Receiving -> Valuing -> Responding -> Characterization by Value -> Organization",
+        "Valuing -> Receiving -> Responding -> Organization -> Internalization"
+      ],
+      "answer": 0,
+      "explanation": "The Affective Domain hierarchy from lowest to highest is: 1. Receiving (Attending), 2. Responding, 3. Valuing, 4. Organization, 5. Characterization by a value or value complex."
+    },
+    {
+      "id": "pgt-edu-1787542714276-11",
+      "section": "Teaching Aptitude",
+      "topic": "Formative vs Summative Assessment",
+      "difficulty": "easy",
+      "source": "ai",
+      "status": "pending",
+      "question": "Which of the following statements best highlights the primary purpose of Formative Assessment?",
+      "options": [
+        "To assign final course grades and certify student achievement at the end of an academic term",
+        "To monitor learning and provide continuous feedback to adapt teaching and learning processes during instruction",
+        "To rank students based on percentile ranks relative to a nationwide cohort",
+        "To select candidates for scholarship awards based on standardized cutoff marks"
+      ],
+      "answer": 1,
+      "explanation": "Formative assessment ('Assessment for Learning') is diagnostic and developmental, aimed at monitoring progress and providing actionable feedback during the instructional process."
+    },
+    {
+      "id": "pgt-edu-1787542714276-12",
+      "section": "Teaching Aptitude",
+      "topic": "Formative vs Summative Assessment",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "An evaluation practice wherein a student's present performance is systematically compared against their own prior performance rather than against peer norms or external criteria is termed:",
+      "options": [
+        "Norm-Referenced Assessment",
+        "Criterion-Referenced Assessment",
+        "Ipsative Assessment",
+        "Prognostic Assessment"
+      ],
+      "answer": 2,
+      "explanation": "Ipsative assessment compares a learner's current score/performance against their own baseline or previous work, measuring self-referenced progress and personal growth over time."
+    },
+    {
+      "id": "pgt-edu-1787542714276-13",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment & Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "status": "pending",
+      "question": "Who introduced the seminal concept of 'Criterion-Referenced Testing' (CRT) in 1963 to assess student performance relative to predefined behavioral standards?",
+      "options": [
+        "Robert Glaser",
+        "Lee Cronbach",
+        "Benjamin Bloom",
+        "Michael Scriven"
+      ],
+      "answer": 0,
+      "explanation": "Robert Glaser introduced the distinction between 'Norm-Referenced Measurement' and 'Criterion-Referenced Measurement' in his landmark 1963 paper 'Instructional Technology and the Measurement of Learning Outcomes'."
+    },
+    {
+      "id": "pgt-edu-1787542714276-14",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Motivation",
+      "difficulty": "expert",
+      "source": "ai",
+      "status": "pending",
+      "question": "In Victor Vroom's Expectancy Theory of Motivation, 'Instrumentality' refers to an individual's belief that:",
+      "options": [
+        "Increased effort will directly result in successful task performance",
+        "Successful task performance will lead to obtaining a specific desired outcome or reward",
+        "The value or attractiveness assigned to the prospective reward is personally satisfying",
+        "Their self-efficacy is sufficient to overcome environmental obstacles"
+      ],
+      "answer": 1,
+      "explanation": "In Vroom's formula (Motivation = Valence × Expectancy × Instrumentality): Expectancy is Effort-to-Performance (E->P), Instrumentality is Performance-to-Outcome (P->O), and Valence is the perceived value of the outcome (V)."
     }
   ]
 }
