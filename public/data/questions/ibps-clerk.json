@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9644,6 +9644,72 @@
       ],
       "answer": 2,
       "explanation": "The Legal Entity Identifier (LEI) is a 20-character alphanumeric code based on the ISO 17442 standard, used to uniquely identify distinct legal entities participating in global financial transactions.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787537107334-0",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A is 40% more efficient than B. Both worked together and completed a work in 15 days. If the total wages received for the entire work is ₹10,800, what is the share of A in the total wages?",
+      "options": [
+        "₹5,800",
+        "₹6,300",
+        "₹6,500",
+        "₹7,200"
+      ],
+      "answer": 1,
+      "explanation": "The ratio of efficiency of A to B = 140 : 100 = 7 : 5. Since both A and B worked together for the entire duration, the wages will be distributed strictly in the ratio of their efficiencies. Share of A = (7 / (7 + 5)) × ₹10,800 = (7 / 12) × ₹10,800 = 7 × 900 = ₹6,300."
+    },
+    {
+      "id": "ibps-clerk-ai-1787537107334-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A man invested a sum of money in Scheme P offering simple interest at 12% per annum for 3 years. He also invested twice this sum in Scheme Q offering compound interest at 10% per annum (compounded annually) for 2 years. If the total interest earned from both schemes combined is ₹3,900, what was the principal sum invested in Scheme P?",
+      "options": [
+        "₹4,500",
+        "₹5,000",
+        "₹5,500",
+        "₹6,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the sum invested in Scheme P be P. Then the sum invested in Scheme Q is 2P.\nSimple Interest from Scheme P = (P × 12 × 3) / 100 = 0.36P.\nCompound Interest rate for 2 years at 10% compounded annually = (10 + 10 + (10 × 10)/100)% = 21%.\nCompound Interest from Scheme Q = 21% of 2P = 0.42P.\nTotal interest = 0.36P + 0.42P = 0.78P.\nGiven, 0.78P = 3900 => P = 3900 / 0.78 = ₹5,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1787537317176-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) regulations, what is the maximum insurance coverage provided to a depositor in an insured bank for both principal and interest amount?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "The DICGC provides insurance cover up to a maximum limit of ₹5,00,000 (five lakh rupees) for both principal and interest amount held by a depositor in the same right and capacity across all branches of an insured bank.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787537317176-1",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jan-Dhan Yojana (PMJDY), what is the maximum overdraft (OD) facility limit provided to eligible account holders?",
+      "options": [
+        "₹5,000",
+        "₹10,000",
+        "₹15,000",
+        "₹20,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the enhanced guidelines of the Pradhan Mantri Jan-Dhan Yojana (PMJDY), the overdraft facility limit was increased from ₹5,000 to ₹10,000 per eligible household.",
       "status": "pending"
     }
   ]
