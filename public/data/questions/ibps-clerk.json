@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9710,6 +9710,40 @@
       ],
       "answer": 1,
       "explanation": "Under the enhanced guidelines of the Pradhan Mantri Jan-Dhan Yojana (PMJDY), the overdraft facility limit was increased from ₹5,000 to ₹10,000 per eligible household.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787623380129-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the operating framework of the Reserve Bank of India's (RBI) Liquidity Adjustment Facility (LAF), how many basis points (bps) below the Policy Repo Rate is the Standing Deposit Facility (SDF) rate fixed?",
+      "options": [
+        "25 basis points",
+        "40 basis points",
+        "50 basis points",
+        "65 basis points"
+      ],
+      "answer": 0,
+      "explanation": "The Standing Deposit Facility (SDF) rate is pegged at 25 basis points (0.25 percentage points) below the Policy Repo Rate, serving as the floor of the LAF corridor, while the Marginal Standing Facility (MSF) rate is 25 basis points above the Policy Repo Rate.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787623380130-1",
+      "section": "General Awareness",
+      "topic": "Small Savings Schemes",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the revised norms effective from financial year 2023-24, what is the maximum deposit ceiling allowed per individual under the Senior Citizens Savings Scheme (SCSS)?",
+      "options": [
+        "₹15 lakh",
+        "₹20 lakh",
+        "₹25 lakh",
+        "₹30 lakh"
+      ],
+      "answer": 3,
+      "explanation": "In the Union Budget 2023-24, the Government of India enhanced the maximum deposit limit under the Senior Citizens Savings Scheme (SCSS) from ₹15 lakh to ₹30 lakh.",
       "status": "pending"
     }
   ]
