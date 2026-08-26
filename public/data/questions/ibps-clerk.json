@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9744,6 +9744,40 @@
       ],
       "answer": 3,
       "explanation": "In the Union Budget 2023-24, the Government of India enhanced the maximum deposit limit under the Senior Citizens Savings Scheme (SCSS) from ₹15 lakh to ₹30 lakh.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787710370265-0",
+      "section": "General Awareness",
+      "topic": "Banking & Financial Awareness",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which entity issues Sovereign Gold Bonds (SGBs) on behalf of the Government of India?",
+      "options": [
+        "Securities and Exchange Board of India (SEBI)",
+        "Reserve Bank of India (RBI)",
+        "State Bank of India (SBI)",
+        "Indian Bullion and Jewellers Association (IBJA)"
+      ],
+      "answer": 1,
+      "explanation": "Sovereign Gold Bonds (SGBs) are government securities denominated in grams of gold and are issued by the Reserve Bank of India (RBI) on behalf of the Government of India.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787710370265-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework issued by the Reserve Bank of India for Scheduled Commercial Banks, which of the following financial indicators is NOT a trigger parameter for invoking PCA?",
+      "options": [
+        "Capital to Risk-weighted Assets Ratio (CRAR)",
+        "Net Non-Performing Assets (NNPA) Ratio",
+        "Return on Assets (RoA)",
+        "Tier 1 Leverage Ratio"
+      ],
+      "answer": 2,
+      "explanation": "In the revised Prompt Corrective Action (PCA) framework effective from January 1, 2022, Capital (CRAR/CET-1), Asset Quality (Net NPA Ratio), and Leverage (Tier 1 Leverage Ratio) are the key monitored areas. Return on Assets (Profitability) was removed as a trigger parameter from the revised framework.",
       "status": "pending"
     }
   ]
