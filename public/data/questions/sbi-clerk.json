@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9100,6 +9100,38 @@
       ],
       "answer": 1,
       "explanation": "Let the radius (r) = 7x and height (h) = 3x.\n\nTotal Surface Area (TSA) of a cylinder = 2πr(r + h)\n1760 = 2 × (22/7) × (7x) × (7x + 3x)\n1760 = 44x × 10x\n1760 = 440x²\nx² = 1760 / 440 = 4\nx = 2\n\nTherefore:\nRadius (r) = 7 × 2 = 14 cm\nHeight (h) = 3 × 2 = 6 cm\n\nVolume of the cylinder = πr²h\nVolume = (22/7) × 14 × 14 × 6\nVolume = 22 × 2 × 14 × 6 = 44 × 84 = 3696 cm³."
+    },
+    {
+      "id": "sbi-clerk-ai-1787826120632-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n(18 × 15) - (240 ÷ 8) + 125 = ?",
+      "options": [
+        "345",
+        "365",
+        "375",
+        "385"
+      ],
+      "answer": 1,
+      "explanation": "Following the BODMAS rule:\nFirst, perform multiplication and division:\n18 × 15 = 270\n240 ÷ 8 = 30\nNow substitute these values into the expression:\n270 - 30 + 125 = 240 + 125 = 365."
+    },
+    {
+      "id": "sbi-clerk-ai-1787826120632-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A jar contains a mixture of two liquids, Liquid X and Liquid Y, in the ratio 5 : 3. When 16 litres of the mixture is drawn off and replaced with 16 litres of Liquid Y, the ratio of Liquid X to Liquid Y becomes 3 : 5. What was the initial quantity of Liquid X in the jar?",
+      "options": [
+        "20 litres",
+        "25 litres",
+        "30 litres",
+        "35 litres"
+      ],
+      "answer": 1,
+      "explanation": "Let the total initial volume of the mixture be V litres.\nAfter removing 16 litres of the mixture, the remaining volume is (V - 16) litres, where Liquid X and Liquid Y are still in the ratio 5 : 3.\nAmount of Liquid X remaining = (5/8)(V - 16)\nAmount of Liquid Y remaining = (3/8)(V - 16)\n\nWhen 16 litres of Liquid Y is added:\nNew quantity of Liquid Y = (3/8)(V - 16) + 16\n\nGiven the new ratio is 3 : 5:\n[(5/8)(V - 16)] / [(3/8)(V - 16) + 16] = 3 / 5\n[5(V - 16)] / [3(V - 16) + 128] = 3 / 5\n25(V - 16) = 9(V - 16) + 384\n16(V - 16) = 384\nV - 16 = 24\nV = 40 litres.\n\nInitial quantity of Liquid X = (5/8) × 40 = 25 litres."
     }
   ]
 }

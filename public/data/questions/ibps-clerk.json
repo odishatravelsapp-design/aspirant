@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9778,6 +9778,72 @@
       ],
       "answer": 2,
       "explanation": "In the revised Prompt Corrective Action (PCA) framework effective from January 1, 2022, Capital (CRAR/CET-1), Asset Quality (Net NPA Ratio), and Leverage (Tier 1 Leverage Ratio) are the key monitored areas. Return on Assets (Profitability) was removed as a trigger parameter from the revised framework.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787825977023-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, four words are highlighted as (A), (B), (C), and (D). Choose the pair of words that should be interchanged to make the sentence grammatically correct and contextually meaningful.\n\n'The *strategy* (A) of the new marketing *success* (B) led to unprecedented *campaign* (C) for the *company* (D).'",
+      "options": [
+        "B-C",
+        "A-D",
+        "A-B",
+        "No interchange required"
+      ],
+      "answer": 0,
+      "explanation": "Interchanging words (B) 'success' and (C) 'campaign' makes the sentence meaningful: 'The strategy (A) of the new marketing campaign (C) led to unprecedented success (B) for the company (D).'"
+    },
+    {
+      "id": "ibps-clerk-ai-1787825977023-1",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the option that best conveys the meaning of the underlined idiom in the following sentence:\n\n'The spokesperson refused to *spill the beans* regarding the merger before the formal announcement was made to the press.'",
+      "options": [
+        "reveal confidential information prematurely",
+        "postpone an important corporate event",
+        "invest capital without prior consultation",
+        "demand excessive financial compensation"
+      ],
+      "answer": 0,
+      "explanation": "The idiom 'spill the beans' means to disclose confidential or secret information before the proper or intended time."
+    },
+    {
+      "id": "ibps-clerk-ai-1787825991613-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Where is the corporate headquarters of the Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL) located?",
+      "options": [
+        "Mumbai, Maharashtra",
+        "Bengaluru, Karnataka",
+        "Mysuru, Karnataka",
+        "Hyderabad, Telangana"
+      ],
+      "answer": 1,
+      "explanation": "Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL), a wholly owned subsidiary of the Reserve Bank of India established in 1995, has its registered and corporate office in Bengaluru, Karnataka. It manages currency printing presses at Mysuru and Salboni.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787825991613-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India's Priority Sector Lending (PSL) guidelines, what is the mandatory sub-target for lending to 'Small and Marginal Farmers' (SMFs) for Domestic Scheduled Commercial Banks applicable from FY 2023-24 onwards?",
+      "options": [
+        "8% of ANBC or CEOBE",
+        "10% of ANBC or CEOBE",
+        "12% of ANBC or CEOBE",
+        "18% of ANBC or CEOBE"
+      ],
+      "answer": 1,
+      "explanation": "Under the revised RBI Priority Sector Lending guidelines, the sub-target for lending to Small and Marginal Farmers (SMFs) was increased in a phased manner from 8% to reach 10% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, effective from FY 2023-24.",
       "status": "pending"
     }
   ]
