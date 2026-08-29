@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9844,6 +9844,72 @@
       ],
       "answer": 1,
       "explanation": "Under the revised RBI Priority Sector Lending guidelines, the sub-target for lending to Small and Marginal Farmers (SMFs) was increased in a phased manner from 8% to reach 10% of Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher, effective from FY 2023-24.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787988366452-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a certain code language:\n'focus on modern goals' is written as 'yo ra ni la'\n'modern life brings peace' is written as 'ni su de ka'\n'goals brings high value' is written as 'ra su te mo'\n'peace on value path' is written as 'de yo mo zo'\n\nWhat is the code for 'focus path' in the given code language?",
+      "options": [
+        "la mo",
+        "zo la",
+        "ra zo",
+        "ni la"
+      ],
+      "answer": 1,
+      "explanation": "Comparing the statements:\n- 'modern' is common in 1st and 2nd statements -> 'ni'\n- 'goals' is common in 1st and 3rd statements -> 'ra'\n- 'on' is common in 1st and 4th statements -> 'yo'\nThus, from the 1st statement, the remaining word 'focus' is coded as 'la'.\n- 'peace' is common in 2nd and 4th statements -> 'de'\n- 'value' is common in 3rd and 4th statements -> 'mo'\nThus, from the 4th statement, the remaining word 'path' is coded as 'zo'.\nTherefore, 'focus path' is coded as 'la zo' (or 'zo la')."
+    },
+    {
+      "id": "ibps-clerk-ai-1787988366452-1",
+      "section": "Reasoning",
+      "topic": "Puzzles",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – P, Q, R, S, T, U, and V – attend a seminar on seven different days of the same week starting from Monday to Sunday.\n• Only two persons attend between P and U, where P attends before U.\n• P does not attend on Monday.\n• R attends immediately after U.\n• As many persons attend before R as after S.\n• T attends on one of the days before Q but after V.\n• T does not attend on Wednesday.\n\nWho among the following attends the seminar on Friday?",
+      "options": [
+        "T",
+        "Q",
+        "V",
+        "U"
+      ],
+      "answer": 1,
+      "explanation": "1. P attends before U with 2 days between them (P _ _ U), and P is not on Monday.\n2. If P = Tuesday, U = Friday -> R = Saturday. Persons before R = 5, so persons after S must be 5 (S = Tuesday), which clashes with P.\n3. If P = Wednesday, U = Saturday -> R = Sunday. Persons before R = 6, so persons after S must be 6 -> S = Monday.\n4. Remaining days: Tuesday, Thursday, Friday for V, T, Q. Since T is after V and before Q, we get V = Tuesday, T = Thursday, Q = Friday.\n5. T is on Thursday, satisfying that T does not attend on Wednesday.\nTherefore, Q attends the seminar on Friday."
+    },
+    {
+      "id": "ibps-clerk-ai-1787989438379-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes & Banking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri MUDRA Yojana (PMMY), what is the loan coverage range specified under the 'Kishore' category?",
+      "options": [
+        "Up to ₹50,000",
+        "Above ₹50,000 and up to ₹5,00,000",
+        "Above ₹5,00,000 and up to ₹10,00,000",
+        "Above ₹10,00,000 and up to ₹20,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the Pradhan Mantri MUDRA Yojana (PMMY), loans are classified into three categories reflecting the stage of development/funding needs: Shishu (covering loans up to ₹50,000), Kishore (covering loans above ₹50,000 and up to ₹5,00,000), and Tarun (covering loans above ₹5,00,000 and up to ₹10,00,000).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1787989438379-1",
+      "section": "General Awareness",
+      "topic": "RBI Initiatives & Customer Service",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In November 2021, the Reserve Bank of India integrated three erstwhile ombudsman schemes into a single unified framework based on the 'One Nation One Ombudsman' approach. What is the official name of this scheme?",
+      "options": [
+        "Reserve Bank - Unified Ombudsman Scheme (RB-UOS)",
+        "Reserve Bank - Integrated Ombudsman Scheme (RB-IOS)",
+        "One Nation Integrated Grievance Redressal Scheme (ON-IGRS)",
+        "Centralized Banking and Financial Ombudsman Scheme (CBFOS)"
+      ],
+      "answer": 1,
+      "explanation": "The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021 was launched on November 12, 2021. It integrated three existing ombudsman schemes: the Banking Ombudsman Scheme, 2006; the Ombudsman Scheme for NBFCs, 2018; and the Ombudsman Scheme for Digital Transactions, 2019.",
       "status": "pending"
     }
   ]

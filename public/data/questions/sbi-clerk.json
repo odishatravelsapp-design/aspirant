@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9132,6 +9132,102 @@
       ],
       "answer": 1,
       "explanation": "Let the total initial volume of the mixture be V litres.\nAfter removing 16 litres of the mixture, the remaining volume is (V - 16) litres, where Liquid X and Liquid Y are still in the ratio 5 : 3.\nAmount of Liquid X remaining = (5/8)(V - 16)\nAmount of Liquid Y remaining = (3/8)(V - 16)\n\nWhen 16 litres of Liquid Y is added:\nNew quantity of Liquid Y = (3/8)(V - 16) + 16\n\nGiven the new ratio is 3 : 5:\n[(5/8)(V - 16)] / [(3/8)(V - 16) + 16] = 3 / 5\n[5(V - 16)] / [3(V - 16) + 128] = 3 / 5\n25(V - 16) = 9(V - 16) + 384\n16(V - 16) = 384\nV - 16 = 24\nV = 40 litres.\n\nInitial quantity of Liquid X = (5/8) × 40 = 25 litres."
+    },
+    {
+      "id": "sbi-clerk-ai-1787989606428-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n(35% of 240) + √(676) - (15 × 4) = ?",
+      "options": [
+        "50",
+        "45",
+        "55",
+        "40"
+      ],
+      "answer": 0,
+      "explanation": "Evaluating the expression step-by-step:\n1) 35% of 240 = (35/100) × 240 = 7 × 12 = 84\n2) √(676) = 26\n3) 15 × 4 = 60\n\nNow, substitute the values: 84 + 26 - 60 = 110 - 60 = 50."
+    },
+    {
+      "id": "sbi-clerk-ai-1787989606428-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "P and Q started a business with initial investments of ₹16,000 and ₹20,000 respectively. After 4 months, R joined them with an investment of ₹24,000. After 2 more months, P withdrew ₹4,000 from his investment. If the total annual profit earned at the end of the year was ₹60,000, what is R's share in the profit?",
+      "options": [
+        "₹19,200",
+        "₹24,000",
+        "₹16,800",
+        "₹21,600"
+      ],
+      "answer": 0,
+      "explanation": "Calculate the effective investment of each partner for the 12-month period:\n- P's investment = (16,000 × 6) + [(16,000 - 4,000) × 6] = 96,000 + 72,000 = ₹1,68,000\n- Q's investment = 20,000 × 12 = ₹2,40,000\n- R's investment = 24,000 × (12 - 4) = 24,000 × 8 = ₹1,92,000\n\nRatio of profit shares (P : Q : R) = 168 : 240 : 192 = 7 : 10 : 8\nSum of ratio terms = 7 + 10 + 8 = 25\n\nR's share = (8 / 25) × 60,000 = 8 × 2,400 = ₹19,200."
+    },
+    {
+      "id": "sbi-clerk-ai-1787989635577-0",
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point A is 8 m north of Point B. Point C is 6 m east of Point B. Point D is 12 m south of Point C. Point E is 6 m west of Point D. Point F is 4 m north of Point E. What is the shortest distance between Point A and Point F, and in which direction is Point F with respect to Point A?",
+      "options": [
+        "16 m, South",
+        "14 m, North",
+        "16 m, North",
+        "20 m, South"
+      ],
+      "answer": 0,
+      "explanation": "Taking B at the origin (0, 0): Point A = (0, 8), Point C = (6, 0), Point D = (6, -12), Point E = (0, -12), Point F = (0, -8). Point F is directly south of Point A on the y-axis. The distance between Point A(0, 8) and Point F(0, -8) is 8 - (-8) = 16 m. Thus, Point F is 16 m to the South of Point A."
+    },
+    {
+      "id": "sbi-clerk-ai-1787989635577-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below are given three statements followed by three conclusions. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nOnly a few Laptops are Mobiles.\nAll Mobiles are Tablets.\nNo Tablet is a Watch.\n\nConclusions:\nI. Some Laptops are not Watches.\nII. All Mobiles being Laptops is a possibility.\nIII. No Mobile is a Watch.",
+      "options": [
+        "Only I and II follow",
+        "Only II and III follow",
+        "Only I and III follow",
+        "All I, II and III follow"
+      ],
+      "answer": 3,
+      "explanation": "1. For Conclusion I: Since 'Some Laptops are Mobiles' and 'All Mobiles are Tablets' and 'No Tablet is a Watch', the common part of Laptops which are Mobiles/Tablets can never be Watches. Hence, 'Some Laptops are not Watches' definitely follows.\n2. For Conclusion II: 'Only a few Laptops are Mobiles' means all Laptops cannot be Mobiles, but all Mobiles can be Laptops. Thus, 'All Mobiles being Laptops is a possibility' is true.\n3. For Conclusion III: Since all Mobiles are Tablets and no Tablet is a Watch, no Mobile can ever be a Watch. Hence, 'No Mobile is a Watch' definitely follows.\nTherefore, all I, II and III follow."
+    },
+    {
+      "id": "sbi-clerk-ai-1787989669397-0",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following sentence, four words are highlighted in bold and marked as (A), (B), (C), and (D). Identify the pair of words that needs to be swapped to make the sentence grammatically correct and contextually meaningful:\n\nThe university's decision to **acclaimed** (A) tuition fees for economically disadvantaged students was widely **waive** (B) as a progressive step towards **promoting** (C) higher **education** (D).",
+      "options": [
+        "A-B",
+        "B-C",
+        "A-D",
+        "No swap required"
+      ],
+      "answer": 0,
+      "explanation": "The infinitive marker 'to' requires the base form of the verb 'waive' ('to waive tuition fees'), while the passive construction 'was widely...' requires the past participle 'acclaimed' ('was widely acclaimed as...'). Thus, swapping words (A) and (B) restores both grammatical correctness and logical meaning."
+    },
+    {
+      "id": "sbi-clerk-ai-1787989669397-1",
+      "section": "English",
+      "topic": "Sentence Starters and Connectors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the starter(s)/connector(s) from the given options that can be used at the beginning to combine the two statements into a single grammatically correct and coherent sentence without altering the original meaning:\n\nStatement I: The central bank raised benchmark interest rates to combat rising inflation.\nStatement II: Borrowing costs for commercial loans increased substantially, leading to a temporary slowdown in real estate investments.\n\n(I) Following the central bank's decision to...\n(II) In spite of the central bank raising...\n(III) Consequent to the benchmark interest rates being raised by...",
+      "options": [
+        "Only (I)",
+        "Only (II)",
+        "Both (I) and (III)",
+        "All (I), (II) and (III)"
+      ],
+      "answer": 2,
+      "explanation": "The two statements have a cause-and-effect relationship: the central bank raising rates caused borrowing costs to increase. Starter (I) correctly establishes the chronological sequence and causal link ('Following the central bank's decision to raise benchmark interest rates, borrowing costs...'). Starter (III) directly indicates causality ('Consequent to the benchmark interest rates being raised by the central bank, borrowing costs...'). Starter (II) uses 'In spite of', which expresses contrast or concession, and is contextually incorrect."
     }
   ]
 }
