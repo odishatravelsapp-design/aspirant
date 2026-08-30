@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9911,6 +9911,38 @@
       "answer": 1,
       "explanation": "The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021 was launched on November 12, 2021. It integrated three existing ombudsman schemes: the Banking Ombudsman Scheme, 2006; the Ombudsman Scheme for NBFCs, 2018; and the Ombudsman Scheme for Digital Transactions, 2019.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1788068307628-0",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A train of length 240 meters crosses a platform of equal length in 24 seconds. What is the speed of the train in km/h?",
+      "options": [
+        "64 km/h",
+        "72 km/h",
+        "80 km/h",
+        "54 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Total distance covered by the train = Length of train + Length of platform = 240 + 240 = 480 meters. Time taken = 24 seconds. Speed of the train = 480 / 24 = 20 m/s. Converting to km/h: 20 × (18 / 5) = 72 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1788068307628-1",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "P and Q entered into a business with investments of ₹45,000 and ₹60,000 respectively. P is a working partner and receives 15% of the total annual profit as salary, while the remaining profit is divided between them in the ratio of their investments. If Q's total share of the annual profit is ₹18,700, what is the total profit earned in that year?",
+      "options": [
+        "₹35,000",
+        "₹42,000",
+        "₹38,500",
+        "₹36,800"
+      ],
+      "answer": 2,
+      "explanation": "Ratio of investment of P to Q = 45000 : 60000 = 3 : 4. Let the total annual profit be T. Salary of P = 15% of T = 0.15T. Remaining profit to be shared = T - 0.15T = 0.85T. Q's share of the profit = (4 / (3 + 4)) × 0.85T = (4/7) × (17/20)T = (17/35)T. Given that Q's share is ₹18,700: (17/35)T = 18,700 => T = (18,700 × 35) / 17 = 1,100 × 35 = ₹38,500."
     }
   ]
 }
