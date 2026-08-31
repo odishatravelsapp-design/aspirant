@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -4931,6 +4931,232 @@
       ],
       "answer": 1,
       "explanation": "In Vroom's formula (Motivation = Valence × Expectancy × Instrumentality): Expectancy is Effort-to-Performance (E->P), Instrumentality is Performance-to-Outcome (P->O), and Valence is the perceived value of the outcome (V)."
+    },
+    {
+      "id": "tgt-ai-1788160261399-0",
+      "section": "Teaching Aptitude",
+      "topic": "Theories of Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The term 'Scaffolding', widely used in constructivist pedagogy to describe temporary instructional support provided to a learner, was originally coined by which of the following theorists?",
+      "options": [
+        "Lev Vygotsky",
+        "Jerome Bruner (along with Wood and Ross)",
+        "Jean Piaget",
+        "Albert Bandura"
+      ],
+      "answer": 1,
+      "explanation": "Although scaffolding is closely associated with Lev Vygotsky's Zone of Proximal Development (ZPD), the specific metaphorical term 'scaffolding' was introduced in 1976 by Jerome Bruner, David Wood, and Gail Ross.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଶିକ୍ଷାର୍ଥୀଙ୍କୁ ପ୍ରଦାନ କରାଯାଉଥିବା ଅସ୍ଥାୟୀ ନିର୍ଦ୍ଦେଶନାତ୍ମକ ସହାୟତାକୁ ବୁଝାଇବା ପାଇଁ ଗଠନମୂଳକ ଶିକ୍ଷାଶାସ୍ତ୍ରରେ ବ୍ୟବହୃତ 'ସ୍କାଫୋଲ୍ଡିଂ' (Scaffolding) ଶବ୍ଦଟି ପ୍ରଥମେ କେଉଁ ତତ୍ତ୍ୱବିତ୍‌ଙ୍କ ଦ୍ୱାରା ପ୍ରଚଳନ କରାଯାଇଥିଲା?",
+          "options": [
+            "ଲେଭ ଭାଇଗୋଟସ୍କି",
+            "ଜେରୋମ ବ୍ରୁନର (ଉଡ୍ ଏବଂ ରସ୍‌ଙ୍କ ସହିତ)",
+            "ଜିନ୍ ପିଆଜେ",
+            "ଆଲବର୍ଟ ବାନ୍ଦୁରା"
+          ],
+          "explanation": "ଯଦିଓ 'ସ୍କାଫୋଲ୍ଡିଂ' ଧାରଣାଟି ଭାଇଗୋଟସ୍କିଙ୍କ ସନ୍ନିକଟ ବିକାଶ କ୍ଷେତ୍ର (ZPD) ସହିତ ଘନିଷ୍ଠ ଭାବରେ ଜଡ଼ିତ, କିନ୍ତୁ ଏହି ଶବ୍ଦଟି ମୂଳତଃ ୧୯୭୬ ମସିହାରେ ଜେରୋମ ବ୍ରୁନର, ଡେଭିଡ୍ ଉଡ୍ ଏବଂ ଗେଲ୍ ରସ୍‌ଙ୍କ ଦ୍ୱାରା ପ୍ରଚଳିତ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160261399-1",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Interaction Analysis",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Ned Flanders' 10-category Interaction Analysis Category System (FIACS) used for observing classroom verbal behavior, how many categories are specifically designated for 'Teacher Talk'?",
+      "options": [
+        "4 categories",
+        "5 categories",
+        "7 categories",
+        "8 categories"
+      ],
+      "answer": 2,
+      "explanation": "In FIACS, there are 10 total categories divided into three sections: 7 categories for Teacher Talk (Categories 1-4 for Indirect Influence and Categories 5-7 for Direct Influence), 2 categories for Student Talk (Categories 8-9), and 1 category for Silence or Confusion (Category 10).",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ମୌଖିକ ବ୍ୟବହାର ନିରୀକ୍ଷଣ ପାଇଁ ବ୍ୟବହୃତ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ୧୦-ବର୍ଗର ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ପ୍ରଣାଳୀ (FIACS) ରେ, ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ 'ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା' (Teacher Talk) ପାଇଁ କେତୋଟି ବର୍ଗ ନିର୍ଦ୍ଧାରିତ କରାଯାଇଛି?",
+          "options": [
+            "୪ଟି ବର୍ଗ",
+            "୫ଟି ବର୍ଗ",
+            "୭ଟି ବର୍ଗ",
+            "୮ଟି ବର୍ଗ"
+          ],
+          "explanation": "FIACS ରେ ସମୁଦାୟ ୧୦ଟି ବର୍ଗ ରହିଛି: ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତା ପାଇଁ ୭ଟି ବର୍ଗ (ପରୋକ୍ଷ ପ୍ରଭାବ ପାଇଁ ୧-୪ ଏବଂ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ ପାଇଁ ୫-୭), ଛାତ୍ରଙ୍କ କଥାବାର୍ତ୍ତା ପାଇଁ ୨ଟି ବର୍ଗ (୮ ଏବଂ ୯), ଏବଂ ନୀରବତା କିମ୍ବା ବିଭ୍ରାନ୍ତି ପାଇଁ ୧ଟି ବର୍ଗ (୧୦) ନିର୍ଦ୍ଧାରିତ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160289972-0",
+      "section": "Subject Knowledge",
+      "topic": "Mathematics - Matrix Algebra",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If A is a square matrix of order 3 such that det(A) = 4, then what is the value of det(adj(adj(A)))?",
+      "options": [
+        "64",
+        "256",
+        "16",
+        "1024"
+      ],
+      "answer": 1,
+      "explanation": "For an n × n square matrix A, det(adj(adj(A))) = (det(A))^((n - 1)^2). Given n = 3 and det(A) = 4, we have (n - 1)^2 = (3 - 1)^2 = 4. Therefore, det(adj(adj(A))) = 4^4 = 256.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଯଦି A ହେଉଛି 3 କ୍ରମର (order 3) ଏକ ବର୍ଗ ମାଟ୍ରିକ୍ସ ଯେପରିକି det(A) = 4, ତେବେ det(adj(adj(A))) ର ମୂଲ୍ୟ କେତେ ହେବ?",
+          "options": [
+            "64",
+            "256",
+            "16",
+            "1024"
+          ],
+          "explanation": "ଏକ n × n କ୍ରମର ବର୍ଗ ମାଟ୍ରିକ୍ସ A ପାଇଁ, det(adj(adj(A))) = (det(A))^((n - 1)^2) ହୁଏ। ଏଠାରେ n = 3 ଏବଂ det(A) = 4 ହୋଇଥିବାରୁ, (n - 1)^2 = (3 - 1)^2 = 4। ତେଣୁ, det(adj(adj(A))) = 4^4 = 256।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160289972-1",
+      "section": "Subject Knowledge",
+      "topic": "Biology - Plant Physiology",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In C4 plants, the initial fixation of carbon dioxide (CO2) occurs in the mesophyll cells catalyzed by which of the following enzymes?",
+      "options": [
+        "RuBisCO",
+        "PEP carboxylase",
+        "Pyruvate kinase",
+        "Malate dehydrogenase"
+      ],
+      "answer": 1,
+      "explanation": "In C4 plants, the primary acceptor of CO2 in mesophyll cells is phosphoenolpyruvate (PEP), and the reaction is catalyzed by PEP carboxylase (PEPcase) to form a 4-carbon compound, oxaloacetate. RuBisCO is absent in mesophyll cells of C4 plants and is found in bundle sheath cells.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "C4 ଉଦ୍ଭିଦଗୁଡ଼ିକରେ, ମେସୋଫିଲ୍ କୋଷରେ କାର୍ବନ ଡାଇଅକ୍ସାଇଡ୍ (CO2) ର ପ୍ରାରମ୍ଭିକ ସଂସ୍ଥାପନ ନିମ୍ନଲିଖିତ କେଉଁ ଏନଜାଇମ୍ ଦ୍ୱାରା ଅନୁପ୍ରେରିତ ହୁଏ?",
+          "options": [
+            "ରୁବିସ୍କୋ (RuBisCO)",
+            "ପିଇପି କାର୍ବୋକ୍ସିଲେଜ୍ (PEP carboxylase)",
+            "ପାଇରୁଭେଟ୍ କାଇନେଜ୍ (Pyruvate kinase)",
+            "ମାଲେଟ୍ ଡିହାଇଡ୍ରୋଜେନେଜ୍ (Malate dehydrogenase)"
+          ],
+          "explanation": "C4 ଉଦ୍ଭିଦରେ ମେସୋଫିଲ୍ କୋଷଗୁଡ଼ିକରେ CO2 ର ପ୍ରାଥମିକ ଗ୍ରହଣକାରୀ ହେଉଛି ଫସଫୋଇନୋଲପାଇରୁଭେଟ୍ (PEP), ଏବଂ ଏହି ପ୍ରକ୍ରିୟା PEP carboxylase ଏନଜାଇମ୍ ଦ୍ୱାରା ଅନୁପ୍ରେରିତ ହୋଇ 4-କାର୍ବନ ବିଶିଷ୍ଟ ଅକ୍ସାଲୋଆସେଟେଟ୍ ଗଠନ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160448505-0",
+      "section": "Child Development",
+      "topic": "Cognitive Development (Piaget)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Jean Piaget's theory of cognitive development, the inability of a child in the pre-operational stage to see a situation from another person's point of view is known as:",
+      "options": [
+        "Centration",
+        "Egocentrism",
+        "Animism",
+        "Object Permanence"
+      ],
+      "answer": 1,
+      "explanation": "In Piaget's theory of cognitive development, egocentrism refers to the child's inability to see a perspective or viewpoint other than their own, which is a characteristic feature of the pre-operational stage (around 2 to 7 years).",
+      "translations": {
+        "or": {
+          "question": "ଜିନ୍ ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ପ୍ରାକ୍-କ୍ରିୟାତ୍ମକ ପର୍ଯ୍ୟାୟ (pre-operational stage) ରେ ଥିବା ଏକ ଶିଶୁର ଅନ୍ୟ ବ୍ୟକ୍ତିଙ୍କ ଦୃଷ୍ଟିକୋଣରୁ କୌଣସି ପରିସ୍ଥିତିକୁ ବୁଝିବାରେ ଅସମର୍ଥତାକୁ କ'ଣ କୁହାଯାଏ?",
+          "options": [
+            "କେନ୍ଦ୍ରୀକରଣ (Centration)",
+            "ସ୍ୱକେନ୍ଦ୍ରିକତା (Egocentrism)",
+            "ସର୍ବପ୍ରାଣବାଦ (Animism)",
+            "ବସ୍ତୁ ସ୍ଥାୟିତ୍ୱ (Object Permanence)"
+          ],
+          "explanation": "ପିଆଜେଙ୍କ ଜ୍ଞାନାତ୍ମକ ବିକାଶ ତତ୍ତ୍ୱ ଅନୁସାରେ, 'ସ୍ୱକେନ୍ଦ୍ରିକତା' (Egocentrism) ହେଉଛି ପ୍ରାକ୍-କ୍ରିୟାତ୍ମକ ପର୍ଯ୍ୟାୟର ଏକ ମୁଖ୍ୟ ବୈଶିଷ୍ଟ୍ୟ, ଯେଉଁଥିରେ ଶିଶୁ ନିଜ ଦୃଷ୍ଟିକୋଣ ବ୍ୟତୀତ ଅନ୍ୟ କାହାର ଦୃଷ୍ଟିକୋଣକୁ ବୁଝିବାକୁ ଅସମର୍ଥ ହୋଇଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160448505-1",
+      "section": "Child Development",
+      "topic": "Ecological Systems Theory (Bronfenbrenner)",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Urie Bronfenbrenner's Ecological Systems Theory, the connections between a child's home and their school (such as parent-teacher interactions) represent which of the following systems?",
+      "options": [
+        "Microsystem",
+        "Mesosystem",
+        "Exosystem",
+        "Macrosystem"
+      ],
+      "answer": 1,
+      "explanation": "The Mesosystem comprises interactions or linkages between two or more settings/microsystems containing the developing person, such as the relationship and communication between a child's parents and school teachers.",
+      "translations": {
+        "or": {
+          "question": "ୟୁରି ବ୍ରୋନଫେନବ୍ରେନରଙ୍କ ପାରିବେଶିକ ପ୍ରଣାଳୀ ତତ୍ତ୍ୱ (Ecological Systems Theory) ଅନୁଯାୟୀ, ଏକ ଶିଶୁର ଘର ଏବଂ ତା'ର ବିଦ୍ୟାଳୟ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କ (ଯେପରିକି ପିତାମାତା-ଶିକ୍ଷକଙ୍କ ପାରସ୍ପରିକ କ୍ରିୟା) ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ପ୍ରଣାଳୀକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ମାଇକ୍ରୋସିଷ୍ଟମ (Microsystem)",
+            "ମେସୋସିଷ୍ଟମ (Mesosystem)",
+            "ଏକ୍ସୋସିଷ୍ଟମ (Exosystem)",
+            "ମ୍ୟାକ୍ରୋସିଷ୍ଟମ (Macrosystem)"
+          ],
+          "explanation": "ବ୍ରୋନଫେନବ୍ରେନରଙ୍କ ତତ୍ତ୍ୱରେ, ମେସୋସିଷ୍ଟମ (Mesosystem) ହେଉଛି ଦୁଇ ବା ତତୋଧିକ ମାଇକ୍ରୋସିଷ୍ଟମ (ଯଥା: ପରିବାର ଏବଂ ବିଦ୍ୟାଳୟ) ମଧ୍ୟରେ ଥିବା ପାରସ୍ପରିକ ସମ୍ପର୍କ ବା ସଂଯୋଗ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160474139-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which Fundamental Right in the Constitution of India explicitly prohibits human trafficking and forced labour (Begar)?",
+      "options": [
+        "Right to Equality",
+        "Right against Exploitation",
+        "Right to Freedom of Religion",
+        "Cultural and Educational Rights"
+      ],
+      "answer": 1,
+      "explanation": "Articles 23 and 24 of the Constitution of India cover the 'Right against Exploitation'. Article 23 specifically prohibits human trafficking, 'begar' (forced labour), and other similar forms of forced labour.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର କେଉଁ ମୌଳିକ ଅଧିକାର ମାନବ ଚାଲାଣ ଏବଂ ବେଠି (ବାଧ୍ୟତାମୂଳକ ଶ୍ରମ) କୁ ସ୍ପଷ୍ଟ ଭାବରେ ନିଷେଧ କରେ?",
+          "options": [
+            "ସମାନତାର ଅଧିକାର",
+            "ଶୋଷଣ ବିରୁଦ୍ଧରେ ଅଧିକାର",
+            "ଧର୍ମଗତ ସ୍ୱାଧୀନତା ଅଧିକାର",
+            "ସାଂସ୍କୃତିକ ଏବଂ ଶିକ୍ଷାଗତ ଅଧିକାର"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଧାରା ୨୩ ଏବଂ ୨୪ 'ଶୋଷଣ ବିରୁଦ୍ଧରେ ଅଧିକାର' ଅଧୀନରେ ଆସେ। ଧାରା ୨୩ ମାନବ ଚାଲାଣ, ବେଠି (ବାଧ୍ୟତାମୂଳକ ଶ୍ରମ) ଏବଂ ଅନ୍ୟାନ୍ୟ ସମାନ ଧରଣର ଶ୍ରମକୁ ନିଷେଧ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788160474139-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who among the following founded the 'Servants of India Society' in Pune in the year 1905?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Mahadev Govind Ranade",
+        "Jyotirao Phule"
+      ],
+      "answer": 0,
+      "explanation": "Gopal Krishna Gokhale established the Servants of India Society in Pune, Maharashtra, in 1905 to promote education, healthcare, and social development in India.",
+      "translations": {
+        "or": {
+          "question": "୧୯୦୫ ମସିହାରେ ପୁଣେଠାରେ 'ସର୍ଭେଣ୍ଟସ୍ ଅଫ୍ ଇଣ୍ଡିଆ ସୋସାଇଟି' (Servants of India Society) ନିମ୍ନଲିଖିତ ବ୍ୟକ୍ତିମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଗୋପାଳ କୃଷ୍ଣ ଗୋଖଲେ",
+            "ବାଲ ଗଙ୍ଗାଧର ତିଳକ",
+            "ମହାଦେବ ଗୋବିନ୍ଦ ରାନାଡେ",
+            "ଜ୍ୟୋତିରାଓ ଫୁଲେ"
+          ],
+          "explanation": "୧୯୦୫ ମସିହାରେ ଗୋପାଳ କୃଷ୍ଣ ଗୋଖଲେ ମହାରାଷ୍ଟ୍ରର ପୁଣେଠାରେ ଶିକ୍ଷା, ସ୍ୱାସ୍ଥ୍ୟସେବା ଏବଂ ସାମାଜିକ ବିକାଶକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ 'ସର୍ଭେଣ୍ଟସ୍ ଅଫ୍ ଇଣ୍ଡିଆ ସୋସାଇଟି' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
     }
   ]
 }

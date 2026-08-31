@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -9845,6 +9845,232 @@
       ],
       "answer": 1,
       "explanation": "In Vroom's formula (Motivation = Valence × Expectancy × Instrumentality): Expectancy is Effort-to-Performance (E->P), Instrumentality is Performance-to-Outcome (P->O), and Valence is the perceived value of the outcome (V)."
+    },
+    {
+      "id": "pgt-ai-1788159918241-0",
+      "section": "Teaching Aptitude",
+      "topic": "Classroom Interaction Analysis (FIACS)",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned Flanders' 10-category system of Interaction Analysis (FIACS) used for classroom observation, how many categories are designated for Teacher Talk, Pupil Talk, and Silence/Confusion, respectively?",
+      "options": [
+        "7 for Teacher Talk, 2 for Pupil Talk, 1 for Silence/Confusion",
+        "6 for Teacher Talk, 3 for Pupil Talk, 1 for Silence/Confusion",
+        "5 for Teacher Talk, 4 for Pupil Talk, 1 for Silence/Confusion",
+        "8 for Teacher Talk, 1 for Pupil Talk, 1 for Silence/Confusion"
+      ],
+      "answer": 0,
+      "explanation": "Ned Flanders' Interaction Analysis Categories (FIACS) comprises 10 total categories: Categories 1 to 7 represent Teacher Talk (1-4 for Indirect Influence and 5-7 for Direct Influence), Categories 8 and 9 represent Pupil Talk (Pupil response and Pupil initiation), and Category 10 accounts for Silence or Confusion (pauses or short periods of unclassifiable behavior).",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହ ପର୍ଯ୍ୟବେକ୍ଷଣ ପାଇଁ ବ୍ୟବହୃତ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ୧୦-ବର୍ଗୀୟ ପାରସ୍ପରିକ କ୍ରିୟା ବିଶ୍ଳେଷଣ ପ୍ରଣାଳୀ (FIACS) ରେ, ଯଥାକ୍ରମେ ଶିକ୍ଷକଙ୍କ ବକ୍ତବ୍ୟ (Teacher Talk), ଛାତ୍ରଙ୍କ ବକ୍ତବ୍ୟ (Pupil Talk), ଏବଂ ନୀରବତା/ଦ୍ୱନ୍ଦ୍ୱ (Silence/Confusion) ପାଇଁ କେତୋଟି ବର୍ଗ ନିର୍ଦ୍ଧାରିତ କରାଯାଇଛି?",
+          "options": [
+            "ଶିକ୍ଷକ ବକ୍ତବ୍ୟ ପାଇଁ ୭, ଛାତ୍ର ବକ୍ତବ୍ୟ ପାଇଁ ୨, ନୀରବତା/ଦ୍ୱନ୍ଦ୍ୱ ପାଇଁ ୧",
+            "ଶିକ୍ଷକ ବକ୍ତବ୍ୟ ପାଇଁ ୬, ଛାତ୍ର ବକ୍ତବ୍ୟ ପାଇଁ ୩, ନୀରବତା/ଦ୍ୱନ୍ଦ୍ୱ ପାଇଁ ୧",
+            "ଶିକ୍ଷକ ବକ୍ତବ୍ୟ ପାଇଁ ୫, ଛାତ୍ର ବକ୍ତବ୍ୟ ପାଇଁ ୪, ନୀରବତା/ଦ୍ୱନ୍ଦ୍ୱ ପାଇଁ ୧",
+            "ଶିକ୍ଷକ ବକ୍ତବ୍ୟ ପାଇଁ ୮, ଛାତ୍ର ବକ୍ତବ୍ୟ ପାଇଁ ୧, ନୀରବତା/ଦ୍ୱନ୍ଦ୍ୱ ପାଇଁ ୧"
+          ],
+          "explanation": "ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ FIACS ରେ ମୋଟ ୧୦ଟି ବର୍ଗ ରହିଛି: ବର୍ଗ ୧ ରୁ ୭ ଶିକ୍ଷକଙ୍କ ବକ୍ତବ୍ୟକୁ (ପରୋକ୍ଷ ଓ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ), ବର୍ଗ ୮ ଓ ୯ ଛାତ୍ରଙ୍କ ବକ୍ତବ୍ୟକୁ, ଏବଂ ବର୍ଗ ୧୦ ନୀରବତା ବା ଦ୍ୱନ୍ଦ୍ୱକୁ ବୁଝାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788159918241-1",
+      "section": "Teaching Aptitude",
+      "topic": "Edgar Dale's Cone of Experience",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Edgar Dale's 'Cone of Experience', which of the following instructional experiences is situated at the base (bottom), representing the most direct and concrete learning experience?",
+      "options": [
+        "Direct, Purposeful Experiences",
+        "Contrived Experiences",
+        "Dramatized Experiences",
+        "Field Trips"
+      ],
+      "answer": 0,
+      "explanation": "At the base of Edgar Dale's Cone of Experience are 'Direct, Purposeful Experiences'. These represent firsthand, sensory, real-life concrete experiences through direct participation, which serve as the foundation for all subsequent abstract learning experiences higher up the cone.",
+      "translations": {
+        "or": {
+          "question": "ଏଡଗାର ଡେଲ୍‌ଙ୍କ 'କୋନ୍ ଅଫ୍ ଏକ୍ସପେରିଏନ୍ସ' (Cone of Experience) ରେ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଶିକ୍ଷଣ ଅନୁଭୂତି ସବୁଠାରୁ ତଳେ (ଭିତ୍ତିରେ) ରହି ସର୍ବାଧିକ ପ୍ରତ୍ୟକ୍ଷ ଓ ମୂର୍ତ୍ତ (concrete) ଶିକ୍ଷଣ ଅନୁଭୂତିକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟପୂର୍ଣ୍ଣ ଅନୁଭୂତି (Direct, Purposeful Experiences)",
+            "କୃତ୍ରିମ ବା ଯୋଜନାବଦ୍ଧ ଅନୁଭୂତି (Contrived Experiences)",
+            "ନାଟକୀୟ ଅନୁଭୂତି (Dramatized Experiences)",
+            "କ୍ଷେତ୍ର ଭ୍ରମଣ (Field Trips)"
+          ],
+          "explanation": "ଏଡଗାର ଡେଲ୍‌ଙ୍କ କୋନ୍ ଅଫ୍ ଏକ୍ସପେରିଏନ୍ସର ଭିତ୍ତିରେ 'ପ୍ରତ୍ୟକ୍ଷ, ଉଦ୍ଦେଶ୍ୟପୂର୍ଣ୍ଣ ଅନୁଭୂତି' ରହିଛି, ଯାହା ପ୍ରତ୍ୟକ୍ଷ ଅଂଶଗ୍ରହଣ ମାଧ୍ୟମରେ ମିଳୁଥିବା ବାସ୍ତବ ଓ ମୂର୍ତ୍ତ ଶିକ୍ଷଣ ଅନୁଭୂତିକୁ ଦର୍ଶାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788159954971-0",
+      "section": "Subject Knowledge",
+      "topic": "Thermodynamics",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following represents a correct Maxwell thermodynamic relation?",
+      "options": [
+        "(\\partial T/\\partial V)_S = -(\\partial P/\\partial S)_V",
+        "(\\partial T/\\partial P)_S = -(\\partial V/\\partial S)_P",
+        "(\\partial S/\\partial V)_T = -(\\partial P/\\partial T)_V",
+        "(\\partial S/\\partial P)_T = (\\partial V/\\partial T)_P"
+      ],
+      "answer": 0,
+      "explanation": "From the fundamental thermodynamic relation for internal energy, dU = TdS - PdV. Since dU is an exact differential, applying Euler's reciprocity relation gives (∂T/∂V)_S = -(∂P/∂S)_V.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଏକ ସଠିକ୍ ମ୍ୟାକ୍ସୱେଲ୍ ଥର୍ମୋଡାଇନାମିକ୍ ସମ୍ପର୍କ (Maxwell thermodynamic relation) ଅଟେ?",
+          "options": [
+            "(\\partial T/\\partial V)_S = -(\\partial P/\\partial S)_V",
+            "(\\partial T/\\partial P)_S = -(\\partial V/\\partial S)_P",
+            "(\\partial S/\\partial V)_T = -(\\partial P/\\partial T)_V",
+            "(\\partial S/\\partial P)_T = (\\partial V/\\partial T)_P"
+          ],
+          "explanation": "ଆଭ୍ୟନ୍ତରୀଣ ଶକ୍ତିର ମୌଳିକ ଥର୍ମୋଡାଇନାମିକ୍ ସମ୍ପର୍କ dU = TdS - PdV ଅନୁଯାୟୀ, dU ଏକ ସଠିକ୍ ଅବକଳନ (exact differential) ହୋଇଥିବାରୁ ୟୁଲରଙ୍କ ପାରସ୍ପରିକ ନିୟମ ପ୍ରୟୋଗ କଲେ (∂T/∂V)_S = -(∂P/∂S)_V ପ୍ରାପ୍ତ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788159954971-1",
+      "section": "Subject Knowledge",
+      "topic": "Organic Reaction Mechanisms",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "What is the major product obtained from the acid-catalyzed Pinacol-Pinacolone rearrangement of 1,1-diphenylpropane-1,2-diol [Ph₂C(OH)CH(OH)CH₃]?",
+      "options": [
+        "1,1-Diphenylpropan-2-one (Ph₂CHCOCH₃)",
+        "3,3-Diphenylpropan-1-al (Ph₂CHCH₂CHO)",
+        "1,2-Diphenylpropan-1-one (PhCH₂COPh)",
+        "3,3-Diphenylbutan-2-one (Ph₂C(CH₃)COCH₃)"
+      ],
+      "answer": 0,
+      "explanation": "Protonation occurs preferentially at the tertiary benzylic hydroxyl group [-C(OH)Ph₂] because loss of water yields a highly resonance-stabilized diphenyl carbocation [Ph₂C⁺-CH(OH)CH₃]. Subsequently, a 1,2-hydride shift occurs preferentially over methyl migration (hydride has higher migratory aptitude than alkyl), giving 1,1-diphenylpropan-2-one (Ph₂CHCOCH₃).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "1,1-ଡାଇଫିନାଇଲପ୍ରୋପେନ୍-1,2-ଡାଇଅଲ୍ [Ph₂C(OH)CH(OH)CH₃] ର ଅମ୍ଳ-ପ୍ରେରିତ ପିନାକୋଲ୍-ପିନାକୋଲୋନ୍ ପୁନର୍ବିନ୍ୟାସ (Pinacol-Pinacolone rearrangement) ରୁ ମୁଖ୍ୟତଃ କେଉଁ ଉତ୍ପାଦ ମିଳେ?",
+          "options": [
+            "1,1-ଡାଇଫିନାଇଲପ୍ରୋପାନ୍-2-ଓନ୍ (Ph₂CHCOCH₃)",
+            "3,3-ଡାଇଫିନାଇଲପ୍ରୋପାନ୍-1-ଆଲ୍ (Ph₂CHCH₂CHO)",
+            "1,2-ଡାଇଫିନାଇଲପ୍ରୋପାନ୍-1-ଓନ୍ (PhCH₂COPh)",
+            "3,3-ଡାଇଫିନାଇଲବ୍ୟୁଟାନ୍-2-ଓନ୍ (Ph₂C(CH₃)COCH₃)"
+          ],
+          "explanation": "ଟର୍ସିଆରୀ ବେଞ୍ଜାଇଲିକ୍ ହାଇଡ୍ରୋକ୍ସିଲ୍ ଗ୍ରୁପ୍ [-C(OH)Ph₂] ରେ ପ୍ରୋଟୋନେସନ୍ ଅଧିକ ଅନୁକୂଳ ହୁଏ କାରଣ ଜଳ ଅଣୁ ନିଷ୍କାସନ ଫଳରେ ଏକ ଅତ୍ୟନ୍ତ ସ୍ଥାୟୀ ଡାଇଫିନାଇଲ୍ କାର୍ବୋକାଟାୟନ୍ [Ph₂C⁺-CH(OH)CH₃] ସୃଷ୍ଟି ହୁଏ। ଏହା ପରେ, ମିଥାଇଲ୍ ତୁଳନାରେ ହାଇଡ୍ରାଇଡ୍ ର ସ୍ଥାନାନ୍ତରଣ କ୍ଷମତା (migratory aptitude) ଅଧିକ ଥିବାରୁ 1,2-ହାଇଡ୍ରାଇଡ୍ ସିଫ୍ଟ ଘଟି 1,1-ଡାଇଫିନାଇଲପ୍ରୋପାନ୍-2-ଓନ୍ (Ph₂CHCOCH₃) ଉତ୍ପନ୍ନ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788160116233-0",
+      "section": "Child Development",
+      "topic": "Attachment Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Mary Ainsworth's 'Strange Situation' paradigm, an infant who shows little visible distress upon separation from the caregiver, actively avoids or ignores the caregiver upon reunion, and does not exhibit a preference for the caregiver over a stranger is classified as having which attachment style?",
+      "options": [
+        "Secure attachment",
+        "Insecure-avoidant attachment",
+        "Insecure-resistant/ambivalent attachment",
+        "Disorganized/disoriented attachment"
+      ],
+      "answer": 1,
+      "explanation": "In Mary Ainsworth's classification of infant attachment, Insecure-avoidant attachment (Type A) is characterized by minimal exploration impairment, lack of visible distress during separation, and active avoidance or indifference toward the caregiver upon reunion.",
+      "translations": {
+        "or": {
+          "question": "ମେରୀ ଏନ୍ସୱର୍ଥଙ୍କ 'ଷ୍ଟ୍ରେଞ୍ଜ ସିଚୁଏସନ୍' (Strange Situation) ବର୍ଗୀକରଣ ଅନୁଯାୟୀ, ଯେଉଁ ଶିଶୁ ପାଳନକାରୀଙ୍କ ଠାରୁ ଅଲଗା ହେବା ସମୟରେ ବିଶେଷ ବିଚଳିତ ହୁଏ ନାହିଁ, ପୁନର୍ମିଳନ ସମୟରେ ପାଳନକାରୀଙ୍କୁ ଏଡ଼ାଇ ଚାଲେ କିମ୍ବା ଉପେକ୍ଷା କରେ, ଏବଂ ଅପରିଚିତ ବ୍ୟକ୍ତି ତୁଳନାରେ ପାଳନକାରୀଙ୍କୁ ଅଧିକ ପ୍ରାଥମିକତା ଦିଏ ନାହିଁ, ସେ କେଉଁ ପ୍ରକାରର ଅନୁବନ୍ଧନ (attachment) ପ୍ରଦର୍ଶନ କରେ?",
+          "options": [
+            "ସୁରକ୍ଷିତ ଅନୁବନ୍ଧନ (Secure attachment)",
+            "ଅସୁରକ୍ଷିତ-ପରିହାରକାରୀ ଅନୁବନ୍ଧନ (Insecure-avoidant attachment)",
+            "ଅସୁରକ୍ଷିତ-ପ୍ରତିରୋଧୀ/ଦ୍ୱିଧାଗ୍ରସ୍ତ ଅନୁବନ୍ଧନ (Insecure-resistant/ambivalent attachment)",
+            "ବିଶୃଙ୍ଖଳିତ/ଦିଗଭ୍ରଷ୍ଟ ଅନୁବନ୍ଧନ (Disorganized/disoriented attachment)"
+          ],
+          "explanation": "ଏନ୍ସୱର୍ଥଙ୍କ ବର୍ଗୀକରଣ ଅନୁଯାୟୀ, ଅସୁରକ୍ଷିତ-ପରିହାରକାରୀ (Type A) ଶିଶୁମାନେ ଅଲଗା ହେବା ସମୟରେ ବିଶେଷ ପ୍ରତିକ୍ରିୟା ଦେଖାନ୍ତି ନାହିଁ ଏବଂ ପୁନର୍ମିଳନ ସମୟରେ ପାଳନକାରୀଙ୍କୁ ଉପେକ୍ଷା କିମ୍ବା ପରିହାର କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788160116233-1",
+      "section": "Child Development",
+      "topic": "Psychosocial Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Erik Erikson's theory of psychosocial development, which specific developmental crisis and resulting basic virtue are associated with the stage of middle adulthood?",
+      "options": [
+        "Identity vs. Role Confusion — Fidelity",
+        "Intimacy vs. Isolation — Love",
+        "Generativity vs. Stagnation — Care",
+        "Ego Integrity vs. Despair — Wisdom"
+      ],
+      "answer": 2,
+      "explanation": "According to Erikson's eight stages of psychosocial development, middle adulthood (approximately ages 40 to 65) is characterized by the psychosocial crisis of 'Generativity vs. Stagnation', and its successful resolution yields the basic virtue/strength of 'Care'.",
+      "translations": {
+        "or": {
+          "question": "ଏରିକ୍ ଏରିକସନଙ୍କ ମନୋସାମାଜିକ ବିକାଶ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ମଧ୍ୟମ ବୟସ୍କତା (middle adulthood) ସହିତ କେଉଁ ନିର୍ଦ୍ଦିଷ୍ଟ ଦ୍ୱନ୍ଦ୍ୱ (crisis) ଏବଂ ସମ୍ପୃକ୍ତ ମୌଳିକ ସାମର୍ଥ୍ୟ/ଗୁଣ (virtue) ଜଡ଼ିତ?",
+          "options": [
+            "ପରିଚୟ ବନାମ ଭୂମିକା ଭ୍ରାନ୍ତି — ନିଷ୍ଠା (Fidelity)",
+            "ଆନ୍ତରିକତା ବନାମ ଏକାକୀତ୍ୱ — ପ୍ରେମ (Love)",
+            "ଉତ୍ପାଦନଶୀଳତା ବନାମ ସ୍ଥିରତା — ଯତ୍ନ (Care)",
+            "ଅହଂକାର ସମ୍ପୂର୍ଣ୍ଣତା ବନାମ ନୈରାଶ୍ୟ — ଜ୍ଞାନ (Wisdom)"
+          ],
+          "explanation": "ଏରିକସନଙ୍କ ତତ୍ତ୍ୱ ଅନୁସାରେ, ମଧ୍ୟମ ବୟସ୍କତା (ପ୍ରାୟ ୪୦ ରୁ ୬୫ ବର୍ଷ) ରେ ବ୍ୟକ୍ତି 'ଉତ୍ପାଦନଶୀଳତା ବନାମ ସ୍ଥିରତା' (Generativity vs. Stagnation) ସଙ୍କଟର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି ଏବଂ ଏହାର ସଫଳ ସମାଧାନରୁ 'ଯତ୍ନ' (Care) ଗୁଣ ପ୍ରାପ୍ତ ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788160160903-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under Article 280 of the Constitution of India, the Finance Commission is constituted by the President of India at the expiration of every:",
+      "options": [
+        "Third year",
+        "Fourth year",
+        "Fifth year",
+        "Sixth year"
+      ],
+      "answer": 2,
+      "explanation": "Article 280(1) of the Constitution of India states that the President shall, within two years from the commencement of this Constitution and thereafter at the expiration of every fifth year or at such earlier time as the President considers necessary, constitute a Finance Commission.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର ଧାରା ୨୮୦ ଅନୁଯାୟୀ, ଭାରତର ରାଷ୍ଟ୍ରପତିଙ୍କ ଦ୍ୱାରା ପ୍ରତ୍ୟେକ କେତେ ବର୍ଷର ସମାପ୍ତିରେ ଅର୍ଥ ଆୟୋଗ ଗଠନ କରାଯାଏ?",
+          "options": [
+            "ତୃତୀୟ ବର୍ଷ",
+            "ଚତୁର୍ଥ ବର୍ଷ",
+            "ପଞ୍ଚମ ବର୍ଷ",
+            "ଷଷ୍ଠ ବର୍ଷ"
+          ],
+          "explanation": "ଭାରତୀୟ ସମ୍ବିଧାନର ଧାରା ୨୮୦(୧) ଅନୁସାରେ, ରାଷ୍ଟ୍ରପତି ପ୍ରତ୍ୟେକ ପଞ୍ଚମ ବର୍ଷର ସମାପ୍ତିରେ କିମ୍ବା ଆବଶ୍ୟକ ମନେକଲେ ତା' ପୂର୍ବରୁ ଏକ ଅର୍ଥ ଆୟୋଗ ଗଠନ କରିବେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1788160160903-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Through which of the following Acts was a 'Board of Control' established, introducing a system of dual government in the British administration of India?",
+      "options": [
+        "Regulating Act of 1773",
+        "Pitt's India Act of 1784",
+        "Charter Act of 1813",
+        "Charter Act of 1833"
+      ],
+      "answer": 1,
+      "explanation": "Pitt's India Act of 1784 established a 6-member 'Board of Control' to guide and control the work of the Court of Directors and manage political affairs, thereby introducing a system of dual control (diarchy) over British possessions in India.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ କେଉଁ ଅଧିନିୟମ ମାଧ୍ୟମରେ 'ବୋର୍ଡ ଅଫ୍ କଣ୍ଟ୍ରୋଲ୍' (Board of Control) ପ୍ରତିଷ୍ଠା କରାଯାଇ ଭାରତରେ ବ୍ରିଟିଶ ପ୍ରଶାସନର ଏକ ଦ୍ୱୈତ ଶାସନ ବ୍ୟବସ୍ଥା ଆରମ୍ଭ କରାଯାଇଥିଲା?",
+          "options": [
+            "୧୭୭୩ ର ରେଗୁଲେଟିଂ ଆକ୍ଟ",
+            "୧୭୮୪ ର ପିଟ୍ସ ଇଣ୍ଡିଆ ଆକ୍ଟ",
+            "୧୮୧୩ ର ଚାର୍ଟର ଆକ୍ଟ",
+            "୧୮୩୩ ର ଚାର୍ଟର ଆକ୍ଟ"
+          ],
+          "explanation": "୧୭୮୪ ର ପିଟ୍ସ ଇଣ୍ଡିଆ ଆକ୍ଟ ଦ୍ୱାରା ରାଜନୈତିକ ବ୍ୟାପାରଗୁଡ଼ିକର ପରିଚାଳନା ପାଇଁ 'ବୋର୍ଡ ଅଫ୍ କଣ୍ଟ୍ରୋଲ୍' ଗଠନ କରାଯାଇଥିଲା, ଯାହା ଫଳରେ କମ୍ପାନୀର ବାଣିଜ୍ୟିକ ଏବଂ ରାଜନୈତିକ କାର୍ଯ୍ୟ ଅଲଗା ହୋଇ ଦ୍ୱୈତ ଶାସନ ବ୍ୟବସ୍ଥା ଆରମ୍ଭ ହୋଇଥିଲା।"
+        }
+      }
     }
   ]
 }

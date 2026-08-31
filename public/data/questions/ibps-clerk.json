@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9943,6 +9943,38 @@
       ],
       "answer": 2,
       "explanation": "Ratio of investment of P to Q = 45000 : 60000 = 3 : 4. Let the total annual profit be T. Salary of P = 15% of T = 0.15T. Remaining profit to be shared = T - 0.15T = 0.85T. Q's share of the profit = (4 / (3 + 4)) × 0.85T = (4/7) × (17/20)T = (17/35)T. Given that Q's share is ₹18,700: (17/35)T = 18,700 => T = (18,700 × 35) / 17 = 1,100 × 35 = ₹38,500."
+    },
+    {
+      "id": "ibps-clerk-ai-1788155466506-0",
+      "section": "Quant",
+      "topic": "Quadratic Equations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, two equations numbered I and II are given. Solve both equations and determine the relationship between x and y:\nI. x² - 11x + 30 = 0\nII. y² - 7y + 12 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y or relationship cannot be established"
+      ],
+      "answer": 0,
+      "explanation": "From equation I:\nx² - 11x + 30 = 0\n(x - 5)(x - 6) = 0\n⇒ x = 5, 6\n\nFrom equation II:\ny² - 7y + 12 = 0\n(y - 3)(y - 4) = 0\n⇒ y = 3, 4\n\nComparing values:\nWhen x = 5, x > 3 and x > 4\nWhen x = 6, x > 3 and x > 4\nIn all cases, x > y."
+    },
+    {
+      "id": "ibps-clerk-ai-1788155466507-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A trader marks up the price of goods by 40% above the cost price and allows a discount of 15% on the marked price. Additionally, he uses a faulty balance that reads 1000 grams for an actual weight of 900 grams while selling. What is his overall profit percentage (rounded to one decimal place)?",
+      "options": [
+        "28.5%",
+        "32.2%",
+        "35.6%",
+        "30.0%"
+      ],
+      "answer": 1,
+      "explanation": "Let the cost price of 1 gram = ₹1.\nCost price of 1000 grams = ₹1000.\nMarked price = 1000 × 1.40 = ₹1400.\nSelling price after a 15% discount on marked price = 1400 × 0.85 = ₹1190.\n\nSince the trader uses a faulty weight, he sells 900 grams for ₹1190.\nCost price of 900 grams to the trader = ₹900.\nProfit = ₹1190 - ₹900 = ₹290.\nProfit percentage = (290 / 900) × 100 = 32.22% ≈ 32.2%."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -13570,6 +13570,176 @@
       ],
       "answer": 1,
       "explanation": "In Vroom's formula (Motivation = Valence × Expectancy × Instrumentality): Expectancy is Effort-to-Performance (E->P), Instrumentality is Performance-to-Outcome (P->O), and Valence is the perceived value of the outcome (V)."
+    },
+    {
+      "id": "odisha-ssb-ai-1788159600213-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In Daniel Stufflebeam's CIPP (Context, Input, Process, Product) evaluation model, which component is primarily intended to identify system capabilities, available resources, alternative strategies, and procedural designs needed to achieve program objectives?",
+      "options": [
+        "Context Evaluation",
+        "Input Evaluation",
+        "Process Evaluation",
+        "Product Evaluation"
+      ],
+      "answer": 1,
+      "explanation": "In Stufflebeam's CIPP model, Input Evaluation assesses the system's capabilities, resources, potential alternative strategies, and operational plans to determine how resources can best be used to achieve the goals identified in the Context Evaluation.",
+      "translations": {
+        "or": {
+          "question": "ଡାନିଏଲ୍ ଷ୍ଟଫଲବିମ୍ (Daniel Stufflebeam) ଙ୍କ CIPP (Context, Input, Process, Product) ମୂଲ୍ୟାୟନ ମଡେଲରେ, କାର୍ଯ୍ୟକ୍ରମର ଲକ୍ଷ୍ୟ ହାସଲ କରିବା ପାଇଁ ଆବଶ୍ୟକୀୟ ବ୍ୟବସ୍ଥାର କ୍ଷମତା, ଉପଲବ୍ଧ ସମ୍ବଳ, ବିକଳ୍ପ ରଣନୀତି ଏବଂ କାର୍ଯ୍ୟବିଧି ଡିଜାଇନ୍ ଚିହ୍ନଟ କରିବା ମୁଖ୍ୟତଃ କେଉଁ ଉପାଦାନର ଉଦ୍ଦେଶ୍ୟ ଅଟେ?",
+          "options": [
+            "ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାୟନ (Context Evaluation)",
+            "ଇନପୁଟ୍ ମୂଲ୍ୟାୟନ (Input Evaluation)",
+            "ପ୍ରକ୍ରିୟା ମୂଲ୍ୟାୟନ (Process Evaluation)",
+            "ଫଳାଫଳ ମୂଲ୍ୟାୟନ (Product Evaluation)"
+          ],
+          "explanation": "ଷ୍ଟଫଲବିମ୍‌ଙ୍କ CIPP ମଡେଲରେ, ଇନପୁଟ୍ ମୂଲ୍ୟାୟନ (Input Evaluation) ପ୍ରସଙ୍ଗ ମୂଲ୍ୟାୟନରେ ନିର୍ଦ୍ଧାରିତ ଲକ୍ଷ୍ୟ ହାସଲ କରିବା ପାଇଁ ଉପଲବ୍ଧ ସମ୍ବଳ, କ୍ଷମତା ଏବଂ କାର୍ଯ୍ୟାନ୍ୱୟନ ରଣନୀତିଗୁଡ଼ିକର ବିଶ୍ଳେଷଣ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1788159600214-1",
+      "section": "Teaching Aptitude",
+      "topic": "Levels of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following educational thinkers is primarily associated with the development of the 'Reflective Level' model of teaching?",
+      "options": [
+        "John F. Herbart",
+        "H. C. Morrison",
+        "Maurice P. Hunt",
+        "Jerome Bruner"
+      ],
+      "answer": 2,
+      "explanation": "Maurice P. Hunt (along with Lawrence E. Metcalf) is credited with formulating the Reflective Level of teaching (problem-centered and highest cognitive level). John F. Herbart developed the Memory Level, and H.C. Morrison developed the Understanding Level.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ଶିକ୍ଷାବିତ୍‌ମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ମୁଖ୍ୟତଃ ଶିକ୍ଷଣର 'ଚିନ୍ତନଶୀଳ ସ୍ତର' (Reflective Level of Teaching) ମଡେଲର ବିକାଶ ସହିତ ଜଡ଼ିତ?",
+          "options": [
+            "ଜନ୍ ଏଫ୍. ହର୍ବାର୍ଟ (John F. Herbart)",
+            "ଏଚ୍. ସି. ମରିସନ୍ (H. C. Morrison)",
+            "ମରିସ୍ ପି. ହଣ୍ଟ (Maurice P. Hunt)",
+            "ଜେରୋମ୍ ବ୍ରୁନର୍ (Jerome Bruner)"
+          ],
+          "explanation": "ମରିସ୍ ପି. ହଣ୍ଟ (Maurice P. Hunt) ଶିକ୍ଷଣର ଚିନ୍ତନଶୀଳ ସ୍ତର (Reflective Level) ବିକାଶ ସହିତ ଜଡ଼ିତ। ହର୍ବାର୍ଟ ସ୍ମୃତି ସ୍ତର (Memory Level) ଏବଂ ମରିସନ୍ ବୋଧଗମ୍ୟତା ସ୍ତର (Understanding Level) ସହିତ ସମ୍ପୃକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1788159694598-0",
+      "section": "General Studies",
+      "topic": "Odisha Freedom Movement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The historic Eram massacre, famously known as the 'Jallianwala Bagh of Odisha' during the Quit India Movement, took place in which present-day district of Odisha?",
+      "options": [
+        "Bhadrak",
+        "Balasore",
+        "Jajpur",
+        "Kendrapara"
+      ],
+      "answer": 0,
+      "explanation": "On 28 September 1942, British police opened fire on a peaceful gathering at Eram in the Basudevpur block of present-day Bhadrak district, killing 29 people and injuring over 50. Because of this tragedy, Eram is revered as 'Rakta Tirtha' (The Pilgrim of Blood).",
+      "translations": {
+        "or": {
+          "question": "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ଘଟିଥିବା କୁଖ୍ୟାତ ଇରମ ଗୁଳିକାଣ୍ଡ, ଯାହାକୁ 'ଓଡ଼ିଶାର ଜାଲିଆନୱାଲା ବାଗ୍' ବୋଲି କୁହାଯାଏ, ତାହା ଓଡ଼ିଶାର କେଉଁ ବର୍ତ୍ତମାନର ଜିଲ୍ଲାରେ ଘଟିଥିଲା?",
+          "options": [
+            "ଭଦ୍ରକ",
+            "ବାଲେଶ୍ୱର",
+            "ଯାଜପୁର",
+            "କେନ୍ଦ୍ରାପଡ଼ା"
+          ],
+          "explanation": "୨୮ ସେପ୍ଟେମ୍ବର ୧୯୪୨ ରେ ବର୍ତ୍ତମାନର ଭଦ୍ରକ ଜିଲ୍ଲାର ବାସୁଦେବପୁର ବ୍ଲକ ଅନ୍ତର୍ଗତ ଇରମ ଗ୍ରାମରେ ଶାନ୍ତିପୂର୍ଣ୍ଣ ସମାବେଶ ଉପରେ ପୋଲିସ ଗୁଳିଚାଳନା କରିଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ପ୍ରାଣ ହରାଇଥିଲେ। ଏହି ଘଟଣା ଯୋଗୁଁ ଇରମକୁ 'ରକ୍ତତୀର୍ଥ' କୁହାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1788159694598-1",
+      "section": "General Studies",
+      "topic": "Odisha Modern History & Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Following the 1937 provincial elections in British India, who served as the first Prime Minister (Premier) of the newly formed province of Orissa?",
+      "options": [
+        "Biswanath Das",
+        "Krushna Chandra Gajapati Narayan Deb",
+        "Harekrushna Mahatab",
+        "Nabakrushna Choudhury"
+      ],
+      "answer": 1,
+      "explanation": "Maharaja Krushna Chandra Gajapati Narayan Deb of Paralakhemundi formed the first non-Congress interim ministry and served as the first Prime Minister (Premier) of Orissa Province from 1 April 1937 to 19 July 1937, after which Biswanath Das of the Indian National Congress formed the ministry.",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ମସିହାର ପ୍ରାଦେଶିକ ନିର୍ବାଚନ ପରେ, ନୂତନ ଭାବେ ଗଠିତ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ଭାବରେ କିଏ ଦାୟିତ୍ୱ ଗ୍ରହଣ କରିଥିଲେ?",
+          "options": [
+            "ବିଶ୍ୱନାଥ ଦାସ",
+            "କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ନାରାୟଣ ଦେବ",
+            "ହରେକୃଷ୍ଣ ମହତାବ",
+            "ନବକୃଷ୍ଣ ଚୌଧୁରୀ"
+          ],
+          "explanation": "ପାରଳାଖେମୁଣ୍ଡିର ମହାରାଜା କୃଷ୍ଣଚନ୍ଦ୍ର ଗଜପତି ନାରାୟଣ ଦେବ ୧ ଏପ୍ରିଲ ୧୯୩୭ ରୁ ୧୯ ଜୁଲାଇ ୧୯୩୭ ପର୍ଯ୍ୟନ୍ତ ଓଡ଼ିଶା ପ୍ରଦେଶର ପ୍ରଥମ ପ୍ରଧାନମନ୍ତ୍ରୀ (ପ୍ରିମିୟର) ଭାବରେ କାର୍ଯ୍ୟ କରିଥିଲେ। ପରେ ଜୁଲାଇ ୧୯୩୭ ରେ କଂଗ୍ରେସ ପକ୍ଷରୁ ବିଶ୍ୱନାଥ ଦାସ ମନ୍ତ୍ରୀମଣ୍ଡଳ ଗଠନ କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1788159890938-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Judiciary & Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who served as the first Chief Justice of the Orissa High Court upon its formal establishment on 26th July 1948?",
+      "options": [
+        "Justice Bira Kishore Ray",
+        "Justice Lingaraj Panigrahi",
+        "Justice B. Jagannadha Das",
+        "Justice R. L. Narasimham"
+      ],
+      "answer": 0,
+      "explanation": "The High Court of Orissa was formally inaugurated on 26th July 1948 at Cuttack, and Justice Bira Kishore Ray was appointed as its first Chief Justice.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୪୮ ଜୁଲାଇ ୨୬ ତାରିଖରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ (ହାଇକୋର୍ଟ) ପ୍ରତିଷ୍ଠା ହେବା ପରେ ନିମ୍ନଲିଖିତ ବ୍ୟକ୍ତିମାନଙ୍କ ମଧ୍ୟରୁ କିଏ ଏହାର ପ୍ରଥମ ପ୍ରଧାନ ବିଚାରପତି ଭାବରେ କାର୍ଯ୍ୟଭାର ଗ୍ରହଣ କରିଥିଲେ?",
+          "options": [
+            "ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ",
+            "ଜଷ୍ଟିସ୍ ଲିଙ୍ଗରାଜ ପାଣିଗ୍ରାହୀ",
+            "ଜଷ୍ଟିସ୍ ବି. ଜଗନ୍ନାଥ ଦାସ",
+            "ଜଷ୍ଟିସ୍ ଆର୍. ଏଲ୍. ନରସିଂହମ୍"
+          ],
+          "explanation": "୧୯୪୮ ମସିହା ଜୁଲାଇ ୨୬ ତାରିଖରେ କଟକଠାରେ ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟ ଆନୁଷ୍ଠାନିକ ଭାବେ ଉଦଘାଟିତ ହୋଇଥିଲା ଏବଂ ଜଷ୍ଟିସ୍ ବୀର କିଶୋର ରାୟ ଏହାର ପ୍ରଥମ ପ୍ରଧାନ ବିଚାରପତି ଭାବରେ ନିଯୁକ୍ତ ହୋଇଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1788159890938-1",
+      "section": "Odisha GK",
+      "topic": "Ancient & Early Medieval History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which queen regnant of the Bhauma-Kara dynasty assumed the imperial title of 'Parama-Vaisnavi' and issued the celebrated Dhenkanal copper plate grant following the demise of her husband, Santikaradeva I?",
+      "options": [
+        "Tribhuvana Mahadevi I",
+        "Prithvi Mahadevi",
+        "Gauri Mahadevi",
+        "Dandi Mahadevi"
+      ],
+      "answer": 0,
+      "explanation": "Tribhuvana Mahadevi I (also known as Goswamini Devi), the widow of Santikaradeva I, ascended the Bhauma-Kara throne and issued the Dhenkanal copper plate charter in which she is credited with adopting the epithet 'Parama-Vaisnavi'.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିଜ ସ୍ୱାମୀ ପ୍ରଥମ ଶାନ୍ତିକରଦେବଙ୍କ ଦେହାବସାନ ପରେ ଭୌମକର ବଂଶର କେଉଁ ରାଣୀ 'ପରମ-ବୈଷ୍ଣବୀ' ଉପାଧି ଧାରଣ କରି ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ ଏବଂ ପ୍ରସିଦ୍ଧ ଢେଙ୍କାନାଳ ତାମ୍ରଫଳକ ଶାସନ ଜାରି କରିଥିଲେ?",
+          "options": [
+            "ପ୍ରଥମ ତ୍ରିଭୁବନ ମହାଦେବୀ",
+            "ପୃଥ୍ୱୀ ମହାଦେବୀ",
+            "ଗୌରୀ ମହାଦେବୀ",
+            "ଦଣ୍ଡୀ ମହାଦେବୀ"
+          ],
+          "explanation": "ପ୍ରଥମ ଶାନ୍ତିକରଦେବଙ୍କ ପତ୍ନୀ ପ୍ରଥମ ତ୍ରିଭୁବନ ମହାଦେବୀ (ବା ଗୋସ୍ୱାମିନୀ ଦେବୀ) ଭୌମକର ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ ଏବଂ ଢେଙ୍କାନାଳ ତାମ୍ରଶାସନ ଜାରି କରିଥିଲେ, ଯେଉଁଥିରେ ସେ ନିଜକୁ 'ପରମ-ବୈଷ୍ଣବୀ' ଭାବରେ ଅଭିହିତ କରିଛନ୍ତି।"
+        }
+      }
     }
   ]
 }
