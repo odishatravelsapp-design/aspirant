@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9228,6 +9228,38 @@
       ],
       "answer": 2,
       "explanation": "The two statements have a cause-and-effect relationship: the central bank raising rates caused borrowing costs to increase. Starter (I) correctly establishes the chronological sequence and causal link ('Following the central bank's decision to raise benchmark interest rates, borrowing costs...'). Starter (III) directly indicates causality ('Consequent to the benchmark interest rates being raised by the central bank, borrowing costs...'). Starter (II) uses 'In spite of', which expresses contrast or concession, and is contextually incorrect."
+    },
+    {
+      "id": "sbi-clerk-ai-1788325813257-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language:\n'sky is high blue' is written as 'ka ra pa da'\n'sea is deep blue' is written as 'ra ta pa sa'\n'deep water look clear' is written as 'sa na va ma'\n\nWhat is the code for 'sea' in the given code language?",
+      "options": [
+        "ra",
+        "ta",
+        "pa",
+        "sa"
+      ],
+      "answer": 1,
+      "explanation": "Comparing 'sky is high blue' and 'sea is deep blue', the common words are 'is' and 'blue', and the common codes are 'ra' and 'pa'. Thus, {'is', 'blue'} = {'ra', 'pa'}.\nComparing 'sea is deep blue' and 'deep water look clear', the common word is 'deep' and the common code is 'sa'. Thus, 'deep' = 'sa'.\nIn the second statement ('sea is deep blue' = 'ra ta pa sa'), the remaining word is 'sea' and the remaining code is 'ta'. Therefore, the code for 'sea' is 'ta'."
+    },
+    {
+      "id": "sbi-clerk-ai-1788325813257-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Five persons—L, M, N, O, and P—live on five different floors of a 5-storey building where the ground floor is numbered 1 and the topmost floor is numbered 5. Each person drives a different car: Audi, BMW, Creta, Duster, and EcoSport.\n\n- M lives on an odd-numbered floor but not on the lowest floor.\n- L does not live on the topmost floor.\n- The one who drives Creta lives immediately below M.\n- Only two persons live between the one who drives Creta and L.\n- The one who drives BMW lives on floor 1.\n- The one who drives Audi lives on a floor immediately above P, and P does not drive Creta.\n- O lives on a floor above N.\n- The one who drives Duster lives on an odd-numbered floor.\n\nWho among the following drives Duster?",
+      "options": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "answer": 0,
+      "explanation": "1. M lives on an odd floor (3 or 5). If M is on floor 3, Creta is on floor 2, placing L on floor 5, which violates 'L does not live on the topmost floor'. Thus, M lives on Floor 5.\n2. Creta is immediately below M, so Creta is on Floor 4.\n3. Two persons live between Creta (Floor 4) and L, so L lives on Floor 1.\n4. Floor 1 has BMW, so L drives BMW.\n5. The one driving Audi is immediately above P (P != Creta). The only valid placement is P on Floor 2, so Audi is on Floor 3.\n6. O lives on a floor above N, which places O on Floor 4 (Creta) and N on Floor 3 (Audi).\n7. Odd floors are 1 (BMW), 3 (Audi), and 5 (M). Since the Duster owner lives on an odd-numbered floor, M drives Duster (and P drives EcoSport on Floor 2).\nTherefore, M drives Duster."
     }
   ]
 }
