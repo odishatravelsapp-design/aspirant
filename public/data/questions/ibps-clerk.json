@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -9975,6 +9975,40 @@
       ],
       "answer": 1,
       "explanation": "Let the cost price of 1 gram = ₹1.\nCost price of 1000 grams = ₹1000.\nMarked price = 1000 × 1.40 = ₹1400.\nSelling price after a 15% discount on marked price = 1400 × 0.85 = ₹1190.\n\nSince the trader uses a faulty weight, he sells 900 grams for ₹1190.\nCost price of 900 grams to the trader = ₹900.\nProfit = ₹1190 - ₹900 = ₹290.\nProfit percentage = (290 / 900) × 100 = 32.22% ≈ 32.2%."
+    },
+    {
+      "id": "ibps-clerk-ai-1788411146795-0",
+      "section": "General Awareness",
+      "topic": "Banking Technology",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Positive Pay System (PPS) introduced by the Reserve Bank of India for Cheque Truncation System (CTS), banks are required to make the facility available to all account holders issuing cheques of value starting from which minimum threshold?",
+      "options": [
+        "₹25,000",
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under the Positive Pay System (PPS) introduced by the RBI effective January 1, 2021, banks must enable the facility for all account holders issuing cheques for amounts of ₹50,000 and above. While it is at the discretion of the account holder for ₹50,000 and above, banks may consider making it mandatory for amounts of ₹5,00,000 and above.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1788411146795-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Prudential Norms",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India's Basel III capital regulations, what is the minimum Common Equity Tier 1 (CET1) ratio that scheduled commercial banks in India are required to maintain on an ongoing basis (excluding the Capital Conservation Buffer)?",
+      "options": [
+        "4.5%",
+        "5.5%",
+        "7.0%",
+        "9.0%"
+      ],
+      "answer": 1,
+      "explanation": "Under RBI's Basel III capital norms, scheduled commercial banks in India are mandated to maintain a minimum Common Equity Tier 1 (CET1) capital ratio of 5.5% of Risk-Weighted Assets (excluding the Capital Conservation Buffer of 2.5%), which is higher than the international Basel framework requirement of 4.5%.",
+      "status": "pending"
     }
   ]
 }

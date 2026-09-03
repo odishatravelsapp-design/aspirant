@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -5155,6 +5155,118 @@
             "ଜ୍ୟୋତିରାଓ ଫୁଲେ"
           ],
           "explanation": "୧୯୦୫ ମସିହାରେ ଗୋପାଳ କୃଷ୍ଣ ଗୋଖଲେ ମହାରାଷ୍ଟ୍ରର ପୁଣେଠାରେ ଶିକ୍ଷା, ସ୍ୱାସ୍ଥ୍ୟସେବା ଏବଂ ସାମାଜିକ ବିକାଶକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ 'ସର୍ଭେଣ୍ଟସ୍ ଅଫ୍ ଇଣ୍ଡିଆ ସୋସାଇଟି' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788415330336-0",
+      "section": "Teaching Aptitude",
+      "topic": "Gagné's Nine Events of Instruction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Robert Gagné’s Nine Events of Instruction, which internal cognitive process is directly associated with the instructional event of 'Providing learning guidance'?",
+      "options": [
+        "Semantic encoding",
+        "Selective perception",
+        "Expectancy",
+        "Retrieval to working memory"
+      ],
+      "answer": 0,
+      "explanation": "In Robert Gagné's Information Processing model linking instructional events to internal mental processes, 'Providing learning guidance' facilitates the internal process of semantic encoding (helping learners organize and encode information into long-term memory using models, examples, or mnemonics).",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେ (Robert Gagné)ଙ୍କ ଶିକ୍ଷଣର ନଅଟି ପର୍ଯ୍ୟାୟ (Nine Events of Instruction) ଅନୁଯାୟୀ, 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା' (Providing learning guidance) ଶିକ୍ଷାଦାନ କାର୍ଯ୍ୟ ସହିତ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଆଭ୍ୟନ୍ତରୀଣ ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟାଟି ପ୍ରତ୍ୟକ୍ଷ ଭାବରେ ଜଡ଼ିତ?",
+          "options": [
+            "ସିମାଣ୍ଟିକ୍ ଏନକୋଡିଂ (ଅର୍ଥପୂର୍ଣ୍ଣ ସଙ୍କେତନ)",
+            "ନିର୍ବାଚିତ ପ୍ରତ୍ୟକ୍ଷୀକରଣ (Selective perception)",
+            "ପ୍ରତ୍ୟାଶା (Expectancy)",
+            "କାର୍ଯ୍ୟକାରୀ ସ୍ମୃତିକୁ ପୁନରୁଦ୍ଧାର (Retrieval to working memory)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେଙ୍କ ତଥ୍ୟ ପ୍ରକ୍ରିୟାକରଣ ମଡେଲରେ, 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା' (Providing learning guidance) ଆଭ୍ୟନ୍ତରୀଣ ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟା 'ସିମାଣ୍ଟିକ୍ ଏନକୋଡିଂ' (ଅର୍ଥପୂର୍ଣ୍ଣ ସଙ୍କେତନ) ସହିତ ଜଡ଼ିତ, ଯାହା ଶିକ୍ଷାର୍ଥୀଙ୍କୁ ଦୀର୍ଘକାଳୀନ ସ୍ମୃତିରେ ସୂଚନା ସଂରକ୍ଷଣ କରିବାରେ ସାହାଯ୍ୟ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788415330336-1",
+      "section": "Teaching Aptitude",
+      "topic": "Right to Education (RTE) Act, 2009",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the provisions of the Right of Children to Free and Compulsory Education (RTE) Act, 2009, what is the mandated Pupil-Teacher Ratio (PTR) for Upper Primary classes (Classes VI to VIII)?",
+      "options": [
+        "30 : 1",
+        "35 : 1",
+        "40 : 1",
+        "25 : 1"
+      ],
+      "answer": 1,
+      "explanation": "According to the Schedule laid down in the RTE Act 2009, the mandated Pupil-Teacher Ratio (PTR) for primary classes (I to V) is 30:1, while for upper primary classes (VI to VIII), it is 35:1.",
+      "translations": {
+        "or": {
+          "question": "ନିଃଶୁଳ୍କ ଏବଂ ବାଧ୍ୟତାମୂଳକ ଶିକ୍ଷା ଅଧିକାର (RTE) ଅଧିନିୟମ, ୨୦୦୯ ର ନିୟମାବଳୀ ଅନୁଯାୟୀ, ଉଚ୍ଚ ପ୍ରାଥମିକ ଶ୍ରେଣୀ (ଷଷ୍ଠରୁ ଅଷ୍ଟମ ଶ୍ରେଣୀ) ପାଇଁ ନିର୍ଦ୍ଧାରିତ ଛାତ୍ର-ଶିକ୍ଷକ ଅନୁପାତ (PTR) କେତେ?",
+          "options": [
+            "୩୦ : ୧",
+            "୩୫ : ୧",
+            "୪୦ : ୧",
+            "୨୫ : ୧"
+          ],
+          "explanation": "RTE ଆଇନ, ୨୦୦୯ ର ଅନୁସୂଚୀ ଅନୁଯାୟୀ, ପ୍ରାଥମିକ ଶ୍ରେଣୀ (ପ୍ରଥମରୁ ପଞ୍ଚମ) ପାଇଁ ଛାତ୍ର-ଶିକ୍ଷକ ଅନୁପାତ ୩୦:୧ ଏବଂ ଉଚ୍ଚ ପ୍ରାଥମିକ ଶ୍ରେଣୀ (ଷଷ୍ଠରୁ ଅଷ୍ଟମ) ପାଇଁ ଏହି ଅନୁପାତ ୩୫:୧ ରହିବା ବାଧ୍ୟତାମୂଳକ ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788415600092-0",
+      "section": "Child Development",
+      "topic": "Kohlberg's Theory of Moral Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Lawrence Kohlberg's theory of moral development, at which stage does an individual evaluate actions based on interpersonal relationships, mutual expectations, and gaining the social approval of others (the \"good boy–nice girl\" orientation)?",
+      "options": [
+        "Stage 2: Individualism and Exchange",
+        "Stage 3: Good Interpersonal Relationships",
+        "Stage 4: Maintaining the Social Order",
+        "Stage 5: Social Contract and Individual Rights"
+      ],
+      "answer": 1,
+      "explanation": "Stage 3 of Level II (Conventional Morality) in Kohlberg's theory is known as the 'good boy–nice girl' orientation. At this stage, moral behavior is guided by conformity to social stereotypes, seeking interpersonal approval, and maintaining positive relationships.",
+      "translations": {
+        "or": {
+          "question": "ଲରେନ୍ସ କୋହଲବର୍ଗଙ୍କ ନୈତିକ ବିକାଶ ତତ୍ତ୍ୱରେ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଜଣେ ବ୍ୟକ୍ତି ପାରସ୍ପରିକ ସମ୍ପର୍କ, ଆଶା ଏବଂ ସାମାଜିକ ଅନୁମୋଦନ ଲାଭ କରିବା (\"ଭଲ ପୁଅ–ଭଲ ଝିଅ\" ମନୋଭାବ) ଉପରେ ଆଧାର କରି କାର୍ଯ୍ୟର ମୂଲ୍ୟାଙ୍କନ କରେ?",
+          "options": [
+            "ପର୍ଯ୍ୟାୟ ୨: ବ୍ୟକ୍ତିବାଦ ଏବଂ ବିନିମୟ",
+            "ପର୍ଯ୍ୟାୟ ୩: ଉତ୍ତମ ପାରସ୍ପରିକ ସମ୍ପର୍କ",
+            "ପର୍ଯ୍ୟାୟ ୪: ସାମାଜିକ ବ୍ୟବସ୍ଥା ରକ୍ଷା କରିବା",
+            "ପର୍ଯ୍ୟାୟ ୫: ସାମାଜିକ ଚୁକ୍ତି ଏବଂ ବ୍ୟକ୍ତିଗତ ଅଧିକାର"
+          ],
+          "explanation": "କୋହଲବର୍ଗଙ୍କ ତତ୍ତ୍ୱ ଅନୁସାରେ, ପାରମ୍ପରିକ ନୈତିକତାର ପର୍ଯ୍ୟାୟ ୩ ହେଉଛି 'ଭଲ ପୁଅ-ଭଲ ଝିଅ' ମନୋଭାବ, ଯେଉଁଠାରେ ନୈତିକ ଆଚରଣ ଅନ୍ୟମାନଙ୍କ ଅନୁମୋଦନ ଏବଂ ସାମାଜିକ ପ୍ରଶଂସା ପାଇବା ଉପରେ ନିର୍ଭର କରେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1788415600092-1",
+      "section": "Child Development",
+      "topic": "Vygotsky's Socio-Cultural Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the context of Lev Vygotsky's socio-cultural perspective on cognitive development, which concept refers to the temporary instructional support adjusted by a more knowledgeable person to match the learner's current performance level within the Zone of Proximal Development?",
+      "options": [
+        "Reciprocal Determinism",
+        "Assimilation",
+        "Scaffolding",
+        "Enactive Representation"
+      ],
+      "answer": 2,
+      "explanation": "Scaffolding (a term applied to Vygotskian theory by Jerome Bruner) refers to adjusting the assistance provided to a learner to fit their current level of competence, which is gradually withdrawn as mastery increases within the Zone of Proximal Development (ZPD).",
+      "translations": {
+        "or": {
+          "question": "ଜ୍ଞାନାତ୍ମକ ବିକାଶ ସମ୍ବନ୍ଧୀୟ ଲେଭ୍ ଭାଇଗୋଟସ୍କିଙ୍କ ସାମାଜିକ-ସାଂସ୍କୃତିକ ଦୃଷ୍ଟିକୋଣ ଅନୁଯାୟୀ, ସନ୍ନିହିତ ବିକାଶ କ୍ଷେତ୍ର (ZPD) ମଧ୍ୟରେ ଏକ ଶିକ୍ଷାର୍ଥୀର ବର୍ତ୍ତମାନର ଦକ୍ଷତା ସ୍ତର ଅନୁସାରେ ଜଣେ ଅଧିକ ଜ୍ଞାନୀ ବ୍ୟକ୍ତି ଦ୍ୱାରା ପ୍ରଦାନ କରାଯାଉଥିବା ଅସ୍ଥାୟୀ ଶିକ୍ଷଣ ସହାୟତାକୁ କ'ଣ କୁହାଯାଏ?",
+          "options": [
+            "ପାରସ୍ପରିକ ନିର୍ଣ୍ଣୟବାଦ",
+            "ଆତ୍ମସାତ୍କରଣ",
+            "ସ୍କାଫୋଲ୍ଡିଂ (Scaffolding)",
+            "ଏନାକ୍ଟିଭ୍ ପ୍ରତିନିଧିତ୍ୱ"
+          ],
+          "explanation": "ସ୍କାଫୋଲ୍ଡିଂ (Scaffolding) ହେଉଛି ଏକ ଅସ୍ଥାୟୀ ସହାୟକ ବ୍ୟବସ୍ଥା, ଯାହା ଶିକ୍ଷାର୍ଥୀର ବର୍ତ୍ତମାନର ଦକ୍ଷତା ଅନୁଯାୟୀ ଦିଆଯାଏ ଏବଂ ଶିକ୍ଷାର୍ଥୀ ସେହି କାର୍ଯ୍ୟରେ ଦକ୍ଷ ହେବା ପରେ ଏହି ସହାୟତାକୁ ଧୀରେ ଧୀରେ କମାଇ ଦିଆଯାଏ।"
         }
       }
     }
