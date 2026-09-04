@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10008,6 +10008,40 @@
       ],
       "answer": 1,
       "explanation": "Under RBI's Basel III capital norms, scheduled commercial banks in India are mandated to maintain a minimum Common Equity Tier 1 (CET1) capital ratio of 5.5% of Risk-Weighted Assets (excluding the Capital Conservation Buffer of 2.5%), which is higher than the international Basel framework requirement of 4.5%.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1788497686230-0",
+      "section": "General Awareness",
+      "topic": "Banking Terminology",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the context of the Indian banking system, what does the letter 'C' stand for in the acronym 'IFSC'?",
+      "options": [
+        "Credit",
+        "Code",
+        "Centre",
+        "Corporation"
+      ],
+      "answer": 1,
+      "explanation": "IFSC stands for Indian Financial System Code. It is an 11-character alphanumeric code that uniquely identifies bank branches participating in online fund transfer systems like NEFT and RTGS.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1788497686230-1",
+      "section": "General Awareness",
+      "topic": "Foreign Exchange & Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Liberalised Remittance Scheme (LRS) of the Reserve Bank of India, what is the maximum permissible limit a resident individual can remit abroad per financial year?",
+      "options": [
+        "USD 100,000",
+        "USD 200,000",
+        "USD 250,000",
+        "USD 500,000"
+      ],
+      "answer": 2,
+      "explanation": "Under the Liberalised Remittance Scheme (LRS), all resident individuals, including minors, are allowed to freely remit up to USD 250,000 per financial year (April-March) for any permissible current or capital account transaction or a combination of both.",
       "status": "pending"
     }
   ]
