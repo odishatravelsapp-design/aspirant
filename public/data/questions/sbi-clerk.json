@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9292,6 +9292,38 @@
       ],
       "answer": 2,
       "explanation": "For 3 years at 10% p.a.:\nSimple Interest = 3 × 10% = 30% of Principal (P).\nCompound Interest = (1.10)³ - 1 = 1.331 - 1 = 33.1% of P.\nDifference = 33.1% - 30% = 3.1% of P.\nGiven, 3.1% of P = ₹930\nP = (930 × 100) / 3.1 = ₹30,000.\n\nNow, for P = ₹30,000 at 15% p.a. for 2 years compounded annually:\nEffective rate of CI for 2 years = 15 + 15 + (15 × 15)/100 = 32.25%.\nCI = 32.25% of ₹30,000 = 0.3225 × 30,000 = ₹9,675."
+    },
+    {
+      "id": "sbi-clerk-ai-1788583782744-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n(3/8) × 512 + 15² - 17 × 12 = ?",
+      "options": [
+        "203",
+        "213",
+        "219",
+        "225"
+      ],
+      "answer": 1,
+      "explanation": "Follow the order of operations (BODMAS):\n(3/8) × 512 = 3 × 64 = 192\n15² = 225\n17 × 12 = 204\nNow combine the terms:\n192 + 225 - 204 = 417 - 204 = 213."
+    },
+    {
+      "id": "sbi-clerk-ai-1788583782744-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two pipes A and B can fill a tank in 18 hours and 24 hours respectively, while an emptying pipe C can empty the full tank in 36 hours. Pipe A is opened at 7:00 AM, pipe B is opened at 9:00 AM, and pipe C is opened at 10:00 AM. At what time will the tank be completely filled?",
+      "options": [
+        "8:48 PM",
+        "9:24 PM",
+        "9:45 PM",
+        "10:12 PM"
+      ],
+      "answer": 1,
+      "explanation": "Let the total capacity of the tank be LCM(18, 24, 36) = 72 units.\nRate of pipe A = 72 / 18 = +4 units/hour\nRate of pipe B = 72 / 24 = +3 units/hour\nRate of pipe C = 72 / 36 = -2 units/hour\n\nWork done before 10:00 AM:\nFrom 7:00 AM to 9:00 AM (2 hours), only A works: 2 × 4 = 8 units\nFrom 9:00 AM to 10:00 AM (1 hour), A and B work: 1 × (4 + 3) = 7 units\nTotal filled by 10:00 AM = 8 + 7 = 15 units.\nRemaining capacity to fill = 72 - 15 = 57 units.\n\nFrom 10:00 AM onwards, all three pipes are open:\nNet filling rate = 4 + 3 - 2 = 5 units/hour.\nTime required to fill the remaining 57 units = 57 / 5 = 11.4 hours = 11 hours 24 minutes.\n\nAdding 11 hours 24 minutes to 10:00 AM:\n10:00 AM + 11 hours 24 minutes = 9:24 PM."
     }
   ]
 }

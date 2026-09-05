@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10043,6 +10043,38 @@
       "answer": 2,
       "explanation": "Under the Liberalised Remittance Scheme (LRS), all resident individuals, including minors, are allowed to freely remit up to USD 250,000 per financial year (April-March) for any permissible current or capital account transaction or a combination of both.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1788583490165-0",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Two trains running in opposite directions on parallel tracks at speeds of 54 km/h and 72 km/h cross each other completely in 10 seconds. If the length of the first train is 160 meters, what is the length of the second train?",
+      "options": [
+        "210 meters",
+        "175 meters",
+        "190 meters",
+        "185 meters"
+      ],
+      "answer": 2,
+      "explanation": "When two trains travel in opposite directions, their relative speed is the sum of their individual speeds.\nRelative Speed = 54 + 72 = 126 km/h.\nConverting to m/s: 126 × (5 / 18) = 7 × 5 = 35 m/s.\nTotal distance covered in crossing each other = Sum of the lengths of the two trains.\nDistance = Speed × Time = 35 m/s × 10 s = 350 meters.\nLength of the second train = 350 - 160 = 190 meters."
+    },
+    {
+      "id": "ibps-clerk-ai-1788583490165-1",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Taps P, Q, and R can fill an empty cistern individually in 15 hours, 20 hours, and 30 hours respectively. All three taps are opened simultaneously. Tap P is turned off after 3 hours, and Tap Q is turned off 4 hours before the cistern is completely filled. What is the total time taken to fill the cistern completely?",
+      "options": [
+        "15 hours",
+        "12 hours",
+        "10 hours",
+        "14 hours"
+      ],
+      "answer": 1,
+      "explanation": "Let the capacity of the cistern be LCM(15, 20, 30) = 60 units.\nEfficiency of Tap P = 60 / 15 = 4 units/hour.\nEfficiency of Tap Q = 60 / 20 = 3 units/hour.\nEfficiency of Tap R = 60 / 30 = 2 units/hour.\n\nLet the total time taken to fill the cistern completely be T hours.\nTap P works for 3 hours: Work done by P = 3 × 4 = 12 units.\nTap Q works for (T - 4) hours: Work done by Q = 3 × (T - 4) units.\nTap R works for the entire T hours: Work done by R = 2 × T units.\n\nTotal work done = 60 units:\n12 + 3(T - 4) + 2T = 60\n12 + 3T - 12 + 2T = 60\n5T = 60\nT = 12 hours."
     }
   ]
 }
