@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8415,6 +8415,38 @@
       "answer": 2,
       "explanation": "Effective from April 1, 2021, the RBI introduced the Legal Entity Identifier (LEI) system for all payment transactions of ₹50 crore and above undertaken by non-individual entities through RTGS and NEFT centralized payment systems.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1788671452899-0",
+      "section": "Quant",
+      "topic": "Pipes and Cisterns",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Two filling pipes A and B can fill an empty cistern in 12 hours and 15 hours respectively, while an emptying pipe C can empty the full cistern in 20 hours. All three pipes are opened together at 7:00 AM, and pipe C is closed at 10:00 AM. At what time will the cistern be completely filled?",
+      "options": [
+        "2:40 PM",
+        "3:20 PM",
+        "2:15 PM",
+        "1:50 PM"
+      ],
+      "answer": 0,
+      "explanation": "Let total capacity be the LCM(12, 15, 20) = 60 units. Rate of A = 60/12 = +5 units/hr, rate of B = 60/15 = +4 units/hr, rate of C = -60/20 = -3 units/hr. Combined rate of A, B, and C = 5 + 4 - 3 = 6 units/hr. From 7:00 AM to 10:00 AM (3 hours), work done = 3 × 6 = 18 units. Remaining capacity = 60 - 18 = 42 units. After 10:00 AM, only A and B are working, with combined rate = 5 + 4 = 9 units/hr. Time required = 42 / 9 = 14/3 hours = 4 hours 40 minutes. Adding 4 hours 40 minutes to 10:00 AM gives 2:40 PM."
+    },
+    {
+      "id": "ibps-po-ai-1788671452899-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Train P of length 240 m running at 72 km/h crosses a platform of length L meters in 27 seconds. Another train Q running at 90 km/h in the opposite direction crosses Train P completely in 12 seconds. How much time (in seconds) will Train Q take to cross the same platform of length L?",
+      "options": [
+        "20 seconds",
+        "28 seconds",
+        "24 seconds",
+        "18 seconds"
+      ],
+      "answer": 2,
+      "explanation": "Speed of Train P = 72 × (5/18) = 20 m/s. Distance to cross platform = Length of P + L = 20 × 27 = 540 m. Thus, L = 540 - 240 = 300 m. Speed of Train Q = 90 × (5/18) = 25 m/s. Relative speed when crossing each other in opposite directions = 20 + 25 = 45 m/s. Total distance crossed = Length of P + Length of Q = 45 × 12 = 540 m. Since Length of P = 240 m, Length of Q = 540 - 240 = 300 m. To cross the platform of length 300 m, Train Q covers distance = Length of Q + L = 300 + 300 = 600 m. Time taken = 600 / 25 = 24 seconds."
     }
   ]
 }

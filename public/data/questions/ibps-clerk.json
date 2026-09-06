@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10075,6 +10075,38 @@
       ],
       "answer": 1,
       "explanation": "Let the capacity of the cistern be LCM(15, 20, 30) = 60 units.\nEfficiency of Tap P = 60 / 15 = 4 units/hour.\nEfficiency of Tap Q = 60 / 20 = 3 units/hour.\nEfficiency of Tap R = 60 / 30 = 2 units/hour.\n\nLet the total time taken to fill the cistern completely be T hours.\nTap P works for 3 hours: Work done by P = 3 × 4 = 12 units.\nTap Q works for (T - 4) hours: Work done by Q = 3 × (T - 4) units.\nTap R works for the entire T hours: Work done by R = 2 × T units.\n\nTotal work done = 60 units:\n12 + 3(T - 4) + 2T = 60\n12 + 3T - 12 + 2T = 60\n5T = 60\nT = 12 hours."
+    },
+    {
+      "id": "ibps-clerk-ai-1788670690177-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the most appropriate phrasal verb to fill in the blank:\n\nThe management decided to ________ the proposal as it was deemed financially unviable.",
+      "options": [
+        "turn down",
+        "take after",
+        "look into",
+        "bring about"
+      ],
+      "answer": 0,
+      "explanation": "'Turn down' means to reject or refuse an offer or proposal. In this context, the management rejected the unviable proposal. 'Take after' means to resemble an older relative, 'look into' means to investigate, and 'bring about' means to cause something to happen."
+    },
+    {
+      "id": "ibps-clerk-ai-1788670690177-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence given below, identify the part that contains a grammatical error:\n\nSeldom we have witnessed (A) / such unprecedented volatility (B) / in the foreign exchange market (C) / within a single trading session. (D)",
+      "options": [
+        "Seldom we have witnessed",
+        "such unprecedented volatility",
+        "in the foreign exchange market",
+        "within a single trading session"
+      ],
+      "answer": 0,
+      "explanation": "When a sentence begins with a negative or restrictive adverb like 'seldom', 'hardly', or 'rarely', subject-auxiliary inversion is mandatory. Therefore, 'Seldom we have witnessed' should be replaced by 'Seldom have we witnessed'."
     }
   ]
 }

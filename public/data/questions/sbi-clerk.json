@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9324,6 +9324,38 @@
       ],
       "answer": 1,
       "explanation": "Let the total capacity of the tank be LCM(18, 24, 36) = 72 units.\nRate of pipe A = 72 / 18 = +4 units/hour\nRate of pipe B = 72 / 24 = +3 units/hour\nRate of pipe C = 72 / 36 = -2 units/hour\n\nWork done before 10:00 AM:\nFrom 7:00 AM to 9:00 AM (2 hours), only A works: 2 × 4 = 8 units\nFrom 9:00 AM to 10:00 AM (1 hour), A and B work: 1 × (4 + 3) = 7 units\nTotal filled by 10:00 AM = 8 + 7 = 15 units.\nRemaining capacity to fill = 72 - 15 = 57 units.\n\nFrom 10:00 AM onwards, all three pipes are open:\nNet filling rate = 4 + 3 - 2 = 5 units/hour.\nTime required to fill the remaining 57 units = 57 / 5 = 11.4 hours = 11 hours 24 minutes.\n\nAdding 11 hours 24 minutes to 10:00 AM:\n10:00 AM + 11 hours 24 minutes = 9:24 PM."
+    },
+    {
+      "id": "sbi-clerk-ai-1788670834729-0",
+      "section": "Quant",
+      "topic": "Quadratic Equations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, two equations numbered I and II are given. You have to solve both the equations and determine the relationship between x and y:\nI. x² - 13x + 40 = 0\nII. y² - 17y + 72 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y"
+      ],
+      "answer": 3,
+      "explanation": "Solving Equation I:\nx² - 13x + 40 = 0\n(x - 5)(x - 8) = 0\nx = 5 or x = 8\n\nSolving Equation II:\ny² - 17y + 72 = 0\n(y - 8)(y - 9) = 0\ny = 8 or y = 9\n\nComparing the values of x and y:\nFor x = 5: 5 < 8 and 5 < 9 (x < y)\nFor x = 8: 8 = 8 and 8 < 9 (x ≤ y)\n\nTherefore, combining the results gives x ≤ y."
+    },
+    {
+      "id": "sbi-clerk-ai-1788670834729-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red, 4 blue, and 3 green balls. If three balls are drawn at random simultaneously from the bag, what is the probability that at least two of the drawn balls are red?",
+      "options": [
+        "4/11",
+        "7/22",
+        "5/11",
+        "9/22"
+      ],
+      "answer": 0,
+      "explanation": "Total number of balls = 5 (red) + 4 (blue) + 3 (green) = 12 balls.\nTotal number of ways to choose 3 balls from 12 = ¹²C₃ = (12 × 11 × 10) / (3 × 2 × 1) = 220.\n\nFavorable outcomes for 'at least two red balls':\nCase 1: Exactly 2 red balls and 1 non-red ball (out of 7 non-red balls):\nNumber of ways = ⁵C₂ × ⁷C₁ = 10 × 7 = 70.\n\nCase 2: Exactly 3 red balls:\nNumber of ways = ⁵C₃ = 10.\n\nTotal favorable outcomes = 70 + 10 = 80.\n\nProbability = 80 / 220 = 4/11."
     }
   ]
 }
