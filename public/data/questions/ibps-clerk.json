@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10107,6 +10107,38 @@
       ],
       "answer": 0,
       "explanation": "When a sentence begins with a negative or restrictive adverb like 'seldom', 'hardly', or 'rarely', subject-auxiliary inversion is mandatory. Therefore, 'Seldom we have witnessed' should be replaced by 'Seldom have we witnessed'."
+    },
+    {
+      "id": "ibps-clerk-ai-1788929999861-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, a sentence is divided into four parts: (A), (B), (C), and (D). Identify the part that contains a grammatical error.\n\nUnless you do not apologize (A) / to the branch manager, (B) / you will not be allowed (C) / to resume your duties. (D)",
+      "options": [
+        "Unless you do not apologize",
+        "to the branch manager,",
+        "you will not be allowed",
+        "to resume your duties."
+      ],
+      "answer": 0,
+      "explanation": "The conjunction 'unless' already expresses a negative condition (meaning 'if not'). Using 'do not' along with 'unless' creates a redundant double negative. The correct phrasing should be 'Unless you apologize'."
+    },
+    {
+      "id": "ibps-clerk-ai-1788929999862-1",
+      "section": "English",
+      "topic": "Word Usage",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question given below, a word is given followed by three sentences in which the word is used. Identify the sentence(s) in which the word is used correctly.\n\nCAST\nI. The fishermen cast their nets into the deep waters at dawn.\nII. The sudden economic slowdown has cast serious doubt on the revival of the sector.\nIII. The director casted several fresh faces for the upcoming historical drama.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "All I, II and III"
+      ],
+      "answer": 2,
+      "explanation": "In sentences I and II, 'cast' is used correctly in the senses of throwing something and causing a condition/doubt to exist. In sentence III, 'casted' is grammatically incorrect because 'cast' is an irregular verb whose past tense and past participle forms are both 'cast', not 'casted'. Therefore, only sentences I and II are correct."
     }
   ]
 }
