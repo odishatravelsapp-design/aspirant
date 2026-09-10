@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10139,6 +10139,38 @@
       ],
       "answer": 2,
       "explanation": "In sentences I and II, 'cast' is used correctly in the senses of throwing something and causing a condition/doubt to exist. In sentence III, 'casted' is grammatically incorrect because 'cast' is an irregular verb whose past tense and past participle forms are both 'cast', not 'casted'. Therefore, only sentences I and II are correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1789016429741-0",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Seven persons – P, Q, R, S, T, U, and V – are sitting around a circular table facing the centre.\n• R sits third to the right of P.\n• Only two persons sit between R and U.\n• S sits second to the left of U.\n• Q is an immediate neighbour of neither P nor R.\n• T sits to the immediate left of V.\n\nWho among the following sits second to the right of T?",
+      "options": [
+        "R",
+        "P",
+        "S",
+        "U"
+      ],
+      "answer": 0,
+      "explanation": "Let the 7 positions around the circle be numbered 1 to 7 in clockwise order, all facing the centre (facing centre means clockwise is left and anti-clockwise is right):\n1. Place P at position 1. Third to the right of P (anti-clockwise) is position 5, so R is at 5.\n2. Only two persons sit between R and U: going clockwise from R (5), two seats lead to seat 1 (already occupied by P); going anti-clockwise (seats 4, 3) leads to seat 2, so U is at position 2.\n3. S sits second to the left of U: left of seat 2 (clockwise) is seat 4, so S is at position 4.\n4. Q is not a neighbour of P (seats 7, 2) or R (seats 6, 4). The remaining empty positions are 3, 6, and 7. Thus, Q must be at position 3.\n5. T sits to the immediate left of V: the remaining positions are 6 and 7. Immediate left of seat 6 is seat 7, so V is at position 6 and T is at position 7.\n\nThe final clockwise arrangement is: P(1) – U(2) – Q(3) – S(4) – R(5) – V(6) – T(7).\nT is at position 7. Facing the centre, the first to the right of T is V (position 6) and the second to the right of T is R (position 5). Hence, R sits second to the right of T."
+    },
+    {
+      "id": "ibps-clerk-ai-1789016429742-1",
+      "section": "Reasoning",
+      "topic": "Designation Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – A, B, C, D, E, F, and G – hold different designations in an organization: Chairman, General Manager (GM), Deputy General Manager (DGM), Assistant General Manager (AGM), Manager, Assistant Manager (AM), and Clerk. The Chairman is the senior-most designation and the Clerk is the junior-most designation.\n• Three persons are senior to C, and E is immediately senior to C.\n• Only two persons hold a designation between E and B, where B is junior to E.\n• The number of persons junior to B is the same as the number of persons senior to G.\n• F is immediately senior to B.\n• D is senior to A.\n\nWho among the following holds the designation of Chairman?",
+      "options": [
+        "G",
+        "D",
+        "E",
+        "C"
+      ],
+      "answer": 1,
+      "explanation": "Designation hierarchy from senior (1) to junior (7):\n1. Chairman\n2. GM\n3. DGM\n4. AGM\n5. Manager\n6. AM\n7. Clerk\n\nStep-by-step deduction:\n1. 'Three persons are senior to C' implies C is 4th in seniority, so C is AGM.\n2. 'E is immediately senior to C' implies E is 3rd in seniority, so E is DGM.\n3. 'Only two persons hold a designation between E and B, where B is junior to E': between rank 3 (E) and B are two ranks (4 and 5). Thus, B is at rank 6 (AM).\n4. 'The number of persons junior to B is the same as the number of persons senior to G': only 1 person is junior to B (Clerk). Hence, exactly 1 person must be senior to G, which means G is at rank 2 (GM).\n5. 'F is immediately senior to B': since B is rank 6, F is at rank 5 (Manager).\n6. The remaining designations are rank 1 (Chairman) and rank 7 (Clerk). Since 'D is senior to A', D is the Chairman (rank 1) and A is the Clerk (rank 7).\n\nFinal order:\n1. Chairman – D\n2. GM – G\n3. DGM – E\n4. AGM – C\n5. Manager – F\n6. AM – B\n7. Clerk – A\n\nTherefore, D holds the designation of Chairman."
     }
   ]
 }
