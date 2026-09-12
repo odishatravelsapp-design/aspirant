@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8447,6 +8447,70 @@
       ],
       "answer": 2,
       "explanation": "Speed of Train P = 72 × (5/18) = 20 m/s. Distance to cross platform = Length of P + L = 20 × 27 = 540 m. Thus, L = 540 - 240 = 300 m. Speed of Train Q = 90 × (5/18) = 25 m/s. Relative speed when crossing each other in opposite directions = 20 + 25 = 45 m/s. Total distance crossed = Length of P + Length of Q = 45 × 12 = 540 m. Since Length of P = 240 m, Length of Q = 540 - 240 = 300 m. To cross the platform of length 300 m, Train Q covers distance = Length of Q + L = 300 + 300 = 600 m. Time taken = 600 / 25 = 24 seconds."
+    },
+    {
+      "id": "ibps-po-ai-1789189578968-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, assuming the given statements to be true, determine which of the conclusions logically follow(s).\n\nStatements:\nOnly a few pens are pencils.\nNo pencil is an eraser.\nSome erasers are rulers.\n\nConclusions:\nI. All pens can never be erasers.\nII. Some rulers being pencils is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor conclusion II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From the statements, 'Only a few pens are pencils' implies that some pens are pencils and some pens are not pencils. Since 'No pencil is an eraser', the portion of pens that are pencils can never be erasers. Hence, it is impossible for all pens to be erasers, so Conclusion I ('All pens can never be erasers') definitely follows. For Conclusion II, only the portion of rulers that are erasers cannot be pencils; the remaining portion of rulers has no restriction with pencils, so 'Some rulers being pencils is a possibility' is true and follows. Therefore, both conclusions follow."
+    },
+    {
+      "id": "ibps-po-ai-1789189578968-1",
+      "section": "Reasoning",
+      "topic": "Floor and Box Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven boxes — A, B, C, D, E, F, and G — are kept one above another in a single vertical stack, but not necessarily in the same order. The bottommost box is numbered 1 and the topmost box is numbered 7.\n\n• Box G is kept immediately above Box C.\n• Only two boxes are kept between Box C and Box A.\n• Box D is kept immediately below Box A.\n• Only three boxes are kept between Box D and Box B.\n• Box E is kept above Box F, but neither of them is kept at the topmost or bottommost position.\n\nWhich of the following boxes is kept immediately above Box A?",
+      "options": [
+        "Box E",
+        "Box D",
+        "Box F",
+        "Box G"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step arrangement:\n1. If Box C is at position 1, Box G must be immediately above it at position 2.\n2. Since two boxes are kept between C (position 1) and A, Box A is at position 4.\n3. Box D is immediately below Box A, so Box D is at position 3.\n4. Three boxes are kept between D (position 3) and B, which places Box B at position 7 (with positions 4, 5, and 6 in between).\n5. The only remaining empty positions are 5 and 6. Since Box E is kept above Box F, Box E is placed at position 6 and Box F at position 5. Neither is at the topmost (7) or bottommost (1) position.\n\nStack from top (7) to bottom (1):\n7: Box B\n6: Box E\n5: Box F\n4: Box A\n3: Box D\n2: Box G\n1: Box C\n\nTherefore, Box F (position 5) is kept immediately above Box A (position 4)."
+    },
+    {
+      "id": "ibps-po-ai-1789189590488-0",
+      "section": "English",
+      "topic": "Contextual Word Usage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the following question, a word has been used in three different sentences (I, II, and III). Identify the sentence(s) in which the word has been used correctly.\n\nTENABLE\n\nI. The argument that inflation is purely transitory is no longer tenable in the face of persistent supply-chain shocks.\nII. Having served the bank faithfully for three decades, the branch manager was deemed tenable for the lifetime achievement award.\nIII. The fortress was constructed atop steep cliffs, rendering its tactical position tenable against prolonged hostile sieges.",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and III",
+        "Both II and III"
+      ],
+      "answer": 2,
+      "explanation": "'Tenable' means capable of being maintained, defended, or justified against attack or objection (applicable to arguments/theories as in sentence I, or military positions/places as in sentence III). In sentence II, the word is used incorrectly in place of 'eligible', 'worthy', or 'qualified', as 'tenable' does not describe an individual being entitled to an award."
+    },
+    {
+      "id": "ibps-po-ai-1789189590488-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the sentence below, identify the segment that contains a grammatical error.\n\nTo preempt any contagion across the shadow banking sector, (A) / the inquiry panel recommended that the distressed lender (B) / be placed under special administration and its chief executive officer (C) / relinquishes his operational authority immediately. (D)",
+      "options": [
+        "To preempt any contagion across the shadow banking sector,",
+        "the inquiry panel recommended that the distressed lender",
+        "be placed under special administration and its chief executive officer",
+        "relinquishes his operational authority immediately."
+      ],
+      "answer": 3,
+      "explanation": "Segment D contains an error. The verb 'recommended' introduces a mandative subjunctive clause, which requires the base (bare infinitive) form of the verb. In the coordinate structure, while the first verb 'be placed' correctly uses the subjunctive mood, the second verb 'relinquishes' incorrectly uses the third-person singular present indicative. It must be corrected to the base form 'relinquish' to maintain grammatical parallelism: '...and its chief executive officer relinquish his operational authority immediately.'"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10171,6 +10171,102 @@
       ],
       "answer": 1,
       "explanation": "Designation hierarchy from senior (1) to junior (7):\n1. Chairman\n2. GM\n3. DGM\n4. AGM\n5. Manager\n6. AM\n7. Clerk\n\nStep-by-step deduction:\n1. 'Three persons are senior to C' implies C is 4th in seniority, so C is AGM.\n2. 'E is immediately senior to C' implies E is 3rd in seniority, so E is DGM.\n3. 'Only two persons hold a designation between E and B, where B is junior to E': between rank 3 (E) and B are two ranks (4 and 5). Thus, B is at rank 6 (AM).\n4. 'The number of persons junior to B is the same as the number of persons senior to G': only 1 person is junior to B (Clerk). Hence, exactly 1 person must be senior to G, which means G is at rank 2 (GM).\n5. 'F is immediately senior to B': since B is rank 6, F is at rank 5 (Manager).\n6. The remaining designations are rank 1 (Chairman) and rank 7 (Clerk). Since 'D is senior to A', D is the Chairman (rank 1) and A is the Clerk (rank 7).\n\nFinal order:\n1. Chairman – D\n2. GM – G\n3. DGM – E\n4. AGM – C\n5. Manager – F\n6. AM – B\n7. Clerk – A\n\nTherefore, D holds the designation of Chairman."
+    },
+    {
+      "id": "ibps-clerk-ai-1789188483586-0",
+      "section": "Quant",
+      "topic": "Number Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What should come in place of the question mark (?) in the following number series?\n6, 13, 28, 59, 122, ?",
+      "options": [
+        "249",
+        "247",
+        "251",
+        "245"
+      ],
+      "answer": 0,
+      "explanation": "The pattern followed in the series is:\n6 × 2 + 1 = 13\n13 × 2 + 2 = 28\n28 × 2 + 3 = 59\n59 × 2 + 4 = 122\n122 × 2 + 5 = 244 + 5 = 249.\nHence, the correct number is 249."
+    },
+    {
+      "id": "ibps-clerk-ai-1789188483586-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B together can complete a piece of work in 24 days, while B and C together can complete the same work in 30 days. If A is twice as efficient as C, in how many days can B alone complete the entire work?",
+      "options": [
+        "36 days",
+        "40 days",
+        "45 days",
+        "48 days"
+      ],
+      "answer": 1,
+      "explanation": "Let the 1-day work of A, B, and C be a, b, and c respectively.\nGiven:\n1) a + b = 1/24\n2) b + c = 1/30\n\nSubtracting equation (2) from equation (1):\na - c = 1/24 - 1/30 = (5 - 4) / 120 = 1/120.\n\nSince A is twice as efficient as C, we have a = 2c.\nSubstituting a = 2c:\n2c - c = 1/120  =>  c = 1/120.\n\nNow, find b using equation (2):\nb = 1/30 - c = 1/30 - 1/120 = (4 - 1) / 120 = 3/120 = 1/40.\n\nHence, B alone can complete the entire work in 40 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1789188537372-0",
+      "section": "Reasoning",
+      "topic": "Number-based Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The following five three-digit numbers are given:\n\n582   394   761   843   625\n\nIf the positions of the first and the third digits within each number are interchanged, what will be the sum of the digits of the second lowest number thus formed?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "Interchanging the first and the third digits of each number:\n- 582 becomes 285\n- 394 becomes 493\n- 761 becomes 167\n- 843 becomes 348\n- 625 becomes 526\n\nArranging the newly formed numbers in ascending order: 167, 285, 348, 493, 526.\nThe second lowest number formed is 285.\nThe sum of its digits is 2 + 8 + 5 = 15."
+    },
+    {
+      "id": "ibps-clerk-ai-1789188537372-1",
+      "section": "Reasoning",
+      "topic": "Age Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Seven persons – A, B, C, D, E, F, and G – were born in seven different years: 1968, 1974, 1981, 1989, 1995, 2002, and 2008. All ages are calculated with respect to the base year 2024.\n\n- Only two persons are older than C.\n- The age of B is an odd prime number.\n- The difference between the ages of B and E is 7 years.\n- The difference between the ages of D and G is 21 years, and D is older than G.\n- A is not the youngest person.\n\nWhat is the sum of the ages of the second oldest person and the second youngest person?",
+      "options": [
+        "68 years",
+        "72 years",
+        "75 years",
+        "79 years"
+      ],
+      "answer": 1,
+      "explanation": "Calculate ages with respect to 2024:\n1968: 56 years\n1974: 50 years\n1981: 43 years\n1989: 35 years\n1995: 29 years\n2002: 22 years\n2008: 16 years\n\n1. 'Only two persons are older than C' implies C is the third oldest, so C is 43 years old (born in 1981).\n2. 'The age of B is an odd prime number.' The prime ages are 43 and 29. Since C is 43, B must be 29 years old (born in 1995).\n3. 'The difference between the ages of B and E is 7 years.' Since B is 29, E can be 22 or 36. From the given ages, 22 is present, so E is 22 years old (born in 2002).\n4. 'The difference between the ages of D and G is 21 years, and D is older than G.' Remaining ages are 56, 50, 35, and 16. The only pair with a difference of 21 is 56 and 35. Therefore, D = 56 years (born in 1968) and G = 35 years (born in 1989).\n5. Remaining ages: 50 and 16. Remaining persons: A and F. Since A is not the youngest, A = 50 years (born in 1974) and F = 16 years (born in 2008).\n\nThe second oldest person is A (50 years) and the second youngest person is E (22 years).\nSum of their ages = 50 + 22 = 72 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1789188587516-0",
+      "section": "English",
+      "topic": "Fill in the Blanks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Choose the pair of words that best completes the sentence logically and grammatically:\n\nOwing to the ________ economic conditions, the board of directors was compelled to ________ several capital-intensive projects.",
+      "options": [
+        "turbulent, defer",
+        "flourishing, expedite",
+        "stable, abandon",
+        "volatile, commence"
+      ],
+      "answer": 0,
+      "explanation": "'Turbulent' appropriately describes uncertain or troubled economic conditions, and 'defer' (meaning to postpone or put off) logically explains the action taken by the board of directors in response to such conditions."
+    },
+    {
+      "id": "ibps-clerk-ai-1789188587516-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following phrases should replace the underlined part to make the sentence grammatically correct?\n\nNot until the forensic audit was finalized, <u>the board members had understood the full impact</u> of the accounting irregularities.",
+      "options": [
+        "did the board members understand the full impact",
+        "the board members understood the full impact",
+        "had the board members understood the full impact",
+        "would the board members understand the full impact"
+      ],
+      "answer": 0,
+      "explanation": "When a sentence begins with a negative or restrictive expression like 'Not until...', negative inversion is required in the main clause. Since the audit was finalized in the simple past, the main clause correctly takes 'did the board members understand'."
     }
   ]
 }
