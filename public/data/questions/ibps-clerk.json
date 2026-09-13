@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10267,6 +10267,102 @@
       ],
       "answer": 0,
       "explanation": "When a sentence begins with a negative or restrictive expression like 'Not until...', negative inversion is required in the main clause. Since the audit was finalized in the simple past, the main clause correctly takes 'did the board members understand'."
+    },
+    {
+      "id": "ibps-clerk-ai-1789275803921-0",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The ratio of the length to the breadth of a rectangular field is 7 : 5. If the perimeter of the field is 96 meters, what is the area of the field?",
+      "options": [
+        "540 sq. m",
+        "560 sq. m",
+        "580 sq. m",
+        "620 sq. m"
+      ],
+      "answer": 1,
+      "explanation": "Let the length and breadth be 7x and 5x respectively. Perimeter of rectangle = 2(length + breadth) = 2(7x + 5x) = 24x. Given, 24x = 96 => x = 4. Length = 7 × 4 = 28 m, Breadth = 5 × 4 = 20 m. Area = Length × Breadth = 28 × 20 = 560 sq. m."
+    },
+    {
+      "id": "ibps-clerk-ai-1789275803921-1",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Vessel A contains a 120-litre mixture of milk and water in the ratio 5 : 1, and Vessel B contains an 80-litre mixture of milk and water in the ratio 3 : 2. If 30 litres of mixture is taken out from Vessel A and poured into Vessel B, and then 22 litres of the resulting mixture is removed from Vessel B, what is the final quantity of water remaining in Vessel B?",
+      "options": [
+        "28.4 litres",
+        "29.6 litres",
+        "30.2 litres",
+        "31.8 litres"
+      ],
+      "answer": 1,
+      "explanation": "In Vessel A (120 L, ratio 5:1): Milk = 100 L, Water = 20 L. From Vessel A, 30 L is transferred: Milk transferred = 30 × (5/6) = 25 L, Water transferred = 30 × (1/6) = 5 L. In Vessel B initially (80 L, ratio 3:2): Milk = 48 L, Water = 32 L. After adding 30 L from A to B: Total quantity in B = 80 + 30 = 110 L, Milk in B = 48 + 25 = 73 L, Water in B = 32 + 5 = 37 L. When 22 L of this mixture is removed from B: Fraction removed = 22/110 = 1/5. Water removed = 37 × (1/5) = 7.4 L. Water remaining in B = 37 - 7.4 = 29.6 litres."
+    },
+    {
+      "id": "ibps-clerk-ai-1789275816012-0",
+      "section": "Reasoning",
+      "topic": "Number Test",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many digits in the number '842951637' will remain in the same position when the digits are arranged in ascending order from left to right?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "explanation": "Original number: 8 4 2 9 5 1 6 3 7. When arranged in ascending order from left to right: 1 2 3 4 5 6 7 8 9. Comparing position by position, only the digit '5' remains at the 5th position from the left. Thus, exactly one digit remains unchanged."
+    },
+    {
+      "id": "ibps-clerk-ai-1789275816012-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the question below, some statements are given followed by two conclusions. Read all the statements and determine which of the given conclusions logically follow(s).\n\nStatements:\nOnly a few laptops are tablets.\nAll tablets are mobiles.\nNo mobile is a charger.\n\nConclusions:\nI. Some laptops are not mobiles.\nII. All laptops can never be chargers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "Neither conclusion I nor II follows"
+      ],
+      "answer": 1,
+      "explanation": "For Conclusion I: 'Only a few laptops are tablets' implies some laptops are tablets and some laptops are not tablets. However, all laptops can potentially be mobiles without violating the premise, so 'Some laptops are not mobiles' is not definitely true. For Conclusion II: Some laptops are tablets, and all tablets are mobiles, which means some laptops are definitely mobiles. Since no mobile is a charger, those laptops that are mobiles/tablets can never be chargers. Hence, it is impossible for all laptops to be chargers, making 'All laptops can never be chargers' definitely true. Therefore, only conclusion II follows."
+    },
+    {
+      "id": "ibps-clerk-ai-1789275834092-0",
+      "section": "English",
+      "topic": "Antonyms",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the option that is most nearly OPPOSITE in meaning to the given word:\n\nMETICULOUS",
+      "options": [
+        "Careless",
+        "Thorough",
+        "Accurate",
+        "Methodical"
+      ],
+      "answer": 0,
+      "explanation": "'Meticulous' means showing great attention to detail, very careful, and precise. Its opposite is 'Careless', which means not giving sufficient attention or thought to avoiding harm or errors. 'Thorough', 'Accurate', and 'Methodical' are synonyms or closely related in meaning to 'meticulous'."
+    },
+    {
+      "id": "ibps-clerk-ai-1789275834092-1",
+      "section": "English",
+      "topic": "Sentence Connectors",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the connector from the options that can logically join the two sentences into a single meaningful sentence:\n\nI. The government offered substantial subsidies to encourage the adoption of electric vehicles.\nII. The sales figures in rural markets remained surprisingly stagnant.",
+      "options": [
+        "Although",
+        "Therefore",
+        "Since",
+        "Because"
+      ],
+      "answer": 0,
+      "explanation": "Statement I describes an effort to boost sales (offering subsidies), while Statement II presents an outcome contrary to expectations (sales remained stagnant). The conjunction 'Although' is used to express contrast ('Although the government offered substantial subsidies..., the sales figures... remained surprisingly stagnant'). 'Therefore', 'Since', and 'Because' denote cause-and-effect and are logically incorrect here."
     }
   ]
 }
