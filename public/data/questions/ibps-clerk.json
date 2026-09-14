@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10363,6 +10363,136 @@
       ],
       "answer": 0,
       "explanation": "Statement I describes an effort to boost sales (offering subsidies), while Statement II presents an outcome contrary to expectations (sales remained stagnant). The conjunction 'Although' is used to express contrast ('Although the government offered substantial subsidies..., the sales figures... remained surprisingly stagnant'). 'Therefore', 'Since', and 'Because' denote cause-and-effect and are logically incorrect here."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362740583-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A boat travels 36 km downstream in 3 hours and 24 km upstream in 4 hours. What is the speed of the stream?",
+      "options": [
+        "1.5 km/h",
+        "3 km/h",
+        "4.5 km/h",
+        "6 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Downstream speed (D) = 36 / 3 = 12 km/h.\nUpstream speed (U) = 24 / 4 = 6 km/h.\nSpeed of the stream = (D - U) / 2 = (12 - 6) / 2 = 3 km/h."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362740583-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The curved surface area of a right circular cylinder of height 20 cm is 880 cm². A solid cone has the same base radius as the cylinder and a height of 24 cm. What is the total surface area of the cone? (Take π = 22/7)",
+      "options": [
+        "616 cm²",
+        "704 cm²",
+        "748 cm²",
+        "814 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Curved surface area of the cylinder = 2πrh = 880 cm².\n2 × (22/7) × r × 20 = 880\n(880/7) × r = 880 ⇒ r = 7 cm.\nSo, base radius of the cone (r) = 7 cm and height (h) = 24 cm.\nSlant height of the cone (l) = √(r² + h²) = √(7² + 24²) = √(49 + 576) = √625 = 25 cm.\nTotal surface area of the cone = πr(l + r) = (22/7) × 7 × (25 + 7) = 22 × 32 = 704 cm²."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362819978-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In a class of 45 students, Priya ranks 15th from the top, and Rahul ranks 21st from the bottom. If Amit sits exactly halfway between Priya and Rahul, what is Amit's rank from the top?",
+      "options": [
+        "19th",
+        "20th",
+        "21st",
+        "22nd"
+      ],
+      "answer": 1,
+      "explanation": "Priya's rank from the top = 15th.\nRahul's rank from the bottom = 21st.\nTo find Rahul's rank from the top: Total - Rank from bottom + 1 = 45 - 21 + 1 = 25th.\nThe students situated between Priya and Rahul occupy ranks 16 through 24, which is a total of (25 - 15 - 1) = 9 students.\nSince Amit sits exactly halfway between them, his rank from the top = 15 + (9 + 1) / 2 = 15 + 5 = 20th."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362819978-1",
+      "section": "Reasoning",
+      "topic": "Box Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six boxes – J, K, L, M, N, and O – are stacked one above another in a vertical rack, but not necessarily in the same order. The bottommost shelf is numbered 1 and the topmost shelf is numbered 6.\n- Box N is placed immediately below Box L.\n- Exactly two boxes are placed between Box L and Box K.\n- Box O is placed above Box K, but Box O is not at the topmost position.\n- Box M is placed immediately above Box J.\n- Box J is placed below Box K.\n\nWhich box is placed at the bottommost position (shelf 1)?",
+      "options": [
+        "Box J",
+        "Box K",
+        "Box M",
+        "Box N"
+      ],
+      "answer": 0,
+      "explanation": "1. Box M is immediately above Box J, and Box J is below Box K, which means Box K cannot be at shelf 1 or 2.\n2. Exactly two boxes are between L and K. If K = 3, L must be at shelf 6 (since L cannot be at 0). Then Box N is immediately below Box L, placing N at shelf 5.\n3. The remaining shelves are 4, 2, and 1. Box O is above Box K (shelf 3) and not at the topmost shelf, so Box O must be at shelf 4.\n4. Box M is immediately above Box J, filling the remaining consecutive shelves 2 and 1: Box M is at shelf 2, and Box J is at shelf 1.\n5. If K were at shelf 4, 5, or 6, it would violate the conditions regarding L or O. Thus, the unique arrangement from top to bottom (6 to 1) is: L, N, O, K, M, J.\nTherefore, Box J is at shelf 1."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362856050-0",
+      "section": "English",
+      "topic": "Sentence Rearrangement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Rearrange the following five fragments (A), (B), (C), (D), and (E) in the proper sequence to form a coherent and grammatically correct sentence:\n\n(A) across major financial institutions\n(B) to curb illegal transactions\n(C) the central bank has mandated\n(D) stricter verification norms\n(E) for all high-value accounts",
+      "options": [
+        "C-D-E-A-B",
+        "B-C-A-D-E",
+        "C-A-D-B-E",
+        "D-E-A-B-C"
+      ],
+      "answer": 0,
+      "explanation": "The proper sequence is C-D-E-A-B: 'The central bank has mandated (C) stricter verification norms (D) for all high-value accounts (E) across major financial institutions (A) to curb illegal transactions (B).' This arrangement follows standard grammatical structure: Subject + Verb + Object + Prepositional modifiers + Purpose clause."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362856050-1",
+      "section": "English",
+      "topic": "Match the Columns",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following question, two columns are provided, each containing three sentence fragments. Match each fragment from Column 1 with its appropriate counterpart from Column 2 to form grammatically correct and contextually meaningful sentences.\n\nColumn 1:\n(A) The committee recommended a complete overhaul\n(B) Due to an unexpected technical glitch,\n(C) She was apprehensive about the interview,\n\nColumn 2:\n(D) but she managed to impress the panel with her poise.\n(E) of the existing regulatory framework to ensure transparency.\n(F) the scheduled online examination had to be postponed.",
+      "options": [
+        "A-E and B-F only",
+        "A-D and B-E only",
+        "A-E, B-F, and C-D",
+        "B-F and C-E only"
+      ],
+      "answer": 2,
+      "explanation": "Fragment (A) logically and grammatically connects with (E) ('complete overhaul of the existing regulatory framework...'). Fragment (B) correctly connects with (F) to form a cause-and-effect sentence ('Due to an unexpected technical glitch, the scheduled online examination had to be postponed.'). Fragment (C) connects with (D) using the contrast conjunction 'but' ('She was apprehensive... but she managed to impress...'). Thus, all three pairs (A-E, B-F, C-D) form meaningful sentences."
+    },
+    {
+      "id": "ibps-clerk-ai-1789362882593-0",
+      "section": "General Awareness",
+      "topic": "Government Social Security Schemes",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), what is the life insurance cover amount payable to the nominee upon the death of the insured subscriber due to any cause?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹3,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) offers a renewable one-year life insurance coverage of ₹2,00,000 in case of death of the insured person due to any reason, available to individuals in the age group of 18 to 50 years.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789362882593-1",
+      "section": "General Awareness",
+      "topic": "Banking Laws & Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 138 of the Negotiable Instruments Act, 1881, what is the maximum imprisonment term that can be imposed for the offence of dishonour of a cheque due to insufficiency of funds?",
+      "options": [
+        "Up to 6 months",
+        "Up to 1 year",
+        "Up to 2 years",
+        "Up to 3 years"
+      ],
+      "answer": 2,
+      "explanation": "As per Section 138 of the Negotiable Instruments Act, 1881 (amended by the 2002 amendment), the drawer of a dishonoured cheque can be punished with imprisonment for a term which may extend to two years, or with a fine which may extend to twice the amount of the cheque, or with both.",
+      "status": "pending"
     }
   ]
 }
