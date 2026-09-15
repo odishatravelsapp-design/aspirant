@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10492,6 +10492,104 @@
       ],
       "answer": 2,
       "explanation": "As per Section 138 of the Negotiable Instruments Act, 1881 (amended by the 2002 amendment), the drawer of a dishonoured cheque can be punished with imprisonment for a term which may extend to two years, or with a fine which may extend to twice the amount of the cheque, or with both.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789448792700-0",
+      "section": "Quant",
+      "topic": "Averages",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The average score of 20 students in an examination is 54. When the scores of the top two rankers are excluded, the average score of the remaining students decreases by 2. If the highest score is 18 marks more than the second-highest score, what is the highest score?",
+      "options": [
+        "78",
+        "81",
+        "84",
+        "72"
+      ],
+      "answer": 1,
+      "explanation": "Total score of 20 students = 20 × 54 = 1080. When top 2 students are excluded, remaining students = 18 and new average = 54 - 2 = 52. Total score of remaining 18 students = 18 × 52 = 936. Sum of scores of top two rankers = 1080 - 936 = 144. Let the highest score be H and second-highest be S. Then H + S = 144 and H - S = 18. Adding both equations gives 2H = 162, so H = 81."
+    },
+    {
+      "id": "ibps-clerk-ai-1789448792700-1",
+      "section": "Quant",
+      "topic": "Probability",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A bag contains 5 red balls, 4 blue balls, and 3 green balls. If three balls are drawn at random without replacement, what is the probability that at least two of the drawn balls are red?",
+      "options": [
+        "3/11",
+        "5/22",
+        "4/11",
+        "7/22"
+      ],
+      "answer": 2,
+      "explanation": "Total number of balls = 5 + 4 + 3 = 12. Total ways to draw 3 balls from 12 = 12C3 = (12 × 11 × 10) / (3 × 2 × 1) = 220. The event 'at least two red balls' includes two cases: Case 1: Exactly 2 red balls and 1 non-red ball = 5C2 × 7C1 = 10 × 7 = 70. Case 2: All 3 red balls = 5C3 = 10. Total favorable outcomes = 70 + 10 = 80. Required probability = 80 / 220 = 4/11."
+    },
+    {
+      "id": "ibps-clerk-ai-1789448979440-0",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the pair of words that best completes the sentence logically and grammatically:\n\nThe municipal corporation decided to ________ the heritage building rather than demolish it, recognising its ________ value to the city's history.",
+      "options": [
+        "renovate, negligible",
+        "restore, immense",
+        "dismantle, historical",
+        "abandon, profound"
+      ],
+      "answer": 1,
+      "explanation": "The phrase 'rather than demolish it' sets up a contrast, indicating that the building was preserved or repaired ('restore'). Furthermore, the clause 'recognising its... value' requires a positive adjective highlighting its importance ('immense'). Hence, 'restore, immense' fits both blanks accurately."
+    },
+    {
+      "id": "ibps-clerk-ai-1789448979440-1",
+      "section": "English",
+      "topic": "Sentence Correction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Out of the four sentences given below, identify the one that is grammatically CORRECT.",
+      "options": [
+        "Neither the manager nor the employees was available for comment after the meeting.",
+        "Each of the candidates have to clear the preliminary screening before the interview.",
+        "She is one of those diligent researchers who always submits reports ahead of time.",
+        "Not only did the manager approve the budget, but she also sanctioned the additional resources."
+      ],
+      "answer": 3,
+      "explanation": "Option D correctly uses negative inversion with 'Not only did the manager approve...' followed by the parallel coordinator 'but she also sanctioned...'. In option A, the subject closest to the verb ('employees') is plural, so the verb should be 'were'. In option B, 'Each' is singular and requires 'has' instead of 'have'. In option C, the relative pronoun 'who' refers to the plural antecedent 'diligent researchers', requiring the plural verb 'submit' instead of 'submits'."
+    },
+    {
+      "id": "ibps-clerk-ai-1789449064239-0",
+      "section": "General Awareness",
+      "topic": "Negotiable Instruments",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the validity period of a cheque or demand draft from the date of issuance in India?",
+      "options": [
+        "1 month",
+        "6 months",
+        "3 months",
+        "12 months"
+      ],
+      "answer": 2,
+      "explanation": "Effective from April 1, 2012, the Reserve Bank of India (RBI) reduced the validity period of cheques, drafts, pay orders, and banker's cheques from 6 months to 3 months from the date of the instrument.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789449064239-1",
+      "section": "General Awareness",
+      "topic": "Reserve Bank of India Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 24 of the Reserve Bank of India Act, 1934, what is the maximum denomination of a banknote that can be issued in India?",
+      "options": [
+        "₹10,000",
+        "₹5,000",
+        "₹20,000",
+        "₹50,000"
+      ],
+      "answer": 0,
+      "explanation": "As per Section 24 of the RBI Act, 1934, banknotes may be issued in denominations not exceeding ten thousand rupees (₹10,000) as specified by the Central Government on the recommendation of the Central Board of the RBI.",
       "status": "pending"
     }
   ]
