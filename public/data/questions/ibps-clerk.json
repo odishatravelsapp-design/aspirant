@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10591,6 +10591,38 @@
       "answer": 0,
       "explanation": "As per Section 24 of the RBI Act, 1934, banknotes may be issued in denominations not exceeding ten thousand rupees (₹10,000) as specified by the Central Government on the recommendation of the Central Board of the RBI.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789621508657-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n35% of 420 + ?% of 340 = 266",
+      "options": [
+        "28",
+        "35",
+        "32",
+        "40"
+      ],
+      "answer": 1,
+      "explanation": "35% of 420 = (35/100) × 420 = 147.\nGiven: 147 + ?% of 340 = 266\n?% of 340 = 266 - 147 = 119\n(? / 100) × 340 = 119\n? = (119 × 100) / 340 = 1190 / 34 = 35."
+    },
+    {
+      "id": "ibps-clerk-ai-1789621508657-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper bought a certain number of pens at the rate of 8 pens for ₹30 and an equal number of pens at the rate of 12 pens for ₹35. He mixed them together and sold all of them at the rate of 10 pens for ₹36. What is his overall profit or loss percentage?",
+      "options": [
+        "6.25% profit",
+        "8% loss",
+        "8% profit",
+        "10% profit"
+      ],
+      "answer": 2,
+      "explanation": "Let the number of pens bought in each lot be LCM(8, 12, 10) = 120 pens.\nCost Price of 1st lot = (120 / 8) × ₹30 = 15 × 30 = ₹450.\nCost Price of 2nd lot = (120 / 12) × ₹35 = 10 × 35 = ₹350.\nTotal Cost Price (CP) for 240 pens = ₹450 + ₹350 = ₹800.\nTotal Selling Price (SP) of 240 pens = (240 / 10) × ₹36 = 24 × 36 = ₹864.\nTotal Profit = SP - CP = ₹864 - ₹800 = ₹64.\nProfit % = (Profit / CP) × 100 = (64 / 800) × 100 = 8% profit."
     }
   ]
 }

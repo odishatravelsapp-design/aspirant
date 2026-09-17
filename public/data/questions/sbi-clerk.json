@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9420,6 +9420,38 @@
       ],
       "answer": 2,
       "explanation": "Step-by-step arrangement from bottom (1) to top (7):\n1. Box R is immediately above Box U, and T is above U with 2 boxes between them. If U is at 1, R is at 2, and T is at 4 (boxes at 2 and 3 are between them).\n2. Box Q is above T, and Box P is immediately below Q. So, Q can be at 6 or 7.\n- If Q is at 7, P is at 6. But then only one box between P (6) and S requires S to be at 4 (which is already occupied by T), so this is invalid.\n- Thus, Q must be at 6 and P at 5. Then S is placed at position 3 (leaving T at 4 between P and S).\n3. The remaining position 7 must be occupied by Box V. This also satisfies the condition that Box V is not at the bottom (position 1).\n\nThe final stack from 7 to 1 is: 7: V, 6: Q, 5: P, 4: T, 3: S, 2: R, 1: U.\nTherefore, Box V is kept at the topmost position."
+    },
+    {
+      "id": "sbi-clerk-ai-1789621885254-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The present age of a father is 4 times that of his son. Six years ago, the father was 7 times as old as his son was at that time. What will be the sum of their ages 4 years from now?",
+      "options": [
+        "60 years",
+        "68 years",
+        "72 years",
+        "64 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the present age of the son be S years. Then the present age of the father is 4S years.\nAccording to the condition 6 years ago:\n(4S - 6) = 7(S - 6)\n4S - 6 = 7S - 42\n3S = 36 => S = 12 years.\nFather's present age = 4 × 12 = 48 years.\nFour years from now:\nFather's age = 48 + 4 = 52 years\nSon's age = 12 + 4 = 16 years\nSum of their ages = 52 + 16 = 68 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1789621885254-1",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Train A, travelling at a speed of 72 km/h, completely crosses a 220-metre-long platform in 20 seconds. Train B, travelling in the opposite direction at a speed of 36 km/h, crosses Train A completely in 12 seconds. How much time (in seconds) will Train B take to cross a vertical pole?",
+      "options": [
+        "15",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "Speed of Train A in m/s = 72 × (5/18) = 20 m/s.\nDistance covered by Train A in 20 seconds = 20 × 20 = 400 m.\nLength of Train A = Total distance - Length of platform = 400 - 220 = 180 m.\n\nSpeed of Train B in m/s = 36 × (5/18) = 10 m/s.\nSince they travel in opposite directions, Relative Speed = 20 + 10 = 30 m/s.\nDistance covered while crossing each other in 12 seconds = 30 × 12 = 360 m.\nTotal distance = Length of Train A + Length of Train B\n360 = 180 + Length of Train B => Length of Train B = 180 m.\n\nTime taken by Train B to cross a vertical pole = Length of Train B / Speed of Train B = 180 / 10 = 18 seconds."
     }
   ]
 }
