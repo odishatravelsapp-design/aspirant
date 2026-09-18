@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -10069,6 +10069,62 @@
             "୧୮୩୩ ର ଚାର୍ଟର ଆକ୍ଟ"
           ],
           "explanation": "୧୭୮୪ ର ପିଟ୍ସ ଇଣ୍ଡିଆ ଆକ୍ଟ ଦ୍ୱାରା ରାଜନୈତିକ ବ୍ୟାପାରଗୁଡ଼ିକର ପରିଚାଳନା ପାଇଁ 'ବୋର୍ଡ ଅଫ୍ କଣ୍ଟ୍ରୋଲ୍' ଗଠନ କରାଯାଇଥିଲା, ଯାହା ଫଳରେ କମ୍ପାନୀର ବାଣିଜ୍ୟିକ ଏବଂ ରାଜନୈତିକ କାର୍ଯ୍ୟ ଅଲଗା ହୋଇ ଦ୍ୱୈତ ଶାସନ ବ୍ୟବସ୍ଥା ଆରମ୍ଭ ହୋଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1789711467111-0",
+      "section": "Teaching Aptitude",
+      "topic": "Gagné's Hierarchy of Learning",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Robert Gagné's cumulative learning hierarchy (The Conditions of Learning), which of the following represents the highest and most complex level of learning?",
+      "options": [
+        "Concept Learning",
+        "Rule Learning",
+        "Problem Solving",
+        "Multiple Discrimination"
+      ],
+      "answer": 2,
+      "explanation": "Robert Gagné proposed an eight-level cumulative hierarchy of learning, ordered from simplest to most complex: (1) Signal Learning, (2) Stimulus-Response Learning, (3) Chaining, (4) Verbal Association, (5) Multiple Discrimination, (6) Concept Learning, (7) Rule Learning, and (8) Problem Solving. Therefore, Problem Solving occupies the highest and most advanced level.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେ (Robert Gagné)ଙ୍କ କ୍ରମବର୍ଦ୍ଧିଷ୍ଣୁ ଶିକ୍ଷଣ ଶ୍ରେଣୀକ୍ରମ (The Conditions of Learning) ଅନୁଯାୟୀ, ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଶିକ୍ଷଣର ସର୍ବୋଚ୍ଚ ତଥା ସବୁଠାରୁ ଜଟିଳ ସ୍ତରକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ?",
+          "options": [
+            "ଧାରଣା ଶିକ୍ଷଣ (Concept Learning)",
+            "ନିୟମ ଶିକ୍ଷଣ (Rule Learning)",
+            "ସମସ୍ୟା ସମାଧାନ (Problem Solving)",
+            "ବହୁବିଧ ବିଭେଦୀକରଣ (Multiple Discrimination)"
+          ],
+          "explanation": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେ ଶିକ୍ଷଣର ଆଠୋଟି କ୍ରମବର୍ଦ୍ଧିଷ୍ଣୁ ସ୍ତର ପ୍ରସ୍ତାବ କରିଥିଲେ: (୧) ସଙ୍କେତ ଶିକ୍ଷଣ, (୨) ଉଦ୍ଦୀପକ-ପ୍ରତିକ୍ରିୟା ଶିକ୍ଷଣ, (୩) ଶୃଙ୍ଖଳନ, (୪) ଶାବ୍ଦିକ ସହଯୋଗ, (୫) ବହୁବିଧ ବିଭେଦୀକରଣ, (୬) ଧାରଣା ଶିକ୍ଷଣ, (୭) ନିୟମ ଶିକ୍ଷଣ, ଏବଂ (୮) ସମସ୍ୟା ସମାଧାନ। ତେଣୁ 'ସମସ୍ୟା ସମାଧାନ' ସର୍ବୋଚ୍ଚ ତଥା ସବୁଠାରୁ ଉନ୍ନତ ସ୍ତର ଅଟେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1789711467111-1",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the classification of Models of Teaching formulated by Bruce Joyce and Marsha Weil, under which of the following families does Richard Suchman's 'Inquiry Training Model' fall?",
+      "options": [
+        "Information Processing Family",
+        "Social Interaction Family",
+        "Personal Family",
+        "Behavioral Systems Family"
+      ],
+      "answer": 0,
+      "explanation": "Bruce Joyce and Marsha Weil categorized models of teaching into four broad families: Information Processing, Social Interaction, Personal, and Behavioral Systems. Richard Suchman's Inquiry Training Model belongs to the Information Processing Family, as it is designed to teach students causal reasoning, hypothesis testing, and systematic data gathering.",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରୁସ୍ ଜଏସ୍ ଏବଂ ମାର୍ଶା ୱେଲ୍ (Bruce Joyce and Marsha Weil)ଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତୁତ ଶିକ୍ଷଣ ମଡେଲ୍‌ର ବର୍ଗୀକରଣରେ, ରିଚାର୍ଡ ସଚମ୍ୟାନ୍ (Richard Suchman)ଙ୍କ 'ଅନୁସନ୍ଧାନ ତାଲିମ ମଡେଲ୍' (Inquiry Training Model) ନିମ୍ନୋକ୍ତ କେଉଁ ପରିବାର ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ ପରିବାର (Information Processing Family)",
+            "ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା ପରିବାର (Social Interaction Family)",
+            "ବ୍ୟକ୍ତିଗତ ପରିବାର (Personal Family)",
+            "ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ ପରିବାର (Behavioral Systems Family)"
+          ],
+          "explanation": "ବ୍ରୁସ୍ ଜଏସ୍ ଏବଂ ମାର୍ଶା ୱେଲ୍ ଶିକ୍ଷଣ ମଡେଲ୍‌ଗୁଡ଼ିକୁ ଚାରୋଟି ପରିବାରରେ ବିଭକ୍ତ କରିଥିଲେ: ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ, ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା, ବ୍ୟକ୍ତିଗତ ଏବଂ ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ। ରିଚାର୍ଡ ସଚମ୍ୟାନ୍‌ଙ୍କ 'ଅନୁସନ୍ଧାନ ତାଲିମ ମଡେଲ୍' ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ ପରିବାରର ଅନ୍ତର୍ଗତ, କାରଣ ଏହା ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ କାରଣ-ପ୍ରଭାବ ଯୁକ୍ତି, ପରିକଳ୍ପନା ପରୀକ୍ଷଣ ଏବଂ ପଦ୍ଧତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ ଶିଖାଇବା ପାଇଁ ଉଦ୍ଦିଷ୍ଟ।"
         }
       }
     }

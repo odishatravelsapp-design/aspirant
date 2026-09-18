@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10623,6 +10623,40 @@
       ],
       "answer": 2,
       "explanation": "Let the number of pens bought in each lot be LCM(8, 12, 10) = 120 pens.\nCost Price of 1st lot = (120 / 8) × ₹30 = 15 × 30 = ₹450.\nCost Price of 2nd lot = (120 / 12) × ₹35 = 10 × 35 = ₹350.\nTotal Cost Price (CP) for 240 pens = ₹450 + ₹350 = ₹800.\nTotal Selling Price (SP) of 240 pens = (240 / 10) × ₹36 = 24 × 36 = ₹864.\nTotal Profit = SP - CP = ₹864 - ₹800 = ₹64.\nProfit % = (Profit / CP) × 100 = (64 / 800) × 100 = 8% profit."
+    },
+    {
+      "id": "ibps-clerk-ai-1789707656542-0",
+      "section": "General Awareness",
+      "topic": "Payment and Settlement Systems",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the minimum transaction amount required to initiate a fund transfer through the Real Time Gross Settlement (RTGS) system in India?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 1,
+      "explanation": "According to the Reserve Bank of India (RBI), the RTGS system is meant for large-value transactions. The minimum transaction limit for RTGS is ₹2,00,000, while there is no maximum limit for RTGS transactions.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789707656542-1",
+      "section": "General Awareness",
+      "topic": "Priority Sector Lending",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Reserve Bank of India guidelines, what is the overall Priority Sector Lending (PSL) target mandated for Small Finance Banks (SFBs) as a percentage of their Adjusted Net Bank Credit (ANBC) or CEOBE?",
+      "options": [
+        "40%",
+        "50%",
+        "65%",
+        "75%"
+      ],
+      "answer": 3,
+      "explanation": "The Reserve Bank of India mandates that Small Finance Banks (SFBs), along with Regional Rural Banks (RRBs), must achieve an overall Priority Sector Lending target of 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
+      "status": "pending"
     }
   ]
 }
