@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10657,6 +10657,38 @@
       "answer": 3,
       "explanation": "The Reserve Bank of India mandates that Small Finance Banks (SFBs), along with Regional Rural Banks (RRBs), must achieve an overall Priority Sector Lending target of 75% of their Adjusted Net Bank Credit (ANBC) or Credit Equivalent Amount of Off-Balance Sheet Exposure (CEOBE), whichever is higher.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789793536530-0",
+      "section": "English",
+      "topic": "Spelling Errors",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the sentence below, four words are presented in uppercase. Identify the word that is INCORRECTLY spelt:\n\nThe newly CONSTRUCTED library boasts a MAGNIFICENT facade and ACCOMODATES thousands of researchers throughout the REGION.",
+      "options": [
+        "CONSTRUCTED",
+        "MAGNIFICENT",
+        "ACCOMODATES",
+        "REGION"
+      ],
+      "answer": 2,
+      "explanation": "The word 'ACCOMODATES' is incorrectly spelt. The correct spelling is 'ACCOMMODATES' (with double 'c' and double 'm'). All other highlighted words are spelled correctly."
+    },
+    {
+      "id": "ibps-clerk-ai-1789793536530-1",
+      "section": "English",
+      "topic": "Sentence Improvement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, a portion is enclosed in brackets. Choose the correct alternative to replace the bracketed portion to make the sentence grammatically correct:\n\nNot only did the financial analyst [identified the accounting discrepancies], but she also suggested practical corrective measures to the board.",
+      "options": [
+        "identify the accounting discrepancies",
+        "had identified the accounting discrepancies",
+        "identifies the accounting discrepancies",
+        "identifying the accounting discrepancies"
+      ],
+      "answer": 0,
+      "explanation": "When an inverted sentence begins with a negative expression using the auxiliary verb 'did' ('Not only did...'), the main verb following the subject must be in its base form (V1). Therefore, 'did the financial analyst identify' is grammatically correct."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9452,6 +9452,102 @@
       ],
       "answer": 2,
       "explanation": "Speed of Train A in m/s = 72 × (5/18) = 20 m/s.\nDistance covered by Train A in 20 seconds = 20 × 20 = 400 m.\nLength of Train A = Total distance - Length of platform = 400 - 220 = 180 m.\n\nSpeed of Train B in m/s = 36 × (5/18) = 10 m/s.\nSince they travel in opposite directions, Relative Speed = 20 + 10 = 30 m/s.\nDistance covered while crossing each other in 12 seconds = 30 × 12 = 360 m.\nTotal distance = Length of Train A + Length of Train B\n360 = 180 + Length of Train B => Length of Train B = 180 m.\n\nTime taken by Train B to cross a vertical pole = Length of Train B / Speed of Train B = 180 / 10 = 18 seconds."
+    },
+    {
+      "id": "sbi-clerk-ai-1789793636330-0",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A boat can travel 48 km downstream in 3 hours. If the speed of the stream is 4 km/h, how much time (in hours) will the boat take to travel 72 km upstream?",
+      "options": [
+        "9 hours",
+        "8 hours",
+        "6 hours",
+        "7.5 hours"
+      ],
+      "answer": 0,
+      "explanation": "Downstream speed = Distance / Time = 48 / 3 = 16 km/h.\nSpeed of boat in still water = Downstream speed - Speed of stream = 16 - 4 = 12 km/h.\nUpstream speed = Speed of boat in still water - Speed of stream = 12 - 4 = 8 km/h.\nTime taken to travel 72 km upstream = 72 / 8 = 9 hours."
+    },
+    {
+      "id": "sbi-clerk-ai-1789793636330-1",
+      "section": "Quant",
+      "topic": "Time and Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B together can complete a piece of work in 15 days. They started the work together, but after 6 days, B left the work and C joined A. The remaining work was completed by A and C together in 8 days. If C is 50% more efficient than B, in how many days can A alone complete the entire work?",
+      "options": [
+        "25 days",
+        "30 days",
+        "20 days",
+        "18 days"
+      ],
+      "answer": 2,
+      "explanation": "Let the total work be LCM(15, 60) = 60 units.\nCombined efficiency of A and B = 60 / 15 = 4 units/day.\nWork done by A and B in 6 days = 6 × 4 = 24 units.\nRemaining work = 60 - 24 = 36 units.\nCombined efficiency of A and C = 36 / 8 = 4.5 units/day.\nGiven that C is 50% more efficient than B, so C = 1.5B.\nWe have:\nA + B = 4 ...(i)\nA + 1.5B = 4.5 ...(ii)\nSubtracting (i) from (ii):\n0.5B = 0.5  =>  B = 1 unit/day.\nTherefore, efficiency of A = 4 - 1 = 3 units/day.\nTime taken by A alone to complete the entire work = 60 / 3 = 20 days."
+    },
+    {
+      "id": "sbi-clerk-ai-1789793659854-0",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a row of 45 students facing North, Rohit is 18th from the left end and Suresh is 24th from the right end. If Amit sits exactly in the middle of Rohit and Suresh, what is Amit's position from the left end of the row?",
+      "options": [
+        "20th",
+        "21st",
+        "19th",
+        "22nd"
+      ],
+      "answer": 0,
+      "explanation": "Total number of students = 45.\nRohit's position from the left end = 18th.\nSuresh's position from the right end = 24th.\nSuresh's position from the left end = (Total students - Suresh's position from right) + 1 = (45 - 24) + 1 = 22nd.\nSince Rohit is 18th from the left and Suresh is 22nd from the left, the students between them are at positions 19, 20, and 21 (3 students).\nAmit sits exactly in the middle of Rohit and Suresh, so Amit is at position 20 from the left end."
+    },
+    {
+      "id": "sbi-clerk-ai-1789793659854-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—A, B, C, D, E, and F—are sitting in a single row facing North, each liking a different color: Red, Blue, Green, Yellow, Black, and White.\n• C likes White and sits at the extreme right end of the row.\n• The person who likes Red sits second to the left of D.\n• Only two persons sit between D and the one who likes Yellow.\n• A sits second to the right of the one who likes Yellow.\n• F sits to the immediate left of the one who likes Red.\n• The one who likes Black sits third to the right of B.\n• E does not like Yellow or Red.\n• D does not like Green.\n\nWho among the following sits to the immediate right of the person who likes Blue?",
+      "options": [
+        "The one who likes Green",
+        "The one who likes Black",
+        "A",
+        "C"
+      ],
+      "answer": 1,
+      "explanation": "Let the 6 positions from left to right be 1 to 6 (all facing North):\n1. C sits at the extreme right end and likes White -> Position 6 is C (White).\n2. Red sits 2nd to the left of D, and two persons sit between D and Yellow. Since F sits to the immediate left of Red, Red cannot be at 1. If D is at 4: Red is at 2, F is at 1 (immediate left of Red). Yellow must be at 1 (two persons, positions 2 and 3, between 1 and 4). Thus, F likes Yellow.\n3. A sits 2nd to the right of Yellow (position 1) -> A is at position 3.\n4. The one who likes Black sits third to the right of B. With positions 1 (F), 3 (A), 4 (D), and 6 (C) occupied, B must be at position 2 (B likes Red), so Black is at position 2 + 3 = 5.\n5. The remaining position 5 must be occupied by E (E likes Black).\n6. D does not like Green, so D likes Blue, and A likes Green.\nFinal arrangement (1 to 6): F (Yellow), B (Red), A (Green), D (Blue), E (Black), C (White).\nThe person who likes Blue is D (at position 4). The person to the immediate right of D is E (at position 5), who likes Black."
+    },
+    {
+      "id": "sbi-clerk-ai-1789793697776-0",
+      "section": "English",
+      "topic": "Single Fillers",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Fill in the blank with the most appropriate word to make the sentence contextually and grammatically correct:\n\nThe manager praised Ritu for her _______ dedication towards completing the financial audit well before the deadline.",
+      "options": [
+        "reluctant",
+        "exemplary",
+        "negligence",
+        "hostile"
+      ],
+      "answer": 1,
+      "explanation": "'Exemplary' is an adjective meaning serving as a desirable model or representing the best of its kind, which contextually aligns with receiving praise. 'Reluctant' and 'hostile' have negative connotations, while 'negligence' is a noun and grammatically unsuitable."
+    },
+    {
+      "id": "sbi-clerk-ai-1789793697776-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the following sentence, four words have been highlighted in bold and marked as (A), (B), (C), and (D). Identify the pair of words that should be interchanged to make the sentence grammatically correct and contextually meaningful:\n\nThe rapid mitigate (A) of artificial intelligence has raised unprecedented (B) ethical concerns that policymakers must urgently (C) work to proliferation (D).",
+      "options": [
+        "B-C",
+        "A-D",
+        "A-C",
+        "B-D"
+      ],
+      "answer": 1,
+      "explanation": "'Mitigate' is a verb meaning to make less severe, whereas 'proliferation' is a noun referring to rapid growth or increase. In the sentence, the adjective 'rapid' requires a noun ('proliferation'), and the infinitive 'to' requires a base verb ('mitigate'). Swapping (A) and (D) creates a grammatically correct and coherent sentence: 'The rapid proliferation of artificial intelligence has raised unprecedented ethical concerns that policymakers must urgently work to mitigate.'"
     }
   ]
 }
