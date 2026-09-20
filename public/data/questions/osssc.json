@@ -10516,6 +10516,176 @@
           "explanation": "ମୋଟ ଓଜନରେ ବୃଦ୍ଧି = ୮ × ୨.୫ = ୨୦ କିଗ୍ରା।\nନୂତନ ବ୍ୟକ୍ତିଙ୍କ ଓଜନ = ପ୍ରତିସ୍ଥାପିତ ବ୍ୟକ୍ତିଙ୍କ ଓଜନ + ମୋଟ ବୃଦ୍ଧି = ୬୫ + ୨୦ = ୮୫ କିଗ୍ରା।"
         }
       }
+    },
+    {
+      "id": "osssc-pred-1789891526357-0",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "A reduction of 20% in the price of sugar enables a consumer to buy 5 kg more sugar for ₹600. What is the reduced price of sugar per kg?",
+      "options": [
+        "₹24",
+        "₹30",
+        "₹20",
+        "₹25"
+      ],
+      "answer": 0,
+      "explanation": "Let original price per kg be P. Reduced price = 0.8P. Amount of sugar bought initially = 600/P. Amount bought after reduction = 600/(0.8P). According to question: 600/(0.8P) - 600/P = 5 => 750/P - 600/P = 5 => 150/P = 5 => P = 30. Therefore, reduced price = 0.8 * 30 = ₹24 per kg."
+    },
+    {
+      "id": "osssc-pred-1789891526357-1",
+      "section": "Predicted",
+      "topic": "Percentage",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "In an election between two candidates, 10% of the voters on the voter list did not cast their votes, and 10% of the votes polled were declared invalid. The successful candidate received 54% of the valid votes and won by a majority of 1,620 votes. What was the total number of voters enrolled on the voter list?",
+      "options": [
+        "20,000",
+        "22,500",
+        "25,000",
+        "30,000"
+      ],
+      "answer": 2,
+      "explanation": "Let total voters on list be 100x. Votes cast = 90% of 100x = 90x. Valid votes = 90% of 90x = 81x. The winner got 54% of valid votes, so the loser got 46% of valid votes. Winning majority = (54% - 46%) of 81x = 8% of 81x = 6.48x. Given: 6.48x = 1,620 => x = 1,620 / 6.48 = 250. Total enrolled voters = 100x = 100 * 250 = 25,000."
+    },
+    {
+      "id": "osssc-pred-1789891526357-2",
+      "section": "Predicted",
+      "topic": "Analogy",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the related word from the given alternatives:\nSilviculture : Forest Trees :: Pisciculture : ?",
+      "options": [
+        "Silkworms",
+        "Honeybees",
+        "Fishes",
+        "Birds"
+      ],
+      "answer": 2,
+      "explanation": "Silviculture refers to the cultivation and management of forest trees; similarly, Pisciculture refers to the breeding and rearing of fishes."
+    },
+    {
+      "id": "osssc-pred-1789891526357-3",
+      "section": "Predicted",
+      "topic": "Analogy",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Select the related number from the given alternatives:\n7 : 344 :: 11 : ?",
+      "options": [
+        "1330",
+        "1332",
+        "1335",
+        "1321"
+      ],
+      "answer": 1,
+      "explanation": "The pattern followed is n : (n³ + 1). For the first pair: 7³ + 1 = 343 + 1 = 344. Applying the same rule to 11: 11³ + 1 = 1331 + 1 = 1332."
+    },
+    {
+      "id": "osssc-pred-1789891526357-4",
+      "section": "Predicted",
+      "topic": "Geography",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The Mahanadi River, the lifeline of Odisha, originates from the highlands of which of the following states?",
+      "options": [
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Maharashtra"
+      ],
+      "answer": 1,
+      "explanation": "The Mahanadi River originates in the Sihawa mountainous region in the Dhamtari district of Chhattisgarh, before flowing through Odisha and emptying into the Bay of Bengal."
+    },
+    {
+      "id": "osssc-pred-1789891526357-5",
+      "section": "Predicted",
+      "topic": "Geography",
+      "difficulty": "hard",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Deomali, the highest mountain peak in the state of Odisha, is situated in which of the following districts?",
+      "options": [
+        "Koraput",
+        "Gajapati",
+        "Mayurbhanj",
+        "Kandhamal"
+      ],
+      "answer": 0,
+      "explanation": "Deomali is the highest peak in Odisha with an elevation of about 1,672 metres above sea level. It is located near Doodhari village in the Koraput district of the Eastern Ghats."
+    },
+    {
+      "id": "osssc-pred-1789891526357-6",
+      "section": "Predicted",
+      "topic": "History",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "The famous Paika Rebellion (Paika Bidroha) against British rule broke out in Odisha under the leadership of Bakshi Jagabandhu in which year?",
+      "options": [
+        "1804",
+        "1817",
+        "1857",
+        "1827"
+      ],
+      "answer": 1,
+      "explanation": "The Paika Rebellion was an armed uprising against the British East India Company's rule in Odisha in 1817, spearheaded by Bakshi Jagabandhu Bidyadhara, the military chief of the King of Khordha."
+    },
+    {
+      "id": "osssc-pred-1789891526357-7",
+      "section": "Predicted",
+      "topic": "History",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Which of the following British enactments introduced the system of 'Dyarchy' in the governance of the provinces of British India for the first time?",
+      "options": [
+        "Indian Councils Act, 1909",
+        "Government of India Act, 1919",
+        "Government of India Act, 1935",
+        "Charter Act of 1853"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced Dyarchy at the provincial level by dividing provincial subjects into 'Transferred' (administered by ministers responsible to the legislative council) and 'Reserved' (administered by the Governor and his executive council)."
+    },
+    {
+      "id": "osssc-pred-1789891526357-8",
+      "section": "Predicted",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "predicted",
+      "status": "pending",
+      "question": "Under which Article of the Constitution of India can the President proclaim a Financial Emergency?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 365"
+      ],
+      "answer": 2,
+      "explanation": "Article 360 empowers the President of India to proclaim a Financial Emergency if he/she is satisfied that the financial stability or credit of India or any part of its territory is threatened."
+    },
+    {
+      "id": "osssc-pred-1789891526357-9",
+      "section": "Predicted",
+      "topic": "Indian Polity",
+      "difficulty": "expert",
+      "source": "predicted",
+      "status": "pending",
+      "question": "By which Constitutional Amendment Act was the term 'internal disturbance' replaced by 'armed rebellion' as a ground for proclaiming a National Emergency under Article 352?",
+      "options": [
+        "42nd Constitutional Amendment Act, 1976",
+        "44th Constitutional Amendment Act, 1978",
+        "52nd Constitutional Amendment Act, 1985",
+        "61st Constitutional Amendment Act, 1989"
+      ],
+      "answer": 1,
+      "explanation": "The 44th Constitutional Amendment Act of 1978 substituted the vague term 'internal disturbance' with 'armed rebellion' under Article 352 to prevent future misuse of emergency powers, as occurred during the 1975 National Emergency."
     }
   ]
 }
