@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10689,6 +10689,120 @@
       ],
       "answer": 0,
       "explanation": "When an inverted sentence begins with a negative expression using the auxiliary verb 'did' ('Not only did...'), the main verb following the subject must be in its base form (V1). Therefore, 'did the financial analyst identify' is grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1789880809180-1",
+      "section": "Quant",
+      "topic": "Compound and Simple Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person invested a certain sum at r% per annum simple interest for 3 years and received ₹4,320 as total interest. If the same sum was invested at the same annual rate of r% compounded annually for 2 years, the interest received was ₹3,024. Find the principal sum invested.",
+      "options": [
+        "₹12,800",
+        "₹14,400",
+        "₹13,500",
+        "₹15,000"
+      ],
+      "answer": 1,
+      "explanation": "Simple interest for 3 years = ₹4,320, so simple interest for 1 year = 4320 / 3 = ₹1,440.\nCompound interest for 2 years is composed of 2 years of simple interest plus interest on the first year's interest:\nCI for 2 years = (2 × 1440) + Interest on ₹1,440\n3024 = 2880 + (1440 × r / 100)\n144 = 14.4 × r ⇒ r = 10%.\nNow, SI for 1 year = (P × r) / 100 = 1440\n(P × 10) / 100 = 1440 ⇒ P = ₹14,400."
+    },
+    {
+      "id": "ibps-clerk-ai-1789880882353-0",
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Study the following sequence of letters, numbers, and symbols carefully and answer the question:\n\nM 3 @ 7 K $ 9 4 # B 6 % D 8 * 2 E & 5 A\n\nHow many such numbers are there in the given arrangement, each of which is immediately preceded by a symbol and immediately followed by a letter?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 3,
+      "explanation": "We need to find numbers that follow the condition: Symbol -> Number -> Letter.\nLet's check each number in the sequence:\n1. 3 is preceded by 'M' (Letter) - No\n2. 7 is preceded by '@' (Symbol) and followed by 'K' (Letter) - Valid (@ 7 K)\n3. 9 is preceded by '$' (Symbol) but followed by '4' (Number) - No\n4. 4 is preceded by '9' (Number) - No\n5. 6 is preceded by 'B' (Letter) - No\n6. 8 is preceded by 'D' (Letter) - No\n7. 2 is preceded by '*' (Symbol) and followed by 'E' (Letter) - Valid (* 2 E)\n8. 5 is preceded by '&' (Symbol) and followed by 'A' (Letter) - Valid (& 5 A)\n\nThus, there are 3 such numbers (7, 2, and 5)."
+    },
+    {
+      "id": "ibps-clerk-ai-1789880882353-1",
+      "section": "Reasoning",
+      "topic": "Order and Ranking",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons – A, B, C, D, E, and F – have different heights. B is taller than only two persons. E is taller than D but shorter than A. F is shorter than B. A is not the tallest among them. Which of the following represents the correct order of the top three tallest persons, from tallest to shortest?",
+      "options": [
+        "C > A > E",
+        "A > E > C",
+        "C > E > A",
+        "E > C > A"
+      ],
+      "answer": 0,
+      "explanation": "Let the 6 positions from tallest to shortest be 1 > 2 > 3 > 4 > 5 > 6.\n1. 'B is taller than only two persons' means B is in position 4 (_ > _ > _ > B > _ > _).\n2. 'F is shorter than B', so F is in position 5 or 6.\n3. 'E is taller than D but shorter than A' means A > E > D.\n4. If D were taller than B, then all three (A, E, D) would have to be taller than B (positions 1, 2, 3), which would place A in position 1. But 'A is not the tallest', so D cannot be taller than B. Thus, D must be in position 5 or 6.\n5. Since positions 5 and 6 are occupied by D and F, the three persons taller than B (positions 1, 2, 3) must be A, E, and C.\n6. Since A > E, E cannot be position 1. Since A is not the tallest, A cannot be position 1 either. Therefore, C must be position 1 (the tallest).\n7. Between A and E, A > E, so A is position 2 and E is position 3.\nHence, the top three persons from tallest to shortest are C > A > E."
+    },
+    {
+      "id": "ibps-clerk-ai-1789880966272-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Read the sentence given below to identify the part that contains a grammatical error:\n\nNo sooner did the train (A) / arrived at the platform (B) / than the passengers rushed (C) / to board the coaches. (D)",
+      "options": [
+        "No sooner did the train",
+        "arrived at the platform",
+        "than the passengers rushed",
+        "to board the coaches"
+      ],
+      "answer": 1,
+      "explanation": "The auxiliary verb 'did' must always be followed by the base form of the main verb (V1). Therefore, 'arrived' should be replaced by 'arrive'."
+    },
+    {
+      "id": "ibps-clerk-ai-1789880966272-1",
+      "section": "English",
+      "topic": "Double Fillers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Select the pair of words that best completes the sentence logically and grammatically:\n\nAlthough the initial response to the new financial scheme was __________, continuous awareness drives gradually led to a __________ increase in public enrollment.",
+      "options": [
+        "lukewarm, substantial",
+        "overwhelming, negligible",
+        "ecstatic, marginal",
+        "hostile, slight"
+      ],
+      "answer": 0,
+      "explanation": "The conjunction 'Although' indicates a contrast between the initial reaction and the eventual outcome. 'Lukewarm' (showing little enthusiasm) contrasts appropriately with 'substantial' (considerable or significant), making option A logical and grammatically sound."
+    },
+    {
+      "id": "ibps-clerk-ai-1789880975800-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What is the eligible entry age bracket for an individual subscriber under the Atal Pension Yojana (APY)?",
+      "options": [
+        "18 to 40 years",
+        "21 to 50 years",
+        "18 to 60 years",
+        "25 to 45 years"
+      ],
+      "answer": 0,
+      "explanation": "The Atal Pension Yojana (APY) is open to all Indian citizens aged between 18 and 40 years who hold a savings bank account. Pension benefits under the scheme begin upon attaining 60 years of age.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1789880975800-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "As per the revised Reserve Bank of India (RBI) guidelines, what is the maximum end-of-the-day balance allowed per individual customer in a Payments Bank account?",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹3,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "In April 2021, the Reserve Bank of India increased the maximum balance limit that can be held by an individual customer at the end of the day in a Payments Bank from ₹1,00,000 to ₹2,00,000.",
+      "status": "pending"
     }
   ]
 }

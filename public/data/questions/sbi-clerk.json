@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9548,6 +9548,72 @@
       ],
       "answer": 1,
       "explanation": "'Mitigate' is a verb meaning to make less severe, whereas 'proliferation' is a noun referring to rapid growth or increase. In the sentence, the adjective 'rapid' requires a noun ('proliferation'), and the infinitive 'to' requires a base verb ('mitigate'). Swapping (A) and (D) creates a grammatically correct and coherent sentence: 'The rapid proliferation of artificial intelligence has raised unprecedented ethical concerns that policymakers must urgently work to mitigate.'"
+    },
+    {
+      "id": "sbi-clerk-ai-1789881074543-0",
+      "section": "Quant",
+      "topic": "Average",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The average weight of 24 students in a class is 45 kg. If the weight of the teacher is also included, the average weight increases by 1 kg. What is the weight of the teacher?",
+      "options": [
+        "68 kg",
+        "70 kg",
+        "72 kg",
+        "75 kg"
+      ],
+      "answer": 1,
+      "explanation": "Total weight of 24 students = 24 × 45 = 1080 kg.\nWhen the teacher is included, the total number of persons becomes 25 and the new average is 45 + 1 = 46 kg.\nTotal weight of 25 persons = 25 × 46 = 1150 kg.\nWeight of the teacher = 1150 - 1080 = 70 kg.\n(Alternatively: Teacher's weight = Old average + New count × Increase = 45 + 25 × 1 = 70 kg)."
+    },
+    {
+      "id": "sbi-clerk-ai-1789881074543-1",
+      "section": "Quant",
+      "topic": "Profit and Loss",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A shopkeeper bought two articles, A and B, for a total cost of ₹11,000. He marked article A 20% above its cost price and sold it at a discount of 10%. He marked article B 40% above its cost price and sold it at a discount of 15%. If his overall profit on selling both articles was ₹1,430, what was the cost price of article A?",
+      "options": [
+        "₹5,000",
+        "₹5,500",
+        "₹6,000",
+        "₹6,500"
+      ],
+      "answer": 2,
+      "explanation": "Let the cost price of article A be ₹x. Then, the cost price of article B is ₹(11000 - x).\nFor article A:\nSelling Price = x × (1 + 0.20) × (1 - 0.10) = x × 1.20 × 0.90 = 1.08x\nProfit on A = 1.08x - x = 0.08x (8% profit).\n\nFor article B:\nSelling Price = (11000 - x) × (1 + 0.40) × (1 - 0.15) = (11000 - x) × 1.40 × 0.85 = 1.19(11000 - x)\nProfit on B = 1.19(11000 - x) - (11000 - x) = 0.19(11000 - x) (19% profit).\n\nTotal profit = 0.08x + 0.19(11000 - x) = 1430\n0.08x + 2090 - 0.19x = 1430\n-0.11x = 1430 - 2090\n-0.11x = -660\nx = 660 / 0.11 = 6000.\n\nThus, the cost price of article A is ₹6,000."
+    },
+    {
+      "id": "sbi-clerk-ai-1789881544105-0",
+      "section": "General Awareness",
+      "topic": "Banking Awareness",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In Indian banking terminology, what does the acronym 'LAF' stand for?",
+      "options": [
+        "Legal Adjustment Facility",
+        "Liquidity Adjustment Facility",
+        "Loan Assessment Facility",
+        "Leverage Allocation Framework"
+      ],
+      "answer": 1,
+      "explanation": "LAF stands for Liquidity Adjustment Facility. It is a monetary policy tool introduced by the Reserve Bank of India (RBI) that allows banks to borrow money through repurchase agreements (repos) or make loans to the RBI through reverse repo agreements.",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1789881544105-1",
+      "section": "General Awareness",
+      "topic": "Negotiable Instruments Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 138 of the Negotiable Instruments Act, 1881, within how many days of receiving information from the bank regarding the dishonour of a cheque must the payee serve a written notice demanding payment to the drawer?",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "answer": 1,
+      "explanation": "According to proviso (b) of Section 138 of the Negotiable Instruments Act, 1881, the payee or holder in due course must make a demand for the payment of the amount by giving a notice in writing to the drawer within 30 days of receiving information from the bank regarding the return of the cheque as unpaid.",
+      "status": "pending"
     }
   ]
 }
