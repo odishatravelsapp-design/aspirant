@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9614,6 +9614,38 @@
       "answer": 1,
       "explanation": "According to proviso (b) of Section 138 of the Negotiable Instruments Act, 1881, the payee or holder in due course must make a demand for the payment of the amount by giving a notice in writing to the drawer within 30 days of receiving information from the bank regarding the return of the cheque as unpaid.",
       "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1790054707436-0",
+      "section": "English",
+      "topic": "Error Spotting",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In the following question, a sentence is divided into four parts: (A), (B), (C), and (D). Select the part that contains a grammatical error.\n\nNeither the branch manager (A) / nor the clerical staff members (B) / was present in the meeting (C) / during the morning briefing. (D)",
+      "options": [
+        "Neither the branch manager",
+        "nor the clerical staff members",
+        "was present in the meeting",
+        "during the morning briefing"
+      ],
+      "answer": 2,
+      "explanation": "When two subjects are joined by 'neither... nor', the verb must agree in number with the subject closest to it. Here, the closer subject is 'the clerical staff members', which is plural; therefore, the auxiliary verb should be 'were' instead of 'was'."
+    },
+    {
+      "id": "sbi-clerk-ai-1790054707436-1",
+      "section": "English",
+      "topic": "Sentence Correction",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following options should replace the segment given in bold to rectify the grammatical error in the sentence?\n\n**Seldom the committee has recommended** such drastic operational changes without consulting the board of directors first.",
+      "options": [
+        "Seldom has the committee recommended",
+        "Seldom the committee had recommended",
+        "Seldom did the committee recommended",
+        "The committee seldom have recommended"
+      ],
+      "answer": 0,
+      "explanation": "When a sentence begins with a restrictive or negative adverb such as 'seldom', 'rarely', or 'hardly', subject-verb inversion is required. The auxiliary verb 'has' must precede the subject 'the committee'. Hence, 'Seldom has the committee recommended' is grammatically correct."
     }
   ]
 }

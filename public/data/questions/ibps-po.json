@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8511,6 +8511,40 @@
       ],
       "answer": 3,
       "explanation": "Segment D contains an error. The verb 'recommended' introduces a mandative subjunctive clause, which requires the base (bare infinitive) form of the verb. In the coordinate structure, while the first verb 'be placed' correctly uses the subjunctive mood, the second verb 'relinquishes' incorrectly uses the third-person singular present indicative. It must be corrected to the base form 'relinquish' to maintain grammatical parallelism: '...and its chief executive officer relinquish his operational authority immediately.'"
+    },
+    {
+      "id": "ibps-po-ai-1790055787143-0",
+      "section": "General Awareness",
+      "topic": "Digital Banking & Payment Systems",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The National Financial Switch (NFS), the largest network of shared Automated Teller Machines (ATMs) in India, was originally conceptualized and developed by which organization before being taken over by NPCI in 2009?",
+      "options": [
+        "Institute for Development and Research in Banking Technology (IDRBT)",
+        "Indian Financial Technology and Allied Services (IFTAS)",
+        "National Institute of Bank Management (NIBM)",
+        "Centre for Development of Advanced Computing (C-DAC)"
+      ],
+      "answer": 0,
+      "explanation": "The National Financial Switch (NFS) was designed, developed, and deployed by the Institute for Development and Research in Banking Technology (IDRBT), Hyderabad, in 2004. It was handed over to the National Payments Corporation of India (NPCI) in August 2009 to operationalize retail payment networks.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1790055787143-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & Supervision",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) framework for Scheduled Commercial Banks introduced by the Reserve Bank of India in November 2021, which of the following performance areas was dropped from the monitoring parameters?",
+      "options": [
+        "Asset Quality (Net NPA Ratio)",
+        "Profitability (Return on Assets)",
+        "Capital Adequacy (CRAR / CET-1 Ratio)",
+        "Leverage (Tier 1 Leverage Ratio)"
+      ],
+      "answer": 1,
+      "explanation": "In the revised Prompt Corrective Action (PCA) framework issued on November 2, 2021 (effective January 1, 2022), the RBI removed 'Profitability' (measured by Return on Assets - RoA) as a trigger parameter. The framework now focuses exclusively on three key areas: Capital, Asset Quality, and Leverage.",
+      "status": "pending"
     }
   ]
 }

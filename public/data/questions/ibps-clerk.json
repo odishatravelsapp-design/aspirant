@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10835,6 +10835,104 @@
       ],
       "answer": 0,
       "explanation": "Let the total work be 1 unit.\nP worked for 8 days, Q for 14 days, and R for 27 days.\nThis work can be grouped as:\n1) (P + Q) working together for 8 days\n2) (Q + R) working together for (14 - 8) = 6 days\n3) R working alone for (27 - 6) = 21 days\n\nWork done by P and Q in 8 days = 8 × (1/24) = 1/3\nWork done by Q and R in 6 days = 6 × (1/30) = 1/5\nTotal work done in these combined days = 1/3 + 1/5 = 8/15\n\nRemaining work = 1 - 8/15 = 7/15\nThis remaining 7/15 work is completed by R alone in 21 days.\nTime taken by R alone to complete the whole work = 21 × (15/7) = 45 days."
+    },
+    {
+      "id": "ibps-clerk-ai-1790054186045-0",
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "In a certain code language, 'BRISK' is written as 'CSJTL' and 'PLANT' is written as 'QMBOU'. How will 'FROST' be written in that code language?",
+      "options": [
+        "GSPTU",
+        "GQPTU",
+        "GSPUV",
+        "HRPST"
+      ],
+      "answer": 0,
+      "explanation": "Each letter in the word is shifted forward by 1 position in alphabetical order (+1):\nF + 1 = G\nR + 1 = S\nO + 1 = P\nS + 1 = T\nT + 1 = U\nThus, 'FROST' is coded as 'GSPTU'."
+    },
+    {
+      "id": "ibps-clerk-ai-1790054186045-1",
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – A, B, C, D, E, F, G, and H – sit in two parallel rows containing four persons each. In Row 1: A, B, C, and D sit facing South. In Row 2: E, F, G, and H sit facing North. Each person in Row 1 faces a person in Row 2.\n\n• G sits at one of the extreme ends of Row 2.\n• Only one person sits between G and F.\n• The person who faces F sits to the immediate left of A.\n• A does not sit at any extreme end of the row.\n• B sits second to the right of D.\n• H does not face C.\n\nWho among the following faces C?",
+      "options": [
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "answer": 0,
+      "explanation": "Let positions from left to right (from paper view) be 1, 2, 3, 4:\n1. G is at an extreme end of Row 2 (facing North). Only one person sits between G and F, so F is at pos 3 (if G is at pos 1) or F is at pos 2 (if G is at pos 4).\n2. The one facing F sits to the immediate left of A (who faces South). If F was at pos 2, the one facing F would be at pos 2, making A sit at pos 1 (an extreme end), which violates the condition that A does not sit at an extreme end. Hence, G is at pos 1 and F is at pos 3.\n3. The one facing F is at pos 3. Since A faces South, A's immediate left is pos 3, so A is at pos 2.\n4. B sits second to the right of D. Since D faces South, right is towards pos 1. Thus, D is at pos 3 and B is at pos 1. This leaves C at pos 4 in Row 1.\n5. In Row 2, the remaining positions are 2 and 4 for H and E. Since H does not face C (who is at pos 4), H is at pos 2 and E is at pos 4.\nTherefore, E sits at pos 4 in Row 2 and faces C."
+    },
+    {
+      "id": "ibps-clerk-ai-1790054234242-0",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Find the part of the sentence that contains a grammatical error:\n\nNeither the branch manager (A) / nor the regional officers (B) / was willing to accept (C) / the responsibility for the financial discrepancy. (D)",
+      "options": [
+        "Neither the branch manager",
+        "nor the regional officers",
+        "was willing to accept",
+        "the responsibility for the financial discrepancy"
+      ],
+      "answer": 2,
+      "explanation": "According to the rule of proximity for correlative conjunctions like 'neither... nor', the verb agrees with the subject closest to it. Since 'regional officers' is plural, the plural verb 'were willing' must be used instead of 'was willing'."
+    },
+    {
+      "id": "ibps-clerk-ai-1790054234242-1",
+      "section": "English",
+      "topic": "Contextual Vocabulary",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Choose the most appropriate word from the options to fill in the blank and make the sentence grammatically and contextually correct:\n\nDespite facing relentless interrogation by the regulatory panel, the chief accountant remained completely ________ and refused to betray his composure.",
+      "options": [
+        "apprehensive",
+        "imperturbable",
+        "volatile",
+        "gullible"
+      ],
+      "answer": 1,
+      "explanation": "'Imperturbable' means incapable of being upset or agitated; calm and serene. It best fits the context of refusing to lose one's composure despite harsh interrogation. 'Apprehensive' means anxious, 'volatile' means unpredictable, and 'gullible' means easily tricked."
+    },
+    {
+      "id": "ibps-clerk-ai-1790054249915-0",
+      "section": "General Awareness",
+      "topic": "Digital Banking",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Which of the following entities developed and operates the Unified Payments Interface (UPI) in India?",
+      "options": [
+        "Reserve Bank of India (RBI)",
+        "National Payments Corporation of India (NPCI)",
+        "Indian Banks' Association (IBA)",
+        "NITI Aayog"
+      ],
+      "answer": 1,
+      "explanation": "The Unified Payments Interface (UPI) was developed and is operated by the National Payments Corporation of India (NPCI), an umbrella organisation for operating retail payments and settlement systems in India.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1790054249915-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulations",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 19(2) of the Banking Regulation Act, 1949, a banking company is prohibited from holding shares in any company (whether as pledgee, mortgagee, or absolute owner) exceeding what percentage of the paid-up share capital of that company, or of its own paid-up share capital and reserves, whichever is less?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": 3,
+      "explanation": "According to Section 19(2) of the Banking Regulation Act, 1949, no banking company can hold shares in any company, whether as pledgee, mortgagee, or absolute owner, exceeding 30% of the paid-up share capital of that company or 30% of its own paid-up share capital and reserves, whichever is less.",
+      "status": "pending"
     }
   ]
 }
