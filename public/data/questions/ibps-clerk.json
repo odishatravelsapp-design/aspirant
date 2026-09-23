@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10933,6 +10933,38 @@
       "answer": 3,
       "explanation": "According to Section 19(2) of the Banking Regulation Act, 1949, no banking company can hold shares in any company, whether as pledgee, mortgagee, or absolute owner, exceeding 30% of the paid-up share capital of that company or 30% of its own paid-up share capital and reserves, whichever is less.",
       "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1790139587351-0",
+      "section": "English",
+      "topic": "Spelling",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Identify the INCORRECTLY spelt word from the options given below:",
+      "options": [
+        "Maintenance",
+        "Recieve",
+        "Guarantee",
+        "Separate"
+      ],
+      "answer": 1,
+      "explanation": "The incorrect spelling is 'Recieve'. The correct spelling is 'Receive' (following the rule 'i' before 'e' except after 'c'). The other words are all spelt correctly."
+    },
+    {
+      "id": "ibps-clerk-ai-1790139587351-1",
+      "section": "English",
+      "topic": "Grammar & Modifiers",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Identify the sentence that is grammatically INCORRECT among the given options:",
+      "options": [
+        "Having finished his presentation, the projector was switched off by the technician.",
+        "Scarcely had she entered the room when the lights flickered and went out completely.",
+        "Not only did the firm increase its annual turnover, but it also expanded into international markets.",
+        "Each of the participants who were selected for the scholarship is required to sign the bond."
+      ],
+      "answer": 0,
+      "explanation": "Sentence A contains a dangling modifier. The introductory participial phrase 'Having finished his presentation' erroneously modifies 'the projector', illogically implying that the projector delivered the presentation. A correct phrasing would be: 'Having finished his presentation, the speaker had the projector switched off.' The other sentences are grammatically correct, following proper inversion, parallel structure, and subject-verb agreement rules."
     }
   ]
 }
