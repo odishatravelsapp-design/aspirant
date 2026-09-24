@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10965,6 +10965,38 @@
       ],
       "answer": 0,
       "explanation": "Sentence A contains a dangling modifier. The introductory participial phrase 'Having finished his presentation' erroneously modifies 'the projector', illogically implying that the projector delivered the presentation. A correct phrasing would be: 'Having finished his presentation, the speaker had the projector switched off.' The other sentences are grammatically correct, following proper inversion, parallel structure, and subject-verb agreement rules."
+    },
+    {
+      "id": "ibps-clerk-ai-1790226587869-0",
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many such pairs of letters are there in the word 'CREDIT' each of which has as many letters between them in the word as in the English alphabetical series (in both forward and backward directions)?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 2,
+      "explanation": "Looking at the word CREDIT:\n1. Forward: C (3) and E (5) have 1 letter (R) between them in the word, and in the alphabetical series, exactly 1 letter (D) lies between C and E. So, (C, E) is a pair.\n2. Backward: D (4) and E (5) are consecutive letters in the alphabet and are adjacent in the word. So, (D, E) is a pair.\nNo other pairs exist. Thus, there are 2 such pairs."
+    },
+    {
+      "id": "ibps-clerk-ai-1790226587869-1",
+      "section": "Reasoning",
+      "topic": "Floor Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – A, B, C, D, E, F, G, and H – live on eight different floors of a building, where the ground floor is numbered 1, the floor just above it is numbered 2, and so on until the topmost floor is numbered 8.\n\n- H lives on the bottommost floor.\n- A lives immediately above H.\n- B lives on an even-numbered floor immediately above C.\n- Only three persons live between C and D, where D lives on a floor above C.\n- F lives immediately below D.\n- E lives on a floor above G.\n\nHow many persons live between E and B?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step arrangement:\n1. H lives on floor 1 (bottommost).\n2. A lives immediately above H, so A is on floor 2.\n3. B is on an even floor immediately above C. Since D lives three floors above C (meaning 3 persons between them), C must be on floor 3, which gives B on floor 4 and D on floor 7 (floors 4, 5, 6 are between them). (If C were on 5, D would be on 9, which is impossible).\n4. F lives immediately below D, so F is on floor 6.\n5. Remaining floors are 8 and 5 for E and G. Since E lives above G, E is on floor 8 and G is on floor 5.\n\nFinal floor arrangement (from 8 to 1):\n8: E\n7: D\n6: F\n5: G\n4: B\n3: C\n2: A\n1: H\n\nBetween E (floor 8) and B (floor 4), there are 3 persons: D, F, and G."
     }
   ]
 }
