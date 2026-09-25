@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -10997,6 +10997,38 @@
       ],
       "answer": 2,
       "explanation": "Step-by-step arrangement:\n1. H lives on floor 1 (bottommost).\n2. A lives immediately above H, so A is on floor 2.\n3. B is on an even floor immediately above C. Since D lives three floors above C (meaning 3 persons between them), C must be on floor 3, which gives B on floor 4 and D on floor 7 (floors 4, 5, 6 are between them). (If C were on 5, D would be on 9, which is impossible).\n4. F lives immediately below D, so F is on floor 6.\n5. Remaining floors are 8 and 5 for E and G. Since E lives above G, E is on floor 8 and G is on floor 5.\n\nFinal floor arrangement (from 8 to 1):\n8: E\n7: D\n6: F\n5: G\n4: B\n3: C\n2: A\n1: H\n\nBetween E (floor 8) and B (floor 4), there are 3 persons: D, F, and G."
+    },
+    {
+      "id": "ibps-clerk-ai-1790312971547-0",
+      "section": "Quant",
+      "topic": "Problems on Ages",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "The ratio of the present ages of a father and his son is 7 : 2. Five years ago, the ratio of their ages was 6 : 1. What will be the age of the father 10 years hence?",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "answer": 1,
+      "explanation": "Let the present ages of the father and the son be 7x and 2x years respectively. According to the question, five years ago: (7x - 5) / (2x - 5) = 6 / 1 => 7x - 5 = 12x - 30 => 5x = 25 => x = 5. Therefore, the father's present age is 7 * 5 = 35 years. The father's age 10 years hence will be 35 + 10 = 45 years."
+    },
+    {
+      "id": "ibps-clerk-ai-1790312971547-1",
+      "section": "Quant",
+      "topic": "Simple and Compound Interest",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A sum of ₹16,000 is invested for 1.5 years at 10% per annum compound interest, compounded half-yearly. Another sum of ₹P is invested for 2 years at 15% per annum simple interest. If the total interest earned from both the schemes together is ₹4,922, what is the value of P?",
+      "options": [
+        "₹7,500",
+        "₹8,000",
+        "₹8,500",
+        "₹9,000"
+      ],
+      "answer": 1,
+      "explanation": "For the compound interest scheme: Principal = ₹16,000, Rate per half-year = 10% / 2 = 5%, Number of conversion periods (n) = 1.5 * 2 = 3. Amount = 16,000 * (1 + 5/100)^3 = 16,000 * (21/20)^3 = 16,000 * (9,261 / 8,000) = ₹18,522. Thus, CI = 18,522 - 16,000 = ₹2,522. Total interest earned = ₹4,922, so Simple Interest (SI) = 4,922 - 2,522 = ₹2,400. For the simple interest scheme: SI = (P * R * T) / 100 => 2,400 = (P * 15 * 2) / 100 => 2,400 = 0.30P => P = 2,400 / 0.30 = ₹8,000."
     }
   ]
 }
