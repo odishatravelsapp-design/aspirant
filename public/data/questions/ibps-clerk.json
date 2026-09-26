@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -11029,6 +11029,72 @@
       ],
       "answer": 1,
       "explanation": "For the compound interest scheme: Principal = ₹16,000, Rate per half-year = 10% / 2 = 5%, Number of conversion periods (n) = 1.5 * 2 = 3. Amount = 16,000 * (1 + 5/100)^3 = 16,000 * (21/20)^3 = 16,000 * (9,261 / 8,000) = ₹18,522. Thus, CI = 18,522 - 16,000 = ₹2,522. Total interest earned = ₹4,922, so Simple Interest (SI) = 4,922 - 2,522 = ₹2,400. For the simple interest scheme: SI = (P * R * T) / 100 => 2,400 = (P * 15 * 2) / 100 => 2,400 = 0.30P => P = 2,400 / 0.30 = ₹8,000."
+    },
+    {
+      "id": "ibps-clerk-ai-1790399874407-0",
+      "section": "English",
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Select the option that best expresses the meaning of the underlined idiom in the given sentence:\n\n'After realizing that the startup model was no longer financially sustainable, the founders finally decided to throw in the towel.'",
+      "options": [
+        "To seek professional counsel",
+        "To admit defeat and quit",
+        "To negotiate for additional funding",
+        "To postpone operations indefinitely"
+      ],
+      "answer": 1,
+      "explanation": "The idiom 'throw in the towel' originated in boxing, where throwing a towel into the ring signifies surrender. In everyday usage, it means to acknowledge defeat, give up, or cease trying."
+    },
+    {
+      "id": "ibps-clerk-ai-1790399874408-1",
+      "section": "English",
+      "topic": "Word Swap",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In the sentence below, four words are marked as (A), (B), (C), and (D). Determine the pair of words that must be interchanged to make the sentence grammatically correct and contextually meaningful:\n\n'The sharp increase in crude oil prices has (A) imported inflation in several economies that heavily depend on (B) stoked commodities to meet their daily energy (C) requirements, thereby depleting their foreign exchange (D) reserves.'",
+      "options": [
+        "A - B",
+        "B - C",
+        "A - C",
+        "B - D"
+      ],
+      "answer": 0,
+      "explanation": "In this context, 'stoked' means to encourage or incite, which appropriately collocates with 'inflation' ('stoked inflation'). Meanwhile, 'imported' correctly modifies 'commodities' ('imported commodities', meaning goods brought from abroad). Therefore, interchanging (A) and (B) renders the sentence meaningful and grammatically correct."
+    },
+    {
+      "id": "ibps-clerk-ai-1790399922456-0",
+      "section": "General Awareness",
+      "topic": "Financial Inclusion Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), what is the maximum overdraft (OD) facility limit available to an eligible account holder?",
+      "options": [
+        "₹5,000",
+        "₹10,000",
+        "₹15,000",
+        "₹20,000"
+      ],
+      "answer": 1,
+      "explanation": "In 2018, the Government of India revised the overdraft limit under the Pradhan Mantri Jan Dhan Yojana (PMJDY) from ₹5,000 to ₹10,000 for eligible account holders (with no conditions attached for an overdraft up to ₹2,000).",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1790399922456-1",
+      "section": "General Awareness",
+      "topic": "Reserve Bank of India Act",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 45ZB of the Reserve Bank of India Act, 1934, how many total members constitute the Monetary Policy Committee (MPC)?",
+      "options": [
+        "4 members",
+        "5 members",
+        "6 members",
+        "7 members"
+      ],
+      "answer": 2,
+      "explanation": "Under Section 45ZB of the RBI Act, 1934, the Monetary Policy Committee (MPC) consists of 6 members: the RBI Governor (ex-officio Chairperson), the Deputy Governor in charge of monetary policy, one officer of the RBI nominated by the Central Board, and three external members appointed by the Central Government.",
+      "status": "pending"
     }
   ]
 }
