@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9646,6 +9646,38 @@
       ],
       "answer": 0,
       "explanation": "When a sentence begins with a restrictive or negative adverb such as 'seldom', 'rarely', or 'hardly', subject-verb inversion is required. The auxiliary verb 'has' must precede the subject 'the committee'. Hence, 'Seldom has the committee recommended' is grammatically correct."
+    },
+    {
+      "id": "sbi-clerk-ai-1790487159687-0",
+      "section": "Quant",
+      "topic": "Simplification",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following expression?\n√576 × 15 - 180 = ? × 12",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "Given expression: √576 × 15 - 180 = ? × 12\nSince √576 = 24:\n24 × 15 - 180 = ? × 12\n360 - 180 = ? × 12\n180 = ? × 12\n? = 180 / 12 = 15."
+    },
+    {
+      "id": "sbi-clerk-ai-1790487159688-1",
+      "section": "Quant",
+      "topic": "Boats and Streams",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A motorboat can travel 45 km upstream and 66 km downstream in 7 hours. It can also travel 30 km upstream and 88 km downstream in 6 hours. What is the speed of the motorboat in still water?",
+      "options": [
+        "18 km/h",
+        "21 km/h",
+        "24 km/h",
+        "27 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Let upstream speed be u km/h and downstream speed be d km/h.\nAccording to the question:\n45/u + 66/d = 7   --- (Equation 1)\n30/u + 88/d = 6   --- (Equation 2)\n\nMultiplying Equation 1 by 2 and Equation 2 by 3:\n90/u + 132/d = 14\n90/u + 264/d = 18\n\nSubtracting the first from the second:\n132/d = 4 => d = 33 km/h\n\nSubstitute d = 33 into Equation 1:\n45/u + 66/33 = 7\n45/u + 2 = 7\n45/u = 5 => u = 9 km/h\n\nSpeed of motorboat in still water = (d + u) / 2 = (33 + 9) / 2 = 42 / 2 = 21 km/h."
     }
   ]
 }

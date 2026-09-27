@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -11094,6 +11094,104 @@
       ],
       "answer": 2,
       "explanation": "Under Section 45ZB of the RBI Act, 1934, the Monetary Policy Committee (MPC) consists of 6 members: the RBI Governor (ex-officio Chairperson), the Deputy Governor in charge of monetary policy, one officer of the RBI nominated by the Central Board, and three external members appointed by the Central Government.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1790487069429-0",
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "If all the vowels in the word 'FRAGMENT' are replaced with their immediately preceding letters according to the English alphabetical order and all the consonants are replaced with their immediately following letters, how many vowels will be present in the new letter arrangement?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "answer": 1,
+      "explanation": "In the word FRAGMENT:\nVowels are A and E.\nConsonants are F, R, G, M, N, and T.\n\nApplying the given operations:\nF (consonant) -> G\nR (consonant) -> S\nA (vowel) -> Z\nG (consonant) -> H\nM (consonant) -> N\nE (vowel) -> D\nN (consonant) -> O (vowel)\nT (consonant) -> U (vowel)\n\nThe new letter arrangement is G, S, Z, H, N, D, O, U.\nThe vowels in this arrangement are 'O' and 'U'.\nThus, exactly 2 vowels are present."
+    },
+    {
+      "id": "ibps-clerk-ai-1790487069429-1",
+      "section": "Reasoning",
+      "topic": "Month-Date Puzzle",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Six persons – A, B, C, D, E, and F – were born on two different dates, 12th and 25th, of three different months: March, April, and May of the same year, but not necessarily in the same order.\n\n• B was born on an even date in a month having 30 days.\n• Only two persons were born between B and E.\n• A was born immediately before F, and both were born in the same month.\n• D is younger than C.\n\nWho among the following was born on 25th April?",
+      "options": [
+        "D",
+        "C",
+        "F",
+        "A"
+      ],
+      "answer": 1,
+      "explanation": "The order of dates in the year is:\n1) 12th March (31 days)\n2) 25th March (31 days)\n3) 12th April (30 days)\n4) 25th April (30 days)\n5) 12th May (31 days)\n6) 25th May (31 days)\n\nFrom the clues:\n1. B was born on an even date in a month having 30 days: April has 30 days, so B was born on 12th April.\n2. Exactly two persons were born between B and E: The only valid position for E is 25th May (with 25th April and 12th May between them).\n3. A was born immediately before F, and both were born in the same month: They must be on 12th March (A) and 25th March (F).\n4. D is younger than C: D was born after C. The remaining slots are 25th April and 12th May. Thus, C was born on 25th April and D was born on 12th May.\n\nTherefore, C was born on 25th April."
+    },
+    {
+      "id": "ibps-clerk-ai-1790487116425-0",
+      "section": "English",
+      "topic": "Prepositional Usage",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the most appropriate preposition to complete the given sentence:\n\nThe audit team found several discrepancies and asked the branch manager to account _______ the missing funds.",
+      "options": [
+        "of",
+        "for",
+        "on",
+        "with"
+      ],
+      "answer": 1,
+      "explanation": "The phrasal verb 'account for' means to explain the cause or provide a satisfactory reason for something, particularly concerning money or resources."
+    },
+    {
+      "id": "ibps-clerk-ai-1790487116425-1",
+      "section": "English",
+      "topic": "Grammar - Modifiers",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Which of the following versions of the sentence correctly eliminates the dangling modifier present in the original statement?\n\nOriginal statement: 'Walking into the conference hall, the microfinance presentation was already over.'",
+      "options": [
+        "Walking into the conference hall, the presentation was found to be over by the delegates.",
+        "Walking into the conference hall, it was seen that the microfinance presentation was already over.",
+        "When the delegates walked into the conference hall, the microfinance presentation was already over.",
+        "The microfinance presentation being over, walking into the conference hall was pointless."
+      ],
+      "answer": 2,
+      "explanation": "In the original sentence, 'Walking into the conference hall' erroneously modifies 'the microfinance presentation', implying the presentation itself walked into the hall. Option C properly rectifies the dangling modifier by converting the introductory participial phrase into a subordinate clause with its own logical subject ('the delegates')."
+    },
+    {
+      "id": "ibps-clerk-ai-1790487143543-0",
+      "section": "General Awareness",
+      "topic": "Deposit Insurance",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) regulations, what is the maximum insurance coverage provided per depositor per insured bank (combining principal and interest)?",
+      "options": [
+        "₹1,00,000",
+        "₹2,50,000",
+        "₹5,00,000",
+        "₹10,00,000"
+      ],
+      "answer": 2,
+      "explanation": "Effective from February 4, 2020, the DICGC increased the deposit insurance coverage from ₹1 lakh to ₹5 lakh per depositor per insured bank for deposits held in the same capacity and right.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1790487143543-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank of India's revised Prompt Corrective Action (PCA) framework for Commercial Banks, which of the following is NOT one of the primary monitored indicator parameters?",
+      "options": [
+        "Capital Adequacy (CRAR / CET-1 ratio)",
+        "Asset Quality (Net NPA ratio)",
+        "Profitability (Return on Assets)",
+        "Leverage (Tier 1 Leverage ratio)"
+      ],
+      "answer": 2,
+      "explanation": "In the revised Prompt Corrective Action (PCA) framework effective from January 1, 2022, the RBI monitors three key parameters: Capital (CRAR/CET-1), Asset Quality (Net NPA ratio), and Leverage (Tier 1 Leverage ratio). Profitability (Return on Assets) was dropped as a trigger parameter.",
       "status": "pending"
     }
   ]

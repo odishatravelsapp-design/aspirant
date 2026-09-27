@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10686,6 +10686,62 @@
       ],
       "answer": 1,
       "explanation": "The 44th Constitutional Amendment Act of 1978 substituted the vague term 'internal disturbance' with 'armed rebellion' under Article 352 to prevent future misuse of emergency powers, as occurred during the 1975 National Emergency."
+    },
+    {
+      "id": "osssc-ai-1790488874145-0",
+      "section": "Reasoning",
+      "topic": "Clocks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "At what time between 4 o'clock and 5 o'clock will the two hands of a clock coincide?",
+      "options": [
+        "21 9/11 minutes past 4",
+        "22 8/11 minutes past 4",
+        "21 5/11 minutes past 4",
+        "20 9/11 minutes past 4"
+      ],
+      "answer": 0,
+      "explanation": "At 4 o'clock, the minute hand is 20 minute-spaces behind the hour hand. To coincide, the minute hand must gain 20 minute-spaces. Since the minute hand gains 55 minute-spaces in 60 minutes, it will gain 20 minute-spaces in (60/55) × 20 = (12/11) × 20 = 240/11 = 21 9/11 minutes. Hence, the hands will coincide at 21 9/11 minutes past 4.",
+      "translations": {
+        "or": {
+          "question": "୪ ଟା ଏବଂ ୫ ଟା ମଧ୍ୟରେ କେଉଁ ସମୟରେ ଘଣ୍ଟାର ଦୁଇଟି ଯାକ କଣ୍ଟା ପରସ୍ପର ସହ ମିଳିତ ହେବେ (ଏକତ୍ରିତ ହେବେ)?",
+          "options": [
+            "୪ ଟା ବାଜି ୨୧ ୯/୧୧ ମିନିଟ୍",
+            "୪ ଟା ବାଜି ୨୨ ୮/୧୧ ମିନିଟ୍",
+            "୪ ଟା ବାଜି ୨୧ ୫/୧୧ ମିନିଟ୍",
+            "୪ ଟା ବାଜି ୨୦ ୯/୧୧ ମିନିଟ୍"
+          ],
+          "explanation": "୪ ଟା ବେଳେ ମିନିଟ୍ କଣ୍ଟା ଘଣ୍ଟା କଣ୍ଟାଠାରୁ ୨୦ ମିନିଟ୍ ବ୍ୟବଧାନ ପଛରେ ଥାଏ। ଉଭୟ କଣ୍ଟା ମିଳିତ ହେବା ପାଇଁ ଆବଶ୍ୟକ ସମୟ = (୬୦/୫୫) × ୨୦ = (୧୨/୧୧) × ୨୦ = ୨୪୦/୧୧ = ୨୧ ୯/୧୧ ମିନିଟ୍। ଅତଏବ, ୪ ଟା ବାଜି ୨୧ ୯/୧୧ ମିନିଟ୍ ରେ ଦୁଇଟି କଣ୍ଟା ଏକାଠି ହେବେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1790488874145-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. All cups are plates.\n2. Some plates are bowls.\n3. No bowl is a spoon.\n\nConclusions:\nI. Some cups are bowls.\nII. Some plates are not spoons.\nIII. No cup is a spoon.",
+      "options": [
+        "Only conclusion II follows",
+        "Only conclusions I and II follow",
+        "Only conclusions II and III follow",
+        "None of the conclusions follow"
+      ],
+      "answer": 0,
+      "explanation": "From Statements 2 and 3: Those plates which are bowls can never be spoons (since no bowl is a spoon). Therefore, 'Some plates are not spoons' definitely holds true (Conclusion II follows). However, cups and bowls do not have a definite overlapping relationship, so Conclusion I does not follow. Similarly, cups and spoons may or may not overlap, so Conclusion III does not follow. Thus, only conclusion II follows.",
+      "translations": {
+        "or": {
+          "question": "ଦିଆଯାଇଥିବା ବିବୃତି ଏବଂ ନିଷ୍କର୍ଷଗୁଡ଼ିକୁ ଧ୍ୟାନର ସହ ପଢ଼ନ୍ତୁ। ବିବୃତିଗୁଡ଼ିକରେ ଥିବା ତଥ୍ୟକୁ ସତ୍ୟ ବୋଲି ଧରି, କେଉଁ ନିଷ୍କର୍ଷଟି ତାର୍କିକ ଭାବରେ ଅନୁସରଣ କରୁଛି ତାହା ସ୍ଥିର କରନ୍ତୁ।\n\nବିବୃତି:\n୧. ସବୁ କପ୍ ହେଉଛି ପ୍ଲେଟ୍।\n୨. କେତେକ ପ୍ଲେଟ୍ ହେଉଛି ପାତ୍ର (bowls)।\n୩. କୌଣସି ପାତ୍ର ଚାମଚ ନୁହେଁ।\n\nନିଷ୍କର୍ଷ:\nI. କେତେକ କପ୍ ପାତ୍ର ଅଟନ୍ତି।\nII. କେତେକ ପ୍ଲେଟ୍ ଚାମଚ ନୁହଁନ୍ତି।\nIII. କୌଣସି କପ୍ ଚାମଚ ନୁହେଁ।",
+          "options": [
+            "କେବଳ ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ",
+            "କେବଳ ନିଷ୍କର୍ଷ I ଏବଂ II ଅନୁସରଣ କରନ୍ତି",
+            "କେବଳ ନିଷ୍କର୍ଷ II ଏବଂ III ଅନୁସରଣ କରନ୍ତି",
+            "କୌଣସି ବି ନିଷ୍କର୍ଷ ଅନୁସରଣ କରେ ନାହିଁ"
+          ],
+          "explanation": "ବିବୃତି ୨ ଏବଂ ୩ ରୁ ଜଣାପଡ଼େ ଯେ ଯେଉଁ ପ୍ଲେଟ୍‌ଗୁଡ଼ିକ ପାତ୍ର, ସେଗୁଡ଼ିକ କଦାପି ଚାମଚ ହୋଇପାରିବେ ନାହିଁ (କାରଣ କୌଣସି ପାତ୍ର ଚାମଚ ନୁହେଁ)। ତେଣୁ 'କେତେକ ପ୍ଲେଟ୍ ଚାମଚ ନୁହଁନ୍ତି' ସର୍ବଦା ସତ୍ୟ (ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ)। କପ୍ ଏବଂ ପାତ୍ର ମଧ୍ୟରେ କୌଣସି ନିଶ୍ଚିତ ସମ୍ପର୍କ ନ ଥିବାରୁ ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ ନାହିଁ। ସେହିପରି କପ୍ ଏବଂ ଚାମଚ ମଧ୍ୟରେ ମଧ୍ୟ ନିଶ୍ଚିତ ସମ୍ପର୍କ ନାହିଁ, ତେଣୁ ନିଷ୍କର୍ଷ III ଅନୁସରଣ କରେ ନାହିଁ। ଅତଏବ, କେବଳ ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ।"
+        }
+      }
     }
   ]
 }
