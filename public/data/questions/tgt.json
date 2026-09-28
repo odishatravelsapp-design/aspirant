@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -5267,6 +5267,120 @@
             "ଏନାକ୍ଟିଭ୍ ପ୍ରତିନିଧିତ୍ୱ"
           ],
           "explanation": "ସ୍କାଫୋଲ୍ଡିଂ (Scaffolding) ହେଉଛି ଏକ ଅସ୍ଥାୟୀ ସହାୟକ ବ୍ୟବସ୍ଥା, ଯାହା ଶିକ୍ଷାର୍ଥୀର ବର୍ତ୍ତମାନର ଦକ୍ଷତା ଅନୁଯାୟୀ ଦିଆଯାଏ ଏବଂ ଶିକ୍ଷାର୍ଥୀ ସେହି କାର୍ଯ୍ୟରେ ଦକ୍ଷ ହେବା ପରେ ଏହି ସହାୟତାକୁ ଧୀରେ ଧୀରେ କମାଇ ଦିଆଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1790579031873-0",
+      "section": "Subject Knowledge",
+      "topic": "Mathematics - Quadratic Equations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "If the roots of the quadratic equation x² - px + q = 0 differ by unity, then which of the following relations is correct?",
+      "options": [
+        "p² = 4q + 1",
+        "p² = 4q - 1",
+        "q² = 4p + 1",
+        "p² = 2q + 1"
+      ],
+      "answer": 0,
+      "explanation": "Let the roots of the equation x² - px + q = 0 be α and β. By Vieta's formulas, sum of roots (α + β) = p and product of roots (αβ) = q. Given that |α - β| = 1, squaring both sides gives (α - β)² = 1. Using the identity (α - β)² = (α + β)² - 4αβ, we get p² - 4q = 1, which implies p² = 4q + 1.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଯଦି ଦ୍ୱିଘାତ ସମୀକରଣ x² - px + q = 0 ର ମୂଳଦ୍ୱୟର ଅନ୍ତର 1 ହୁଏ, ତେବେ ନିମ୍ନଲିଖିତ ସମ୍ପର୍କଗୁଡ଼ିକ ମଧ୍ୟରୁ କେଉଁଟି ସଠିକ୍?",
+          "options": [
+            "p² = 4q + 1",
+            "p² = 4q - 1",
+            "q² = 4p + 1",
+            "p² = 2q + 1"
+          ],
+          "explanation": "ମନେକର x² - px + q = 0 ସମୀକରଣର ମୂଳଦ୍ୱୟ α ଏବଂ β। ଭିଏଟାଙ୍କ ସୂତ୍ର ଅନୁସାରେ, ମୂଳଦ୍ୱୟର ଯୋଗଫଳ (α + β) = p ଏବଂ ଗୁଣଫଳ (αβ) = q। ଦିଆଯାଇଛି ଯେ |α - β| = 1, ଉଭୟ ପାର୍ଶ୍ୱକୁ ବର୍ଗ କଲେ (α - β)² = 1 ମିଳେ। ସୂତ୍ର (α - β)² = (α + β)² - 4αβ ବ୍ୟବହାର କରି ଆମେ ପାଇବା p² - 4q = 1, ଯାହା ସୂଚାଏ p² = 4q + 1।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1790579031873-1",
+      "section": "Subject Knowledge",
+      "topic": "Physics - Rotational Motion",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A uniform thin rod of mass M and length L is free to rotate in a vertical plane about a horizontal axis passing through one of its ends. If the rod is released from rest from a horizontal position, what is its initial angular acceleration at the instant of release?",
+      "options": [
+        "3g / (2L)",
+        "2g / (3L)",
+        "g / (2L)",
+        "3g / L"
+      ],
+      "answer": 0,
+      "explanation": "At the instant of release from the horizontal position, the torque (τ) acting about the pivot at the end is due to the weight acting at the center of mass: τ = Mg(L/2). The moment of inertia (I) of a uniform thin rod about an axis passing through one end is I = (1/3)ML². Using Newton's second law for rotation, τ = Iα, we have Mg(L/2) = (1/3)ML²α, which simplifies to α = 3g / (2L).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଭର M ଏବଂ ଲମ୍ବ L ବିଶିଷ୍ଟ ଏକ ସୁଷମ ପତଳା ଦଣ୍ଡ ତାର ଗୋଟିଏ ପ୍ରାନ୍ତ ଦେଇ ଯାଇଥିବା ଏକ ଭୂସମାନ୍ତର ଅକ୍ଷ ଚାରିପାଖରେ ଏକ ଭୂଲମ୍ବ ସମତଳରେ ଘୂରିବା ପାଇଁ ମୁକ୍ତ ଅଟେ। ଯଦି ଦଣ୍ଡଟିକୁ ଭୂସମାନ୍ତର ସ୍ଥିତିରୁ ସ୍ଥିରାବସ୍ଥାରୁ ଛାଡ଼ିଦିଆଯାଏ, ତେବେ ଛାଡ଼ିବା ମୁହୂର୍ତ୍ତରେ ଏହାର ପ୍ରାରମ୍ଭିକ କୌଣିକ ତ୍ୱରଣ କେତେ ହେବ?",
+          "options": [
+            "3g / (2L)",
+            "2g / (3L)",
+            "g / (2L)",
+            "3g / L"
+          ],
+          "explanation": "ଭୂସମାନ୍ତର ସ୍ଥିତିରୁ ଛାଡ଼ିବା ମୁହୂର୍ତ୍ତରେ, ପ୍ରାନ୍ତ ଅକ୍ଷ ଚାରିପାଖରେ କାର୍ଯ୍ୟ କରୁଥିବା ଟର୍କ (τ) ଏହାର ଭାରକେନ୍ଦ୍ରରେ କାର୍ଯ୍ୟ କରୁଥିବା ଓଜନ ଯୋଗୁଁ ହୁଏ: τ = Mg(L/2)। ଗୋଟିଏ ପ୍ରାନ୍ତ ଦେଇ ଯାଇଥିବା ଅକ୍ଷ ଚାରିପାଖରେ ସୁଷମ ପତଳା ଦଣ୍ଡର ଜଡ଼ତ୍ୱ ଘୂର୍ଣ୍ଣକ (I) ହେଉଛି I = (1/3)ML²। ଘୂର୍ଣ୍ଣନ ନିୟମ τ = Iα ପ୍ରୟୋଗ କଲେ, Mg(L/2) = (1/3)ML²α ମିଳେ, ଯାହାର ସରଳୀକରଣ କଲେ α = 3g / (2L) ହୁଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1790579058586-0",
+      "section": "Child Development",
+      "topic": "Psychosocial Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Erik Erikson's theory of psychosocial development, which psychosocial crisis is characteristic of the adolescent stage (approximately ages 12 to 18 years)?",
+      "options": [
+        "Autonomy vs. Shame and Doubt",
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion",
+        "Intimacy vs. Isolation"
+      ],
+      "answer": 2,
+      "explanation": "According to Erik Erikson, the primary psychosocial conflict faced during adolescence is 'Identity vs. Role Confusion', where adolescents explore who they are and formulate a sense of personal identity.",
+      "translations": {
+        "or": {
+          "question": "ଏରିକ୍ ଏରିକସନଙ୍କ ମନୋ-ସାମାଜିକ ବିକାଶ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, କିଶୋରାବସ୍ଥା (ପ୍ରାୟ ୧୨ ରୁ ୧୮ ବର୍ଷ) କେଉଁ ମନୋ-ସାମାଜିକ ସଙ୍କଟ ସହିତ ଜଡ଼ିତ?",
+          "options": [
+            "ସ୍ୱାୟତ୍ତତା ବନାମ ଲଜ୍ଜା ଓ ସନ୍ଦେହ",
+            "ପରିଶ୍ରମ ବନାମ ହୀନମନ୍ୟତା",
+            "ପରିଚୟ ବନାମ ଭୂମିକା ଦ୍ୱନ୍ଦ୍ୱ",
+            "ଆନ୍ତରିକତା ବନାମ ବିଚ୍ଛିନ୍ନତା"
+          ],
+          "explanation": "ଏରିକ୍ ଏରିକସନଙ୍କ ଅନୁସାରେ, କିଶୋରାବସ୍ଥାରେ ଶିଶୁର ମୁଖ୍ୟ ମନୋ-ସାମାଜିକ ସଙ୍କଟ ହେଉଛି 'ପରିଚୟ ବନାମ ଭୂମିକା ଦ୍ୱନ୍ଦ୍ୱ', ଯେଉଁଥିରେ ସେ ନିଜର ବ୍ୟକ୍ତିଗତ ପରିଚୟ ନିର୍ଦ୍ଧାରଣ କରିବାକୁ ଚେଷ୍ଟା କରେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1790579058586-1",
+      "section": "Child Development",
+      "topic": "Principles of Development",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "An infant first learns to control head and neck movements, followed by the trunk, and finally the legs and feet before being able to walk. Which developmental principle is illustrated by this progression?",
+      "options": [
+        "Proximodistal trend",
+        "Cephalocaudal trend",
+        "Bilateral to unilateral trend",
+        "Spiral development trend"
+      ],
+      "answer": 1,
+      "explanation": "The cephalocaudal trend states that development proceeds from head to toe (head-downward). Control matures first in the head, neck, and shoulders before progressing down to the trunk, legs, and feet.",
+      "translations": {
+        "or": {
+          "question": "ଜଣେ ଶିଶୁ ଚାଲିବା ଶିଖିବା ପୂର୍ବରୁ ପ୍ରଥମେ ନିଜର ମୁଣ୍ଡ ଏବଂ ବେକ ଉପରେ ନିୟନ୍ତ୍ରଣ ହାସଲ କରେ, ତା'ପରେ ଧଡ଼ ଏବଂ ଶେଷରେ ଗୋଡ଼ ଉପରେ ନିୟନ୍ତ୍ରଣ ପାଏ। ଏହି ଅଗ୍ରଗତି ବିକାଶର କେଉଁ ନୀତିକୁ ଦର୍ଶାଏ?",
+          "options": [
+            "ପ୍ରକ୍ସିମୋଡିଷ୍ଟାଲ୍ ଧାରା",
+            "ସେଫାଲୋକଡାଲ୍ ଧାରା",
+            "ଦ୍ୱିପାକ୍ଷିକରୁ ଏକପାକ୍ଷିକ ଧାରା",
+            "କୁଣ୍ଡଳୀକୃତ ବିକାଶ ଧାରା"
+          ],
+          "explanation": "ସେଫାଲୋକଡାଲ୍ ନୀତି ଅନୁସାରେ ଶାରୀରିକ ବିକାଶ ଏବଂ ନିୟନ୍ତ୍ରଣ ମୁଣ୍ଡରୁ ଆରମ୍ଭ ହୋଇ ତଳ ଆଡ଼କୁ (ପାଦ ପର୍ଯ୍ୟନ୍ତ) ଗତି କରିଥାଏ।"
         }
       }
     }

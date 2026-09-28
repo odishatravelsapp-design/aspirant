@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -10125,6 +10125,118 @@
             "ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ ପରିବାର (Behavioral Systems Family)"
           ],
           "explanation": "ବ୍ରୁସ୍ ଜଏସ୍ ଏବଂ ମାର୍ଶା ୱେଲ୍ ଶିକ୍ଷଣ ମଡେଲ୍‌ଗୁଡ଼ିକୁ ଚାରୋଟି ପରିବାରରେ ବିଭକ୍ତ କରିଥିଲେ: ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ, ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା, ବ୍ୟକ୍ତିଗତ ଏବଂ ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ। ରିଚାର୍ଡ ସଚମ୍ୟାନ୍‌ଙ୍କ 'ଅନୁସନ୍ଧାନ ତାଲିମ ମଡେଲ୍' ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ ପରିବାରର ଅନ୍ତର୍ଗତ, କାରଣ ଏହା ଛାତ୍ରଛାତ୍ରୀମାନଙ୍କୁ କାରଣ-ପ୍ରଭାବ ଯୁକ୍ତି, ପରିକଳ୍ପନା ପରୀକ୍ଷଣ ଏବଂ ପଦ୍ଧତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ ଶିଖାଇବା ପାଇଁ ଉଦ୍ଦିଷ୍ଟ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1790578825272-0",
+      "section": "Child Development",
+      "topic": "Parenting Styles",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Diana Baumrind's typology of parenting styles (further elaborated by Eleanor Maccoby and John Martin), which parenting style is defined by high demandingness/control coupled with low responsiveness/warmth?",
+      "options": [
+        "Authoritative",
+        "Authoritarian",
+        "Permissive",
+        "Uninvolved"
+      ],
+      "answer": 1,
+      "explanation": "Authoritarian parenting is characterized by high demandingness and low responsiveness. Parents impose strict rules and expect obedience without warmth, dialogue, or emotional support.",
+      "translations": {
+        "or": {
+          "question": "ଡାଏନା ବାଉମରିଣ୍ଡଙ୍କ ଲାଳନପାଳନ ଶୈଳୀ (ପରେ ଏଲିନର ମ୍ୟାକୋବି ଏବଂ ଜନ୍ ମାର୍ଟିନଙ୍କ ଦ୍ୱାରା ବିସ୍ତାରିତ) ଅନୁଯାୟୀ, କେଉଁ ଶୈଳୀଟି ଉଚ୍ଚ ନିୟନ୍ତ୍ରଣ/ଦାବି ସହିତ କମ୍ ସମ୍ବେଦନଶୀଳତା/ସ୍ନେହ ଦ୍ୱାରା ଚିହ୍ନିତ?",
+          "options": [
+            "ଅଧିକାରପୂର୍ଣ୍ଣ (Authoritative)",
+            "ସ୍ୱେଚ୍ଛାଚାରୀ / କଠୋର (Authoritarian)",
+            "ଅନୁମତିସୂଚକ (Permissive)",
+            "ଅବହେଳିତ (Uninvolved)"
+          ],
+          "explanation": "ସ୍ୱେଚ୍ଛାଚାରୀ ବା କଠୋର (Authoritarian) ଲାଳନପାଳନ ଶୈଳୀରେ ଉଚ୍ଚ ଦାବି/ନିୟନ୍ତ୍ରଣ ଏବଂ କମ୍ ସମ୍ବେଦନଶୀଳତା ଥାଏ। ପିତାମାତା ବିନା କୌଣସି ସ୍ନେହ କିମ୍ବା ଆଲୋଚନାରେ କଠୋର ନିୟମ ଲାଗୁ କରନ୍ତି ଏବଂ ପିଲାଠାରୁ ପୂର୍ଣ୍ଣ ଆଜ୍ଞାକାରିତା ଆଶା କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1790578825272-1",
+      "section": "Child Development",
+      "topic": "Attachment Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to John Bowlby's ethological theory of attachment, during which phase do infants typically first begin to exhibit clear separation anxiety upon the departure of their primary caregiver?",
+      "options": [
+        "Preattachment phase",
+        "Attachment-in-the-making phase",
+        "Clear-cut attachment phase",
+        "Formation of a reciprocal relationship"
+      ],
+      "answer": 2,
+      "explanation": "In Bowlby's theory, the 'clear-cut attachment' phase (typically between 6–8 months and 18–24 months) is when an infant's attachment to the primary caregiver becomes fully evident, marked distinctly by the emergence of separation anxiety.",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ବୋଲବିଙ୍କ ସଂଲଗ୍ନତା (Attachment) ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ଶିଶୁମାନେ ସାଧାରଣତଃ ସେମାନଙ୍କର ମୁଖ୍ୟ ଯତ୍ନ ନେଉଥିବା ବ୍ୟକ୍ତିଙ୍କ ବିଚ୍ଛେଦରେ ପ୍ରଥମେ ସ୍ପଷ୍ଟ ବିଚ୍ଛେଦ ଉତ୍କଣ୍ଠା (Separation Anxiety) ପ୍ରଦର୍ଶନ କରିବା ଆରମ୍ଭ କରନ୍ତି?",
+          "options": [
+            "ପ୍ରାକ୍-ସଂଲଗ୍ନତା ପର୍ଯ୍ୟାୟ (Preattachment phase)",
+            "ସଂଲଗ୍ନତା ଗଠନ ପର୍ଯ୍ୟାୟ (Attachment-in-the-making phase)",
+            "ସୁସ୍ପଷ୍ଟ ସଂଲଗ୍ନତା ପର୍ଯ୍ୟାୟ (Clear-cut attachment phase)",
+            "ପାରସ୍ପରିକ ସମ୍ପର୍କ ଗଠନ ପର୍ଯ୍ୟାୟ (Formation of a reciprocal relationship)"
+          ],
+          "explanation": "ବୋଲବିଙ୍କ ସିଦ୍ଧାନ୍ତ ଅନୁଯାୟୀ, 'ସୁସ୍ପଷ୍ଟ ସଂଲଗ୍ନତା ପର୍ଯ୍ୟାୟ' (ପ୍ରାୟ ୬–୮ ମାସରୁ ୧୮–୨୪ ମାସ) ରେ ଶିଶୁର ମୁଖ୍ୟ ଯତ୍ନକାରୀଙ୍କ ପ୍ରତି ସଂଲଗ୍ନତା ସ୍ପଷ୍ଟ ହୋଇଥାଏ, ଯାହା ବିଚ୍ଛେଦ ଉତ୍କଣ୍ଠା ମାଧ୍ୟମରେ ପ୍ରକାଶ ପାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1790578911637-0",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "By which of the following Constitutional Amendment Acts were the words 'armed rebellion' substituted for 'internal disturbance' in Article 352 of the Constitution of India?",
+      "options": [
+        "42nd Constitutional Amendment Act, 1976",
+        "44th Constitutional Amendment Act, 1978",
+        "46th Constitutional Amendment Act, 1982",
+        "52nd Constitutional Amendment Act, 1985"
+      ],
+      "answer": 1,
+      "explanation": "The 44th Constitutional Amendment Act, 1978 substituted the phrase 'internal disturbance' with 'armed rebellion' under Article 352 to prevent the arbitrary misuse of emergency powers as was witnessed during the 1975 National Emergency.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ସମ୍ବିଧାନର ଧାରା ୩୫୨ ରେ ନିମ୍ନଲିଖିତ କେଉଁ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ ଦ୍ୱାରା 'ଆଭ୍ୟନ୍ତରୀଣ ଅଶାନ୍ତି' ସ୍ଥାନରେ 'ସଶସ୍ତ୍ର ବିଦ୍ରୋହ' ଶବ୍ଦ ପ୍ରତିସ୍ଥାପିତ କରାଯାଇଥିଲା?",
+          "options": [
+            "୪୨ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ, ୧୯୭୬",
+            "୪୪ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ, ୧୯୭୮",
+            "୪୬ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ, ୧୯୮୨",
+            "୫୨ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ, ୧୯୮୫"
+          ],
+          "explanation": "୪୪ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଅଧିନିୟମ, ୧୯୭୮ ଦ୍ୱାରା ଜାତୀୟ ଜରୁରୀକାଳୀନ ପରିସ୍ଥିତି (ଧାରା ୩୫୨) ଘୋଷଣା ପାଇଁ 'ଆଭ୍ୟନ୍ତରୀଣ ଅଶାନ୍ତି' ଶବ୍ଦ ବଦଳରେ 'ସଶସ୍ତ୍ର ବିଦ୍ରୋହ' ଶବ୍ଦ ପ୍ରତିସ୍ଥାପନ କରାଯାଇଥିଲା, ଯାହାଫଳରେ ଜରୁରୀକାଳୀନ କ୍ଷମତାର ଅପବ୍ୟବହାରକୁ ରୋକାଯାଇପାରିବ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1790578911637-1",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which among the following channels separates the island of Minicoy from the main Lakshadweep archipelago?",
+      "options": [
+        "Eight Degree Channel",
+        "Nine Degree Channel",
+        "Ten Degree Channel",
+        "Eleven Degree Channel"
+      ],
+      "answer": 1,
+      "explanation": "The Nine Degree Channel separates the island of Minicoy from the main Lakshadweep archipelago (specifically Kalpeni and Suheli Par). The Eight Degree Channel separates Minicoy from the Maldives, and the Ten Degree Channel separates the Andaman Islands from the Nicobar Islands.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ କେଉଁ ପ୍ରଣାଳୀ (ଚ୍ୟାନେଲ୍) ମିନିକୟ ଦ୍ୱୀପକୁ ମୁଖ୍ୟ ଲାକ୍ଷାଦ୍ୱୀପ ଦ୍ୱୀପପୁଞ୍ଜରୁ ପୃଥକ କରେ?",
+          "options": [
+            "ଆଠ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍",
+            "ନଅ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍",
+            "ଦଶ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍",
+            "ଏଗାର ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍"
+          ],
+          "explanation": "ନଅ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍ ମିନିକୟ ଦ୍ୱୀପକୁ ମୁଖ୍ୟ ଲାକ୍ଷାଦ୍ୱୀପ ଦ୍ୱୀପପୁଞ୍ଜରୁ ପୃଥକ କରିଥାଏ। ଆଠ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍ ମିନିକୟକୁ ମାଳଦ୍ୱୀପରୁ ଏବଂ ଦଶ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍ ଆଣ୍ଡାମାନକୁ ନିକୋବର ଦ୍ୱୀପପୁଞ୍ଜରୁ ପୃଥକ କରିଥାଏ।"
         }
       }
     }

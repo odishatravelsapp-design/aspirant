@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9678,6 +9678,38 @@
       ],
       "answer": 1,
       "explanation": "Let upstream speed be u km/h and downstream speed be d km/h.\nAccording to the question:\n45/u + 66/d = 7   --- (Equation 1)\n30/u + 88/d = 6   --- (Equation 2)\n\nMultiplying Equation 1 by 2 and Equation 2 by 3:\n90/u + 132/d = 14\n90/u + 264/d = 18\n\nSubtracting the first from the second:\n132/d = 4 => d = 33 km/h\n\nSubstitute d = 33 into Equation 1:\n45/u + 66/33 = 7\n45/u + 2 = 7\n45/u = 5 => u = 9 km/h\n\nSpeed of motorboat in still water = (d + u) / 2 = (33 + 9) / 2 = 42 / 2 = 21 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1790574672090-0",
+      "section": "Quant",
+      "topic": "Number Series",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What value should come in place of the question mark (?) in the following number series?\n\n12, 19, 35, 68, 126, ?",
+      "options": [
+        "215",
+        "217",
+        "223",
+        "227"
+      ],
+      "answer": 1,
+      "explanation": "Find the difference between consecutive terms:\n19 - 12 = 7\n35 - 19 = 16\n68 - 35 = 33\n126 - 68 = 58\n\nNow find the second-level differences:\n16 - 7 = 9\n33 - 16 = 17\n58 - 33 = 25\n\nThe differences between consecutive second-level differences are constant: 17 - 9 = 8, 25 - 17 = 8.\nTherefore, the next second-level difference is 25 + 8 = 33.\nThe next first-level difference is 58 + 33 = 91.\nHence, the required number is 126 + 91 = 217."
+    },
+    {
+      "id": "sbi-clerk-ai-1790574672090-1",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two persons, A and B, start simultaneously from two points X and Y towards each other, respectively. After crossing each other, A takes 3 hours 12 minutes to reach Y, while B takes 5 hours to reach X. If the total distance between X and Y is 360 km, what is the speed of A?",
+      "options": [
+        "40 km/h",
+        "45 km/h",
+        "50 km/h",
+        "55 km/h"
+      ],
+      "answer": 2,
+      "explanation": "Let the time taken by A and B to reach their destinations after meeting be t₁ and t₂, respectively.\nt₁ = 3 hours 12 minutes = 3 + 12/60 = 16/5 hours.\nt₂ = 5 hours.\n\nThe time taken from start until they meet is given by:\nt_meet = √(t₁ × t₂) = √(16/5 × 5) = √16 = 4 hours.\n\nTotal time taken by A to cover the entire distance from X to Y:\nT_A = t_meet + t₁ = 4 + 16/5 = 36/5 hours = 7.2 hours.\n\nSpeed of A = Total Distance / T_A = 360 / (36/5) = 360 × 5 / 36 = 50 km/h."
     }
   ]
 }
