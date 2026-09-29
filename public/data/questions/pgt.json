@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -10237,6 +10237,62 @@
             "ଏଗାର ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍"
           ],
           "explanation": "ନଅ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍ ମିନିକୟ ଦ୍ୱୀପକୁ ମୁଖ୍ୟ ଲାକ୍ଷାଦ୍ୱୀପ ଦ୍ୱୀପପୁଞ୍ଜରୁ ପୃଥକ କରିଥାଏ। ଆଠ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍ ମିନିକୟକୁ ମାଳଦ୍ୱୀପରୁ ଏବଂ ଦଶ ଡିଗ୍ରୀ ଚ୍ୟାନେଲ୍ ଆଣ୍ଡାମାନକୁ ନିକୋବର ଦ୍ୱୀପପୁଞ୍ଜରୁ ପୃଥକ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1790665505215-0",
+      "section": "Teaching Aptitude",
+      "topic": "Meaningful Verbal Learning & Advance Organizers",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In David Ausubel's theory of Meaningful Verbal Learning, which type of advance organizer is introduced when the instructional material to be learned is completely new and unfamiliar, providing the essential scaffolding to anchor new ideas?",
+      "options": [
+        "Comparative organizer",
+        "Expository organizer",
+        "Contextual organizer",
+        "Progressive organizer"
+      ],
+      "answer": 1,
+      "explanation": "David Ausubel identified two primary categories of advance organizers: Expository and Comparative. Expository organizers are designed for situations where the learning material is completely new and unfamiliar; they provide basic conceptual anchors (subsumers) to help learners organize and retain the novel information. Comparative organizers are used when the material is relatively familiar, aiming to integrate and discriminate between new and existing concepts.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ ଆସୁବେଲଙ୍କ ଅର୍ଥପୂର୍ଣ୍ଣ ମୌଖିକ ଶିକ୍ଷଣ (Meaningful Verbal Learning) ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ଯେତେବେଳେ ଶିକ୍ଷାର୍ଥୀଙ୍କ ସମ୍ମୁଖରେ ଉପସ୍ଥାପିତ ପାଠ୍ୟ ବିଷୟବସ୍ତୁ ସମ୍ପୂର୍ଣ୍ଣ ନୂତନ ଏବଂ ଅପରିଚିତ ହୋଇଥାଏ, ସେତେବେଳେ ନୂତନ ଧାରଣାଗୁଡ଼ିକୁ ସଂଯୋଜିତ କରିବା ପାଇଁ କେଉଁ ପ୍ରକାରର ଅଗ୍ରିମ ସଂଗଠକ (advance organizer) ବ୍ୟବହାର କରାଯାଏ?",
+          "options": [
+            "ତୁଳନାତ୍ମକ ସଂଗଠକ (Comparative organizer)",
+            "ବ୍ୟାଖ୍ୟାତ୍ମକ ବା ବିବରଣୀମୂଳକ ସଂଗଠକ (Expository organizer)",
+            "ପ୍ରାସଙ୍ଗିକ ସଂଗଠକ (Contextual organizer)",
+            "ପ୍ରଗତିଶୀଳ ସଂଗଠକ (Progressive organizer)"
+          ],
+          "explanation": "ଡେଭିଡ୍ ଆସୁବେଲ ଦୁଇ ପ୍ରକାରର ଅଗ୍ରିମ ସଂଗଠକ ଉଲ୍ଲେଖ କରିଛନ୍ତି: ବ୍ୟାଖ୍ୟାତ୍ମକ (Expository) ଏବଂ ତୁଳନାତ୍ମକ (Comparative)। ଯେତେବେଳେ ନୂତନ ବିଷୟବସ୍ତୁ ଶିକ୍ଷାର୍ଥୀ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ନୂତନ ଏବଂ ଅପରିଚିତ ହୋଇଥାଏ, ସେତେବେଳେ ଶିକ୍ଷଣକୁ ସୁଗମ କରିବା ତଥା ମୂଳ ଧାରଣାଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବା ପାଇଁ ବ୍ୟାଖ୍ୟାତ୍ମକ ସଂଗଠକ (Expository organizer) ପ୍ରଦାନ କରାଯାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1790665505216-1",
+      "section": "Teaching Aptitude",
+      "topic": "Levels of Teaching",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "In the 'Understanding Level of Teaching' (ULT) formulated by Henry Clinton Morrison, what is the correct sequential order of the five pedagogical steps in the Morrisonian teaching cycle?",
+      "options": [
+        "Exploration → Presentation → Assimilation → Organization → Recitation",
+        "Presentation → Exploration → Organization → Assimilation → Application",
+        "Exploration → Assimilation → Presentation → Application → Evaluation",
+        "Planning → Presentation → Assimilation → Generalization → Recitation"
+      ],
+      "answer": 0,
+      "explanation": "H.C. Morrison developed the Understanding Level of Teaching, which consists of five formal sequential steps: 1. Exploration (assessing entry behavior/previous knowledge), 2. Presentation (introducing the new unit/content), 3. Assimilation (in-depth internalization and study of the content), 4. Organization (systematic synthesis and representation of learned concepts without external help), and 5. Recitation (oral or written reproduction/presentation by the student).",
+      "translations": {
+        "or": {
+          "question": "ଏଚ୍. ସି. ମରିସନ୍ (H.C. Morrison) ଙ୍କ ଦ୍ୱାରା ବିକଶିତ 'ବୋଧଗମ୍ୟତା ସ୍ତରର ଶିକ୍ଷାଦାନ' (Understanding Level of Teaching) ରେ ପାଞ୍ଚଟି ଶିକ୍ଷାଦାନ ସୋପାନର ସଠିକ୍ ପର୍ଯ୍ୟାୟ କ୍ରମ କେଉଁଟି?",
+          "options": [
+            "ଅନ୍ୱେଷଣ → ଉପସ୍ଥାପନା → ଆତ୍ମୀକରଣ → ସଂଗଠନ → ଆବୃତ୍ତି (Exploration → Presentation → Assimilation → Organization → Recitation)",
+            "ଉପସ୍ଥାପନା → ଅନ୍ୱେଷଣ → ସଂଗଠନ → ଆତ୍ମୀକରଣ → ପ୍ରୟୋଗ (Presentation → Exploration → Organization → Assimilation → Application)",
+            "ଅନ୍ୱେଷଣ → ଆତ୍ମୀକରଣ → ଉପସ୍ଥାପନା → ପ୍ରୟୋଗ → ମୂଲ୍ୟାଙ୍କନ (Exploration → Assimilation → Presentation → Application → Evaluation)",
+            "ଯୋଜନା → ଉପସ୍ଥାପନା → ଆତ୍ମୀକରଣ → ସାଧାରଣୀକରଣ → ଆବୃତ୍ତି (Planning → Presentation → Assimilation → Generalization → Recitation)"
+          ],
+          "explanation": "ଏଚ୍. ସି. ମରିସନ୍ ବୋଧଗମ୍ୟତା ସ୍ତରର ଶିକ୍ଷାଦାନ ପାଇଁ ୫ଟି କ୍ରମିକ ପର୍ଯ୍ୟାୟ ଧାର୍ଯ୍ୟ କରିଥିଲେ: ୧. ଅନ୍ୱେଷଣ (ପୂର୍ବଜ୍ଞାନ ପରୀକ୍ଷା), ୨. ଉପସ୍ଥାପନା (ନୂତନ ବିଷୟବସ୍ତୁର ଉପସ୍ଥାପନ), ୩. ଆତ୍ମୀକରଣ (ବିଷୟବସ୍ତୁକୁ ଗଭୀର ଭାବେ ଅଧ୍ୟୟନ ଓ ଗ୍ରହଣ କରିବା), ୪. ସଂଗଠନ (ନିଜ ଭାଷାରେ ବିଷୟବସ୍ତୁର ବ୍ୟବସ୍ଥିତ ଉପସ୍ଥାପନ), ଏବଂ ୫. ଆବୃତ୍ତି (ମୌଖିକ କିମ୍ବା ଲିଖିତ ପୁନରୁତ୍ପାଦନ)।"
         }
       }
     }
