@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -13738,6 +13738,64 @@
             "ଦଣ୍ଡୀ ମହାଦେବୀ"
           ],
           "explanation": "ପ୍ରଥମ ଶାନ୍ତିକରଦେବଙ୍କ ପତ୍ନୀ ପ୍ରଥମ ତ୍ରିଭୁବନ ମହାଦେବୀ (ବା ଗୋସ୍ୱାମିନୀ ଦେବୀ) ଭୌମକର ସିଂହାସନ ଆରୋହଣ କରିଥିଲେ ଏବଂ ଢେଙ୍କାନାଳ ତାମ୍ରଶାସନ ଜାରି କରିଥିଲେ, ଯେଉଁଥିରେ ସେ ନିଜକୁ 'ପରମ-ବୈଷ୍ଣବୀ' ଭାବରେ ଅଭିହିତ କରିଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1790839047327-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Art and Architecture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "The famous hypaethral Chausathi Yogini Temple of Ranipur-Jharial is located in which district of Odisha?",
+      "options": [
+        "Balangir",
+        "Kalahandi",
+        "Sambalpur",
+        "Bargarh"
+      ],
+      "answer": 0,
+      "explanation": "Ranipur-Jharial, renowned for its open-air (hypaethral) circular Chausathi Yogini Temple and Someswar temple complex, is located in the Balangir district of Odisha.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର ପ୍ରସିଦ୍ଧ ଚଉଷଠି ଯୋଗିନୀ ମନ୍ଦିର ଥିବା 'ରାଣୀପୁର-ଝରିଆଲ' କେଉଁ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ?",
+          "options": [
+            "ବଲାଙ୍ଗୀର",
+            "କଳାହାଣ୍ଡି",
+            "ସମ୍ବଲପୁର",
+            "ବରଗଡ଼"
+          ],
+          "explanation": "ରାଣୀପୁର-ଝରିଆଲ ଓଡ଼ିଶାର ବଲାଙ୍ଗୀର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଏକ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ ତଥା ପ୍ରତ୍ନତାତ୍ତ୍ୱିକ ସ୍ଥଳୀ, ଯାହା ଏହାର ଖୋଲା ଆକାଶ ତଳେ ଥିବା ବୃତ୍ତାକାର ଚଉଷଠି ଯୋଗିନୀ ମନ୍ଦିର ପାଇଁ ବିଖ୍ୟାତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1790839047327-1",
+      "section": "Odisha GK",
+      "topic": "Modern History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Who was the British Political Agent of the Odisha Feudatory States who was killed during a Praja Mandal agitation at Ranpur in January 1939?",
+      "options": [
+        "Major E. Bazalgette",
+        "Lieutenant Colonel C. W. Beatson",
+        "Captain H. E. Hunter",
+        "Major General G. Campbell"
+      ],
+      "answer": 0,
+      "explanation": "On January 5, 1939, Major Edward Bazalgette, the British Political Agent of the Orissa Feudatory States, was killed by an agitated mob during the Praja Mandal agitation in front of the Ranpur palace. Raghunath Mohanty and Dibakar Parida were later hanged for this incident.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜାନୁଆରୀ ୧୯୩୯ ରେ ରଣପୁରରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ନିହତ ହୋଇଥିବା ଓଡ଼ିଶା ଗଡ଼ଜାତ ରାଜ୍ୟସମୂହର ବ୍ରିଟିଶ ପଲିଟିକାଲ ଏଜେଣ୍ଟ କିଏ ଥିଲେ?",
+          "options": [
+            "ମେଜର ଇ. ବାଜେଲଗେଟ୍",
+            "ଲେଫ୍ଟନାଣ୍ଟ କର୍ଣ୍ଣେଲ ସି. ଡବ୍ଲୁ. ବିଟସନ",
+            "କ୍ୟାପଟେନ ଏଚ. ଇ. ହଣ୍ଟର",
+            "ମେଜର ଜେନେରାଲ ଜି. କ୍ୟାମ୍ପବେଲ"
+          ],
+          "explanation": "୫ ଜାନୁଆରୀ ୧୯୩୯ ରେ ରଣପୁର ରାଜପ୍ରାସାଦ ସମ୍ମୁଖରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ବ୍ରିଟିଶ ପଲିଟିକାଲ ଏଜେଣ୍ଟ ମେଜର ଏଡୱାର୍ଡ ବାଜେଲଗେଟ୍ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା ନିହତ ହୋଇଥିଲେ। ଏହି ଘଟଣାରେ ପରବର୍ତ୍ତୀ ସମୟରେ ରଘୁନାଥ ମହାନ୍ତି ଏବଂ ଦିବାକର ପରିଡ଼ାଙ୍କୁ ଫାଶୀ ଦଣ୍ଡ ଦିଆଯାଇଥିଲା।"
         }
       }
     }
