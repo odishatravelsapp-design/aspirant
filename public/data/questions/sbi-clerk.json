@@ -1,6 +1,6 @@
 {
   "exam": "sbi-clerk",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "sbic-q-0001",
@@ -9710,6 +9710,136 @@
       ],
       "answer": 2,
       "explanation": "Let the time taken by A and B to reach their destinations after meeting be t₁ and t₂, respectively.\nt₁ = 3 hours 12 minutes = 3 + 12/60 = 16/5 hours.\nt₂ = 5 hours.\n\nThe time taken from start until they meet is given by:\nt_meet = √(t₁ × t₂) = √(16/5 × 5) = √16 = 4 hours.\n\nTotal time taken by A to cover the entire distance from X to Y:\nT_A = t_meet + t₁ = 4 + 16/5 = 36/5 hours = 7.2 hours.\n\nSpeed of A = Total Distance / T_A = 360 / (36/5) = 360 × 5 / 36 = 50 km/h."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473018551-0",
+      "section": "Quant",
+      "topic": "Mixtures and Alligations",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "A vessel contains 80 litres of a mixture of milk and water in the ratio 7 : 1. How much water (in litres) must be added to the vessel so that the ratio of milk to water becomes 5 : 2?",
+      "options": [
+        "12 litres",
+        "15 litres",
+        "18 litres",
+        "22 litres"
+      ],
+      "answer": 2,
+      "explanation": "Initial volume of mixture = 80 litres.\nQuantity of milk = (7/8) × 80 = 70 litres.\nQuantity of water = (1/8) × 80 = 10 litres.\nLet x litres of water be added to the mixture.\nAccording to the question:\n70 / (10 + x) = 5 / 2\n=> 5 × (10 + x) = 140\n=> 50 + 5x = 140\n=> 5x = 90\n=> x = 18 litres."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473018551-1",
+      "section": "Quant",
+      "topic": "Mensuration",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The area of a square is 784 cm². The perimeter of a rectangle is equal to the perimeter of this square. If the ratio of the length to the breadth of the rectangle is 5 : 3, what is the area of a circle whose radius is equal to the breadth of the rectangle? (Take π = 22/7)",
+      "options": [
+        "1256 cm²",
+        "1386 cm²",
+        "1496 cm²",
+        "1524 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Area of the square = 784 cm².\nSide of the square = √784 = 28 cm.\nPerimeter of the square = 4 × 28 = 112 cm.\nSince the perimeter of the rectangle equals the perimeter of the square:\n2(l + b) = 112 cm => l + b = 56 cm.\nGiven that l : b = 5 : 3:\nBreadth of rectangle (b) = (3 / 8) × 56 = 21 cm.\nRadius of the circle (r) = breadth = 21 cm.\nArea of the circle = πr² = (22/7) × 21 × 21 = 22 × 3 × 21 = 1386 cm²."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473212710-0",
+      "section": "Reasoning",
+      "topic": "Alphabet Test",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "How many such pairs of letters are there in the word 'REASONING' each of which has as many letters between them in the word as in the English alphabetical series (in both forward and backward directions)?",
+      "options": [
+        "None",
+        "Two",
+        "Three",
+        "More than three"
+      ],
+      "answer": 2,
+      "explanation": "Writing the alphabetical positions of letters in REASONING: R(18), E(5), A(1), S(19), O(15), N(14), I(9), N(14), G(7).\nChecking all pairs:\n1. Forward: A(1) and G(7) have 5 letters between them in the word (S, O, N, I, N) and 5 letters in the alphabet (B, C, D, E, F).\n2. Backward: N(14 at 6th position) and O(15 at 5th position) are consecutive in both the word and the alphabet.\n3. Backward: G(7) and I(9) have 1 letter between them in the word (N at 8th position) and 1 letter in the alphabet (H).\nThere are exactly 3 such pairs: (A, G), (N, O), and (G, I)."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473212710-1",
+      "section": "Reasoning",
+      "topic": "Age Puzzle",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Six persons—P, Q, R, S, T, and U—were born in different years: 1982, 1989, 1995, 2001, 2008, and 2015. Their ages are calculated with reference to the base year 2024.\n• The age of R is a perfect square.\n• Only two persons are younger than P.\n• The difference between the ages of S and U is 7 years, where S is older than U.\n• U is older than R.\n• The age of Q is a prime number.\n• T was born in an odd-numbered year.\n\nWhat is the sum of the ages of Q and R?",
+      "options": [
+        "41 years",
+        "45 years",
+        "48 years",
+        "51 years"
+      ],
+      "answer": 1,
+      "explanation": "Calculating ages in 2024:\n1982: 42 years\n1989: 35 years\n1995: 29 years\n2001: 23 years\n2008: 16 years\n2015: 9 years\n\nStep-by-step deduction:\n1. Only two persons are younger than P, so P's age is the 3rd lowest: P = 23 years (born 2001).\n2. R's age is a perfect square, so R is either 16 or 9.\n3. Difference between S and U is 7 years (S > U). Possible pairs are (42, 35) or (16, 9) [since (23, 16) is impossible as P = 23].\n4. U is older than R. If {S, U} = {16, 9}, U = 9, which cannot be older than R. Thus, S = 42 years (1982) and U = 35 years (1989).\n5. Q's age is a prime number. Remaining unassigned ages are 29, 16, and 9. Among these, only 29 is prime, so Q = 29 years (1995).\n6. Remaining persons are R and T with ages 16 (born 2008) and 9 (born 2015). Since T was born in an odd-numbered year, T = 9 years (2015), which leaves R = 16 years (2008).\n\nSum of the ages of Q and R = 29 + 16 = 45 years."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473409828-0",
+      "section": "English",
+      "topic": "Phrasal Verbs",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Complete the sentence by choosing the correct phrasal verb from the given options:\n\nThe annual sports meet was ________ until next Friday owing to incessant rain.",
+      "options": [
+        "put off",
+        "brought up",
+        "made up",
+        "given in"
+      ],
+      "answer": 0,
+      "explanation": "'Put off' means to postpone or reschedule an event to a later date, which fits the context appropriately. 'Brought up' means mentioned or raised, 'made up' means invented or compensated, and 'given in' means surrendered."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473409828-1",
+      "section": "English",
+      "topic": "Grammar & Syntax",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which of the following sentences is grammatically correct and coherent?",
+      "options": [
+        "No sooner had the bell rung when the students rushed out of the classroom.",
+        "Scarcely had she stepped outside than the torrential downpour began.",
+        "Not only did he lose his wallet, but he also forgot where he had parked his car.",
+        "Seldom we have seen such exceptional dedication from an intern in this firm."
+      ],
+      "answer": 2,
+      "explanation": "Sentence C is completely correct. It accurately employs negative inversion ('Not only did he lose...') alongside the parallel correlative clause ('but he also forgot...'). In A, 'No sooner' must be followed by 'than' (not 'when'). In B, 'Scarcely' takes 'when' or 'before' (not 'than'). In D, fronting the negative adverb 'Seldom' mandates inversion: 'Seldom have we seen...'."
+    },
+    {
+      "id": "sbi-clerk-ai-1792473563815-0",
+      "section": "General Awareness",
+      "topic": "Small Finance Banks",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "As per the Reserve Bank of India's 'on-tap' licensing guidelines, what is the minimum paid-up voting equity capital required to set up a new Small Finance Bank (SFB)?",
+      "options": [
+        "₹100 crore",
+        "₹200 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answer": 1,
+      "explanation": "According to the RBI guidelines on 'on-tap' licensing of Small Finance Banks (SFBs) released in December 2019, the minimum paid-up voting equity capital / net worth requirement for setting up an SFB is ₹200 crore (earlier ₹100 crore).",
+      "status": "pending"
+    },
+    {
+      "id": "sbi-clerk-ai-1792473563815-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation & PCA",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the revised Prompt Corrective Action (PCA) Framework for Scheduled Commercial Banks issued by the RBI in November 2021, which of the following financial indicators was removed from the monitoring parameters?",
+      "options": [
+        "Net Non-Performing Assets (NNPA) Ratio",
+        "Tier 1 Leverage Ratio",
+        "Return on Assets (RoA)",
+        "Common Equity Tier 1 (CET 1) Ratio"
+      ],
+      "answer": 2,
+      "explanation": "In the revised Prompt Corrective Action (PCA) framework issued on November 2, 2021 (effective January 1, 2022), the RBI retained Capital, Asset Quality, and Leverage as the three key monitoring areas, while dropping Return on Assets (RoA) from the monitoring matrix.",
+      "status": "pending"
     }
   ]
 }

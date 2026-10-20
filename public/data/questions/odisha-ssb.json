@@ -1,6 +1,6 @@
 {
   "exam": "odisha-ssb",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "odisha-ssb-edu-1781964388371-0",
@@ -13796,6 +13796,234 @@
             "ମେଜର ଜେନେରାଲ ଜି. କ୍ୟାମ୍ପବେଲ"
           ],
           "explanation": "୫ ଜାନୁଆରୀ ୧୯୩୯ ରେ ରଣପୁର ରାଜପ୍ରାସାଦ ସମ୍ମୁଖରେ ପ୍ରଜାମଣ୍ଡଳ ଆନ୍ଦୋଳନ ସମୟରେ ବ୍ରିଟିଶ ପଲିଟିକାଲ ଏଜେଣ୍ଟ ମେଜର ଏଡୱାର୍ଡ ବାଜେଲଗେଟ୍ ଉତ୍ତ୍ୟକ୍ତ ଜନତାଙ୍କ ଦ୍ୱାରା ନିହତ ହୋଇଥିଲେ। ଏହି ଘଟଣାରେ ପରବର୍ତ୍ତୀ ସମୟରେ ରଘୁନାଥ ମହାନ୍ତି ଏବଂ ଦିବାକର ପରିଡ଼ାଙ୍କୁ ଫାଶୀ ଦଣ୍ଡ ଦିଆଯାଇଥିଲା।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479640460-0",
+      "section": "Subject Knowledge",
+      "topic": "Geoffrey Chaucer",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Geoffrey Chaucer's 'The Canterbury Tales', which pilgrim is described in the 'General Prologue' as having an open sore or ulcer ('mormal') on his shin?",
+      "options": [
+        "The Cook",
+        "The Franklin",
+        "The Summoner",
+        "The Pardoner"
+      ],
+      "answer": 0,
+      "explanation": "In the 'General Prologue' to Chaucer's 'The Canterbury Tales', the Cook (Roger of Ware) is described as an excellent culinary craftsman, though it was a pity that 'on his shyne a mormal hadde he' (he had an ulcer on his shin).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜେଓଫ୍ରେ ଚସରଙ୍କ 'ଦି କ୍ୟାଣ୍ଟରବରୀ ଟେଲ୍ସ' (The Canterbury Tales) ର 'ଜେନେରାଲ ପ୍ରୋଲୋଗ୍' (General Prologue) ରେ କେଉଁ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଗୋଡ଼ର ନଳୀହାଡ଼ (shin) ରେ ଏକ ଖଣ୍ଡିଆ ବା ଘା' ('mormal') ଥିବାର ବର୍ଣ୍ଣନା କରାଯାଇଛି?",
+          "options": [
+            "ଦି କୁକ୍ (The Cook)",
+            "ଦି ଫ୍ରାଙ୍କଲିନ୍ (The Franklin)",
+            "ଦି ସମନର୍ (The Summoner)",
+            "ଦି ପାର୍ଡନର୍ (The Pardoner)"
+          ],
+          "explanation": "ଚସରଙ୍କ 'ଦି କ୍ୟାଣ୍ଟରବରୀ ଟେଲ୍ସ'ର 'ଜେନେରାଲ ପ୍ରୋଲୋଗ୍'ରେ ରୋଜର୍ ଅଫ୍ ୱେର୍ (ଦି କୁକ୍) ଙ୍କୁ ଜଣେ ଦକ୍ଷ ରୋଷେୟା ଭାବେ ବର୍ଣ୍ଣନା କରାଯାଇଛି, ମାତ୍ର ତାଙ୍କ ଗୋଡ଼ରେ ଏକ ଘା' ବା ଖଣ୍ଡିଆ ('mormal') ଥିବାର ଉଲ୍ଲେଖ ରହିଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479640460-1",
+      "section": "Subject Knowledge",
+      "topic": "New Criticism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who co-authored the influential New Critical essay 'The Intentional Fallacy' (1946) alongside Monroe C. Beardsley?",
+      "options": [
+        "Cleanth Brooks",
+        "W. K. Wimsatt Jr.",
+        "John Crowe Ransom",
+        "Allen Tate"
+      ],
+      "answer": 1,
+      "explanation": "'The Intentional Fallacy' (1946) was co-written by literary scholar W. K. Wimsatt Jr. and philosopher Monroe C. Beardsley, arguing that an author's intended meaning is neither available nor desirable as the standard for judging a work of literary art.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ମନରୋ ସି. ବିଅର୍ଡସଲି (Monroe C. Beardsley) ଙ୍କ ସହିତ ମିଳିତ ଭାବରେ ପ୍ରଭାବଶାଳୀ ନବ୍ୟ-ସମାଲୋଚନାତ୍ମକ ପ୍ରବନ୍ଧ 'ଦି ଇନଟେନସନାଲ ଫାଲାସି' (The Intentional Fallacy, 1946) କିଏ ରଚନା କରିଥିଲେ?",
+          "options": [
+            "କ୍ଲିନ୍ଥ ବ୍ରୁକ୍ସ (Cleanth Brooks)",
+            "ଡବ୍ଲ୍ୟୁ. କେ. ୱିମସାଟ୍ ଜୁନିଅର୍ (W. K. Wimsatt Jr.)",
+            "ଜନ୍ କ୍ରୋ ରାନ୍ସମ୍ (John Crowe Ransom)",
+            "ଆଲେନ୍ ଟେଟ୍ (Allen Tate)"
+          ],
+          "explanation": "'ଦି ଇନଟେନସନାଲ ଫାଲାସି' (1946) ସାହିତ୍ୟ ବିଶାରଦ ଡବ୍ଲ୍ୟୁ. କେ. ୱିମସାଟ୍ ଜୁନିଅର୍ ଏବଂ ଦାର୍ଶନିକ ମନରୋ ସି. ବିଅର୍ଡସଲିଙ୍କ ଦ୍ୱାରା ମିଳିତ ଭାବେ ଲିଖିତ ହୋଇଥିଲା; ଏହା ଯୁକ୍ତି କରେ ଯେ ଲେଖକଙ୍କ ଉଦ୍ଦେଶ୍ୟ ସାହିତ୍ୟିକ କୃତିର ମୂଲ୍ୟାଙ୍କନ ପାଇଁ ଉପଯୁକ୍ତ ମାନଦଣ୍ଡ ନୁହେଁ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479714145-0",
+      "section": "Teaching Aptitude",
+      "topic": "Interaction Analysis in Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In Ned Flanders' Interaction Analysis Category System (FIACS) used for analyzing classroom verbal behavior, which category corresponds to 'Accepting or using ideas of students'?",
+      "options": [
+        "Category 2",
+        "Category 3",
+        "Category 4",
+        "Category 6"
+      ],
+      "answer": 1,
+      "explanation": "In Flanders' 10-category system (FIACS), Categories 1 to 7 represent Teacher Talk. Under Indirect Teacher Influence: Category 1 is 'Accepts feelings', Category 2 is 'Praises or encourages', Category 3 is 'Accepts or uses ideas of students', and Category 4 is 'Asks questions'. Category 6 belongs to Direct Influence ('Giving directions').",
+      "translations": {
+        "or": {
+          "question": "ଶ୍ରେଣୀଗୃହର ମୌଖିକ ଆଚରଣ ବିଶ୍ଳେଷଣ ପାଇଁ ବ୍ୟବହୃତ ନେଡ୍ ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ଇଣ୍ଟରାକସନ୍ ଆନାଲିସିସ୍ କାଟେଗୋରୀ ସିଷ୍ଟମ୍ (FIACS) ରେ, କେଉଁ ବର୍ଗଟି 'ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଧାରଣା ବା ମତାମତକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା' ସହିତ ସମ୍ପୃକ୍ତ?",
+          "options": [
+            "ବର୍ଗ ୨ (Category 2)",
+            "ବର୍ଗ ୩ (Category 3)",
+            "ବର୍ଗ ୪ (Category 4)",
+            "ବର୍ଗ ୬ (Category 6)"
+          ],
+          "explanation": "ଫ୍ଲାଣ୍ଡର୍ସଙ୍କ ୧୦-ବର୍ଗ ବିଶିଷ୍ଟ ବ୍ୟବସ୍ଥା (FIACS) ରେ, ବର୍ଗ ୧ ରୁ ୭ ଶିକ୍ଷକଙ୍କ କଥାବାର୍ତ୍ତାକୁ ପ୍ରତିନିଧିତ୍ୱ କରେ। ପରୋକ୍ଷ ପ୍ରଭାବ ଅଧୀନରେ: ବର୍ଗ ୧ ହେଉଛି 'ଭାବନା ଗ୍ରହଣ କରିବା', ବର୍ଗ ୨ ହେଉଛି 'ପ୍ରଶଂସା ବା ଉତ୍ସାହିତ କରିବା', ବର୍ଗ ୩ ହେଉଛି 'ଛାତ୍ରଛାତ୍ରୀଙ୍କ ଧାରଣା ବା ମତାମତକୁ ଗ୍ରହଣ କରିବା କିମ୍ବା ବ୍ୟବହାର କରିବା', ଏବଂ ବର୍ଗ ୪ ହେଉଛି 'ପ୍ରଶ୍ନ ପଚାରିବା'। ବର୍ଗ ୬ ପ୍ରତ୍ୟକ୍ଷ ପ୍ରଭାବ ('ନିର୍ଦ୍ଦେଶ ଦେବା') ଅନ୍ତର୍ଭୁକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479714145-1",
+      "section": "Teaching Aptitude",
+      "topic": "Instructional Design Models",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Robert Gagné’s Nine Events of Instruction, which internal cognitive process corresponds specifically to the pedagogical event of 'Providing learning guidance'?",
+      "options": [
+        "Selective perception",
+        "Semantic encoding",
+        "Retrieval to working memory",
+        "Generalization"
+      ],
+      "answer": 1,
+      "explanation": "In Gagné's condition-of-learning framework, each external instructional event supports an internal cognitive process: Event 3 (Stimulating recall) corresponds to 'Retrieval to working memory', Event 4 (Presenting stimulus) corresponds to 'Selective perception', Event 5 (Providing learning guidance) corresponds to 'Semantic encoding', and Event 9 (Enhancing retention and transfer) corresponds to 'Generalization'.",
+      "translations": {
+        "or": {
+          "question": "ରବର୍ଟ ଗ୍ୟାଗ୍ନେ (Robert Gagné)ଙ୍କ 'ଶିକ୍ଷାଦାନର ନଅଟି ପର୍ଯ୍ୟାୟ' (Nine Events of Instruction) ଅନୁସାରେ, 'ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ କରିବା' (Providing learning guidance) ର ଶିକ୍ଷାଦାନ ଘଟଣା ସହିତ କେଉଁ ଆଭ୍ୟନ୍ତରୀଣ ଜ୍ଞାନାତ୍ମକ ପ୍ରକ୍ରିୟା ସିଧାସଳଖ ଭାବେ ଜଡ଼ିତ?",
+          "options": [
+            "ଚୟନମୂଳକ ପ୍ରତ୍ୟକ୍ଷୀକରଣ (Selective perception)",
+            "ଅର୍ଥଗତ ସଙ୍କେତୀକରଣ (Semantic encoding)",
+            "କାର୍ଯ୍ୟକାରୀ ସ୍ମୃତିର ପୁନରୁଦ୍ଧାର (Retrieval to working memory)",
+            "ସାଧାରଣୀକରଣ (Generalization)"
+          ],
+          "explanation": "ଗ୍ୟାଗ୍ନେଙ୍କ ଶିକ୍ଷଣ ଢାଞ୍ଚା ଅନୁସାରେ, ପ୍ରତ୍ୟେକ ବାହ୍ୟ ଶିକ୍ଷାଦାନ ଘଟଣା ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ଆଭ୍ୟନ୍ତରୀଣ ପ୍ରକ୍ରିୟାକୁ ସାହାଯ୍ୟ କରେ: ପର୍ଯ୍ୟାୟ ୩ 'କାର୍ଯ୍ୟକାରୀ ସ୍ମୃତିର ପୁନରୁଦ୍ଧାର', ପର୍ଯ୍ୟାୟ ୪ 'ଚୟନମୂଳକ ପ୍ରତ୍ୟକ୍ଷୀକରଣ', ପର୍ଯ୍ୟାୟ ୫ (ଶିକ୍ଷଣ ମାର୍ଗଦର୍ଶନ ପ୍ରଦାନ) 'ଅର୍ଥଗତ ସଙ୍କେତୀକରଣ' (Semantic encoding), ଏବଂ ପର୍ଯ୍ୟାୟ ୯ 'ସାଧାରଣୀକରଣ' ସହ ସମ୍ପୃକ୍ତ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479793012-0",
+      "section": "General Studies",
+      "topic": "Modern Odisha History",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Who was the editor of 'Utkala Deepika', the first Odia newspaper, which began publication in 1866?",
+      "options": [
+        "Gourishankar Ray",
+        "Fakir Mohan Senapati",
+        "Radhanath Ray",
+        "Bichhanda Patnaik"
+      ],
+      "answer": 0,
+      "explanation": "'Utkala Deepika' was the first Odia weekly newspaper, first published on August 4, 1866. Gourishankar Ray was its editor and Babu Bichitrananda Das was its co-founder.",
+      "translations": {
+        "or": {
+          "question": "୧୮୬୬ ମସିହାରେ ପ୍ରକାଶିତ ହୋଇଥିବା ପ୍ରଥମ ଓଡ଼ିଆ ଖବରକାଗଜ 'ଉତ୍କଳ ଦୀପିକା'ର ସମ୍ପାଦକ କିଏ ଥିଲେ?",
+          "options": [
+            "ଗୌରୀଶଙ୍କର ରାୟ",
+            "ଫକୀର ମୋହନ ସେନାପତି",
+            "ରାଧାନାଥ ରାୟ",
+            "ବିଚ୍ଛନ୍ଦ ପଟ୍ଟନାୟକ"
+          ],
+          "explanation": "'ଉତ୍କଳ ଦୀପିକା' ହେଉଛି ପ୍ରଥମ ଓଡ଼ିଆ ସାପ୍ତାହିକ ସମ୍ବାଦପତ୍ର, ଯାହା ୪ ଅଗଷ୍ଟ ୧୮୬୬ ରେ ଆରମ୍ଭ ହୋଇଥିଲା । କର୍ମବୀର ଗୌରୀଶଙ୍କର ରାୟ ଏହାର ସମ୍ପାଦକ ଥିଲେ ଏବଂ ବାବୁ ବିଚିତ୍ରାନନ୍ଦ ଦାସ ଏହାର ସହ-ପ୍ରତିଷ୍ଠାତା ଥିଲେ ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479793012-1",
+      "section": "General Studies",
+      "topic": "Institutions in Odisha",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which year was the Central Rice Research Institute (now ICAR-National Rice Research Institute) established at Cuttack, Odisha?",
+      "options": [
+        "1938",
+        "1946",
+        "1952",
+        "1960"
+      ],
+      "answer": 1,
+      "explanation": "The Central Rice Research Institute (CRRI), now known as the ICAR-National Rice Research Institute (NRRI), was established on April 23, 1946 at Bidyadharpur, Cuttack, to undertake comprehensive research on rice production.",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର କଟକଠାରେ କେନ୍ଦ୍ରୀୟ ଧାନ ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ (ବର୍ତ୍ତମାନ ଆଇ.ସି.ଏ.ଆର୍-ଜାତୀୟ ଧାନ ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ) କେଉଁ ବର୍ଷ ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା?",
+          "options": [
+            "୧୯୩୮",
+            "୧୯୪୬",
+            "୧୯୫୨",
+            "୧୯୬୦"
+          ],
+          "explanation": "କେନ୍ଦ୍ରୀୟ ଧାନ ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ (ସିଆରଆରଆଇ), ଯାହା ବର୍ତ୍ତମାନ ଆଇସିଏଆର-ଜାତୀୟ ଧାନ ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ (ଏନଆରଆରଆଇ) ନାମରେ ପରିଚିତ, ୨୩ ଏପ୍ରିଲ ୧୯୪୬ ରେ କଟକର ବିଦ୍ୟାଧରପୁରଠାରେ ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା ।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479885607-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Literature & Culture",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who compiled the monumental seven-volume Odia lexicon titled 'Purna Chandra Odia Bhashakosha'?",
+      "options": [
+        "Gopal Chandra Praharaj",
+        "Jagabandhu Singh",
+        "Gopinath Nanda Sharma",
+        "Artaballabh Mohanty"
+      ],
+      "answer": 0,
+      "explanation": "'Purna Chandra Odia Bhashakosha' is a monumental seven-volume encyclopedic lexicon compiled by Gopal Chandra Praharaj between 1931 and 1940, containing around 185,000 words with equivalents in Odia, English, Bengali, and Hindi.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "'ପୂର୍ଣ୍ଣଚନ୍ଦ୍ର ଓଡ଼ିଆ ଭାଷାକୋଷ' ନାମକ ସାତ ଖଣ୍ଡ ବିଶିଷ୍ଟ ବିଶାଳ ଓଡ଼ିଆ ଅଭିଧାନ କିଏ ସଙ୍କଳନ କରିଥିଲେ?",
+          "options": [
+            "ଗୋପାଳ ଚନ୍ଦ୍ର ପ୍ରହରାଜ",
+            "ଜଗବନ୍ଧୁ ସିଂହ",
+            "ଗୋପୀନାଥ ନନ୍ଦ ଶର୍ମା",
+            "ଆର୍ତ୍ତବଲ୍ଲଭ ମହାନ୍ତି"
+          ],
+          "explanation": "'ପୂର୍ଣ୍ଣଚନ୍ଦ୍ର ଓଡ଼ିଆ ଭାଷାକୋଷ' ହେଉଛି ଗୋପାଳ ଚନ୍ଦ୍ର ପ୍ରହରାଜଙ୍କ ଦ୍ୱାରା ୧୯୩୧ ରୁ ୧୯୪୦ ମଧ୍ୟରେ ସଙ୍କଳିତ ଏକ ଐତିହାସିକ ସାତ ଖଣ୍ଡ ବିଶିଷ୍ଟ ବହୁଭାଷୀ ଶବ୍ଦକୋଷ। ଏଥିରେ ଓଡ଼ିଆ, ଇଂରାଜୀ, ବଙ୍ଗଳା ଏବଂ ହିନ୍ଦୀ ଅର୍ଥ ସହିତ ପ୍ରାୟ ୧,୮୫,୦୦୦ ଶବ୍ଦ ସ୍ଥାନ ପାଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "odisha-ssb-ai-1792479885607-1",
+      "section": "Odisha GK",
+      "topic": "Ancient History of Odisha",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "The Asanapat stone inscription discovered in Keonjhar district, which features a thirteen-line record inscribed below an image of Nataraja, belongs to which monarch of the Naga dynasty of Vindhyatabi?",
+      "options": [
+        "Satrubhanja",
+        "Ranabhanja",
+        "Silabhanja",
+        "Vidyadharabhanja"
+      ],
+      "answer": 0,
+      "explanation": "The Asanapat stone inscription from Keonjhar district (now preserved in the Odisha State Museum) belongs to Maharaja Satrubhanja of the Naga dynasty of Vindhyatabi (c. 4th–5th century CE). It is carved below a thirteen-line record depicting an eight-armed Nataraja, documenting his martial victories, charities, and patronage to Saivism.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "କେନ୍ଦୁଝର ଜିଲ୍ଲାରୁ ମିଳିଥିବା ଆସନପାଟ ଶିଳାଲେଖ, ଯେଉଁଥିରେ ନଟରାଜ ମୂର୍ତ୍ତି ତଳେ ତେର ଧାଡ଼ିର ଏକ ଅଭିଲେଖ ଖୋଦିତ ହୋଇଛି, ତାହା ବିନ୍ଧ୍ୟାଟବୀର ନାଗ ବଂଶର କେଉଁ ଶାସକଙ୍କ ସମ୍ପର୍କିତ?",
+          "options": [
+            "ଶତ୍ରୁଭଞ୍ଜ",
+            "ରଣଭଞ୍ଜ",
+            "ଶିଳାଭଞ୍ଜ",
+            "ବିଦ୍ୟାଧରଭଞ୍ଜ"
+          ],
+          "explanation": "କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଆସନପାଟରୁ ଆବିଷ୍କୃତ ଏବଂ ଓଡ଼ିଶା ରାଜ୍ୟ ସଂଗ୍ରହାଳୟରେ ସଂରକ୍ଷିତ ଥିବା ପ୍ରସିଦ୍ଧ ଶିଳାଲେଖଟି ବିନ୍ଧ୍ୟାଟବୀର ନାଗ ବଂଶୀୟ ଶାସକ ମହାରାଜା ଶତ୍ରୁଭଞ୍ଜଙ୍କ ସମୟର ଅଟେ। ଏଥିରେ ଅଷ୍ଟଭୁଜ ନଟରାଜ ଶିବଙ୍କ ମୂର୍ତ୍ତି ତଳେ ତାଙ୍କର ସାମରିକ ବିଜୟ ଓ ଦାନ ଧର୍ମ ଉଲ୍ଲେଖ ରହିଛି।"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "exam": "pgt",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "pgt-edu-1781964388376-0",
@@ -10293,6 +10293,232 @@
             "ଯୋଜନା → ଉପସ୍ଥାପନା → ଆତ୍ମୀକରଣ → ସାଧାରଣୀକରଣ → ଆବୃତ୍ତି (Planning → Presentation → Assimilation → Generalization → Recitation)"
           ],
           "explanation": "ଏଚ୍. ସି. ମରିସନ୍ ବୋଧଗମ୍ୟତା ସ୍ତରର ଶିକ୍ଷାଦାନ ପାଇଁ ୫ଟି କ୍ରମିକ ପର୍ଯ୍ୟାୟ ଧାର୍ଯ୍ୟ କରିଥିଲେ: ୧. ଅନ୍ୱେଷଣ (ପୂର୍ବଜ୍ଞାନ ପରୀକ୍ଷା), ୨. ଉପସ୍ଥାପନା (ନୂତନ ବିଷୟବସ୍ତୁର ଉପସ୍ଥାପନ), ୩. ଆତ୍ମୀକରଣ (ବିଷୟବସ୍ତୁକୁ ଗଭୀର ଭାବେ ଅଧ୍ୟୟନ ଓ ଗ୍ରହଣ କରିବା), ୪. ସଂଗଠନ (ନିଜ ଭାଷାରେ ବିଷୟବସ୍ତୁର ବ୍ୟବସ୍ଥିତ ଉପସ୍ଥାପନ), ଏବଂ ୫. ଆବୃତ୍ତି (ମୌଖିକ କିମ୍ବା ଲିଖିତ ପୁନରୁତ୍ପାଦନ)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792479923195-0",
+      "section": "Teaching Aptitude",
+      "topic": "Action Research",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In educational research, which of the following represents the correct canonical sequence of the iterative cycle of Action Research as formulated by Stephen Kemmis and Robin McTaggart?",
+      "options": [
+        "Plan → Act → Observe → Reflect",
+        "Act → Observe → Plan → Reflect",
+        "Observe → Plan → Act → Reflect",
+        "Plan → Observe → Act → Reflect"
+      ],
+      "answer": 0,
+      "explanation": "The self-reflective spiral of action research formulated by Stephen Kemmis and Robin McTaggart consists of four iterative phases: Planning (identifying problem and constructing a plan), Acting (implementing the deliberate intervention), Observing (systematically collecting data on the implementation), and Reflecting (evaluating the outcomes to inform the next cycle).",
+      "translations": {
+        "or": {
+          "question": "ଶିକ୍ଷାଗତ ଗବେଷଣାରେ, ଷ୍ଟିଫେନ୍ କେମିସ୍ ଏବଂ ରବିନ୍ ମ୍ୟାକଟାଗାର୍ଟଙ୍କ ଦ୍ୱାରା ପ୍ରସ୍ତୁତ କ୍ରିୟାତ୍ମକ ଅନୁସନ୍ଧାନ (Action Research)ର ପୁନରାବୃତ୍ତି ଚକ୍ରର ସଠିକ୍ ପର୍ଯ୍ୟାୟକ୍ରମ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି?",
+          "options": [
+            "ଯୋଜନା (Plan) → କାର୍ଯ୍ୟ (Act) → ନିରୀକ୍ଷଣ (Observe) → ପ୍ରତିଫଳନ (Reflect)",
+            "କାର୍ଯ୍ୟ (Act) → ନିରୀକ୍ଷଣ (Observe) → ଯୋଜନା (Plan) → ପ୍ରତିଫଳନ (Reflect)",
+            "ନିରୀକ୍ଷଣ (Observe) → ଯୋଜନା (Plan) → କାର୍ଯ୍ୟ (Act) → ପ୍ରତିଫଳନ (Reflect)",
+            "ଯୋଜନା (Plan) → ନିରୀକ୍ଷଣ (Observe) → କାର୍ଯ୍ୟ (Act) → ପ୍ରତିଫଳନ (Reflect)"
+          ],
+          "explanation": "ଷ୍ଟିଫେନ୍ କେମିସ୍ ଏବଂ ରବିନ୍ ମ୍ୟାକଟାଗାର୍ଟଙ୍କ କ୍ରିୟାତ୍ମକ ଅନୁସନ୍ଧାନର ଆତ୍ମ-ପ୍ରତିଫଳନ ସ୍ପାଇରାଲ୍ ଚାରୋଟି ମୁଖ୍ୟ ପର୍ଯ୍ୟାୟକୁ ନେଇ ଗଠିତ: ଯୋଜନା ପ୍ରସ୍ତୁତି (Plan), କାର୍ଯ୍ୟକାରୀ କରିବା (Act), ନିରୀକ୍ଷଣ କରି ତଥ୍ୟ ସଂଗ୍ରହ (Observe), ଏବଂ ଫଳାଫଳର ସମୀକ୍ଷା ବା ପ୍ରତିଫଳନ (Reflect)।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792479923195-1",
+      "section": "Teaching Aptitude",
+      "topic": "Experiential Learning Theory",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to David Kolb's Experiential Learning Theory (ELT), which learning style is formed by the combination of Concrete Experience (CE) and Reflective Observation (RO), characterized by the ability to view concrete situations from many different perspectives and generate creative ideas?",
+      "options": [
+        "Diverging",
+        "Assimilating",
+        "Converging",
+        "Accommodating"
+      ],
+      "answer": 0,
+      "explanation": "In David Kolb's model, the 'Diverging' style combines Concrete Experience (CE - feeling) with Reflective Observation (RO - watching). Divergers perform best in situations that call for idea generation and brainstorming, as they are capable of looking at situations from multiple perspectives and are culturally interested and sensitive.",
+      "translations": {
+        "or": {
+          "question": "ଡେଭିଡ୍ କୋଲବ୍ (David Kolb)ଙ୍କ ଅନୁଭୂତିମୂଳକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ (Experiential Learning Theory) ଅନୁଯାୟୀ, ମୂର୍ତ୍ତ ଅନୁଭୂତି (Concrete Experience - CE) ଏବଂ ପ୍ରତିଫଳିତ ନିରୀକ୍ଷଣ (Reflective Observation - RO)ର ମିଶ୍ରଣରୁ କେଉଁ ଶିକ୍ଷଣ ଶୈଳୀ ଗଠିତ ହୁଏ, ଯାହା ବିଭିନ୍ନ ଦୃଷ୍ଟିକୋଣରୁ ବାସ୍ତବ ପରିସ୍ଥିତିକୁ ପରଖିବା ଏବଂ ସୃଜନଶୀଳ ଧାରଣା ସୃଷ୍ଟି କରିବାର ଦକ୍ଷତା ପ୍ରଦାନ କରେ?",
+          "options": [
+            "ଡାଇଭର୍ଜିଂ (Diverging)",
+            "ଆସିମିଲେଟିଂ (Assimilating)",
+            "କନଭର୍ଜିଂ (Converging)",
+            "ଆକୋମୋଡେଟିଂ (Accommodating)"
+          ],
+          "explanation": "ଡେଭିଡ୍ କୋଲବ୍‌ଙ୍କ ମଡେଲରେ, 'ଡାଇଭର୍ଜିଂ' ଶୈଳୀ ମୂର୍ତ୍ତ ଅନୁଭୂତି (CE) ଏବଂ ପ୍ରତିଫଳିତ ନିରୀକ୍ଷଣ (RO)କୁ ନେଇ ଗଠିତ। ଏହି ଶୈଳୀର ଶିକ୍ଷାର୍ଥୀମାନେ ବ୍ରେନଷ୍ଟର୍ମିଂ ଓ ସୃଜନଶୀଳ ଭାବନା ପ୍ରକାଶରେ ଉତ୍କୃଷ୍ଟ ହୁଅନ୍ତି ଏବଂ ବିଭିନ୍ନ ଦୃଷ୍ଟିକୋଣରୁ କୌଣସି ବିଷୟକୁ ଅନୁଧ୍ୟାନ କରିପାରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792480042351-0",
+      "section": "Subject Knowledge",
+      "topic": "Crystal Field Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What is the crystal field stabilization energy (CFSE) for a high-spin d^6 octahedral complex (neglecting pairing energy)?",
+      "options": [
+        "-0.4 Δo",
+        "-0.6 Δo",
+        "-1.2 Δo",
+        "-2.4 Δo"
+      ],
+      "answer": 0,
+      "explanation": "In a high-spin octahedral d^6 complex, the electronic configuration is t2g^4 eg^2. Each electron in the t2g orbital stabilizes the system by -0.4 Δo, and each electron in the eg orbital destabilizes the system by +0.6 Δo. Therefore, CFSE = [4(-0.4) + 2(+0.6)] Δo = (-1.6 + 1.2) Δo = -0.4 Δo.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଯୁଗ୍ମନ ଶକ୍ତି (pairing energy) କୁ ଅଣଦେଖା କରି, ଏକ ଉଚ୍ଚ-ସ୍ପିନ୍ d^6 ଅଷ୍ଟତଳୀୟ (octahedral) ଜଟିଳ ଯୌଗିକ ପାଇଁ ସ୍ଫଟିକ କ୍ଷେତ୍ର ସ୍ଥିରୀକରଣ ଶକ୍ତି (CFSE) କେତେ ହେବ?",
+          "options": [
+            "-0.4 Δo",
+            "-0.6 Δo",
+            "-1.2 Δo",
+            "-2.4 Δo"
+          ],
+          "explanation": "ଏକ ଉଚ୍ଚ-ସ୍ପିନ୍ d^6 ଅଷ୍ଟତଳୀୟ ଜଟିଳରେ ଇଲେକ୍ଟ୍ରୋନିକ୍ ବିନ୍ୟାସ ହେଉଛି t2g^4 eg^2 । t2g କକ୍ଷକରେ ଥିବା ପ୍ରତ୍ୟେକ ଇଲେକ୍ଟ୍ରନ୍ -0.4 Δo ସ୍ଥିରତା ପ୍ରଦାନ କରେ ଏବଂ eg କକ୍ଷକରେ ଥିବା ପ୍ରତ୍ୟେକ ଇଲେକ୍ଟ୍ରନ୍ +0.6 Δo ଅସ୍ଥିରତା ପ୍ରଦାନ କରେ । ତେଣୁ, CFSE = [4(-0.4) + 2(+0.6)] Δo = (-1.6 + 1.2) Δo = -0.4 Δo ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792480042351-1",
+      "section": "Subject Knowledge",
+      "topic": "Pericyclic Reactions",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to the Woodward-Hoffmann rules, the thermal electrocyclic ring opening of cis-3,4-dimethylcyclobutene yields which of the following stereoisomers?",
+      "options": [
+        "(2E, 4Z)-hexa-2,4-diene",
+        "(2E, 4E)-hexa-2,4-diene",
+        "(2Z, 4Z)-hexa-2,4-diene",
+        "(3E, 5Z)-octa-3,5-diene"
+      ],
+      "answer": 0,
+      "explanation": "The electrocyclic ring opening of a cyclobutene derivative is a 4-electron (4n) system. Under thermal conditions, Woodward-Hoffmann rules dictate that the reaction proceeds via a conrotatory pathway. For cis-3,4-dimethylcyclobutene, conrotatory motion causes one methyl group to rotate outward (E-geometry) and the other methyl group to rotate inward (Z-geometry), yielding (2E, 4Z)-hexa-2,4-diene.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଉଡ଼ୱାର୍ଡ-ହଫମ୍ୟାନ୍ ନିୟମ ଅନୁସାରେ, ସିସ୍-୩,୪-ଡାଇମିଥାଇଲସାଇକ୍ଲୋବ୍ୟୁଟିନ୍ (cis-3,4-dimethylcyclobutene) ର ତାପୀୟ ଇଲେକ୍ଟ୍ରୋସାଇକ୍ଲିକ୍ ବଳୟ ଉନ୍ମୋଚନ (thermal electrocyclic ring opening) ଦ୍ୱାରା ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଷ୍ଟେରିଓଆଇସୋମର ମିଳେ?",
+          "options": [
+            "(2E, 4Z)-ହେକ୍ସା-୨,୪-ଡାଇଇନ୍",
+            "(2E, 4E)-ହେକ୍ସା-୨,୪-ଡାଇଇନ୍",
+            "(2Z, 4Z)-ହେକ୍ସା-୨,୪-ଡାଇଇନ୍",
+            "(3E, 5Z)-ଅକ୍ଟା-୩,୫-ଡାଇଇନ୍"
+          ],
+          "explanation": "ସାଇକ୍ଲୋବ୍ୟୁଟିନ୍ ବଳୟର ଉନ୍ମୋଚନ ଏକ ୪-ଇଲେକ୍ଟ୍ରନ୍ (4n) ପ୍ରଣାଳୀ ଅଟେ । ତାପୀୟ ପରିସ୍ଥିତିରେ, ଉଡ଼ୱାର୍ଡ-ହଫମ୍ୟାନ୍ ନିୟମ ଅନୁଯାୟୀ ଏହି ପ୍ରକ୍ରିୟା ଏକ କନରୋଟେଟୋରୀ (conrotatory) ପଥ ଦେଇ ସମ୍ପନ୍ନ ହୁଏ । ସିସ୍-୩,୪-ଡାଇମିଥାଇଲସାଇକ୍ଲୋବ୍ୟୁଟିନ୍ କ୍ଷେତ୍ରରେ କନରୋଟେଟୋରୀ ଘୂର୍ଣ୍ଣନ ଫଳରେ ଗୋଟିଏ ମିଥାଇଲ୍ ଗ୍ରୁପ୍ ବାହାରକୁ (E) ଏବଂ ଅନ୍ୟଟି ଭିତରକୁ (Z) ଘୂରିଥାଏ, ଯାହାଦ୍ୱାରା (2E, 4Z)-ହେକ୍ସା-୨,୪-ଡାଇଇନ୍ ଉତ୍ପନ୍ନ ହୁଏ ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792480133742-0",
+      "section": "Child Development",
+      "topic": "Social and Play Development",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Mildred Parten's observational stages of play, which stage is characterized by children engaging in similar activities side-by-side using similar toys, but without attempting to influence or actively interact with each other?",
+      "options": [
+        "Onlooker play",
+        "Solitary independent play",
+        "Parallel play",
+        "Associative play"
+      ],
+      "answer": 2,
+      "explanation": "In Mildred Parten's framework, parallel play occurs when children play adjacent to one another with similar materials or toys, but do not interact directly, converse extensively, or influence each other's behavior.",
+      "translations": {
+        "or": {
+          "question": "ମିଲଡ୍ରେଡ୍ ପାର୍ଟେନ୍ (Mildred Parten) ଙ୍କ ଖେଳର ବର୍ଗୀକରଣ ଅନୁଯାୟୀ, କେଉଁ ପର୍ଯ୍ୟାୟରେ ପିଲାମାନେ ପାଖାପାଖି ବସି ସମାନ ଖେଳନା ସହିତ ସମାନ ପ୍ରକାରର କାର୍ଯ୍ୟ କରନ୍ତି, କିନ୍ତୁ ପରସ୍ପର ଉପରେ ପ୍ରଭାବ ପକାଇବା ବା ସିଧାସଳଖ ଭାବ ବିନିମୟ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତି ନାହିଁ?",
+          "options": [
+            "ଦର୍ଶକ ଖେଳ (Onlooker play)",
+            "ଏକାକୀ ସ୍ୱାଧୀନ ଖେଳ (Solitary independent play)",
+            "ସମାନ୍ତରାଳ ଖେଳ (Parallel play)",
+            "ସହଯୋଗୀ ଖେଳ (Associative play)"
+          ],
+          "explanation": "ପାର୍ଟେନ୍‌ଙ୍କ ଅନୁଯାୟୀ, ସମାନ୍ତରାଳ ଖେଳ (Parallel play) ରେ ପିଲାମାନେ ଅନ୍ୟ ପିଲାମାନଙ୍କ ପାଖରେ ବସି ସମାନ ଖେଳନାରେ ଖେଳନ୍ତି, ମାତ୍ର ସେମାନେ ଏକାଠି ମିଶି କାମ କରନ୍ତି ନାହିଁ କିମ୍ବା ପରସ୍ପରର ଖେଳକୁ ପ୍ରଭାବିତ କରନ୍ତି ନାହିଁ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792480133742-1",
+      "section": "Child Development",
+      "topic": "Psychoanalytic Child Development",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "According to Margaret Mahler's separation-individuation theory of child development, which subphase is marked by a resurgence of separation anxiety, ambivalence, and alternating behaviors of 'shadowing' and 'darting away' from the mother?",
+      "options": [
+        "Differentiation",
+        "Practicing",
+        "Rapprochement",
+        "Consolidation of individuality"
+      ],
+      "answer": 2,
+      "explanation": "The rapprochement subphase (typically between 15 and 24 months) is characterized by an acute conflict between the toddler's growing awareness of separateness (autonomy) and the simultaneous desire for closeness with the mother, manifesting in the 'rapprochement crisis' with behaviors like shadowing and darting away.",
+      "translations": {
+        "or": {
+          "question": "ମାର୍ଗାରେଟ୍ ମାହଲର (Margaret Mahler) ଙ୍କ ପୃଥକୀକରଣ-ବ୍ୟକ୍ତିଗତୀକରଣ (separation-individuation) ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, କେଉଁ ଉପ-ପର୍ଯ୍ୟାୟରେ ଶିଶୁ ମଧ୍ୟରେ ପୃଥକ ହେବାର ଭୟ (separation anxiety), ଦ୍ୱନ୍ଦ୍ୱ ଏବଂ ମାଆଙ୍କୁ ଅନୁସରଣ କରିବା ('shadowing') ତଥା ଦୂରକୁ ଦୌଡ଼ି ପଳାଇବା ('darting away') ଭଳି ପରସ୍ପର ବିରୋଧୀ ଆଚରଣ ଦେଖାଯାଏ?",
+          "options": [
+            "ବିଭେଦୀକରଣ (Differentiation)",
+            "ଅଭ୍ୟାସ ପର୍ଯ୍ୟାୟ (Practicing)",
+            "ପୁନର୍ମିଳନ ପର୍ଯ୍ୟାୟ (Rapprochement)",
+            "ବ୍ୟକ୍ତିତ୍ୱର ସୁଦୃଢ଼ୀକରଣ (Consolidation of individuality)"
+          ],
+          "explanation": "ମାହଲରଙ୍କ ତତ୍ତ୍ୱରେ 'ପୁନର୍ମିଳନ' (Rapprochement - ପ୍ରାୟ ୧୫ ରୁ ୨୪ ମାସ) ଉପ-ପର୍ଯ୍ୟାୟରେ ଶିଶୁ ନିଜର ସ୍ୱାଧୀନତା ଏବଂ ମାଆଙ୍କ ସାନ୍ନିଧ୍ୟ ମଧ୍ୟରେ ଏକ ମାନସିକ ସଂଘର୍ଷର ସମ୍ମୁଖୀନ ହୁଏ, ଯାହା ପୁନର୍ମିଳନ ସଙ୍କଟ (rapprochement crisis) ସହିତ 'shadowing' ଓ 'darting away' ଆଚରଣ ରୂପେ ପ୍ରକାଶ ପାଏ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792480172614-0",
+      "section": "General Studies",
+      "topic": "Indian National Movement",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who among the following founded the 'Servants of India Society' in 1905 with the objective of training men to serve their country?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Bipin Chandra Pal",
+        "Mahadev Govind Ranade"
+      ],
+      "answer": 0,
+      "explanation": "The Servants of India Society was founded by Gopal Krishna Gokhale on June 12, 1905, in Pune, Maharashtra, to train Indians of different ethnicities and religions in welfare work and national service.",
+      "translations": {
+        "or": {
+          "question": "ନିଜ ଦେଶର ସେବା ପାଇଁ ବ୍ୟକ୍ତିବିଶେଷଙ୍କୁ ତାଲିମ ଦେବା ଉଦ୍ଦେଶ୍ୟରେ ୧୯୦୫ ମସିହାରେ ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କିଏ 'ସର୍ଭେଣ୍ଟସ୍ ଅଫ୍ ଇଣ୍ଡିଆ ସୋସାଇଟି' (ଭାରତ ସେବକ ସମାଜ) ପ୍ରତିଷ୍ଠା କରିଥିଲେ?",
+          "options": [
+            "ଗୋପାଳ କୃଷ୍ଣ ଗୋଖଲେ",
+            "ବାଲ ଗଙ୍ଗାଧର ତିଲକ",
+            "ବିପିନ ଚନ୍ଦ୍ର ପାଲ",
+            "ମହାଦେବ ଗୋବିନ୍ଦ ରାନାଡେ"
+          ],
+          "explanation": "ଦେଶସେବା ଏବଂ ଜନକଲ୍ୟାଣ କାର୍ଯ୍ୟରେ ଉତ୍ସର୍ଗୀକୃତ ହେବା ପାଇଁ ନାଗରିକମାନଙ୍କୁ ପ୍ରସ୍ତୁତ କରିବା ଉଦ୍ଦେଶ୍ୟରେ ଗୋପାଳ କୃଷ୍ଣ ଗୋଖଲେ ୧୨ ଜୁନ୍ ୧୯୦୫ ରେ ମହାରାଷ୍ଟ୍ରର ପୁଣେଠାରେ 'ସର୍ଭେଣ୍ଟସ୍ ଅଫ୍ ଇଣ୍ଡିଆ ସୋସାଇଟି' ପ୍ରତିଷ୍ଠା କରିଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "pgt-ai-1792480172614-1",
+      "section": "General Studies",
+      "topic": "Indian Polity",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Who was the Chairman of the 'Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas' set up by the Constituent Assembly of India?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "J. B. Kripalani",
+        "H. C. Mookerjee",
+        "Gopinath Bardoloi"
+      ],
+      "answer": 0,
+      "explanation": "The Constituent Assembly appointed the Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas under the chairmanship of Sardar Vallabhbhai Patel. It had several sub-committees, including the Fundamental Rights Sub-Committee headed by J.B. Kripalani and the Minorities Sub-Committee headed by H.C. Mookerjee.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତର ସମ୍ବିଧାନ ପ୍ରଣୟନ ସଭା ଦ୍ୱାରା ଗଠିତ 'ମୌଳିକ ଅଧିକାର, ସଂଖ୍ୟାଲଘୁ ଏବଂ ଆଦିବାସୀ ଓ ବହିର୍ଭୂତ କ୍ଷେତ୍ର ସମ୍ପର୍କିତ ପରାମର୍ଶଦାତା କମିଟି'ର ଅଧ୍ୟକ୍ଷ କିଏ ଥିଲେ?",
+          "options": [
+            "ସର୍ଦ୍ଦାର ବଲ୍ଲଭଭାଇ ପଟେଲ",
+            "ଜେ. ବି. କୃପାଳିନୀ",
+            "ଏଚ୍. ସି. ମୁଖାର୍ଜୀ",
+            "ଗୋପୀନାଥ ବୋର୍ଦୋଲୋଇ"
+          ],
+          "explanation": "ଭାରତର ସମ୍ବିଧାନ ପ୍ରଣୟନ ସଭା ସର୍ଦ୍ଦାର ବଲ୍ଲଭଭାଇ ପଟେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ 'ମୌଳିକ ଅଧିକାର, ସଂଖ୍ୟାଲଘୁ ଏବଂ ଆଦିବାସୀ ଓ ବହିର୍ଭୂତ କ୍ଷେତ୍ର ସମ୍ପର୍କିତ ପରାମର୍ଶଦାତା କମିଟି' ଗଠନ କରିଥିଲା। ଏହି କମିଟି ଅଧୀନରେ ଥିବା ମୌଳିକ ଅଧିକାର ଉପ-କମିଟିର ଅଧ୍ୟକ୍ଷ ଜେ. ବି. କୃପାଳିନୀ ଏବଂ ସଂଖ୍ୟାଲଘୁ ଉପ-କମିଟିର ଅଧ୍ୟକ୍ଷ ଏଚ୍. ସି. ମୁଖାର୍ଜୀ ଥିଲେ।"
         }
       }
     }

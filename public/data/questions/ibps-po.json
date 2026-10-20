@@ -1,6 +1,6 @@
 {
   "exam": "ibps-po",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "ibpspo-q-0001",
@@ -8544,6 +8544,136 @@
       ],
       "answer": 1,
       "explanation": "In the revised Prompt Corrective Action (PCA) framework issued on November 2, 2021 (effective January 1, 2022), the RBI removed 'Profitability' (measured by Return on Assets - RoA) as a trigger parameter. The framework now focuses exclusively on three key areas: Capital, Asset Quality, and Leverage.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1792473736515-0",
+      "section": "Quant",
+      "topic": "Partnership",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Three partners X, Y, and Z start a business. X invests Rs. 40,000 for the entire year. Y invests Rs. 50,000 initially, adds Rs. 10,000 after 4 months, and withdraws Rs. 20,000 after 9 months from the start. Z joins them after 3 months from the start with an investment of Rs. 60,000 and doubles his investment after 8 months from the start. If the total profit at the end of one year is Rs. 1,41,000, what is the share of profit received by Z?",
+      "options": [
+        "Rs. 46,500",
+        "Rs. 58,500",
+        "Rs. 52,500",
+        "Rs. 61,000"
+      ],
+      "answer": 1,
+      "explanation": "Calculate the effective monthly investment for each partner:\nX = 40,000 × 12 = Rs. 4,80,000\nY = (50,000 × 4) + (60,000 × 5) + (40,000 × 3) = 2,00,000 + 3,00,000 + 1,20,000 = Rs. 6,20,000\nZ joined after 3 months, so invested Rs. 60,000 for 5 months (months 4 to 8), and then doubled his investment to Rs. 1,20,000 for the remaining 4 months (months 9 to 12):\nZ = (60,000 × 5) + (1,20,000 × 4) = 3,00,000 + 4,80,000 = Rs. 7,80,000\n\nRatio of profit sharing = 48 : 62 : 78 = 24 : 31 : 39\nSum of ratio terms = 24 + 31 + 39 = 94\nZ's share = (39 / 94) × 1,41,000 = 39 × 1,500 = Rs. 58,500."
+    },
+    {
+      "id": "ibps-po-ai-1792473736515-1",
+      "section": "Quant",
+      "topic": "Speed, Time and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Two trains, Train A and Train B, start at the same time from stations P and Q towards each other, respectively. After crossing each other, Train A takes 4 hours 48 minutes to reach station Q, while Train B takes 3 hours 20 minutes to reach station P. If the speed of Train A is 50 km/h, what is the total distance between station P and station Q?",
+      "options": [
+        "420 km",
+        "400 km",
+        "460 km",
+        "440 km"
+      ],
+      "answer": 3,
+      "explanation": "Let the time taken by Train A and Train B after crossing each other be T₁ and T₂ respectively.\nT₁ = 4 hours 48 minutes = 4 + 48/60 = 24/5 hours.\nT₂ = 3 hours 20 minutes = 3 + 20/60 = 10/3 hours.\n\nAccording to the standard meeting property:\nSpeed of A / Speed of B = √(T₂ / T₁)\n50 / Speed of B = √[(10/3) / (24/5)] = √(50 / 72) = √(25 / 36) = 5/6\nTherefore, Speed of B = (50 × 6) / 5 = 60 km/h.\n\nThe distance covered by Train A after meeting is the distance between the meeting point and Q:\nD_MQ = Speed of A × T₁ = 50 × (24/5) = 240 km.\nThe distance covered by Train B after meeting is the distance between P and the meeting point:\nD_PM = Speed of B × T₂ = 60 × (10/3) = 200 km.\n\nTotal distance between P and Q = D_PM + D_MQ = 200 + 240 = 440 km."
+    },
+    {
+      "id": "ibps-po-ai-1792473806997-0",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the question below, some statements are followed by two conclusions numbered I and II. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements.\n\nStatements:\nOnly a few Lakes are Rivers.\nNo River is a Sea.\nAll Seas are Oceans.\n\nConclusions:\nI. All Lakes can never be Seas.\nII. Some Oceans are not Rivers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither conclusion I nor II follows",
+        "Both conclusions I and II follow"
+      ],
+      "answer": 3,
+      "explanation": "From 'Only a few Lakes are Rivers', we know that some Lakes are Rivers and some Lakes are not Rivers. Since 'No River is a Sea', the portion of Lakes that are Rivers can never be Seas; thus, it is impossible for all Lakes to be Seas, making Conclusion I ('All Lakes can never be Seas') definitely true. Further, since 'All Seas are Oceans' and 'No River is a Sea', the Oceans that are Seas cannot be Rivers, which means 'Some Oceans are not Rivers' is also definitely true. Therefore, both conclusions I and II follow."
+    },
+    {
+      "id": "ibps-po-ai-1792473806997-1",
+      "section": "Reasoning",
+      "topic": "Critical Reasoning",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the passage carefully and answer the question that follows:\n\nA leading retail bank observed that customer footfall in its physical branches declined by 42% over the last two years following the rollout of its feature-rich mobile banking application. Consequently, the bank's executive committee proposed shutting down 30% of its physical branches to significantly reduce operational overheads, asserting that brick-and-mortar branches have become largely redundant for retail operations.\n\nWhich of the following, if true, most seriously weakens the executive committee's recommendation?",
+      "options": [
+        "The bank's most profitable products, such as wealth management and commercial mortgages, predominantly require in-person branch visits to finalize.",
+        "Customer satisfaction surveys indicated that users find the mobile application significantly easier to navigate than the desktop portal.",
+        "The operational maintenance cost of running the mobile application was higher than the initial IT estimates.",
+        "Several competitor banks experienced an even steeper drop in physical branch visits during the identical time frame."
+      ],
+      "answer": 0,
+      "explanation": "Option A directly undermines the core premise that branches are 'largely redundant'. If the bank's most lucrative revenue streams depend critically on in-person consultations at physical branches, closing 30% of branches could severely hurt high-margin business, thereby defeating the objective of cost-saving and showing that physical presence is far from redundant. Options B, C, and D are irrelevant or even reinforce digital adoption without challenging the essential business role of branches."
+    },
+    {
+      "id": "ibps-po-ai-1792473883807-0",
+      "section": "English",
+      "topic": "Conditional Clauses & Error Identification",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Identify the sentence among the following options that is grammatically correct and coherent.",
+      "options": [
+        "Had the auditor scrutinized the balance sheet meticulously, the discrepancy would have detected before the audit concluded.",
+        "Had the auditor scrutinized the balance sheet meticulously, the discrepancy will have been detected before the audit concluded.",
+        "Had the auditor scrutinized the balance sheet meticulously, the discrepancy would have been detected before the audit concluded.",
+        "Had the auditor scrutinized the balance sheet meticulously, the discrepancy would detected before the audit concluded."
+      ],
+      "answer": 2,
+      "explanation": "Option C correctly employs the inverted third conditional structure ('Had + subject + past participle') paired with the passive voice in the main clause ('would have been detected'). In option A and D, 'the discrepancy' is mistakenly treated as the agent performing the detection rather than receiving the action (passive). Option B errs by using 'will have been' instead of the counterfactual conditional modal 'would have been'."
+    },
+    {
+      "id": "ibps-po-ai-1792473883807-1",
+      "section": "English",
+      "topic": "Mandative Subjunctive",
+      "difficulty": "expert",
+      "source": "ai",
+      "question": "Select the most grammatically appropriate replacement for the bracketed phrase in the sentence below:\n\nThe board of directors insisted that the chief risk officer [must be submitting a comprehensive stress-test report and explains] the contingency framework.",
+      "options": [
+        "should have submitted a comprehensive stress-test report and explains",
+        "submit a comprehensive stress-test report and explain",
+        "would submit a comprehensive stress-test report and explained",
+        "must submit a comprehensive stress-test report and is explaining"
+      ],
+      "answer": 1,
+      "explanation": "Verbs expressing mandate, insistence, or formal demand (such as 'insist', 'recommend', 'mandate', 'require') followed by a 'that'-clause take the mandative subjunctive mood. The subjunctive requires the base form of the verb (bare infinitive without 'to'), omitting modal auxiliaries like 'must' or 'would', and maintaining parallelism across conjoined verbs. Therefore, 'submit ... and explain' is the only grammatically standard form."
+    },
+    {
+      "id": "ibps-po-ai-1792473950391-0",
+      "section": "General Awareness",
+      "topic": "Monetary Policy",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Under Section 45ZB of the Reserve Bank of India Act, 1934, how many members comprise the Monetary Policy Committee (MPC)?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "The Monetary Policy Committee (MPC) consists of 6 members: three from the Reserve Bank of India (the RBI Governor as ex-officio Chairperson, the Deputy Governor in charge of monetary policy, and one officer of the Bank nominated by the Central Board) and three external members appointed by the Central Government.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-po-ai-1792473950391-1",
+      "section": "General Awareness",
+      "topic": "Banking Ombudsman",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2021, what is the maximum compensation the Ombudsman can award specifically for the loss of the complainant’s time, expenses incurred, and harassment/mental anguish suffered?",
+      "options": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000"
+      ],
+      "answer": 1,
+      "explanation": "Under Clause 15(4)(c) of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman may award an amount not exceeding ₹1,00,000 (one lakh rupees) to the complainant for the loss of the complainant's time, expenses incurred, and for harassment/mental anguish suffered. This is over and above the maximum compensation of ₹20 lakh for direct financial loss.",
       "status": "pending"
     }
   ]

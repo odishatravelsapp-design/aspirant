@@ -1,6 +1,6 @@
 {
   "exam": "ibps-clerk",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "ibpsc-q-0001",
@@ -11192,6 +11192,136 @@
       ],
       "answer": 2,
       "explanation": "In the revised Prompt Corrective Action (PCA) framework effective from January 1, 2022, the RBI monitors three key parameters: Capital (CRAR/CET-1), Asset Quality (Net NPA ratio), and Leverage (Tier 1 Leverage ratio). Profitability (Return on Assets) was dropped as a trigger parameter.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1792472731837-0",
+      "section": "Quant",
+      "topic": "Percentage",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In an election between two candidates, 10% of the voters on the voters list did not cast their votes and 60 votes were declared invalid. The winning candidate secured 47% of the total voters on the list and won by a margin of 308 votes. What was the total number of voters on the list?",
+      "options": [
+        "5,800",
+        "6,200",
+        "6,500",
+        "7,000"
+      ],
+      "answer": 1,
+      "explanation": "Let the total number of voters on the list be 100x.\nNumber of voters who cast their votes = 90% of 100x = 90x.\nNumber of valid votes = 90x - 60.\nVotes secured by the winning candidate = 47% of 100x = 47x.\nVotes secured by the losing candidate = (90x - 60) - 47x = 43x - 60.\nAccording to the question:\nWinning margin = Votes of Winner - Votes of Loser\n308 = 47x - (43x - 60)\n308 = 4x + 60\n4x = 248\nx = 62\nTotal number of voters on the list = 100x = 100 × 62 = 6,200."
+    },
+    {
+      "id": "ibps-clerk-ai-1792472731837-1",
+      "section": "Quant",
+      "topic": "Time, Speed and Distance",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A person travels a total distance of 180 km in 4 hours, partly by bus and partly by car. The average speed of the bus is 30 km/h and that of the car is 60 km/h. If the speed of the bus is increased by 20% and the speed of the car is reduced by 25%, how much total time will it take to cover the 180 km if the distances traveled by bus and car are interchanged?",
+      "options": [
+        "4 hours 15 minutes",
+        "4 hours 30 minutes",
+        "4 hours 40 minutes",
+        "5 hours"
+      ],
+      "answer": 2,
+      "explanation": "Let the distance traveled by bus be d km and by car be (180 - d) km.\nTotal time = (d / 30) + ((180 - d) / 60) = 4 hours\nMultiply through by 60:\n2d + 180 - d = 240\nd = 60 km\nSo, distance by bus = 60 km and distance by car = 180 - 60 = 120 km.\n\nNew conditions:\nDistances are interchanged: Distance by bus = 120 km, Distance by car = 60 km.\nNew speed of bus = 30 × 1.20 = 36 km/h.\nNew speed of car = 60 × 0.75 = 45 km/h.\n\nNew time taken:\nTime by bus = 120 / 36 = 10/3 hours = 3 hours 20 minutes\nTime by car = 60 / 45 = 4/3 hours = 1 hour 20 minutes\nTotal time = 10/3 + 4/3 = 14/3 hours = 4 hours 40 minutes."
+    },
+    {
+      "id": "ibps-clerk-ai-1792472757867-0",
+      "section": "Reasoning",
+      "topic": "Distance and Direction",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Point A is 7 m west of Point B. Point C is 5 m north of Point B. Point D is 16 m east of Point C. Point E is 17 m south of Point D. Point F is 11 m west of Point E. What is the shortest distance between Point B and Point F?",
+      "options": [
+        "11 m",
+        "13 m",
+        "15 m",
+        "17 m"
+      ],
+      "answer": 1,
+      "explanation": "Taking Point B as the origin (0, 0):\n- Point C is at (0, 5).\n- Point D is 16 m east of C, so D is at (16, 5).\n- Point E is 17 m south of D, so E is at (16, 5 - 17) = (16, -12).\n- Point F is 11 m west of E, so F is at (16 - 11, -12) = (5, -12).\nThe shortest distance between B(0, 0) and F(5, -12) is calculated using Pythagoras theorem: √((5 - 0)² + (-12 - 0)²) = √(25 + 144) = √169 = 13 m."
+    },
+    {
+      "id": "ibps-clerk-ai-1792472757867-1",
+      "section": "Reasoning",
+      "topic": "Linear Seating Arrangement",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Eight persons – P, Q, R, S, T, U, V, and W – sit in a single row facing north, but not necessarily in the same order.\n- W sits third to the right of Q.\n- Neither W nor Q sits at an extreme end of the row.\n- Only two persons sit between W and S.\n- T sits second to the left of S.\n- P sits to the immediate left of R.\n- P does not sit at an extreme end of the row.\n- V sits somewhere to the right of U.\n\nWho among the following sits third to the left of T?",
+      "options": [
+        "Q",
+        "P",
+        "R",
+        "U"
+      ],
+      "answer": 1,
+      "explanation": "Let the 8 positions from left to right be 1 to 8 (facing north):\n1. Neither Q nor W sits at an extreme end, and W sits third to the right of Q. The possible pairs for (Q, W) are (2, 5), (3, 6), or (4, 7).\n2. Only two persons sit between W and S:\n- If Q is at 3, W is at 6: S would be at 3 (occupied by Q) or 9 (invalid).\n- If Q is at 4, W is at 7: S would be at 4 (occupied by Q) or 10 (invalid).\n- If Q is at 2, W is at 5: S cannot be at 2 (occupied by Q), so S must be at position 8.\n3. T sits second to the left of S, so T is at position 6 (8 - 2 = 6).\n4. P sits to the immediate left of R. The only adjacent empty spots are positions 3 and 4, so P is at 3 and R is at 4 (P is not at an extreme end, which is satisfied).\n5. The remaining empty spots are 1 and 7. Since V sits to the right of U, U must be at 1 and V at 7.\nThe complete sequence from left to right is: U(1), Q(2), P(3), R(4), W(5), T(6), V(7), S(8).\nT is at position 6. The person sitting third to the left of T (position 6 - 3 = 3) is P."
+    },
+    {
+      "id": "ibps-clerk-ai-1792472791850-0",
+      "section": "English",
+      "topic": "Synonyms",
+      "difficulty": "easy",
+      "source": "ai",
+      "question": "Select the word that is most nearly SIMILAR in meaning to the given word:\n\nCONCUR",
+      "options": [
+        "Dissent",
+        "Agree",
+        "Disperse",
+        "Hesitate"
+      ],
+      "answer": 1,
+      "explanation": "'Concur' means to be of the same opinion or to agree. Therefore, 'Agree' is the correct synonym. 'Dissent' means to differ in opinion (an antonym), 'Disperse' means to scatter, and 'Hesitate' means to pause before doing something."
+    },
+    {
+      "id": "ibps-clerk-ai-1792472791850-1",
+      "section": "English",
+      "topic": "Error Detection",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the following sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence:\n\n(A) Seldom we have seen / (B) such courage displayed / (C) by junior apprentices / (D) during a major crisis.",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": 0,
+      "explanation": "Part (A) is grammatically incorrect. When a sentence begins with a restrictive or negative adverbial element like 'Seldom', 'Rarely', or 'Hardly', inverted word order (auxiliary verb before the subject) must be used. Thus, 'Seldom we have seen' should be corrected to 'Seldom have we seen'."
+    },
+    {
+      "id": "ibps-clerk-ai-1792472950102-0",
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Under the Stand-Up India scheme launched by the Government of India, what is the eligible range of bank loans provided to SC/ST and women borrowers for setting up greenfield enterprises?",
+      "options": [
+        "₹5 lakh to ₹50 lakh",
+        "₹10 lakh to ₹1 crore",
+        "₹20 lakh to ₹2 crore",
+        "₹25 lakh to ₹1.5 crore"
+      ],
+      "answer": 1,
+      "explanation": "The Stand-Up India scheme facilitates bank loans between ₹10 lakh and ₹1 crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise in manufacturing, services, agri-allied activities, or the trading sector.",
+      "status": "pending"
+    },
+    {
+      "id": "ibps-clerk-ai-1792472950102-1",
+      "section": "General Awareness",
+      "topic": "Banking Regulation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Under Section 12B of the Banking Regulation Act, 1949, prior approval of the Reserve Bank of India (RBI) is mandatory before acquiring shares or voting rights in a banking company if the acquisition equals or exceeds what percentage of the paid-up capital or voting rights?",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "26%"
+      ],
+      "answer": 0,
+      "explanation": "According to Section 12B of the Banking Regulation Act, 1949, no person can acquire shares or voting rights in a banking company that would entitle them to hold 5% or more of the paid-up capital or voting rights without prior approval from the Reserve Bank of India.",
       "status": "pending"
     }
   ]

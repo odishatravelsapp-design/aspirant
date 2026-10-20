@@ -1,6 +1,6 @@
 {
   "exam": "tgt",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "tgt-edu-1781966754068-0",
@@ -5381,6 +5381,232 @@
             "କୁଣ୍ଡଳୀକୃତ ବିକାଶ ଧାରା"
           ],
           "explanation": "ସେଫାଲୋକଡାଲ୍ ନୀତି ଅନୁସାରେ ଶାରୀରିକ ବିକାଶ ଏବଂ ନିୟନ୍ତ୍ରଣ ମୁଣ୍ଡରୁ ଆରମ୍ଭ ହୋଇ ତଳ ଆଡ଼କୁ (ପାଦ ପର୍ଯ୍ୟନ୍ତ) ଗତି କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480243259-0",
+      "section": "Teaching Aptitude",
+      "topic": "Models of Teaching",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "In the classification of Models of Teaching developed by Bruce Joyce and Marsha Weil, David Ausubel's 'Advance Organizer Model' belongs to which of the following families?",
+      "options": [
+        "Information Processing Family",
+        "Behavioral Systems Family",
+        "Social Interaction Family",
+        "Personal Family"
+      ],
+      "answer": 0,
+      "explanation": "Bruce Joyce and Marsha Weil classified teaching models into four core families: Information Processing, Personal, Social Interaction, and Behavioral Systems. David Ausubel's Advance Organizer Model belongs to the Information Processing Family, as it is designed to strengthen cognitive structures and enhance the acquisition and retention of new information.",
+      "translations": {
+        "or": {
+          "question": "ବ୍ରୁସ୍ ଜଏସ୍ ଏବଂ ମାର୍ଶା ୱେଲ୍‌ଙ୍କ ଦ୍ୱାରା ବିକଶିତ ଶିକ୍ଷଣ ମଡେଲଗୁଡ଼ିକର (Models of Teaching) ବର୍ଗୀକରଣରେ, ଡେଭିଡ୍ ଆଉସୁବେଲ୍‌ଙ୍କ 'Advance Organizer Model' (ଅଗ୍ରିମ ସଂଗଠକ ମଡେଲ) ନିମ୍ନଲିଖିତ କେଉଁ ପରିବାର (family) ଅନ୍ତର୍ଭୁକ୍ତ?",
+          "options": [
+            "ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ ପରିବାର (Information Processing Family)",
+            "ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ ପରିବାର (Behavioral Systems Family)",
+            "ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା ପରିବାର (Social Interaction Family)",
+            "ବ୍ୟକ୍ତିଗତ ପରିବାର (Personal Family)"
+          ],
+          "explanation": "ବ୍ରୁସ୍ ଜଏସ୍ ଏବଂ ମାର୍ଶା ୱେଲ୍ ଶିକ୍ଷଣ ମଡେଲଗୁଡ଼ିକୁ ଚାରୋଟି ମୁଖ୍ୟ ପରିବାରରେ ବିଭକ୍ତ କରିଛନ୍ତି: ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ, ବ୍ୟକ୍ତିଗତ, ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା ଏବଂ ବ୍ୟବହାରିକ ପ୍ରଣାଳୀ। ଡେଭିଡ୍ ଆଉସୁବେଲ୍‌ଙ୍କ Advance Organizer Model ସୂଚନା ପ୍ରକ୍ରିୟାକରଣ ପରିବାର ଅନ୍ତର୍ଭୁକ୍ତ, କାରଣ ଏହା ଜ୍ଞାନାତ୍ମକ ସଂରଚନାକୁ ସୁଦୃଢ଼ କରିବା ଏବଂ ନୂତନ ସୂଚନା ଗ୍ରହଣ ତଥା ଧାରଣ କ୍ଷମତା ବୃଦ୍ଧି କରିବା ପାଇଁ ଉଦ୍ଦିଷ୍ଟ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480243259-1",
+      "section": "Teaching Aptitude",
+      "topic": "Assessment and Evaluation",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In an item analysis of a norm-referenced achievement test, what does a negative discrimination index (D < 0) for a test item primarily indicate?",
+      "options": [
+        "The item was exceptionally difficult and no examinee answered it correctly.",
+        "A greater proportion of lower-scoring students answered the item correctly than higher-scoring students.",
+        "The distractors were entirely non-functional and failed to attract any students from the lower group.",
+        "The test item exhibits exceptionally high internal consistency and reliability."
+      ],
+      "answer": 1,
+      "explanation": "The discrimination index (D) indicates the degree to which an item discriminates between high-achieving and low-achieving students (D = P_upper - P_lower). A negative discrimination index occurs when more students in the lower-scoring group answer the item correctly than in the upper-scoring group, which usually signals ambiguity, miskeying, or a deeply misleading distractor that misguides high-performing students.",
+      "translations": {
+        "or": {
+          "question": "ଏକ ମାନଦଣ୍ଡ-ସନ୍ଦର୍ଭିତ ସାଧନ ପରୀକ୍ଷଣର (norm-referenced achievement test) ପ୍ରଶ୍ନ ବିଶ୍ଳେଷଣରେ (item analysis), ଏକ ପ୍ରଶ୍ନ ପାଇଁ ଋଣାତ୍ମକ ବିଭେଦୀକରଣ ସୂଚକାଙ୍କ (negative discrimination index, D < 0) ମୁଖ୍ୟତଃ କ’ଣ ସୂଚିତ କରେ?",
+          "options": [
+            "ପ୍ରଶ୍ନଟି ଅତ୍ୟନ୍ତ କଠିନ ଥିଲା ଏବଂ କୌଣସି ପରୀକ୍ଷାର୍ଥୀ ଏହାର ସଠିକ୍ ଉତ୍ତର ଦେଇପାରି ନାହାନ୍ତି।",
+            "ଉଚ୍ଚ ପ୍ରଦର୍ଶନକାରୀ ଛାତ୍ରଙ୍କ ତୁଳନାରେ ନିମ୍ନ ପ୍ରଦର୍ଶନକାରୀ ଛାତ୍ରମାନଙ୍କର ଏକ ଅଧିକ ଅନୁପାତ ପ୍ରଶ୍ନଟିର ସଠିକ୍ ଉତ୍ତର ଦେଇଛନ୍ତି।",
+            "ବିଭ୍ରାନ୍ତିକାରୀ ବିକଳ୍ପଗୁଡ଼ିକ (distractors) ସମ୍ପୂର୍ଣ୍ଣ ଅକାର୍ଯ୍ୟକ୍ଷମ ଥିଲା ଏବଂ ନିମ୍ନ ଗୋଷ୍ଠୀର କୌଣସି ଛାତ୍ରଙ୍କୁ ଆକର୍ଷିତ କରିବାରେ ବିଫଳ ହୋଇଥିଲା।",
+            "ପରୀକ୍ଷଣ ପ୍ରଶ୍ନଟି ଉଚ୍ଚ ଆଭ୍ୟନ୍ତରୀଣ ସ୍ଥିରତା ଏବଂ ବିଶ୍ୱସନୀୟତା ପ୍ରଦର୍ଶନ କରେ।"
+          ],
+          "explanation": "ବିଭେଦୀକରଣ ସୂଚକାଙ୍କ (D) ଉଚ୍ଚ ଏବଂ ନିମ୍ନ ପ୍ରଦର୍ଶନକାରୀ ଛାତ୍ରମାନଙ୍କ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ଦର୍ଶାଏ (D = P_upper - P_lower)। ଏକ ଋଣାତ୍ମକ ବିଭେଦୀକରଣ ସୂଚକାଙ୍କ ସେତେବେଳେ ଘଟେ ଯେତେବେଳେ ଉଚ୍ଚ ଗୋଷ୍ଠୀ ତୁଳନାରେ ନିମ୍ନ ଗୋଷ୍ଠୀର ଅଧିକ ଛାତ୍ର ସଠିକ୍ ଉତ୍ତର ଦିଅନ୍ତି। ଏହା ସାଧାରଣତଃ ପ୍ରଶ୍ନରେ ଅସ୍ପଷ୍ଟତା, ଭୁଲ୍ ଉତ୍ତର କୁଞ୍ଜିକା (wrong answer key), କିମ୍ବା ଏକ ବିଭ୍ରାନ୍ତିକାରୀ ବିକଳ୍ପକୁ ସୂଚିତ କରେ ଯାହା ଉଚ୍ଚ ପ୍ରଦର୍ଶନକାରୀ ଛାତ୍ରମାନଙ୍କୁ ବିଭ୍ରାନ୍ତ କରିଥାଏ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480300452-0",
+      "section": "Subject Knowledge",
+      "topic": "Differential Equations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "What are the order and degree, respectively, of the differential equation $\\left[ 1 + \\left(\\frac{dy}{dx}\\right)^2 \\right]^{3/2} = k \\frac{d^2y}{dx^2}$?",
+      "options": [
+        "Order = 2, Degree = 2",
+        "Order = 2, Degree = 3",
+        "Order = 1, Degree = 2",
+        "Order = 2, Degree = 1"
+      ],
+      "answer": 0,
+      "explanation": "To find the degree, the differential equation must be made free from fractional exponents of derivatives. Squaring both sides gives $\\left[ 1 + \\left(\\frac{dy}{dx}\\right)^2 \\right]^3 = k^2 \\left(\\frac{d^2y}{dx^2}\\right)^2$. The highest order derivative present is $\\frac{d^2y}{dx^2}$ (order = 2), and the power of this highest order derivative is 2 (degree = 2).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଅବକଳ ସମୀକରଣ $\\left[ 1 + \\left(\\frac{dy}{dx}\\right)^2 \\right]^{3/2} = k \\frac{d^2y}{dx^2}$ ର ଯଥାକ୍ରମେ କ୍ରମ (order) ଏବଂ ଘାତ (degree) କେତେ?",
+          "options": [
+            "କ୍ରମ = 2, ଘାତ = 2",
+            "କ୍ରମ = 2, ଘାତ = 3",
+            "କ୍ରମ = 1, ଘାତ = 2",
+            "କ୍ରମ = 2, ଘାତ = 1"
+          ],
+          "explanation": "ଘାତ ନିର୍ଣ୍ଣୟ କରିବା ପାଇଁ ଅବକଳଜଗୁଡ଼ିକରୁ ଭଗ୍ନାଂଶ ଘାତକୁ ଦୂର କରିବାକୁ ହେବ। ଉଭୟ ପାର୍ଶ୍ୱକୁ ବର୍ଗ କଲେ $\\left[ 1 + \\left(\\frac{dy}{dx}\\right)^2 \\right]^3 = k^2 \\left(\\frac{d^2y}{dx^2}\\right)^2$ ମିଳିଥାଏ। ଏଠାରେ ସର୍ବୋଚ୍ଚ ଅବକଳଜ ହେଉଛି $\\frac{d^2y}{dx^2}$ (କ୍ରମ = 2), ଏବଂ ଏହି ସର୍ବୋଚ୍ଚ ଅବକଳଜର ଘାତ ହେଉଛି 2 (ଘାତ = 2)।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480300452-1",
+      "section": "Subject Knowledge",
+      "topic": "English Literature",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In John Milton's epic poem 'Paradise Lost', which fallen angel is described as the architect of Pandemonium?",
+      "options": [
+        "Mulciber",
+        "Belial",
+        "Mammon",
+        "Beelzebub"
+      ],
+      "answer": 0,
+      "explanation": "In Book I of 'Paradise Lost', Mulciber (identified with Vulcan/Hephaestus in classical mythology) is depicted as the master builder who designs and raises Pandemonium, the capital of Hell, for Satan and the fallen angels.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଜନ୍ ମିଲଟନ୍‌ଙ୍କ ପ୍ରସିଦ୍ଧ ମହାକାବ୍ୟ 'ପାରାଡାଇଜ୍ ଲଷ୍ଟ' (Paradise Lost) ରେ ପାଣ୍ଡେମୋନିୟମ୍ (Pandemonium) ର ସ୍ଥପତି ଭାବରେ କେଉଁ ପତିତ ଦେବଦୂତଙ୍କୁ ବର୍ଣ୍ଣନା କରାଯାଇଛି?",
+          "options": [
+            "ମଲସିବର (Mulciber)",
+            "ବେଲିଆଲ୍ (Belial)",
+            "ମାମନ୍ (Mammon)",
+            "ବେଲଜିବବ୍ (Beelzebub)"
+          ],
+          "explanation": "'ପାରାଡାଇଜ୍ ଲଷ୍ଟ'ର ପ୍ରଥମ ପୁସ୍ତକରେ ମଲସିବର (ଯାହାଙ୍କୁ ଶାସ୍ତ୍ରୀୟ ପୌରାଣିକ କଥାରେ ଭଲକାନ୍/ହେଫାଷ୍ଟସ୍ ବୋଲି କୁହାଯାଏ) ପାଣ୍ଡେମୋନିୟମ୍‌ର ପ୍ରଧାନ ନିର୍ମାତା ତଥା ସ୍ଥପତି ଭାବେ ବର୍ଣ୍ଣିତ ହୋଇଛନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480380676-0",
+      "section": "Child Development",
+      "topic": "Social Learning Theory",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "According to Albert Bandura's Social Learning Theory, which of the following represents the correct sequential order of the four sub-processes involved in observational learning?",
+      "options": [
+        "Attention → Retention → Reproduction → Motivation",
+        "Retention → Attention → Motivation → Reproduction",
+        "Attention → Motivation → Retention → Reproduction",
+        "Motivation → Attention → Retention → Reproduction"
+      ],
+      "answer": 0,
+      "explanation": "Albert Bandura identified four interrelated sub-processes governing observational learning: Attention (perceiving the modeled behavior), Retention (remembering and encoding the behavior), Reproduction (enacting the motor reproduction of the retained concept), and Motivation (having the incentive to demonstrate the learned behavior).",
+      "translations": {
+        "or": {
+          "question": "ଆଲବର୍ଟ ବାନ୍ଦୁରାଙ୍କ ସାମାଜିକ ଶିକ୍ଷଣ ତତ୍ତ୍ୱ ଅନୁଯାୟୀ, ନିରୀକ୍ଷଣମୂଳକ ଶିକ୍ଷଣରେ ଅନ୍ତର୍ଭୁକ୍ତ ଚାରୋଟି ଉପ-ପ୍ରକ୍ରିୟାର ସଠିକ୍ କ୍ରମ କେଉଁଟି?",
+          "options": [
+            "ଧ୍ୟାନ (Attention) → ଧାରଣ (Retention) → ପୁନରୁତ୍ପାଦନ (Reproduction) → ପ୍ରେରଣା (Motivation)",
+            "ଧାରଣ (Retention) → ଧ୍ୟାନ (Attention) → ପ୍ରେରଣା (Motivation) → ପୁନରୁତ୍ପାଦନ (Reproduction)",
+            "ଧ୍ୟାନ (Attention) → ପ୍ରେରଣା (Motivation) → ଧାରଣ (Retention) → ପୁନରୁତ୍ପାଦନ (Reproduction)",
+            "ପ୍ରେରଣା (Motivation) → ଧ୍ୟାନ (Attention) → ଧାରଣ (Retention) → ପୁନରୁତ୍ପାଦନ (Reproduction)"
+          ],
+          "explanation": "ବାନ୍ଦୁରା ନିରୀକ୍ଷଣମୂଳକ ଶିକ୍ଷଣ ପାଇଁ ଚାରୋଟି କ୍ରମିକ ପର୍ଯ୍ୟାୟ ଉଲ୍ଲେଖ କରିଛନ୍ତି: ଧ୍ୟାନ (Attention - ଆଦର୍ଶ ଆଚରଣକୁ ଦେଖିବା), ଧାରଣ (Retention - ସ୍ମରଣ ରଖିବା), ପୁନରୁତ୍ପାଦନ (Reproduction - ଅଭ୍ୟାସ ବା କାର୍ଯ୍ୟରେ ପରିଣତ କରିବା), ଏବଂ ପ୍ରେରଣା (Motivation - ପ୍ରୋତ୍ସାହନ ବା କାରଣ ରହିବା)।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480380676-1",
+      "section": "Child Development",
+      "topic": "Parenting Styles",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "According to Diana Baumrind's classification of parenting styles, a parent who exhibits high demandingness and control, but low responsiveness and warmth, is categorized as:",
+      "options": [
+        "Authoritative",
+        "Authoritarian",
+        "Permissive",
+        "Uninvolved"
+      ],
+      "answer": 1,
+      "explanation": "Diana Baumrind classified parenting into four types based on responsiveness and demandingness. Authoritarian parenting is characterized by high levels of demandingness (rigid rules, strict punishment, obedience-driven) and low levels of responsiveness (minimal emotional warmth, low feedback, limited communication).",
+      "translations": {
+        "or": {
+          "question": "ଡାଏନା ବାଉମରିଣ୍ଡଙ୍କ ପାଳନ ଶୈଳୀ ବର୍ଗୀକରଣ ଅନୁଯାୟୀ, ଜଣେ ପିତାମାତା ଯିଏ ଉଚ୍ଚ ନିୟନ୍ତ୍ରଣ ଓ ଦାବି (high demandingness) ପ୍ରଦର୍ଶନ କରନ୍ତି କିନ୍ତୁ କମ୍ ସ୍ନେହ ଏବଂ ପ୍ରତିକ୍ରିୟାଶୀଳତା (low responsiveness) ଦେଖାନ୍ତି, ତାଙ୍କୁ କେଉଁ ଶ୍ରେଣୀରେ ବିଭକ୍ତ କରାଯାଏ?",
+          "options": [
+            "କର୍ତ୍ତୃତ୍ୱପୂର୍ଣ୍ଣ (Authoritative)",
+            "ଏକଛତ୍ରବାଦୀ / ଆଦେଶମୂଳକ (Authoritarian)",
+            "ଅନୁମତିପୂର୍ଣ୍ଣ (Permissive)",
+            "ଅବହେଳିତ (Uninvolved)"
+          ],
+          "explanation": "ବାଉମରିଣ୍ଡଙ୍କ ଶ୍ରେଣୀବିଭାଗ ଅନୁସାରେ, ଏକଛତ୍ରବାଦୀ (Authoritarian) ପିତାମାତାମାନେ ପିଲାମାନଙ୍କ ଉପରେ କଠୋର ନିୟମ ଏବଂ ଅତ୍ୟଧିକ ନିୟନ୍ତ୍ରଣ ରଖନ୍ତି କିନ୍ତୁ ସ୍ନେହ, ଉତ୍ସାହ ଏବଂ ଭାବପ୍ରବଣ ପ୍ରତିକ୍ରିୟାଶୀଳତା କମ୍ ପ୍ରଦାନ କରନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480478048-0",
+      "section": "General Studies",
+      "topic": "Indian Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following mountain passes connects the Kullu Valley with the Lahaul and Spiti Valleys in Himachal Pradesh?",
+      "options": [
+        "Rohtang Pass",
+        "Nathu La",
+        "Zoji La",
+        "Lipulekh Pass"
+      ],
+      "answer": 0,
+      "explanation": "Rohtang Pass is located on the Pir Panjal Range of the Himalayas and connects the Kullu Valley with the Lahaul and Spiti Valleys in Himachal Pradesh.",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ଗିରିପଥ ହିମାଚଳ ପ୍ରଦେଶର କୁଲ୍ଲୁ ଉପତ୍ୟକାକୁ ଲାହୌଲ୍ ଏବଂ ସ୍ପିତି ଉପତ୍ୟକା ସହିତ ସଂଯୋଗ କରେ?",
+          "options": [
+            "ରୋହତଙ୍ଗ ପାସ୍",
+            "ନାଥୁ ଲା",
+            "ଜୋଜି ଲା",
+            "ଲିପୁଲେଖ୍ ପାସ୍"
+          ],
+          "explanation": "ରୋହତଙ୍ଗ ପାସ୍ ହିମାଳୟର ପୀର ପଞ୍ଜାଲ ପର୍ବତମାଳାରେ ଅବସ୍ଥିତ ଏବଂ ଏହା ହିମାଚଳ ପ୍ରଦେଶର କୁଲ୍ଲୁ ଉପତ୍ୟକାକୁ ଲାହୌଲ୍ ଏବଂ ସ୍ପିତି ଉପତ୍ୟକା ସହିତ ସଂଯୋଗ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "tgt-ai-1792480478048-1",
+      "section": "General Studies",
+      "topic": "Modern Indian History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "In which of the following sessions of the Indian National Congress was the resolution on 'Fundamental Rights and National Economic Programme' adopted?",
+      "options": [
+        "Lahore Session (1929)",
+        "Karachi Session (1931)",
+        "Lucknow Session (1936)",
+        "Faizpur Session (1937)"
+      ],
+      "answer": 1,
+      "explanation": "The resolution on Fundamental Rights and the National Economic Programme was adopted at the Karachi Session of the Indian National Congress in 1931, presided over by Sardar Vallabhbhai Patel.",
+      "translations": {
+        "or": {
+          "question": "ଭାରତୀୟ ଜାତୀୟ କଂଗ୍ରେସର ନିମ୍ନଲିଖିତ କେଉଁ ଅଧିବେଶନରେ 'ମୌଳିକ ଅଧିକାର ଏବଂ ଜାତୀୟ ଅର୍ଥନୈତିକ କାର୍ଯ୍ୟକ୍ରମ' ଉପରେ ସଂକଳ୍ପ ଗୃହୀତ ହୋଇଥିଲା?",
+          "options": [
+            "ଲାହୋର ଅଧିବେଶନ (୧୯୨୯)",
+            "କରାଚୀ ଅଧିବେଶନ (୧୯୩୧)",
+            "ଲକ୍ଷ୍ନୌ ଅଧିବେଶନ (୧୯୩୬)",
+            "ଫୈଜପୁର ଅଧିବେଶନ (୧୯୩୭)"
+          ],
+          "explanation": "୧୯୩୧ ମସିହାରେ ସର୍ଦ୍ଦାର ବଲ୍ଲଭଭାଇ ପଟେଲଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ଅନୁଷ୍ଠିତ ଭାରତୀୟ ଜାତୀୟ କଂଗ୍ରେସର କରାଚୀ ଅଧିବେଶନରେ ମୌଳିକ ଅଧିକାର ଏବଂ ଜାତୀୟ ଅର୍ଥନୈତିକ କାର୍ଯ୍ୟକ୍ରମ ଉପରେ ସଂକଳ୍ପ ଗୃହୀତ ହୋଇଥିଲା।"
         }
       }
     }

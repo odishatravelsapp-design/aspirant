@@ -1,6 +1,6 @@
 {
   "exam": "osssc",
-  "updated": "2026-10-01",
+  "updated": "2026-10-20",
   "questions": [
     {
       "id": "osssc-q-0001",
@@ -10740,6 +10740,234 @@
             "କୌଣସି ବି ନିଷ୍କର୍ଷ ଅନୁସରଣ କରେ ନାହିଁ"
           ],
           "explanation": "ବିବୃତି ୨ ଏବଂ ୩ ରୁ ଜଣାପଡ଼େ ଯେ ଯେଉଁ ପ୍ଲେଟ୍‌ଗୁଡ଼ିକ ପାତ୍ର, ସେଗୁଡ଼ିକ କଦାପି ଚାମଚ ହୋଇପାରିବେ ନାହିଁ (କାରଣ କୌଣସି ପାତ୍ର ଚାମଚ ନୁହେଁ)। ତେଣୁ 'କେତେକ ପ୍ଲେଟ୍ ଚାମଚ ନୁହଁନ୍ତି' ସର୍ବଦା ସତ୍ୟ (ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ)। କପ୍ ଏବଂ ପାତ୍ର ମଧ୍ୟରେ କୌଣସି ନିଶ୍ଚିତ ସମ୍ପର୍କ ନ ଥିବାରୁ ନିଷ୍କର୍ଷ I ଅନୁସରଣ କରେ ନାହିଁ। ସେହିପରି କପ୍ ଏବଂ ଚାମଚ ମଧ୍ୟରେ ମଧ୍ୟ ନିଶ୍ଚିତ ସମ୍ପର୍କ ନାହିଁ, ତେଣୁ ନିଷ୍କର୍ଷ III ଅନୁସରଣ କରେ ନାହିଁ। ଅତଏବ, କେବଳ ନିଷ୍କର୍ଷ II ଅନୁସରଣ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474049619-0",
+      "section": "Arithmetic",
+      "topic": "Mixtures & Alligations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "A vessel contains 80 litres of a mixture of milk and water in the ratio 7 : 1. How much water must be added to the mixture so that the ratio of milk to water becomes 5 : 2?",
+      "options": [
+        "15 litres",
+        "18 litres",
+        "20 litres",
+        "24 litres"
+      ],
+      "answer": 1,
+      "explanation": "Initial volume of the mixture = 80 litres.\nRatio of milk to water = 7 : 1.\nQuantity of milk = 80 × (7 / 8) = 70 litres.\nQuantity of water = 80 × (1 / 8) = 10 litres.\nLet 'x' litres of water be added to the mixture.\nNew ratio: 70 / (10 + x) = 5 / 2\n=> 5 × (10 + x) = 140\n=> 50 + 5x = 140\n=> 5x = 90\n=> x = 18 litres.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ପାତ୍ରରେ 80 ଲିଟର କ୍ଷୀର ଏବଂ ପାଣିର ଏକ ମିଶ୍ରଣ 7 : 1 ଅନୁପାତରେ ଅଛି । କ୍ଷୀର ଏବଂ ପାଣିର ଅନୁପାତ 5 : 2 କରିବା ପାଇଁ ଏହି ମିଶ୍ରଣରେ କେତେ ପରିମାଣର ପାଣି ମିଶାଇବାକୁ ପଡ଼ିବ?",
+          "options": [
+            "15 ଲିଟର",
+            "18 ଲିଟର",
+            "20 ଲିଟର",
+            "24 ଲିଟର"
+          ],
+          "explanation": "ପ୍ରାରମ୍ଭିକ ମିଶ୍ରଣର ପରିମାଣ = 80 ଲିଟର ।\nକ୍ଷୀର ଓ ପାଣିର ଅନୁପାତ = 7 : 1 ।\nକ୍ଷୀରର ପରିମାଣ = 80 × (7 / 8) = 70 ଲିଟର ।\nପାଣିର ପରିମାଣ = 80 × (1 / 8) = 10 ଲିଟର ।\nମନେକର 'x' ଲିଟର ପାଣି ମିଶାଗଲା ।\nନୂତନ ଅନୁପାତ: 70 / (10 + x) = 5 / 2\n=> 5 × (10 + x) = 140\n=> 50 + 5x = 140\n=> 5x = 90\n=> x = 18 ଲିଟର ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474049619-1",
+      "section": "Arithmetic",
+      "topic": "Time & Work",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "A and B can complete a piece of work in 12 days and 18 days respectively. They begin the work together, but A leaves 3 days before the completion of the work. If the total wages paid for the entire work is Rs. 5,400, what is A's share?",
+      "options": [
+        "Rs. 2,160",
+        "Rs. 2,400",
+        "Rs. 2,700",
+        "Rs. 3,240"
+      ],
+      "answer": 2,
+      "explanation": "Let total work = LCM(12, 18) = 36 units.\nEfficiency of A = 36 / 12 = 3 units/day.\nEfficiency of B = 36 / 18 = 2 units/day.\nLet the total time taken to complete the work be T days.\nA worked for (T - 3) days and B worked for T days.\nTotal work done = 3(T - 3) + 2T = 36\n=> 3T - 9 + 2T = 36\n=> 5T = 45\n=> T = 9 days.\nWork done by A = 3 × (9 - 3) = 18 units.\nWages are shared in proportion to the work done.\nA's share = (Work done by A / Total work) × Total wages\n= (18 / 36) × 5400 = Rs. 2,700.",
+      "translations": {
+        "or": {
+          "question": "A ଏବଂ B ଯଥାକ୍ରମେ 12 ଦିନ ଏବଂ 18 ଦିନରେ ଏକ କାର୍ଯ୍ୟ ସମାପ୍ତ କରିପାରନ୍ତି । ସେମାନେ ଏକାଠି କାର୍ଯ୍ୟ ଆରମ୍ଭ କରନ୍ତି, କିନ୍ତୁ କାର୍ଯ୍ୟ ଶେଷ ହେବାର 3 ଦିନ ପୂର୍ବରୁ A କାର୍ଯ୍ୟ ଛାଡ଼ିଦିଏ । ଯଦି ସମ୍ପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟ ପାଇଁ ମୋଟ ମଜୁରୀ 5,400 ଟଙ୍କା ପ୍ରଦାନ କରାଯାଏ, ତେବେ A ର ଭାଗ କେତେ ଟଙ୍କା ହେବ?",
+          "options": [
+            "Rs. 2,160",
+            "Rs. 2,400",
+            "Rs. 2,700",
+            "Rs. 3,240"
+          ],
+          "explanation": "ମୋଟ କାର୍ଯ୍ୟ = LCM(12, 18) = 36 ୟୁନିଟ୍ ।\nA ର ଦକ୍ଷତା = 36 / 12 = 3 ୟୁନିଟ୍/ଦିନ ।\nB ର ଦକ୍ଷତା = 36 / 18 = 2 ୟୁନିଟ୍/ଦିନ ।\nମନେକର କାର୍ଯ୍ୟ ଶେଷ ହେବାକୁ T ଦିନ ସମୟ ଲାଗିଲା ।\nA (T - 3) ଦିନ ଏବଂ B T ଦିନ କାର୍ଯ୍ୟ କଲା ।\nମୋଟ କାର୍ଯ୍ୟ = 3(T - 3) + 2T = 36\n=> 3T - 9 + 2T = 36\n=> 5T = 45\n=> T = 9 ଦିନ ।\nA ଦ୍ୱାରା କରାଯାଇଥିବା କାର୍ଯ୍ୟ = 3 × (9 - 3) = 18 ୟୁନିଟ୍ ।\nମଜୁରୀ ସମ୍ପାଦିତ କାର୍ଯ୍ୟର ଅନୁପାତରେ ବଣ୍ଟନ କରାଯାଏ ।\nA ର ଭାଗ = (18 / 36) × 5400 = Rs. 2,700 ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474183977-0",
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Pointing to a photograph of a woman, Rajesh said, 'Her mother's only son is my father.' How is the woman in the photograph related to Rajesh?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Paternal Aunt",
+        "Grandmother"
+      ],
+      "answer": 2,
+      "explanation": "The woman's mother's only son is the woman's brother. Rajesh says this brother is his father. Therefore, the woman is Rajesh's father's sister, which means she is his paternal aunt.",
+      "translations": {
+        "or": {
+          "question": "ଗୋଟିଏ ମହିଳାଙ୍କ ଫଟୋଚିତ୍ରକୁ ଦେଖାଇ ରାଜେଶ କହିଲେ, 'ତାଙ୍କ ମାଆଙ୍କର ଏକମାତ୍ର ପୁଅ ମୋର ବାପା ଅଟନ୍ତି।' ଫଟୋଚିତ୍ରରେ ଥିବା ମହିଳା ଜଣକ ରାଜେଶଙ୍କର କ'ଣ ହେବେ?",
+          "options": [
+            "ମାଆ",
+            "ଭଉଣୀ",
+            "ପିଉସୀ",
+            "ଜେଜେମାଆ"
+          ],
+          "explanation": "ମହିଳାଙ୍କ ମାଆଙ୍କର ଏକମାତ୍ର ପୁଅ ହେଉଛନ୍ତି ଉକ୍ତ ମହିଳାଙ୍କ ନିଜ ଭାଇ। ରାଜେଶଙ୍କ କହିବା ଅନୁଯାୟୀ ସେହି ଭାଇ ତାଙ୍କ ବାପା ଅଟନ୍ତି। ତେଣୁ ସେହି ମହିଳା ଜଣକ ରାଜେଶଙ୍କ ବାପାଙ୍କ ଭଉଣୀ ଅର୍ଥାତ୍ ରାଜେଶଙ୍କ ପିଉସୀ ଅଟନ୍ତି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474183977-1",
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s) from the statements.\n\nStatements:\n1. Some pens are pencils.\n2. All pencils are erasers.\n3. No eraser is a ruler.\n\nConclusions:\nI. No ruler is a pencil.\nII. Some pens are erasers.\nIII. Some rulers are pens.",
+      "options": [
+        "Only conclusions I and II follow",
+        "Only conclusions II and III follow",
+        "Only conclusion I follows",
+        "All conclusions I, II and III follow"
+      ],
+      "answer": 0,
+      "explanation": "Since all pencils are erasers and no eraser is a ruler, no pencil can be a ruler (and hence no ruler is a pencil); thus Conclusion I follows. Since some pens are pencils and all pencils are erasers, those pens that are pencils must be erasers; thus Conclusion II follows. There is no positive relationship given between rulers and pens, so Conclusion III does not necessarily follow. Hence, only conclusions I and II follow.",
+      "translations": {
+        "or": {
+          "question": "ପ୍ରଦତ୍ତ ବିବୃତି ଏବଂ ସିଦ୍ଧାନ୍ତଗୁଡ଼ିକୁ ଭଲଭାବେ ପଢ଼ନ୍ତୁ। ବିବୃତିରେ ଥିବା ସୂଚନା ସତ୍ୟ ବୋଲି ଧରି ନେଇ ନିର୍ଣ୍ଣୟ କରନ୍ତୁ ଯେ କେଉଁ ସିଦ୍ଧାନ୍ତଟି/ଗୁଡ଼ିକ ଯୁକ୍ତିଯୁକ୍ତ ଭାବେ ଅନୁସରଣ କରେ/କରନ୍ତି।\n\nବିବୃତି:\n1. କିଛି କଲମ ହେଉଛି ପେନସିଲ୍।\n2. ସମସ୍ତ ପେନସିଲ୍ ହେଉଛି ରବର।\n3. କୌଣସି ରବର ସ୍କେଲ୍ ନୁହେଁ।\n\nସିଦ୍ଧାନ୍ତ:\nI. କୌଣସି ସ୍କେଲ୍ ପେନସିଲ୍ ନୁହେଁ।\nII. କିଛି କଲମ ରବର ଅଟେ।\nIII. କିଛି ସ୍କେଲ୍ କଲମ ଅଟେ।",
+          "options": [
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଏବଂ II ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ II ଏବଂ III ଅନୁସରଣ କରେ",
+            "କେବଳ ସିଦ୍ଧାନ୍ତ I ଅନୁସରଣ କରେ",
+            "ସମସ୍ତ ସିଦ୍ଧାନ୍ତ I, II ଏବଂ III ଅନୁସରଣ କରେ"
+          ],
+          "explanation": "ଯେହେତୁ ସମସ୍ତ ପେନସିଲ୍ ରବର ଅଟନ୍ତି ଏବଂ କୌଣସି ରବର ସ୍କେଲ୍ ନୁହେଁ, ତେଣୁ କୌଣସି ପେନସିଲ୍ ମଧ୍ୟ ସ୍କେଲ୍ ହୋଇପାରିବ ନାହିଁ (ଅର୍ଥାତ୍ କୌଣସି ସ୍କେଲ୍ ପେନସିଲ୍ ନୁହେଁ); ତେଣୁ ସିଦ୍ଧାନ୍ତ I ଅନୁସରଣ କରେ। କିଛି କଲମ ପେନସିଲ୍ ଏବଂ ସମସ୍ତ ପେନସିଲ୍ ରବର ହୋଇଥିବାରୁ, କିଛି କଲମ ନିଶ୍ଚିତ ଭାବେ ରବର ହେବ; ତେଣୁ ସିଦ୍ଧାନ୍ତ II ମଧ୍ୟ ଅନୁସରଣ କରେ। କିନ୍ତୁ ସ୍କେଲ୍ ଏବଂ କଲମ ମଧ୍ୟରେ କୌଣସି ନିଶ୍ଚିତ ସମ୍ପର୍କ ନଥିବାରୁ ସିଦ୍ଧାନ୍ତ III ଅନୁସରଣ କରେ ନାହିଁ। ତେଣୁ କେବଳ ସିଦ୍ଧାନ୍ତ I ଏବଂ II ଅନୁସରଣ କରେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474306388-0",
+      "section": "General Knowledge",
+      "topic": "Odisha Geography",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Which of the following rivers originates from the Gonasika hills in the Keonjhar district of Odisha?",
+      "options": [
+        "Brahmani",
+        "Baitarani",
+        "Budhabalanga",
+        "Subarnarekha"
+      ],
+      "answer": 1,
+      "explanation": "The Baitarani River originates from the Gonasika (Guptaganga) hills in the Keonjhar district of Odisha. The Brahmani is formed by the confluence of the Sankh and South Koel rivers at Vedvyas, Budhabalanga originates from the Similipal hills, and Subarnarekha originates in Jharkhand.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁ ନଦୀ ଓଡ଼ିଶାର କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି?",
+          "options": [
+            "ବ୍ରାହ୍ମଣୀ",
+            "ବୈତରଣୀ",
+            "ବୁଢ଼ାବଳଙ୍ଗ",
+            "ସୁବର୍ଣ୍ଣରେଖା"
+          ],
+          "explanation": "ବୈତରଣୀ ନଦୀ କେନ୍ଦୁଝର ଜିଲ୍ଲାର ଗୋନାସିକା (ଗୁପ୍ତଗଙ୍ଗା) ପାହାଡ଼ରୁ ଉତ୍ପନ୍ନ ହୋଇଛି। ବ୍ରାହ୍ମଣୀ ନଦୀ ବେଦବ୍ୟାସ ଠାରେ ଶଙ୍ଖ ଓ ଦକ୍ଷିଣ କୋଏଲ ନଦୀର ମିଳନରୁ ସୃଷ୍ଟି, ବୁଢ଼ାବଳଙ୍ଗ ଶିମିଳିପାଳରୁ ଏବଂ ସୁବର୍ଣ୍ଣରେଖା ଝାଡ଼ଖଣ୍ଡରୁ ଉତ୍ପନ୍ନ ହୋଇଛି।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474306388-1",
+      "section": "General Knowledge",
+      "topic": "Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "The historic 'Eram Massacre', famously known as the 'Rakta Tirtha' (Blood Pilgrimage) of Odisha, took place in which present-day district?",
+      "options": [
+        "Balasore",
+        "Bhadrak",
+        "Jagatsinghpur",
+        "Kendrapara"
+      ],
+      "answer": 1,
+      "explanation": "On 28 September 1942, during the Quit India Movement, British police opened fire on an unarmed gathering of freedom fighters at Eram, killing 29 people and injuring many. Eram is situated in the Basudevpur block of present-day Bhadrak district (which was carved out of Balasore district in 1993).",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ଓଡ଼ିଶାର 'ରକ୍ତତୀର୍ଥ' ଭାବରେ ପ୍ରସିଦ୍ଧ ଐତିହାସିକ 'ଇରମ ଗୁଳିକାଣ୍ଡ' ବର୍ତ୍ତମାନର କେଉଁ ଜିଲ୍ଲାରେ ଘଟିଥିଲା?",
+          "options": [
+            "ବାଲେଶ୍ୱର",
+            "ଭଦ୍ରକ",
+            "ଜଗତସିଂହପୁର",
+            "କେନ୍ଦ୍ରାପଡ଼ା"
+          ],
+          "explanation": "୨୮ ସେପ୍ଟେମ୍ବର ୧୯୪୨ ରେ ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ସମୟରେ ବ୍ରିଟିଶ ପୋଲିସ ଦ୍ୱାରା ଇରମ ଠାରେ ନିରୀହ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀଙ୍କ ଉପରକୁ ଗୁଳିଚାଳନା କରାଯାଇଥିଲା, ଯେଉଁଥିରେ ୨୯ ଜଣ ସହିଦ ହୋଇଥିଲେ। ଏହି ଇରମ ବର୍ତ୍ତମାନ ଭଦ୍ରକ ଜିଲ୍ଲାର ବାସୁଦେବପୁର ବ୍ଲକରେ ଅବସ୍ଥିତ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474409767-0",
+      "section": "Odisha GK",
+      "topic": "Odisha Modern History & Personalities",
+      "difficulty": "medium",
+      "source": "ai",
+      "question": "Who was the first woman to be elected as a member of the Odisha Legislative Assembly in 1937?",
+      "options": [
+        "Rama Devi Choudhury",
+        "Sarala Devi",
+        "Malati Choudhury",
+        "Annapurna Maharana"
+      ],
+      "answer": 1,
+      "explanation": "Sarala Devi was the first woman elected to the Odisha Legislative Assembly in the 1937 elections from the Cuttack Sadr constituency. She was also a prominent freedom fighter, feminist leader, and writer.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "୧୯୩୭ ମସିହାରେ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ସଦସ୍ୟା କିଏ ଥିଲେ?",
+          "options": [
+            "ରମାଦେବୀ ଚୌଧୁରୀ",
+            "ସାରଳା ଦେବୀ",
+            "ମାଳତୀ ଚୌଧୁରୀ",
+            "ଅନ୍ନପୂର୍ଣ୍ଣା ମହାରଣା"
+          ],
+          "explanation": "ସାରଳା ଦେବୀ ୧୯୩୭ ନିର୍ବାଚନରେ କଟକ ସଦର ଆସନରୁ ଓଡ଼ିଶା ବିଧାନସଭାକୁ ନିର୍ବାଚିତ ହୋଇଥିବା ପ୍ରଥମ ମହିଳା ଥିଲେ। ସେ ଜଣେ ବିଶିଷ୍ଟ ସ୍ୱାଧୀନତା ସଂଗ୍ରାମୀ, ନାରୀବାଦୀ ନେତ୍ରୀ ତଥା ଲେଖିକା ମଧ୍ୟ ଥିଲେ।"
+        }
+      }
+    },
+    {
+      "id": "osssc-ai-1792474409767-1",
+      "section": "Odisha GK",
+      "topic": "Medieval Odisha History",
+      "difficulty": "hard",
+      "source": "ai",
+      "question": "Which ruler of the Eastern Ganga dynasty shifted the imperial capital from Kalinganagar to Abhinava Baranasi Kataka (modern-day Cuttack)?",
+      "options": [
+        "Anantavarman Chodaganga Deva",
+        "Anangabhima Deva III",
+        "Narasimha Deva I",
+        "Bhanu Deva I"
+      ],
+      "answer": 1,
+      "explanation": "King Anangabhima Deva III (reigned c. 1211–1238 CE) shifted the imperial capital of the Eastern Ganga empire from Kalinganagar (near modern Mukhalingam) to Abhinava Baranasi Kataka (modern Cuttack) in the early 13th century.",
+      "status": "pending",
+      "translations": {
+        "or": {
+          "question": "ପୂର୍ବ ଗଙ୍ଗ ବଂଶର କେଉଁ ଶାସକ ନିଜ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ 'ଅଭିନବ ବାରାଣସୀ କଟକ' (ଆଧୁନିକ କଟକ)କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ?",
+          "options": [
+            "ଅନନ୍ତବର୍ମନ ଚୋଡ଼ଗଙ୍ଗ ଦେବ",
+            "ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବ",
+            "ପ୍ରଥମ ନରସିଂହ ଦେବ",
+            "ପ୍ରଥମ ଭାନୁ ଦେବ"
+          ],
+          "explanation": "ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ ରାଜା ତୃତୀୟ ଅନଙ୍ଗଭୀମ ଦେବ (ରାଜତ୍ୱ କାଳ ପ୍ରାୟ ୧୨୧୧-୧୨୩୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ) ଗଙ୍ଗ ସାମ୍ରାଜ୍ୟର ରାଜଧାନୀକୁ କଳିଙ୍ଗନଗରରୁ ଅଭିନବ ବାରାଣସୀ କଟକ (ଆଧୁନିକ କଟକ)କୁ ସ୍ଥାନାନ୍ତରିତ କରିଥିଲେ।"
         }
       }
     }
